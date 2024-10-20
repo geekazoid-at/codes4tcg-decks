@@ -1,0 +1,35 @@
+Pokémon: 9
+4 Gimmighoul PAR 88
+1 Origin Forme Palkia V ASR 39
+1 Fezandipiti ex SFA 38
+1 Bibarel BRS 121
+1 Origin Forme Palkia VSTAR ASR 40
+1 Radiant Greninja ASR 46
+4 Gholdengo ex PAR 139
+1 Bidoof CRZ 111
+
+Trainer: 18
+1 Hisuian Heavy Ball ASR 146
+4 Buddy-Buddy Poffin TEF 144
+2 PokéStop PGO 68
+1 Super Rod PAL 188
+4 Superior Energy Retrieval PAL 277
+3 Ciphermaniac's Codebreaking TEF 145
+4 Nest Ball SVI 181
+3 Earthen Vessel PAR 163
+1 Prime Catcher TEF 157
+1 Night Stretcher SFA 61
+1 Switch SVI 194
+2 Ultra Ball SVI 196
+2 Iono PAL 185
+1 Professor Turo's Scenario PAR 171
+2 Irida ASR 147
+1 Energy Retrieval SVI 171
+1 Canceling Cologne ASR 136
+2 Boss's Orders PAL 172
+
+Energy: 2
+7 Basic {W} Energy CIN 124
+3 Basic {M} Energy SUM 163
+
+Total Cards: 60

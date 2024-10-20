@@ -1,0 +1,37 @@
+Pokémon: 18
+3 Dreepy TWM 128
+3 Drakloak TWM 129
+2 Dragapult ex TWM 130
+2 Charcadet SVLS 5
+2 Armarouge SVI 41
+2 Iron Thorns ex TWM 77
+1 Munkidori TWM 95
+1 Radiant Charizard CRZ 20
+1 Fezandipiti ex SFA 38
+1 Manaphy BRS 41
+
+Trainer: 34
+4 Arven OBF 186
+3 Iono PAL 185
+1 Boss's Orders PAL 172
+1 Thorton LOR 167
+3 Buddy-Buddy Poffin TEF 144
+3 Nest Ball SVI 181
+2 Ultra Ball SVI 196
+2 Earthen Vessel PAR 163
+2 Counter Catcher PAR 160
+1 Hisuian Heavy Ball ASR 146
+1 Switch SVI 194
+1 Night Stretcher SFA 61
+1 Super Rod PAL 188
+1 Unfair Stamp TWM 165
+2 Technical Machine: Evolution PAR 178
+1 Technical Machine: Devolution PAR 177
+1 Rescue Board TEF 159
+1 Future Booster Energy Capsule TEF 149
+3 Magma Basin BRS 144
+
+Energy: 8
+3 Luminous Energy PAL 191
+3 Fire Energy SVE 10
+2 Psychic Energy SVE 13
