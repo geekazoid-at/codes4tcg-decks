@@ -1,0 +1,36 @@
+Pokémon: 9
+2 Slowpoke PGO 19
+2 Bibarel BRS 121
+1 Flareon ex PRE 14
+2 Eevee PRE 74
+3 Leafeon ex PRE 6
+1 Budew PRE 4
+2 Slowbro SVI 43
+2 Bidoof CRZ 111
+2 Eevee ex PRE 75
+
+Trainer: 16
+4 Buddy-Buddy Poffin PRE 101
+1 Super Rod PAL 188
+1 Tera Orb SSP 189
+1 Rigid Band MEW 165
+2 Boss's Orders PAL 172
+1 Crispin PRE 105
+1 Earthen Vessel PAR 163 PH
+1 Hero's Cape TEF 152
+2 Switch SVI 194
+4 Ultra Ball SVI 196
+1 Night Stretcher SFA 61
+4 Iono PAL 185
+2 Irida ASR 147
+2 Technical Machine: Turbo Energize PAR 179
+1 Glass Trumpet SCR 135
+4 Arven OBF 186
+
+Energy: 4
+3 Basic {R} Energy BUS 167
+4 Basic {G} Energy GRI 167
+1 Basic {L} Energy GRI 168
+3 Basic {W} Energy CIN 124
+
+Total Cards: 60

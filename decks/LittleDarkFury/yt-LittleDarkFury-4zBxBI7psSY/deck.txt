@@ -1,0 +1,35 @@
+Pokémon: 9
+2 Munkidori TWM 95
+2 Snorunt SIT 41
+4 Eevee MEW 133
+2 Froslass TWM 53
+1 Cleffa OBF 80
+2 Budew PRE 4
+2 Glaceon ex PRE 26
+1 Vaporeon ex PRE 23
+1 Radiant Alakazam SIT 59
+
+Trainer: 16
+1 Boss's Orders PAL 172
+4 Buddy-Buddy Poffin TEF 144
+1 Crispin SCR 133
+1 Rescue Board TEF 159
+2 Artazon PAL 171
+2 Nest Ball SVI 181
+2 Earthen Vessel PAR 163
+3 Ultra Ball SVI 196
+2 Night Stretcher SFA 61
+1 Technical Machine: Devolution PAR 177
+4 Iono PAL 185
+2 Counter Catcher PAR 160
+1 Glass Trumpet SCR 135
+2 Irida ASR 147
+4 Arven SVI 166
+1 Sparkling Crystal SCR 142
+
+Energy: 3
+4 Basic {D} Energy BUS 168
+2 Basic {G} Energy GRI 167
+4 Basic {W} Energy CIN 124
+
+Total Cards: 60
