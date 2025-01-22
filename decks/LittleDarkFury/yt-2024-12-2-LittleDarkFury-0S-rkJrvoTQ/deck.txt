@@ -1,7 +1,7 @@
 Pokémon: 10
 3 Archaludon ex SSP 130
 4 Duraludon SCR 106
-2 Bibarel BSR 121
+2 Bibarel BRS 121
 1 Cleffa OBF 80
 1 Radiant Greninja ASR 46
 1 Skwovet SVI 151
@@ -14,7 +14,7 @@ Trainer: 16
 2 Boss's Orders PAL 172
 2 Buddy-Buddy Poffin TEF 144
 1 Scoop Up Cyclone TWM 162
-1 Super Rod PAL188
+1 Super Rod PAL 188
 1 Artazon PAL 171
 4 Nest Ball SVI 181
 3 Earthen Vessel PAR 163

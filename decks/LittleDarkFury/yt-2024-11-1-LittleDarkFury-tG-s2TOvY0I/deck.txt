@@ -11,7 +11,7 @@ Trainer: 25
 1 Erika's Invitation MEW 160
 2 Gravity Gemstone SCR 137
 2 Miss Fortune Sisters LOR 164
-1 Xerosic's Machinations SFA64
+1 Xerosic's Machinations SFA 64
 1 Hand Trimmer TEF 150
 2 Super Rod PAL 188
 2 Night Stretcher SFA 61

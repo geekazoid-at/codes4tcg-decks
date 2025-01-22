@@ -1,12 +1,9 @@
-Pokémon: 16
 4 Iron Thorns ex TWM 77
 3 Origin Forme Dialga V ASR 113
 2 Origin Forme Dialga VSTAR ASR 114
 3 Beldum TEF 113
 3 Metang TEF 114
 1 Fezandipiti ex SFA 38
-
-Trainer: 29
 4 Arven OBF 186
 3 Iono PAL 185
 2 Boss's Orders PAL 172
@@ -23,7 +20,5 @@ Trainer: 29
 2 Technical Machine: Evolution PAR 178
 1 Future Booster Energy Capsule TEF 149
 1 Temple of Sinnoh ASR 155
-
-Energy: 15
 13 Metal Energy SVE 16
 2 Lightning Energy SVE 12

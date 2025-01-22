@@ -116,6 +116,23 @@ const main = async () => {
       return;
     }
 
+    deck = deck.replaceAll("BSR", "BRS");
+
+    // Normalize the deck text
+    deck = deck
+      .split("\n")
+      .map((line) => {
+        if (!/^\d/.test(line)) {
+          return line;
+        }
+
+        // Check for and fix the Paf183 or PAF183 situation
+        return line.replace(/([A-Za-z]+)(\d+)/g, (match, p1, p2) => {
+          return `${p1.toUpperCase()} ${p2}`;
+        });
+      })
+      .join("\n");
+
     const date = new Date(publishedAt);
     const formattedDate = `${date.getFullYear()}-${
       date.getMonth() + 1 < 10 ? "0" : ""

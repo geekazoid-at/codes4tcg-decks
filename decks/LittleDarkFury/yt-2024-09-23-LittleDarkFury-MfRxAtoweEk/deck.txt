@@ -10,7 +10,7 @@ Pokémon: 8
 
 Trainer: 18
 2 Boss's Orders PAL 172
-1 Lana's Aid TWM155
+1 Lana's Aid TWM 155
 1 Hisuian Heavy Ball ASR 146
 4 Buddy-Buddy Poffin TEF 144
 2 Professor's Research SVI 190

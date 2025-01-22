@@ -1,10 +1,7 @@
-Pokémon: 4
 4 Kyurem V LOR 48
 1 Mew ex MEW 151
 4 Kyurem VMAX LOR 49
 1 Radiant Greninja ASR 46
-
-Trainer: 12
 1 Boss's Orders PAL 172
 1 Hisuian Heavy Ball ASR 146
 2 Super Rod PAL 188
@@ -17,8 +14,4 @@ Trainer: 12
 3 Powerglass SFA 63
 4 Irida ASR 147
 2 Arven SVI 166
-
-Energy: 1
 26 Basic {W} Energy CIN 124
-
-Total Cards: 60

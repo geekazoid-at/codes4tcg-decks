@@ -1,4 +1,3 @@
-Pokémon: 7
 1 Rabsca TEF 24
 4 Thwackey TWM 15
 2 Dipplin TWM 18
@@ -6,8 +5,6 @@ Pokémon: 7
 4 Grookey TWM 14
 4 Applin TWM 17
 2 Dipplin TWM 18 PH
-
-Trainer: 17
 2 Vitality Band SVI 197
 1 Defiance Band SVI 169
 3 Ultra Ball PLF 122
@@ -25,8 +22,4 @@ Trainer: 17
 1 Switch MEW 206
 2 Professor's Research PR-SW 152
 4 Festival Grounds TWM 149
-
-Energy: 1
 7 Basic {G} Energy GRI 167
-
-Total Cards: 60

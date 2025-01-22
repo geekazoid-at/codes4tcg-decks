@@ -1,17 +1,17 @@
 Pokémon: 20
-4 Crabrawler SV7 59
-4 Crabominable SV7 24
+4 Crabrawler SV 7 59
+4 Crabominable SV 7 24
 3 Ralts ASR 60
 3 Kirlia SIT 68
 1 Gallade ASR 62
 1 Espurr SIT 81
 1 Meowstic SIT 82
-1 Veluza SV7 27
+1 Veluza SV 7 27
 1 Cleffa OBF 80
 1 Manaphy BRS 41
 
 Trainer: 32
-4 Kofu SV7 99
+4 Kofu SV 7 99
 3 Iono PAF 80
 2 Professor's Research PAF 87
 2 Boss's Orders PAL 172
