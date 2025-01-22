@@ -1,0 +1,30 @@
+Pokémon: 3
+3 Mimikyu PAL 97
+4 Cornerstone Mask Ogerpon ex TWM 112
+
+Trainer: 18
+3 Boss's Orders PAL 172
+3 Switch Cart ASR 154
+4 Crushing Hammer SVI 168
+1 Bianca's Devotion TEF 142
+2 Lost City LOR 161
+1 Eri TEF 146
+1 Morty's Conviction TEF 155
+3 Nest Ball SVI 181
+1 Hero's Cape TEF 152
+1 Grant ASR 144
+3 Bravery Charm PAL 173
+3 Pokégear 3.0 SVI 186
+1 Technical Machine: Devolution PAR 177
+1 Fighting Au Lait PAL 181
+4 Iono PAL 185
+4 Colress's Experiment LOR 155
+2 Penny SVI 183
+1 Earthen Vessel PAR 163
+
+Energy: 3
+7 Basic {F} Energy GRI 169
+4 Double Turbo Energy BRS 151
+3 Basic {P} Energy SUM 162
+
+Total Cards: 60

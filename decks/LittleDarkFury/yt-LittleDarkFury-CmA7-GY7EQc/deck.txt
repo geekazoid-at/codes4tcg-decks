@@ -1,0 +1,36 @@
+Pokémon: 12
+3 Finizen TWM 59
+2 Bibarel BRS 121
+2 Gastly LOR 64
+2 Gengar PAF 57
+1 Finizen OBF 60
+1 Manaphy BRS 41
+1 Skwovet PAF 205
+3 Palafin TWM 60
+1 Abra TWM 80
+2 Bidoof CRZ 111
+3 Palafin ex TWM 61
+1 Haunter TEF 103
+
+Trainer: 16
+2 Boss's Orders PAL 172
+4 Buddy-Buddy Poffin TEF 144
+1 Lost Vacuum LOR 162
+2 Super Rod PAL 188
+1 Artazon PAL 171
+2 Rare Candy SVI 191
+1 Choice Belt ASR 211
+1 Prime Catcher TEF 157
+1 Defiance Band SVI 169
+2 Switch SVI 194
+4 Ultra Ball SVI 196
+1 Technical Machine: Devolution PAR 177
+4 Iono PAL 185
+1 Counter Catcher PAR 160
+4 Irida ASR 147
+1 Rescue Board TEF 159
+
+Energy: 1
+6 Basic {W} Energy CIN 124
+
+Total Cards: 60

@@ -1,0 +1,32 @@
+Pokémon: 9
+3 Aggron TWM 122
+4 Aron TWM 120
+1 Lairon TWM 121
+4 Dodrio MEW 85
+1 Fezandipiti ex SFA 38
+1 Manaphy BRS 41
+1 Gengar LOR 66
+1 Radiant Alakazam SIT 59
+4 Doduo MEW 84
+
+Trainer: 14
+1 Prime Catcher TEF 157
+2 Boss's Orders PAL 172
+4 Buddy-Buddy Poffin TEF 144
+1 Counter Catcher PAR 160
+4 Iono PAF 80 PH
+1 Nest Ball PAF 84 PH
+2 Gapejaw Bog ASR 142
+4 Damage Pump LOR 156
+1 Super Rod PAL 188
+4 Rare Candy PAF 89
+1 Night Stretcher SFA 61
+3 Professor's Research SVI 189 PH
+4 Ultra Ball PAF 91
+1 Switch SVI 194 PH
+
+Energy: 2
+2 Luminous Energy PAL 191
+5 Basic {M} Energy SUM 163
+
+Total Cards: 60

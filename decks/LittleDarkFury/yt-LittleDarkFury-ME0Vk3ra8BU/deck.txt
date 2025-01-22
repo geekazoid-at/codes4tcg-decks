@@ -1,0 +1,30 @@
+Pokémon: 9
+3 Pawmot ex OBF 73
+2 Bibarel BRS 121
+1 Pawmo SVI 75
+1 Cleffa PAF 150
+1 Fezandipiti ex SFA 84
+1 Bloodmoon Ursaluna ex TWM 216
+4 Pawmi SVI 74
+1 Manaphy BRS 41
+2 Bidoof CRZ 111
+
+Trainer: 13
+2 Boss's Orders PAL 172
+4 Buddy-Buddy Poffin TEF 144
+1 Super Rod PAL 188
+4 Rare Candy SVI 191
+2 Feather Ball ASR 141
+3 Electric Generator SVI 170
+1 Prime Catcher TEF 157
+2 Night Stretcher SFA 61
+1 Switch SVI 194
+3 Ultra Ball SVI 196
+2 Powerglass SFA 63
+4 Iono PAL 185
+4 Arven SVI 166
+
+Energy: 1
+11 Basic {L} Energy GRI 168
+
+Total Cards: 60

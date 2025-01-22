@@ -1,0 +1,37 @@
+Pokémon: 9
+3 Scovillain ex TEF 22
+4 Capsakid SVI 28
+1 Bidoof BRS 120
+1 Skwovet SVI 151
+1 Manaphy BRS 41
+2 Bibarel BRS 121
+1 Bidoof CRZ 111
+1 Radiant Tsareena SIT 16
+1 Bloodmoon Ursaluna ex TWM 141
+
+Trainer: 20
+4 Buddy-Buddy Poffin TEF 144
+1 Lost Vacuum LOR 162
+1 Temple of Sinnoh ASR 155
+2 Judge SVI 176
+1 Unfair Stamp TWM 165
+1 Super Rod PAL 188
+2 Boss's Orders PAL 172
+2 Eri TEF 146
+1 Roxanne ASR 150
+2 Switch SVI 194
+4 Ultra Ball SVI 196
+3 Iono PAF 80
+1 Technical Machine: Devolution PAR 177
+1 Counter Catcher PAR 160
+1 Technical Machine: Turbo Energize PAR 179
+1 Rigid Band MEW 165
+4 Arven OBF 186
+1 Miss Fortune Sisters LOR 164
+2 Bug Catching Set TWM 143
+1 Handheld Fan TWM 150
+
+Energy: 1
+9 Basic {G} Energy GRI 167
+
+Total Cards: 60

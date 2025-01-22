@@ -1,0 +1,28 @@
+Pokémon: 8
+3 Hydrapple ex SCR 14
+1 Dipplin TWM 18
+1 Mew ex MEW 151
+4 Teal Mask Ogerpon ex TWM 25
+1 Cleffa OBF 80
+3 Applin SCR 12
+1 Kricketot CRZ 10
+1 Kricketune ASR 10
+
+Trainer: 11
+4 Professor's Research SVALT 11
+1 Superior Energy Retrieval PAL 189
+4 Bug Catching Set TWM 143
+4 Rare Candy SVI 191
+4 Nest Ball PAF 84
+2 Earthen Vessel PAR 163
+1 Super Rod PAL 188
+2 Area Zero Underdepths SCR 131
+3 Boss's Orders PAL 172
+3 Iono PAF 80
+2 Ultra Ball SVI 196
+
+Energy: 2
+14 Basic {G} Energy GRI 167
+1 Legacy Energy TWM 167
+
+Total Cards: 60

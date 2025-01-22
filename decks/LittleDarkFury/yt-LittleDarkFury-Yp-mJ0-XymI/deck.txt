@@ -1,0 +1,35 @@
+Pokémon: 18
+3 Duskull SFA 18
+2 Dusclops SFA 19
+2 Dusknoir SFA 20
+2 Zubat SIT 103
+2 Crobat SIT 105
+1 Pidgey OBF 162
+1 Pidgeot ex OBF 164
+1 Rotom V LOR 58
+1 Luxray PAL 71
+1 Fezandipiti ex SFA 38
+1 Bloodmoon Ursaluna ex TWM 141
+1 Manaphy BRS 41
+
+Trainer: 38
+4 Iono PAL 185
+2 Arven OBF 186
+1 Thorton LOR 167
+4 Night Stretcher SFA 61
+4 Nest Ball SVI 181
+4 Rare Candy SVI 191
+3 Trekking Shoes ASR 156
+3 Buddy-Buddy Poffin TEF 144
+3 Ultra Ball SVI 196
+1 Hisuian Heavy Ball ASR 146
+1 Counter Catcher PAR 160
+1 Switch SVI 194
+1 Prime Catcher TEF 157
+1 Lost Vacuum LOR 162
+1 Forest Seal Stone SIT 156
+1 Defiance Band SVI 169
+3 PokéStop PGO 68
+
+Energy: 4
+4 Reversal Energy PAL 192

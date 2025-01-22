@@ -1,0 +1,29 @@
+Pokémon: 8
+2 Ceruledge ex SSP 36
+2 Charcadet OBF 43
+1 Iron Bundle PAR 56
+4 Gholdengo ex PAR 139
+4 Gimmighoul SSP 97
+1 Radiant Greninja ASR 46
+1 Manaphy BRS 41
+1 Fezandipiti ex SFA 38
+
+Trainer: 11
+2 Boss's Orders PAL 172
+1 Hisuian Heavy Ball ASR 146
+4 Buddy-Buddy Poffin TEF 144
+2 PokéStop PGO 68
+2 Superior Energy Retrieval PAL 189
+3 Ciphermaniac's Codebreaking TEF 145
+2 Nest Ball SVI 181
+4 Earthen Vessel PAR 163
+2 Ultra Ball SVI 196
+3 Night Stretcher SFA 61
+2 Iono PAL 185
+
+Energy: 3
+8 Basic {R} Energy BUS 167
+1 Legacy Energy TWM 167
+8 Basic {M} Energy SUM 163
+
+Total Cards: 60

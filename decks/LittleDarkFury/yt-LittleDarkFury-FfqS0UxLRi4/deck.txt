@@ -1,0 +1,32 @@
+Pokémon: 8
+1 Bloodmoon Ursaluna ex TEF 141
+3 Dunsparce TEF 128
+3 Dudunsparce TEF 129
+4 Venonat MEW 48
+4 Snorunt SIT 41
+1 Dunsparce PAL 156
+3 Froslass TWM 53
+4 Venomoth MEW 49
+
+Trainer: 16
+1 Boss's Orders PAL 172
+4 Buddy-Buddy Poffin TEF 144
+1 Rescue Board TEF 159
+3 Bug Catching Set TWM 143
+1 Survival Brace TWM 164
+1 Enhanced Hammer TEF 148
+2 Super Rod PAL 188
+2 Artazon PAL 171
+1 Cynthia's Ambition BRS 138
+4 Arven SVI 167
+1 Technical Machine: Devolution PAR 177
+3 Iono PAL 185
+1 Technical Machine: Evolution PAR 178
+3 Counter Catcher PAR 160
+2 Arezu LOR 153
+1 Earthen Vessel PAR 163
+
+Energy: 1
+6 Basic {G} Energy GRI 167
+
+Total Cards: 60

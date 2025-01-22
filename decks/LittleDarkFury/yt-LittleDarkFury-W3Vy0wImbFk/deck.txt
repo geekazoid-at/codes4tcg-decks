@@ -1,0 +1,36 @@
+Pokémon: 10
+1 Dedenne-GX UNB 195
+1 Crobat V PR-SW 98
+1 Pheromosa-GX UPR 140
+4 Duskull CEC 83
+1 Bloodmoon Ursaluna ex TWM 216
+1 Mew ex PAF 232
+2 Squawkabilly ex PAL 264
+1 Oranguru HIF 113
+1 Kricketune V BST 142
+3 Dusclops SFA 19
+
+Trainer: 17
+1 Hisuian Heavy Ball ASR 146
+2 Carmine TWM 204
+4 Rescue Stretcher BUS 165
+2 Super Scoop Up BUS 166
+1 Scoop Up Cyclone TWM 162
+3 PokéStop PGO 68
+2 Rescue Carrier EVS 154
+1 Forest Seal Stone SIT 156
+3 Cram-o-matic FST 229
+4 Battle VIP Pass FST 225
+2 Ultra Ball PLF 122
+4 Trekking Shoes ASR 215
+2 Adventure Bag LOT 228
+1 Defiance Band SVI 169
+3 Acro Bike CES 178
+4 Quick Ball SSH 216
+2 Air Balloon SSH 213
+
+Energy: 2
+2 Double Turbo Energy ASR 216
+1 Beast Energy {*} FLI 117
+
+Total Cards: 60

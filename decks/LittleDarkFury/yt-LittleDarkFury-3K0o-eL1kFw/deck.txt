@@ -1,0 +1,35 @@
+Pokémon: 10
+1 Bloodmoon Ursaluna ex TWM 141
+2 Bibarel BRS 121
+1 Luxray PAL 71
+3 Poliwrath TWM 43
+1 Manaphy BRS 41
+1 Skwovet SVI 151
+4 Poliwag LOR 30
+3 Poliwhirl TWM 42
+3 Bidoof CRZ 111
+2 Mimikyu PAL 97
+
+Trainer: 16
+2 Boss's Orders PAL 172
+4 Buddy-Buddy Poffin TEF 144
+1 Rescue Board TWM 225
+2 Super Rod PAL 188
+1 Artazon PAL 171
+3 Rare Candy SVI 191
+1 Maximum Belt TEF 154
+1 Switch SVI 194
+4 Ultra Ball SVI 196
+4 Iono PAL 185
+1 Technical Machine: Evolution PAR 178
+1 Defiance Band SVI 169
+1 Beach Court SVI 167
+1 Counter Catcher PAR 160
+1 Irida ASR 147
+4 Arven SVI 166
+
+Energy: 2
+4 Double Turbo Energy BRS 151
+3 Reversal Energy PAL 192
+
+Total Cards: 60

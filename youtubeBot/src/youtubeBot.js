@@ -3,7 +3,7 @@ const fs = require("fs");
 
 const API_KEY = "AIzaSyCrF9wwzpO0p-qK1JoaZXd2ZKlhMRfb714"; // Replace with your YouTube Data API key
 const CHANNEL_ID = "UCAhRWmekXLryJOZRUYR4seQ"; // Replace with the channel ID
-const MAX_RESULTS = 10;
+const MAX_RESULTS = 50;
 
 const getChannelName = async () => {
   try {
@@ -85,9 +85,8 @@ const main = async () => {
     const { videos, nextPageToken } = await getYouTubeVideos(pageToken);
     allVideos = allVideos.concat(videos);
     pageToken = nextPageToken;
-
     i++;
-  } while (pageToken && i < 1);
+  } while (pageToken && i < 5);
 
   console.log(`Channel: ${channelName}`);
   console.log(`Total YouTube videos fetched: ${allVideos.length}`);
@@ -101,14 +100,15 @@ const main = async () => {
     const ii = deck.indexOf("Total Cards: 60");
     deck = deck.substring(0, ii > -1 ? ii + 15 : deck.length).trim();
 
-    if (!deck.includes("Pokémon:") && !deck.includes("Pokemon:")) {
-      console.log("No deck found");
-      return;
-    }
-
     console.log(`Title: ${name}`);
     console.log(`Published At: ${publishedAt}`);
     // console.log(`Deck: ${deck}`);
+
+    if (!deck.includes("Pokémon:") && !deck.includes("Pokemon:")) {
+      console.log("No deck found");
+      console.log("---------------------------------");
+      return;
+    }
 
     const deckId = `yt-${channelName}-${video.id}`;
     const dirName = deckId; //await generateDeckName(name, description, deck);
@@ -119,13 +119,28 @@ const main = async () => {
 
     fs.writeFileSync(`../decks/${channelName}/${dirName}/deck.txt`, deck);
 
+    const coverCards = [];
+
+    deck.split(/\r?\n/).forEach((line) => {
+      const [_, quantity, name, set, number] =
+        line.match(/(\d+) (.+?) ([A-Z\-]+) (\d+)?/) || [];
+
+      if (!name) {
+        return;
+      }
+
+      if (name.endsWith(" ex") || name.endsWith(" V")) {
+        coverCards.push(line.substring(line.indexOf(" ") + 1));
+      }
+    });
+
     const meta = {
       id: deckId,
       name: name,
       author: channelName,
       link: `https://www.youtube.com/watch?v=${video.id}`,
       publishedAt: new Date(publishedAt),
-      coverCards: [],
+      coverCards,
       tags: [],
       legalities: { standard: !description.includes("expanded") },
     };
@@ -134,41 +149,42 @@ const main = async () => {
       `../decks/${channelName}/${deckId}/meta.json`,
       JSON.stringify(meta, null, 2)
     );
+    console.log("---------------------------------");
   });
 };
 
 // AI
-const OpenAI = require("openai");
+// const OpenAI = require("openai");
 
-const openai = new OpenAI({
-  // apiKey: OPENAI_API_KEY,
-});
+// const openai = new OpenAI({
+//   // apiKey: OPENAI_API_KEY,
+// });
 
-async function generateDeckName(deckVideoTitle, deckDescription, deckList) {
-  console.log("wait");
+// async function generateDeckName(deckVideoTitle, deckDescription, deckList) {
+//   console.log("wait");
 
-  try {
-    const completion = await openai.chat.completions.create({
-      model: "gpt-4o-mini",
-      messages: [
-        {
-          role: "system",
-          content: fs.readFileSync("./src/prompt.txt", "utf8"),
-        },
-        {
-          role: "user",
-          content: `Title: ${deckVideoTitle}, Description: ${deckDescription}, Deck List: ${deckList}`,
-        },
-      ],
-    });
+//   try {
+//     const completion = await openai.chat.completions.create({
+//       model: "gpt-4o-mini",
+//       messages: [
+//         {
+//           role: "system",
+//           content: fs.readFileSync("./src/prompt.txt", "utf8"),
+//         },
+//         {
+//           role: "user",
+//           content: `Title: ${deckVideoTitle}, Description: ${deckDescription}, Deck List: ${deckList}`,
+//         },
+//       ],
+//     });
 
-    console.log("done");
-    const deckName = completion.choices[0].message.content.trim();
-    return deckName;
-  } catch (error) {
-    console.error("Error generating deck name:", error);
-    return null;
-  }
-}
+//     console.log("done");
+//     const deckName = completion.choices[0].message.content.trim();
+//     return deckName;
+//   } catch (error) {
+//     console.error("Error generating deck name:", error);
+//     return null;
+//   }
+// }
 
 main();

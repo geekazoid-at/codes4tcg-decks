@@ -1,0 +1,30 @@
+Pokémon: 6
+2 Koraidon SSP 116 PH
+4 Roaring Moon TEF 109
+1 Fezandipiti ex SFA 38
+4 Flutter Mane TEF 78
+2 Great Tusk TEF 97 PH
+1 Radiant Greninja ASR 46
+
+Trainer: 16
+1 Boss's Orders PAL 172
+1 Secret Box TWM 163
+3 PokéStop PGO 68
+1 Super Rod PAL 188
+1 Superior Energy Retrieval PAL 189
+4 Explorer's Guidance TEF 200
+4 Nest Ball SVI 181
+4 Earthen Vessel PAR 163
+1 Pal Pad SVI 182
+4 Ancient Booster Energy Capsule PAR 159
+3 Ultra Ball SVI 196
+3 Pokégear 3.0 SVI 186
+2 Night Stretcher SFA 61
+4 Professor Sada's Vitality PAR 170
+2 Counter Catcher PAR 160
+1 Switch Cart ASR 154
+
+Energy: 1
+7 Basic {D} Energy BUS 168
+
+Total Cards: 60

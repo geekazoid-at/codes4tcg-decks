@@ -1,0 +1,36 @@
+Pokémon: 23
+4 Slakoth PAL 160
+2 Vigoroth SSP 146
+2 Vigoroth PAL 161
+2 Slaking ex SSP 147
+1 Slaking PAL 162
+2 Bidoof BRS 120
+2 Bibarel BRS 121
+2 Fan Rotom SCR 118
+1 Skwovet SVI 151
+1 Fezandipiti ex SFA 38
+1 Manaphy BRS 41
+1 Bloodmoon Ursaluna ex TWM 141
+1 Farfetch'd TWM 132
+1 Jirachi PAR 126
+
+Trainer: 28
+4 Iono PAL 185
+4 Colress's Tenacity SFA 57
+2 Boss's Orders PAL 172
+4 Buddy-Buddy Poffin TEF 144
+4 Ultra Ball SVI 196
+1 Nest Ball SVI 181
+1 Counter Catcher PAR 160
+2 Defiance Band SVI 169
+1 Technical Machine: Evolution PAR 178
+1 Artazon PAL 171
+1 Town Store OBF 196
+1 Jamming Tower TWM 153
+1 Lost City LOR 161
+1 Grand Tree SCR 136
+
+Energy: 9
+4 Double Turbo Energy BRS 151
+4 Jet Energy PAL 190
+1 Reversal Energy PAL 192

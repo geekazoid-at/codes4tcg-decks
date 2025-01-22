@@ -1,0 +1,25 @@
+Pokémon: 7
+1 Zamazenta CRZ 97
+2 Beldum TEF 113
+4 Metang TEF 114
+4 Orthworm ex SCR 110
+2 Beldum SIT 117
+1 Radiant Greninja ASR 46
+
+Trainer: 11
+2 Boss's Orders PAL 172
+2 Buddy-Buddy Poffin TEF 144
+3 Professor's Research SVI 190
+4 Super Rod PAL 185
+4 Nest Ball SVI 181
+3 Ultra Ball SVI 196
+2 Bravery Charm PAL 173
+1 Deluxe Bomb SCR 134
+4 Iono PAL 185
+2 Full Metal Lab TEF 148
+3 Arven SVI 166
+
+Energy: 1
+16 Basic {M} Energy SUM 163
+
+Total Cards: 60

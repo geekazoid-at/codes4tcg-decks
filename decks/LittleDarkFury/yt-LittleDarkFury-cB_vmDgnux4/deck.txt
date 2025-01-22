@@ -1,0 +1,30 @@
+Pokémon: 7
+3 Munkidori TWM 95
+4 Hisuian Arcanine TWM 100
+2 Cleffa OBF 80
+4 Hisuian Growlithe LOR 83
+4 Snorunt SIT 41
+4 Froslass TWM 53
+1 Yveltal SFA 35
+
+Trainer: 15
+4 Buddy-Buddy Poffin TEF 144
+2 Super Rod PAL 188
+2 Artazon PAL 171
+2 Cynthia's Ambition BRS 138
+2 Nest Ball SVI 181
+1 Roxanne ASR 150
+2 Night Stretcher SFA 61
+3 Arven SVI 166
+3 Ultra Ball SVI 196
+2 Technical Machine: Devolution PAR 177
+2 Great Ball PAL 183
+4 Iono PAL 185
+1 Neutralization Zone SFA 60
+2 Counter Catcher PAR 160
+2 Arezu LOR 153
+
+Energy: 1
+4 Basic {D} Energy BUS 168
+
+Total Cards: 60

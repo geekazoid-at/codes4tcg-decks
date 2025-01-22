@@ -1,0 +1,30 @@
+Pokémon: 6
+4 Rabsca SSP 14
+2 Squawkabilly ex PAL 169
+4 Rellor TEF 23
+4 Fan Rotom SCR 118
+1 Radiant Greninja ASR 46
+1 Manaphy BRS 41
+
+Trainer: 16
+2 Boss's Orders PAL 172
+1 Lana's Aid TWM 155
+4 Carmine TWM 145
+3 Buddy-Buddy Poffin TEF 144
+2 Lost Vacuum LOR 162
+2 Professor's Research PR-SW 152
+1 Falkner PAL 180
+1 Secret Box TWM 163
+4 PokéStop PGO 68
+3 Super Rod PAL 188
+1 Nest Ball SVI 181
+3 Pal Pad SVI 182
+2 Ultra Ball SVI 196
+4 Trekking Shoes ASR 156
+4 Night Stretcher SFA 61
+1 Counter Catcher PAR 160
+
+Energy: 1
+6 Basic {G} Energy GRI 167
+
+Total Cards: 60

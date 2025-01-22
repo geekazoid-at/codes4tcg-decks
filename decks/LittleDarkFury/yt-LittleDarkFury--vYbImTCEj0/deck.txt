@@ -1,0 +1,33 @@
+Pokémon: 6
+1 Farigiraf ex TEF 108
+4 Blissey ex TWM 134
+2 Chansey MEW 113
+1 Girafarig TWM 83
+2 Chansey TWM 133
+3 Munkidori TWM 95
+
+Trainer: 17
+2 Professor's Research PAF 87
+2 Artazon PAL 171
+1 Rigid Band MEW 165
+2 Cheren's Care BRS 134
+2 Boss's Orders PAL 172
+4 Nest Ball PAF 84
+2 Earthen Vessel PAR 163
+1 Hero's Cape TEF 152
+1 Switch SVI 194
+1 Night Stretcher SFA 61
+1 Pal Pad SVI 182
+4 Ultra Ball SVI 196
+3 Pokégear 3.0 SVI 186
+4 Iono PAL 185
+1 Technical Machine: Devolution PAR 177
+4 Arven SVI 166
+1 Technical Machine: Turbo Energize PAR 179
+
+Energy: 3
+5 Basic {D} Energy BUS 168
+2 Basic {P} Energy SUM 162
+4 Double Turbo Energy BRS 151
+
+Total Cards: 60

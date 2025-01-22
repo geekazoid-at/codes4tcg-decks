@@ -1,0 +1,32 @@
+Pokémon: 7
+1 Rabsca TEF 24
+4 Thwackey TWM 15
+2 Dipplin TWM 18
+1 Rellor TEF 23
+4 Grookey TWM 14
+4 Applin TWM 17
+2 Dipplin TWM 18 PH
+
+Trainer: 17
+2 Vitality Band SVI 197
+1 Defiance Band SVI 169
+3 Ultra Ball PLF 122
+4 Buddy-Buddy Poffin TEF 144
+2 Super Rod PAL 276
+4 Iono PAL 269
+1 Technical Machine: Devolution PAR 177
+1 Cynthia's Ambition BRS 169
+1 Maximum Belt TEF 154
+1 Pal Pad SVI 182
+1 Counter Catcher PAR 264
+1 Kieran TWM 206
+4 Bug Catching Set TWM 143
+2 Boss's Orders RCL 189
+1 Switch MEW 206
+2 Professor's Research PR-SW 152
+4 Festival Grounds TWM 149
+
+Energy: 1
+7 Basic {G} Energy GRI 167
+
+Total Cards: 60

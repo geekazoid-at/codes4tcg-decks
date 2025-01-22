@@ -1,0 +1,29 @@
+Pokémon: 5
+2 Slither Wing SFA 26
+3 Koraidon TEF 119
+1 Radiant Greninja ASR 46
+4 Flutter Mane TEF 78
+4 Roaring Moon TEF 109
+
+Trainer: 15
+4 Explorer's Guidance TEF 147
+4 Earthen Vessel PAR 163
+4 Ancient Booster Energy Capsule TEF 140
+3 Ultra Ball SVI 196
+1 Penny SVI 183
+2 Super Rod PAL 188
+1 Superior Energy Retrieval PAL 189
+2 PokéStop PGO 68
+4 Professor Sada's Vitality PAR 170
+1 Pal Pad SVI 182
+1 Secret Box TWM 163
+2 Counter Catcher PAR 160
+4 Pokégear 3.0 SVI 186
+1 Boss's Orders PAL 172
+4 Nest Ball SVI 181
+
+Energy: 2
+7 Basic {D} Energy BUS 168
+1 Basic {F} Energy GRI 169
+
+Total Cards: 60

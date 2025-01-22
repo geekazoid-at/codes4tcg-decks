@@ -1,0 +1,47 @@
+Pokémon: 17
+2 Deino SSP 117
+2 Hydreigon ex SSP 240
+1 Kirlia PR-SW 271
+2 Pidgeot ex OBF 225
+1 Gardevoir-GX BUS 140
+1 Ditto {*} LOT 154
+1 Drakloak TWM 129
+1 Dreepy TWM 128
+1 Mew CEL 25
+2 Pidgey PAF 196
+1 Meganium LOT 8
+1 Chikorita LOT 6
+1 Bayleef LOT 7
+1 Ralts ASR 60
+1 Zweilous PAL 139
+1 Pidgeotto TEU 123
+1 Dragapult ex TWM 200
+
+Trainer: 17
+1 Hisuian Heavy Ball ASR 146
+4 Buddy-Buddy Poffin TWM 223
+1 Rescue Stretcher BUS 165
+1 Field Blower GRI 163
+2 Guzma BUS 143
+3 Rare Candy PLB 105
+1 Level Ball BST 181
+1 Cynthia UPR 148
+1 Thorton LOR 195
+4 Iono PAL 269
+1 Technical Machine: Evolution PAR 178
+2 Evolution Incense SSH 163
+1 Counter Catcher PAR 264
+1 Grand Tree SCR 136
+4 Arven SVI 249
+1 Ordinary Rod SSH 215
+1 Air Balloon SSH 213
+
+Energy: 6
+1 Basic {D} Energy BUS 168
+1 Basic {Y} Energy BUS 169
+2 Aurora Energy SSH 186
+2 Counter Energy CIN 122
+1 Super Boost Energy {*} UPR 136
+2 Basic {P} Energy SUM 162
+
+Total Cards: 60

@@ -1,0 +1,32 @@
+Pokémon: 6
+3 Scovillain ex TEF 22
+4 Snorunt SIT 41
+4 Froslass TWM 53
+2 Cleffa OBF 80
+3 Capsakid SVI 28
+1 Manaphy BRS 41
+
+Trainer: 18
+1 Rescue Board TEF 159
+4 Crushing Hammer SVI 168
+2 Eri TEF 146
+1 Rigid Band MEW 165
+1 Nest Ball SVI 181
+1 Roxanne ASR 150
+2 Earthen Vessel PAR 163
+2 Giovanni's Charisma MEW 161
+1 Night Stretcher SFA 61
+4 Iono PAL 185
+3 Ultra Ball SVI 196
+1 Hyper Aroma TWM 152
+1 Technical Machine: Devolution PAR 177
+2 Counter Catcher PAR 160
+2 Xerosic's Machinations SFA 64
+2 Arven OBF 186
+3 Irida ASR 147
+4 Buddy-Buddy Poffin TEF 144
+
+Energy: 1
+6 Basic {G} Energy GRI 167
+
+Total Cards: 60

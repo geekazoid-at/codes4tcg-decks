@@ -1,0 +1,26 @@
+Pokémon: 5
+3 Iron Crown ex TEF 81
+1 Mew ex MEW 151
+4 Teal Mask Ogerpon ex TWM 25
+1 Miraidon TEF 121
+3 Iron Leaves ex TEF 25
+
+Trainer: 13
+4 Switch Cart ASR 154
+4 Earthen Vessel PAR 163
+1 Superior Energy Retrieval PAL 189
+2 Future Booster Energy Capsule PAR 164
+3 Iono PAL 185
+1 Lost Vacuum LOR 162
+4 Professor's Research SVI 189
+1 Prime Catcher TEF 157
+4 Ultra Ball SVI 196
+2 Bug Catching Set TWM 143
+4 Nest Ball PAF 84
+3 Boss's Orders PAL 172
+2 Bravery Charm PAL 173
+
+Energy: 1
+13 Basic {G} Energy GRI 167
+
+Total Cards: 60

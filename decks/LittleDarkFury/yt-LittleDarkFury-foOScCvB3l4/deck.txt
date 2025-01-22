@@ -1,0 +1,38 @@
+Pokémon: 12
+3 Zoroark SFA 32
+2 Bibarel BRS 121
+1 Bloodmoon Ursaluna ex TWM 141
+1 Kleavor ASR 85
+3 Zorua SFA 31
+1 Skwovet SVI 151
+1 Bidoof BRS 120
+2 Scizor OBF 141
+1 Manaphy BRS 41
+1 Bidoof CRZ 111
+3 Scyther MEW 123
+1 Luxray PAL 71
+
+Trainer: 16
+4 Buddy-Buddy Poffin TEF 144
+1 Lost Vacuum LOR 162
+2 Super Rod PAL 188
+2 Accompanying Flute TWM 142
+1 Artazon PAF 76
+1 Cynthia's Ambition BRS 138 PH
+2 Boss's Orders PAL 172
+1 Nest Ball PAF 84
+1 Switch SVI 194
+1 Maximum Belt TEF 154
+1 Night Stretcher SFA 61
+4 Iono PAL 185
+1 Counter Catcher PAR 160
+4 Ultra Ball SVI 196
+1 Defiance Band SVI 169
+4 Arven OBF 186
+
+Energy: 3
+3 Double Turbo Energy BRS 151
+4 Reversal Energy PAL 192
+2 Basic {M} Energy SUM 163
+
+Total Cards: 60

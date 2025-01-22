@@ -1,0 +1,35 @@
+Pokémon: 9
+1 Rotom V LOR 58
+3 Greninja ex TWM 106
+3 Froslass TWM 53
+1 Greninja ex PR-SV 54
+1 Manaphy BRS 41
+4 Snorunt SIT 41
+1 Cleffa OBF 80
+1 Frogadier TWM 57
+4 Froakie OBF 56
+
+Trainer: 17
+3 Irida ASR 147
+1 Earthen Vessel PAR 163
+3 Ultra Ball SVI 196
+4 Rare Candy SVI 191
+3 Arven SVI 166
+1 Super Rod PAL 188
+3 Iono PAL 185
+1 Hyper Aroma TWM 152
+1 Technical Machine: Devolution PAR 177
+4 Buddy-Buddy Poffin TEF 144
+1 Forest Seal Stone SIT 156
+1 Collapsed Stadium LOR 215
+1 Counter Catcher PAR 160
+1 Professor Turo's Scenario PAR 171
+2 Boss's Orders PAL 172
+1 Switch SVI 191
+2 Nest Ball SVI 181
+
+Energy: 2
+2 Double Turbo Energy BRS 151
+6 Basic {W} Energy CIN 124
+
+Total Cards: 60

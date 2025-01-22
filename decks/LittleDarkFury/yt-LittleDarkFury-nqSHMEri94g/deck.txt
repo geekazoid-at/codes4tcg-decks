@@ -1,0 +1,31 @@
+Pokémon: 13
+4 Gimmighoul PAR 88
+4 Gholdengo ex PAR 139
+1 Origin Forme Palkia V ASR 39
+1 Origin Forme Palkia VSTAR ASR 40
+1 Fezandipiti ex SFA 38
+1 Manaphy BRS 41
+1 Radiant Greninja ASR 46
+
+Trainer: 36
+3 Irida ASR 147
+3 Ciphermaniac's Codebreaking TEF 145
+2 Boss's Orders PAL 172
+1 Cyllene ASR 138
+1 Roxanne ASR 150
+4 Superior Energy Retrieval PAL 189
+4 Buddy-Buddy Poffin TEF 144
+3 Night Stretcher SFA 61
+3 Earthen Vessel PAR 163
+3 Nest Ball SVI 181
+2 Pokémon Catcher SVI 187
+1 Pal Pad SVI 182
+1 Canceling Cologne ASR 136
+1 Switch SVI 194
+1 Hisuian Heavy Ball ASR 146
+1 Hyper Aroma TWM 152
+2 PokéStop PGO 68
+
+Energy: 11
+7 Water Energy SVE 3
+4 Metal Energy SVE 8
