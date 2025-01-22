@@ -2,7 +2,7 @@ Pokémon: 18
 3 Dreepy TWM 128
 3 Drakloak TWM 129
 2 Dragapult ex TWM 130
-2 Charcadet SVLS 5
+2 Charcadet SSP 32
 2 Armarouge SVI 41
 2 Iron Thorns ex TWM 77
 1 Munkidori TWM 95
