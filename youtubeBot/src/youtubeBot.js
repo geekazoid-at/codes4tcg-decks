@@ -129,7 +129,12 @@ const main = async () => {
         return;
       }
 
-      if (name.endsWith(" ex") || name.endsWith(" V")) {
+      if (
+        name.endsWith(" ex") ||
+        name.endsWith(" V") ||
+        name.endsWith(" VMAX") ||
+        name.endsWith(" VSTAR")
+      ) {
         coverCards.push(line.substring(line.indexOf(" ") + 1));
       }
     });
