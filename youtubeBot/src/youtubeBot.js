@@ -118,8 +118,8 @@ const main = async () => {
 
     const date = new Date(publishedAt);
     const formattedDate = `${date.getFullYear()}-${
-      date.getMonth() + 1
-    }-${date.getDate()}`;
+      date.getMonth() + 1 < 10 ? "0" : ""
+    }${date.getMonth() + 1}-${date.getDate()}`;
 
     const deckId = `yt-${formattedDate}-${channelName}-${video.id}`;
     const dirName = deckId; //await generateDeckName(name, description, deck);
