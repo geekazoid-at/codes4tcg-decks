@@ -29,14 +29,6 @@ Trainer: 20
 1 Roseanne's Backup BRS 148
 4 Arven SVI 166
 
-Energie: 0
+Energy: 0
 
-Karten insgesamt: 60
-
-Social Media:
-
-Tiktok:          https://www.tiktok.com/pokephilyt
-Instagram:   https://www.instagram.com/pokephil_yt
-Twitter:         https://www.twitter.com/PokePhilYT
-
-#pokemonlive #pokemon #pokemontcg
+Total Cards: 60

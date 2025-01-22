@@ -23,16 +23,7 @@ Trainer: 15
 1 Precious Trolley SSP 185
 4 Boss's Orders PAL 172
 
-Energie: 1
+Energy: 1
 10 Basic {M} Energy SVE 16
 
-Karten insgesamt: 60
-
-
-Social Media:
-
-Tiktok:          https://www.tiktok.com/pokephilyt
-Instagram:   https://www.instagram.com/pokephil_yt
-Twitter:         https://www.twitter.com/PokePhilYT
-
-#pokemonlive #pokemon #pokemontcg
+Total Cards: 60

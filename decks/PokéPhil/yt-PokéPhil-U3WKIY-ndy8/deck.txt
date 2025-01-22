@@ -28,18 +28,8 @@ Trainer: 19
 4 Nest Ball SVI 181
 2 Boss's Orders PAL 172
 
-Energie: 2
+Energy: 2
 6 Basic {W} Energy SVE 11
 4 Basic {M} Energy SVE 16
 
-Karten insgesamt: 60
-
-
-
-Social Media:
-
-Tiktok:          https://www.tiktok.com/pokephilyt
-Instagram:   https://www.instagram.com/pokephil_yt
-Twitter:         https://www.twitter.com/PokePhilYT
-
-#pokemonlive #pokemon #pokemontcg
+Total Cards: 60

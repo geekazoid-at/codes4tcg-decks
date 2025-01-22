@@ -29,16 +29,8 @@ Trainer: 20
 3 Cheren's Care BRS 134
 3 Arven SVI 166
 
-Energie: 2
+Energy: 2
 2 Mist Energy TEF 161
 4 Gift Energy LOR 171
 
-Karten insgesamt: 60
-
-Social Media:
-
-Tiktok:          https://www.tiktok.com/pokephilyt
-Instagram:   https://www.instagram.com/pokephil_yt
-Twitter:         https://www.twitter.com/PokePhilYT
-
-#pokemonlive #pokemon #pokemontcg
+Total Cards: 60

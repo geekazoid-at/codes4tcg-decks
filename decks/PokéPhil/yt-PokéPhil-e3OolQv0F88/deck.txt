@@ -17,7 +17,7 @@ Trainer:
 1 x EP Teiler
 4 x Pepper
 2 x Irdengefäß
-2 x Energieumschalter
+2 x Energyumschalter
 1 VIP Kampfpass
 2 x Superangel
 2 x Enigmara
@@ -29,8 +29,8 @@ Trainer:
 2 x Befehl vom Boss
 2 x Magmabecken
 
-Energie:
-8 x Feuer Energie
+Energy:
+8 x Feuer Energy
 
 Social Media:
 

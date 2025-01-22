@@ -23,19 +23,10 @@ Trainer: 16
 2 Ancient Booster Energy Capsule PAR 159
 2 Bravery Charm PAL 173
 
-Energie: 4
+Energy: 4
 4 Double Turbo Energy BRS 151
 5 Basic {F} Energy Energy 14
 1 Basic {P} Energy Energy 13
 2 Jet Energy PAL 190
 
-Karten insgesamt: 60
-
-
-Social Media:
-
-Tiktok:          https://www.tiktok.com/pokephilyt
-Instagram:   https://www.instagram.com/pokephil_yt
-Twitter:         https://www.twitter.com/PokePhilYT
-
-#packopening #pokemon #pokemontcg
+Total Cards: 60

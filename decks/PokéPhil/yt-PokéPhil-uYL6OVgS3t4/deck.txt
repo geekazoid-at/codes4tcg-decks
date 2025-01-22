@@ -30,16 +30,7 @@ Trainer: 20
 1 Eri TEF 146
 3 Earthen Vessel PAR 163
 
-Energie: 1
+Energy: 1
 8 Basic {P} Energy SVE 5
 
-Karten insgesamt: 60
-
-
-Social Media:
-
-Tiktok:          https://www.tiktok.com/pokephilyt
-Instagram:   https://www.instagram.com/pokephil_yt
-Twitter:         https://www.twitter.com/PokePhilYT
-
-#packopening #pokemon #pokemontcg
+Total Cards: 60

@@ -33,16 +33,8 @@ Trainer: 16
 4 Ultra Ball CRZ 146 PH
 1 Nest Ball SVI 255
 
-Energie: 2
+Energy: 2
 1 Mist Energy TEF 161
 6 Basic {R} Energy SVE 2
 
-Karten insgesamt: 60
-
-Social Media:
-
-Tiktok:          https://www.tiktok.com/pokephilyt
-Instagram:   https://www.instagram.com/pokephil_yt
-Twitter:         https://www.twitter.com/PokePhilYT
-
-#pokemonlive #pokemon #pokemontcg
+Total Cards: 60

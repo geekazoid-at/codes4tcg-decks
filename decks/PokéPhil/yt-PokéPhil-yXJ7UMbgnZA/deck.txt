@@ -26,15 +26,7 @@ Trainer: 18
 2 Professor's Research SVI 190
 1 Iono SVALT 75
 
-Energie: 1
+Energy: 1
 18 Basic {G} Energy Energy 45
 
-Karten insgesamt: 60
-
-Social Media:
-
-Tiktok:          https://www.tiktok.com/pokephilyt
-Instagram:   https://www.instagram.com/pokephil_yt
-Twitter:         https://www.twitter.com/PokePhilYT
-
-#pokemonlive #pokemon #pokemontcg
+Total Cards: 60

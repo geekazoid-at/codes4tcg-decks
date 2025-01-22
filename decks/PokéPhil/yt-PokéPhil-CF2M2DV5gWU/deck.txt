@@ -32,16 +32,7 @@ Trainer: 17
 4 Ultra Ball SVI 196
 4 Rare Candy SVI 191
 
-Energie: 1
+Energy: 1
 5 Basic {R} Energy SVE 10
 
-Karten insgesamt: 60
-
-
-Social Media:
-
-Tiktok:          https://www.tiktok.com/pokephilyt
-Instagram:   https://www.instagram.com/pokephil_yt
-Twitter:         https://www.twitter.com/PokePhilYT
-
-#pokemonlive #pokemon #pokemontcg
+Total Cards: 60

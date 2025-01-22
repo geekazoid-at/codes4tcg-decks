@@ -24,18 +24,9 @@ Trainer: 13
 2 Cheren's Care BRS 134
 3 Boss's Orders PAL 172
 
-Energie: 3
+Energy: 3
 6 Basic {G} Energy SVE 1
 4 Basic {P} Energy SVE 5
 4 Double Turbo Energy BRS 151
 
-Karten insgesamt: 60
-
-
-Social Media:
-
-Tiktok:          https://www.tiktok.com/pokephilyt
-Instagram:   https://www.instagram.com/pokephil_yt
-Twitter:         https://www.twitter.com/PokePhilYT
-
-#packopening #pokemon #pokemontcg
+Total Cards: 60

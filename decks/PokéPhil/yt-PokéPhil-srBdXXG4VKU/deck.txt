@@ -23,16 +23,7 @@ Trainer: 15
 1 Unfair Stamp TWM 165
 4 Arven SVI 166
 
-Energie: 1
+Energy: 1
 6 Basic {G} Energy SVE 1
 
-Karten insgesamt: 60
-
-
-Social Media:
-
-Tiktok:          https://www.tiktok.com/pokephilyt
-Instagram:   https://www.instagram.com/pokephil_yt
-Twitter:         https://www.twitter.com/PokePhilYT
-
-#pokemonlive #pokemon #pokemontcg
+Total Cards: 60

@@ -31,18 +31,9 @@ Trainer: 17
 4 Glass Trumpet SCR 135
 1 Sparkling Crystal SCR 142
 
-Energie: 3
+Energy: 3
 3 Basic {L} Energy SVE 12
 3 Basic {G} Energy SVE 9
 3 Basic {F} Energy SVE 14
 
-Karten insgesamt: 60
-
-
-Social Media:
-
-Tiktok:          https://www.tiktok.com/pokephilyt
-Instagram:   https://www.instagram.com/pokephil_yt
-Twitter:         https://www.twitter.com/PokePhilYT
-
-#pokemonlive #pokemon #pokemontcg
+Total Cards: 60

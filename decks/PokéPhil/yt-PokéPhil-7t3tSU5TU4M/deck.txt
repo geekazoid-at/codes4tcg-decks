@@ -30,17 +30,8 @@ Trainer: 16
 1 Switch Cart ASR 154 PH
 1 PokéStop PGO 68 PH
 
-Energie: 2
+Energy: 2
 3 Basic {D} Energy GEN 81 PH
 4 Basic {D} Energy SFA 98
 
-Karten insgesamt: 60
-
-
-Social Media:
-
-Tiktok:          https://www.tiktok.com/pokephilyt
-Instagram:   https://www.instagram.com/pokephil_yt
-Twitter:         https://www.twitter.com/PokePhilYT
-
-#pokemonlive #pokemon #pokemontcg
+Total Cards: 60

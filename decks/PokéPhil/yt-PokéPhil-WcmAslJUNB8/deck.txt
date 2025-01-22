@@ -28,17 +28,8 @@ Trainer: 13
 1 Bravery Charm PAL 173
 4 Boss's Orders PAL 172
 
-Energie: 2
+Energy: 2
 16 Basic {L} Energy SVE 12
 1 Double Turbo Energy BRS 151
 
-Karten insgesamt: 60
-
-
-Social Media:
-
-Tiktok:          https://www.tiktok.com/pokephilyt
-Instagram:   https://www.instagram.com/pokephil_yt
-Twitter:         https://www.twitter.com/PokePhilYT
-
-#pokemonlive #pokemon #pokemontcg
+Total Cards: 60

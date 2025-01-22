@@ -20,7 +20,7 @@ Trainer: 11
 1 Collapsed Stadium BRS 137
 3 Boss's Orders PAL 172
 
-Energie: 6
+Energy: 6
 3 Mist Energy TEF 161
 1 V Guard Energy SIT 169
 4 Gift Energy LOR 171
@@ -28,13 +28,4 @@ Energie: 6
 4 Jet Energy PAL 190
 1 Therapeutic Energy PAL 193
 
-Karten insgesamt: 60
-
-
-Social Media:
-
-Tiktok:          https://www.tiktok.com/pokephilyt
-Instagram:   https://www.instagram.com/pokephil_yt
-Twitter:         https://www.twitter.com/PokePhilYT
-
-#pokemonlive #pokemon #pokemontcg
+Total Cards: 60

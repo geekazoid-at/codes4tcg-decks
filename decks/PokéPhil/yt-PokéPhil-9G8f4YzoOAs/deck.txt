@@ -26,7 +26,7 @@ Trainer: 16
 2 Energy Loto ASR 140
 1 Boss's Orders RCL 189
 
-Energie: 6
+Energy: 6
 1 Basic {R} Energy SVE 2
 1 Basic {P} Energy SVE 5
 1 Basic {M} Energy Energy 16
@@ -34,13 +34,4 @@ Energie: 6
 4 Luminous Energy PAL 191
 1 Neo Upper Energy TEF 162
 
-Karten insgesamt: 60
-
-
-Social Media:
-
-Tiktok:          https://www.tiktok.com/pokephilyt
-Instagram:   https://www.instagram.com/pokephil_yt
-Twitter:         https://www.twitter.com/PokePhilYT
-
-#pokemonlive #pokemon #pokemontcg
+Total Cards: 60

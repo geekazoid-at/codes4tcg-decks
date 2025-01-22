@@ -31,19 +31,9 @@ Trainer: 18
 1 Switch MEW 206
 2 Boss's Orders PAL 172
 
-Energie: 3
+Energy: 3
 4 Basic {W} Energy SVE 11
 2 Double Turbo Energy ASR 216
 1 Basic {W} Energy PAL 279
 
-Karten insgesamt: 60
-
-
-
-Social Media:
-
-Tiktok:          https://www.tiktok.com/pokephilyt
-Instagram:   https://www.instagram.com/pokephil_yt
-Twitter:         https://www.twitter.com/PokePhilYT
-
-#pokemonlive #pokemon #pokemontcg
+Total Cards: 60

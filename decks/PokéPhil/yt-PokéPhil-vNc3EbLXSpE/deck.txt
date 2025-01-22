@@ -26,17 +26,8 @@ Trainer: 15
 1 Vitality Band SVI 197
 2 Earthen Vessel PAR 163
 
-Energie: 2
+Energy: 2
 1 Basic {F} Energy SVE 6
 5 Basic {P} Energy SVE 5
 
-Karten insgesamt: 60
-
-
-Social Media:
-
-Tiktok:          https://www.tiktok.com/pokephilyt
-Instagram:   https://www.instagram.com/pokephil_yt
-Twitter:         https://www.twitter.com/PokePhilYT
-
-#pokemonlive #pokemon #pokemontcg
+Total Cards: 60

@@ -28,19 +28,9 @@ Trainer: 17
 1 Sparkling Crystal SCR 142
 3 Earthen Vessel PAR 163
 
-Energie: 3
+Energy: 3
 3 Basic {F} Energy Energy 14
 3 Basic {W} Energy Energy 11
 3 Basic {G} Energy Energy 1
 
-Karten insgesamt: 60
-
-
-
-Social Media:
-
-Tiktok:          https://www.tiktok.com/pokephilyt
-Instagram:   https://www.instagram.com/pokephil_yt
-Twitter:         https://www.twitter.com/PokePhilYT
-
-#pokemonlive #pokemon #pokemontcg
+Total Cards: 60

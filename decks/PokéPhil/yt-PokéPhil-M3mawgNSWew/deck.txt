@@ -30,18 +30,9 @@ Trainer: 18
 1 Switch SVI 194
 2 Earthen Vessel PAR 163
 
-Energie: 3
+Energy: 3
 4 Basic {P} Energy Energy 5
 4 Basic {R} Energy Energy 2
 1 Neo Upper Energy TEF 162
 
-Karten insgesamt: 60
-
-
-Social Media:
-
-Tiktok:          https://www.tiktok.com/pokephilyt
-Instagram:   https://www.instagram.com/pokephil_yt
-Twitter:         https://www.twitter.com/PokePhilYT
-
-#pokemonlive #pokemon #pokemontcg
+Total Cards: 60

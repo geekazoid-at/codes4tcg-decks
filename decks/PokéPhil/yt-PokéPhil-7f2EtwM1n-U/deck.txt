@@ -27,17 +27,8 @@ Trainer: 15
 4 Arven SVI 166
 1 Boss's Orders PAL 172
 
-Energie: 2
+Energy: 2
 7 Basic {D} Energy Energy 15
 1 Basic {P} Energy Energy 13
 
-Karten insgesamt: 60
-
-
-Social Media:
-
-Tiktok:          https://www.tiktok.com/pokephilyt
-Instagram:   https://www.instagram.com/pokephil_yt
-Twitter:         https://www.twitter.com/PokePhilYT
-
-#pokemonlive #pokemon #pokemontcg
+Total Cards: 60

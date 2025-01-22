@@ -26,17 +26,8 @@ Trainer: 16
 3 Professor's Research SVI 190
 3 Rare Candy SVI 191
 
-Energie: 2
+Energy: 2
 3 Jet Energy PAL 190
 6 Basic {G} Energy SVE 1
 
-Karten insgesamt: 60
-
-
-Social Media:
-
-Tiktok:          https://www.tiktok.com/pokephilyt
-Instagram:   https://www.instagram.com/pokephil_yt
-Twitter:         https://www.twitter.com/PokePhilYT
-
-#pokemonlive #pokemon #pokemontcg
+Total Cards: 60

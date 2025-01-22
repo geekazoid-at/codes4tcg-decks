@@ -30,16 +30,8 @@ Trainer: 18
 2 Ultra Ball SLG 68
 2 Rare Candy SVI 191
 
-Energie: 2
+Energy: 2
 4 Double Turbo Energy ASR 216
 1 Mist Energy TEF 161
 
-Karten insgesamt: 60
-
-Social Media:
-
-Tiktok:          https://www.tiktok.com/pokephilyt
-Instagram:   https://www.instagram.com/pokephil_yt
-Twitter:         https://www.twitter.com/PokePhilYT
-
-#pokemonlive #pokemon #pokemontcg
+Total Cards: 60

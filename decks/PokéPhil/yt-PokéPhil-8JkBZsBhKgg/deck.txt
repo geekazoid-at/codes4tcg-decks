@@ -27,9 +27,9 @@ Trainer: 14
 1 Sparkling Crystal SCR 142
 3 Earthen Vessel PAR 163
 
-Energie: 3
+Energy: 3
 3 Basic {W} Energy SVE 3
 3 Basic {R} Energy SVE 2
 3 Basic {L} Energy SVE 4
 
-Karten insgesamt: 60
+Total Cards: 60

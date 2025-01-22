@@ -27,16 +27,8 @@ Trainer: 15
 4 Professor's Research SVI 189
 1 Boss's Orders BRS 132
 
-Energie: 2
+Energy: 2
 2 Basic {D} Energy Energy 7
 8 Basic {F} Energy Energy 6
 
-Karten insgesamt: 60
-
-Social Media:
-
-Tiktok:          https://www.tiktok.com/pokephilyt
-Instagram:   https://www.instagram.com/pokephil_yt
-Twitter:         https://www.twitter.com/PokePhilYT
-
-#pokemonlive #pokemon #pokemontcg
+Total Cards: 60

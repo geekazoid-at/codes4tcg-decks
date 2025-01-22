@@ -32,19 +32,10 @@ Trainer: 19
 1 Iono PAF 80 PH
 1 Iono SVALT 75
 
-Energie: 4
+Energy: 4
 1 Legacy Energy TWM 167
 1 Basic {F} Energy Energy 14
 2 Basic {W} Energy Energy 11
 10 Basic {G} Energy Energy 1
 
-Karten insgesamt: 60
-
-
-Social Media:
-
-Tiktok:          https://www.tiktok.com/pokephilyt
-Instagram:   https://www.instagram.com/pokephil_yt
-Twitter:         https://www.twitter.com/PokePhilYT
-
-#pokemonlive #pokemon #pokemontcg
+Total Cards: 60

@@ -27,15 +27,7 @@ Trainer: 18
 1 Choice Belt PAL 176
 1 Boss's Orders RCL 189
 
-Energie: 1
+Energy: 1
 9 Basic {F} Energy SVE 6
 
-Karten insgesamt: 60
-
-Social Media:
-
-Tiktok:          https://www.tiktok.com/pokephilyt
-Instagram:   https://www.instagram.com/pokephil_yt
-Twitter:         https://www.twitter.com/PokePhilYT
-
-#pokemonlive #pokemon #pokemontcg
+Total Cards: 60

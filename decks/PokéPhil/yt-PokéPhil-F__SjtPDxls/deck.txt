@@ -33,17 +33,8 @@ Trainer: 19
 2 Boss's Orders PAL 172
 1 Enhanced Hammer GRI 124
 
-Energie: 2
+Energy: 2
 5 Basic {W} Energy Energy 3
 2 Double Turbo Energy BRS 151
 
-Karten insgesamt: 60
-
-
-Social Media:
-
-Tiktok:          https://www.tiktok.com/pokephilyt
-Instagram:   https://www.instagram.com/pokephil_yt
-Twitter:         https://www.twitter.com/PokePhilYT
-
-#pokemonlive #pokemon #pokemontcg
+Total Cards: 60

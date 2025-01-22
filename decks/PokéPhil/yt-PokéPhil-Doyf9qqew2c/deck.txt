@@ -19,19 +19,9 @@ Trainer: 10
 4 Ultra Ball PAF 91
 1 Sparkling Crystal SCR 142
 
-Energie: 3
+Energy: 3
 5 Basic {M} Energy Energy 16
 5 Basic {P} Energy Energy 13
 8 Basic {W} Energy Energy 11
 
-Karten insgesamt: 60
-
-
-
-Social Media:
-
-Tiktok:          https://www.tiktok.com/pokephilyt
-Instagram:   https://www.instagram.com/pokephil_yt
-Twitter:         https://www.twitter.com/PokePhilYT
-
-#pokemonlive #pokemon #pokemontcg
+Total Cards: 60

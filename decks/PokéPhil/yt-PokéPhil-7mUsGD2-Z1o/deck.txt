@@ -22,18 +22,9 @@ Trainer: 16
 1 Pokémon League Headquarters OBF 192
 1 Pal Pad SVI 182
 
-Energie: 3
+Energy: 3
 3 Gift Energy LOR 171
 4 Double Turbo Energy BRS 151
 2 Jet Energy PAL 190
 
-Karten insgesamt: 60
-
-
-Social Media:
-
-Tiktok:          https://www.tiktok.com/pokephilyt
-Instagram:   https://www.instagram.com/pokephil_yt
-Twitter:         https://www.twitter.com/PokePhilYT
-
-#pokemonlive #pokemon #pokemontcg
+Total Cards: 60

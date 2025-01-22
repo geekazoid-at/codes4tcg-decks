@@ -26,16 +26,7 @@ Trainer: 16
 2 Carmine TWM 145
 2 Night Stretcher SFA 61 PH
 
-Energie: 1
+Energy: 1
 3 Basic {P} Energy SVE 5
 
-Karten insgesamt: 60
-
-
-Social Media:
-
-Tiktok:          https://www.tiktok.com/pokephilyt
-Instagram:   https://www.instagram.com/pokephil_yt
-Twitter:         https://www.twitter.com/PokePhilYT
-
-#pokemonlive #pokemon #pokemontcg
+Total Cards: 60

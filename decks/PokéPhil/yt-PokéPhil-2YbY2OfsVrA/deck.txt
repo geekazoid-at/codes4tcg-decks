@@ -29,19 +29,10 @@ Trainer: 17
 4 Rare Candy SVI 191
 1 Earthen Vessel PAR 163
 
-Energie: 4
+Energy: 4
 5 Basic {D} Energy SVE 15
 1 Basic {P} Energy SVE 13
 1 Neo Upper Energy TEF 162
 1 Basic {M} Energy SVE 16
 
-Karten insgesamt: 60
-
-
-Social Media:
-
-Tiktok:          https://www.tiktok.com/pokephilyt
-Instagram:   https://www.instagram.com/pokephil_yt
-Twitter:         https://www.twitter.com/PokePhilYT
-
-#pokemonlive #pokemon #pokemontcg
+Total Cards: 60

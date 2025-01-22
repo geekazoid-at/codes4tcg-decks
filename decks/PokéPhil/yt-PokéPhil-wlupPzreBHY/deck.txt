@@ -27,15 +27,7 @@ Trainer: 15
 1 Rescue Board TEF 159
 3 Nest Ball PAF 84
 
-Energie: 1
+Energy: 1
 9 Basic {W} Energy SVE 3
 
-Karten insgesamt: 60
-
-Social Media:
-
-Tiktok:          https://www.tiktok.com/pokephilyt
-Instagram:   https://www.instagram.com/pokephil_yt
-Twitter:         https://www.twitter.com/PokePhilYT
-
-#pokemonlive #pokemon #pokemontcg
+Total Cards: 60

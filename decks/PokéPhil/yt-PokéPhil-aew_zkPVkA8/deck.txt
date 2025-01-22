@@ -30,19 +30,10 @@ Trainer: 17
 4 Ultra Ball SVI 196
 1 Switch SVI 194
 
-Energie: 4
+Energy: 4
 2 Jet Energy PAL 190
 2 Double Turbo Energy ASR 216
 1 Basic {P} Energy Energy 5
 2 Double Turbo Energy BRS 151
 
-Karten insgesamt: 60
-
-
-Social Media:
-
-Tiktok:          https://www.tiktok.com/pokephilyt
-Instagram:   https://www.instagram.com/pokephil_yt
-Twitter:         https://www.twitter.com/PokePhilYT
-
-#pokemonlive #pokemon #pokemontcg
+Total Cards: 60

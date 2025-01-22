@@ -33,18 +33,9 @@ Trainer: 21
 1 Arven SVI 249
 1 Vitality Band SVI 197
 
-Energie: 3
+Energy: 3
 10 Basic {L} Energy Energy 30
 2 Double Turbo Energy BRS 151
 4 Basic {L} Energy SVE 4 PH
 
-Karten insgesamt: 60
-
-
-Social Media:
-
-Tiktok:          https://www.tiktok.com/pokephilyt
-Instagram:   https://www.instagram.com/pokephil_yt
-Twitter:         https://www.twitter.com/PokePhilYT
-
-#pokemonlive #pokemon #pokemontcg
+Total Cards: 60

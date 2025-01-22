@@ -31,19 +31,10 @@ Trainer: 16
 1 Switch SVI 194
 4 Rare Candy SVI 191
 
-Energie: 4
+Energy: 4
 2 Basic {R} Energy SVE 10
 1 Boomerang Energy TWM 166
 3 Jet Energy PAL 190
 3 Double Turbo Energy BRS 151
 
-Karten insgesamt: 60
-
-
-Social Media:
-
-Tiktok:          https://www.tiktok.com/pokephilyt
-Instagram:   https://www.instagram.com/pokephil_yt
-Twitter:         https://www.twitter.com/PokePhilYT
-
-#pokemonlive #pokemon #pokemontcg
+Total Cards: 60

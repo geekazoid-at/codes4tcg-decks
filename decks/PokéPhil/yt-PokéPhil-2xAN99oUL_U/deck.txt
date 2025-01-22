@@ -24,18 +24,9 @@ Trainer: 15
 3 Cheren's Care BRS 134
 4 Buddy-Buddy Poffin TEF 144
 
-Energie: 3
+Energy: 3
 4 Luminous Energy PAL 191
 4 Double Turbo Energy BRS 151
 4 Mist Energy TEF 161
 
-Karten insgesamt: 60
-
-
-Social Media:
-
-Tiktok:          https://www.tiktok.com/pokephilyt
-Instagram:   https://www.instagram.com/pokephil_yt
-Twitter:         https://www.twitter.com/PokePhilYT
-
-#packopening #pokemon #pokemontcg
+Total Cards: 60

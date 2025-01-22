@@ -31,17 +31,8 @@ Trainer: 20
 1 Boss's Orders RCL 189
 1 Night Stretcher SFA 61 PH
 
-Energie: 2
+Energy: 2
 3 Basic {R} Energy OBF 230
 3 Basic {P} Energy MEW 207
 
-Karten insgesamt: 60
-
-
-Social Media:
-
-Tiktok:          https://www.tiktok.com/pokephilyt
-Instagram:   https://www.instagram.com/pokephil_yt
-Twitter:         https://www.twitter.com/PokePhilYT
-
-#pokemonlive #pokemon #pokemontcg
+Total Cards: 60

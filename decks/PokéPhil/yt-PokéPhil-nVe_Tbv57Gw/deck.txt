@@ -25,8 +25,8 @@ Trainer: 18
 3 Arezu LOR 189
 1 Neutralization Zone SFA 60
 
-Energie: 2
+Energy: 2
 6 Basic {G} Energy CRZ 152
 1 Basic {D} Energy SFA 98
 
-Karten insgesamt: 60
+Total Cards: 60

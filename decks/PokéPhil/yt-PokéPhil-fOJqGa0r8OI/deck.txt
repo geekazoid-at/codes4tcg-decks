@@ -24,15 +24,10 @@ Trainer: 17
 1 Survival Brace TWM 164
 2 Ancient Booster Energy Capsule PAR 159
 
-Energie: 4
+Energy: 4
 4 Double Turbo Energy BRS 151
 5 Basic {F} Energy Energy 14
 1 Basic {P} Energy Energy 13
 2 Jet Energy PAL 190
 
-Karten insgesamt: 60
-
-
-Tiktok:          https://www.tiktok.com/pokephilyt
-Instagram:   https://www.instagram.com/pokephil_yt
-Twitter:         https://www.twitter.com/PokePhilYT
+Total Cards: 60

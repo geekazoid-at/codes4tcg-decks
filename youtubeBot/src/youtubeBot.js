@@ -93,7 +93,12 @@ const main = async () => {
   console.log(`Total YouTube videos fetched: ${allVideos.length}`);
   await allVideos.forEach(async (video, index) => {
     const name = video.title;
-    const description = video.description;
+    let description = video.description;
+
+    // german to english
+    description = description.replaceAll("Energie:", "Energy:");
+    description = description.replaceAll("Karten insgesamt: ", "Total Cards: ");
+
     const publishedAt = video.publishedAt;
 
     let deck = description.substring(description.indexOf("Pokémon:") || 0);

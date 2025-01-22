@@ -24,16 +24,7 @@ Trainer: 16
 2 Ultra Ball SVI 196
 4 Earthen Vessel PAR 163
 
-Energie: 1
+Energy: 1
 9 Basic {R} Energy SVE 2
 
-Karten insgesamt: 60
-
-
-Social Media:
-
-Tiktok:          https://www.tiktok.com/pokephilyt
-Instagram:   https://www.instagram.com/pokephil_yt
-Twitter:         https://www.twitter.com/PokePhilYT
-
-#packopening #pokemon #pokemontcg
+Total Cards: 60

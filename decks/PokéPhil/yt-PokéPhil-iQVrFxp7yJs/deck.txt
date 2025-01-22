@@ -26,16 +26,8 @@ Trainer: 19
 1 Iono PAF 80
 2 Earthen Vessel PAR 163
 
-Energie: 2
+Energy: 2
 6 Basic {W} Energy SVE 3
 4 Double Turbo Energy BRS 151
 
-Karten insgesamt: 60
-
-Social Media:
-
-Tiktok:          https://www.tiktok.com/pokephilyt
-Instagram:   https://www.instagram.com/pokephil_yt
-Twitter:         https://www.twitter.com/PokePhilYT
-
-#pokemonlive #pokemon #pokemontcg
+Total Cards: 60

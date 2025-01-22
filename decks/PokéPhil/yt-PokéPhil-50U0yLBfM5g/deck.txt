@@ -27,17 +27,8 @@ Trainer: 14
 1 Ciphermaniac's Codebreaking TEF 145
 4 Ultra Ball SVI 196
 
-Energie: 2
+Energy: 2
 3 Luminous Energy PAL 191
 6 Basic {P} Energy SVE 13
 
-Karten insgesamt: 60
-
-
-Social Media:
-
-Tiktok:          https://www.tiktok.com/pokephilyt
-Instagram:   https://www.instagram.com/pokephil_yt
-Twitter:         https://www.twitter.com/PokePhilYT
-
-#pokemonlive #pokemon #pokemontcg
+Total Cards: 60
