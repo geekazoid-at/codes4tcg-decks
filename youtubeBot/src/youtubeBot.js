@@ -2,8 +2,8 @@ const axios = require("axios");
 const fs = require("fs");
 
 const API_KEY = "AIzaSyCrF9wwzpO0p-qK1JoaZXd2ZKlhMRfb714"; // Replace with your YouTube Data API key
-const CHANNEL_ID = "UCkIP7BHKg-6NN56eVXfrmJw"; // Replace with the channel ID Pokephil
-// const CHANNEL_ID = "UCAhRWmekXLryJOZRUYR4seQ"; // Replace with the channel ID LDF
+// const CHANNEL_ID = "UCkIP7BHKg-6NN56eVXfrmJw"; // Replace with the channel ID Pokephil
+const CHANNEL_ID = "UCAhRWmekXLryJOZRUYR4seQ"; // Replace with the channel ID LDF
 const MAX_RESULTS = 50;
 
 const getChannelName = async () => {
@@ -116,7 +116,12 @@ const main = async () => {
       return;
     }
 
-    const deckId = `yt-${channelName}-${video.id}`;
+    const date = new Date(publishedAt);
+    const formattedDate = `${date.getFullYear()}-${
+      date.getMonth() + 1
+    }-${date.getDate()}`;
+
+    const deckId = `yt-${formattedDate}-${channelName}-${video.id}`;
     const dirName = deckId; //await generateDeckName(name, description, deck);
 
     fs.mkdirSync(`../decks/${channelName}/${dirName}`, {
