@@ -1,0 +1,30 @@
+Pokémon: 4
+4 Froslass TWM 53
+4 Snorunt SIT 41
+4 Glameow SCR 116
+4 Purugly SCR 117
+
+Trainer: 16
+4 Irida ASR 147
+4 Buddy-Buddy Poffin TEF 144
+1 Counter Catcher PAR 160
+1 Lost Vacuum LOR 162
+1 Hyper Aroma TWM 152
+1 Professor's Research SHF 60
+1 Miriam SVI 179
+4 Night Stretcher SFA 61
+1 Colress's Tenacity SFA 57
+4 Iono PAF 80
+4 Pokégear 3.0 SVI 186
+1 Roxanne ASR 150
+4 Energy Loto ASR 140
+2 Boss's Orders SHF 58
+1 Pokémon League Headquarters OBF 192
+1 Pal Pad SVI 182
+
+Energy: 3
+3 Gift Energy LOR 171
+4 Double Turbo Energy BRS 151
+2 Jet Energy PAL 190
+
+Total Cards: 60

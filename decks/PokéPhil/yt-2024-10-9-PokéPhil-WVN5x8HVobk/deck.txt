@@ -1,0 +1,33 @@
+Pokémon: 8
+1 Bloodmoon Ursaluna ex TWM 141
+3 Omastar V SIT 174
+1 Radiant Hisuian Sneasler LOR 123
+1 Fezandipiti ex SFA 38
+1 Mew ex MEW 151
+2 Lileep SCR 5
+4 Cradily SCR 6
+2 Lileep SCR 5 PH
+
+Trainer: 16
+1 Counter Catcher PAR 160
+1 Town Store OBF 196
+3 Bug Catching Set TWM 143
+2 Forest Seal Stone SIT 156
+1 Night Stretcher SFA 61
+1 Dangerous Laser SFA 58
+4 Nest Ball SVI 181
+2 Boss's Orders PAL 172
+4 Iono PAL 185
+2 Arven SVI 166
+1 Super Rod PAL 188
+4 Antique Root Fossil SCR 130
+3 Ultra Ball SVI 196
+1 Switch SVI 194
+3 Professor's Research SVI 190
+3 Rare Candy SVI 191
+
+Energy: 2
+3 Jet Energy PAL 190
+6 Basic {G} Energy SVE 1
+
+Total Cards: 60

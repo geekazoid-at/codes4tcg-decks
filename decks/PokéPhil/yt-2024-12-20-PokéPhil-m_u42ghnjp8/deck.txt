@@ -1,0 +1,41 @@
+Pokémon: 11
+1 Toedscool SCR 17
+2 Alolan Exeggutor ex SSP 242
+2 Toedscruel ex PAF 5
+1 Fezandipiti ex SFA 92
+2 Toedscool SCR 17 PH
+2 Exeggcute SSP 1 PH
+1 Noctowl PR-SV 141
+4 Teal Mask Ogerpon ex TWM 211
+1 Mew ex PAF 232
+1 Toedscruel PAR 17 PH
+1 Hoothoot SCR 114 PH
+
+Trainer: 19
+2 Buddy-Buddy Poffin TWM 223
+1 Crispin SCR 164
+1 Bug Catching Set TWM 143
+2 Bug Catching Set TWM 143 PH
+1 Iono PR-SV 124
+1 Professor Turo's Scenario PAR 257
+2 Energy Switch SVI 173
+1 Nest Ball SVI 255
+2 Earthen Vessel SFA 96
+2 Ultra Ball ROS 93 PH
+2 Boss's Orders PAL 172
+1 Super Rod PAL 188 PH
+1 Night Stretcher SSP 251
+3 Area Zero Underdepths SCR 174
+1 Superior Energy Retrieval PAL 189
+2 Energy Switch SVI 173 PH
+1 Nest Ball PAF 84 PH
+1 Iono PAF 80 PH
+1 Iono SVALT 75
+
+Energy: 4
+1 Legacy Energy TWM 167
+1 Basic {F} Energy Energy 14
+2 Basic {W} Energy Energy 11
+10 Basic {G} Energy Energy 1
+
+Total Cards: 60

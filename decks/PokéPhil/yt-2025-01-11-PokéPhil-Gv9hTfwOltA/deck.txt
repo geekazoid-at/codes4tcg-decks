@@ -1,0 +1,31 @@
+Pokémon: 6
+1 Munkidori TWM 95
+4 Great Tusk TEF 97
+1 Pecharunt ex SFA 39
+1 Radiant Greninja ASR 46
+4 Flutter Mane TEF 78
+4 Roaring Moon TEF 109
+
+Trainer: 17
+1 Ultra Ball SVI 196
+1 Dark Patch ASR 139
+4 Ancient Booster Energy Capsule TEF 140
+4 Earthen Vessel PAR 163
+4 Explorer's Guidance TEF 147
+1 Brilliant Blender SSP 164
+2 Counter Catcher PAR 160
+1 Hisuian Heavy Ball ASR 146
+3 PokéStop PGO 68
+4 Professor Sada's Vitality PAR 170
+2 Night Stretcher SFA 61
+1 Superior Energy Retrieval PAL 189
+1 Super Rod PAL 188
+3 Pokégear 3.0 SVI 186
+1 Pal Pad SVI 182
+4 Nest Ball SVI 181
+1 Boss's Orders PAL 172
+
+Energy: 1
+7 Basic {D} Energy SVE 15
+
+Total Cards: 60

@@ -1,0 +1,36 @@
+Pokémon: 7
+4 Loudred PAR 149
+4 Whismur PAR 148
+1 Manaphy BRS 41
+4 Exploud PAR 150
+1 Rotom V CRZ 45
+2 Pidgey MEW 16
+1 Pidgeot ex OBF 217
+
+Trainer: 20
+4 Ultra Ball PAF 91
+4 Buddy-Buddy Poffin TEF 144
+4 Counter Catcher PAR 160
+1 Hisuian Heavy Ball ASR 146
+1 Eri TEF 199
+1 Luxurious Cape PAR 166
+1 Super Rod PAL 276
+2 Iono PAF 237
+1 Eri TEF 146 PH
+1 Rare Candy PGO 69
+1 Technical Machine: Devolution PAR 177
+1 Technical Machine: Evolution PAR 178
+1 Hero's Cape TEF 152
+1 Miss Fortune Sisters LOR 164
+2 Pal Pad SVI 182
+1 Forest Seal Stone SIT 156
+3 Nest Ball PAF 84
+1 Rare Candy SVI 191 PH
+3 Cheren's Care BRS 134
+3 Arven SVI 166
+
+Energy: 2
+2 Mist Energy TEF 161
+4 Gift Energy LOR 171
+
+Total Cards: 60

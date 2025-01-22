@@ -1,0 +1,37 @@
+Pokémon: 8
+2 Axew SFA 44
+2 Axew BRS 110
+3 Drakloak TWM 129
+3 Dreepy TWM 128
+1 Manaphy BRS 41
+2 Dragapult ex TWM 200
+2 Fraxure SFA 45
+3 Haxorus SFA 46
+
+Trainer: 16
+3 Lance SIT 192
+1 Switch CRZ 144
+4 Rare Candy SVI 191
+2 Energy Search SVI 172
+2 Earthen Vessel PAR 163
+4 Buddy-Buddy Poffin TEF 144
+2 Ultra Ball SLG 68
+3 Arven PAF 235
+2 Iono PAF 237
+1 Mela PAR 254
+1 Technical Machine: Devolution PAR 177
+2 Night Stretcher SFA 61
+2 Super Rod PAL 188
+1 Technical Machine: Evolution PAR 178
+2 Energy Loto ASR 140
+1 Boss's Orders RCL 189
+
+Energy: 6
+1 Basic {R} Energy SVE 2
+1 Basic {P} Energy SVE 5
+1 Basic {M} Energy Energy 16
+1 Basic {F} Energy Energy 14
+4 Luminous Energy PAL 191
+1 Neo Upper Energy TEF 162
+
+Total Cards: 60

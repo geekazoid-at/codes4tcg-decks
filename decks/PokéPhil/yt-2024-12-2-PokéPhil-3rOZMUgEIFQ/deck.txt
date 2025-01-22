@@ -1,0 +1,34 @@
+Pokémon: 9
+2 Azelf SSP 80
+2 Uxie SSP 78 PH
+1 Uxie SSP 78
+2 Froslass TWM 53
+1 Cleffa OBF 202
+1 Manaphy BRS 41
+4 Snorunt SIT 41 PH
+1 Bloodmoon Ursaluna ex TWM 141
+2 Froslass TWM 174
+
+Trainer: 17
+4 Irida ASR 147
+3 Iono PAF 80 PH
+2 Earthen Vessel SFA 96
+2 Counter Gain SSP 169
+3 Arven PAF 235
+3 Great Ball PAL 183
+2 Technical Machine: Devolution PAR 177
+2 Super Rod PAL 188
+4 Buddy-Buddy Poffin TWM 223
+1 Iono PR-SV 124
+2 Nest Ball SVI 181
+2 Rescue Board TEF 159
+1 Unfair Stamp TWM 165
+2 Counter Catcher PAR 264
+3 Night Stretcher SFA 61 PH
+1 Artazon PAL 171
+2 Professor's Research PGO 78
+
+Energy: 1
+5 Basic {P} Energy SVE 5 PH
+
+Total Cards: 60

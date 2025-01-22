@@ -1,0 +1,32 @@
+Pokémon: 8
+4 Comfey LOR 79
+2 Duskull SFA 18 PH
+2 Sableye LOR 70
+1 Dusclops SFA 19 PH
+2 Squawkabilly ex PAF 75
+3 Dusclops SFA 19
+2 Duskull SFA 18
+1 Bloodmoon Ursaluna ex TWM 141
+
+Trainer: 16
+3 Switch SVI 194
+4 Switch Cart ASR 154
+4 Buddy-Buddy Poffin TEF 144
+4 Trekking Shoes ASR 156
+2 Lost Vacuum LOR 162
+1 Hisuian Heavy Ball ASR 146
+4 Lost City LOR 161
+1 Hyper Aroma TWM 152
+1 Technical Machine: Devolution PAR 177
+2 Night Stretcher SFA 61
+3 Roxanne ASR 150
+4 Nest Ball SVI 181
+1 Rescue Board TEF 159
+2 Carmine TWM 145 PH
+2 Carmine TWM 145
+2 Night Stretcher SFA 61 PH
+
+Energy: 1
+3 Basic {P} Energy SVE 5
+
+Total Cards: 60

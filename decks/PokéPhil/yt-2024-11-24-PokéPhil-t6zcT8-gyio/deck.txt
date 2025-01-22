@@ -1,0 +1,33 @@
+Pokémon: 6
+2 Glimmet OBF 121
+2 Glimmora ex OBF 123
+2 Bibarel BRS 121
+2 Glimmet PAL 124
+2 Bidoof CRZ 111
+2 Cornerstone Mask Ogerpon ex TWM 112
+
+Trainer: 18
+3 Ultra Ball SVI 196
+4 Academy at Night SFA 54
+2 Rock Chestplate SVI 192
+1 Jacq SVI 175
+2 Earthen Vessel PAR 163
+4 Buddy-Buddy Poffin TEF 144
+1 Hyper Aroma TWM 152
+2 Iono PAL 185
+1 Technical Machine: Devolution PAR 177
+2 Night Stretcher SFA 61
+2 Colress's Tenacity SFA 57
+1 Super Rod PAL 188
+1 Pokégear 3.0 SVI 186
+1 Pal Pad SVI 182
+4 Gutsy Pickaxe ASR 145
+2 Nest Ball SVI 181
+4 Arven SVI 166
+2 Boss's Orders PAL 172
+
+Energy: 2
+1 Double Turbo Energy BRS 151
+8 Basic {F} Energy Energy 14
+
+Total Cards: 60

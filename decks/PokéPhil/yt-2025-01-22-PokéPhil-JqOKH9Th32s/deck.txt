@@ -1,0 +1,34 @@
+Pokémon: 6
+4 Budew PRE 4
+2 Fuecoco PAL 34
+1 Radiant Charizard CRZ 20
+1 Crocalor PAL 36
+2 Skeledirge ex PAR 137
+4 Klefki SVI 96
+
+Trainer: 20
+2 Magma Basin BRS 144
+1 Unfair Stamp TWM 165
+1 Artazon PAF 76
+4 Nest Ball PAF 84
+1 Xerosic's Machinations SFA 64
+1 Counter Gain SSP 169
+3 Energy Retrieval SVI 171
+4 Ultra Ball PAF 91
+3 Pokégear 3.0 SVI 186
+1 Night Stretcher SFA 61
+1 Rescue Board TEF 159
+1 Pal Pad SVI 182
+2 Arven OBF 186
+1 Boss's Orders PAL 172
+1 Super Rod PAL 188
+2 Rare Candy PAF 89
+2 Eri TEF 146
+4 Iono PAF 80
+2 Switch SVI 194
+2 Earthen Vessel PAR 163
+
+Energy: 1
+7 Basic {R} Energy SVE 2
+
+Total Cards: 60

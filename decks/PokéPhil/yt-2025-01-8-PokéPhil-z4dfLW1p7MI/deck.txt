@@ -1,0 +1,27 @@
+Pokémon: 6
+1 Orthworm PAR 138
+3 Beldum TEF 113
+4 Meltan OBF 152
+3 Melmetal ex OBF 153
+1 Beldum SIT 117
+4 Metang TEF 114 PH
+
+Trainer: 13
+1 Ultra Ball SVI 196
+4 Arven OBF 186
+1 Jacq SVI 175
+4 Buddy-Buddy Poffin TEF 144
+1 Hyper Aroma TWM 152
+4 Professor's Research SHF 60
+1 Professor Turo's Scenario PAR 171
+4 Super Rod PAL 188
+2 Technical Machine: Evolution PAR 178
+4 Pokégear 3.0 SVI 186
+1 Nest Ball SVI 181
+1 Rescue Board TEF 159
+3 Boss's Orders PAL 172
+
+Energy: 1
+13 Basic {M} Energy Energy 16
+
+Total Cards: 60

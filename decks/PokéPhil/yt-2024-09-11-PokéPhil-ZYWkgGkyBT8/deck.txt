@@ -1,0 +1,36 @@
+Pokémon: 10
+1 Kingambit OBF 150
+2 Pidgeot ex OBF 164
+2 Kingambit OBF 150 PH
+1 Pidgeotto OBF 163
+1 Manaphy BRS 41
+1 Radiant Alakazam SIT 59
+1 Jirachi PAR 126
+4 Pawniard OBF 148
+2 Bisharp OBF 149
+2 Pidgey MEW 16
+
+Trainer: 18
+2 Ultra Ball SVI 196
+2 Switch CRZ 144
+4 Rare Candy SVI 191
+2 Energy Search SVI 172
+4 Buddy-Buddy Poffin TEF 144
+1 Lana's Aid TWM 155
+1 Professor Turo's Scenario PAR 171
+1 Night Stretcher SFA 61
+1 Colress's Tenacity SFA 57
+4 Iono PAF 80
+2 Pokégear 3.0 SVI 186
+4 Vengeful Punch OBF 197
+1 Prime Catcher TEF 157
+1 Pal Pad SVI 182
+2 Gapejaw Bog ASR 142
+2 Night Stretcher SFA 61 PH
+1 Boss's Orders PAL 172
+4 Arven SVI 166
+
+Energy: 1
+4 Basic {M} Energy Energy 16
+
+Total Cards: 60

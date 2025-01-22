@@ -1,0 +1,32 @@
+Pokémon: 7
+2 Origin Forme Palkia V ASR 39
+3 Kyurem V LOR 174
+1 Fezandipiti ex SFA 38
+1 Mew ex MEW 151
+3 Kyurem VMAX LOR 49
+2 Origin Forme Palkia VSTAR ASR 40
+1 Radiant Greninja ASR 46
+
+Trainer: 17
+1 Hisuian Heavy Ball ASR 146
+4 Nest Ball PAF 84
+4 Academy at Night SFA 54
+1 Cassiopeia SFA 56
+2 Energy Retrieval SVI 171
+4 Irida ASR 147
+4 Ultra Ball PAF 91
+1 Prime Catcher TEF 157
+1 Night Stretcher SFA 61
+2 Boss's Orders PAL 172
+2 Powerglass SFA 63
+2 Super Rod PAL 188
+2 Ciphermaniac's Codebreaking TEF 145
+1 Iono PAF 80
+1 Switch SVI 194
+1 Canceling Cologne ASR 136
+3 Earthen Vessel PAR 163
+
+Energy: 1
+11 Basic {W} Energy SVE 3
+
+Total Cards: 60
