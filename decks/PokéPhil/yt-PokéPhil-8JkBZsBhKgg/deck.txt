@@ -1,0 +1,35 @@
+Pokémon: 11
+2 Eevee ex PRE 75
+1 Jolteon ex PRE 30
+3 Eevee SSP 143
+1 Jolteon ex PRE 153
+1 Fezandipiti ex SFA 38
+3 Hoothoot SCR 114
+3 Noctowl SCR 115
+1 Fan Rotom SCR 118
+1 Radiant Greninja ASR 46
+1 Eevee ASR 119
+1 Flareon PRE 13
+
+Trainer: 14
+3 Tera Orb SSP 189
+2 Nest Ball PAF 84
+2 Energy Switch SVI 173
+2 Ultra Ball PAF 91
+2 Night Stretcher SFA 61
+4 Professor's Research PAF 88
+2 Boss's Orders PAL 172
+1 Super Rod PAL 188
+2 Area Zero Underdepths SCR 131
+4 Glass Trumpet SCR 135
+3 Buddy-Buddy Poffin TEF 144
+2 Iono PAF 80
+1 Sparkling Crystal SCR 142
+3 Earthen Vessel PAR 163
+
+Energie: 3
+3 Basic {W} Energy SVE 3
+3 Basic {R} Energy SVE 2
+3 Basic {L} Energy SVE 4
+
+Karten insgesamt: 60

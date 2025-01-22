@@ -2,7 +2,8 @@ const axios = require("axios");
 const fs = require("fs");
 
 const API_KEY = "AIzaSyCrF9wwzpO0p-qK1JoaZXd2ZKlhMRfb714"; // Replace with your YouTube Data API key
-const CHANNEL_ID = "UCAhRWmekXLryJOZRUYR4seQ"; // Replace with the channel ID
+const CHANNEL_ID = "UCkIP7BHKg-6NN56eVXfrmJw"; // Replace with the channel ID Pokephil
+// const CHANNEL_ID = "UCAhRWmekXLryJOZRUYR4seQ"; // Replace with the channel ID LDF
 const MAX_RESULTS = 50;
 
 const getChannelName = async () => {

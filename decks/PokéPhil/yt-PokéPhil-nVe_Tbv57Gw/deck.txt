@@ -1,0 +1,32 @@
+Pokémon: 5
+4 Venonat MEW 48 PH
+1 Munkidori SFA 72
+4 Venomoth MEW 49 PH
+3 Snorunt SIT 41 PH
+3 Froslass TWM 174
+
+Trainer: 18
+2 Carmine TWM 204
+4 Buddy-Buddy Poffin TWM 223
+2 Irida ASR 204
+2 Super Rod PAL 276
+1 Roxanne CRZ-GG 66
+3 Earthen Vessel SFA 96
+2 Pokégear 3.0 SMALT 154
+3 Night Stretcher SFA 61 PH
+2 Carmine TWM 217
+4 Iono PAF 237
+1 Hisuian Heavy Ball ASR 146 PH
+2 Irida CRZ-GG 63
+2 Jamming Tower TWM 153 PH
+1 Ultra Ball BRS 186
+2 Counter Catcher PAR 264
+1 Colress's Tenacity SFA 87
+3 Arezu LOR 189
+1 Neutralization Zone SFA 60
+
+Energie: 2
+6 Basic {G} Energy CRZ 152
+1 Basic {D} Energy SFA 98
+
+Karten insgesamt: 60
