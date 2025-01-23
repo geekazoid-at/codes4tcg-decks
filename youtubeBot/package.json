@@ -2,8 +2,9 @@
   "name": "youtubebot",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "src/youtubebot.js",
   "scripts": {
+    "start": "node src/youtubebot.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
