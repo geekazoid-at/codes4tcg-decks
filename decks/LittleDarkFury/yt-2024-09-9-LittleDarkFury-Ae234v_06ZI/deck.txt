@@ -1,3 +1,4 @@
+Pokémon: 11
 1 Fezandipiti ex SFA 38
 2 Bibarel BRS 121
 4 Gible PAR 94
@@ -9,6 +10,8 @@
 1 Radiant Greninja ASR 46
 1 Manaphy BRS 41
 2 Bidoof CRZ 111
+
+Trainer: 15
 2 Boss's Orders PAL 172
 2 Buddy-Buddy Poffin TEF 144
 1 Professor's Research SVI 190
@@ -24,4 +27,8 @@
 4 Iono PAL 185
 1 Counter Catcher PAR 160
 4 Irida ASR 147
+
+Energy: 1
 10 Basic {F} Energy GRI 169
+
+Total Cards: 60
