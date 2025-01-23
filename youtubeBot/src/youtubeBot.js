@@ -1,11 +1,13 @@
 const axios = require("axios");
 const fs = require("fs");
+const transformDeck = require("./deckTransformer");
 
 const API_KEY = "AIzaSyCrF9wwzpO0p-qK1JoaZXd2ZKlhMRfb714"; // Replace with your YouTube Data API key
 
 const channelIds = [
-  "UCkIP7BHKg-6NN56eVXfrmJw", // Pokephil
-  "UCAhRWmekXLryJOZRUYR4seQ", // LDF
+  // "UCkIP7BHKg-6NN56eVXfrmJw", // Pokephil
+  // "UCAhRWmekXLryJOZRUYR4seQ", // LDF
+  "UCZiUkbtzrEzCiDZ09oZYBbQ", // Trust your pilot
 ];
 
 const MAX_RESULTS = 50;
@@ -126,7 +128,7 @@ const main = async () => {
 
       console.log(`Title: ${name}`);
       console.log(`Published At: ${publishedAt}`);
-      // console.log(`Deck: ${deck}`);
+      console.log(`Deck: ${deck}`);
 
       if (!deck.includes("Pokémon:") && !deck.includes("Pokemon:")) {
         console.log("No deck found");
@@ -137,24 +139,14 @@ const main = async () => {
       deck = deck.replaceAll("BSR", "BRS");
 
       // Normalize the deck text
-      deck = deck
-        .split("\n")
-        .map((line) => {
-          if (!/^\d/.test(line)) {
-            return line;
-          }
-
-          // Check for and fix the Paf183 or PAF183 situation
-          return line.replace(/([A-Za-z]+)(\d+)/g, (match, p1, p2) => {
-            return `${p1.toUpperCase()} ${p2}`;
-          });
-        })
-        .join("\n");
+      deck = transformDeck(deck);
 
       const date = new Date(publishedAt);
       const formattedDate = `${date.getFullYear()}-${
         date.getMonth() + 1 < 10 ? "0" : ""
-      }${date.getMonth() + 1}-${date.getDate()}`;
+      }${date.getMonth() + 1}-${
+        date.getDate() < 10 ? "0" : ""
+      }${date.getDate()}`;
 
       const deckId = `yt-${formattedDate}-${channelName}-${video.id}`;
       const dirName = deckId; //await generateDeckName(name, description, deck);
