@@ -121,114 +121,94 @@ const main = async () => {
 
       const publishedAt = video.publishedAt;
 
-      let deck = description.substring(description.indexOf("Pokémon:") || 0);
+      let deckIndex = 1;
 
-      const ii = deck.indexOf("Total Cards: 60");
-      deck = deck.substring(0, ii > -1 ? ii + 15 : deck.length).trim();
+      // Count how often description includes "Total Cards:"
+      const totalDecks = description.match(/Total Cards:/g).length;
 
-      console.log(`Title: ${name}`);
-      console.log(`Published At: ${publishedAt}`);
-      console.log(`Deck: ${deck}`);
+      while (description.includes("Total Cards:")) {
+        let deck = description.substring(description.indexOf("Pokémon:") || 0);
 
-      if (!deck.includes("Pokémon:") && !deck.includes("Pokemon:")) {
-        console.log("No deck found");
-        console.log("---------------------------------");
-        return;
-      }
+        const ii = deck.indexOf("Total Cards: 60");
+        deck = deck.substring(0, ii > -1 ? ii + 15 : deck.length).trim();
 
-      deck = deck.replaceAll("BSR", "BRS");
+        // Advance description to possibly next deck
+        description = description.substring(
+          description.indexOf(deck) + deck.length
+        );
 
-      // Normalize the deck text
-      deck = transformDeck(deck);
+        console.log(`Title: ${name}`);
+        console.log(`Published At: ${publishedAt}`);
+        console.log(`Deck: ${deck}`);
 
-      const date = new Date(publishedAt);
-      const formattedDate = `${date.getFullYear()}-${
-        date.getMonth() + 1 < 10 ? "0" : ""
-      }${date.getMonth() + 1}-${
-        date.getDate() < 10 ? "0" : ""
-      }${date.getDate()}`;
-
-      const deckId = `yt-${formattedDate}-${channelName}-${video.id}`;
-      const dirName = deckId; //await generateDeckName(name, description, deck);
-
-      fs.mkdirSync(`../decks/${channelName}/${dirName}`, {
-        recursive: true,
-      });
-
-      fs.writeFileSync(`../decks/${channelName}/${dirName}/deck.txt`, deck);
-
-      const coverCards = [];
-
-      deck.split(/\r?\n/).forEach((line) => {
-        const [_, quantity, name, set, number] =
-          line.match(/(\d+) (.+?) ([A-Z\-]+) (\d+)?/) || [];
-
-        if (!name) {
+        if (!deck.includes("Pokémon:") && !deck.includes("Pokemon:")) {
+          console.log("No deck found");
+          console.log("---------------------------------");
           return;
         }
 
-        if (
-          name.endsWith(" ex") ||
-          name.endsWith(" V") ||
-          name.endsWith(" VMAX") ||
-          name.endsWith(" VSTAR")
-        ) {
-          coverCards.push(line.substring(line.indexOf(" ") + 1));
-        }
-      });
+        deck = deck.replaceAll("BSR", "BRS");
 
-      const meta = {
-        id: deckId,
-        name: name,
-        author: channelName,
-        link: `https://www.youtube.com/watch?v=${video.id}`,
-        publishedAt: new Date(publishedAt),
-        coverCards,
-        tags: [],
-        legalities: { standard: !description.includes("expanded") },
-      };
+        // Normalize the deck text
+        deck = transformDeck(deck);
 
-      fs.writeFileSync(
-        `../decks/${channelName}/${deckId}/meta.json`,
-        JSON.stringify(meta, null, 2)
-      );
-      console.log("---------------------------------");
+        const date = new Date(publishedAt);
+        const formattedDate = `${date.getFullYear()}-${
+          date.getMonth() + 1 < 10 ? "0" : ""
+        }${date.getMonth() + 1}-${
+          date.getDate() < 10 ? "0" : ""
+        }${date.getDate()}`;
+
+        const deckId = `yt-${formattedDate}-${channelName}-${video.id}-${deckIndex}`;
+        const dirName = deckId;
+
+        fs.mkdirSync(`../decks/${channelName}/${dirName}`, {
+          recursive: true,
+        });
+
+        fs.writeFileSync(`../decks/${channelName}/${dirName}/deck.txt`, deck);
+
+        const coverCards = [];
+
+        deck.split(/\r?\n/).forEach((line) => {
+          const [_, quantity, name, set, number] =
+            line.match(/(\d+) (.+?) ([A-Z\-]+) (\d+)?/) || [];
+
+          if (!name) {
+            return;
+          }
+
+          if (
+            name.endsWith(" ex") ||
+            name.endsWith(" V") ||
+            name.endsWith(" VMAX") ||
+            name.endsWith(" VSTAR")
+          ) {
+            coverCards.push(line.substring(line.indexOf(" ") + 1));
+          }
+        });
+
+        const meta = {
+          id: deckId,
+          name: totalDecks > 1 ? `${deckIndex}. ${name}` : name,
+          author: channelName,
+          link: `https://www.youtube.com/watch?v=${video.id}`,
+          publishedAt: new Date(publishedAt),
+          coverCards,
+          tags: [],
+          legalities: { standard: !description.includes("expanded") },
+        };
+
+        fs.writeFileSync(
+          `../decks/${channelName}/${deckId}/meta.json`,
+          JSON.stringify(meta, null, 2)
+        );
+        console.log("---------------------------------");
+
+        deckIndex++;
+      }
     });
   }
 };
-
-// AI
-// const OpenAI = require("openai");
-
-// const openai = new OpenAI({
-//   // apiKey: OPENAI_API_KEY,
-// });
-
-// async function generateDeckName(deckVideoTitle, deckDescription, deckList) {
-//   console.log("wait");
-
-//   try {
-//     const completion = await openai.chat.completions.create({
-//       model: "gpt-4o-mini",
-//       messages: [
-//         {
-//           role: "system",
-//           content: fs.readFileSync("./src/prompt.txt", "utf8"),
-//         },
-//         {
-//           role: "user",
-//           content: `Title: ${deckVideoTitle}, Description: ${deckDescription}, Deck List: ${deckList}`,
-//         },
-//       ],
-//     });
-
-//     console.log("done");
-//     const deckName = completion.choices[0].message.content.trim();
-//     return deckName;
-//   } catch (error) {
-//     console.error("Error generating deck name:", error);
-//     return null;
-//   }
-// }
 
 main();
