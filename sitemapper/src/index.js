@@ -25,11 +25,17 @@ console.log("Found decks: ", foundDecks);
 
 const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+    <loc>https://gemfish.codes4tcg.live</loc>
+    <lastmod>${formatDate(new Date())}</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.7</priority>
+  </url>
 ${foundDecks
   .map(
     (deck) => `
   <url>
-    <loc>https://codes4tcg.live/deck?author=${deck.creator}&id=${
+    <loc>https://gemfish.codes4tcg.live/deck?author=${deck.creator}&id=${
       deck.deck.name
     }</loc>
     <lastmod>${formatDate(new Date())}</lastmod>
