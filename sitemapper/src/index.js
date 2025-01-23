@@ -23,9 +23,10 @@ creatorDirs.forEach((creatorDir) => {
 
 console.log("Found decks: ", foundDecks);
 
-const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url>
+const sitemap = `<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type='text/xsl' href='https://codes4tcg.live/wp-content/plugins/google-sitemap-generator/sitemap.xsl'?>
+<urlset xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd' xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
+  <url>
     <loc>https://gemfish.codes4tcg.live</loc>
     <lastmod>${formatDate(new Date())}</lastmod>
     <changefreq>never</changefreq>
@@ -35,7 +36,7 @@ ${foundDecks
   .map(
     (deck) => `
   <url>
-    <loc>https://gemfish.codes4tcg.live/deck?author=${deck.creator}&id=${
+    <loc>https://gemfish.codes4tcg.live/deck?author=${deck.creator}&amp;id=${
       deck.deck.name
     }</loc>
     <lastmod>${formatDate(new Date())}</lastmod>
