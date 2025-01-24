@@ -1,0 +1,39 @@
+Pokémon: 14
+3 Eevee ex PRE 75
+1 Sylveon ex SSP 86
+1 Jolteon ex PRE 30
+1 Umbreon ex PRE 60
+4 Eevee SSP 143
+1 Jolteon MEW 135
+1 Fezandipiti ex SFA 38
+1 Espeon ex PRE 34
+1 Flareon ex PRE 14
+1 Leafeon ex PRE 6
+1 Budew PRE 4
+1 Glaceon ex PRE 26
+1 Radiant Greninja ASR 46
+1 Vaporeon ex PRE 23
+
+Trainer: 12
+4 Tera Orb SSP 189
+2 Morty's Conviction TEF 155
+1 Pokégear 3.0 SVI 186
+2 Night Stretcher SFA 61
+2 Nest Ball SVI 181
+4 Professor's Research SVI 189
+2 Boss's Orders PAL 172
+3 Iono PAL 185
+4 Glass Trumpet SCR 135
+2 Ultra Ball SVI 196
+1 Sparkling Crystal SCR 142
+3 Earthen Vessel PAR 163
+
+Energy: 6
+3 Basic {R} Energy SVE 10
+2 Basic {L} Energy SVE 12
+1 Basic {G} Energy SVE 9
+1 Basic {D} Energy SVE 15
+3 Basic {W} Energy SVE 11
+1 Basic {P} Energy SVE 13
+
+Total Cards: 60

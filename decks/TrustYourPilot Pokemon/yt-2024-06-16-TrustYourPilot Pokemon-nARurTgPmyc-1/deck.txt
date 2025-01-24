@@ -1,0 +1,90 @@
+Pokémon: 5
+4 Flamigo PAL 170
+4 Murkrow PAL 131
+4 Wattrel PAL 80
+3 Ditto PGO 53
+1 Squawkabilly ex PAL 169
+
+Trainer: 14
+4 Ultra Ball PAF 91
+1 Nest Ball PAF 84
+4 Capturing Aroma SIT 153
+1 Hisuian Heavy Ball ASR 146
+1 Super Rod PAL 188
+1 Pal Pad SVI 182
+1 Earthen Vessel PAR 163
+1 Secret Box TWM 163
+1 Defiance Band SVI 169
+4 Professor's Research SVI 190
+2 Boss's Orders PAL 172
+4 Carmine TWM 145
+1 Grant ASR 144
+2 Collapsed Stadium BRS 137
+
+Energy: 2
+4 Double Turbo Energy BRS 151
+3 Basic {D} Energy SVE 7
+
+Total Cards: 51
+
+
+UNITED WINGS DECK LIST 2:
+
+Pokémon: 8
+4 Flamigo PAL 170
+4 Murkrow PAL 131
+4 Wattrel PAL 80
+2 Ditto PGO 53
+1 Squawkabilly ex PAL 169
+3 Purrloin CRZ 77
+3 Liepard BRS 91
+1 Manaphy BRS 41
+
+Trainer: 12
+4 Ultra Ball PAF 91
+2 Nest Ball PAF 84
+2 Hisuian Heavy Ball ASR 146
+2 Super Rod PAL 188
+1 Pal Pad SVI 182
+1 Maximum Belt TEF 154
+1 Rescue Board TEF 159
+4 Professor's Research SVI 190
+2 Boss's Orders PAL 172
+2 Iono PAF 80
+3 Pokégear 3.0 SVI 186
+2 Collapsed Stadium BRS 137
+
+Energy: 2
+4 Double Turbo Energy BRS 151
+4 Basic {D} Energy SVE 7
+
+Total Cards: 56
+
+
+UNITED WINGS DECK LIST 3:
+
+Pokémon: 26
+4 Flamigo PAL 170
+4 Murkrow PAL 131
+4 Wattrel PAL 80
+4 Ditto PGO 53
+1 Squawkabilly ex PAL 169
+1 Manaphy BRS 41
+
+Trainer: 25
+4 Carmine TWM 145
+3 Professor's Research SVI 190
+2 Boss's Orders PAL 172
+4 Ultra Ball PAF 91
+3 Pokégear 3.0 SVI 186
+1 Hisuian Heavy Ball ASR 146
+1 Super Rod PAL 188
+1 Pal Pad SVI 182
+1 Earthen Vessel PAR 163
+1 Prime Catcher TEF 157
+2 PokéStop PGO 68
+1 Collapsed Stadium BRS 137
+
+Energy: 9
+5 Basic {D} Energy SVE 7
+4 Double Turbo Energy BRS 151

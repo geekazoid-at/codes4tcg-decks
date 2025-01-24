@@ -1,13 +1,13 @@
 const axios = require("axios");
 const fs = require("fs");
-const transformDeck = require("./deckTransformer");
+const transformDeck = require("./deckTransformer").transformDeck;
 
 const API_KEY = "AIzaSyCrF9wwzpO0p-qK1JoaZXd2ZKlhMRfb714"; // Replace with your YouTube Data API key
 
 const channelIds = [
-  // "UCkIP7BHKg-6NN56eVXfrmJw", // Pokephil
+  "UCkIP7BHKg-6NN56eVXfrmJw", // Pokephil
   // "UCAhRWmekXLryJOZRUYR4seQ", // LDF
-  "UCZiUkbtzrEzCiDZ09oZYBbQ", // Trust your pilot
+  // "UCZiUkbtzrEzCiDZ09oZYBbQ", // Trust your pilot
 ];
 
 const MAX_RESULTS = 50;
@@ -97,7 +97,7 @@ const main = async () => {
       allVideos = allVideos.concat(videos);
       pageToken = nextPageToken;
       i++;
-    } while (pageToken && i < 1);
+    } while (pageToken && i < 5);
 
     console.log(`Channel: ${channelName}`);
     console.log(`Total YouTube videos fetched: ${allVideos.length}`);

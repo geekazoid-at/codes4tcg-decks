@@ -1,0 +1,101 @@
+Pokémon:
+2 Bibarel BRS 121
+1 Brute Bonnet PAR 123
+1 Radiant Greninja ASR 46
+1 Morpeko PAR 121
+1 Roaring Moon ex PAR 251
+3 Roaring Moon ex PAR 124
+2 Bidoof CRZ 111
+1 Squawkabilly ex PAL 169
+
+Trainer:
+4 Ultra Ball SVI 196
+3 Professor Sada's Vitality PAR 170
+1 Switch SVI 194
+2 Switch Cart ASR 154
+2 Iono PAL 185
+4 Dark Patch ASR 139
+1 Escape Rope BST 125
+3 Ancient Booster Energy Capsule PAR 159
+1 Professor Sada's Vitality PAR 256
+4 Battle VIP Pass FST 225
+3 PokéStop PGO 68
+1 Super Rod PAL 188
+1 Pokégear 3.0 SVI 186
+1 Collapsed Stadium BRS 137
+3 Earthen Vessel PAR 163
+3 Boss's Orders PAL 172
+1 Town Store OBF 196
+
+Energy:
+8 Basic {D} Energy SVE 7
+2 Jet Energy PAL 190
+
+
+
+ROARING MOON EX DARKRAI BUILD:
+
+Pokémon:
+2 Darkrai VSTAR CRZ-GG 50
+1 Morpeko PAR 121
+2 Darkrai V ASR 98
+1 Radiant Greninja ASR 46
+2 Roaring Moon ex PAR 124
+1 Squawkabilly ex PAL 169
+1 Roaring Moon ex PAR 251
+1 Galarian Moltres EVS 93
+
+Trainer: 17
+4 Ultra Ball SVI 196
+3 Professor Sada's Vitality PAR 170
+1 Switch Cart ASR 154
+1 Judge SVI 176
+4 Dark Patch ASR 139
+2 Ancient Booster Energy Capsule PAR 159
+1 Path to the Peak CRE 148
+4 Cross Switcher FST 230
+4 Battle VIP Pass FST 225
+4 PokéStop PGO 68
+1 Pokégear 3.0 SVI 186
+3 Earthen Vessel PAR 163
+1 Boss's Orders PAL 172
+1 Collapsed Stadium BRS 137
+1 Klara CRE 145
+1 Pal Pad SVI 182
+1 Iono PAL 185
+
+Energy: 1
+12 Basic {D} Energy SVE 7
+
+
+
+BEST BUILD OF ROARING MOON EX:
+
+Pokémon:
+1 Lumineon V BRS 40
+2 Mew ex MEW 151
+1 Brute Bonnet PAR 123
+1 Radiant Greninja ASR 46
+4 Roaring Moon ex PAR 124
+2 Squawkabilly ex PAL 169
+
+Trainer:
+4 Ultra Ball SVI 196
+2 Switch Cart ASR 154
+4 Dark Patch ASR 139
+1 Escape Rope BST 125
+4 Earthen Vessel PAR 163
+1 Hisuian Heavy Ball ASR 146
+4 Battle VIP Pass FST 225
+1 Iono PAL 185
+4 PokéStop PGO 68
+4 Professor Sada's Vitality PAR 170
+3 Pokégear 3.0 SVI 186
+1 Pal Pad SVI 182
+3 Ancient Booster Energy Capsule PAR 159
+1 Boss's Orders PAL 172
+
+Energy:
+12 Basic {D} Energy SVE 7
+
+Total Cards: 60

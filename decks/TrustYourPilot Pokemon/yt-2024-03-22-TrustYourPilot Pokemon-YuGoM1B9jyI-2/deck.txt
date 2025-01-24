@@ -1,0 +1,28 @@
+Pokémon: 5
+4 Koraidon TEF 119
+1 Radiant Greninja ASR 46
+3 Flutter Mane TEF 78
+4 Roaring Moon TEF 109
+2 Roaring Moon ex PAR 124
+
+Trainer: 14
+2 Dark Patch ASR 139
+1 Awakening Drum TEF 141
+4 Earthen Vessel PAR 163
+4 Explorer's Guidance TEF 147
+3 Counter Catcher PAR 160
+1 Lost Vacuum CRZ 135
+3 Artazon PAF 76
+4 Professor Sada's Vitality PAR 170
+1 Superior Energy Retrieval PAL 189
+1 Super Rod PAL 188
+4 Pokégear 3.0 SVI 186
+4 Nest Ball PAF 84
+4 Ancient Booster Energy Capsule PAR 159
+1 Boss's Orders PAL 172
+
+Energy: 2
+6 Basic {D} Energy SVE 7
+3 Basic {F} Energy SVE 6
+
+Total Cards: 60

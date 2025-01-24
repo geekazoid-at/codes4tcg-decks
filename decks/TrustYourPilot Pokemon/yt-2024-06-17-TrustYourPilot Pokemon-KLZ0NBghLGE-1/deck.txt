@@ -1,0 +1,65 @@
+Pokémon: 4
+1 Mew ex MEW 151
+4 Iron Valiant ex PAR 89
+1 Bloodmoon Ursaluna ex TWM 141
+1 Squawkabilly ex PAL 169
+
+Trainer: 15
+4 Switch SVI 194
+4 Switch Cart ASR 154
+4 Ultra Ball PAF 91
+3 Earthen Vessel PAR 163
+4 Professor's Research PAF 87
+2 Energy Retrieval SVI 171
+2 Future Booster Energy Capsule TEF 149
+1 Lana's Aid TWM 155
+2 PokéStop PGO 68
+2 Super Rod PAL 188
+1 Prime Catcher TEF 157
+1 Pal Pad SVI 182
+4 Nest Ball PAF 84
+1 Techno Radar PAR 180
+1 Boss's Orders PAL 172
+
+Energy: 2
+8 Basic {F} Energy SVE 6
+3 Jet Energy PAL 190
+
+Total Cards: 54
+
+
+BLISSEY EX URSALUNA DECK LIST:
+
+Pokémon: 7
+4 Chansey PGO 51
+3 Blissey ex TWM 134
+2 Munkidori TWM 95
+1 Cornerstone Mask Ogerpon ex TWM 112
+1 Mew ex MEW 151
+1 Mimikyu PAF 37
+1 Radiant Greninja ASR 46
+
+Trainer: 14
+4 Nest Ball PAF 84
+4 Ultra Ball PAF 91
+1 Hisuian Heavy Ball ASR 146
+1 Pal Pad SVI 182
+3 Earthen Vessel PAR 163
+2 Energy Retrieval SVI 171
+1 Prime Catcher TEF 157
+1 Technical Machine: Devolution PAR 177
+4 Iono PAF 80
+1 Boss's Orders PAL 172
+2 Professor Turo's Scenario PAR 171
+4 Ciphermaniac's Codebreaking TEF 145
+1 Lana's Aid TWM 155
+3 Calamitous Snowy Mountain PAL 174
+
+Energy: 5
+5 Basic {F} Energy SVE 6
+2 Double Turbo Energy BRS 151
+1 Jet Energy PAL 190
+2 Basic {D} Energy SVE 7
+1 Basic {P} Energy SVE 5
+
+Total Cards: 56
