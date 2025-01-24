@@ -1,0 +1,41 @@
+Pokémon: 14
+1 Fezandipiti ex SFA 38
+1 Sylveon ex SSP 86
+1 Bibarel BRS 121
+1 Umbreon ex PRE 60
+1 Jolteon ex PRE 30
+4 Eevee SSP 143
+1 Vaporeon ex PRE 23
+1 Espeon ex PRE 34
+1 Leafeon ex PRE 6
+1 Glaceon ex PRE 26
+1 Radiant Greninja ASR 46
+1 Eevee ex PRE 75
+1 Bidoof CRZ 111
+2 Flareon ex PRE 14
+
+Trainer: 14
+2 Buddy-Buddy Poffin TEF 144
+1 Crispin PRE 105 PH
+3 Professor's Research PRE 122
+2 Nest Ball PAF 84
+2 Tera Orb SSP 189
+3 Boss's Orders PAL 172
+1 Earthen Vessel PAR 163
+2 Switch SVI 194
+2 Ultra Ball SVI 196
+2 Night Stretcher SFA 61
+3 Iono PAF 80
+4 Arven SVI 166
+2 Glass Trumpet SCR 135
+1 Sparkling Crystal SCR 142
+
+Energy: 6
+3 Basic {R} Energy BUS 167
+1 Basic {D} Energy BUS 168
+2 Basic {G} Energy GRI 167
+2 Basic {L} Energy GRI 168
+3 Basic {W} Energy CIN 124
+1 Basic {P} Energy SUM 162
+
+Total Cards: 60
