@@ -62,14 +62,6 @@ const main = async () => {
 
       deck = deck.substring(0, deck.indexOf("Total Cards: 60") + 15).trim();
 
-      // Advance description to possibly next deck
-      videoDescription = videoDescription.substring(
-        videoDescription.indexOf(deck) + deck.length
-      );
-
-      console.log(`Title: ${videoName}`);
-      console.log(`Deck: ${deck}`);
-
       if (
         !videoDescription.includes("Total Cards:") ||
         !(deck.includes("Pokémon:") || deck.includes("Pokemon:"))
@@ -78,6 +70,13 @@ const main = async () => {
         console.log("---------------------------------");
         return;
       }
+
+      // Advance description to possibly next deck
+      videoDescription = videoDescription.substring(
+        videoDescription.indexOf(deck) + deck.length
+      );
+
+      console.log(`Title: ${videoName}`);
 
       // Deck itself
       deck = deck.replaceAll("BSR", "BRS");
@@ -156,6 +155,7 @@ const main = async () => {
           link: `https://www.youtube.com/watch?v=${video.id}`,
           publishedAt: new Date(publishedAt),
           tags: [],
+          decksCount: totalDecks,
         };
 
         fs.writeFileSync(
