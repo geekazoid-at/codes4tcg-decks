@@ -5,9 +5,9 @@ const transformDeck = require("./deckTransformer").transformDeck;
 const API_KEY = "AIzaSyCrF9wwzpO0p-qK1JoaZXd2ZKlhMRfb714"; // Replace with your YouTube Data API key
 
 const channelIds = [
-  "UCkIP7BHKg-6NN56eVXfrmJw", // Pokephil
+  //"UCkIP7BHKg-6NN56eVXfrmJw", // Pokephil
   // "UCAhRWmekXLryJOZRUYR4seQ", // LDF
-  // "UCZiUkbtzrEzCiDZ09oZYBbQ", // Trust your pilot
+  "UCZiUkbtzrEzCiDZ09oZYBbQ", // Trust your pilot
 ];
 
 const MAX_RESULTS = 50;
@@ -190,7 +190,7 @@ const main = async () => {
 
         const meta = {
           id: deckId,
-          name: totalDecks > 1 ? `${deckIndex}. ${name}` : name,
+          name: name,
           author: channelName,
           link: `https://www.youtube.com/watch?v=${video.id}`,
           publishedAt: new Date(publishedAt),
@@ -198,6 +198,10 @@ const main = async () => {
           tags: [],
           legalities: { standard: !description.includes("expanded") },
         };
+
+        if (totalDecks > 1) {
+          meta.index = deckIndex;
+        }
 
         fs.writeFileSync(
           `../decks/${channelName}/${deckId}/meta.json`,

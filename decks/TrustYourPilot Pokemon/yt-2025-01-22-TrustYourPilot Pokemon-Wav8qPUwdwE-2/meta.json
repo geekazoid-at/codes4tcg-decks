@@ -1,6 +1,6 @@
 {
   "id": "yt-2025-01-22-TrustYourPilot Pokemon-Wav8qPUwdwE-2",
-  "name": "2. I played a deck with every Eeveelution so you don't have to",
+  "name": "I played a deck with every Eeveelution so you don't have to",
   "author": "TrustYourPilot Pokemon",
   "link": "https://www.youtube.com/watch?v=Wav8qPUwdwE",
   "publishedAt": "2025-01-22T19:30:04.000Z",
@@ -19,5 +19,6 @@
   "tags": [],
   "legalities": {
     "standard": true
-  }
+  },
+  "index": 2
 }
