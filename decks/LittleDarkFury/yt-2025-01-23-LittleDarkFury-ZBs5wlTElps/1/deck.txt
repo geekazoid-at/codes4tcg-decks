@@ -1,0 +1,37 @@
+Pokémon: 8
+1 Munkidori TWM 95
+1 Togekiss SSP 72
+1 Fezandipiti ex SFA 38
+1 Togepi ASR 55
+4 Gimmighoul SSP 97
+1 Radiant Greninja ASR 46
+1 Manaphy BRS 41
+4 Gholdengo ex PAR 139
+
+Trainer: 20
+1 Lana's Aid TWM 155
+4 Buddy-Buddy Poffin TEF 144
+1 Hisuian Heavy Ball ASR 146
+1 Lost Vacuum LOR 162
+4 Superior Energy Retrieval PAL 189
+1 Boss's Orders SHF 58
+2 PokéStop PGO 68
+3 Ciphermaniac's Codebreaking TEF 145
+1 Rare Candy PAF 89
+1 Max Rod PRE 116
+2 Nest Ball SVI 181
+1 Nest Ball SVI 255
+2 Night Stretcher SFA 61
+2 Iono PAF 80
+1 Letter of Encouragement OBF 189
+2 Ultra Ball SVI 196
+1 Counter Catcher PAR 160
+2 Irida ASR 147 PH
+1 Energy Retrieval SVI 171
+3 Earthen Vessel PRE 106
+
+Energy: 2
+7 Basic {M} Energy SUM 163
+3 Basic {D} Energy BUS 168
+
+Total Cards: 60

@@ -3,9 +3,9 @@ import fs from "fs";
 import { germanToEnglish, transformDeck } from "./utils/deckTransformer.js";
 import { getYouTubeVideos, getChannelName } from "./api/youtube.js";
 
-const channelId = "UCZiUkbtzrEzCiDZ09oZYBbQ"; // Trust your pilot
+// const channelId = "UCZiUkbtzrEzCiDZ09oZYBbQ"; // Trust your pilot
 // const channelId = "UCkIP7BHKg-6NN56eVXfrmJw"; // Pokephil
-// const channelId = "UCAhRWmekXLryJOZRUYR4seQ"; // LDF
+const channelId = "UCAhRWmekXLryJOZRUYR4seQ"; // LDF
 
 const main = async () => {
   const { videos: allVideos } = await getYouTubeVideos(channelId);
