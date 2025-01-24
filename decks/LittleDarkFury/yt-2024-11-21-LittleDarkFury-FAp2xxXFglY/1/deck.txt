@@ -1,0 +1,40 @@
+Pokémon: 10
+1 Rotom V LOR 58
+1 Fezandipiti ex SFA 38
+3 Slaking ex SSP 147
+2 Pidgey OBF 162
+1 Fan Rotom SCR 118
+1 Vigoroth PAL 161
+3 Slakoth PAL 160
+2 Pidgeot ex OBF 164
+1 Radiant Charizard PGO 11
+
+Trainer: 20
+4 Ultra Ball SVI 196
+4 Rare Candy SVI 191
+1 Super Rod PAL 188
+3 Iono PAL 185
+1 Night Stretcher SFA 61
+1 Mela PAR 167
+1 Lost Vacuum LOR 162
+1 Choice Belt BRS 135
+4 Buddy-Buddy Poffin TEF 144
+1 Maximum Belt TEF 154
+1 Pal Pad SVI 182
+1 Colress's Tenacity SFA 57
+1 Forest Seal Stone SIT 156
+1 Collapsed Stadium BRS 137
+4 Arven SVI 166
+1 Counter Catcher PAR 160
+1 Counter Gain SSP 169
+1 Professor Turo's Scenario PAR 171
+2 Boss's Orders PAL 172
+3 Nest Ball SVI 181
+
+Energy: 4
+3 Double Turbo Energy BRS 151
+2 Basic {R} Energy BUS 167
+1 Boomerang Energy TWM 166
+2 Jet Energy PAL 190
+
+Total Cards: 60

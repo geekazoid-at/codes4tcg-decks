@@ -1,0 +1,34 @@
+Pokémon: 9
+2 Bibarel BRS 121
+1 Fezandipiti ex SFA 38
+1 Bloodmoon Ursaluna ex TWM 141
+1 Cleffa OBF 80
+4 Charjabug SCR 52
+4 Grubbin TEF 18
+1 Manaphy BRS 41
+3 Vikavolt TEF 56
+2 Bidoof CRZ 111
+
+Trainer: 15
+1 Boss's Orders PAL 172
+4 Buddy-Buddy Poffin TEF 144
+1 Hassel TWM 151
+2 Super Rod PAL 188
+3 Rare Candy SVI 191
+1 Nest Ball SVI 181
+1 Earthen Vessel SFA 96
+2 Night Stretcher SFA 61
+1 Switch SVI 194
+4 Ultra Ball SVI 196
+1 Jamming Tower TWM 153
+4 Iono PAL 185
+1 Defiance Band SVI 169
+2 Counter Catcher PAR 160
+4 Arven SVI 166
+
+Energy: 3
+4 Basic {L} Energy GRI 168
+4 Reversal Energy PAL 192
+1 Neo Upper Energy TEF 162
+
+Total Cards: 60

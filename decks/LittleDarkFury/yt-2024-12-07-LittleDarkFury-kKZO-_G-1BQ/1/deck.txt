@@ -1,0 +1,37 @@
+Pokémon: 9
+1 Bloodmoon Ursaluna ex TWM 141
+1 Wo-Chien SSP 15
+1 Sableye LOR 70
+1 Pikachu ex SSP 57
+1 Manaphy BRS 41
+1 Radiant Greninja ASR 46
+1 Iron Bundle PAR 56
+1 Cramorant LOR 50
+4 Comfey LOR 79
+
+Trainer: 16
+4 Switch Cart ASR 154
+1 Hisuian Heavy Ball ASR 146
+1 Night Stretcher SFA 61
+4 Super Rod PAL 188
+2 Lost Vacuum LOR 162
+4 PokéStop PGO 68
+3 Buddy-Buddy Poffin TEF 144
+1 Rescue Board TEF 159
+1 Prime Catcher TEF 157
+1 Pal Pad SVI 182
+4 Mirage Gate LOR 163
+1 Pokégear 3.0 SVI 186
+1 Boss's Orders PAL 172
+4 Colress's Experiment LOR 155
+3 Switch SVI 194
+4 Nest Ball SVI 181
+
+Energy: 5
+1 Basic {P} Energy SUM 162
+1 Basic {M} Energy SUM 163
+2 Basic {W} Energy CIN 124
+3 Basic {G} Energy GRI 167
+2 Basic {L} Energy GRI 168
+
+Total Cards: 60

@@ -1,0 +1,37 @@
+Pokémon: 9
+1 Munkidori TWM 95
+3 Dragapult ex TWM 130
+4 Drakloak TWM 129
+4 Dreepy TWM 128
+2 Gimmighoul SSP 97
+1 Manaphy BRS 41
+1 Klefki SVI 96
+1 Radiant Alakazam SIT 59
+2 Gholdengo ex PAR 139
+
+Trainer: 17
+1 Lana's Aid TWM 155
+3 Buddy-Buddy Poffin TEF 144
+4 Crispin SCR 133
+1 Rescue Board TEF 159
+1 Super Rod PAL 188
+1 Precious Trolley SSP 185
+2 Superior Energy Retrieval PAL 189
+2 Earthen Vessel PAR 163
+1 Switch SVI 194
+1 Artazon PAL 171
+2 Ultra Ball SVI 196
+1 Night Stretcher SFA 61
+1 Iono PAF 80
+1 Counter Catcher PAR 160
+2 Technical Machine: Evolution PAR 178
+4 Arven SVI 166
+2 Boss's Orders PAL 172
+
+Energy: 4
+3 Basic {R} Energy BUS 167
+2 Basic {D} Energy BUS 168
+3 Basic {P} Energy SUM 162
+3 Basic {M} Energy SUM 163
+
+Total Cards: 60

@@ -1,0 +1,32 @@
+Pokémon: 10
+3 Slowpoke PGO 19
+4 Kirlia SIT 68
+3 Slowking SCR 58
+1 Scream Tail PAR 86
+2 Onix PGO 36
+1 Kyurem SFA 47
+4 Ralts ASR 60
+1 Radiant Greninja ASR 46
+1 Manaphy BRS 41
+2 Gardevoir ex SVI 86
+
+Trainer: 14
+4 Buddy-Buddy Poffin TEF 144
+2 Super Rod PAL 188
+3 Academy at Night SFA 54
+1 Nest Ball SVI 181
+1 Earthen Vessel PAR 163
+3 Night Stretcher SFA 61
+3 Ultra Ball SVI 196
+1 Hyper Aroma TWM 152
+4 Iono PAL 185
+2 Technical Machine: Evolution PAR 178
+1 Professor Turo's Scenario PAR 171
+1 Counter Catcher PAR 160
+4 Arven SVI 166
+1 Lana's Aid TWM 155
+
+Energy: 1
+7 Basic {P} Energy SUM 162
+
+Total Cards: 60

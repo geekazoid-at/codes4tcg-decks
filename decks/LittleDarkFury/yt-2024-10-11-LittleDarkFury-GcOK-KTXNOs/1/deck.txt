@@ -1,0 +1,33 @@
+Pokémon: 10
+1 Skwovet SVI 151
+2 Bibarel BRS 121
+1 Bidoof BRS 120
+4 Machamp MEW 68
+1 Manaphy BRS 41
+1 Cleffa OBF 80
+1 Luxray PAL 71
+1 Bidoof CRZ 111
+2 Machoke LOR 87
+4 Machop MEW 66
+
+Trainer: 14
+1 Earthen Vessel PAR 163
+4 Ultra Ball SVI 196
+4 Rare Candy SVI 191
+2 Super Rod PAL 188
+4 Iono PAL 185
+1 Artazon PAL 171
+4 Buddy-Buddy Poffin TEF 144
+4 Arven SVI 186
+2 Counter Catcher PAR 160
+1 Neutralization Zone SFA 60
+1 Boss's Orders PAL 172
+1 Cynthia's Ambition BRS 138
+1 Night Stretcher SFA 61
+2 Exp. Share SVI 174
+
+Energy: 2
+4 Reversal Energy PAL 192
+6 Basic {F} Energy GRI 169
+
+Total Cards: 60

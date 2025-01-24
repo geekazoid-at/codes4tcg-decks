@@ -1,0 +1,31 @@
+Pokémon: 8
+2 Bibarel BRS 121
+4 Dodrio MEW 85
+4 Doduo MEW 84
+3 Grapploct SSP 113
+3 Clobbopus SSP 112
+1 Clobbopus SSP 207
+1 Manaphy BRS 41
+2 Bidoof CRZ 111
+
+Trainer: 14
+1 Earthen Vessel PAR 163
+2 Defiance Band SVI 169
+3 Ultra Ball SVI 196
+1 Super Rod PAL 188
+4 Iono PAL 185
+2 Night Stretcher SFA 61
+3 Great Ball PAL 183
+3 Buddy-Buddy Poffin TEF 144
+3 Damage Pump LOR 156
+4 Gapejaw Bog ASR 142
+1 Counter Catcher PAR 160
+2 Boss's Orders PAL 172
+3 Professor's Research SVI 196
+1 Switch SVI 190
+
+Energy: 2
+1 Legacy Energy TWM 167
+6 Basic {F} Energy GRI 169
+
+Total Cards: 60

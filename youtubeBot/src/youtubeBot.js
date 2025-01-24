@@ -3,15 +3,29 @@ import fs from "fs";
 import { germanToEnglish, transformDeck } from "./utils/deckTransformer.js";
 import { getYouTubeVideos, getChannelName } from "./api/youtube.js";
 
-// const channelId = "UCZiUkbtzrEzCiDZ09oZYBbQ"; // Trust your pilot
+const channelId = "UCZiUkbtzrEzCiDZ09oZYBbQ"; // Trust your pilot
 // const channelId = "UCkIP7BHKg-6NN56eVXfrmJw"; // Pokephil
-const channelId = "UCAhRWmekXLryJOZRUYR4seQ"; // LDF
+// const channelId = "UCAhRWmekXLryJOZRUYR4seQ"; // LDF
 
 const main = async () => {
-  const { videos: allVideos } = await getYouTubeVideos(channelId);
   const channelName = await getChannelName(channelId);
 
   console.log(`Channel: ${channelName}`);
+  let allVideos = [];
+  let pageToken = "";
+
+  let i = 0;
+
+  do {
+    const { videos, nextPageToken } = await getYouTubeVideos(
+      channelId,
+      pageToken
+    );
+    allVideos = allVideos.concat(videos);
+    pageToken = nextPageToken;
+    i++;
+  } while (pageToken && i < 5);
+
   console.log(`Total YouTube videos fetched: ${allVideos.length}`);
 
   await allVideos.forEach(async (video) => {
@@ -51,7 +65,7 @@ const main = async () => {
 
         deckName = lines[deckStartsAt - 1];
 
-        if (deckName.endsWith(":")) {
+        if (deckName?.endsWith(":")) {
           deckName = deckName.substring(0, deckName.length - 1);
         }
       }

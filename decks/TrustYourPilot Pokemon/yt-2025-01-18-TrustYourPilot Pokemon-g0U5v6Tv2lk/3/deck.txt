@@ -1,0 +1,37 @@
+Pokémon: 8
+2 Bibarel BRS 121
+1 Latias ex SSP 76
+1 Crocalor PAL 36
+4 Budew PRE 4
+3 Fuecoco PAL 34
+2 Bidoof CRZ 111
+3 Skeledirge ex PAR 137
+1 Radiant Charizard PGO 11
+
+Trainer: 21
+4 Ultra Ball SVI 196
+1 Buddy-Buddy Poffin PRE 101
+1 Switch SVI 194
+2 Earthen Vessel PRE 106
+1 Xerosic's Machinations SFA 64
+3 Rare Candy SVI 191
+1 Defiance Band SVI 169
+2 Energy Retrieval SVI 171
+2 Counter Catcher PAR 160
+1 Hisuian Heavy Ball ASR 146
+4 Iono PAL 185
+1 Technical Machine: Devolution PAR 177
+1 Night Stretcher SFA 61
+1 Super Rod PAL 188
+1 Technical Machine: Evolution PAR 178
+2 Nest Ball SVI 181
+1 Precious Trolley SSP 185
+1 Artazon PAL 171
+4 Arven SVI 166
+1 Boss's Orders PAL 172
+1 Magma Basin BRS 144
+
+Energy: 1
+7 Basic {R} Energy SVE 10
+
+Total Cards: 60

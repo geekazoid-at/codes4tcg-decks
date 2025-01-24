@@ -1,0 +1,37 @@
+Pokémon: 4
+4 Comfey SCR 63
+2 Mimikyu PAF 37
+1 Mawile LOR 71
+1 Manaphy BRS 41
+
+Trainer: 25
+4 Buddy-Buddy Poffin TEF 144
+3 Counter Catcher PAR 160
+2 Eri TEF 146
+1 Erika's Invitation MEW 160
+2 Gravity Gemstone SCR 137
+2 Miss Fortune Sisters LOR 164
+1 Xerosic's Machinations SFA 64
+1 Hand Trimmer TEF 150
+2 Super Rod PAL 188
+2 Night Stretcher SFA 61
+2 PokéStop PGO 68
+4 Pokégear 3.0 SVI 186
+2 Accompanying Flute TWM 142
+3 Nest Ball SVI 181
+1 Hisuian Heavy Ball ASR 146
+2 Pal Pad SVI 182
+4 Arven SVI 166
+1 Earthen Vessel PAR 163
+1 Neutralization Zone SFA 60
+1 Hassel TWM 151
+1 Cyllene ASR 138
+1 Boss's Orders Pal 172
+1 Team Yell's Cheer BRS 149
+1 Rescue Board Tef 159
+1 Artazon PAL 171
+
+Energy: 1
+6 Basic {P} Energy SUM 162
+
+Total Cards: 60

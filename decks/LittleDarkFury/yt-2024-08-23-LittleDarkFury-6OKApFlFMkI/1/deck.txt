@@ -1,0 +1,37 @@
+Pokémon: 9
+4 Wugtrio SVI 57
+3 Bibarel BRS 121
+1 Bloodmoon Ursaluna ex TWM 141
+2 Bidoof BRS 120
+4 Wiglett SVI 56
+1 Manaphy BRS 41
+1 Skwovet SVI 151
+1 Bidoof CRZ 111
+1 Mimikyu PAL 97
+
+Trainer: 18
+1 Boss's Orders PAL 172
+4 Buddy-Buddy Poffin TEF 144
+2 Super Rod PAL 188
+2 Artazon PAL 171
+1 Eri TEF 146
+1 Nest Ball SVI 181
+1 Night Stretcher SFA 61
+1 Pal Pad SVI 182
+1 Switch SVI 194
+4 Ultra Ball SVI 196
+2 Iono PAL 185
+2 Roseanne's Backup BRS 148
+3 Colress's Experiment LOR 155
+3 Counter Catcher PAR 160
+2 Colress's Tenacity SFA 57
+1 Xerosic's Machinations SFA 64
+1 Neutralization Zone SFA 60
+1 Miss Fortune Sisters LOR 164
+
+Energy: 3
+3 Double Turbo Energy BRS 151
+4 Reversal Energy PAL 192
+2 Basic {P} Energy SUM 162
+
+Total Cards: 60

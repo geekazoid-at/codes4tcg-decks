@@ -1,0 +1,34 @@
+Pokémon: 6
+4 Gholdengo ex PAR 139
+2 Origin Forme Palkia V ASR 39
+4 Gimmighoul PAR 88
+2 Origin Forme Palkia VSTAR ASR 40
+1 Radiant Greninja ASR 46
+1 Spiritomb PAL 89
+
+Trainer: 19
+2 Boss's Orders PAL 172
+4 Buddy-Buddy Poffin TEF 144
+1 Cyllene ASR 138
+3 PokéStop PGO 68
+4 Superior Energy Retrieval PAL 189
+1 Ciphermaniac's Codebreaking TEF 145
+1 Roxanne ASR 150
+3 Nest Ball SVI 181
+1 Pal Pad SVI 182
+1 Switch SVI 194
+2 Ultra Ball SVI 196
+1 Hyper Aroma TWM 152
+2 Iono PAL 185
+1 Counter Catcher PAR 160
+4 Irida ASR 147
+1 Energy Retrieval SVI 171
+1 Canceling Cologne ASR 136
+2 Earthen Vessel PAR 163
+1 Super Rod PAL 181
+
+Energy: 2
+7 Basic {W} Energy CIN 124
+3 Basic {M} Energy SUM 163
+
+Total Cards: 60

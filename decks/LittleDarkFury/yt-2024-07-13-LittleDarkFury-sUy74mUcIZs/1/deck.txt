@@ -1,0 +1,32 @@
+Pokémon: 11
+3 Bibarel BRS 121
+4 Arceus V BRS 122
+1 Spiritomb PAL 89
+2 Giratina VSTAR LOR 131
+1 Bloodmoon Ursaluna ex TWM 141
+2 Bidoof BRS 120
+3 Arceus VSTAR BRS 123
+1 Radiant Tsareena SIT 16
+1 Skwovet PAF 205
+2 Giratina V LOR 130
+1 Bidoof CRZ 111
+
+Trainer: 10
+3 Boss's Orders PAL 172
+1 Lost Vacuum LOR 162
+4 Nest Ball SVI 181
+1 Maximum Belt TEF 154
+3 Lost City LOR 161
+1 Switch SVI 194
+4 Ultra Ball SVI 196
+4 Iono PAL 185
+3 Judge SVI 176
+1 Professor Turo's Scenario PAR 171
+
+Energy: 4
+5 Basic {G} Energy GRI 167
+1 Jet Energy PAL 190
+4 Double Turbo Energy BRS 151
+4 Basic {P} Energy SUM 162
+
+Total Cards: 60

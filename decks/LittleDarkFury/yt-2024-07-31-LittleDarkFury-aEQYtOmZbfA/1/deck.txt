@@ -1,0 +1,30 @@
+Pokémon: 11
+1 Bibarel BRS 121
+2 Charcadet OBF 43
+1 Delphox V LOR 27
+2 Charizard V BRS 17
+1 Armarouge ex PAR 27
+4 Arceus V BRS 122
+1 Radiant Heatran ASR 27
+3 Arceus VSTAR BRS 123
+2 Charizard VSTAR BRS 18
+1 Bidoof CRZ 111
+2 Armarouge SVI 41
+
+Trainer: 10
+1 Lost Vacuum LOR 162
+4 Professor's Research PAF 87
+4 Nest Ball SVI 181
+3 Boss's Orders PAL 172
+1 Choice Belt PAL 176
+1 Switch SVI 194
+1 Maximum Belt TEF 154
+4 Ultra Ball SVI 196
+4 Magma Basin BRS 144
+4 Iono PAL 185
+
+Energy: 2
+4 Double Turbo Energy BRS 151
+9 Basic {R} Energy Energy 19
+
+Total Cards: 60

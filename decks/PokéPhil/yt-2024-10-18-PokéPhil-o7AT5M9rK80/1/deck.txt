@@ -1,0 +1,32 @@
+Pokémon: 6
+2 Bibarel BRS 121
+4 Grimmsnarl SCR 96
+4 Impidimp BRS 92
+1 Radiant Greninja ASR 46
+2 Morgrem SCR 95
+2 Bidoof CRZ 111
+
+Trainer: 16
+4 Dark Patch ASR 139
+4 Rare Candy SVI 191
+2 Earthen Vessel PAR 163
+4 Buddy-Buddy Poffin TEF 144
+2 Ultra Ball SLG 68
+1 Hisuian Heavy Ball ASR 146
+1 Lana's Aid TWM 155
+2 Night Stretcher SFA 61
+2 Colress's Tenacity SFA 57
+1 Technical Machine: Evolution PAR 178
+1 Pokémon League Headquarters OBF 192
+3 Nest Ball SVI 181
+1 Rescue Board TEF 159
+1 Neutralization Zone SFA 60
+3 Arven SVI 166
+2 Boss's Orders PAL 172
+
+Energy: 3
+4 Double Turbo Energy BRS 151
+6 Basic {D} Energy Energy 15
+1 Reversal Energy PAL 192
+
+Total Cards: 60

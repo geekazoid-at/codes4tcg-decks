@@ -1,0 +1,35 @@
+Pokémon: 7
+4 Gimmighoul PAR 88
+1 Origin Forme Palkia V ASR 39
+1 Fezandipiti ex SFA 38
+1 Origin Forme Palkia VSTAR ASR 40
+1 Radiant Greninja ASR 46
+2 Spiritomb PAL 89
+4 Gholdengo ex PAR 139
+
+Trainer: 19
+1 Canceling Cologne ASR 136
+4 Arven OBF 186
+3 Earthen Vessel PAR 163
+4 Buddy-Buddy Poffin TEF 144
+1 Energy Retrieval SVI 171
+1 Hisuian Heavy Ball ASR 146
+1 Hyper Aroma TWM 152
+1 Iono PAL 185
+1 PokéStop PGO 68
+1 Professor Turo's Scenario PAR 171
+2 Night Stretcher SFA 61
+4 Superior Energy Retrieval PAL 189
+2 Technical Machine: Evolution PAR 178
+1 Cyllene ASR 138
+1 Rigid Band MEW 165
+1 Pal Pad SVI 182
+1 Temple of Sinnoh ASR 155
+4 Nest Ball SVI 181
+2 Boss's Orders PAL 172
+
+Energy: 2
+6 Basic {W} Energy SVE 11
+4 Basic {M} Energy SVE 16
+
+Total Cards: 60

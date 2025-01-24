@@ -1,0 +1,35 @@
+Pokémon: 9
+1 Banette LOR 73
+3 Banette ex SVI 88
+2 Brute Bonnet PAR 123
+1 Radiant Hisuian Sneasler LOR 123
+1 Pecharunt PR-SV 149
+1 Bloodmoon Ursaluna ex TWM 141
+4 Shuppet SVI 87
+1 Squawkabilly ex PAL 169
+1 Latias ex SSP 76
+
+Trainer: 18
+2 Boss's Orders PAL 172
+3 Buddy-Buddy Poffin TEF 144
+1 Lost Vacuum LOR 162
+1 Rescue Board TEF 159
+2 Town Store OBF 196
+1 Professor's Research SVI 190
+1 Precious Trolley SSP 185
+2 Salvatore TEF 160
+3 Call Bell SSP 165
+4 Nest Ball SVI 181
+2 Ancient Booster Energy Capsule PAR 159
+3 Ultra Ball SVI 196
+3 Binding Mochi SFA 55
+2 Night Stretcher SFA 61
+4 Iono PAL 185
+1 Professor Turo's Scenario PAR 171
+3 Arven SVI 166
+1 Earthen Vessel PAR 163
+
+Energy: 1
+6 Basic {P} Energy SUM 162
+
+Total Cards: 60

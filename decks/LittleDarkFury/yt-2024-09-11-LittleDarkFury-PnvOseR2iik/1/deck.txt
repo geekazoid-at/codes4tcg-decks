@@ -1,0 +1,31 @@
+Pokémon: 6
+3 Gardevoir-GX BUS 140
+1 Ditto {*} LOT 154
+3 Jirachi TEU 99
+1 Manaphy BRS 41
+4 Ralts ASR 60
+4 Kirlia PR-SW 271
+
+Trainer: 15
+1 Earthen Vessel SFA 96
+2 Escape Board UPR 167
+1 Rare Candy PLB 105
+1 Wondrous Labyrinth {*} TEU 158
+2 Acerola BUS 142
+3 Guzma BUS 143
+2 Super Rod PAL 276
+4 Iono PAL 269
+2 Technical Machine: Evolution PAR 178
+1 Artazon OBF 229
+1 Choice Belt ASR 211
+1 Prime Catcher TEF 157
+4 Buddy-Buddy Poffin TWM 223
+3 Evolution Incense SSH 163
+4 Arven SVI 249
+
+Energy: 3
+3 Triple Acceleration Energy UNB 234
+6 Basic {Y} Energy BUS 169
+3 Double Colorless Energy GRI 166
+
+Total Cards: 60

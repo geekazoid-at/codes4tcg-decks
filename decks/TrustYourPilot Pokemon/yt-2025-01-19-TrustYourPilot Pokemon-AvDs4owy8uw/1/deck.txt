@@ -1,0 +1,32 @@
+Pokémon: 8
+3 Frigibax PAF 17
+2 Baxcalibur PAL 60
+2 Regigigas PRE 86
+2 Chien-Pao ex PAL 61
+1 Fezandipiti ex SFA 38
+1 Arctibax PAL 59
+1 Radiant Greninja ASR 46
+1 Budew PRE 4
+
+Trainer: 16
+2 Ultra Ball SVI 196
+4 Irida ASR 147
+1 Switch SVI 194
+3 Rare Candy SVI 191
+3 Earthen Vessel PAR 163
+2 Buddy-Buddy Poffin TEF 144
+1 Counter Catcher PAR 160
+3 Iono PAL 185
+3 PokéStop PGO 68
+1 Night Stretcher SFA 61
+4 Superior Energy Retrieval PAL 189
+1 Super Rod PAL 188
+2 Pokégear 3.0 SVI 186
+1 Prime Catcher TEF 157
+4 Nest Ball SVI 181
+2 Boss's Orders PAL 172
+
+Energy: 1
+10 Basic {W} Energy SVE 11
+
+Total Cards: 60

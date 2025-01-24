@@ -1,0 +1,38 @@
+Pokémon: 8
+1 Sableye LOR 70
+1 Cramorant LOR 50
+1 Bloodmoon Ursaluna ex TWM 216
+1 Pikachu ex SSP 219
+4 Comfey PR-SW 242
+1 Radiant Greninja ASR 46
+1 Manaphy BRS 41
+1 Iron Hands ex PAR 223
+
+Trainer: 18
+1 Boss's Orders RCL 189
+1 Hisuian Heavy Ball ASR 146
+3 Buddy-Buddy Poffin TWM 223
+4 Switch Cart ASR 154
+2 Lost Vacuum LOR 217
+1 Rescue Board TWM 225
+1 Cyllene ASR 183
+2 PokéStop PGO 68
+4 Super Rod PAL 276
+4 Mirage Gate LOR 163
+4 Nest Ball SVI 255
+1 Prime Catcher TEF 157
+1 Pal Pad SVI 182
+3 Switch MEW 206
+1 Pokégear 3.0 UNB 233
+1 Gravity Mountain SSP 250
+1 Night Stretcher SSP 251
+4 Colress's Experiment LOR 190
+
+Energy: 5
+2 Basic {G} Energy GRI 167
+2 Basic {L} Energy GRI 168
+3 Basic {W} Energy CIN 124
+1 Basic {P} Energy SUM 162
+2 Basic {M} Energy SUM 163
+
+Total Cards: 60

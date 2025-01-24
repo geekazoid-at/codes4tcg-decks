@@ -1,0 +1,33 @@
+Pokémon: 7
+3 Cofagrigus SSP 83
+4 Dodrio MEW 84
+4 Doduo MEW 85
+1 Fezandipiti ex SFA 38
+2 Munkidori TWM 95
+1 Radiant Alakazam SIT 59
+3 Yamask SSP 82
+
+Trainer: 16
+1 Earthen Vessel PAR 163
+3 Ultra Ball SVI 196
+1 Ciphermaniac's Codebreaking TEF 145
+4 Iono PAL 185
+2 Night Stretcher SFA 63
+1 Technical Machine: Devolution PAR 177
+2 Crispin SCR 133
+4 Buddy-Buddy Poffin TEF 144
+3 Arven SVI 166
+1 Counter Catcher PAR 160
+2 Luxurious Cape PAR 166
+2 Boss's Orders PAL 172
+2 Professor's Research SVI 190
+2 Nest Ball SVI 181
+1 Precious Trolley SSP 185
+1 Super Rod PAL 188
+
+Energy: 3
+5 Basic {P} Energy SUM 162
+2 Jet Energy PAL 190
+3 Basic {D} Energy BUS 168
+
+Total Cards: 60

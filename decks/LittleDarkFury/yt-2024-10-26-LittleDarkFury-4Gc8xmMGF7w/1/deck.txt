@@ -1,0 +1,33 @@
+Pokémon: 11
+1 Tatsugiri TWM 131
+4 Combee ASR 11
+1 Fezandipiti ex SFA 38
+1 Snorunt SIT 41
+3 Teal Mask Ogerpon ex TWM 25
+3 Vespiquen ex OBF 96
+1 Hawlucha PAF 175
+1 Bloodmoon Ursaluna ex TWM 141
+1 Froslass TWM 53
+1 Radiant Alakazam SIT 59
+
+Trainer: 15
+2 Boss's Orders PAL 172
+3 Buddy-Buddy Poffin TEF 144
+1 Rescue Board TEF 159
+3 Professor's Research SVI 190
+4 Nest Ball SVI 181
+3 Earthen Vessel PAR 163
+1 Night Stretcher SFA 61
+3 Ultra Ball SVI 196
+1 Penny PAF 239
+4 Energy Switch SVI 173
+1 Technical Machine: Devolution PAR 177
+2 Iono PAL 185
+2 Energy Retrieval SVI 173
+2 Gardenia's Vigor ASR 143
+1 Sparkling Crystal SCR 142
+
+Energy: 1
+10 Basic {G} Energy GRI 167
+
+Total Cards: 60

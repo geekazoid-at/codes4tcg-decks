@@ -1,0 +1,33 @@
+Pokémon: 7
+1 Pidgeot V LOR 137
+3 Feebas SIT 39
+2 Terapagos ex SCR 128
+1 Diancie ASR 68
+2 Cornerstone Mask Ogerpon ex TWM 112
+1 Iron Thorns ex TWM 77
+3 Milotic ex SSP 42
+
+Trainer: 14
+1 Ultra Ball SVI 196
+4 Arven OBF 186
+2 Earthen Vessel PAR 163
+4 Crispin SCR 133
+1 Hisuian Heavy Ball ASR 146
+2 Lost City LOR 161
+3 Iono PAL 185
+2 Professor Turo's Scenario PAR 171
+2 Technical Machine: Turbo Energize PAR 179
+1 Forest Seal Stone SIT 156
+4 Nest Ball SVI 181
+2 Rescue Board TEF 159
+1 Scoop Up Cyclone TWM 162
+4 Boss's Orders PAL 172
+
+Energy: 5
+4 Basic {W} Energy SVE 11
+3 Basic {F} Energy SVE 14
+3 Basic {L} Energy SVE 12
+1 Double Turbo Energy BRS 151
+3 Basic {G} Energy SVE 9
+
+Total Cards: 60

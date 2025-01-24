@@ -1,0 +1,27 @@
+Pokémon: 7
+1 Hisuian Basculegion LOR 45
+1 Hisuian Basculin ASR 43
+1 Radiant Greninja ASR 46
+3 Hoothoot SCR 114
+3 Noctowl SCR 115
+2 Lapras ex SCR 158
+2 Lapras ex SCR 32
+
+Trainer: 10
+3 Iono PAL 185
+1 Night Stretcher SFA 61
+4 Crispin SCR 133
+2 Earthen Vessel PAR 163
+4 Pokégear 3.0 SVI 186
+3 Bravery Charm PAL 173
+3 Boss's Orders PAL 172
+4 Nest Ball SVI 181
+4 Ultra Ball PAF 91
+1 Sparkling Crystal SCR 142
+
+Energy: 3
+5 Basic {M} Energy Energy 16
+5 Basic {P} Energy Energy 13
+8 Basic {W} Energy Energy 11
+
+Total Cards: 60

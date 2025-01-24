@@ -1,0 +1,26 @@
+Pokémon: 5
+3 Bibarel BRS 121
+4 Seel CRZ 29
+3 Finneon LOR 40
+3 Bidoof CRZ 111
+4 Dewgong LOR 34
+
+Trainer: 13
+4 Irida ASR 147
+2 Earthen Vessel PAR 163
+4 Ultra Ball SVI 196
+3 Super Rod PAL 188
+2 Iono PAL 185
+2 Letter of Encouragement OBF 189
+1 Hyper Aroma TWM 152
+3 Cynthia's Ambition BRS 138
+2 Artazon PAL 171
+1 Letter of Encouragement OBF 189 PH
+4 Buddy-Buddy Poffin TEF 144
+1 Counter Catcher PAR 160
+1 Switch SVI 194
+
+Energy: 1
+13 Basic {W} Energy CIN 124
+
+Total Cards: 60

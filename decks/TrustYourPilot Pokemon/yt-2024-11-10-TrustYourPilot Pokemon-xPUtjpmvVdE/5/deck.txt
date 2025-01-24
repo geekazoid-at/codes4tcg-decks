@@ -1,0 +1,40 @@
+Pokémon: 10
+2 Azumarill SSP 74
+2 Rotom V LOR 58
+3 Drakloak TWM 129
+1 Lumineon V BRS 40
+4 Dreepy TWM 128
+1 Fezandipiti ex SFA 38
+1 Manaphy BRS 41
+2 Marill TEF 64
+3 Dragapult ex TWM 130
+1 Radiant Alakazam SIT 59
+
+Trainer: 21
+2 Counter Catcher PAR 160
+1 Forest Seal Stone SIT 156
+2 Night Stretcher SFA 61
+1 Pal Pad SVI 182
+3 Nest Ball SVI 181
+1 Thorton LOR 167
+4 Arven OBF 186
+1 Boss's Orders PAL 172
+2 Iono PAL 185
+1 Super Rod PAL 188
+1 Defiance Band SVI 169
+1 Lost Vacuum LOR 162
+1 Roxanne ASR 150
+1 Crispin SCR 133
+3 Buddy-Buddy Poffin TEF 144
+3 Ultra Ball SVI 196
+1 Vitality Band SVI 197
+1 Switch SVI 194
+1 Sparkling Crystal SCR 142
+2 Rare Candy SVI 191
+1 Earthen Vessel PAR 163
+
+Energy: 2
+3 Basic {R} Energy SVE 10
+3 Basic {P} Energy SVE 13
+
+Total Cards: 60

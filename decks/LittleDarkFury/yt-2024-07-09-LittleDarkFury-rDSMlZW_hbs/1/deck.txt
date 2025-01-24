@@ -1,0 +1,30 @@
+Pokémon: 8
+2 Bibarel BRS 121
+2 Alakazam TWM 82
+4 Mismagius SIT 64
+2 Abra TWM 80
+1 Manaphy BRS 41
+2 Bidoof CRZ 111
+4 Misdreavus PAL 87
+1 Skwovet SVI 151
+
+Trainer: 14
+4 Ultra Ball SVI 196
+2 Accompanying Flute TWM 142
+3 Rare Candy SVI 191
+3 Super Rod PAL 188
+4 Iono PAL 185
+4 Buddy-Buddy Poffin TEF 144
+1 Technical Machine: Devolution PAR 177
+3 Vengeful Punch OBF 197
+1 Morty's Conviction TEF 155
+3 Arven SVI 166
+1 Tulip PAR 181
+2 Switch SVI 194
+2 Professor's Research SVI 189
+2 Counter Catcher PAR 160
+
+Energy: 1
+7 Basic {P} Energy SUM 162
+
+Total Cards: 60

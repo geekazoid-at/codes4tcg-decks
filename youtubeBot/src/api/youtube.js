@@ -2,7 +2,7 @@ import axios from "axios";
 
 const API_KEY = "AIzaSyCrF9wwzpO0p-qK1JoaZXd2ZKlhMRfb714";
 
-const MAX_RESULTS = 3;
+const MAX_RESULTS = 50;
 
 export const getChannelName = async (channelId) => {
   try {

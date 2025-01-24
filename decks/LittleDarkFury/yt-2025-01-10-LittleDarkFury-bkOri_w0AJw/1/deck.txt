@@ -1,0 +1,34 @@
+Pokémon: 8
+1 Shellos SSP 46
+3 Bibarel BRS 121
+1 Gastrodon SSP 107
+4 Wugtrio SVI 57
+4 Wiglett SVI 56
+1 Manaphy BRS 41
+1 Skwovet SVI 151
+3 Bidoof CRZ 111
+
+Trainer: 17
+1 Hisuian Heavy Ball ASR 146
+4 Buddy-Buddy Poffin TEF 144
+3 Counter Gain SSP 169
+3 Super Rod PAL 188
+1 Artazon PAL 171
+1 Eri TEF 146
+1 Pal Pad SVI 182
+1 Calamitous Wasteland PAL 175
+2 Switch SVI 194
+4 Ultra Ball SVI 196
+2 Iono PAL 185
+3 Counter Catcher PAR 160
+1 Colress's Tenacity SFA 57
+4 Arven SVI 166
+1 Neutralization Zone SFA 60
+1 Surfer SSP 187
+1 Miss Fortune Sisters LOR 164
+
+Energy: 2
+4 Double Turbo Energy BRS 151
+4 Reversal Energy PAL 192
+
+Total Cards: 60

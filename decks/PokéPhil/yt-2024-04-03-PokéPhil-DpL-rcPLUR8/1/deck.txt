@@ -1,0 +1,34 @@
+Pokémon: 10
+4 Comfey LOR 79
+1 Sableye LOR 70
+1 Iron Hands ex PAR 70
+2 Raging Bolt ex TEF 123
+1 Iron Leaves ex TEF 25
+1 Manaphy BRS 41
+1 Radiant Greninja ASR 46
+1 Flutter Mane TEF 78
+1 Spiritomb PAL 89
+1 Cramorant LOR 50
+
+Trainer: 12
+4 Switch SVI 194
+4 Switch Cart ASR 154
+3 Buddy-Buddy Poffin TEF 144
+1 Lost Vacuum CRZ 135
+4 Professor Sada's Vitality PAR 170
+3 Super Rod PAL 188
+1 Prime Catcher TEF 157
+4 Mirage Gate LOR 163
+4 Nest Ball SVI 181
+1 Rescue Board TEF 159
+4 Colress's Experiment LOR 155
+1 Boss's Orders PAL 172
+
+Energy: 5
+2 Basic {W} Energy SVE 3
+3 Basic {G} Energy SVE 1
+3 Basic {F} Energy SVE 6
+1 Basic {P} Energy SVE 5
+3 Basic {L} Energy SVE 4
+
+Total Cards: 60

@@ -1,0 +1,35 @@
+Pokémon: 7
+2 Bibarel PR-SW 188
+3 Oinkologne ex SVI 234
+2 Fan Rotom SCR 118
+1 Skwovet PAF 205
+4 Lechonk PAF 207
+2 Bidoof CRZ 111
+1 Radiant Charizard PGO 11
+
+Trainer: 17
+2 Boss's Orders RCL 189
+4 Buddy-Buddy Poffin TWM 223
+1 Lost Vacuum LOR 217
+1 Rigid Band MEW 165
+1 Super Rod PAL 276
+3 Cheren's Care BRS 168
+1 Nest Ball SVI 255
+1 Hero's Cape TEF 152
+1 Night Stretcher SFA 61
+2 Pal Pad SVI 182
+1 Town Store OBF 196
+1 Switch MEW 206
+4 Ultra Ball PLF 122
+2 Technical Machine: Devolution PAR 177
+4 Iono PAL 269
+2 Counter Catcher PAR 264
+4 Arven SVI 249
+
+Energy: 4
+2 Basic {R} Energy BUS 167
+4 Double Turbo Energy ASR 216
+2 V Guard Energy SIT 215
+2 Mist Energy TEF 161
+
+Total Cards: 60

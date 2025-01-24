@@ -1,0 +1,42 @@
+Pokémon: 11
+1 Crobat V DAA 182
+1 Sableye LOR 70
+1 Dedenne-GX UNB 195
+2 Raikou VIV 50
+1 Fezandipiti ex SFA 84
+1 Squawkabilly ex PAL 264
+4 Trumbeak LOT 165
+2 Fan Rotom SCR 118
+1 Tapu Koko {*} TEU 51
+1 Pikachu ex SSP 238
+1 Latias ex SSP 239
+
+Trainer: 20
+1 Heat Factory {*} LOT 178
+2 Clay CEC 188
+2 Lost Blender LOT 233
+1 Wondrous Labyrinth {*} TEU 158
+3 PokéStop PGO 68
+1 Black Market {*} TEU 134
+1 Lysandre {*} FLI 110
+3 Super Rod PAL 276
+2 Guzma BUS 143
+4 Mirage Gate LOR 163
+1 Nest Ball SVI 255
+1 Brilliant Blender SSP 164
+1 Life Forest {*} LOT 180
+2 Ultra Ball PLF 122
+1 Pokégear 3.0 UNB 233
+1 Night Stretcher SSP 251
+2 Colress's Experiment LOR 190
+1 Thunder Mountain {*} LOT 191
+4 Quick Ball SSH 216
+2 Arven SVI 249
+
+Energy: 4
+2 Basic {G} Energy GRI 167
+3 Basic {L} Energy GRI 168
+1 Basic {P} Energy SUM 162
+2 Basic {M} Energy SUM 163
+
+Total Cards: 60

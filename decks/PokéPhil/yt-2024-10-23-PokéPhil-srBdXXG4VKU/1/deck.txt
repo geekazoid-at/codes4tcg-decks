@@ -1,0 +1,29 @@
+Pokémon: 6
+4 Bounsweet PAR 8
+1 Steenee PAR 9
+4 Froslass TWM 53
+1 Manaphy BRS 41
+3 Tsareena ex PAR 46
+4 Snorunt TWM 51
+
+Trainer: 15
+2 Ultra Ball SVI 196
+3 Irida ASR 147
+4 Rare Candy SVI 191
+2 Earthen Vessel PAR 163
+4 Buddy-Buddy Poffin TEF 144
+1 Lost Vacuum LOR 162
+1 Technical Machine: Devolution PAR 177
+3 Counter Catcher CIN 91
+1 Super Rod PAL 188
+1 Technical Machine: Evolution PAR 178
+3 Pokégear 3.0 SVI 186
+3 Iono SVALT 75
+4 Panic Mask LOR 165
+1 Unfair Stamp TWM 165
+4 Arven SVI 166
+
+Energy: 1
+6 Basic {G} Energy SVE 1
+
+Total Cards: 60

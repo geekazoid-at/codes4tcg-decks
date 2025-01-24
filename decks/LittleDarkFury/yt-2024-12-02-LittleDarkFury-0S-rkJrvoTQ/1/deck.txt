@@ -1,0 +1,34 @@
+Pokémon: 10
+3 Archaludon ex SSP 130
+4 Duraludon SCR 106
+2 Bibarel BRS 121
+1 Cleffa OBF 80
+1 Radiant Greninja ASR 46
+1 Skwovet SVI 151
+1 Relicanth TEF 84
+2 Bidoof CRZ 111
+1 Starmie MEW 121
+2 Staryu MEW 120
+
+Trainer: 16
+2 Boss's Orders PAL 172
+2 Buddy-Buddy Poffin TEF 144
+1 Scoop Up Cyclone TWM 162
+1 Super Rod PAL 188
+1 Artazon PAL 171
+4 Nest Ball SVI 181
+3 Earthen Vessel PAR 163
+1 Pal Pad SVI 182
+1 Switch SVI 194
+4 Ultra Ball SVI 196
+1 Jamming Tower TWM 153
+2 Night Stretcher SFA 63
+4 Iono PAL 185
+2 Professor Turo's Scenario PAR 171
+1 Counter Catcher PAR 160
+2 Irida ASR 147
+
+Energy: 1
+10 Basic {M} Energy SUM 163
+
+Total Cards: 60

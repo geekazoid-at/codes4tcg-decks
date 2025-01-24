@@ -1,0 +1,34 @@
+Pokémon: 7
+1 Mawile LOR 71
+1 Pidgeot V LOR 137
+1 Sandshrew MEW 27
+4 Great Tusk TEF 97
+1 Mimikyu PAF 37
+1 Rotom SSP 61
+1 Radiant Greninja ASR 46
+
+Trainer: 17
+1 Hisuian Heavy Ball ASR 146
+1 Rescue Board TEF 159
+2 Super Rod PAL 188
+3 Artazon PAL 171
+1 Forest Seal Stone SIT 156
+1 Eri TEF 146
+4 Explorer's Guidance TEF 147
+4 Nest Ball SVI 181
+3 Earthen Vessel PAR 163
+3 Pal Pad SVI 182
+3 Pokégear 3.0 SVI 186
+2 Night Stretcher SFA 61
+4 Professor Sada's Vitality PAR 170
+3 Counter Catcher PAR 160
+3 Ancient Booster Energy Capsule TEF 140
+1 Gravity Gemstone SCR 137
+1 Neutralization Zone SFA 60
+
+Energy: 3
+4 Basic {F} Energy GRI 169
+2 Basic {L} Energy GRI 168
+4 Double Turbo Energy BRS 151
+
+Total Cards: 60

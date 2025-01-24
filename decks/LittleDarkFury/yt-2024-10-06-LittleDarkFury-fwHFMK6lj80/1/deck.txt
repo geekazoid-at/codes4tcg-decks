@@ -1,0 +1,33 @@
+Pokémon: 9
+2 Bibarel BRS 121
+2 Bidoof BRS 120
+4 Timburr TWM 103
+4 Conkeldurr TWM 105
+2 Gurdurr TWM 104
+1 Manaphy BRS 41
+1 Radiant Hisuian Sneasler LOR 123
+2 Brute Bonnet PAR 123
+1 Fezandipiti ex SFA 38
+
+Trainer: 17
+4 Ultra Ball SVI 196
+4 Rare Candy SVI 191
+3 Super Rod PAL 188
+2 Iono PAL 185
+1 Night Stretcher SFA 61
+2 Artazon PAL 171
+1 Grand Tree SCR 136
+4 Arven SVI 166
+1 Counter Catcher PAR 160
+2 Hassel TWM 151
+2 Binding Mochi SFA 55
+2 Boss's Orders PAL 172
+3 Ancient Booster Energy Capsule PAR 159
+3 Switch SVI 194
+4 Nest Ball SVI 181
+2 Grusha PAL 184
+1 Grant ASR 144
+
+Energy: 0
+
+Total Cards: 60

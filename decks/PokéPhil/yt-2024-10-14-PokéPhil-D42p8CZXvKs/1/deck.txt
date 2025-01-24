@@ -1,0 +1,35 @@
+Pokémon: 10
+1 Bloodmoon Ursaluna ex TWM 141
+4 Hoothoot TEF 126
+3 Terapagos ex SCR 128
+3 Duskull SFA 18
+1 Fezandipiti ex SFA 38
+4 Noctowl SCR 115
+2 Fan Rotom SCR 118
+1 Pidgeot ex OBF 164
+1 Pidgey OBF 162
+2 Dusknoir SFA 20
+
+Trainer: 17
+1 Counter Catcher PAR 160
+1 Feather Ball ASR 141
+1 Prime Catcher TEF 157
+3 Night Stretcher SFA 61
+4 Nest Ball SVI 181
+2 Professor's Research SVI 189
+1 Thorton LOR 167
+1 Boss's Orders PAL 172
+3 Iono PAL 185
+1 Energy Loto ASR 140
+3 Area Zero Underdepths SCR 131
+1 Briar SCR 132
+3 Buddy-Buddy Poffin TEF 144
+3 Ultra Ball SVI 196
+1 Vitality Band SVI 197
+1 Switch SVI 194
+4 Rare Candy SVI 191
+
+Energy: 1
+4 Double Turbo Energy BRS 151
+
+Total Cards: 60

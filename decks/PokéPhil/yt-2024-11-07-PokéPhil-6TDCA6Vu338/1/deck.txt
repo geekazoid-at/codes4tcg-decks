@@ -1,0 +1,39 @@
+Pokémon: 12
+2 Galvantula ex SCR 168
+1 Galvantula ex SCR 51
+2 Bidoof CRZ-GG 29
+3 Chansey MEW 113
+3 Joltik SCR 150
+1 Mew ex PAF 232
+1 Squawkabilly ex PAL 264
+1 Radiant Greninja ASR 46
+1 Joltik SCR 50 PH
+2 Bibarel CRZ-GG 25
+1 Blissey ex TWM 134
+2 Blissey ex TWM 201
+
+Trainer: 17
+2 Buddy-Buddy Poffin TWM 223
+1 Crispin SCR 164
+1 Lost Vacuum LOR 217
+1 Carmine TWM 145
+1 Professor Turo's Scenario PAR 257
+1 Nest Ball SVI 255
+2 Earthen Vessel SFA 96
+1 Night Stretcher SFA 61 PH
+3 Arven PAF 235
+3 Iono PAF 237
+1 Switch MEW 206
+2 Powerglass SFA 63
+1 Boss's Orders PAL 265
+4 Ultra Ball BRS 150
+2 Nest Ball PAF 84 PH
+4 Glass Trumpet SCR 135
+1 Sparkling Crystal SCR 142
+
+Energy: 3
+3 Basic {L} Energy SVE 12
+3 Basic {G} Energy SVE 9
+3 Basic {F} Energy SVE 14
+
+Total Cards: 60

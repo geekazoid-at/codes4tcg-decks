@@ -1,0 +1,36 @@
+Pokémon: 8
+2 Togepi SSP 70
+4 Gimmighoul SSP 97
+1 Manaphy BRS 41
+1 Fezandipiti ex SFA 38
+1 Iron Bundle PAR 56
+1 Radiant Greninja ASR 46
+2 Togekiss SSP 72
+4 Gholdengo ex PAR 139
+
+Trainer: 13
+3 Ultra Ball SVI 196
+3 Irida ASR 147
+2 Rare Candy SVI 191
+2 Earthen Vessel PAR 163
+4 Buddy-Buddy Poffin TEF 144
+1 Energy Retrieval SVI 171
+2 Ciphermaniac's Codebreaking TEF 145
+1 Energy Search Pro SSP 176
+2 PokéStop PGO 68
+3 Night Stretcher SFA 61
+4 Superior Energy Retrieval PAL 189
+4 Nest Ball SVI 181
+2 Boss's Orders PAL 172
+
+Energy: 8
+1 Basic {W} Energy SVE 11
+1 Basic {F} Energy SVE 14
+1 Basic {L} Energy SVE 12
+1 Basic {D} Energy SVE 15
+1 Basic {R} Energy SVE 10
+1 Basic {G} Energy SVE 9
+1 Basic {P} Energy SVE 13
+4 Basic {M} Energy SVE 16
+
+Total Cards: 60

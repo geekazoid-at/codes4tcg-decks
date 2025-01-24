@@ -1,0 +1,39 @@
+Pokémon: 11
+1 Raboot SCR 27
+2 Pidgeot ex OBF 164
+3 Cinderace ex SCR 28
+1 Fezandipiti ex SFA 84
+4 Scorbunny SCR 26
+1 Rotom V LOR 58
+1 Cleffa OBF 80
+1 Lumineon V BRS 40
+2 Pidgey OBF 162
+1 Manaphy BRS 41
+1 Radiant Charizard PGO 11
+
+Trainer: 17
+2 Boss's Orders PAL 172
+1 Super Rod PAL 188
+1 Forest Seal Stone SIT 156
+3 Feather Ball ASR 141
+4 Rare Candy SVI 191
+2 Nest Ball SVI 181
+1 Crispin SCR 133
+1 Sparkling Crystal SCR 142
+1 Pal Pad SVI 182
+2 Ultra Ball SVI 196
+2 Iono PAL 185
+2 Magma Basin BRS 144
+1 Professor Turo's Scenario PAR 171
+1 Defiance Band SVI 169
+4 Arven SVI 166
+4 Buddy-Buddy Poffin TEF 144
+1 Counter Catcher PAR 160
+
+Energy: 4
+4 Basic {R} Energy BUS 167
+2 Basic {D} Energy BUS 168
+2 Double Turbo Energy BRS 151
+1 Basic {F} Energy GRI 169
+
+Total Cards: 60
