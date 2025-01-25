@@ -1,0 +1,36 @@
+Pokémon: 10
+3 Palafin TWM 60
+2 Weavile PAL 134
+2 Sneasel PAL 133
+2 Pecharunt ex SFA 39
+1 Mew ex MEW 151
+1 Manaphy BRS 41
+1 Fezandipiti ex SFA 38
+1 Morpeko PAR 121
+3 Palafin ex TWM 61
+4 Finizen TWM 59
+
+Trainer: 18
+4 Ultra Ball SVI 196
+3 Irida ASR 147
+1 Switch SVI 194
+1 Defiance Band SVI 169
+1 Earthen Vessel PAR 163
+4 Buddy-Buddy Poffin TEF 144
+1 Counter Catcher PAR 160
+1 Hisuian Heavy Ball ASR 146
+1 Kieran TWM 154
+1 Technical Machine: Devolution PAR 177
+1 Night Stretcher SFA 61
+2 Super Rod PAL 188
+4 Iono PAF 80
+1 Prime Catcher TEF 157
+2 Nest Ball SVI 181
+2 Rescue Board TEF 159
+3 Arven SVI 166
+1 Boss's Orders PAL 172
+
+Energy: 1
+6 Basic {W} Energy SVE 3
+
+Total Cards: 60

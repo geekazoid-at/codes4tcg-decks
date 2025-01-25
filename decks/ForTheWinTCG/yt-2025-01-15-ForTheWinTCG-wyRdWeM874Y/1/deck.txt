@@ -1,0 +1,32 @@
+Pokémon: 5
+3 Teal Mask Ogerpon ex TWM 25
+4 Applin TWM 17
+3 Hydrapple ex SCR 14
+3 Dipplin TWM 18
+4 Mimikyu PAF 37
+
+Trainer: 18
+1 Counter Catcher PAR 160
+3 Bug Catching Set TWM 143
+1 Precious Trolley SSP 185
+4 Pokégear 3.0 SVI 186
+2 Night Stretcher SFA 61
+1 Rescue Board TEF 159
+1 Nest Ball SVI 181
+2 Boss's Orders PAL 172
+4 Arven SVI 166
+1 Professor Turo's Scenario PAR 171
+2 Technical Machine: Evolution PAR 178
+1 Superior Energy Retrieval PAL 189
+1 Lost Vacuum LOR 162
+1 Buddy-Buddy Poffin TEF 144
+3 Iono PAF 80
+1 Ultra Ball SVI 196
+1 Earthen Vessel PAR 163
+1 Rare Candy SVI 191
+
+Energy: 2
+11 Basic {G} Energy SVE 1
+1 Basic {P} Energy SVE 5
+
+Total Cards: 60

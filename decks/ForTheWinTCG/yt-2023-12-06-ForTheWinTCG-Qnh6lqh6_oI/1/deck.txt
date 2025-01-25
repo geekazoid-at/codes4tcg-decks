@@ -1,0 +1,32 @@
+Pokémon: 6
+1 Tatsugiri SVI 62
+2 Bidoof CRZ-GG 29
+4 Dondozo SVI 61
+2 Bibarel CRZ-GG 25
+2 Squawkabilly ex PAL 169
+3 Tatsugiri PAR 141
+
+Trainer: 16
+2 Boss's Orders RCL 189
+1 Hisuian Heavy Ball ASR 146
+4 Level Ball BST 129
+2 Super Rod PAL 276
+1 Serena SIT 193
+1 Pal Pad SVI 182
+3 Luxurious Cape PAR 166 PH
+1 Battle VIP Pass FST 225
+1 Thorton LOR 195
+3 Path to the Peak CRE 148
+2 Irida CRZ-GG 63
+4 Trekking Shoes CRZ 145
+4 Ultra Ball BRS 186
+1 Energy Loto ASR 140
+4 Professor's Research SVI 241
+2 Switch SVI 194
+
+Energy: 3
+2 Jet Energy PAL 190
+4 Gift Energy LOR 171
+4 Double Turbo Energy BRS 151
+
+Total Cards: 60

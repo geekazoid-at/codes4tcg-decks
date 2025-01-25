@@ -1,0 +1,29 @@
+Pokémon: 7
+2 Bibarel BRS 121
+4 Scovillain ex TEF 22
+2 Darkrai VSTAR ASR 99
+1 Darkrai V ASR 98
+1 Skwovet SVI 151
+4 Capsakid SVI 28
+2 Bidoof CRZ 111
+
+Trainer: 14
+3 Ultra Ball SVI 196
+2 Switch SVI 194
+4 Judge SVI 176
+2 Exp. Share SVI 174
+4 Buddy-Buddy Poffin TEF 144
+1 Counter Catcher PAR 160
+1 Hisuian Heavy Ball ASR 146
+4 Iono PAL 185
+1 Super Rod PAL 188
+4 Grabber MEW 162
+2 Pokémon League Headquarters OBF 192
+1 Unfair Stamp TWM 165
+4 Bug Catching Set TWM 143
+2 Boss's Orders PAL 172
+
+Energy: 1
+9 Basic {G} Energy SVE 1
+
+Total Cards: 60

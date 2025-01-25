@@ -1,0 +1,31 @@
+Pokémon: 7
+3 Kyurem VMAX LOR 49
+3 Kyurem V LOR 48
+1 Lumineon V PR-SW 250
+2 Origin Forme Palkia V ASR 39
+2 Origin Forme Palkia VSTAR ASR 40
+1 Radiant Greninja ASR 46
+1 Wellspring Mask Ogerpon ex TWM 64
+
+Trainer: 16
+4 Ultra Ball SVI 196
+2 Switch SVI 194
+2 Powerglass SFA 63
+4 Irida ASR 147
+4 Academy at Night SFA 54
+3 Earthen Vessel PAR 163
+2 Lost Vacuum LOR 162
+2 Energy Retrieval SVI 171
+1 Hisuian Heavy Ball ASR 146
+1 Iono PAL 185
+1 Colress's Tenacity SFA 57
+1 Super Rod PAL 188
+1 Secret Box TWM 163
+4 Nest Ball PAF 84
+2 Serena SIT 164
+2 Boss's Orders PAL 172
+
+Energy: 1
+11 Basic {W} Energy SVE 3 PH
+
+Total Cards: 60

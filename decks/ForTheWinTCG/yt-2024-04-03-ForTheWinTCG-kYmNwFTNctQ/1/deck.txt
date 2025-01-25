@@ -1,0 +1,35 @@
+Pokémon: 9
+3 Gimmighoul PAR 88
+3 Dunsparce TEF 128
+3 Dudunsparce TEF 129
+1 Scizor OBF 141
+1 Radiant Greninja ASR 46
+1 Manaphy BRS 41
+1 Gimmighoul PAR 87
+4 Gholdengo ex PAR 139
+1 Scyther MEW 123
+
+Trainer: 17
+1 Hisuian Heavy Ball ASR 146
+1 Counter Catcher PAR 160
+3 PokéStop PGO 68
+1 Exp. Share SVI 174
+2 Jacq SVI 175
+1 Energy Retrieval SVI 171
+3 Ultra Ball PAF 91
+1 Prime Catcher TEF 157
+1 Cyllene ASR 138
+2 Nest Ball SVI 181
+1 Boss's Orders PAL 172
+4 Superior Energy Retrieval PAL 189
+1 Super Rod PAL 188
+4 Buddy-Buddy Poffin TEF 144
+1 Ciphermaniac's Codebreaking TEF 145
+2 Iono PAF 80
+3 Earthen Vessel PAR 163
+
+Energy: 2
+6 Basic {M} Energy Energy 16
+4 Basic {W} Energy Energy 11
+
+Total Cards: 60

@@ -1,0 +1,32 @@
+Pokémon: 8
+3 Farigiraf TWM 84
+2 Girafarig CRZ 61
+1 Girafarig PAL 154
+2 Xatu PR-SV 59
+2 Dragapult ex TWM 130
+3 Dreepy TWM 128
+3 Drakloak TWM 129
+2 Natu PAF 25
+
+Trainer: 14
+3 Nest Ball SVI 181
+4 Arven OBF 186
+1 Hyper Aroma TWM 152
+2 Rescue Board TEF 159
+4 Buddy-Buddy Poffin TEF 144
+3 Ultra Ball SVI 196
+3 Artazon PAL 171
+3 Iono PAL 185
+2 Super Rod PAL 188
+2 Earthen Vessel PAR 163
+2 Boss's Orders PAL 172
+1 Lana's Aid TWM 155
+1 Counter Catcher PAR 160
+1 Technical Machine: Evolution PAR 178
+
+Energy: 3
+4 Basic {P} Energy SVE 5
+2 Basic {R} Energy SVE 2
+4 Double Turbo Energy BRS 151
+
+Total Cards: 60

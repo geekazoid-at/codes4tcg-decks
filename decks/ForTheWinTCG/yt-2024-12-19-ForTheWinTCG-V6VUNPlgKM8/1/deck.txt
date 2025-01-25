@@ -1,0 +1,35 @@
+Pokémon: 9
+3 Kingdra ex SFA 12
+1 Mew ex MEW 151
+1 Frigibax PAF 17
+2 Baxcalibur PAL 60
+1 Radiant Greninja ASR 46
+3 Horsea SFA 10
+1 Squawkabilly ex PAL 169
+1 Origin Forme Palkia VSTAR ASR 40
+1 Origin Forme Palkia V ASR 39
+
+Trainer: 18
+1 Hisuian Heavy Ball ASR 146
+3 PokéStop PGO 68
+4 Irida ASR 147
+1 Brilliant Blender SSP 164
+4 Ultra Ball PAF 91
+3 Pokégear 3.0 SVI 186
+2 Nest Ball SVI 181
+2 Boss's Orders PAL 172
+1 Iono PAL 185
+2 Superior Energy Retrieval PAL 189
+1 Super Rod PAL 188
+1 Professor's Research PAF 87
+3 Rare Candy PAF 89
+2 Explorer's Guidance TEF 147
+2 Buddy-Buddy Poffin TEF 144
+1 Switch SVI 194
+2 Earthen Vessel PAR 163
+1 Professor Turo's Scenario PAR 171
+
+Energy: 1
+10 Basic {W} Energy Energy 11
+
+Total Cards: 60

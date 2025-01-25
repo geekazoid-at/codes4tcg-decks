@@ -1,0 +1,33 @@
+Pokémon: 7
+4 Wugtrio PAF 224
+2 Bibarel CRZ-GG 25
+1 Skwovet SVI 222
+2 Bidoof CRZ-GG 29
+4 Wiglett SVI 56 PH
+1 Manaphy CRZ-GG 6
+1 Jirachi PAR 126 PH
+
+Trainer: 16
+1 Echoing Horn CRE 136
+2 Blunder Policy BRS 131
+1 Roseanne's Backup BRS 172
+1 Energy Loto GRI 122
+4 Iono PAF 237
+2 Rescue Carrier CRZ 142
+4 Counter Catcher PAR 264
+4 Ultra Ball BRS 186
+3 Judge PAF 228
+4 Artazon PAL 171 PH
+1 Hisuian Heavy Ball ASR 146 PH
+1 Erika's Invitation MEW 203
+2 Capturing Aroma SIT 153
+1 Energy Loto GRI 122 PH
+2 Arven SVI 249
+4 Level Ball BST 181
+
+Energy: 3
+4 Reversal Energy PAR 266
+2 Double Turbo Energy ASR 216
+2 Jet Energy PAL 190 PH
+
+Total Cards: 60

@@ -1,0 +1,33 @@
+Pokémon: 8
+2 Frigibax PAL 57
+2 Bibarel BRS 121
+1 Frigibax PAF 17
+2 Baxcalibur PAL 60
+1 Radiant Greninja ASR 46
+1 Manaphy BRS 41
+2 Bidoof CRZ 111
+3 Wishiwashi EVS 46
+
+Trainer: 17
+1 Hisuian Heavy Ball ASR 146
+1 Counter Catcher PAR 160
+3 Luxurious Cape PAR 166
+2 PokéStop PGO 68
+4 Irida ASR 147
+1 Penny SVI 183
+2 Nest Ball SVI 181
+4 Battle VIP Pass FST 225
+1 Boss's Orders PAL 172
+1 Iono PAL 185
+4 Superior Energy Retrieval PAL 189
+2 Super Rod PAL 188
+4 Ultra Ball SVI 196
+3 Rare Candy SVI 191
+2 Earthen Vessel PAR 163
+1 Town Store OBF 196
+1 Artazon PAL 171
+
+Energy: 1
+9 Basic {W} Energy SVE 3 PH
+
+Total Cards: 60

@@ -1,0 +1,30 @@
+Pokémon: 7
+1 Snorlax LOR 143
+1 Mimikyu PAL 97
+4 Xatu PAR 72
+3 Golett TEF 87
+3 Golurk TEF 88
+1 Manaphy BRS 41
+4 Natu PAR 71
+
+Trainer: 14
+1 Counter Catcher PAR 160
+2 Town Store OBF 196
+4 Nest Ball PAF 84
+2 Heavy Baton TEF 151
+3 Ultra Ball PAF 91
+1 Prime Catcher TEF 157
+1 Rescue Board TEF 159
+1 Boss's Orders PAL 172
+4 Iono PAL 185
+4 Arven SVI 166
+2 Technical Machine: Evolution PAR 178
+1 Super Rod PAL 188
+1 Buddy-Buddy Poffin TEF 144
+4 Earthen Vessel PAR 163
+
+Energy: 2
+8 Basic {P} Energy SVE 5
+4 Double Turbo Energy BRS 151
+
+Total Cards: 60

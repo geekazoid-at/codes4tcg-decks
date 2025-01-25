@@ -1,0 +1,30 @@
+Pokémon: 7
+3 Zoroark SFA 32
+2 Snorlax LOR 143
+3 Zorua SFA 31
+4 Natu PAF 25
+1 Flutter Mane TEF 78
+4 Xatu PR-SV 59
+1 Tatsugiri TWM 131
+
+Trainer: 14
+1 Counter Catcher PAR 160
+2 Rescue Board TEF 159
+2 Nest Ball SVI 181
+4 Arven OBF 186
+3 Boss's Orders PAL 172
+1 Hyper Aroma TWM 152
+1 Lana's Aid TWM 155
+3 Iono PAL 185
+1 Technical Machine: Evolution PAR 178
+1 Super Rod PAL 188
+1 Defiance Band SVI 169
+4 Buddy-Buddy Poffin TEF 144
+2 Ultra Ball SVI 196
+3 Earthen Vessel PAR 163
+
+Energy: 2
+3 Jet Energy PAL 190
+10 Basic {P} Energy SVE 5
+
+Total Cards: 60

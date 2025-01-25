@@ -1,0 +1,31 @@
+Pokémon: 7
+4 Roaring Moon ex PAR 124
+2 Umbreon V EVS 94
+2 Umbreon VMAX EVS 95
+1 Mew ex MEW 151
+1 Squawkabilly ex PAL 169
+1 Galarian Moltres V CRE 97
+1 Radiant Greninja ASR 46
+
+Trainer: 15
+3 Escape Rope BST 125
+4 Earthen Vessel PAR 163
+3 Dark Patch ASR 139
+4 Battle VIP Pass FST 225
+1 Super Rod PAL 188
+4 Energy Switch SVI 173 PH
+2 Pokégear 3.0
+1 Pal Pad SVI 182
+4 Ultra Ball SVI 196
+1 Forest Seal Stone SIT 156
+1 Boss's Orders PAL 172
+4 Professor Sada's Vitality PAR 170
+1 Avery CRE 130
+1 Judge SVI 176
+4 PokéStop PGO 68
+
+Energy: 2
+7 Basic {D} Energy SVE 7 PH
+3 Basic {W} Energy SVE 3 PH
+
+Total Cards: 60

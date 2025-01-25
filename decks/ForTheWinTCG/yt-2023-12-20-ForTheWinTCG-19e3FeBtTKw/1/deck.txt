@@ -1,0 +1,37 @@
+Pokémon: 7
+2 Regidrago ASR 118
+1 Regidrago EVS 124
+2 Regieleki EVS 60
+2 Regirock ASR 75
+2 Regice ASR 37
+2 Regigigas ASR 130
+2 Registeel ASR 108
+
+Trainer: 16
+4 Iono PAL 185
+3 Professor's Research SVI 189
+2 Zinnia's Resolve EVS 164
+1 Boss's Orders PAL 172
+3 Nest Ball SVI 181
+3 Ultra Ball SVI 196
+3 Super Rod PAL 188
+3 Trekking Shoes CRZ 145
+3 Earthen Vessel PAR 163
+2 Hisuian Heavy Ball ASR 146
+2 Switch Cart ASR 154
+2 Counter Catcher PAR 160
+1 Pal Pad SVI 182
+1 Technical Machine: Devolution PAR 177
+3 Artazon PAL 171
+1 Professor Turo's Scenario PAR 257
+
+Energy: 7
+2 Basic {G} Energy Energy 1
+2 Luminous Energy PAL 191
+2 Basic {L} Energy Energy 4
+1 Basic {F} Energy Energy 6
+1 Basic {R} Energy Energy 2
+1 Double Turbo Energy BRS 151
+1 Basic {M} Energy Energy 8
+
+Total Cards: 60

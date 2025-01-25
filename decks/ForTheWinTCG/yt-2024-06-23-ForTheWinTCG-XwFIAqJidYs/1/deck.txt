@@ -1,0 +1,34 @@
+Pokémon: 8
+3 Articuno SIT 36
+3 Munkidori TWM 95
+2 Origin Forme Palkia VSTAR ASR 40
+2 Origin Forme Palkia V ASR 39
+1 Radiant Greninja ASR 46
+2 Pidgeot ex OBF 164
+2 Pidgey MEW 16
+1 Manaphy BRS 41
+
+Trainer: 17
+4 Nest Ball PAF 84
+3 Ultra Ball PAF 91
+1 Hisuian Heavy Ball ASR 146
+2 Switch SVI 194
+2 Earthen Vessel PAR 163
+2 Rare Candy SVI 191
+1 Counter Catcher PAR 160
+1 Super Rod PAL 188
+1 Technical Machine: Devolution PAR 177
+4 Irida ASR 147
+1 Bravery Charm PAL 173
+3 Iono PAF 80
+2 Boss's Orders PAL 172
+1 Jamming Tower TWM 153
+2 Temple of Sinnoh ASR 155
+2 Miss Fortune Sisters LOR 164
+1 Eri TEF 146
+
+Energy: 2
+3 Basic {D} Energy SVE 7
+8 Basic {W} Energy SVE 3
+
+Total Cards: 60

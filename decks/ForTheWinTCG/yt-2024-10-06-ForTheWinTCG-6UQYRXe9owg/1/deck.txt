@@ -1,0 +1,35 @@
+Pokémon: 9
+1 Bloodmoon Ursaluna ex TWM 141
+2 Tandemaus PAF 73
+2 Tandemaus PAR 153
+1 Fezandipiti ex SFA 38
+1 Mew ex MEW 151
+4 Maushold ex PAR 155
+1 Radiant Charizard CRZ 20
+1 Rellor TEF 23
+1 Rabsca TEF 24
+
+Trainer: 17
+1 Hisuian Heavy Ball ASR 146
+1 Counter Catcher PAR 160
+2 Town Store OBF 196
+1 Vengeful Punch OBF 197
+3 Nest Ball PAF 84
+3 Night Stretcher SFA 61
+1 Rescue Board TEF 159
+1 Energy Loto GRI 122
+3 Arven OBF 186
+3 Boss's Orders PAL 172
+4 Iono PAL 185
+3 Professor's Research PAF 87
+1 Colress's Tenacity SFA 57
+1 Deluxe Bomb SCR 134
+4 Buddy-Buddy Poffin TEF 144
+4 Ultra Ball SVI 196
+2 Switch SVI 194
+
+Energy: 2
+4 Basic {R} Energy SVE 2
+4 Double Turbo Energy BRS 151
+
+Total Cards: 60

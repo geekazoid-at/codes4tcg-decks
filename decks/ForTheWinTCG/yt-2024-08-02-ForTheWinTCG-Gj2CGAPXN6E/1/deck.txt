@@ -1,0 +1,31 @@
+Pokémon: 8
+2 Okidogi ex SFA 90
+1 Munkidori TWM 95
+2 Munkidori ex SFA 91
+1 Radiant Greninja ASR 46
+1 Fezandipiti ex SFA 92
+1 Mew ex MEW 151
+1 Tatsugiri TWM 131
+3 Pecharunt ex SFA 93
+
+Trainer: 15
+1 Night Stretcher SFA 61 PH
+4 Nest Ball SVI 255
+3 Boss's Orders RCL 189
+4 Janine's Secret Art SFA 88
+1 Super Rod PAL 276
+4 Ultra Ball BRS 186
+4 Binding Mochi SFA 55 PH
+2 Professor's Research SVI 240
+1 Hisuian Heavy Ball ASR 146 PH
+4 Dark Patch LOR 216
+4 Trekking Shoes ASR 215
+1 Town Store OBF 196 PH
+1 Prime Catcher TEF 157
+1 Kieran TWM 206
+3 Iono PAL 254
+
+Energy: 1
+10 Basic {D} Energy EVO 97 PH
+
+Total Cards: 60

@@ -1,0 +1,24 @@
+Pokémon: 8
+4 Oddish MEW 43
+4 Gloom MEW 44
+1 Hisuian Basculegion LOR 45
+4 Palkia SSP 136 PH
+2 Hisuian Basculin ASR 43
+1 Fezandipiti ex SFA 38
+1 Radiant Greninja ASR 46
+3 Vileplume MEW 45
+
+Trainer: 7
+2 Irida ASR 147
+4 Buddy-Buddy Poffin TEF 144
+2 Counter Catcher PAR 160
+1 Lana's Aid TWM 155
+4 Arezu LOR 153
+4 Nest Ball SVI 181
+1 Scoop Up Cyclone TWM 162
+
+Energy: 2
+11 Basic {W} Energy SVE 11
+11 Basic {G} Energy SVE 1
+
+Total Cards: 60

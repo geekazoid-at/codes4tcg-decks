@@ -1,0 +1,33 @@
+Pokémon: 6
+1 Mawile LOR 71
+1 Mimikyu PAL 97
+1 Pidgeot V LOR 137
+4 Great Tusk TEF 97
+1 Radiant Greninja ASR 46
+1 Tatsugiri TWM 131
+
+Trainer: 17
+3 Trekking Shoes ASR 156
+1 Hisuian Heavy Ball ASR 146
+3 Counter Catcher PAR 160
+2 Accompanying Flute TWM 142
+1 Unfair Stamp TWM 165
+1 Forest Seal Stone SIT 156
+4 Pokégear 3.0 SVI 186
+2 Night Stretcher SFA 61
+1 Rescue Board TEF 159
+2 Pal Pad SVI 182
+4 Nest Ball SVI 181
+1 Artazon PAL 171
+3 Bravery Charm PAL 173
+4 Professor Sada's Vitality PAR 170
+3 Super Rod PAL 188
+4 Explorer's Guidance TEF 147
+3 Earthen Vessel PAR 163
+
+Energy: 3
+3 Basic {F} Energy SVE 6
+2 Basic {P} Energy SVE 5
+4 Double Turbo Energy BRS 151
+
+Total Cards: 60

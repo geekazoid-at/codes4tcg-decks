@@ -1,0 +1,27 @@
+Pokémon: 9
+1 Bibarel PR-SW 188
+1 Mew ex MEW 151
+2 Scizor ex TEF 111
+3 Metang TEF 114
+3 Beldum SIT 117
+3 Scizor OBF 141
+1 Radiant Greninja ASR 46
+1 Bidoof CRZ 111
+4 Scyther MEW 123
+
+Trainer: 10
+2 Nest Ball PAF 84
+4 Ultra Ball PAF 91
+1 Prime Catcher TEF 157
+2 Pokégear 3.0 SVI 186
+3 Professor's Research PAF 88
+3 Boss's Orders PAL 172
+4 Super Rod PAL 188
+4 Buddy-Buddy Poffin TEF 144
+1 Ciphermaniac's Codebreaking TEF 145
+4 Iono PAF 80
+
+Energy: 1
+13 Basic {M} Energy SVE 8 PH
+
+Total Cards: 60

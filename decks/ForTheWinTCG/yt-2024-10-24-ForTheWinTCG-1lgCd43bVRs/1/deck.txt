@@ -1,0 +1,32 @@
+Pokémon: 9
+1 Bloodmoon Ursaluna ex TWM 141
+3 Espathra ex PAF 6
+1 Enamorus V LOR 82
+3 Flittle PAR 80
+3 Xatu PAR 72
+1 Fezandipiti ex SFA 38
+3 Natu PAF 25
+2 Rellor TEF 23
+2 Rabsca TEF 24
+
+Trainer: 15
+1 Counter Catcher PAR 160
+3 Pokémon League Headquarters OBF 192
+2 Ultra Ball PAF 91
+1 Night Stretcher SFA 61
+2 Rescue Board TEF 159
+2 Nest Ball SVI 181
+4 Arven OBF 186
+2 Boss's Orders PAL 172
+1 Hyper Aroma TWM 152
+3 Iono PAL 185
+1 Technical Machine: Evolution PAR 178
+1 Super Rod PAL 188
+4 Buddy-Buddy Poffin TEF 144
+1 Switch SVI 194
+3 Earthen Vessel PAR 163
+
+Energy: 1
+10 Basic {P} Energy SVE 5
+
+Total Cards: 60

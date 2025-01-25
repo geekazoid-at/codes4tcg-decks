@@ -1,0 +1,29 @@
+Pokémon: 10
+4 Horsea BST 31
+1 Skwovet SVI 151
+1 Mew CEL 11
+2 Bibarel PR-SW 188
+3 Kingdra PAR 32
+2 Hisuian Basculegion LOR 45
+2 Hisuian Basculin ASR 43
+1 Kingdra LOR 37
+2 Seadra LOR 36
+2 Bidoof CRZ 111
+
+Trainer: 10
+2 Town Store OBF 196
+4 Irida ASR 147
+4 Battle VIP Pass FST 225
+3 Arven SVI 166
+2 Technical Machine: Evolution PAR 178
+1 Super Rod PAL 188
+2 Ultra Ball SVI 196
+1 Switch SVI 194
+2 Rare Candy SVI 191
+1 Energy Recycler BST 124
+
+Energy: 2
+4 Basic {W} Energy SVE 3
+14 Basic {W} Energy SVE 3 PH
+
+Total Cards: 60

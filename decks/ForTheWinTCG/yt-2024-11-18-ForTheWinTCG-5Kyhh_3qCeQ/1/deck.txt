@@ -1,0 +1,34 @@
+Pokémon: 6
+1 Radiant Tsareena SIT 16
+1 Mew ex MEW 151
+2 Ho-Oh V SIT 140
+2 Fan Rotom SCR 118
+3 Bouffalant SCR 119
+1 Squawkabilly ex PAL 169
+
+Trainer: 13
+3 Switch Cart ASR 154
+4 Ultra Ball PAF 91
+4 Earthen Vessel PAR 163
+2 Professor's Research PAF 87
+1 Brilliant Blender SSP 164
+3 Trekking Shoes ASR 156
+4 PokéStop PGO 68
+3 Pokégear 3.0 SVI 186
+3 Picnic Basket SVI 184
+4 Nest Ball SVI 181
+4 Carmine TWM 145
+4 Bravery Charm PAL 173
+2 Boss's Orders PAL 172
+
+Energy: 8
+2 Basic {G} Energy Energy 1
+1 Basic {M} Energy Energy 16
+1 Basic {D} Energy Energy 15
+1 Basic {F} Energy Energy 14
+1 Basic {P} Energy Energy 13
+1 Basic {L} Energy Energy 12
+1 Basic {W} Energy Energy 11
+1 Basic {R} Energy Energy 10
+
+Total Cards: 60

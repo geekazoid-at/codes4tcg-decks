@@ -1,0 +1,27 @@
+Pokémon: 6
+1 Mew ex MEW 151
+4 Raging Bolt ex TEF 123
+4 Baltoy SIT 93
+1 Radiant Greninja ASR 46
+4 Claydol SIT 94
+1 Squawkabilly ex PAL 169
+
+Trainer: 12
+4 Ultra Ball SVI 196
+2 Switch SVI 194
+4 Earthen Vessel PAR 163
+2 Buddy-Buddy Poffin TEF 144
+4 Trekking Shoes ASR 156
+1 Counter Catcher PAR 160
+3 PokéStop PGO 68
+2 Super Rod PAL 188
+4 Energy Sticker MEW 159
+1 Prime Catcher TEF 157
+4 Nest Ball SVI 181
+2 Ancient Booster Energy Capsule PAR 159
+
+Energy: 2
+7 Basic {F} Energy Energy 14
+5 Basic {L} Energy Energy 12
+
+Total Cards: 60

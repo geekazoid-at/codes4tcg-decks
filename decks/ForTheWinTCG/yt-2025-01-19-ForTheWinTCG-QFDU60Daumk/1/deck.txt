@@ -1,0 +1,32 @@
+Pokémon: 7
+2 Munkidori SFA 72
+3 Budew PRE 4 PH
+1 Budew PRE 4 PH
+1 Bloodmoon Ursaluna ex TWM 216
+3 Snorunt SIT 41 PH
+3 Froslass TWM 174
+1 Radiant Tsareena SIT 16
+
+Trainer: 16
+4 Buddy-Buddy Poffin TWM 223
+1 Unfair Stamp TWM 165
+4 Crushing Hammer UPR 166
+3 Iono PR-SV 124
+1 Nest Ball SVI 255
+1 Earthen Vessel SFA 96
+2 Switch MEW 206
+1 Defiance Band SVI 169 PH
+4 Irida CRZ-GG 63
+3 Night Stretcher SSP 251
+2 Jamming Tower TWM 153 PH
+2 Bravery Charm SCR 175
+3 Judge LOT 209
+3 Ultra Ball BRS 186
+4 Counter Catcher PAR 264
+1 Colress's Tenacity SFA 87
+
+Energy: 2
+4 Gift Energy LOR 171 PH
+3 Basic {D} Energy SFA 98
+
+Total Cards: 60

@@ -1,0 +1,38 @@
+Pokémon: 7
+1 Lumineon V BRS 40
+2 Diancie ASR 68
+1 Jirachi V ASR 170
+1 Radiant Greninja ASR 46
+4 Ho-Oh V SIT 140
+1 Tatsugiri TWM 131
+1 Squawkabilly ex PAL 169
+
+Trainer: 16
+1 Hisuian Heavy Ball ASR 146
+1 Counter Catcher PAR 160
+3 Switch Cart ASR 154
+1 Secret Box TWM 163
+2 PokéStop PGO 68
+4 Nest Ball PAF 84
+1 Forest Seal Stone SIT 156
+1 Exp. Share SVI 174
+1 Morty's Conviction TEF 155
+1 Rescue Board TEF 159
+4 Professor's Research SVI 189
+4 Arven OBF 186
+2 Bravery Charm PAL 173
+2 Boss's Orders PAL 172
+4 Ultra Ball SVI 196
+2 Earthen Vessel PAR 163
+
+Energy: 8
+2 Basic {W} Energy SVE 3
+1 Basic {R} Energy SVE 2
+2 Basic {G} Energy SVE 1
+2 Basic {D} Energy SVE 7
+2 Basic {F} Energy SVE 6
+2 Basic {P} Energy SVE 5
+2 Basic {L} Energy SVE 4
+2 Basic {M} Energy SVE 8
+
+Total Cards: 60

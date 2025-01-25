@@ -1,0 +1,38 @@
+Pokémon: 11
+1 Bloodmoon Ursaluna ex TWM 141
+2 Hoothoot TEF 126
+1 Terapagos ex SCR 128
+1 Lumineon V BRS 40
+2 Terapagos ex SCR 170
+1 Fan Rotom SCR 118 PH
+1 Hoothoot SCR 114
+3 Noctowl SCR 115
+1 Fan Rotom SCR 118
+3 Bouffalant SCR 119
+1 Radiant Greninja ASR 46
+
+Trainer: 17
+3 Ultra Ball PAF 91
+1 Prime Catcher TEF 157
+1 Rescue Board TEF 159
+1 Penny SVI 183
+4 Nest Ball SVI 181
+2 Professor's Research SVI 189
+2 Bravery Charm PAL 173
+2 Boss's Orders PAL 172
+1 Arven SVI 166
+3 Area Zero Underdepths SCR 174
+1 Super Rod PAL 188
+1 Lost Vacuum LOR 162
+1 Briar SCR 132
+4 Glass Trumpet SCR 135
+2 Buddy-Buddy Poffin TEF 144
+3 Iono PAF 80
+2 Earthen Vessel PAR 163
+
+Energy: 3
+3 Basic {W} Energy EVO 93 PH
+3 Basic {L} Energy EVO 94 PH
+3 Basic {G} Energy EVO 91 PH
+
+Total Cards: 60

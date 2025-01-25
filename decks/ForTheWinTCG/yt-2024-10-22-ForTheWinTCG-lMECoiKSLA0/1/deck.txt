@@ -1,0 +1,35 @@
+Pokémon: 11
+1 Cleffa OBF 202
+1 Fezandipiti ex SFA 92
+1 Bloodmoon Ursaluna ex TWM 216
+2 Duskull CRZ-GG 28
+3 Yamask PAR 75 PH
+2 Xatu PR-SV 59
+1 Dusclops SFA 69
+2 Dusknoir SFA 70
+1 Radiant Alakazam SIT 59
+2 Natu PAF 25 PH
+3 Cofagrigus ex PAR 224
+
+Trainer: 16
+4 Buddy-Buddy Poffin TWM 223
+1 Rescue Board TWM 225
+1 Super Rod PAL 276
+1 Ciphermaniac's Codebreaking TEF 198
+3 Iono PR-SV 124
+1 Nest Ball SVI 255
+3 Earthen Vessel SFA 96
+2 Rare Candy SVI 256
+1 Night Stretcher SFA 61 PH
+4 Arven PAF 235
+2 Boss's Orders PAL 265
+1 Hyper Aroma TWM 152
+4 Ultra Ball BRS 186
+2 Counter Catcher PAR 264
+1 Rescue Board TEF 159 PH
+1 Switch SVI 194
+
+Energy: 1
+9 Basic {P} Energy SVE 5 PH
+
+Total Cards: 60

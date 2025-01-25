@@ -1,0 +1,31 @@
+Pokémon: 7
+3 Teal Mask Ogerpon ex TWM 25
+1 Radiant Tsareena SIT 16
+4 Chesnaught V SIT 15
+1 Latias ex SSP 76
+1 Fezandipiti ex SFA 38
+1 Wo-Chien ex PAL 27
+1 Bloodmoon Ursaluna ex TWM 141
+
+Trainer: 16
+2 Switch Cart ASR 154
+1 Thorton LOR 167
+1 Earthen Vessel PAR 163
+4 Area Zero Underdepths SCR 131
+4 Energy Switch SVI 173
+1 Hisuian Heavy Ball ASR 146
+1 Night Stretcher SFA 61
+1 Super Rod PAL 188
+3 Iono PAF 80
+1 Forest Seal Stone SIT 156
+1 Nest Ball SVI 181
+1 Precious Trolley SSP 185
+4 Bug Catching Set TWM 143
+3 Bravery Charm PAL 173
+4 Arven SVI 166
+3 Boss's Orders PAL 172
+
+Energy: 1
+13 Basic {G} Energy SVE 1
+
+Total Cards: 60

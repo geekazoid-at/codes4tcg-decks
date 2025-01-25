@@ -1,0 +1,36 @@
+Pokémon: 10
+2 Bidoof CRZ-GG 29
+1 Regigigas VSTAR CRZ 114
+4 Arceus V BRS 166
+1 Skwovet SVI 222
+1 Radiant Charizard CRZ 20
+4 Arceus VSTAR BRS 184
+1 Regigigas V CRZ 113
+1 Iron Moth PAR 187
+1 Cobalion SIT 126 PH
+2 Bibarel CRZ-GG 25
+
+Trainer: 15
+3 Boss's Orders RCL 189
+1 Lost Vacuum LOR 217
+2 Magma Basin BRS 144
+3 Judge SIT-TG 25
+4 Nest Ball SVI 255
+1 Technical Machine: Crisis Punch PAF 90
+1 Choice Belt ASR 211
+2 Path to the Peak ASR 213
+3 Iono PAF 237
+1 Switch MEW 206
+1 Hisuian Heavy Ball ASR 146 PH
+1 Cheren's Care CRZ-GG 58
+1 Raihan CRZ-GG 65
+4 Ultra Ball BRS 186
+1 Counter Catcher PAR 264
+
+Energy: 4
+2 Jet Energy PAL 190 PH
+6 Basic {R} Energy EVO 92 PH
+1 V Guard Energy SIT 215
+4 Double Turbo Energy ASR 216
+
+Total Cards: 60

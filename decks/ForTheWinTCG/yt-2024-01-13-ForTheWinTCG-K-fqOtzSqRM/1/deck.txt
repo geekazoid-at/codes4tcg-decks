@@ -1,0 +1,35 @@
+Pokémon: 9
+1 Toedscool PAR 16
+2 Bibarel PR-SW 188
+3 Arceus VSTAR BRS 123
+4 Arceus V BRS 122
+1 Toedscruel ex OBF 22
+1 Radiant Charizard CRZ 20
+2 Zeraora VMAX CRZ 54
+2 Zeraora V CRZ 53
+2 Bidoof CRZ 111
+
+Trainer: 15
+1 Hisuian Heavy Ball ASR 146
+1 Counter Catcher PAR 160
+1 Box of Disaster LOR 154
+3 Judge SVI 176
+1 Mesagoza SVI 178
+4 Nest Ball SVI 181
+1 Lost City LOR 161
+4 Iono PAL 185
+2 Arven SVI 166
+1 Technical Machine: Devolution PAR 177
+1 Lost Vacuum CRZ 135
+1 Collapsed Stadium BRS 137
+2 Boss's Orders BRS 132
+4 Ultra Ball SVI 196
+1 Earthen Vessel PAR 163
+
+Energy: 4
+2 Jet Energy PAL 190
+3 Basic {R} Energy SVE 2
+5 Basic {L} Energy SVE 4
+4 Double Turbo Energy BRS 151
+
+Total Cards: 60

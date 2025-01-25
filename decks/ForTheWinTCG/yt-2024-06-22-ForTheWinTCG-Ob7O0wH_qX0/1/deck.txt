@@ -1,0 +1,37 @@
+Pokémon: 10
+2 Origin Forme Palkia V ASR 39
+1 Wimpod PGO 25
+1 Mimikyu PAL 97
+3 Golisopod ex PAR 50
+1 Flutter Mane TEF 78
+1 Cornerstone Mask Ogerpon ex TWM 112
+2 Origin Forme Palkia VSTAR ASR 40
+1 Radiant Greninja ASR 46
+2 Wimpod PAR 47
+1 Tatsugiri TWM 131
+
+Trainer: 16
+1 Hisuian Heavy Ball ASR 146
+1 Counter Catcher PAR 160
+4 Irida ASR 147
+1 Prime Catcher TEF 157
+2 Rescue Board TEF 159
+2 Nest Ball SVI 181
+3 Arven OBF 186
+2 Boss's Orders PAL 172
+3 Iono PAL 185
+1 Professor Turo's Scenario PAR 171
+1 Beach Court SVI 167
+1 Super Rod PAL 188
+1 Energy Loto ASR 140
+4 Buddy-Buddy Poffin TEF 144
+4 Ultra Ball SVI 196
+3 Earthen Vessel PAR 163
+
+Energy: 4
+3 Boomerang Energy TWM 166
+6 Basic {W} Energy SVE 3
+1 Basic {F} Energy SVE 6
+1 Basic {P} Energy SVE 5
+
+Total Cards: 60

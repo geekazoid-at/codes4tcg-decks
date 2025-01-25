@@ -1,0 +1,35 @@
+Pokémon: 9
+1 Bloodmoon Ursaluna ex TWM 141
+3 Archen SIT 146
+1 Luxray PAL 71
+2 Lumineon V BRS 40
+1 Cleffa OBF 80
+3 Archeops SIT 147
+2 Minccino TEF 136
+2 Cinccino TEF 137
+1 Wyrdeer V ASR 134
+
+Trainer: 13
+1 Town Store OBF 196
+1 Forest Seal Stone SIT 156
+4 Unidentified Fossil FLI 116
+3 Irida ASR 147
+4 Nest Ball SVI 181
+3 Arven OBF 186
+3 Boss's Orders PAL 172
+2 Colress's Tenacity SFA 57
+1 Grand Tree SCR 136
+1 Technical Machine: Crisis Punch PAF 90
+2 Iono PAF 80
+2 Ultra Ball SVI 196
+2 Rare Candy SVI 191
+
+Energy: 6
+3 Jet Energy PAL 190
+1 Reversal Energy PAL 192
+4 Gift Energy LOR 171
+4 Double Turbo Energy BRS 151
+2 Mist Energy TEF 161
+1 V Guard Energy SIT 169
+
+Total Cards: 60

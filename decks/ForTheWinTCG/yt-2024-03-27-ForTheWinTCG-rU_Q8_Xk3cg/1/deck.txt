@@ -1,0 +1,31 @@
+Pokémon: 7
+1 Capsakid OBF 23
+1 Manaphy BRS 41
+1 Skwovet SVI 151
+3 Capsakid SVI 28
+3 Bidoof CRZ 111
+4 Scovillain ex TEF 22
+2 Bibarel BRS 121
+
+Trainer: 16
+1 Pokémon League Headquarters OBF 192
+4 Ultra Ball SVI 196
+1 Eri TEF 146
+1 Vitality Band SVI 197
+2 Switch SVI 194
+4 Buddy-Buddy Poffin TEF 144
+4 Grabber MEW 162
+3 Arven OBF 186
+1 Rigid Band MEW 165
+1 Earthen Vessel PAR 163
+1 Counter Catcher PAR 160
+3 Iono PAF 80
+3 Boss's Orders PAL 172
+4 Judge SVI 176
+1 Exp. Share SVI 174
+1 Maximum Belt TEF 154
+
+Energy: 1
+10 Basic {G} Energy SVE 1
+
+Total Cards: 60

@@ -1,0 +1,27 @@
+Pokémon: 7
+3 Beldum TEF 113
+2 Bibarel BRS 121
+3 Metang TEF 114
+2 Bidoof BRS 120
+4 Iron Treads ex PAF 66
+1 Radiant Greninja ASR 46
+1 Zamazenta CRZ 97
+
+Trainer: 12
+3 Ultra Ball SVI 196
+4 Buddy-Buddy Poffin TEF 144
+4 Future Booster Energy Capsule PAR 164
+1 Hyper Aroma TWM 152
+4 Iono PAL 185
+1 Professor Turo's Scenario PAR 171
+3 Super Rod PAL 188
+2 Pokégear 3.0 SVI 186
+3 Nest Ball SVI 181
+1 Roseanne's Backup BRS 148
+2 Boss's Orders PAL 172
+4 Arven SVI 166
+
+Energy: 1
+12 Basic {M} Energy SVE 8
+
+Total Cards: 60

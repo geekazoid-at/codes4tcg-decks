@@ -1,0 +1,37 @@
+Pokémon: 9
+1 Bloodmoon Ursaluna ex TWM 141
+2 Bibarel BRS 121
+3 Flygon ex SSP 106
+2 Bidoof BRS 120
+1 Vibrava SSP 105
+3 Trapinch SSP 104
+1 Mimikyu PAF 37
+1 Cornerstone Mask Ogerpon ex TWM 112
+2 Klefki SVI 96
+
+Trainer: 17
+2 Counter Catcher PAR 160
+1 Artazon PAF 76
+4 Ultra Ball PAF 91
+2 Night Stretcher SFA 61
+2 Rescue Board TEF 159
+2 Nest Ball SVI 181
+4 Arven OBF 186
+1 Boss's Orders PAL 172
+4 Iono PAL 185
+2 Technical Machine: Evolution PAR 178
+1 Super Rod PAL 188
+1 Lost Vacuum CRZ 135
+1 Colress's Tenacity SFA 57
+4 Buddy-Buddy Poffin TEF 144
+1 Switch SVI 194
+3 Rare Candy SVI 191
+1 Earthen Vessel PAR 163
+
+Energy: 4
+1 Basic {W} Energy SVE 3
+5 Basic {F} Energy SVE 6
+1 Basic {M} Energy SVE 8
+1 Neo Upper Energy TEF 162
+
+Total Cards: 60

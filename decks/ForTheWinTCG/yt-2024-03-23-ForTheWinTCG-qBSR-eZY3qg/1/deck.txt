@@ -1,0 +1,26 @@
+Pokémon: 3
+2 Miraidon TEF 121
+3 Iron Crown ex TEF 206
+4 Iron Hands ex PAR 70
+
+Trainer: 14
+4 Counter Catcher PAR 160
+4 Future Booster Energy Capsule PAR 164
+2 Town Store OBF 196
+4 Electric Generator SVI 170
+2 Heavy Baton TEF 151
+1 Morty's Conviction TEF 155
+1 Reboot Pod TEF 158
+2 Nest Ball SVI 181
+3 Professor's Research SVI 189
+4 Arven OBF 186
+1 Boss's Orders PAL 172
+3 Iono PAL 185
+1 Professor Turo's Scenario PAR 171
+4 Techno Radar PAR 180
+
+Energy: 2
+13 Basic {L} Energy SVE 4
+2 Gift Energy LOR 171
+
+Total Cards: 60

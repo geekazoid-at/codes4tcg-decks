@@ -1,0 +1,32 @@
+Pokémon: 9
+1 Bloodmoon Ursaluna ex TWM 141
+3 Bidoof CRZ 111
+3 Chimchar TWM 31
+1 Delphox V LOR 27
+1 Entei V BRS 22
+1 Radiant Charizard CRZ 20
+3 Infernape TWM 33
+1 Cornerstone Mask Ogerpon ex TWM 112
+3 Bibarel BRS 121
+
+Trainer: 14
+1 Hisuian Heavy Ball ASR 146
+1 Forest Seal Stone SIT 156
+4 Ultra Ball CRZ 146
+1 Prime Catcher TEF 157
+2 Nest Ball SVI 181
+4 Arven OBF 186
+2 Boss's Orders PAL 172
+3 Iono PAL 185
+1 Technical Machine: Devolution PAR 177
+3 Earthen Vessel PAR 163 PH
+3 Superior Energy Retrieval PAL 189
+2 Super Rod PAL 188
+4 Rare Candy PAF 89
+4 Buddy-Buddy Poffin TEF 144
+
+Energy: 2
+4 Basic {F} Energy SVE 6 PH
+4 Basic {R} Energy SVE 2 PH
+
+Total Cards: 60

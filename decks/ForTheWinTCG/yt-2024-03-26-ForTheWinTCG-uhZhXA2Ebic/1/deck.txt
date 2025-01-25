@@ -1,0 +1,34 @@
+Pokémon: 9
+1 Tinkaton PAL 105
+1 Tinkatuff PAL 104
+2 Tinkatink PAL 101
+2 Tinkatink PAL 102
+4 Dunsparce TEF 128
+4 Dudunsparce TEF 129
+3 Tinkaton ex PAL 262
+1 Manaphy BRS 41
+1 Radiant Jirachi SIT 120
+
+Trainer: 16
+1 Counter Catcher PAR 160
+3 Arezu LOR 153
+2 Morty's Conviction TEF 155
+1 Pal Pad SVI 182
+4 Nemona SVI 180
+3 Nest Ball SVI 181
+3 Capturing Aroma SIT 153
+3 Artazon PAL 171
+1 Nemona's Backpack PAF 83
+2 Boss's Orders PAL 172
+2 Iono PAL 185
+1 Super Rod PAL 188
+1 Energy Loto ASR 140
+4 Buddy-Buddy Poffin TEF 144
+1 Ciphermaniac's Codebreaking TEF 145
+4 Rare Candy SVI 191
+
+Energy: 2
+4 Double Turbo Energy ASR 216
+1 Neo Upper Energy TEF 162
+
+Total Cards: 60

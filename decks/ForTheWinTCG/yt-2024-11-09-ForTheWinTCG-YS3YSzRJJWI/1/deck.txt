@@ -1,0 +1,32 @@
+Pokémon: 9
+3 Hoothoot TEF 126
+1 Alolan Exeggutor ex SSP 242
+1 Teal Mask Ogerpon ex TWM 25
+2 Alolan Exeggutor ex SSP 133
+4 Exeggcute SSP 1 PH
+1 Fezandipiti ex SFA 38
+1 Mew ex MEW 151
+3 Noctowl SCR 115
+1 Radiant Greninja ASR 46
+
+Trainer: 13
+2 Tera Orb SSP 189
+1 Rigid Band MEW 165
+1 Energy Switch SVI 173
+1 Powerglass SFA 63
+4 Arven SVI 166
+1 Colress's Tenacity SFA 57
+3 Area Zero Underdepths SCR 131
+2 Crispin SCR 133
+4 Buddy-Buddy Poffin TEF 144
+3 Iono PAF 80
+4 Ultra Ball SVI 196
+1 Sparkling Crystal SCR 142
+3 Earthen Vessel PAR 163
+
+Energy: 3
+6 Basic {G} Energy SVE 9
+4 Basic {W} Energy SVE 11
+3 Basic {F} Energy SVE 14
+
+Total Cards: 60

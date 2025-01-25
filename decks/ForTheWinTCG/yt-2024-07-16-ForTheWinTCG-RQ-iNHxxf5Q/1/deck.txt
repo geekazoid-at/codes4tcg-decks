@@ -1,0 +1,26 @@
+Pokémon: 6
+3 Varoom OBF 154
+3 Revavroom SVI 142
+3 Poltchageist TWM 20
+3 Sinistcha ex TWM 23
+1 Radiant Greninja ASR 46
+1 Bloodmoon Ursaluna ex TWM 141
+
+Trainer: 12
+4 Ultra Ball SVI 196
+3 Switch SVI 194
+1 Grant ASR 144
+4 Earthen Vessel PAR 163
+2 Professor's Research PAF 87
+4 Buddy-Buddy Poffin TEF 144
+3 PokéStop PGO 68
+2 Super Rod PAL 188
+1 Hero's Cape TEF 152
+1 Pal Pad SVI 182
+1 Rescue Board TEF 159
+4 Carmine TWM 145
+
+Energy: 1
+16 Basic {G} Energy SVE 1
+
+Total Cards: 60

@@ -1,0 +1,37 @@
+Pokémon: 10
+1 Lumineon V BRS 40
+2 Hawlucha SVI 118
+2 Pidgeot ex OBF 164
+1 Radiant Alakazam SIT 59
+1 Rotom V LOR 58
+3 Jolteon VMAX EVS 51
+2 Pidgey MEW 16
+2 Jolteon V PR-SW 183
+1 Jolteon V PR-SW 151
+1 Zekrom PAR 66
+
+Trainer: 19
+4 Ultra Ball SVI 196
+2 Nest Ball PAF 84 PH
+2 Rare Candy SVI 191
+2 Canceling Cologne ASR 136
+1 Escape Rope BST 125
+2 Earthen Vessel PAR 163
+1 Counter Catcher PAR 160
+2 Lost City LOR 161
+4 Battle VIP Pass FST 225
+1 Vitality Band SVI 197
+1 Technical Machine: Devolution PAR 177
+2 Elemental Badge EVS 147
+3 Iono PAF 80
+1 Roxanne ASR 150
+1 Forest Seal Stone SIT 156
+4 Arven SVI 166
+3 Boss's Orders PAL 172
+1 Collapsed Stadium BRS 137
+1 Lost Vacuum CRZ 135
+
+Energy: 1
+6 Basic {L} Energy SVE 4 PH
+
+Total Cards: 60

@@ -1,0 +1,36 @@
+Pokémon: 8
+2 Glimmet OBF 121
+4 Glimmora ex OBF 123
+2 Glimmet PAL 124
+1 Glimmora PAL 126
+1 Skwovet SVI 151
+2 Bibarel PR-SW 188
+1 Radiant Hisuian Sneasler LOR 123
+2 Bidoof CRZ 111
+
+Trainer: 20
+1 Hisuian Heavy Ball ASR 146
+1 Counter Catcher PAR 160
+1 Grant ASR 144
+2 Judge SVI 176
+1 Hero's Cape TEF 152
+3 Perilous Jungle TEF 156
+2 Switch SVI 194 PH
+3 Arven OBF 186
+2 Boss's Orders PAL 172
+3 Iono PAL 185
+1 Professor Turo's Scenario PAR 171
+1 Technical Machine: Devolution PAR 177
+2 Nest Ball SVI 181 PH
+1 Super Rod PAL 188
+1 Lost Vacuum CRZ 135
+2 Exp. Share SUM 118
+1 Eri TEF 146
+4 Buddy-Buddy Poffin TEF 144
+4 Ultra Ball SVI 196
+1 Earthen Vessel PAR 163
+
+Energy: 1
+8 Basic {F} Energy SVE 6
+
+Total Cards: 60

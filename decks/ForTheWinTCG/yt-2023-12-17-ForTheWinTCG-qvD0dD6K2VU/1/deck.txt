@@ -1,0 +1,32 @@
+Pokémon: 10
+2 Rapid Strike Urshifu V BST 87
+1 Jirachi PAR 126
+2 Sylveon VMAX EVS 75
+2 Flaaffy EVS 55
+2 Remoraid BST 36
+2 Bombirdier ex PAR 156
+2 Sylveon V EVS 74
+2 Mareep EVS 54
+2 Rapid Strike Urshifu VMAX BST 88
+2 Octillery BST 37
+
+Trainer: 12
+1 Hisuian Heavy Ball ASR 146
+2 Counter Catcher PAR 160
+1 Escape Rope BST 125
+3 Korrina's Focus BST 128
+2 Forest Seal Stone SIT 156
+4 Nest Ball SVI 181
+3 Tower of Waters BST 138
+2 Boss's Orders PAL 172
+4 Iono PAL 185
+2 Arven SVI 166
+4 Ultra Ball SVI 196
+1 Earthen Vessel PAR 163
+
+Energy: 3
+4 Jet Energy PAL 190
+4 Basic {L} Energy SVE 4
+4 Rapid Strike Energy BST 140
+
+Total Cards: 60

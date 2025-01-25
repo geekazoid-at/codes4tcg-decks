@@ -1,0 +1,38 @@
+Pokémon: 12
+1 Bloodmoon Ursaluna ex TWM 141
+1 Munkidori TWM 95
+1 Fezandipiti ex SFA 38
+2 Budew PRE 4 PH
+2 Bibarel BRS 121
+3 Glaceon ex PRE 26
+2 Eevee OBF 166
+1 Eevee ASR 119
+1 Radiant Alakazam SIT 59
+2 Bidoof CRZ 111
+1 Starmie MEW 121
+1 Staryu MEW 120
+
+Trainer: 16
+1 Counter Catcher PAR 160
+1 Nest Ball PAF 84
+2 Energy Switch SVI 173
+1 Irida ASR 147
+3 Night Stretcher SFA 61
+1 Rescue Board TEF 159
+2 Boss's Orders PAL 172
+4 Arven SVI 166
+4 Buddy-Buddy Poffin PRE 101
+1 Earthen Vessel PRE 106
+1 Crispin SCR 133
+2 Glass Trumpet SCR 135
+3 Iono PAF 80
+4 Ultra Ball SVI 196
+2 Switch SVI 194
+1 Sparkling Crystal SCR 142
+
+Energy: 3
+3 Basic {D} Energy Energy 15
+3 Basic {W} Energy Energy 11
+3 Basic {G} Energy Energy 1
+
+Total Cards: 60

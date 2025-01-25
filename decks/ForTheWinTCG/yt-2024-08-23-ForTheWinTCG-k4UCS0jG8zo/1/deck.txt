@@ -1,0 +1,36 @@
+Pokémon: 9
+4 Gastly TEF 102
+1 Haunter TEF 103
+3 Gengar ex TEF 104
+1 Rotom V LOR 58
+1 Fezandipiti ex SFA 38
+2 Pidgeot ex OBF 164
+2 Pidgey OBF 162
+1 Pecharunt ex SFA 39
+1 Manaphy BRS 41
+
+Trainer: 18
+1 Hisuian Heavy Ball ASR 146
+2 Nest Ball PAF 84
+1 Forest Seal Stone SIT 156
+1 Night Stretcher SFA 61
+1 Pal Pad SVI 182
+4 Arven OBF 186
+2 Boss's Orders PAL 172
+2 Binding Mochi SFA 55
+1 Handheld Fan TWM 150
+3 Iono PAL 185
+1 Professor Turo's Scenario PAR 171
+1 Super Rod PAL 188
+2 Janine's Secret Art SFA 59
+1 Dark Patch ASR 139
+4 Buddy-Buddy Poffin TEF 144
+4 Ultra Ball SVI 196
+4 Rare Candy SVI 191
+1 Earthen Vessel PAR 163
+
+Energy: 2
+7 Basic {D} Energy SVE 7
+1 Neo Upper Energy TEF 162
+
+Total Cards: 60

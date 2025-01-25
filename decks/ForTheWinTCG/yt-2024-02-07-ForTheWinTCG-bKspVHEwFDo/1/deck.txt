@@ -1,0 +1,34 @@
+Pokémon: 13
+3 Toedscruel ex OBF 22
+2 Toedscool PAR 16
+1 Toedscruel PAR 17
+1 Leafeon V EVS 7
+1 Mew CEL 11
+2 Cherrim PR-SW 88
+1 Cherubi BRS 12
+1 Radiant Greninja ASR 46
+1 Manaphy BRS 41
+2 Toedscool PAR 15
+1 Tropius EVS 6
+1 Cherubi CRZ 11
+1 Kricketune V BST 6
+
+Trainer: 13
+2 Earthen Vessel PAR 163
+4 Arven SVI 166
+3 Iono PAL 185
+3 Artazon PAF 76
+4 Battle VIP Pass FST 225
+4 Ultra Ball SVI 196
+2 Boss's Orders PAL 172
+2 Forest Seal Stone SIT 156
+1 Hisuian Heavy Ball ASR 146
+1 Super Rod PAL 188
+4 Colress's Experiment LOR 155
+1 Vitality Band SVI 197
+1 Energy Retrieval SVI 171
+
+Energy: 1
+10 Basic {G} Energy EVO 91 PH
+
+Total Cards: 60

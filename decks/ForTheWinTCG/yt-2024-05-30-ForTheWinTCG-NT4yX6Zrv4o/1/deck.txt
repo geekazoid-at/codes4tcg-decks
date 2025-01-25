@@ -1,0 +1,36 @@
+Pokémon: 6
+4 Snorlax PGO 55
+2 Froslass TWM 53
+3 Snorunt SIT 41
+3 Munkidori TWM 95
+1 Radiant Tsareena SIT 16
+2 Rotom V LOR 58
+
+Trainer: 22
+1 Team Yell's Cheer BRS 149
+2 Temple of Sinnoh ASR 155
+1 Jacq SVI 175
+4 Arven OBF 186
+1 Miss Fortune Sisters LOR 164
+2 Eri TEF 146
+3 Counter Catcher PAR 160
+2 Boss's Orders PAL 172
+1 Professor Turo's Scenario PAR 171
+2 Cyllene ASR 138
+2 Pal Pad SVI 182
+1 Erika's Invitation MEW 160
+2 Buddy-Buddy Poffin TEF 144
+1 Unfair Stamp TWM 165
+4 Emergency Jelly SIT 155
+2 Ultra Ball PAF 91
+1 Lost Vacuum LOR 162
+4 Nest Ball SVI 181
+2 Earthen Vessel PAR 163
+2 Technical Machine: Devolution PAR 177
+1 Super Rod PAL 188
+1 Thorton LOR 167
+
+Energy: 1
+3 Basic {D} Energy SVE 7
+
+Total Cards: 60

@@ -1,0 +1,31 @@
+Pokémon: 4
+3 Miraidon TEF 121
+3 Munkidori TWM 95
+3 Chansey PGO 51
+3 Blissey ex TWM 134
+
+Trainer: 16
+1 Counter Catcher PAR 160
+3 PokéStop PGO 68
+3 Ultra Ball PAF 91
+3 Pokégear 3.0 SVI 186
+1 Reboot Pod TEF 158
+1 Pal Pad SVI 182
+4 Nest Ball SVI 181
+2 Switch SVI 194 PH
+1 Boss's Orders PAL 172
+2 Future Booster Energy Capsule PAR 164
+3 Iono PAL 185
+4 Arven SVI 166
+2 Super Rod PAL 188
+1 Techno Radar PAR 180
+1 Cheren's Care BRS 134
+3 Earthen Vessel PAR 163
+
+Energy: 4
+3 Basic {D} Energy SVE 7
+2 Basic {P} Energy SVE 5
+4 Basic {L} Energy SVE 4
+4 Double Turbo Energy BRS 151
+
+Total Cards: 60

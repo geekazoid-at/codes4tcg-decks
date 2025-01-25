@@ -1,0 +1,33 @@
+Pokémon: 9
+2 Koraidon ex TEF 120
+3 Gible PAR 94
+2 Drilbur TEF 85
+2 Bibarel BRS 121
+1 Radiant Charizard CRZ 20
+1 Manaphy BRS 41
+3 Garchomp ex PAR 38
+2 Bidoof CRZ 111
+2 Excadrill TEF 86
+
+Trainer: 15
+1 Counter Catcher PAR 160
+2 Nest Ball PAF 84
+4 Irida ASR 147
+4 Ultra Ball PAF 91
+1 Maximum Belt TEF 154
+1 Arven OBF 186
+2 Boss's Orders PAL 172
+1 Super Rod PAL 188
+1 Lost Vacuum CRZ 135
+1 Defiance Band SVI 169
+3 Rare Candy PAF 89
+4 Buddy-Buddy Poffin TEF 144
+3 Iono PAF 80
+2 Switch SVI 194
+2 Earthen Vessel PAR 163
+
+Energy: 2
+3 Basic {R} Energy SVE 2
+7 Basic {F} Energy SVE 6
+
+Total Cards: 60

@@ -1,0 +1,28 @@
+Pokémon: 5
+1 Squawkabilly ex PAF 75
+3 Darkrai VSTAR ASR 99
+4 Darkrai V ASR 98
+1 Radiant Greninja ASR 46
+3 Iron Jugulis TEF 139
+
+Trainer: 15
+4 Ultra Ball SVI 196
+2 Switch SVI 194
+4 Dark Patch ASR 139
+2 Earthen Vessel PAR 163
+4 Professor's Research PAF 87
+3 PokéStop PGO 68
+1 Super Rod PAL 188
+2 Iono PAF 80
+2 Pokégear 3.0 SVI 186
+2 Morty's Conviction TEF 155
+1 Pal Pad SVI 182
+1 Reboot Pod TEF 158
+4 Nest Ball SVI 181
+1 Techno Radar PAR 180
+2 Boss's Orders PAL 172
+
+Energy: 1
+13 Basic {D} Energy SVE 7 PH
+
+Total Cards: 60

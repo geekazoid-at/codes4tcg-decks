@@ -1,0 +1,32 @@
+Pokémon: 7
+3 Brute Bonnet PAR 123
+1 Jirachi PAR 126
+1 Radiant Hisuian Sneasler LOR 123
+1 Bibarel BRS 121
+4 Mimikyu PAF 37
+1 Manaphy BRS 41
+1 Bidoof CRZ 111
+
+Trainer: 17
+1 Hisuian Heavy Ball ASR 146
+1 Counter Catcher PAR 160
+3 Switch Cart ASR 154
+3 Town Store OBF 196
+4 Judge SVI 176
+2 Pokégear 3.0 SVI 186
+1 Rescue Carrier CRZ 142
+3 Nest Ball SVI 181
+3 Ancient Booster Energy Capsule PAR 159
+2 Arven OBF 186
+4 Fog Crystal CRE 140
+3 Bravery Charm PAL 173
+2 Boss's Orders PAL 172
+2 Colress's Experiment LOR 155
+1 Super Rod PAL 188
+4 Iono PAF 80
+1 Ultra Ball SVI 196
+
+Energy: 1
+8 Basic {P} Energy SVE 5 PH
+
+Total Cards: 60

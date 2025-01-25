@@ -1,0 +1,36 @@
+Pokémon: 7
+4 Marowak SCR 73
+1 Fezandipiti ex SFA 38
+2 Bibarel BRS 121
+1 Ting-Lu TWM 110
+4 Cubone MEW 104
+1 Radiant Alakazam SIT 59
+2 Bidoof CRZ 111
+
+Trainer: 18
+1 Hisuian Heavy Ball ASR 146
+2 Counter Catcher PAR 160
+2 Nest Ball PAF 84
+3 Ultra Ball PAF 91
+1 Maximum Belt TEF 154
+3 Night Stretcher SFA 61
+1 Rescue Board TEF 159
+3 Arven OBF 186
+1 Boss's Orders PAL 172
+1 Super Rod PAL 188
+1 Colress's Tenacity SFA 57
+1 Defiance Band SVI 169
+4 Gapejaw Bog ASR 142
+1 Energy Loto ASR 140
+1 Crispin SCR 133
+4 Buddy-Buddy Poffin TEF 144
+4 Iono PAF 80
+1 Switch SVI 194
+
+Energy: 4
+2 Reversal Energy PAL 192
+2 Basic {F} Energy SVE 6
+2 Basic {P} Energy SVE 5
+4 Double Turbo Energy BRS 151
+
+Total Cards: 60

@@ -1,0 +1,38 @@
+Pokémon: 12
+3 Meowscarada ex PAL 15
+2 Bibarel PR-SW 188
+1 Iron Bundle PAR 56
+1 Togekiss SSP 72
+1 Togepi ASR 55
+1 Fezandipiti ex SFA 38
+4 Sprigatito PR-SV 1
+2 Floragato PAL 14
+1 Klefki SVI 96
+2 Bidoof CRZ 111
+1 Radiant Alakazam SIT 59
+1 Togetic ASR 56
+
+Trainer: 17
+1 Counter Catcher PAR 160
+1 Precious Trolley SSP 185
+1 Counter Gain SSP 169
+2 Energy Retrieval SVI 171
+1 Night Stretcher SFA 61
+2 Nest Ball SVI 181
+1 Energy Loto GRI 122
+4 Arven OBF 186
+2 Boss's Orders PAL 172
+2 Technical Machine: Evolution PAR 178
+1 Super Rod PAL 188
+2 Buddy-Buddy Poffin TEF 144
+3 Iono PAF 80
+4 Ultra Ball SVI 196
+1 Switch SVI 194
+3 Rare Candy SVI 191
+1 Earthen Vessel PAR 163
+
+Energy: 2
+4 Basic {G} Energy Energy 1
+4 Double Turbo Energy BRS 151
+
+Total Cards: 60

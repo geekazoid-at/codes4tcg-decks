@@ -1,0 +1,39 @@
+Pokémon: 10
+1 Rotom V CRZ 45
+3 Greninja ex TWM 106
+4 Froakie OBF 56
+1 Frogadier TWM 57
+1 Fezandipiti ex SFA 38
+1 Radiant Charizard CRZ 20
+2 Pidgeot ex OBF 164
+2 Pidgey OBF 162
+1 Manaphy BRS 41
+1 Cleffa OBF 80
+
+Trainer: 19
+1 Town Store OBF 196
+1 Forest Seal Stone SIT 156
+4 Ultra Ball PAF 91
+1 Night Stretcher SFA 61
+1 Pal Pad SVI 182
+2 Boss's Orders PAL 172
+1 Roseanne's Backup BRS 148
+3 Iono PAL 185
+4 Arven SVI 166
+1 Professor Turo's Scenario PAR 171
+1 Super Rod PAL 188
+1 Colress's Tenacity SFA 57
+1 Crispin SCR 133
+4 Buddy-Buddy Poffin TEF 144
+1 Switch SVI 194
+1 Canceling Cologne ASR 136
+1 Sparkling Crystal SCR 142
+4 Rare Candy SVI 191
+1 Earthen Vessel PAR 163
+
+Energy: 3
+3 Basic {W} Energy SVE 3
+2 Basic {R} Energy SVE 2
+4 Double Turbo Energy BRS 151
+
+Total Cards: 60

@@ -1,0 +1,26 @@
+Pokémon: 6
+3 Metang TEF 114
+3 Beldum SIT 117
+1 Mew ex MEW 151
+3 Hisuian Goodra VSTAR LOR 136
+1 Radiant Greninja ASR 46
+3 Hisuian Goodra V LOR 135
+
+Trainer: 11
+4 Ultra Ball SVI 196
+3 Earthen Vessel PAR 163
+4 Professor's Research PAF 87
+2 Buddy-Buddy Poffin TEF 144
+1 Professor Turo's Scenario PAR 171
+3 Super Rod PAL 188
+4 Iono PAF 80
+1 Hero's Cape TEF 152
+2 Pokégear 3.0 SVI 186
+4 Nest Ball SVI 181
+3 Boss's Orders PAL 172
+
+Energy: 2
+4 Basic {W} Energy SVE 3
+11 Basic {M} Energy SVE 8 PH
+
+Total Cards: 60

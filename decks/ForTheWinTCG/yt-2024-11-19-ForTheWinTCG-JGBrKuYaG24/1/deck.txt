@@ -1,0 +1,28 @@
+Pokémon: 7
+3 Hydreigon ex SSP 119
+3 Togekiss SSP 72
+3 Tatsugiri ex SSP 142
+4 Pidgeot ex OBF 164
+4 Zweilous PAL 139
+4 Hydreigon PAL 140
+3 Dusknoir SFA 20
+
+Trainer: 8
+2 Counter Catcher PAR 160
+4 Town Store OBF 196
+1 Carmine TWM 145
+1 Counter Gain SSP 169
+4 Pokégear 3.0 SVI 186
+1 Briar SCR 132
+4 Crispin SCR 133
+1 Sparkling Crystal SCR 142
+
+Energy: 6
+3 Luminous Energy PAL 191
+3 Basic {W} Energy SVE 3
+2 Basic {R} Energy SVE 2
+6 Basic {D} Energy SVE 7
+2 Basic {P} Energy SVE 5
+2 Basic {M} Energy SVE 8
+
+Total Cards: 60

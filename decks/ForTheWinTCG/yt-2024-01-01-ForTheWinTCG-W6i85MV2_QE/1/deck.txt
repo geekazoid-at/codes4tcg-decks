@@ -1,0 +1,33 @@
+Pokémon: 8
+4 Gholdengo ex PAR 139
+3 Gimmighoul PAR 87
+1 Gimmighoul PAR 88
+2 Lunatone OBF 92
+2 Solrock PGO 39
+1 Manaphy BRS 41
+1 Radiant Greninja ASR 46
+1 Mew ex MEW 151
+
+Trainer: 16
+1 Defiance Band SVI 169
+1 Justified Gloves CRE 143
+2 Iono PAL 185
+4 Ultra Ball SVI 196
+2 Boss's Orders PAL 172
+1 Counter Catcher PAR 160
+1 Energy Retrieval SVI 171
+4 Superior Energy Retrieval PAL 189
+2 Avery CRE 130
+4 Colress's Experiment LOR 155
+1 Raihan EVS 152
+1 Lady LOR 159
+2 Earthen Vessel PAR 163
+4 Nest Ball SVI 181
+3 Path to the Peak CRE 148
+1 Hisuian Heavy Ball ASR 146
+
+Energy: 2
+9 Basic {M} Energy SVE 8 PH
+2 Basic {P} Energy SVE 5
+
+Total Cards: 60

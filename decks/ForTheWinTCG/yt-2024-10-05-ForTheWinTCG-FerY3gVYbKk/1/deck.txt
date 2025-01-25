@@ -1,0 +1,27 @@
+Pokémon: 6
+4 Zapdos PGO 29
+4 Pachirisu SVI 68
+2 Miraidon ex SVI 81
+2 Raikou V BRS 48
+1 Zeraora SCR 55
+2 Mewtwo ex PAR 58
+
+Trainer: 13
+2 Switch Cart ASR 154
+4 Electric Generator SVI 170
+1 Prime Catcher TEF 157
+2 Rescue Board TEF 159
+1 Pal Pad SVI 182
+4 Nest Ball SVI 181
+1 Bravery Charm PAL 173
+2 Boss's Orders PAL 172
+4 Arven SVI 166
+1 Super Rod PAL 188
+4 Professor's Research PAF 87
+4 Area Zero Underdepths SCR 131
+1 Forest Seal Stone SIT 156
+
+Energy: 1
+14 Basic {L} Energy SVE 4
+
+Total Cards: 60

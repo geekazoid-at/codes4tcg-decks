@@ -1,0 +1,31 @@
+Pokémon: 5
+1 Radiant Blastoise PGO 18
+1 Medicham V EVS 83
+4 Suicune V EVS 31
+4 Iron Valiant ex PAR 89
+1 Squawkabilly ex PAL 169
+
+Trainer: 16
+1 Irida ASR 147
+4 Switch SVI 194
+4 Switch Cart ASR 154
+4 Escape Rope BST 125
+1 Counter Catcher PAR 160
+1 Lost Vacuum CRZ 135
+2 Future Booster Energy Capsule PAR 164
+4 Battle VIP Pass FST 225
+4 Melony CRE 146
+1 Technical Machine: Devolution PAR 177
+2 Town Store OBF 196
+2 Forest Seal Stone SIT 156
+2 Nest Ball SVI 181
+4 Colress's Experiment LOR 155
+2 Calamitous Snowy Mountain PAL 174
+1 Boss's Orders PAL 172
+
+Energy: 3
+6 Basic {W} Energy SVE 3 PH
+2 Double Turbo Energy BRS 151
+2 Jet Energy PAL 190
+
+Total Cards: 60

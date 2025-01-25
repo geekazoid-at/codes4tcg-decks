@@ -1,0 +1,33 @@
+Pokémon: 8
+1 Magnemite PAL 65
+1 Magneton SSP 59
+1 Fezandipiti ex SFA 38
+1 Radiant Greninja ASR 46
+3 Rotom V LOR 58
+3 Rotom VSTAR CRZ 46
+1 Cramorant LOR 50
+1 Squawkabilly ex PAL 169
+
+Trainer: 17
+3 Ultra Ball SVI 196
+2 Boss's Orders PAL 265
+1 Canceling Cologne ASR 136
+2 Exp. Share SVI 174
+2 Electric Generator SVI 170
+1 Treasure Tracker PRE 131
+4 Carmine TWM 217
+2 PokéStop PGO 68
+3 Technical Machine: Devolution PAR 177
+2 Night Stretcher SFA 61
+4 Technical Machine: Turbo Energize PAR 179
+4 Technical Machine: Crisis Punch PAF 90
+2 Professor's Research CEL 24
+1 Pal Pad SVI 182
+1 Forest Seal Stone SIT 156
+2 Rescue Board TEF 159
+4 Nest Ball PAF 84
+
+Energy: 1
+8 Basic {L} Energy Energy 12
+
+Total Cards: 60

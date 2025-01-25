@@ -1,0 +1,31 @@
+Pokémon: 9
+4 Porygon-Z PAR 144
+2 Armarouge SVI 41
+1 Delphox V LOR 27
+2 Armarouge ex PAR 27
+3 Lugia V SIT 138
+1 Radiant Greninja ASR 46
+1 Lumineon V BRS 40
+3 Charcadet PAR 26
+3 Lugia VSTAR SIT 139
+
+Trainer: 14
+1 Collapsed Stadium BRS 137
+2 Switch SVI 194
+2 Earthen Vessel PAR 163
+1 Super Rod PAL 188
+1 Iono PAF 80
+1 Boss's Orders PAL 172
+3 Trekking Shoes CRZ 145
+3 Nest Ball SVI 181
+4 Ultra Ball PAF 91
+3 Capturing Aroma SIT 153
+1 Jacq SVI 175
+1 Carmine TWM 145
+4 Professor's Research SVI 189
+1 Prime Catcher TEF 157
+
+Energy: 1
+12 Basic {R} Energy EVO 92
+
+Total Cards: 60

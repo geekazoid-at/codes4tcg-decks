@@ -1,0 +1,32 @@
+Pokémon: 7
+1 Bloodmoon Ursaluna ex TWM 141
+2 Munkidori TWM 95
+3 Hisuian Samurott V ASR 101
+1 Mew ex MEW 151
+1 Absol ASR 97
+3 Hisuian Samurott VSTAR ASR 102
+1 Radiant Greninja ASR 46
+
+Trainer: 17
+1 Hisuian Heavy Ball ASR 146
+1 Counter Catcher PAR 160
+3 PokéStop PGO 68
+1 Maximum Belt TEF 154
+1 Pal Pad SVI 182
+4 Nest Ball SVI 181
+4 Professor's Research SVI 189
+2 Boss's Orders PAL 172
+2 Iono PAL 185
+2 Arven SVI 166
+3 Trekking Shoes CRZ 145
+1 Super Rod PAL 188
+1 Lost Vacuum LOR 162
+4 Dark Patch ASR 139
+4 Ultra Ball SVI 196
+3 Switch SVI 194
+2 Earthen Vessel PAR 163
+
+Energy: 1
+9 Basic {D} Energy EVO 97 PH
+
+Total Cards: 60

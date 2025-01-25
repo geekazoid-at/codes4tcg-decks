@@ -1,0 +1,34 @@
+Pokémon: 10
+1 Bloodmoon Ursaluna ex TWM 141
+3 Hoothoot TEF 126
+1 Latias ex SSP 220
+3 Noctowl SCR 115
+2 Fan Rotom SCR 118
+3 Bouffalant SCR 119
+3 Cyclizar ex SSP 159
+1 Radiant Greninja ASR 46
+1 Manaphy BRS 41
+1 Squawkabilly ex PAL 169
+
+Trainer: 13
+1 Switch Cart ASR 154
+1 Pal Pad SVI 182
+4 Nest Ball SVI 181
+2 Arven OBF 186
+3 Bravery Charm PAL 173
+3 Boss's Orders PAL 172
+1 Super Rod PAL 188
+1 Cheren's Care BRS 134
+3 Area Zero Underdepths SCR 131
+4 Crispin SCR 133
+3 Glass Trumpet SCR 135
+4 Ultra Ball SVI 196
+1 Earthen Vessel PAR 163
+
+Energy: 4
+1 Legacy Energy TWM 167
+3 Basic {P} Energy Energy 13
+3 Basic {R} Energy Energy 10
+3 Basic {G} Energy Energy 1
+
+Total Cards: 60

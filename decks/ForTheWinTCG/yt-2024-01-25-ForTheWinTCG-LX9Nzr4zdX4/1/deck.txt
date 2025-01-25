@@ -1,0 +1,33 @@
+Pokémon: 8
+2 Blastoise V PR-SW 101
+2 Bibarel BRS 121
+1 Mew CEL 11
+3 Origin Forme Palkia V ASR 39
+2 Origin Forme Palkia VSTAR ASR 40
+1 Radiant Greninja ASR 46
+2 Bidoof CRZ 111
+2 Blastoise VMAX PR-SW 103
+
+Trainer: 17
+4 Ultra Ball SVI 196
+1 Vitality Band SVI 197
+2 Lake Acuity LOR 160
+2 Canceling Cologne ASR 136
+1 Escape Rope BST 125
+2 Earthen Vessel PAR 163
+1 Counter Catcher PAR 160
+1 Lost Vacuum CRZ 135
+4 Battle VIP Pass FST 225
+1 Switch SVI 194 PH
+4 Melony CRE 146
+1 Technical Machine: Devolution PAR 177
+1 Path to the Peak CRE 148
+1 Super Rod PAL 188
+3 Nest Ball SVI 181
+4 Arven SVI 166
+2 Boss's Orders PAL 172
+
+Energy: 1
+10 Basic {W} Energy SVE 3
+
+Total Cards: 60

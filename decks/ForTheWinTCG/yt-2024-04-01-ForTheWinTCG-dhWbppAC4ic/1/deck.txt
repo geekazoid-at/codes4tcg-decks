@@ -1,0 +1,38 @@
+Pokémon: 11
+2 Bibarel PR-SW 188
+1 Lumineon V PR-SW 250
+1 Torracat TEF 33
+1 Litten TEF 32 PH
+3 Incineroar ex TEF 34
+1 Manaphy BRS 41
+1 Torracat SIT 31
+3 Litten SIT 30
+1 Relicanth TEF 84
+1 Radiant Charizard PGO 11
+2 Bidoof CRZ 111
+
+Trainer: 18
+1 Counter Catcher PAR 160
+1 Mela PAR 167
+2 Town Store OBF 196
+1 Magma Basin BRS 144
+1 Forest Seal Stone SIT 156
+1 Maximum Belt TEF 154
+2 Nest Ball SVI 181
+1 Choice Belt PAL 176
+3 Boss's Orders PAL 172
+4 Arven SVI 166
+2 Technical Machine: Evolution PAR 178
+1 Super Rod PAL 188
+2 Rare Candy PAF 89
+4 Buddy-Buddy Poffin TEF 144
+2 Iono PAF 80
+4 Ultra Ball SVI 196
+2 Switch SVI 194
+1 Earthen Vessel PAR 163
+
+Energy: 2
+7 Basic {R} Energy SVE 2
+1 Mist Energy TEF 161
+
+Total Cards: 60

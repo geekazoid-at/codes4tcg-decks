@@ -1,0 +1,30 @@
+Pokémon: 2
+4 Mimikyu PAF 37
+4 Cramorant LOR 50 PH
+
+Trainer: 19
+2 Counter Catcher PAR 160
+1 Raihan EVS 152
+1 Judge SVI 176
+4 Pokégear 3.0 SVI 186
+1 Pal Pad SVI 182
+4 Nest Ball SVI 181
+2 Fog Crystal CRE 140
+4 Bravery Charm PAL 173
+3 Boss's Orders PAL 172
+4 Path to the Peak CRE 148
+4 Iono PAL 185
+1 Technical Machine: Devolution PAR 177
+4 Colress's Experiment LOR 155
+1 Super Rod PAL 188
+1 Defiance Band SVI 169
+2 Lost Vacuum LOR 162
+1 Roxanne ASR 150
+1 Technical Machine: Crisis Punch PAF 90
+1 Earthen Vessel PAR 163
+
+Energy: 2
+8 Basic {P} Energy SVE 5 PH
+2 Jet Energy PAL 190 PH
+
+Total Cards: 60

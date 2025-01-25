@@ -1,0 +1,39 @@
+Pokémon: 13
+1 Manaphy CRZ-GG 6
+1 Mewtwo V-UNION PR-SW 159
+3 Xatu PAR 72
+1 Natu PAR 71 PH
+1 Mew CRZ-GG 10
+3 Natu PAR 71
+1 Jirachi PAR 126
+1 Bombirdier ex PAR 156
+1 Mewtwo V-UNION PR-SW 162
+3 Snorlax LOR-TG 10
+1 Mewtwo V-UNION PR-SW 160
+1 Mewtwo V-UNION PR-SW 161
+1 Pidgeot V LOR 188
+
+Trainer: 15
+1 Professor Burnet SIT-TG 26
+1 Super Rod PAL 276
+1 Superior Energy Retrieval PAL 277
+2 Iono PAL 269
+1 Peonia CRE 196
+1 Klara CRE 194
+4 Ultra Ball BRS 186
+1 Counter Catcher CIN 91
+2 Zinnia's Resolve EVS 203
+4 Professor's Research CEL 24
+1 Forest Seal Stone SIT 156
+1 Counter Catcher PAR 264
+1 Boss's Orders RCL 189
+4 Fog Crystal CRE 227
+3 Nest Ball SVI 255
+
+Energy: 4
+8 Basic {P} Energy SVE 5 PH
+2 Jet Energy PAL 190 PH
+2 Jet Energy PAL 190
+1 Basic {P} Energy MEW 207
+
+Total Cards: 60

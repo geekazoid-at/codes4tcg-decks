@@ -1,0 +1,31 @@
+Pokémon: 8
+1 Galarian Moltres V CRE 97
+1 Mew CEL 11
+2 Sandy Shocks ex PAR 108
+1 Dewott ASR 42
+4 Oshawott ASR 41
+4 Hisuian Samurott ASR 100
+1 Radiant Greninja ASR 46
+1 Manaphy BRS 41
+
+Trainer: 12
+1 Raihan EVS 152
+2 Forest Seal Stone SIT 156
+1 Irida ASR 147
+3 Artazon PAL 171
+4 Battle VIP Pass FST 225
+2 Iono PAL 185
+2 Arven SVI 166
+2 Professor Sada's Vitality PAR 170
+4 Energy Switch SVI 173 PH
+2 Boss's Orders BRS 132
+4 Ultra Ball SVI 196
+4 Rare Candy SVI 191
+
+Energy: 4
+2 Reversal Energy PAL 192
+4 Basic {D} Energy SVE 7
+4 Basic {F} Energy SVE 6
+4 Double Turbo Energy BRS 151
+
+Total Cards: 60

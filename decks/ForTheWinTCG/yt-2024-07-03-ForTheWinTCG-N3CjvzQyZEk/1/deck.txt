@@ -1,0 +1,42 @@
+Pokémon: 11
+2 Pidgey MEW 16
+1 Bloodmoon Ursaluna ex TWM 141
+3 Shinx BRS 49
+1 Rotom V CRZ 45
+1 Luxray V ASR 50
+3 Luxray ex TWM 68
+1 Wellspring Mask Ogerpon ex TWM 64
+2 Pidgeot ex OBF 164
+1 Manaphy BRS 41
+1 Tatsugiri TWM 131
+1 Radiant Alakazam SIT 59
+
+Trainer: 22
+1 Hisuian Heavy Ball ASR 146
+3 Counter Catcher PAR 160
+1 Roseanne's Backup BRS 148
+1 Unfair Stamp TWM 165
+2 Nest Ball PAF 84
+1 Forest Seal Stone SIT 156
+1 Judge SVI 176
+3 Ultra Ball PAF 91
+1 Rescue Board TEF 159
+2 Pal Pad SVI 182
+1 Penny SVI 183
+1 Lost City LOR 161
+4 Arven OBF 186
+1 Boss's Orders PAL 172
+1 Handheld Fan TWM 150
+1 Kieran TWM 154
+1 Professor Turo's Scenario PAR 171
+1 Technical Machine: Devolution PAR 177
+1 Defiance Band SVI 169
+4 Rare Candy PAF 89
+4 Buddy-Buddy Poffin TEF 144
+2 Iono PAF 80
+
+Energy: 2
+4 Double Turbo Energy BRS 151
+1 Mist Energy TEF 161
+
+Total Cards: 60

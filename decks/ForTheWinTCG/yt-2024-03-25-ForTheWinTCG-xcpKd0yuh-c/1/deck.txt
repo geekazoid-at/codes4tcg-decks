@@ -1,0 +1,30 @@
+Pokémon: 7
+1 Bibarel PR-SW 188
+1 Squawkabilly ex PAF 75
+2 Entei V BRS 22
+4 Gouging Fire ex TEF 38
+1 Radiant Charizard CRZ 20
+3 Moltres PGO 12
+1 Bidoof CRZ 111
+
+Trainer: 14
+1 Mela PAR 167
+2 Switch Cart ASR 154
+4 Magma Basin BRS 144
+4 Nest Ball PAF 84
+1 Forest Seal Stone SIT 156
+3 Ultra Ball PAF 91
+1 Maximum Belt TEF 154
+1 Arven OBF 186
+1 Bravery Charm PAL 173
+3 Boss's Orders PAL 172
+4 Professor Sada's Vitality PAR 170
+3 Trekking Shoes CRZ 145
+3 Iono PAF 80
+4 Earthen Vessel PAR 163
+
+Energy: 2
+4 Jet Energy PAL 190
+8 Basic {R} Energy SVE 2
+
+Total Cards: 60

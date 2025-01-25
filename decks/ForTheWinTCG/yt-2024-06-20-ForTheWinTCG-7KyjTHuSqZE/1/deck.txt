@@ -1,0 +1,34 @@
+Pokémon: 7
+2 Dunsparce PAL 156
+3 Froslass TWM 53
+1 Dunsparce TEF 128
+3 Dudunsparce TEF 129
+3 Snorunt SIT 41
+4 Floatzel BRS 39
+4 Buizel SVI 46
+
+Trainer: 19
+3 Ultra Ball SVI 196
+4 Irida ASR 147
+3 Crushing Hammer SVI 168
+2 Earthen Vessel PAR 163
+1 Eri TEF 146
+4 Buddy-Buddy Poffin TEF 144
+3 Counter Catcher PAR 160
+1 Jamming Tower TWM 153
+1 Lana's Aid TWM 155
+1 Technical Machine: Devolution PAR 177
+1 Super Rod PAL 188
+1 Iono PAF 80
+2 Miss Fortune Sisters LOR 164
+1 Temple of Sinnoh ASR 155
+1 Pal Pad SVI 182
+1 Unfair Stamp TWM 165
+1 Arven SVI 166
+1 Enhanced Hammer TWM 148
+2 Cynthia's Ambition BRS 138
+
+Energy: 1
+6 Basic {W} Energy SVE 3
+
+Total Cards: 60

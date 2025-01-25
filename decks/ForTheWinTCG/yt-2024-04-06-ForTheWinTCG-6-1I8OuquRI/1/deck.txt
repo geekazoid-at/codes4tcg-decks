@@ -1,0 +1,30 @@
+Pokémon: 9
+2 Raichu TEF 52
+2 Bibarel PR-SW 188
+1 Jirachi PAR 126
+4 Misdreavus PAL 87
+4 Mismagius SIT 64
+1 Manaphy BRS 41
+2 Pikachu PAL 62
+1 Radiant Alakazam SIT 59
+2 Bidoof CRZ 111
+
+Trainer: 12
+4 Counter Catcher PAR 160
+1 Erika's Invitation MEW 160
+3 Judge SVI 176
+1 Prime Catcher TEF 157
+3 Artazon PAL 171
+4 Iono PAL 185
+1 Arven SVI 166
+2 Technical Machine: Devolution PAR 177
+2 Super Rod PAL 188
+4 Buddy-Buddy Poffin TEF 144
+4 Ultra Ball SVI 196
+2 Switch SVI 194
+
+Energy: 2
+6 Basic {P} Energy SVE 5 PH
+4 Reversal Energy PAL 192
+
+Total Cards: 60

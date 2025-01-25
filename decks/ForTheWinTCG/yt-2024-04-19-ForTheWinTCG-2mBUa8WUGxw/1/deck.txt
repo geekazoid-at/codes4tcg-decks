@@ -1,0 +1,34 @@
+Pokémon: 10
+3 Hisuian Zoroark V LOR 146
+1 Skwovet SVI 151
+1 Jirachi PAR 126
+2 Bibarel BRS 121
+3 Hisuian Zoroark VSTAR LOR 147
+1 Pidove TEF 133 PH
+1 Pidove TEF 133
+2 Unfezant TEF 135
+2 Bidoof CRZ 111
+1 Radiant Alakazam SIT 59
+
+Trainer: 15
+1 Counter Catcher PAR 160
+4 Damage Pump LOR 156
+1 Forest Seal Stone SIT 156
+4 Ultra Ball PAF 91
+1 Maximum Belt TEF 154
+2 Nest Ball SVI 181
+3 Professor's Research SVI 189
+2 Boss's Orders PAL 172
+4 Iono PAL 185
+2 Arven SVI 166
+3 Great Ball PAL 183
+1 Super Rod PAL 188
+4 Gapejaw Bog ASR 142
+1 Ciphermaniac's Codebreaking TEF 145
+2 Switch SVI 194
+
+Energy: 2
+4 Reversal Energy PAL 192
+4 Double Turbo Energy BRS 151
+
+Total Cards: 60

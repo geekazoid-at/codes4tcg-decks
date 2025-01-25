@@ -1,0 +1,39 @@
+Pokémon: 6
+2 Terapagos ex SCR 128
+1 Mew ex MEW 151
+4 Bouffalant SCR 119
+1 Radiant Greninja ASR 46
+2 Ho-Oh V SIT 140
+1 Squawkabilly ex PAL 169
+
+Trainer: 18
+1 Counter Catcher PAR 160
+2 Switch Cart ASR 154
+4 Carmine TWM 145
+1 Secret Box TWM 163
+2 PokéStop PGO 68
+3 Energy Switch SVI 173
+1 Pal Pad SVI 182
+1 Penny SVI 183
+4 Nest Ball SVI 181
+2 Bravery Charm PAL 173
+2 Boss's Orders PAL 172
+1 Iono PAL 185
+1 Technical Machine: Devolution PAR 177
+1 Super Rod PAL 188
+1 Area Zero Underdepths SCR 131
+4 Glass Trumpet SCR 135
+4 Ultra Ball SVI 196
+3 Earthen Vessel PAR 163
+
+Energy: 8
+2 Basic {W} Energy SVE 3
+1 Basic {R} Energy SVE 2
+2 Basic {G} Energy SVE 1
+1 Basic {D} Energy SVE 7
+1 Basic {F} Energy SVE 6
+1 Basic {P} Energy SVE 5
+2 Basic {L} Energy SVE 4
+1 Basic {M} Energy SVE 8
+
+Total Cards: 60

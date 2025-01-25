@@ -1,0 +1,33 @@
+Pokémon: 9
+3 Giratina V LOR 130
+1 Comfey LOR 79
+2 Giratina VSTAR LOR 131
+3 Teal Mask Ogerpon ex TWM 25
+2 Hoothoot TEF 126
+2 Noctowl SCR 115
+1 Fezandipiti ex SFA 38
+2 Togepi ASR 55
+2 Togekiss SSP 72
+
+Trainer: 14
+2 Ultra Ball SVI 196
+2 Rare Candy SVI 191
+1 Arven OBF 186
+3 Area Zero Underdepths SCR 131
+4 Energy Switch SVI 173
+1 Counter Catcher PAR 160
+1 Night Stretcher SFA 61
+1 Colress's Tenacity SFA 57
+1 Super Rod PAL 188
+3 Nest Ball SVI 181
+1 Rescue Board TEF 159
+4 Colress's Experiment LOR 155
+3 Bug Catching Set TWM 143
+2 Boss's Orders PAL 172
+
+Energy: 3
+10 Basic {G} Energy SVE 1
+2 Basic {P} Energy SVE 5
+1 Legacy Energy TWM 167
+
+Total Cards: 60

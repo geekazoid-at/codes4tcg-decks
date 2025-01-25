@@ -1,0 +1,32 @@
+Pokémon: 6
+1 Munkidori TWM 95
+4 Spiritomb LOR 117
+2 Pikachu ex SSP 57
+4 Ditto PGO 53
+1 Radiant Greninja ASR 46
+1 Tatsugiri TWM 131
+
+Trainer: 18
+1 Hisuian Heavy Ball ASR 146
+1 Counter Catcher PAR 160
+2 PokéStop PGO 68
+2 Exp. Share BST 126
+1 Brilliant Blender SSP 164
+3 Night Stretcher SFA 61
+2 Rescue Board TEF 159
+1 Pal Pad SVI 182
+4 Nest Ball SVI 181
+4 Professor's Research SVI 189
+1 Thorton LOR 167
+3 Boss's Orders PAL 172
+2 Arven SVI 166
+1 Lost Vacuum CRZ 135
+4 Glass Trumpet SCR 135
+1 Buddy-Buddy Poffin TEF 144
+3 Iono PAF 80
+2 Earthen Vessel PAR 163
+
+Energy: 1
+9 Basic {D} Energy Energy 15
+
+Total Cards: 60

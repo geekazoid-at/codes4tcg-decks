@@ -1,0 +1,31 @@
+Pokémon: 10
+2 Xatu PAF 26
+1 Fezandipiti ex SFA 38
+1 Mew ex MEW 151
+2 Natu PAF 25
+2 Hoothoot SCR 114
+2 Noctowl SCR 115
+1 Fan Rotom SCR 118
+1 Radiant Greninja ASR 46
+3 Mewtwo ex PAR 58
+1 Wyrdeer V ASR 134
+
+Trainer: 12
+4 Nest Ball PAF 84
+2 Energy Retrieval SVI 171
+1 Rescue Board TEF 159
+4 Arven OBF 186
+2 Bravery Charm PAL 173
+2 Boss's Orders PAL 172
+3 Iono PAL 185
+1 Super Rod PAL 188
+3 Area Zero Underdepths SCR 131
+4 Glass Trumpet SCR 135
+4 Ultra Ball SVI 196
+2 Earthen Vessel PAR 163
+
+Energy: 2
+1 Legacy Energy TWM 167
+11 Basic {P} Energy SVE 5
+
+Total Cards: 60

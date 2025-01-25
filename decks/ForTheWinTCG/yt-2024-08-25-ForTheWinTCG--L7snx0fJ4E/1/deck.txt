@@ -1,0 +1,34 @@
+Pokémon: 8
+4 Timburr TWM 103
+1 Tatsugiri TWM 131
+4 Conkeldurr TWM 105
+1 Gurdurr TWM 104
+1 Radiant Hisuian Sneasler LOR 123
+3 Brute Bonnet PAR 123
+1 Iron Bundle PAR 56
+1 Rotom V LOR 58
+
+Trainer: 19
+3 Switch SVI 194
+4 Ultra Ball PAF 91
+4 Rare Candy SVI 191
+3 Ancient Booster Energy Capsule TEF 140
+1 Lost Vacuum LOR 162
+1 Hisuian Heavy Ball ASR 146
+1 Lana's Aid TWM 155
+1 Kieran TWM 154
+4 Iono PAF 80
+1 Town Store OBF 196
+4 Morty's Conviction TEF 155
+1 Temple of Sinnoh ASR 155
+1 Forest Seal Stone SIT 156
+4 Nest Ball SVI 181
+1 Neutralization Zone SFA 60
+1 Binding Mochi SFA 55
+2 Artazon PAL 171
+4 Arven SVI 166
+3 Boss's Orders PAL 172
+
+Energy: 0
+
+Total Cards: 60

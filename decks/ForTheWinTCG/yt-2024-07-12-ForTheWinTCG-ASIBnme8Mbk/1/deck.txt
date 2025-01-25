@@ -1,0 +1,25 @@
+Pokémon: 5
+4 Teal Mask Ogerpon ex TWM 25
+1 Mew ex MEW 151
+4 Scovillain ex TEF 22
+4 Capsakid SVI 28
+1 Cleffa OBF 80
+
+Trainer: 12
+4 Judge SVI 176
+4 Crushing Hammer SVI 168
+3 Energy Switch SVI 173
+1 Buddy-Buddy Poffin TEF 144
+1 Counter Catcher PAR 160
+2 Jamming Tower TWM 153
+4 Iono PAL 185
+2 Grabber MEW 162
+4 Nest Ball SVI 181
+4 Bug Catching Set TWM 143
+2 Boss's Orders PAL 172
+1 Enhanced Hammer TWM 148
+
+Energy: 1
+14 Basic {G} Energy SVE 1
+
+Total Cards: 60

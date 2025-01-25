@@ -1,0 +1,34 @@
+Pokémon: 9
+2 Pidgeot ex OBF 164
+2 Pidgey OBF 162
+1 Crocalor PAL 36
+1 Fezandipiti ex SFA 38
+1 Entei V BRS 22
+4 Fuecoco PAL 34
+1 Rotom V CRZ 45
+3 Skeledirge ex PAR 137
+1 Radiant Charizard CRZ 20
+
+Trainer: 17
+3 Ultra Ball SVI 196
+4 Rare Candy PAF 89
+3 Earthen Vessel PAR 163
+1 Briar SCR 132
+2 Buddy-Buddy Poffin TEF 144
+2 Energy Retrieval SVI 171
+1 Counter Catcher PAR 160
+1 Night Stretcher SFA 61
+1 Super Rod PAL 188
+3 Iono PAF 80
+1 Sparkling Crystal SCR 142
+1 Forest Seal Stone SIT 156
+4 Nest Ball SVI 181
+1 Rescue Board TEF 159
+4 Arven SVI 166
+2 Boss's Orders PAL 172
+2 Magma Basin BRS 144
+
+Energy: 1
+8 Basic {R} Energy SVE 2
+
+Total Cards: 60

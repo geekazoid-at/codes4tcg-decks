@@ -1,0 +1,29 @@
+Pokémon: 6
+1 Mawile LOR 71
+3 Magnezone VSTAR LOR 57
+3 Magnezone V LOR 56
+3 Snorunt SIT 41
+3 Froslass TWM 53
+1 Cleffa OBF 80
+
+Trainer: 15
+2 Counter Catcher PAR 160
+1 Unfair Stamp TWM 165
+3 Nest Ball PAF 84
+3 Ultra Ball PAF 91
+3 Morty's Conviction TEF 155
+2 Pokégear 3.0 SVI 186
+1 Rescue Board TEF 159
+1 Penny SVI 183
+1 Boss's Orders PAL 172
+4 Iono PAL 185
+3 Arven SVI 166
+4 Electric Generator PAF 79
+1 Super Rod PAL 188
+2 Buddy-Buddy Poffin TEF 144
+2 Switch SVI 194
+
+Energy: 1
+13 Basic {L} Energy SVE 4
+
+Total Cards: 60

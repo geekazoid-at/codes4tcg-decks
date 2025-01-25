@@ -1,0 +1,31 @@
+Pokémon: 8
+3 Rufflet ASR 131
+3 Snorunt SIT 41
+2 Spinda SIT 141
+1 Ditto MEW 132
+2 Bibarel BRS 121
+2 Bidoof BRS 120
+3 Froslass TWM 53
+3 Hisuian Braviary SIT 149
+
+Trainer: 14
+3 Counter Catcher PAR 160
+2 Nest Ball PAF 84
+2 Judge SVI 176
+3 Ultra Ball PAF 91
+2 Temple of Sinnoh ASR 155
+3 Professor's Research SVI 189
+2 Emergency Jelly SIT 155
+2 Arven SVI 166
+2 Technical Machine: Devolution PAR 177
+2 Super Rod PAL 188
+4 Buddy-Buddy Poffin TEF 144
+4 Iono PAF 80
+3 Switch SVI 194
+2 Earthen Vessel PAR 163
+
+Energy: 2
+1 Legacy Energy TWM 167
+4 Basic {W} Energy SVE 3 PH
+
+Total Cards: 60

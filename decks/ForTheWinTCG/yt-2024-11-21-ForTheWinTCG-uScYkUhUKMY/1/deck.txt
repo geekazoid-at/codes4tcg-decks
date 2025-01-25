@@ -1,0 +1,32 @@
+Pokémon: 11
+1 Bloodmoon Ursaluna ex TWM 141
+3 Magneton SSP 59
+1 Hawlucha SVI 118
+1 Fezandipiti ex SFA 38
+1 Mew ex MEW 151
+3 Zeraora VSTAR CRZ-GG 43
+1 Zeraora VMAX CRZ 54
+3 Zeraora V CRZ 53
+3 Magnemite SSP 58
+1 Radiant Greninja ASR 46
+1 Squawkabilly ex PAL 169
+
+Trainer: 13
+2 Counter Catcher PAR 160
+2 PokéStop PGO 68
+2 Counter Gain SSP 169
+1 Brilliant Blender SSP 164
+4 Ultra Ball PAF 91
+4 Nest Ball SVI 181
+4 Professor's Research SVI 189
+1 Arven OBF 186
+1 Boss's Orders PAL 172
+2 Buddy-Buddy Poffin TEF 144
+4 Iono PAF 80
+2 Switch SVI 194
+2 Canceling Cologne ASR 136
+
+Energy: 1
+10 Basic {L} Energy SVE 4
+
+Total Cards: 60

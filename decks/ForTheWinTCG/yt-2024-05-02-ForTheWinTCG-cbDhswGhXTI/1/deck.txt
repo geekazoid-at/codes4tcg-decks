@@ -1,0 +1,36 @@
+Pokémon: 9
+4 Tatsugiri SVI 62
+3 Kirlia SIT 68
+1 Ditto PGO 53
+1 Jirachi PAR 126
+1 Radiant Charizard CRZ 20
+3 Ralts ASR 60
+4 Dondozo PAF 126
+1 Manaphy BRS 41
+1 Gallade ASR 62
+
+Trainer: 18
+1 Lost Vacuum LOR 162
+1 Hisuian Heavy Ball ASR 146
+1 Counter Catcher PAR 160
+3 Buddy-Buddy Poffin TEF 144
+2 Nest Ball PAF 84
+3 Irida ASR 147
+1 Maximum Belt TEF 154
+4 Morty's Conviction TEF 155
+1 Thorton LOR 167
+2 Artazon PAL 171
+1 Bravery Charm PAL 173
+3 Boss's Orders PAL 172
+1 Super Rod PAL 188
+1 Energy Loto ASR 140
+2 Iono PAF 80
+4 Ultra Ball SVI 196
+1 Mela PAR 167
+1 Defiance Band SVI 169
+
+Energy: 2
+4 Basic {R} Energy SVE 2
+4 Double Turbo Energy BRS 151
+
+Total Cards: 60
