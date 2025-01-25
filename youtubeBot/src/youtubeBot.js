@@ -6,16 +6,10 @@ import { getYouTubeVideos, getChannelName } from "./api/youtube.js";
 const channelIdTyp = "UCZiUkbtzrEzCiDZ09oZYBbQ"; // Trust your pilot
 const channelIdPp = "UCkIP7BHKg-6NN56eVXfrmJw"; // Pokephil
 const channelIdLdf = "UCAhRWmekXLryJOZRUYR4seQ"; // LDF
-const channelIdAgg = "UCEZlNLKMWQ7FV33gr9lpX9A"; // AzulGG
+// const channelIdAgg = "UCEZlNLKMWQ7FV33gr9lpX9A"; // AzulGG, posts limitless decks
 const channelIdFtw = "UCAQKOO0Evm2TENo0UCZR-pg"; // ForTheWinTCG
 
-const allChannelIds = [
-  channelIdTyp,
-  channelIdPp,
-  channelIdLdf,
-  channelIdAgg,
-  channelIdFtw,
-];
+const allChannelIds = [channelIdTyp, channelIdPp, channelIdLdf, channelIdFtw];
 
 const main = async (channelId, pageSize, pageCount) => {
   const channelName = await getChannelName(channelId);
