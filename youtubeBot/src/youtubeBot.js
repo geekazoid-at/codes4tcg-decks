@@ -63,6 +63,10 @@ const main = async (channelId, pageSize, pageCount) => {
     let deckIndex = 1;
     let videoMetaWritten = false;
 
+    if (!videoDescription.includes("Total Cards: 60")) {
+      return;
+    }
+
     while (videoDescription.includes("Total Cards:")) {
       let deckName = null;
 
@@ -197,8 +201,8 @@ const main = async (channelId, pageSize, pageCount) => {
   });
 };
 
-const importChannelId = channelIdFtw;
-// const RUNTYPE = "IMPORT"
+const importChannelId = channelIdTyp;
+// const RUNTYPE = "IMPORT";
 
 const RUNTYPE = "UPDATE";
 
