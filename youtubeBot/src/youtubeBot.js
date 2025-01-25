@@ -3,11 +3,21 @@ import fs from "fs";
 import { germanToEnglish, transformDeck } from "./utils/deckTransformer.js";
 import { getYouTubeVideos, getChannelName } from "./api/youtube.js";
 
-const channelId = "UCZiUkbtzrEzCiDZ09oZYBbQ"; // Trust your pilot
-// const channelId = "UCkIP7BHKg-6NN56eVXfrmJw"; // Pokephil
-// const channelId = "UCAhRWmekXLryJOZRUYR4seQ"; // LDF
+const channelIdTyp = "UCZiUkbtzrEzCiDZ09oZYBbQ"; // Trust your pilot
+const channelIdPp = "UCkIP7BHKg-6NN56eVXfrmJw"; // Pokephil
+const channelIdLdf = "UCAhRWmekXLryJOZRUYR4seQ"; // LDF
+const channelIdAgg = "UCEZlNLKMWQ7FV33gr9lpX9A"; // AzulGG
+const channelIdFtw = "UCAQKOO0Evm2TENo0UCZR-pg"; // ForTheWinTCG
 
-const main = async () => {
+const allChannelIds = [
+  channelIdTyp,
+  channelIdPp,
+  channelIdLdf,
+  channelIdAgg,
+  channelIdFtw,
+];
+
+const main = async (channelId, pageSize, pageCount) => {
   const channelName = await getChannelName(channelId);
 
   console.log(`Channel: ${channelName}`);
@@ -19,12 +29,14 @@ const main = async () => {
   do {
     const { videos, nextPageToken } = await getYouTubeVideos(
       channelId,
+      pageSize,
       pageToken
     );
+
     allVideos = allVideos.concat(videos);
     pageToken = nextPageToken;
     i++;
-  } while (pageToken && i < 5);
+  } while (pageToken && i < pageCount);
 
   console.log(`Total YouTube videos fetched: ${allVideos.length}`);
 
@@ -119,7 +131,9 @@ const main = async () => {
       const coverCards = [];
 
       deck.split(/\r?\n/).forEach((line) => {
+        // eslint-disable-next-line
         const [_, quantity, name, set, number] =
+          // eslint-disable-next-line
           line.match(/(\d+) (.+?) ([A-Z\-]+) (\d+)?/) || [];
 
         if (!name) {
@@ -183,4 +197,15 @@ const main = async () => {
   });
 };
 
-main();
+const importChannelId = channelIdFtw;
+// const RUNTYPE = "IMPORT"
+
+const RUNTYPE = "UPDATE";
+
+if (RUNTYPE === "IMPORT") {
+  main(importChannelId, 50, 5);
+} else if (RUNTYPE === "UPDATE") {
+  for (const channelId of allChannelIds) {
+    main(channelId, 5, 1);
+  }
+}

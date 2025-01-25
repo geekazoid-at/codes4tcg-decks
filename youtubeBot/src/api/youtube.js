@@ -2,8 +2,6 @@ import axios from "axios";
 
 const API_KEY = "AIzaSyCrF9wwzpO0p-qK1JoaZXd2ZKlhMRfb714";
 
-const MAX_RESULTS = 50;
-
 export const getChannelName = async (channelId) => {
   try {
     const response = await axios.get(
@@ -25,7 +23,7 @@ export const getChannelName = async (channelId) => {
   }
 };
 
-export const getYouTubeVideos = async (channelId, pageToken = "") => {
+export const getYouTubeVideos = async (channelId, pageSize, pageToken = "") => {
   try {
     const response = await axios.get(
       "https://www.googleapis.com/youtube/v3/search",
@@ -35,7 +33,7 @@ export const getYouTubeVideos = async (channelId, pageToken = "") => {
           channelId,
           part: "snippet",
           order: "date",
-          maxResults: MAX_RESULTS,
+          maxResults: pageSize,
           pageToken,
         },
       }
