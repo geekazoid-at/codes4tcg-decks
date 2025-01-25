@@ -33,6 +33,6 @@ Trainer: 18
 2 Artazon PAF 76
 
 Energy: 1
-6 Basic {G} Energy Energy 1
+6 Basic {G} Energy SVE 1
 
 Total Cards: 60

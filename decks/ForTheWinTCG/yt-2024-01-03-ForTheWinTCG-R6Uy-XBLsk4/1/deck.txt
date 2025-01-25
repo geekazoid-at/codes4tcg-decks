@@ -25,6 +25,6 @@ Trainer: 13
 
 Energy: 2
 4 Spiral Energy CRE 159
-2 Basic {P} Energy Energy 5
+2 Basic {P} Energy SVE 5
 
 Total Cards: 60

@@ -30,6 +30,6 @@ Trainer: 18
 1 Professor Turo's Scenario PAR 171
 
 Energy: 1
-10 Basic {W} Energy Energy 11
+10 Basic {W} Energy SVE 3
 
 Total Cards: 60

@@ -21,7 +21,7 @@ Trainer: 12
 2 Ancient Booster Energy Capsule PAR 159
 
 Energy: 2
-7 Basic {F} Energy Energy 14
-5 Basic {L} Energy Energy 12
+7 Basic {F} Energy SVE 6
+5 Basic {L} Energy SVE 4
 
 Total Cards: 60

@@ -27,6 +27,6 @@ Trainer: 16
 1 Magma Basin BRS 144
 
 Energy: 1
-6 Basic {R} Energy Energy 10
+6 Basic {R} Energy SVE 2
 
 Total Cards: 60

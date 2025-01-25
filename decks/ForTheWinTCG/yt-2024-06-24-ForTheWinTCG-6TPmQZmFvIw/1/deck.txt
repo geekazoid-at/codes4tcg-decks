@@ -24,6 +24,6 @@ Trainer: 14
 1 Town Store OBF 196
 
 Energy: 1
-8 Basic {L} Energy Energy 4
+8 Basic {L} Energy SVE 4
 
 Total Cards: 60

@@ -26,12 +26,12 @@ Trainer: 16
 1 Professor Turo's Scenario PAR 257
 
 Energy: 7
-2 Basic {G} Energy Energy 1
+2 Basic {G} Energy SVE 1
 2 Luminous Energy PAL 191
-2 Basic {L} Energy Energy 4
-1 Basic {F} Energy Energy 6
-1 Basic {R} Energy Energy 2
+2 Basic {L} Energy SVE 4
+1 Basic {F} Energy SVE 6
+1 Basic {R} Energy SVE 2
 1 Double Turbo Energy BRS 151
-1 Basic {M} Energy Energy 8
+1 Basic {M} Energy SVE 8
 
 Total Cards: 60

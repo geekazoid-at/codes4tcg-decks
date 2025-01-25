@@ -28,6 +28,6 @@ Trainer: 17
 4 Nest Ball PAF 84
 
 Energy: 1
-8 Basic {L} Energy Energy 12
+8 Basic {L} Energy SVE 4
 
 Total Cards: 60

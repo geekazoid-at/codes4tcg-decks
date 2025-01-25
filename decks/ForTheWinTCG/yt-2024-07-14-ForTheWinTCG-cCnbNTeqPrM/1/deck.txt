@@ -21,6 +21,6 @@ Trainer: 12
 2 Boss's Orders PAL 172
 
 Energy: 1
-16 Basic {M} Energy Energy 16
+16 Basic {M} Energy SVE 8
 
 Total Cards: 60

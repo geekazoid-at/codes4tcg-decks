@@ -27,9 +27,9 @@ Trainer: 14
 2 Magma Basin BRS 144
 
 Energy: 5
-3 Basic {D} Energy Energy 7
-4 Basic {R} Energy Energy 2
-1 Basic {F} Energy Energy 6
+3 Basic {D} Energy SVE 7
+4 Basic {R} Energy SVE 2
+1 Basic {F} Energy SVE 6
 1 Double Turbo Energy BRS 151
 1 Neo Upper Energy TEF 162
 

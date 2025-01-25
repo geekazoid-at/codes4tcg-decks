@@ -43,6 +43,21 @@ export function germanToEnglish(deck) {
 }
 
 function transformEnergyName(line) {
+  if (line.includes("Energy Energy")) {
+    const energyKeys = Object.keys(ENERGIES);
+    const k = energyKeys.find((key) => line.includes(ENERGIES[key].texts[0]));
+
+    if (k) {
+      const e = ENERGIES[k];
+
+      const t = `${line.substring(0, line.indexOf(" "))} Basic ${
+        e.texts[0]
+      } Energy SVE ${e.number}`;
+
+      return t;
+    }
+  }
+
   const energyKeys = Object.keys(ENERGIES);
 
   const k = energyKeys.find((key) => line.includes(key));

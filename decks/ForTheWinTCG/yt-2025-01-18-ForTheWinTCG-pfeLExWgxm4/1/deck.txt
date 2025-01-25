@@ -32,7 +32,7 @@ Energy: 5
 4 Luminous Energy PAL 191
 1 Basic {P} Energy SVE 5
 1 Basic {L} Energy SVE 4
-2 Basic {W} Energy Energy 11
-1 Basic {R} Energy Energy 10
+2 Basic {W} Energy SVE 3
+1 Basic {R} Energy SVE 2
 
 Total Cards: 60

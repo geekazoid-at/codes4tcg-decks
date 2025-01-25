@@ -21,6 +21,6 @@ Trainer: 9
 
 Energy: 2
 2 Gift Energy LOR 171
-15 Basic {W} Energy Energy 11
+15 Basic {W} Energy SVE 3
 
 Total Cards: 60
