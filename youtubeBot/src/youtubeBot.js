@@ -8,8 +8,15 @@ const channelIdPp = "UCkIP7BHKg-6NN56eVXfrmJw"; // Pokephil
 const channelIdLdf = "UCAhRWmekXLryJOZRUYR4seQ"; // LDF
 // const channelIdAgg = "UCEZlNLKMWQ7FV33gr9lpX9A"; // AzulGG, posts limitless decks
 const channelIdFtw = "UCAQKOO0Evm2TENo0UCZR-pg"; // ForTheWinTCG
+const channelIdStb = "UCCLD0ptegGoRv8RHuhgZR_A"; // snipe the bench
 
-const allChannelIds = [channelIdTyp, channelIdPp, channelIdLdf, channelIdFtw];
+const allChannelIds = [
+  channelIdTyp,
+  channelIdPp,
+  channelIdLdf,
+  channelIdFtw,
+  channelIdStb,
+];
 
 const main = async (channelId, pageSize, pageCount) => {
   const channelName = await getChannelName(channelId);
