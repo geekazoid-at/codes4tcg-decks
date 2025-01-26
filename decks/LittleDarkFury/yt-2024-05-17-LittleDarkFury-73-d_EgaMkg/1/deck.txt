@@ -1,0 +1,24 @@
+Pokémon: 6
+1 Zamazenta CRZ 97
+4 Metang TEF 114
+4 Beldum SIT 117
+4 Aipom PGO 56
+4 Ambipom PGO 57
+1 Radiant Greninja ASR 46
+
+Trainer: 9
+2 Boss's Orders PAL 172
+4 Professor's Research SVI 190
+4 Super Rod PAL 188
+1 Artazon PAL 171
+2 Nest Ball SVI 181
+1 Prime Catcher TEF 157
+4 Ultra Ball SVI 196
+4 Iono PAL 185
+4 Buddy-Buddy Poffin TEF 144
+
+Energy: 2
+2 Reversal Energy PAL 192
+14 Basic {M} Energy SUM 163
+
+Total Cards: 60

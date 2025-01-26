@@ -1,0 +1,33 @@
+Pokémon: 9
+2 Origin Forme Palkia V ASR 39
+1 Wartortle MEW 8
+3 Blastoise ex MEW 9
+2 Bibarel BRS 121
+2 Origin Forme Palkia VSTAR ASR 40
+1 Radiant Greninja ASR 46
+1 Manaphy BRS 41
+3 Squirtle PGO 15
+2 Bidoof CRZ 111
+
+Trainer: 16
+1 Counter Catcher PAR 160
+1 Artazon PAF 76
+1 Exp. Share SVI 174
+4 Irida ASR 147
+4 Ultra Ball PAF 91
+1 Maximum Belt TEF 154
+2 Nest Ball SVI 181
+2 Boss's Orders PAL 172
+3 Superior Energy Retrieval PAL 189
+1 Super Rod PAL 188
+1 Lost Vacuum CRZ 135
+3 Buddy-Buddy Poffin TEF 144
+1 Ciphermaniac's Codebreaking TEF 145
+3 Iono PAF 80
+3 Rare Candy SVI 191
+2 Earthen Vessel PAR 163
+
+Energy: 1
+10 Basic {W} Energy CIN 124
+
+Total Cards: 60

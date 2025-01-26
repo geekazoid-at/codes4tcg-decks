@@ -1,0 +1,28 @@
+Pokémon: 8
+2 Hisuian Basculegion LOR 45
+3 Heatran TWM 123
+2 Hisuian Basculin ASR 43
+1 Regigigas PRE 86
+2 Beldum SIT 117
+1 Radiant Greninja ASR 46
+2 Beldum TEF 113
+4 Metang TEF 114
+
+Trainer: 12
+4 Irida ASR 147
+1 Night Stretcher SFA 61
+3 Nest Ball SVI 181
+2 Boss's Orders PAL 172
+1 Ultra Ball PAF 91
+2 Buddy-Buddy Poffin TEF 144
+1 Artazon PAL 171
+2 Super Rod PAL 188
+2 Professor's Research PRE 122
+1 Hyper Aroma TWM 152
+1 Switch SVI 194
+2 Iono PAL 185
+
+Energy: 1
+21 Basic {M} Energy SUM 163
+
+Total Cards: 60
