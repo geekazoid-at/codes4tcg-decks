@@ -1,0 +1,31 @@
+Pokémon: 7
+3 Sylveon ex SSP 86
+2 Bidoof CRZ-GG 29
+1 Lumineon V CRZ-GG 39
+4 Eevee SSP 143
+1 Radiant Greninja ASR 46
+1 Manaphy BRS 41
+2 Bibarel CRZ-GG 25
+
+Trainer: 14
+1 Hisuian Heavy Ball ASR 146
+1 Roseanne's Backup BRS 148
+1 Forest Seal Stone SIT 156
+1 Hero's Cape TEF 152
+4 Pokégear 3.0 SVI 186
+4 Nest Ball SVI 181
+2 Boss's Orders PAL 172
+3 Iono PAL 185
+1 Super Rod PAL 188
+4 Crispin SCR 133
+4 Buddy-Buddy Poffin TEF 144
+4 Ultra Ball SVI 196
+2 Switch SVI 194
+2 Earthen Vessel PAR 163
+
+Energy: 3
+4 Basic {L} Energy SVE 12
+4 Basic {W} Energy SVE 11
+4 Basic {P} Energy SVE 13
+
+Total Cards: 60

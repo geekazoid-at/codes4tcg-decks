@@ -1,0 +1,35 @@
+Pokémon: 7
+3 Gengar ex TEF 104
+2 Bidoof CRZ-GG 29
+1 Skwovet SVI 151 PH
+1 Haunter PAF 56
+4 Gastly TEF 102 PH
+1 Radiant Alakazam SIT 59
+2 Bibarel CRZ-GG 25
+
+Trainer: 20
+1 Counter Catcher PAR 160 PH
+1 Pokémon League Headquarters OBF 192
+2 Eri TEF 146 PH
+2 Giovanni's Charisma MEW 161
+1 Super Rod PAL 276
+1 Prime Catcher TEF 157
+2 Pokégear 3.0 SVI 186
+2 Pal Pad SVI 182
+1 Temple of Sinnoh ASR 155
+2 Iono PAF 237
+1 Boss's Orders PAL 265
+1 Technical Machine: Devolution PAR 177
+1 Technical Machine: Evolution PAR 178
+4 Arven OBF 186 PH
+4 Buddy-Buddy Poffin TEF 144
+2 Ciphermaniac's Codebreaking TEF 145
+4 Ultra Ball SVI 196
+2 Switch SVI 194
+3 Rare Candy SVI 191
+1 Earthen Vessel PAR 163
+
+Energy: 1
+8 Basic {D} Energy SVE 7
+
+Total Cards: 60

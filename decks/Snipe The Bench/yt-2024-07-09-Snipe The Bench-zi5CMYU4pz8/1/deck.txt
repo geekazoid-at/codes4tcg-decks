@@ -1,0 +1,33 @@
+Pokémon: 8
+4 Drowzee SVI 82
+2 Bidoof CRZ-GG 29
+1 Skwovet SVI 151
+1 Mimikyu PAL 97
+1 Flutter Mane TEF 78
+4 Hypno SVI 83
+2 Bibarel CRZ-GG 25
+
+Trainer: 18
+2 Counter Catcher PAR 160
+2 Miss Fortune Sisters LOR 164
+1 Unfair Stamp TWM 165
+2 Eri TEF 146 PH
+1 Erika's Invitation MEW 160
+3 Super Rod PAL 276
+2 Energy Switch SVI 173
+1 Pal Pad SVI 182
+2 Nest Ball SVI 181
+1 Temple of Sinnoh ASR 155
+2 Boss's Orders PAL 172
+3 Iono PAL 185
+3 Arven SVI 166
+1 Tulip PAR 181
+4 Buddy-Buddy Poffin TEF 144
+1 Ciphermaniac's Codebreaking TEF 145
+4 Ultra Ball SVI 196
+2 Switch SVI 194
+
+Energy: 1
+8 Basic {P} Energy SVE 5
+
+Total Cards: 60

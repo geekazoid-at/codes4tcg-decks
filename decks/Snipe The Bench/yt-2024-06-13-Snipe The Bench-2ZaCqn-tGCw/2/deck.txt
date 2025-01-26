@@ -1,0 +1,26 @@
+Pokémon: 3
+4 Chansey MEW 113
+4 Munkidori TWM 95
+4 Blissey ex TWM 201
+
+Trainer: 14
+4 Ultra Ball SVI 196
+2 Boss's Orders PAL 265
+4 Arven OBF 186
+2 Lost Vacuum LOR 162
+2 Super Rod PAL 276
+4 Iono PAF 237
+1 Rigid Band MEW 165
+4 Professor's Research SVI 240
+2 Pal Pad SVI 182
+4 Nest Ball SVI 181
+1 Rigid Band MEW 165 PH
+1 Survival Brace TWM 164
+3 Cheren's Care BRS 134
+3 Artazon PAL 171
+
+Energy: 2
+4 Double Turbo Energy BRS 151
+7 Basic {D} Energy SVE 7
+
+Total Cards: 60

@@ -1,0 +1,37 @@
+Pokémon: 7
+4 Comfey LOR 79
+2 Sableye LOR 70
+1 Iron Bundle PAR 56
+2 Cramorant LOR 50
+1 Munkidori TWM 95
+1 Radiant Charizard CRZ 20
+1 Manaphy BRS 41
+
+Trainer: 19
+1 Hisuian Heavy Ball ASR 146
+2 Counter Catcher PAR 160
+4 Switch Cart ASR 154
+1 Magma Basin BRS 144
+1 Artazon PAF 76
+4 Nest Ball PAF 84
+3 Mirage Gate LOR 163
+1 Prime Catcher TEF 157
+1 Pokégear 3.0 SVI 186
+2 Rescue Board TEF 159
+1 Hassel TWM 151
+4 Colress's Experiment LOR 155
+3 Super Rod PAL 188
+2 Lost Vacuum CRZ 135
+1 Roxanne ASR 150
+4 Buddy-Buddy Poffin TEF 144
+1 Technical Machine: Crisis Punch PAF 90
+1 Iono PAF 80
+3 Switch SVI 194
+
+Energy: 4
+1 Jet Energy PAL 190
+2 Basic {D} Energy SVE 7
+3 Basic {P} Energy SVE 5
+2 Basic {R} Energy SVE 2
+
+Total Cards: 60

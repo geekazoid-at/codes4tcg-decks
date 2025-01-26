@@ -1,0 +1,28 @@
+Pokémon: 4
+2 Rabsca TEF 24
+1 Sandshrew MEW 27 PH
+4 Comfey SCR 63 PH
+1 Rellor TEF 23
+
+Trainer: 16
+2 Ultra Ball SVI 196
+4 Xerosic's Machinations SFA 64
+4 Crushing Hammer SVI 168
+2 Earthen Vessel PAR 163
+2 Eri TEF 146
+4 Buddy-Buddy Poffin TEF 144
+4 Counter Catcher PAR 160
+2 Hisuian Heavy Ball ASR 146
+2 Technical Machine: Devolution PAR 177
+4 Night Stretcher SFA 61
+4 Miss Fortune Sisters LOR 164
+4 Pokégear 3.0 SVI 186
+2 Pal Pad SVI 182
+2 Nest Ball PAF 84
+1 Gravity Gemstone SCR 137 PH
+1 Neutralization Zone SFA 60
+
+Energy: 1
+8 Basic {P} Energy SVE 5
+
+Total Cards: 60

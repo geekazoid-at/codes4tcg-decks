@@ -1,0 +1,29 @@
+Pokémon: 7
+2 Rabsca TEF 24
+3 Mewtwo ex PAR 58
+4 Natu PAF 25
+4 Xatu PAF 26
+2 Rellor TEF 23
+1 Rotom V LOR 58
+1 Enamorus V LOR 82
+
+Trainer: 14
+2 Ultra Ball PAF 91
+4 Arven OBF 186
+2 Earthen Vessel PAR 163
+4 Buddy-Buddy Poffin TEF 144
+2 Energy Retrieval SVI 171
+1 Hisuian Heavy Ball ASR 146
+1 Super Rod PAL 276
+1 Hyper Aroma TWM 152
+2 Iono PAF 80
+1 Forest Seal Stone SIT 156
+4 Nest Ball SVI 181
+2 Bravery Charm PAL 173
+2 Boss's Orders PAL 172
+2 Beach Court SVI 167
+
+Energy: 1
+13 Basic {P} Energy SVE 5
+
+Total Cards: 60

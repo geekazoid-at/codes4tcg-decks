@@ -1,0 +1,35 @@
+Pokémon: 8
+2 Galvantula ex SCR 51
+3 Magneton SSP 59
+1 Fezandipiti ex SFA 38
+4 Joltik SCR 50
+3 Magnemite SVI 63
+2 Pikachu ex SSP 57
+1 Cornerstone Mask Ogerpon ex TWM 112
+1 Radiant Greninja ASR 46
+
+Trainer: 16
+1 Hisuian Heavy Ball ASR 146
+1 Super Rod PAL 276
+1 Xerosic's Machinations SFA 64
+1 Night Stretcher SFA 61
+3 Nest Ball SVI 181
+1 Temple of Sinnoh ASR 155
+1 Boss's Orders PAL 172
+1 Iono PAL 185
+4 Arven SVI 166
+2 Technical Machine: Evolution PAR 178
+3 Crispin SCR 133
+1 Eri TEF 146
+4 Buddy-Buddy Poffin TEF 144
+4 Ultra Ball SVI 196
+1 Switch SVI 194
+1 Sparkling Crystal SCR 142
+
+Energy: 4
+4 Basic {L} Energy SVE 12
+3 Basic {G} Energy SVE 9
+3 Basic {F} Energy SVE 14
+3 Basic {M} Energy SVE 16
+
+Total Cards: 60

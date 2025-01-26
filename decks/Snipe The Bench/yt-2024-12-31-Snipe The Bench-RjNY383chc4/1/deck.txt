@@ -1,0 +1,40 @@
+Pokémon: 11
+3 Hydreigon ex SSP 119
+1 Shellos SSP 46
+1 Drapion V LOR 118
+1 Fezandipiti ex SFA 38
+1 Gastrodon SSP 107
+1 Toedscool OBF 118
+2 Zweilous PAL 139
+4 Deino PAL 138
+1 Pecharunt ex SFA 39
+1 Toedscruel PAR 17
+1 Drapion VSTAR LOR 119
+
+Trainer: 21
+1 Hisuian Heavy Ball ASR 146
+1 Counter Catcher PAR 160
+1 Binding Mochi SFA 55
+1 Counter Gain LOT 170
+1 Precious Trolley SSP 185
+1 Super Rod PAL 276
+4 Pokégear 3.0 SVI 186
+1 Night Stretcher SFA 61
+2 Nest Ball SVI 181
+4 Arven OBF 186
+1 Boss's Orders PAL 172
+1 Iono PAL 185
+1 Professor Turo's Scenario PAR 171
+2 Technical Machine: Evolution PAR 178
+1 Defiance Band SVI 169
+1 Lost Vacuum LOR 162
+2 Dark Patch ASR 139
+2 Buddy-Buddy Poffin TEF 144
+2 Ultra Ball SVI 196
+4 Rare Candy SVI 191
+2 Earthen Vessel PAR 163
+
+Energy: 1
+7 Basic {D} Energy SVE 15
+
+Total Cards: 60

@@ -1,0 +1,22 @@
+Pokémon: 6
+3 Beldum TEF 113
+3 Metang TEF 114
+4 Heatran TWM 123
+2 Hisuian Basculegion LOR 45
+2 Hisuian Basculin ASR 43
+1 Radiant Greninja ASR 46
+
+Trainer: 8
+4 Ultra Ball SVI 196
+4 Professor's Research PAF 87
+4 Buddy-Buddy Poffin TEF 144
+4 Iono PAF 80
+1 Unfair Stamp TWM 165
+4 Nest Ball SVI 181
+3 Boss's Orders PAL 172
+4 Super Rod PAL 276
+
+Energy: 1
+17 Basic {M} Energy SVE 8
+
+Total Cards: 60

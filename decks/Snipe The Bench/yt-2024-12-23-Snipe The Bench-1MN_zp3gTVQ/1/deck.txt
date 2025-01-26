@@ -1,0 +1,41 @@
+Pokémon: 10
+3 Hydreigon ex SSP 119
+1 Zweilous SSP 118
+4 Deino SSP 117
+1 Rotom V LOR 58
+2 Togekiss SSP 72
+2 Togepi ASR 55
+1 Fezandipiti ex SFA 38
+1 Cleffa OBF 80
+1 Pecharunt ex SFA 39
+1 Tatsugiri TWM 131
+
+Trainer: 22
+1 Counter Catcher PAR 160
+1 Miss Fortune Sisters LOR 164
+1 Pokémon League Headquarters OBF 192
+1 Roseanne's Backup BRS 148
+1 Tera Orb SSP 189
+1 Counter Gain LOT 170
+1 Forest Seal Stone SIT 156
+1 Night Stretcher SFA 61
+1 Hisuian Heavy Ball ASR 146
+1 Pal Pad SVI 182
+4 Nest Ball SVI 181
+4 Arven OBF 186
+1 Boss's Orders PAL 172
+1 Binding Mochi SFA 55
+2 Iono PAL 185
+1 Super Rod PAL 188
+1 Eri TEF 146
+2 Dark Patch ASR 139
+3 Buddy-Buddy Poffin TEF 144
+2 Ultra Ball SVI 196
+4 Rare Candy SVI 191
+1 Earthen Vessel PAR 163
+
+Energy: 2
+6 Basic {D} Energy SVE 15
+1 Neo Upper Energy TEF 162
+
+Total Cards: 60

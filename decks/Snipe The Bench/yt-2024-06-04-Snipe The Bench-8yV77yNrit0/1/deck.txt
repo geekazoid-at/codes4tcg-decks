@@ -1,0 +1,32 @@
+Pokémon: 7
+4 Gible PAR 94
+3 Garchomp ex PAR 38
+2 Bibarel CRZ-GG 25
+3 Okidogi TWM 111
+1 Radiant Greninja ASR 46
+2 Bidoof BRS 120
+1 Drilbur TEF 85
+
+Trainer: 16
+1 Super Rod PAL 276
+1 Hisuian Heavy Ball ASR 146
+1 Counter Catcher PAR 160
+1 Town Store OBF 196
+1 Unfair Stamp TWM 165
+3 Nest Ball SVI 181
+2 Earthen Vessel PAR 163
+3 Irida ASR 147
+3 Ultra Ball PAF 91
+3 Bravery Charm PAL 173
+1 Boss's Orders PAL 265
+1 Energy Retrieval CRZ 127
+4 Rare Candy PAF 89
+3 Buddy-Buddy Poffin TEF 144
+1 Switch SVI 194
+2 Arven SVI 166
+
+Energy: 2
+3 Basic {D} Energy SVE 7
+10 Basic {F} Energy SVE 6
+
+Total Cards: 60

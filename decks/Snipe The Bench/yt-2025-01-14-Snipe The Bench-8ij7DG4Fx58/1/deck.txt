@@ -1,0 +1,32 @@
+Pokémon: 8
+1 Alolan Exeggutor ex SSP 242
+2 Bidoof CRZ-GG 29
+2 Alolan Exeggutor ex SSP 133
+2 Chewtle SCR 43
+2 Drednaw SCR 44
+4 Exeggcute SSP 1
+1 Fezandipiti ex SFA 38
+2 Bibarel CRZ-GG 25
+
+Trainer: 14
+1 Counter Catcher PAR 160
+4 Pokégear 3.0 SVI 186
+2 Night Stretcher SFA 61
+4 Nest Ball SVI 181
+2 Boss's Orders PAL 172
+2 Iono PAL 185
+1 Superior Energy Retrieval PAL 189
+1 Roseanne's Backup BRS 148
+4 Crispin SCR 133
+3 Buddy-Buddy Poffin TEF 144
+3 Ultra Ball SVI 196
+2 Switch SVI 194
+2 Earthen Vessel PAR 163
+1 Survival Brace TWM 164
+
+Energy: 3
+5 Basic {G} Energy SVE 1
+5 Basic {W} Energy SVE 11
+2 Basic {F} Energy SVE 14
+
+Total Cards: 60

@@ -1,0 +1,28 @@
+Pokémon: 8
+2 Ditto MEW 132 PH
+3 Charizard ex OBF 228
+4 Blipbug PAR 10
+1 Radiant Charizard CRZ 20
+2 Pidgeot ex OBF 164
+1 Pidgey OBF 162
+3 Orbeetle BST 65
+2 Charizard PGO 10
+
+Trainer: 11
+1 Counter Catcher PAR 160
+1 Super Rod PAL 276
+1 Artazon PAL 171
+4 Arven OBF 186
+4 Battle VIP Pass FST 225
+3 Iono PAL 185
+2 Boss's Orders PAL 172 PH
+4 Colress's Experiment LOR 155
+4 Ultra Ball SVI 196
+2 Switch SVI 194
+4 Rare Candy SVI 191
+
+Energy: 2
+8 Basic {R} Energy SVE 2
+4 Double Turbo Energy BRS 151
+
+Total Cards: 60

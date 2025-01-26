@@ -1,0 +1,31 @@
+Pokémon: 7
+4 Duraludon SCR 106
+4 Archaludon ex SSP 130
+1 Fezandipiti ex SFA 38
+2 Varoom SFA 43
+2 Revavroom SVI 142
+1 Radiant Greninja ASR 46
+1 Relicanth TEF 84
+
+Trainer: 16
+1 Counter Catcher PAR 160
+3 Judge PAF 228
+2 Artazon PAF 76
+1 Roseanne's Backup BRS 148
+4 Nest Ball PAF 84
+2 Pokémon Catcher SVI 187 PH
+4 Ultra Ball PAF 91
+1 Hero's Cape TEF 152
+3 Night Stretcher SFA 61
+2 Professor's Research PAF 88
+1 Pal Pad SVI 182
+3 Boss's Orders PAL 265
+2 Professor Turo's Scenario PAR 171
+1 Super Rod PAL 188
+1 Full Metal Lab TEF 148
+3 Earthen Vessel PAR 163
+
+Energy: 1
+11 Basic {M} Energy SVE 16
+
+Total Cards: 60

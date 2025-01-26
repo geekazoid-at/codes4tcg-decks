@@ -1,0 +1,32 @@
+Pokémon: 8
+1 Fezandipiti ex SFA 38
+1 Mew ex MEW 151
+1 Entei V BRS 22
+3 Capsakid SVI 28
+2 Centiskorch SSP 28 PH
+3 Scovillain ex SSP 37
+1 Radiant Greninja ASR 46
+2 Sizzlipede TEF 36
+
+Trainer: 16
+2 Damage Pump LOR 156
+1 Secret Box TWM 163
+4 Magma Basin BRS 144
+1 Rigid Band MEW 165
+1 Forest Seal Stone SIT 156
+2 Pokégear 3.0 SVI 186
+1 Night Stretcher SFA 61
+4 Nest Ball SVI 181
+3 Boss's Orders PAL 172
+3 Iono PAL 185
+4 Arven SVI 166
+1 Super Rod PAL 188
+2 Buddy-Buddy Poffin TEF 144
+4 Ultra Ball SVI 196
+2 Switch SVI 194
+1 Earthen Vessel PAR 163
+
+Energy: 1
+10 Basic {R} Energy SVE 10
+
+Total Cards: 60

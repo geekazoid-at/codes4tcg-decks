@@ -1,0 +1,34 @@
+Pokémon: 8
+3 Sylveon ex SSP 86
+2 Bidoof CRZ-GG 29
+1 Lumineon V CRZ-GG 39
+4 Eevee SSP 143
+1 Fezandipiti ex SFA 38
+2 Budew PRE 4 PH
+1 Rotom SSP 61
+2 Bibarel CRZ-GG 25
+
+Trainer: 16
+3 Counter Catcher PAR 160
+1 Miss Fortune Sisters LOR 164
+1 Forest Seal Stone SIT 156
+1 Xerosic's Machinations SFA 64
+3 Pokégear 3.0 SVI 186
+1 Pal Pad SVI 182
+2 Nest Ball SVI 181
+4 Arven SVI 166
+1 Super Rod PAL 188
+4 Crispin SCR 133
+1 Eri TEF 146
+4 Buddy-Buddy Poffin TEF 144
+1 Sparkling Crystal PRE 129
+4 Ultra Ball SVI 196
+1 Switch SVI 194
+2 Earthen Vessel PAR 163
+
+Energy: 3
+4 Basic {L} Energy SVE 12
+3 Basic {W} Energy SVE 11
+3 Basic {P} Energy SVE 13
+
+Total Cards: 60

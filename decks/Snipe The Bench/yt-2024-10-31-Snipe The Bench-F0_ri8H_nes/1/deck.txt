@@ -1,0 +1,30 @@
+Pokémon: 11
+4 Doduo MEW 84
+2 Larvitar OBF 105 PH
+2 Tyranitar ex OBF 66
+2 Dodrio MEW 85 PH
+2 Dodrio MEW 85
+3 Froslass TWM 53
+1 Tyranitar ex OBF 211
+3 Snorunt PAR 37
+1 Manaphy BRS 41
+2 Larvitar OBF 105
+1 Pupitar OBF 106
+
+Trainer: 11
+2 Nest Ball SVI 181
+2 Professor's Research SVI 189
+2 Boss's Orders PAL 172
+2 Iono PAL 185
+4 Arven SVI 166
+2 Area Zero Underdepths SCR 131
+4 Buddy-Buddy Poffin TEF 144
+4 Ultra Ball SVI 196
+2 Switch SVI 194
+1 Sparkling Crystal SCR 142
+4 Rare Candy SVI 191
+
+Energy: 1
+8 Basic {F} Energy SVE 6
+
+Total Cards: 60

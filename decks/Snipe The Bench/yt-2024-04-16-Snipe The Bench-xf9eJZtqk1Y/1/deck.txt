@@ -1,0 +1,33 @@
+Pokémon: 8
+4 Flittle SVI 100 PH
+3 Espathra ex PAF 6
+1 Jirachi PAR 126
+3 Xatu PAR 72
+1 Mew ex MEW 151
+1 Manaphy BRS 41
+3 Natu PAR 71
+
+Trainer: 18
+1 Counter Catcher PAR 160
+2 Eri TEF 146 PH
+1 Artazon PAF 76
+2 Rigid Band MEW 165
+1 Super Rod PAL 276
+1 Energy Retrieval SVI 171
+1 Hand Trimmer TEF 150
+4 Ultra Ball PAF 91
+1 Prime Catcher TEF 157
+1 Pal Pad SVI 182
+1 Boss's Orders PAL 172
+2 Iono PAL 185
+4 Arven SVI 166
+2 Technical Machine: Evolution PAR 178
+1 Tulip PAR 181
+2 Nest Ball PAF 84 PH
+4 Buddy-Buddy Poffin TEF 144
+2 Earthen Vessel PAR 163
+
+Energy: 1
+11 Basic {P} Energy SVE 5
+
+Total Cards: 60

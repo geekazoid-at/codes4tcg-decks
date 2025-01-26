@@ -1,0 +1,28 @@
+Pokémon: 8
+4 Teal Mask Ogerpon ex TWM 211
+1 Hisuian Basculegion LOR 45
+2 Sinistcha TWM 22
+1 Hisuian Basculin ASR 43 PH
+1 Cornerstone Mask Ogerpon ex TWM 199
+2 Poltchageist TWM 20
+1 Sinistcha ex TWM 23
+1 Wyrdeer V ASR 134
+
+Trainer: 11
+1 Super Rod PAL 276
+1 Cyllene ASR 183
+4 Energy Switch SVI 173
+1 Lady LOR 193
+2 Capturing Aroma SIT 153
+1 Maximum Belt TEF 154
+2 Energy Retrieval SVI 171
+1 Earthen Vessel PAR 163
+4 Gardenia's Vigor ASR 143
+4 Bug Catching Set TWM 143
+4 Nest Ball SVI 181
+
+Energy: 2
+1 Basic {F} Energy SVE 6
+21 Basic {G} Energy SVE 1
+
+Total Cards: 60

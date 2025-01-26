@@ -1,0 +1,36 @@
+Pokémon: 10
+1 Dachsbun ex SCR 67
+1 Rotom V LOR 58
+3 Greninja ex TWM 106
+4 Froakie OBF 56
+1 Frogadier TWM 57
+1 Squawkabilly ex PAF 75
+1 Fidough SVI 98
+1 Alolan Vulpix V SIT 33
+1 Manaphy BRS 41
+1 Alolan Vulpix VSTAR SIT 34
+
+Trainer: 17
+1 Hisuian Heavy Ball ASR 146
+1 Counter Catcher PAR 160
+1 Super Rod PAL 276
+1 Forest Seal Stone SIT 156
+2 Irida ASR 147
+4 Nest Ball SVI 181
+2 Boss's Orders PAL 172
+3 Iono PAL 185
+4 Arven SVI 166
+2 Professor Turo's Scenario PAR 171
+1 Lost Vacuum CRZ 135
+4 Rare Candy PAF 89
+2 Lake Acuity LOR 160
+4 Buddy-Buddy Poffin TEF 144
+4 Ultra Ball SVI 196
+1 Switch SVI 194
+1 Sparkling Crystal SCR 142
+
+Energy: 2
+5 Basic {W} Energy SVE 3
+2 Double Turbo Energy BRS 151
+
+Total Cards: 60

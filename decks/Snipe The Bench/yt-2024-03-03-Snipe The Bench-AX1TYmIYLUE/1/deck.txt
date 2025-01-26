@@ -1,0 +1,30 @@
+Pokémon: 6
+3 Charmander MEW 4
+1 Mew ex MEW 151
+4 Heatmor FST 41
+2 Entei V BRS 22
+1 Radiant Greninja ASR 46
+3 Charizard PGO 10
+
+Trainer: 16
+4 Magma Basin BRS 144
+2 Raihan EVS 152
+1 Escape Rope BST 125
+2 Super Rod PAL 276
+1 Energy Retrieval SVI 171
+1 Kindler BRS 143 PH
+4 Ultra Ball PAF 91
+2 Nest Ball SVI 181
+3 Arven OBF 186
+4 Battle VIP Pass FST 225
+2 Boss's Orders PAL 172
+2 Iono PAL 185
+2 Colress's Experiment LOR 155
+1 Switch SVI 194
+3 Rare Candy SVI 191
+
+Energy: 2
+10 Basic {R} Energy SVE 2
+2 Double Turbo Energy BRS 151
+
+Total Cards: 60

@@ -1,0 +1,32 @@
+Pokémon: 7
+3 Venusaur ex MEW 3
+1 Skwovet SVI 151 PH
+1 Radiant Hisuian Sneasler LOR 123
+4 Bulbasaur MEW 1 PH
+2 Bibarel BRS 121
+1 Manaphy BRS 41
+2 Bidoof CRZ 111
+
+Trainer: 17
+1 Counter Catcher PAR 160
+1 Raihan EVS 152
+4 Gardenia's Vigor ASR 143
+1 Exp. Share SVI 174
+1 Energy Retrieval SVI 171
+2 Pokégear 3.0 SVI 186
+2 Nest Ball SVI 181
+2 Artazon PAL 171
+4 Battle VIP Pass FST 225
+2 Boss's Orders PAL 172
+3 Arven SVI 166
+4 Ultra Ball SVI 196
+2 Switch SVI 194
+4 Rare Candy SVI 191
+1 Earthen Vessel PAR 163
+1 Hisuian Heavy Ball ASR 146
+1 Super Rod PAL 276
+
+Energy: 1
+10 Basic {G} Energy SVE 1
+
+Total Cards: 60

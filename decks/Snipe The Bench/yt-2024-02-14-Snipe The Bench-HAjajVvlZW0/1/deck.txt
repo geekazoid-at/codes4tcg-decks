@@ -1,0 +1,28 @@
+Pokémon: 5
+2 Serperior VSTAR SIT 8
+2 Serperior V SIT 7
+3 Mewtwo MEW 150
+3 Arceus VSTAR BRS 123
+4 Arceus V BRS 122
+
+Trainer: 14
+2 Counter Catcher PAR 160
+2 Town Store OBF 196
+1 Escape Rope BST 125
+2 Nest Ball SVI 181
+3 Professor's Research SVI 189
+3 Arven OBF 186
+4 Battle VIP Pass FST 225
+3 Boss's Orders PAL 172
+2 Iono PAL 185
+1 Technical Machine: Devolution PAR 177
+4 Leafy Camo Poncho SIT 160
+1 Technical Machine: Crisis Punch PAF 90
+4 Ultra Ball SVI 196
+2 Switch SVI 194
+
+Energy: 2
+8 Basic {G} Energy SVE 1
+4 Double Turbo Energy BRS 151
+
+Total Cards: 60

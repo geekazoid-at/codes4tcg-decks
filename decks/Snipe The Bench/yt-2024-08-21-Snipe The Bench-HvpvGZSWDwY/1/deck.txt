@@ -1,0 +1,28 @@
+Pokémon: 7
+2 Pecharunt ex SFA 39
+1 Radiant Hisuian Sneasler LOR 123
+1 Fezandipiti ex SFA 92
+1 Morpeko PAR 121
+4 Pecharunt PR-SV 149
+3 Brute Bonnet PAR 123
+2 Squawkabilly ex PAL 169
+
+Trainer: 13
+1 Unfair Stamp TWM 165
+3 Professor's Research SVI 240
+3 Night Stretcher SFA 61
+1 Pal Pad SVI 182
+4 Nest Ball SVI 181
+2 Boss's Orders PAL 172
+3 Binding Mochi SFA 55
+4 Judge PAF 228
+3 Ancient Booster Energy Capsule PAR 159
+4 Dark Patch ASR 139
+4 Ultra Ball SVI 196
+3 Perilous Jungle TEF 156
+2 Earthen Vessel PAR 163
+
+Energy: 1
+9 Basic {D} Energy SVE 7
+
+Total Cards: 60

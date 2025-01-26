@@ -1,0 +1,31 @@
+Pokémon: 8
+2 Bidoof CRZ-GG 29
+1 Entei V BRS 22
+3 Gouging Fire ex TEF 38
+2 Fuecoco PAL 34
+1 Radiant Greninja ASR 46
+2 Skeledirge ex PAR 137
+2 Bibarel CRZ-GG 25
+1 Squawkabilly ex PAL 169
+
+Trainer: 15
+4 Magma Basin BRS 144
+1 Super Rod PAL 276
+4 Nest Ball PAF 84
+1 Forest Seal Stone SIT 156
+2 Energy Retrieval SVI 171
+2 Pal Pad SVI 182
+3 Ancient Booster Energy Capsule PAR 159
+4 Arven OBF 186
+2 Iono PAL 185
+1 Professor Turo's Scenario PAR 171
+4 Professor Sada's Vitality PAR 170
+4 Ultra Ball SVI 196
+1 Vitality Band SVI 197
+2 Rare Candy SVI 191
+1 Earthen Vessel PAR 163
+
+Energy: 1
+10 Basic {R} Energy SVE 2
+
+Total Cards: 60

@@ -1,0 +1,39 @@
+Pokémon: 12
+2 Pidgey MEW 16
+1 Mawile LOR 71
+3 Sprigatito PAL 13 PH
+3 Meowscarada ex PAL 15
+1 Rotom V CRZ 45
+1 Bibarel BRS 121
+1 Sprigatito PAL 13
+1 Pidgeotto MEW 17
+1 Floragato PAL 14
+2 Pidgeot ex OBF 164
+1 Bidoof CRZ 111
+1 Radiant Alakazam SIT 59
+
+Trainer: 18
+1 Hisuian Heavy Ball ASR 146
+1 Counter Catcher PAR 160
+1 Cyllene ASR 183
+1 Nest Ball PAF 84
+1 Forest Seal Stone SIT 156
+2 Energy Retrieval SVI 171
+3 Ultra Ball PAF 91
+1 Prime Catcher TEF 157
+1 Pal Pad SVI 182
+4 Arven OBF 186
+2 Boss's Orders PAL 172
+1 Technical Machine: Devolution PAR 177
+1 Technical Machine: Evolution PAR 178
+1 Super Rod PAL 188
+4 Rare Candy PAF 89
+4 Buddy-Buddy Poffin TEF 144
+3 Iono PAF 80
+1 Earthen Vessel PAR 163
+
+Energy: 2
+6 Basic {G} Energy SVE 1
+3 Double Turbo Energy BRS 151
+
+Total Cards: 60

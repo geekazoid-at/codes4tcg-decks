@@ -1,0 +1,32 @@
+Pokémon: 8
+2 Origin Forme Palkia V ASR 39
+2 Origin Forme Palkia VSTAR ASR 40
+2 Brute Bonnet PAR 123
+1 Radiant Greninja ASR 46
+1 Walking Wake ex TEF 50
+1 Flutter Mane TEF 78
+2 Walking Wake ex TEF 189
+2 Klawf PAR 105
+
+Trainer: 15
+2 Switch SVI 194
+3 Irida ASR 147
+3 Ultra Ball PAF 91
+3 Arven OBF 186
+2 Earthen Vessel PAR 163
+4 Ancient Booster Energy Capsule TEF 140 PH
+1 Counter Catcher PAR 160
+1 Kieran TWM 154
+4 Professor Sada's Vitality PAR 170
+1 Iono PAF 80
+3 Town Store OBF 196
+1 Maximum Belt TEF 154
+1 Panic Mask LOR 165
+4 Nest Ball PAF 84
+2 Boss's Orders PAL 172
+
+Energy: 2
+8 Basic {W} Energy SVE 3
+4 Double Turbo Energy BRS 151
+
+Total Cards: 60

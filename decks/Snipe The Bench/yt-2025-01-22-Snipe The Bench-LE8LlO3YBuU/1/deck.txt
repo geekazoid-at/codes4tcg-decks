@@ -1,0 +1,34 @@
+Pokémon: 9
+2 Terapagos ex SCR 128
+2 Budew PRE 4 PH
+3 Hoothoot TEF 126
+3 Noctowl SCR 115
+1 Fezandipiti ex SFA 38
+1 Radiant Greninja ASR 46
+2 Fan Rotom SCR 118
+2 Fuecoco PAL 34
+2 Skeledirge ex PAR 137
+
+Trainer: 17
+2 Ultra Ball SVI 196
+3 Buddy-Buddy Poffin PRE 101
+1 Switch SVI 194
+2 Rare Candy SVI 191
+4 Arven OBF 186
+2 Earthen Vessel PAR 163
+2 Area Zero Underdepths SCR 131
+2 Energy Retrieval SVI 171
+1 Counter Catcher PAR 160
+1 Hisuian Heavy Ball ASR 146
+2 Night Stretcher SFA 61
+1 Superior Energy Retrieval PAL 189
+1 Super Rod PAL 188
+4 Nest Ball PAF 84
+1 Tera Orb SSP 189
+2 Bravery Charm PAL 173
+1 Boss's Orders PAL 172
+
+Energy: 1
+10 Basic {R} Energy SVE 2
+
+Total Cards: 60

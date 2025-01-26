@@ -1,0 +1,32 @@
+Pokémon: 9
+1 Bloodmoon Ursaluna ex TWM 141
+2 Bidoof CRZ-GG 29
+3 Hoothoot SCR 114
+4 Wellspring Mask Ogerpon ex TWM 64
+3 Noctowl SCR 115
+2 Fan Rotom SCR 118
+1 Alolan Vulpix V SIT 33
+1 Alolan Vulpix VSTAR SIT 34
+2 Bibarel CRZ-GG 25
+
+Trainer: 14
+3 Town Store OBF 196
+2 Roseanne's Backup BRS 148
+2 Ultra Ball SVI 196
+1 Judge SIT-TG 25
+4 Nest Ball PAF 84
+2 Pokégear 3.0 SVI 186
+3 Iono PAF 237
+4 Arven OBF 186
+2 Boss's Orders PAL 172 PH
+3 Energy Loto ASR 140
+3 Buddy-Buddy Poffin TEF 144
+3 Switch SVI 194
+2 Canceling Cologne ASR 136
+1 Sparkling Crystal SCR 142
+
+Energy: 2
+2 Basic {W} Energy SVE 3
+4 Double Turbo Energy BRS 151
+
+Total Cards: 60

@@ -1,0 +1,35 @@
+Pokémon: 8
+3 Charmander MEW 4
+2 Pidgey MEW 16
+1 Rotom V LOR 58
+2 Greninja ex TWM 106
+2 Froakie OBF 56
+2 Pidgeot ex OBF 164
+1 Manaphy BRS 41
+2 Charizard ex OBF 125
+
+Trainer: 17
+1 Hisuian Heavy Ball ASR 146
+1 Counter Catcher PAR 160
+1 Cyllene ASR 183
+1 Enhanced Hammer TWM 148
+1 Unfair Stamp TWM 165
+2 Super Rod PAL 276
+1 Forest Seal Stone SIT 156
+1 Pal Pad SVI 182
+4 Nest Ball SVI 181
+1 Boss's Orders PAL 172
+3 Iono PAL 185
+4 Arven SVI 166
+1 Defiance Band SVI 169
+4 Buddy-Buddy Poffin TEF 144
+4 Ultra Ball SVI 196
+2 Switch SVI 194
+4 Rare Candy SVI 191
+
+Energy: 3
+5 Basic {R} Energy SVE 2
+3 Basic {W} Energy SVE 3
+1 Double Turbo Energy BRS 151
+
+Total Cards: 60

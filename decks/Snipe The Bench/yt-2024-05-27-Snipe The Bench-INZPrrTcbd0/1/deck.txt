@@ -1,0 +1,36 @@
+Pokémon: 10
+1 Skwovet SVI 151
+1 Luxio BRS 50
+1 Bibarel BRS 121
+3 Luxray ex TWM 68
+2 Pidgeot ex OBF 164
+1 Manaphy BRS 41
+4 Shinx PAL 69
+1 Bidoof CRZ 111
+1 Rotom V CRZ 45
+2 Pidgey MEW 16
+
+Trainer: 17
+2 Judge SVI 176
+4 Ultra Ball PAF 91
+4 Buddy-Buddy Poffin TEF 144
+4 Rare Candy SVI 191
+1 Counter Catcher PAR 160
+1 Professor Turo's Scenario PAR 171
+2 Eri TEF 146 PH
+1 Super Rod PAL 276
+3 Iono PAF 80
+1 Cyllene ASR 138
+1 Pal Pad SVI 182
+1 Forest Seal Stone SIT 156
+3 Nest Ball PAF 84
+1 Unfair Stamp TWM 165
+3 Arven SVI 166
+1 Boss's Orders PAL 172
+1 Enhanced Hammer TWM 148
+
+Energy: 2
+7 Basic {L} Energy SVE 4
+2 Double Turbo Energy BRS 151
+
+Total Cards: 60

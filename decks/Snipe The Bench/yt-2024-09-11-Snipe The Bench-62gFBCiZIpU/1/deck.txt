@@ -1,0 +1,26 @@
+Pokémon: 6
+4 Espathra ex PAF 6
+1 Fezandipiti ex SFA 92
+4 Flittle PAR 80
+3 Beldum TEF 113
+3 Metang TEF 114
+1 Radiant Greninja ASR 46
+
+Trainer: 11
+2 Pokémon League Headquarters OBF 192
+4 Super Rod PAL 276
+4 Nest Ball PAF 84
+2 Judge SVI 176
+2 Irida ASR 147
+2 Ultra Ball PAF 91
+1 Boss's Orders PAL 172
+1 Hyper Aroma TWM 152
+3 Iono PAL 185
+4 Buddy-Buddy Poffin TEF 144
+1 Earthen Vessel PAR 163
+
+Energy: 2
+14 Basic {M} Energy SVE 8
+4 Basic {P} Energy SVE 5
+
+Total Cards: 60

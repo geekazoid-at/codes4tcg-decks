@@ -1,0 +1,31 @@
+Pokémon: 9
+1 Skwovet SVI 151 PH
+2 Bibarel CRZ-GG 25
+2 Bidoof CRZ-GG 29
+3 Gliscor LOR 96
+3 Garchomp ex PAR 38
+1 Gabite PAR 95
+3 Gligar PAR 91
+1 Drilbur TEF 85
+4 Gible PAR 94
+
+Trainer: 14
+4 Ultra Ball SVI 196
+4 Buddy-Buddy Poffin TEF 144
+1 Temple of Sinnoh ASR 155
+2 Arven OBF 186
+1 Ciphermaniac's Codebreaking TEF 145
+4 Rare Candy SVI 191
+1 Earthen Vessel PAR 163
+2 Iono PAF 237
+1 Counter Catcher PAR 160
+2 Boss's Orders PAL 172
+2 Nest Ball SVI 181
+4 Irida 
+1 Hero's Cape TEF 152
+1 Super Rod PAL 276
+
+Energy: 1
+10 Basic {F} Energy SVE 6
+
+Total Cards: 60

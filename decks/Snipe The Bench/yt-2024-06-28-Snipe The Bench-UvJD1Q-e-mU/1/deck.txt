@@ -1,0 +1,27 @@
+Pokémon: 5
+3 Dunsparce TEF 128
+3 Dudunsparce TEF 129
+4 Froslass TWM 53
+4 Ting-Lu TWM 110
+4 Snorunt PAR 37
+
+Trainer: 14
+2 Counter Catcher PAR 160
+1 Unfair Stamp TWM 165
+3 Super Rod PAL 276
+4 Nest Ball PAF 84
+4 Irida ASR 147
+4 Artazon PAL 171
+2 Arven OBF 186
+2 Beach Court SVI 167
+2 Technical Machine: Devolution PAR 177
+4 Buddy-Buddy Poffin TEF 144
+2 Iono PAF 80
+3 Ultra Ball SVI 196
+1 Canceling Cologne ASR 136
+2 Earthen Vessel PAR 163
+
+Energy: 1
+6 Basic {F} Energy SVE 6
+
+Total Cards: 60

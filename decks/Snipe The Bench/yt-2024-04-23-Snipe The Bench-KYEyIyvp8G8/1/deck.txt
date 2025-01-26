@@ -1,0 +1,33 @@
+Pokémon: 8
+2 Tinkaton PAL 105
+4 Tinkatink PAL 101
+4 Dunsparce TEF 128
+4 Dudunsparce TEF 129
+1 Tinkatuff PAR 84
+3 Tinkaton ex PAL 240
+1 Manaphy BRS 41
+1 Radiant Jirachi SIT 120
+
+Trainer: 15
+1 Counter Catcher PAR 160
+2 Vengeful Punch OBF 197
+1 Super Rod PAL 276
+2 Jacq SVI 175
+2 Mesagoza SVI 178
+3 Morty's Conviction TEF 155
+4 Nest Ball SVI 181
+3 Worker SIT 195
+2 Arven OBF 186
+2 Boss's Orders PAL 265
+1 Professor Turo's Scenario PAR 171
+1 Lost Vacuum CRZ 135
+4 Buddy-Buddy Poffin TEF 144
+4 Rare Candy SVI 191
+
+Energy: 4
+1 Reversal Energy PAL 192
+2 Basic {P} Energy SVE 5
+4 Double Turbo Energy BRS 151
+1 Neo Upper Energy TEF 162
+
+Total Cards: 60

@@ -1,0 +1,31 @@
+Pokémon: 7
+4 Finizen TWM 59
+3 Roaring Moon TEF 109
+1 Fezandipiti ex SFA 92
+3 Palafin ex TWM 61
+1 Radiant Greninja ASR 46
+2 Pecharunt ex SFA 39
+3 Palafin TWM 60
+
+Trainer: 15
+1 Hisuian Heavy Ball ASR 146
+1 Lost Vacuum LOR 217
+1 Super Rod PAL 276
+3 Irida ASR 147
+1 Prime Catcher TEF 157
+4 Nest Ball SVI 181
+1 Night Stretcher SFA 61 PH
+4 Iono PAF 237
+2 Boss's Orders PAL 265
+1 Kieran TWM 154
+4 Dark Patch LOR 216
+3 Buddy-Buddy Poffin TEF 144
+2 Ultra Ball SVI 196
+3 Switch SVI 194
+3 Earthen Vessel PAR 163
+
+Energy: 2
+3 Basic {W} Energy SVE 3
+6 Basic {D} Energy SVE 7
+
+Total Cards: 60

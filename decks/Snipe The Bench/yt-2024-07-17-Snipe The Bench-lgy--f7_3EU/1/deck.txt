@@ -1,0 +1,33 @@
+Pokémon: 6
+3 Luxray ex TWM 68
+2 Miraidon ex SVI 81
+1 Iron Thorns ex TWM 77
+3 Shinx PAL 69
+1 Rotom V CRZ 45
+1 Iron Hands ex PAR 70
+
+Trainer: 18
+1 Lost Vacuum CRZ 135
+2 Switch Cart ASR 154
+2 Judge SVI 176
+2 Ultra Ball PAF 91
+3 Rare Candy SVI 191
+1 Counter Catcher PAR 160
+4 Electric Generator SVI 170
+1 Eri TEF 146 PH
+1 Super Rod PAL 276
+3 Iono PAF 80
+1 Bravery Charm PAL 173
+1 Pal Pad SVI 182
+1 Forest Seal Stone SIT 156
+3 Nest Ball PAF 84
+1 Prime Catcher TEF 157
+2 Arven SVI 166
+2 Boss's Orders PAL 172
+1 Enhanced Hammer TWM 148
+
+Energy: 2
+14 Basic {L} Energy SVE 4
+3 Double Turbo Energy BRS 151
+
+Total Cards: 60

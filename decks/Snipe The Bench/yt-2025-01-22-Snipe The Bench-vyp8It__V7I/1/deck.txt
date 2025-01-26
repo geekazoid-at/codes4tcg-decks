@@ -1,0 +1,32 @@
+Pokémon: 7
+4 Eevee SSP 143
+2 Budew PRE 4 PH
+2 Origin Forme Palkia V ASR 39
+1 Fezandipiti ex SFA 92
+2 Origin Forme Palkia VSTAR ASR 40
+3 Leafeon ex PRE 6
+1 Radiant Greninja ASR 46
+
+Trainer: 15
+4 Ultra Ball SVI 196
+2 Earthen Vessel PRE 106
+2 Switch SVI 194
+3 Arven OBF 186
+2 Area Zero Underdepths SCR 131
+4 Crispin SCR 133
+4 Buddy-Buddy Poffin TEF 144
+1 Counter Catcher PAR 160
+2 Iono PAL 185
+2 Night Stretcher SFA 61
+1 Super Rod PAL 188
+1 Sparkling Crystal SCR 142
+3 Nest Ball PAF 84
+1 Roseanne's Backup BRS 148
+2 Boss's Orders PAL 172
+
+Energy: 3
+5 Basic {W} Energy SVE 11
+3 Basic {R} Energy SVE 10
+3 Basic {G} Energy SVE 9
+
+Total Cards: 60

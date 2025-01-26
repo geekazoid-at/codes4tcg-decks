@@ -1,0 +1,33 @@
+Pokémon: 7
+1 Tatsugiri TWM 131
+4 Hisuian Zoroark VSTAR LOR 147
+1 Munkidori TWM 95
+4 Hisuian Zoroark V LOR 146
+1 Mew ex MEW 151
+2 Gengar LOR 66
+1 Radiant Alakazam SIT 59
+
+Trainer: 15
+3 Iono PAL 185
+4 Ultra Ball SVI 196
+4 Damage Pump LOR 156
+4 Gapejaw Bog ASR 142
+3 Boss's Orders PAL 172
+4 Nest Ball SVI 181
+4 Capturing Aroma SIT 153
+4 Professor's Research SVI 189
+1 Rescue Board TEF 159
+2 Switch SVI 194
+1 Lost Vacuum CRZ 135
+1 Enhanced Hammer TWM 148
+1 Super Rod PAL 276
+1 Earthen Vessel PAR 163
+1 Unfair Stamp TWM 165
+
+Energy: 4
+4 Double Turbo Energy BRS 151
+1 Jet Energy PAL 190
+2 Basic {D} Energy SVE 7
+1 Basic {P} Energy SVE 5
+
+Total Cards: 60

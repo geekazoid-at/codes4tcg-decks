@@ -1,0 +1,31 @@
+Pokémon: 6
+4 Gengar ex TEF 104
+1 Fezandipiti ex SFA 92
+2 Haunter PAF 56
+1 Rotom V CRZ 45
+4 Gastly TEF 102 PH
+2 Pecharunt ex SFA 39
+
+Trainer: 16
+1 Pokémon League Headquarters OBF 192
+4 Crushing Hammer SVI 168
+1 Super Rod PAL 276
+1 Forest Seal Stone SIT 156
+1 Prime Catcher TEF 157
+1 Pal Pad SVI 182
+3 Nest Ball SVI 181
+3 Iono PAF 237
+2 Boss's Orders PAL 265
+4 Arven OBF 186 PH
+2 Binding Mochi SFA 55
+4 Buddy-Buddy Poffin TEF 144
+4 Ultra Ball SVI 196
+1 Switch SVI 194
+4 Rare Candy SVI 191
+1 Earthen Vessel PAR 163
+
+Energy: 1
+9 Basic {D} Energy SVE 7
+
+
+Total Cards: 60

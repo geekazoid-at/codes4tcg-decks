@@ -1,0 +1,25 @@
+Pokémon: 5
+4 Metang TEF 114
+4 Beldum SIT 117
+1 Mew ex MEW 151
+4 Gimmighoul PAR 87
+4 Gholdengo PAF 67
+
+Trainer: 11
+4 Ultra Ball SVI 196
+1 Boss's Orders PAL 265
+4 Buddy-Buddy Poffin TEF 144
+4 Super Rod PAL 276
+1 Technical Machine: Evolution PAR 178
+4 Iono PAF 80
+3 Pokégear 3.0 SVI 186
+1 Prime Catcher TEF 157
+1 Pal Pad SVI 182
+2 Nest Ball SVI 181
+2 Arven SVI 166
+
+Energy: 2
+12 Basic {M} Energy SVE 8
+4 Reversal Energy PAL 192
+
+Total Cards: 60

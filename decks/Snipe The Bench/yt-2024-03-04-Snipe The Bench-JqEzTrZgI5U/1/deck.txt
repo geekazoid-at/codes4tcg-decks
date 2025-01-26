@@ -1,0 +1,31 @@
+Pokémon: 9
+2 Pidgey MEW 16
+3 Pawmot ex OBF 73
+2 Flaaffy EVS 55
+4 Pawmi SVI 73
+2 Pidgeot ex OBF 164
+1 Radiant Greninja ASR 46
+1 Manaphy BRS 41
+2 Mareep SVI 66 PH
+
+Trainer: 16
+1 Counter Catcher PAR 160
+1 Raihan EVS 152
+4 Rare Candy PGO 69
+1 Super Rod PAL 276
+4 Ultra Ball CRZ 146
+2 Canceling Cologne ASR 136 PH
+2 Nest Ball SVI 181
+4 Battle VIP Pass FST 225
+2 Boss's Orders PAL 172
+1 Klara CRE 145
+2 Arven SVI 166
+2 Iono PAL 269
+4 Colress's Experiment LOR 155
+1 Full Face Guard EVS 148
+1 Switch SVI 194
+
+Energy: 1
+11 Basic {L} Energy SVE 4
+
+Total Cards: 60

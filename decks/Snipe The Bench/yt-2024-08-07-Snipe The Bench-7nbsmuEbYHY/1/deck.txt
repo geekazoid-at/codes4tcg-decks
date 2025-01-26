@@ -1,0 +1,27 @@
+Pokémon: 6
+3 Beldum TEF 113
+3 Metang TEF 114
+1 Zamazenta CRZ 97 PH
+3 Copperajah SFA 42
+1 Tatsugiri TWM 131 PH
+4 Cufant PAL 149
+
+Trainer: 13
+3 Switch SVI 194
+4 Ultra Ball PAF 91
+2 Arven OBF 186
+2 Buddy-Buddy Poffin TEF 144
+4 Iono PAL 185
+4 Super Rod PAL 188
+1 Technical Machine: Evolution PAR 178
+1 Heavy Baton TEF 151
+4 Nest Ball SVI 181
+1 Rescue Board TEF 159
+1 Neutralization Zone SFA 60
+1 Artazon PAL 171
+2 Boss's Orders PAL 172
+
+Energy: 1
+15 Basic {M} Energy SVE 8
+
+Total Cards: 60

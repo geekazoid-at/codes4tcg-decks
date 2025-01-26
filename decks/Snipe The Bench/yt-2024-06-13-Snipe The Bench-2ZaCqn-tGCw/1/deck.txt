@@ -1,0 +1,28 @@
+Pokémon: 9
+1 Wyrdeer V ASR 134
+2 Sinistcha TWM 22
+2 Teal Mask Ogerpon ex TWM 25
+2 Teal Mask Ogerpon ex TWM 211
+4 Poltchageist TWM 20
+1 Sinistcha ex TWM 23
+1 Hisuian Lilligant VSTAR ASR 18
+1 Hisuian Lilligant V ASR 17
+1 Radiant Greninja ASR 46
+
+Trainer: 11
+2 Ultra Ball PAF 91
+2 Earthen Vessel PAR 163
+2 Super Rod PAL 276
+4 Iono PAF 80
+1 Temple of Sinnoh ASR 155
+1 Rescue Board TEF 159
+1 Unfair Stamp TWM 165
+4 Nest Ball PAF 84
+4 Bug Catching Set TWM 143
+2 Judge PAF 228
+2 Boss's Orders PAL 172
+
+Energy: 1
+20 Basic {G} Energy SVE 1
+
+Total Cards: 60

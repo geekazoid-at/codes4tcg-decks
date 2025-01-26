@@ -1,0 +1,28 @@
+Pokémon: 6
+4 Hydreigon ex SSP 119
+4 Tatsugiri ex SSP 142
+4 Pidgeot ex OBF 164
+3 Hydreigon PAL 140
+3 Togekiss SSP 72
+3 Dusknoir SFA 20
+
+Trainer: 10
+1 Switch SVI 194
+1 Boss's Orders PAL 265
+3 Call Bell SSP 165
+4 Crispin SCR 133
+2 Counter Catcher PAR 160
+2 Ciphermaniac's Codebreaking TEF 145
+4 Town Store OBF 196
+4 Pokégear 3.0 SVI 186
+1 Sparkling Crystal SCR 142
+1 Counter Gain LOT 170
+
+Energy: 5
+3 Basic {W} Energy SVE 11
+6 Basic {D} Energy SVE 15
+3 Basic {R} Energy SVE 10
+2 Basic {P} Energy SVE 13
+2 Basic {M} Energy SVE 16
+
+Total Cards: 60

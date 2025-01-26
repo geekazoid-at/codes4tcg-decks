@@ -1,0 +1,29 @@
+Pokémon: 6
+3 Baxcalibur PAL 60
+3 Frigibax PAL 58
+3 Kyurem EVS 116
+1 Manaphy BRS 41
+2 Chien-Pao ex PAL 61
+1 Radiant Greninja ASR 46
+
+Trainer: 14
+2 Ultra Ball SVI 196
+2 Switch SVI 194
+4 Irida ASR 147
+3 Rare Candy SVI 191
+3 Earthen Vessel PAR 163
+2 Energy Retrieval SVI 171
+1 Lost Vacuum CRZ 135
+2 Super Rod PAL 276
+4 Battle VIP Pass FST 225
+3 PokéStop PGO 68
+4 Superior Energy Retrieval PAL 189
+1 Pokégear 3.0 SVI 186
+2 Nest Ball SVI 181
+2 Boss's Orders PAL 172
+
+Energy: 2
+9 Basic {W} Energy SVE 3
+3 Basic {M} Energy SVE 8
+
+Total Cards: 60

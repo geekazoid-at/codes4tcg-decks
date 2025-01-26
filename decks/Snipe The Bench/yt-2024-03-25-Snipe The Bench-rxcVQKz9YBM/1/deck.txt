@@ -1,0 +1,34 @@
+Pokémon: 12
+1 Relicanth TEF 84
+2 Incineroar ex TEF 34
+1 Charmeleon PAF 8
+3 Charizard ex OBF 228
+3 Charmander PAF 7
+2 Bibarel CRZ-GG 25
+1 Torracat TEF 33
+3 Litten SIT 30
+2 Bidoof CRZ-GG 29
+1 Skwovet SVI 151
+2 Rellor PAL 26
+2 Rabsca TEF 24
+
+Trainer: 15
+1 Prime Catcher TEF 157
+1 Technical Machine: Evolution PAR 178
+3 Buddy-Buddy Poffin TEF 144
+1 Super Rod PAL 276
+2 Boss's Orders PAL 265
+1 Earthen Vessel PAR 163
+1 Magma Basin BRS 144 PH
+4 Arven SVI 166
+3 Iono PAF 237
+2 Switch SVI 194
+1 Counter Catcher PAR 160
+4 Ultra Ball PAF 91
+1 Mela PAR 167
+4 Rare Candy SVI 191
+
+Energy: 2
+8 Basic {R} Energy SVE 2
+
+Total Cards: 60

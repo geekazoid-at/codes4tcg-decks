@@ -1,0 +1,31 @@
+Pokémon: 9
+1 Kadabra MEW 64
+1 Mimikyu PAL 97
+3 Abra MEW 63
+2 Xatu PAR 72
+3 Alakazam ex MEW 65
+2 Hisuian Typhlosion ASR 52
+3 Natu PAR 71
+2 Cyndaquil ASR 23 PH
+1 Klefki SVI 96
+
+Trainer: 14
+1 Counter Catcher PAR 160
+2 Nest Ball PAF 84
+1 Avery CRE 130
+2 Energy Retrieval SVI 171
+3 Arven OBF 186
+4 Battle VIP Pass FST 225
+2 Path to the Peak ASR 213
+2 Boss's Orders PAL 172
+4 Colress's Experiment LOR 155
+1 Technical Machine: Evolution PAR 178
+3 Iono PAF 80
+4 Ultra Ball SVI 196
+4 Rare Candy SVI 191
+1 Earthen Vessel PAR 163
+
+Energy: 1
+8 Basic {P} Energy SVE 5
+
+Total Cards: 60

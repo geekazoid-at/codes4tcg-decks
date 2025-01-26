@@ -1,0 +1,29 @@
+Pokémon: 8
+2 Bidoof CRZ-GG 29
+3 Revavroom ex OBF 156
+3 Beldum TEF 113
+3 Metang TEF 114
+3 Varoom SVI 140
+1 Radiant Greninja ASR 46
+2 Bibarel CRZ-GG 25
+
+Trainer: 15
+1 Counter Catcher PAR 160
+4 Rigid Band MEW 165
+1 Super Rod PAL 276
+1 Maximum Belt TEF 154
+3 Nest Ball SVI 181
+2 Iono PAF 237
+2 Boss's Orders PAL 172
+4 Arven SVI 166
+1 Technical Machine: Evolution PAR 178
+3 Buddy-Buddy Poffin TEF 144
+1 Ciphermaniac's Codebreaking TEF 145
+2 Full Metal Lab TEF 148
+3 Ultra Ball SVI 196
+3 Rocky Helmet SVI 193
+
+Energy: 1
+12 Basic {M} Energy SVE 8
+
+Total Cards: 60

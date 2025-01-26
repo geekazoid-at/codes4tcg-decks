@@ -1,0 +1,28 @@
+Pokémon: 8
+3 Flaaffy SVI 67
+3 Miraidon ex SVI 81
+1 Mew ex MEW 151
+3 Ampharos ex PR-SV 16
+1 Fezandipiti ex SFA 38
+1 Radiant Greninja ASR 46
+1 Squawkabilly ex PAL 169
+4 Mareep SVI 66
+
+Trainer: 11
+1 Switch SVI 194
+4 Ultra Ball PAF 91
+1 Grand Tree SCR 136
+2 Jamming Tower TWM 153
+3 Colress's Tenacity SFA 57
+2 Super Rod PAL 188
+3 Iono PAF 80
+4 Nest Ball SVI 181
+4 Electric Generator PAF 79
+1 Judge PAF 228
+2 Boss's Orders PAL 172
+
+Energy: 2
+13 Basic {L} Energy SVE 4
+3 Boomerang Energy TWM 166 PH
+
+Total Cards: 60

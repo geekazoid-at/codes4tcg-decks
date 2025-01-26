@@ -1,0 +1,31 @@
+Pokémon: 10
+1 Mew ex MEW 151
+2 Pidgeot ex OBF 164
+3 Magnezone ex SVI 65
+1 Magneton SSP 59
+4 Magnemite SVI 63
+1 Fezandipiti ex SFA 38
+1 Rotom V LOR 58
+2 Grafaiai SSP 121
+2 Shroodle PAL 145
+2 Pidgey MEW 16
+
+Trainer: 13
+4 Ultra Ball PAF 91
+4 Rare Candy SVI 191
+4 Arven OBF 186
+4 Buddy-Buddy Poffin TEF 144
+1 Super Rod PAL 276
+3 Handheld Fan TWM 150
+2 Iono PAL 254
+1 Forest Seal Stone SIT 156
+1 Scoop Up Cyclone TWM 162
+4 Nest Ball PAF 84
+2 Judge PAF 228
+2 Switch MEW 206
+2 Boss's Orders PAL 172
+
+Energy: 1
+7 Basic {L} Energy SVE 4
+
+Total Cards: 60

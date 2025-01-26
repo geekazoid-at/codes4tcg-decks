@@ -1,0 +1,28 @@
+Pokémon: 10
+3 Weezing MEW 110
+3 Koffing CRZ 75
+3 Nymble PAR 13
+2 Bibarel CRZ-GG 25
+1 Manaphy BRS 41
+1 Skwovet SVI 151
+3 Lokix PAR 122
+1 Radiant Alakazam SIT 59
+1 Jirachi PAR 126
+2 Bidoof CRZ-GG 29
+
+Trainer: 10
+4 Ultra Ball SVI 196
+4 Switch SVI 194
+4 Dark Patch ASR 139
+2 Super Rod PAL 276
+4 Iono PAL 185
+2 Artazon PAF 76
+3 Great Ball PAL 183
+3 Judge SIT-TG 25
+3 Nest Ball SVI 181
+2 Boss's Orders PAL 172
+
+Energy: 1
+9 Basic {D} Energy SVE 7
+
+Total Cards: 60

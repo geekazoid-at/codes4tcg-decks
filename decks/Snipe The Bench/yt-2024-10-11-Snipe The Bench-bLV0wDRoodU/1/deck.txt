@@ -1,0 +1,31 @@
+Pokémon: 7
+3 Golisopod ex PAR 50
+4 Wimpod PAR 48
+2 Bibarel CRZ-GG 25
+1 Skwovet SVI 151
+3 Iron Thorns ex TWM 77
+1 Mimikyu PAL 97
+2 Bidoof CRZ-GG 29
+
+Trainer: 13
+2 Lake Acuity LOR 160
+2 Ultra Ball PAF 91
+2 Boss's Orders PAL 265
+3 Crispin SCR 133
+4 Buddy-Buddy Poffin TEF 144
+1 Hisuian Heavy Ball ASR 146
+1 Future Booster Energy Capsule PAR 164
+3 Iono PAL 185
+1 Secret Box TWM 163
+4 Nest Ball PAF 84
+2 Judge PAF 228
+3 Switch MEW 206
+4 Arven SVI 166
+
+Energy: 4
+1 Basic {P} Energy SVE 5
+2 Basic {L} Energy SVE 4
+6 Basic {W} Energy SVE 3
+3 Boomerang Energy TWM 166 PH
+
+Total Cards: 60

@@ -1,0 +1,28 @@
+Pokémon: 7
+2 Clefable MEW 36
+2 Clefairy OBF 81
+3 Xatu PAR 72
+1 Mew ex MEW 151
+3 Ceruledge PAL 98
+4 Charcadet PAR 25
+3 Natu PAR 71
+
+Trainer: 13
+1 Counter Catcher PAR 160
+3 Judge SIT-TG 25
+2 Nest Ball PAF 84
+1 Judge SVI 176
+2 Energy Retrieval SVI 171
+1 Pal Pad SVI 182
+4 Fog Crystal CRE 140
+4 Battle VIP Pass FST 225
+3 Path to the Peak ASR 213
+2 Boss's Orders PAL 172
+1 Roxanne ASR 150
+4 Ultra Ball SVI 196
+2 Earthen Vessel PAR 163
+
+Energy: 1
+12 Basic {P} Energy SVE 5
+
+Total Cards: 60

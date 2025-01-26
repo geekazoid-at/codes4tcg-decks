@@ -1,0 +1,33 @@
+Pokémon: 4
+4 Hisuian Growlithe LOR 83
+2 Skwovet SVI 151 PH
+4 Hisuian Arcanine LOR 84
+1 Radiant Venusaur PGO 4
+
+Trainer: 20
+1 Hisuian Heavy Ball ASR 146
+2 Counter Catcher PAR 160
+1 Grant ASR 144
+4 Academy at Night SFA 54
+2 Night Stretcher SFA 61
+2 Nest Ball SVI 181
+3 Capturing Aroma SIT 153
+4 Arven OBF 186
+2 Boss's Orders PAL 172
+1 Hassel TWM 151
+4 Iono PAL 185
+1 Technical Machine: Devolution PAR 177
+1 Super Rod PAL 188
+1 Defiance Band SVI 169
+2 Lost Vacuum LOR 162
+4 Buddy-Buddy Poffin TEF 144
+4 Ultra Ball SVI 196
+1 Neutralization Zone SFA 60
+1 Vitality Band SVI 197
+3 Switch SVI 194
+
+Energy: 2
+1 Jet Energy PAL 190
+4 Mist Energy TEF 161
+
+Total Cards: 60

@@ -1,0 +1,30 @@
+Pokémon: 8
+3 Glimmora ex OBF 123
+4 Glimmet PAL 124
+2 Glimmora PAL 126
+1 Skwovet SVI 151 PH
+1 Radiant Hisuian Sneasler LOR 123
+2 Bibarel BRS 121
+1 Manaphy BRS 41
+2 Bidoof CRZ 111
+
+Trainer: 14
+1 Hisuian Heavy Ball ASR 146
+1 Counter Catcher PAR 160
+2 Exp. Share SVI 174
+1 Super Rod PAL 276
+2 Judge SVI 176
+3 Perilous Jungle TEF 156
+2 Nest Ball SVI 181
+2 Arven OBF 186
+2 Boss's Orders PAL 172
+4 Iono PAL 185
+4 Buddy-Buddy Poffin TEF 144
+4 Ultra Ball SVI 196
+2 Switch SVI 194
+4 Gutsy Pickaxe ASR 145
+
+Energy: 1
+10 Basic {F} Energy SVE 6
+
+Total Cards: 60

@@ -1,0 +1,31 @@
+Pokémon: 9
+2 Spidops ex SVI 19
+3 Flittle PAR 80
+3 Espathra ex PAF 6
+1 Mew ex MEW 151
+3 Xatu PAF 26
+2 Tarountula PAL 16
+3 Natu PAR 71
+1 Jirachi PAR 126
+
+Trainer: 14
+4 Ultra Ball SVI 196
+1 Switch SVI 194
+1 Escape Rope BST 125
+2 Avery CRE 130
+1 Counter Catcher PAR 160
+4 Fog Crystal CRE 140
+1 Letter of Encouragement OBF 189
+3 Great Ball PAL 183
+2 Artazon PAF 76
+1 Technical Machine: Devolution PAR 177
+2 Super Rod PAL 188
+3 Judge SIT-TG 25
+3 Iono PAF 80
+2 Boss's Orders PAL 172
+
+Energy: 2
+2 Basic {G} Energy SVE 1
+10 Basic {P} Energy SVE 5
+
+Total Cards: 60

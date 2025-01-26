@@ -1,0 +1,38 @@
+Pokémon: 11
+2 Pidgey MEW 16
+1 Fezandipiti ex SFA 92
+1 Rotom V LOR 58
+2 Dusclops SFA 19
+3 Drakloak TWM 129
+4 Dreepy TWM 128
+2 Duskull SFA 18
+2 Pidgeot ex OBF 164
+1 Manaphy BRS 41
+2 Dragapult ex TWM 130
+1 Dragapult ex TWM 200
+
+Trainer: 16
+1 Counter Catcher PAR 160
+1 Cyllene ASR 183
+1 Enhanced Hammer TWM 148
+1 Super Rod PAL 276
+1 Forest Seal Stone SIT 156
+3 Nest Ball SVI 181
+2 Boss's Orders PAL 172
+2 Iono PAL 185
+3 Arven SVI 166
+1 Defiance Band SVI 169
+4 Buddy-Buddy Poffin TEF 144
+4 Ultra Ball SVI 196
+1 Switch SVI 194
+4 Rare Candy SVI 191
+1 Night Stretcher SFA 61 PH
+1 Collapsed Stadium BRS 137
+
+Energy: 4
+1 Neo Upper Energy TEF 162
+3 Basic {R} Energy SVE 2
+3 Basic {P} Energy SVE 5
+1 Mist Energy TEF 161
+
+Total Cards: 60

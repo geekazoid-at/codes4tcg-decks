@@ -1,0 +1,28 @@
+Pokémon: 3
+1 Pidgeot V LOR 137
+4 Great Tusk TEF 97 PH
+1 Radiant Greninja ASR 46
+
+Trainer: 16
+2 Trekking Shoes ASR 156
+1 Hisuian Heavy Ball ASR 146
+4 Counter Catcher PAR 160
+2 Accompanying Flute TWM 142
+1 Forest Seal Stone SIT 156
+4 Pokégear 3.0 SVI 186
+2 Pal Pad SVI 182
+4 Nest Ball SVI 181
+1 Calamitous Wasteland PAL 175
+3 Artazon PAL 171
+4 Professor Sada's Vitality PAR 170
+3 Super Rod PAL 188
+4 Gravity Gemstone SCR 137 PH
+4 Explorer's Guidance TEF 147
+1 Neutralization Zone SFA 60
+4 Earthen Vessel PAR 163
+
+Energy: 2
+4 Double Turbo Energy BRS 151
+6 Basic {F} Energy SVE 14
+
+Total Cards: 60

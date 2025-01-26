@@ -1,0 +1,30 @@
+Pokémon: 8
+2 Armarouge SVI 41
+3 Armarouge ex PAR 27
+4 Charcadet PAR 25
+2 Charmander OBF 26
+2 Charizard PGO 10
+1 Radiant Heatran ASR 27
+2 Bidoof CRZ-GG 29
+2 Bibarel CRZ-GG 25
+
+Trainer: 14
+1 Technical Machine: Evolution PAR 178
+4 Magma Basin BRS 144
+2 Earthen Vessel PAR 163
+2 Nest Ball SVI 181
+4 Buddy-Buddy Poffin TEF 144
+2 Rare Candy SVI 191
+2 Switch SVI 194
+4 Ultra Ball PAF 91
+2 Boss's Orders PAL 265
+4 Arven OBF 186
+2 Iono PAF 237
+2 Rigid Band MEW 165
+1 Prime Catcher TEF 157
+1 Super Rod PAL 276
+
+Energy: 1
+9 Basic {R} Energy SVE 2
+
+Total Cards: 60

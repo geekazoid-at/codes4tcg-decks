@@ -1,0 +1,32 @@
+Pokémon: 6
+3 Skwovet SVI 151 PH
+1 Skwovet SVI 151
+4 Xatu PAR 72
+2 Mew ex MEW 151
+3 Greedent ex OBF 179
+4 Natu PAR 71
+
+Trainer: 18
+1 Counter Catcher PAR 160
+1 Escape Rope BST 125
+2 Rigid Band MEW 165
+1 Judge SIT-TG 25
+1 Super Rod PAL 276
+1 Energy Retrieval SVI 171
+1 Pal Pad SVI 182
+3 Nest Ball SVI 181
+4 Battle VIP Pass FST 225
+2 Boss's Orders PAL 172
+3 Arven SVI 166
+1 Technical Machine: Devolution PAR 177
+1 Technical Machine: Evolution PAR 178
+3 Cheren's Care BRS 134
+2 Iono PAF 80
+4 Ultra Ball SVI 196
+1 Switch SVI 194
+1 Earthen Vessel PAR 163
+
+Energy: 1
+10 Basic {P} Energy SVE 5
+
+Total Cards: 60

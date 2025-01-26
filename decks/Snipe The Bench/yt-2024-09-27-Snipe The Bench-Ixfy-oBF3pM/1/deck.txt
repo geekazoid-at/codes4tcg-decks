@@ -1,0 +1,32 @@
+Pokémon: 7
+3 Doduo MEW 84
+1 Rabsca TEF 24
+4 Cubone MEW 104
+1 Rellor PAL 26
+1 Fezandipiti ex SFA 38
+4 Marowak SCR 73
+3 Dodrio MEW 85
+
+Trainer: 15
+2 Ultra Ball SVI 196
+1 Switch SVI 194
+4 Buddy-Buddy Poffin TEF 144
+1 Counter Catcher PAR 160
+1 Hisuian Heavy Ball ASR 146
+4 Iono PAL 185
+1 Hyper Aroma TWM 152
+3 Night Stretcher SFA 61
+1 Super Rod PAL 188
+1 Energy Loto ASR 140
+3 Damage Pump LOR 156
+4 Nest Ball PAF 84
+4 Calamitous Snowy Mountain PAL 174
+3 Judge PAF 228
+1 Boss's Orders PAL 172
+
+Energy: 3
+4 Double Turbo Energy BRS 151
+3 Basic {F} Energy SVE 6
+2 Reversal Energy PAL 192
+
+Total Cards: 60

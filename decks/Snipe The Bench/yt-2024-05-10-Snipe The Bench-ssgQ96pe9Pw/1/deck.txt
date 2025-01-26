@@ -1,0 +1,37 @@
+Pokémon: 10
+4 Rowlet OBF 13
+1 Hisuian Decidueye ASR 82
+1 Rotom V CRZ 45
+1 Dartrix OBF 14
+2 Bibarel BRS 121
+1 Rellor TEF 23
+1 Rabsca TEF 24
+3 Decidueye ex OBF 15
+1 Radiant Alakazam SIT 59
+2 Bidoof CRZ 111
+
+Trainer: 18
+1 Hisuian Heavy Ball ASR 146
+1 Counter Catcher PAR 160
+2 Gardenia's Vigor ASR 143
+2 Nest Ball PAF 84
+1 Forest Seal Stone SIT 156
+4 Ultra Ball PAF 91
+1 Professor's Research PAF 88
+1 Lost City LOR 161
+4 Arven OBF 186
+1 Boss's Orders PAL 172
+2 Technical Machine: Evolution PAR 178
+2 Super Rod PAL 188
+4 Rare Candy PAF 89
+1 Supereffective Glasses ASR 152
+4 Buddy-Buddy Poffin TEF 144
+3 Iono PAF 80
+1 Canceling Cologne ASR 136
+1 Earthen Vessel PAR 163
+
+Energy: 2
+6 Basic {G} Energy SVE 1
+1 Neo Upper Energy TEF 162
+
+Total Cards: 60

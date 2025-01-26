@@ -1,0 +1,34 @@
+Pokémon: 9
+2 Pidgey MEW 16
+1 Rotom V LOR 58
+3 Tsareena ex PAR 46
+2 Munkidori TWM 95
+2 Froslass TWM 53
+3 Bounsweet PAR 8
+1 Steenee PAR 9
+2 Pidgeot ex OBF 164
+2 Snorunt PAR 37
+
+Trainer: 16
+1 Unfair Stamp TWM 165
+2 Super Rod PAL 276
+1 Forest Seal Stone SIT 156
+4 Irida ASR 147
+2 Nest Ball SVI 181
+1 Temple of Sinnoh ASR 155
+2 Arven OBF 186
+1 Boss's Orders PAL 172
+1 Panic Mask LOR 165 PH
+4 Buddy-Buddy Poffin TEF 144
+3 Iono PAF 80
+3 Ultra Ball SVI 196
+1 Switch SVI 194
+4 Rare Candy SVI 191
+2 Earthen Vessel PAR 163
+1 Professor Turo's Scenario PAR 171
+
+Energy: 2
+7 Basic {G} Energy SVE 1
+2 Basic {D} Energy SVE 7
+
+Total Cards: 60

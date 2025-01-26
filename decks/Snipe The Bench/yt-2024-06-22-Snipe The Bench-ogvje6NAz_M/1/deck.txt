@@ -1,0 +1,31 @@
+Pokémon: 9
+4 Finizen TWM 59
+1 Origin Forme Palkia V ASR 39
+3 Dunsparce TEF 128
+3 Dudunsparce TEF 129
+3 Palafin ex TWM 61
+1 Origin Forme Palkia VSTAR ASR 40
+1 Radiant Greninja ASR 46
+1 Manaphy BRS 41
+3 Palafin TWM 60
+
+Trainer: 13
+1 Counter Catcher PAR 160
+1 Unfair Stamp TWM 165
+2 Super Rod PAL 276
+2 Nest Ball PAF 84
+4 Irida ASR 147
+4 Ultra Ball PAF 91
+1 Rescue Board TEF 159
+2 Boss's Orders PAL 172
+1 Hassel TWM 151
+3 Iono PAL 185
+1 Lake Acuity LOR 160
+4 Buddy-Buddy Poffin TEF 144
+4 Switch SVI 194
+
+Energy: 2
+2 Jet Energy PAL 190
+8 Basic {W} Energy SVE 3
+
+Total Cards: 60

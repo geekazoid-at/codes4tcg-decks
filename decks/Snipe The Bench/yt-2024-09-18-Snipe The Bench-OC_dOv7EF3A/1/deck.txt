@@ -1,0 +1,30 @@
+Pokémon: 7
+1 Mimikyu PAF 37
+4 Spidops ex SVI 19
+1 Manaphy BRS 41
+1 Fezandipiti ex SFA 38
+4 Tarountula PAL 17
+2 Cornerstone Mask Ogerpon ex TWM 112
+
+Trainer: 14
+2 Switch SVI 194
+1 Judge SVI 176
+4 Buddy-Buddy Poffin TEF 144
+2 Crispin SCR 133
+2 Super Rod PAL 276
+1 Iono PAF 80
+1 Secret Box TWM 163
+4 Nest Ball PAF 84
+4 Gravity Gemstone SCR 137 PH
+2 Calamitous Wasteland PAL 175
+4 Bug Catching Set TWM 143
+1 Pal Pad SVI 182 PH
+4 Arven SVI 166
+2 Boss's Orders PAL 172
+
+Energy: 3
+10 Basic {G} Energy SVE 1
+2 Basic {F} Energy SVE 6
+1 Basic {P} Energy SVE 5
+
+Total Cards: 60

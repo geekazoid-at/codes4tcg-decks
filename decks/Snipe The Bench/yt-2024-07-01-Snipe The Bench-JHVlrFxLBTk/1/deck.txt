@@ -1,0 +1,44 @@
+Pokémon: 14
+1 Mimikyu PAF 160
+1 Rotom V CRZ 45
+1 Luxray V ASR 50
+1 Chi-Yu ex PAL 234
+1 Manaphy BRS 41
+1 Sandshrew MEW 27 PH
+1 Cleffa OBF 80
+2 Snorlax PGO 55
+2 Pidgey MEW 16
+1 Mawile LOR 71
+2 Pidgeot ex OBF 164
+1 Radiant Charizard CRZ 20
+1 Pidgeot V LOR 137
+1 Mimikyu PAF 37
+
+Trainer: 21
+1 Hisuian Heavy Ball ASR 146
+2 Miss Fortune Sisters LOR 164
+3 Rare Candy PAF 89
+1 Super Rod PAL 188
+2 Pal Pad SVI 182
+3 Penny SVI 183
+2 Nest Ball SVI 181
+2 Ultra Ball PAF 91
+1 Defiance Vest PAR 162
+3 Counter Catcher PAR 160
+3 Arven SVI 166
+1 Iono PAF 80
+1 Unfair Stamp TWM 165
+2 Buddy-Buddy Poffin TEF 144
+1 Forest Seal Stone SIT 156
+1 Lost Vacuum CRZ 135
+3 Bravery Charm PAL 173
+2 Boss's Orders PAL 172
+1 Nest Ball PAF 84
+1 Thorton LOR 167
+3 Eri TEF 146 PH
+
+Energy: 2
+2 Basic {R} Energy SVE 2
+2 Double Turbo Energy BRS 151
+
+Total Cards: 60

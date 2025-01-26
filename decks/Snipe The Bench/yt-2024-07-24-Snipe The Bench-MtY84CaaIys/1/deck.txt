@@ -1,0 +1,33 @@
+Pokémon: 6
+1 Radiant Alakazam SIT 59
+2 Cornerstone Mask Ogerpon ex TWM 112
+1 Hawlucha SVI 118
+2 Koraidon ex SVI 125
+3 Ting-Lu ex PAL 127
+1 Squawkabilly ex PAL 169
+
+Trainer: 19
+3 Earthen Vessel PAR 163
+1 Enhanced Hammer TWM 148
+1 Hisuian Heavy Ball ASR 146
+4 Nest Ball SVI 181
+1 Pal Pad SVI 182
+1 Switch SVI 194
+4 Switch Cart ASR 154
+4 Ultra Ball SVI 196
+1 Unfair Stamp TWM 165
+3 Arven SVI 166
+2 Boss's Orders PAL 172
+3 Carmine TWM 145
+1 Giacomo PAL 182
+1 Grant ASR 144
+3 Judge SIT-TG 25
+2 Penny SVI 183
+2 Bravery Charm PAL 173
+2 Heavy Baton TEF 151
+1 Technical Machine: Devolution PAR 177
+
+Energy: 1
+10 Basic {F} Energy SVE 6
+
+Total Cards: 60

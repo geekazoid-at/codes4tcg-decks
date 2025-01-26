@@ -1,0 +1,26 @@
+Pokémon: 7
+4 Varoom SFA 43
+4 Beldum TEF 113
+4 Metang TEF 114
+1 Zamazenta CRZ 97 PH
+1 Manaphy BRS 41
+1 Radiant Greninja ASR 46
+4 Revavroom ex SFA 15
+
+Trainer: 11
+3 Ultra Ball PAF 91
+4 Buddy-Buddy Poffin TEF 144
+2 Professor's Research PAF 88
+4 Super Rod PAL 188
+4 Iono PAF 80
+1 Prime Catcher TEF 157
+1 Pal Pad SVI 182
+3 Nest Ball PAF 84
+2 Night Stretcher SFA 61 PH
+2 Boss's Orders PAL 172
+1 Judge PAF 228
+
+Energy: 1
+14 Basic {M} Energy SVE 8
+
+Total Cards: 60

@@ -1,0 +1,30 @@
+Pokémon: 6
+2 Squawkabilly ex PAF 75
+1 Fezandipiti ex SFA 92
+4 Gouging Fire ex TEF 38
+1 Entei V BRS 22
+2 Roaring Moon ex PAR 124
+1 Radiant Charizard PGO 11
+
+Trainer: 14
+2 Switch Cart ASR 154
+4 Ultra Ball PAF 91
+4 Earthen Vessel PAR 163
+4 Energy Switch SVI 173
+2 Iono PAL 185
+4 Professor Sada's Vitality PAR 170
+2 Night Stretcher SFA 61
+1 Prime Catcher TEF 157
+1 Pal Pad SVI 182
+1 Forest Seal Stone SIT 156
+4 Nest Ball SVI 181
+2 Bravery Charm PAL 173
+2 Boss's Orders PAL 172
+4 Magma Basin BRS 144
+
+Energy: 3
+3 Basic {D} Energy SVE 7
+7 Basic {R} Energy SVE 2
+2 Jet Energy PAL 190
+
+Total Cards: 60

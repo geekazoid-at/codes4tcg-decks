@@ -1,0 +1,38 @@
+Pokémon: 7
+1 Bloodmoon Ursaluna ex TWM 141
+2 Cyclizar ex SSP 228
+2 Ditto MEW 132
+4 Bombirdier ex PAR 156
+1 Klinklang SIT 125
+2 Bouffalant SCR 119
+1 Klink SCR 99
+
+Trainer: 19
+1 Hisuian Heavy Ball ASR 146
+1 Counter Catcher PAR 160
+1 Poké Vital A SFA 62
+2 Lively Stadium SSP 180
+2 Grabber MEW 162
+3 Ultra Ball PAF 91
+4 Pokégear 3.0 SVI 186
+1 Night Stretcher SFA 61
+2 Penny SVI 183
+3 Arven OBF 186
+3 Bravery Charm PAL 173
+1 Boss's Orders PAL 265
+2 Iono PAL 185
+1 Fighting Au Lait PAL 181
+1 Super Rod PAL 188
+2 Colress's Tenacity SFA 57
+1 Rare Candy PAF 89
+4 Crispin SCR 133
+1 Switch SVI 194
+
+Energy: 5
+3 Basic {R} Energy SVE 10
+1 Luminous Energy PAL 191
+1 Jet Energy PAL 190
+3 Basic {G} Energy SVE 9
+3 Basic {P} Energy SVE 13
+
+Total Cards: 60

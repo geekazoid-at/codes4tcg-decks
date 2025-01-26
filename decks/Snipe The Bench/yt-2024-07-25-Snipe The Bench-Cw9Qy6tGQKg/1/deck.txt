@@ -1,0 +1,39 @@
+Pokémon: 11
+1 Pidgeot ex OBF 225
+2 Pidgey MEW 16
+1 Rotom V CRZ 45
+1 Pidgeot ex OBF 217
+2 Drakloak TWM 129 PH
+1 Radiant Charizard CRZ 20
+2 Litten TEF 32 PH
+2 Incineroar ex TEF 34
+1 Mimikyu PAF 160
+2 Dragapult ex TWM 200
+2 Dreepy TWM 128
+
+Trainer: 18
+4 Buddy-Buddy Poffin TEF 144 PH
+1 Enhanced Hammer TWM 224
+1 Lost Vacuum LOR 217
+1 Super Rod PAL 276
+1 Technical Machine: Devolution PAR 177 PH
+1 Forest Seal Stone SIT 156
+4 Nest Ball PAF 84
+4 Rare Candy PAF 89
+2 Boss's Orders PAL 265
+3 Arven PAF 235
+2 Iono PAF 237
+2 Hisuian Heavy Ball ASR 146 PH
+1 Earthen Vessel PAR 163
+1 Professor Turo's Scenario PAR 171 PH
+4 Ultra Ball PAF 91
+1 Counter Catcher PAR 264
+1 Kieran TWM 154
+1 Prime Catcher TEF 157
+
+Energy: 3
+5 Basic {R} Energy SVE 2
+2 Basic {P} Energy SVE 5 PH
+1 Basic {P} Energy SVE 5
+
+Total Cards: 60

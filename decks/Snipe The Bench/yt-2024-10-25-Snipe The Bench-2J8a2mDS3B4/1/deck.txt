@@ -1,0 +1,30 @@
+Pokémon: 9
+1 Conkeldurr TWM 105
+3 Slowking SCR 58
+3 Kyurem SFA 47
+1 Rabsca TEF 24
+1 Rellor TEF 23
+1 Radiant Greninja ASR 46
+2 Natu PAF 25
+2 Xatu PAF 26
+4 Slowpoke PGO 19 PH
+
+Trainer: 13
+1 Canceling Cologne ASR 136
+1 Professor Turo's Scenario PAR 171
+4 Buddy-Buddy Poffin TEF 144
+2 Super Rod PAL 188
+4 Academy at Night SFA 54
+1 Nest Ball SVI 181
+2 Earthen Vessel PAR 163
+4 Night Stretcher SFA 61
+2 Ultra Ball SVI 196
+1 Hyper Aroma TWM 152
+4 Iono PAL 185
+1 Counter Catcher PAR 160
+4 Arven SVI 166
+
+Energy: 1
+11 Basic {P} Energy SVE 13
+
+Total Cards: 60

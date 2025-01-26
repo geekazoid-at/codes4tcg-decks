@@ -1,0 +1,30 @@
+Pokémon: 9
+3 Meowscarada ex PAL 15
+1 Bibarel CRZ-GG 25
+2 Espurr SSP 84
+4 Sprigatito SVI 13
+1 Radiant Alakazam SIT 59
+2 Togepi ASR 55
+2 Togekiss SSP 72
+2 Meowstic SSP 85 PH
+1 Bidoof CRZ-GG 29
+
+Trainer: 12
+4 Ultra Ball SVI 196
+4 Rare Candy SVI 191
+4 Chill Teaser Toy SSP 166
+1 Earthen Vessel PAR 163
+4 Buddy-Buddy Poffin TEF 144
+2 Energy Retrieval SVI 171
+1 Hisuian Heavy Ball ASR 146
+4 Iono PAL 185
+1 Night Stretcher SFA 61
+2 Nest Ball SVI 181
+1 Switch MEW 206
+4 Arven SVI 166
+
+Energy: 2
+6 Basic {G} Energy SVE 9
+4 Double Turbo Energy BRS 151
+
+Total Cards: 60

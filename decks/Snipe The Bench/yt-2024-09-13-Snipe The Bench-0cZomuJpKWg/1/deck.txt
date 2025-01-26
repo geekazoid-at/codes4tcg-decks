@@ -1,0 +1,31 @@
+Pokémon: 6
+3 Galvantula ex SCR 51
+3 Chansey MEW 113
+1 Fezandipiti ex SFA 38
+4 Joltik SCR 50
+1 Manaphy BRS 41
+3 Blissey ex TWM 201
+
+Trainer: 15
+1 Briar SCR 163
+2 Artazon PAF 76
+2 Night Stretcher SFA 61
+4 Nest Ball SVI 181
+1 Boss's Orders PAL 172
+2 Powerglass SFA 63
+1 Hyper Aroma TWM 152
+3 Iono PAL 185
+4 Arven SVI 166
+1 Crispin SCR 133
+4 Glass Trumpet SCR 135
+3 Buddy-Buddy Poffin TEF 144
+3 Ultra Ball SVI 196
+2 Switch SVI 194
+2 Earthen Vessel PAR 163
+
+Energy: 3
+3 Basic {L} Energy SVE 12
+3 Basic {G} Energy SVE 9
+4 Basic {F} Energy SVE 14
+
+Total Cards: 60

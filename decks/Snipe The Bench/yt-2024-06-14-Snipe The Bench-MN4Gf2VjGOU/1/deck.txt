@@ -1,0 +1,29 @@
+Pokémon: 5
+4 Toedscool SVI 201
+4 Teal Mask Ogerpon ex TWM 211
+1 Toedscruel PAR 17 PH
+3 Toedscruel ex OBF 22
+1 Wo-Chien ex PAL 27
+
+Trainer: 17
+2 Boss's Orders PAL 265
+2 Earthen Vessel PAR 163
+3 Buddy-Buddy Poffin TEF 144
+1 Super Rod PAL 276
+4 Iono PAF 237
+1 Superior Energy Retrieval PAL 277
+2 Jamming Tower TWM 153
+1 Cyllene ASR 183
+1 Professor Turo's Scenario PAR 171 PH
+2 Lost Vacuum LOR 217
+3 Gardenia's Vigor ASR 143
+1 Maximum Belt TEF 154
+1 Hisuian Heavy Ball ASR 146 PH
+4 Bug Catching Set TWM 143
+2 Nest Ball PAF 84
+2 Switch SVI 194
+
+Energy: 1
+15 Basic {G} Energy SVE 1
+
+Total Cards: 60

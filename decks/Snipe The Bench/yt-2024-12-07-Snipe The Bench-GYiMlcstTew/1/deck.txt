@@ -1,0 +1,32 @@
+Pokémon: 8
+2 Glimmora ex OBF 123
+2 Glimmet PAL 124
+2 Bibarel BRS 121
+3 Flygon ex SSP 106
+1 Vibrava SSP 105
+4 Trapinch SSP 104
+1 Cornerstone Mask Ogerpon ex TWM 112
+2 Bidoof CRZ 111
+
+Trainer: 14
+1 Counter Catcher PAR 160
+2 Pokémon League Headquarters OBF 192
+1 Judge SVI 176
+1 Prime Catcher TEF 157
+2 Night Stretcher SFA 61
+2 Nest Ball SVI 181
+4 Arven OBF 186
+1 Boss's Orders PAL 172
+2 Iono PAL 185
+4 Buddy-Buddy Poffin TEF 144
+4 Ultra Ball SVI 196
+4 Switch SVI 194
+4 Rare Candy SVI 191
+1 Earthen Vessel PAR 163
+
+Energy: 3
+4 Luminous Energy PAL 191
+4 Basic {F} Energy SVE 14
+2 Basic {M} Energy SVE 16
+
+Total Cards: 60

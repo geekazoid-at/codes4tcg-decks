@@ -1,0 +1,33 @@
+Pokémon: 12
+2 Espathra ex PAF 6
+2 Xatu PAF 26
+3 Cofagrigus ex PAR 76
+1 Jirachi PAR 126
+1 Flittle PAR 80
+1 Xatu PAR 72
+1 Mew ex MEW 151
+1 Cleffa OBF 80
+3 Yamask PAR 75
+1 Flittle SVI 100
+3 Natu PAR 71
+1 Radiant Alakazam SIT 59
+
+Trainer: 13
+1 Counter Catcher PAR 160
+1 Escape Rope BST 125
+2 Artazon PAF 76
+4 Professor's Research PAF 88
+4 Fog Crystal CRE 140
+2 Boss's Orders PAL 172
+1 Letter of Encouragement OBF 189
+1 Technical Machine: Devolution PAR 177
+3 Great Ball PAL 183
+2 Super Rod PAL 188
+3 Iono PAF 80
+4 Ultra Ball SVI 196
+2 Switch SVI 194
+
+Energy: 1
+10 Basic {P} Energy SVE 5
+
+Total Cards: 60

@@ -1,0 +1,30 @@
+Pokémon: 8
+4 Chewtle SCR 43
+4 Drednaw SCR 44
+3 Duskull SFA 18
+2 Rabsca TEF 24 PH
+1 Lapras ex SCR 32
+2 Rellor TEF 23
+2 Dusclops SFA 19
+2 Dusknoir SFA 20
+
+Trainer: 12
+1 Super Rod PAL 276
+4 Nest Ball PAF 84
+2 Judge SVI 176
+2 Night Stretcher SFA 61
+3 Professor's Research SVI 189
+2 Artazon PAL 171
+2 Boss's Orders PAL 172
+3 Iono PAL 185
+2 Colress's Tenacity SFA 57
+2 Buddy-Buddy Poffin TEF 144
+4 Ultra Ball SVI 196
+1 Neutralization Zone SFA 60
+
+Energy: 3
+1 Reversal Energy PAL 192
+7 Basic {W} Energy SVE 3
+4 Double Turbo Energy BRS 151
+
+Total Cards: 60

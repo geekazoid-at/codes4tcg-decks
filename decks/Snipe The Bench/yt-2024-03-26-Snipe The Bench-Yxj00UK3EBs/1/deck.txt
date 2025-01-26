@@ -1,0 +1,28 @@
+Pokémon: 6
+2 Origin Forme Dialga VSTAR ASR 114
+3 Origin Forme Dialga V ASR 113
+1 Mew ex MEW 151
+3 Beldum TEF 113
+3 Metang TEF 114
+1 Radiant Greninja ASR 46
+
+Trainer: 14
+1 Counter Catcher PAR 160
+2 Digging Duo CRZ 126 PH
+2 Super Rod PAL 276
+1 Prime Catcher TEF 157
+4 Nest Ball SVI 181
+2 Iono PAF 237
+2 Boss's Orders PAL 172
+4 Arven SVI 166
+2 Technical Machine: Evolution PAR 178
+1 Leafy Camo Poncho SIT 160
+2 Buddy-Buddy Poffin TEF 144
+2 Ciphermaniac's Codebreaking TEF 145
+1 Full Metal Lab TEF 148
+4 Ultra Ball SVI 196
+
+Energy: 1
+17 Basic {M} Energy SVE 8
+
+Total Cards: 60

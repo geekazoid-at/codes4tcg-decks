@@ -1,0 +1,29 @@
+Pokémon: 6
+3 Glimmora ex OBF 123
+4 Glimmet PAL 125
+1 Glimmora PAL 126
+3 Hoothoot TEF 126
+3 Noctowl SCR 115
+2 Cornerstone Mask Ogerpon ex TWM 112
+
+Trainer: 15
+3 Ultra Ball SVI 196
+2 Switch SVI 194
+2 Earthen Vessel PAR 163
+4 Buddy-Buddy Poffin TEF 144
+1 Deluxe Bomb SCR 134
+1 Hisuian Heavy Ball ASR 146
+1 Night Stretcher SFA 61
+1 Super Rod PAL 188
+2 Iono PAF 80
+2 Perilous Jungle TEF 156
+2 Gutsy Pickaxe ASR 145
+4 Nest Ball PAF 84
+2 Judge PAF 228
+2 Roseanne's Backup BRS 148
+4 Arven SVI 166
+
+Energy: 1
+11 Basic {F} Energy SVE 6
+
+Total Cards: 60

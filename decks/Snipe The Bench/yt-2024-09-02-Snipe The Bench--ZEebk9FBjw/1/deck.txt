@@ -1,0 +1,32 @@
+Pokémon: 8
+1 Bloodmoon Ursaluna ex TWM 141
+3 Espathra ex PAF 6
+1 Fezandipiti ex SFA 92
+4 Flittle PAR 80
+2 Xatu PAR 72
+1 Manaphy BRS 41
+2 Natu PAR 71
+1 Klefki SVI 96
+
+Trainer: 16
+1 Cyllene ASR 183
+2 Pokémon League Headquarters OBF 192
+3 Judge PAF 228
+1 Rigid Band MEW 165
+1 Super Rod PAL 276
+4 Nest Ball PAF 84
+2 Energy Retrieval SVI 171
+4 Ultra Ball PAF 91
+1 Pal Pad SVI 182
+1 Boss's Orders PAL 172
+1 Hyper Aroma TWM 152
+3 Iono PAL 185
+2 Arven SVI 166
+4 Buddy-Buddy Poffin TEF 144
+2 Switch SVI 194
+2 Earthen Vessel PAR 163
+
+Energy: 1
+11 Basic {P} Energy SVE 5
+
+Total Cards: 60

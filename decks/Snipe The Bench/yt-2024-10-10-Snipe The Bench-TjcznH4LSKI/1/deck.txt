@@ -1,0 +1,31 @@
+Pokémon: 8
+1 Fezandipiti ex SFA 92
+3 Tsareena ex PAR 46
+2 Munkidori TWM 95
+1 Rotom V LOR 177
+4 Froslass TWM 53
+2 Steenee PAR 9 PH
+4 Snorunt PAR 37 PH
+4 Bounsweet PAR 8 PH
+
+Trainer: 14
+4 Buddy-Buddy Poffin TWM 223
+2 Iono PAL 254
+1 Secret Box TWM 163
+1 Forest Seal Stone SIT 156
+2 Earthen Vessel SFA 96
+3 Irida ASR 147
+3 Nest Ball SVI 181
+2 Night Stretcher SFA 61 PH
+4 Arven PAF 235
+2 Panic Mask LOR 165 PH
+2 Area Zero Underdepths SCR 174
+1 Counter Catcher PAR 264
+2 Crispin SCR 133
+3 Rare Candy SVI 191
+
+Energy: 2
+5 Basic {G} Energy SVE 9
+2 Basic {D} Energy SFA 98
+
+Total Cards: 60

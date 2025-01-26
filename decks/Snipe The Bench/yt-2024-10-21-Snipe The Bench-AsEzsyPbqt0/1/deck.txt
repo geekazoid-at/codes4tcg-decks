@@ -1,0 +1,35 @@
+Pokémon: 11
+1 Lumineon V BRS 40
+1 Delphox V LOR 27
+1 Munkidori TWM 95
+1 Mew ex MEW 151
+1 Fezandipiti ex SFA 38
+3 Gouging Fire ex TEF 38
+1 Radiant Greninja ASR 46
+1 Flutter Mane TEF 78
+1 Entei V BRS 22
+1 Squawkabilly ex PAL 169
+1 Moltres PGO 12
+
+Trainer: 14
+4 Ultra Ball SVI 196
+1 Switch Cart ASR 154
+1 Judge SVI 176
+3 Earthen Vessel PAR 163
+3 Energy Switch SVI 173
+3 Trekking Shoes ASR 156
+1 Kieran TWM 154
+4 Professor Sada's Vitality PAR 170
+1 Forest Seal Stone SIT 156
+3 Nest Ball SVI 181
+1 Secret Box TWM 163
+2 Bravery Charm PAL 173
+3 Boss's Orders PAL 172
+4 Magma Basin BRS 144
+
+Energy: 3
+2 Basic {D} Energy SVE 15
+7 Basic {R} Energy SVE 10
+4 Jet Energy PAL 190
+
+Total Cards: 60

@@ -1,0 +1,31 @@
+Pokémon: 8
+2 Azumarill SSP 74 PH
+2 Marill TEF 64
+3 Greninja ex TWM 106
+2 Bibarel CRZ-GG 25
+1 Fezandipiti ex SFA 38
+2 Frogadier TWM 57
+2 Bidoof CRZ-GG 29
+4 Froakie OBF 56
+
+Trainer: 12
+4 Ultra Ball PAF 91
+1 Judge SVI 176
+2 Boss's Orders PAL 265
+4 Rare Candy SVI 191
+1 Earthen Vessel PAR 163
+4 Crispin SCR 133
+4 Buddy-Buddy Poffin TEF 144
+1 Counter Catcher PAR 160
+2 Jamming Tower TWM 153
+2 Iono PAL 185
+1 Prime Catcher TEF 157
+4 Nest Ball PAF 84
+
+Energy: 4
+5 Basic {W} Energy SVE 11
+3 Basic {P} Energy SVE 13
+2 Boomerang Energy TWM 166 PH
+2 Luminous Energy PAL 191
+
+Total Cards: 60

@@ -1,0 +1,30 @@
+Pokémon: 8
+2 Spidops ex SVI 19
+2 Bidoof CRZ-GG 29
+3 Eiscue ex OBF 222
+3 Frigibax PAL 57
+2 Tarountula PAL 17
+3 Baxcalibur PAL 60
+1 Bibarel SWSHALT 85
+1 Bibarel CRZ-GG 25
+
+Trainer: 14
+1 Counter Catcher PAR 160
+1 Superior Energy Retrieval PAL 277
+2 Energy Retrieval SVI 171
+4 Irida ASR 147
+2 Nest Ball SVI 181
+2 Calamitous Wasteland PAL 175
+4 Battle VIP Pass FST 225
+2 Bravery Charm PAL 173
+2 Boss's Orders PAL 172
+2 Iono PAL 185
+2 Arven SVI 166
+4 Ultra Ball SVI 196
+3 Rare Candy SVI 191
+2 Earthen Vessel PAR 163
+
+Energy: 1
+10 Basic {W} Energy SVE 3
+
+Total Cards: 60

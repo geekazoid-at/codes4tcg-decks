@@ -1,0 +1,33 @@
+Pokémon: 9
+2 Regieleki V SIT 57
+1 Iron Hands ex PAR 70
+1 Mew ex MEW 151
+2 Miraidon ex SVI 81
+1 Raichu V BRS 45
+2 Darkrai VSTAR ASR 99
+1 Darkrai V ASR 98
+2 Raikou V BRS 48
+2 Regieleki VMAX SIT 58
+
+Trainer: 16
+1 Hisuian Heavy Ball ASR 146
+1 Counter Catcher PAR 160
+2 Switch Cart ASR 154
+1 Lost Vacuum LOR 217
+2 Super Rod PAL 276
+3 Nest Ball PAF 84
+1 Maximum Belt TEF 154
+2 Iono PAF 237
+4 Arven OBF 186
+2 Bravery Charm PAL 173
+2 Boss's Orders PAL 265
+1 Beach Court SVI 167
+4 Electric Generator PAF 79
+2 Professor's Research SVI 240
+3 Ultra Ball SVI 196
+1 Professor Turo's Scenario PAR 171
+
+Energy: 1
+14 Basic {L} Energy SVE 4
+
+Total Cards: 60

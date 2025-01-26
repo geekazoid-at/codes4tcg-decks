@@ -1,0 +1,29 @@
+Pokémon: 8
+2 Tyranitar ex OBF 66
+2 Larvitar OBF 105
+3 Doduo MEW 84
+3 Garchomp ex PAR 38
+1 Radiant Greninja ASR 46
+1 Bloodmoon Ursaluna ex TWM 141
+3 Gible PAR 94
+3 Dodrio MEW 85
+
+Trainer: 13
+4 Ultra Ball SVI 196
+1 Switch SVI 194
+4 Rare Candy PAF 89
+4 Irida ASR 147
+2 Earthen Vessel PAR 163
+4 Buddy-Buddy Poffin TEF 144
+1 Super Rod PAL 276
+2 Iono PAL 185
+1 Night Stretcher SFA 61
+1 Prime Catcher TEF 157
+4 Nest Ball SVI 181
+2 Boss's Orders PAL 172 PH
+1 Artazon PAL 171
+
+Energy: 1
+11 Basic {F} Energy SVE 6
+
+Total Cards: 60

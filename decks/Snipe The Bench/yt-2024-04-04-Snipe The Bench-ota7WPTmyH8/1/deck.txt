@@ -1,0 +1,33 @@
+Pokémon: 6
+2 Bibarel CRZ-GG 25
+4 Scovillain ex TEF 22
+1 Manaphy BRS 41
+4 Capsakid SVI 28
+1 Skwovet SVI 151 PH
+2 Bidoof CRZ-GG 29
+
+Trainer: 19
+2 Switch SVI 194
+4 Ultra Ball PAF 91
+2 Boss's Orders PAL 265
+3 Arven OBF 186
+1 Earthen Vessel PAR 163
+4 Buddy-Buddy Poffin TEF 144
+1 Counter Catcher PAR 160
+1 Hisuian Heavy Ball ASR 146
+2 Iono PAF 237
+1 Super Rod PAL 276
+3 Eri TEF 146 PH
+1 Technical Machine: Devolution PAR 177
+1 Rigid Band MEW 165
+1 Pokégear 3.0 SVI 186
+1 Maximum Belt TEF 154
+2 Pokémon League Headquarters OBF 192
+2 Pal Pad SVI 182
+2 Nest Ball SVI 181
+2 Judge PAF 228
+
+Energy: 1
+10 Basic {G} Energy SVE 1
+
+Total Cards: 60

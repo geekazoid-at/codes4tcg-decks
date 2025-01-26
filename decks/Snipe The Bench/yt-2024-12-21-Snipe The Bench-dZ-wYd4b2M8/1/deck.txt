@@ -1,0 +1,31 @@
+Pokémon: 10
+1 Lucario PR-SW 186
+4 Gible PAR 94
+2 Lucario BRS 79
+1 Rotom V CRZ 45
+3 Riolu SVI 113
+2 Bibarel BRS 121
+1 Garchomp ex PAR 245
+1 Radiant Greninja ASR 46
+2 Garchomp ex PAR 38
+2 Bidoof CRZ 111
+
+Trainer: 12
+1 Counter Catcher PAR 160
+1 Forest Seal Stone SIT 156
+4 Irida ASR 147
+2 Night Stretcher SFA 61
+3 Nest Ball SVI 181
+2 Boss's Orders PAL 172
+3 Iono PAL 185
+4 Buddy-Buddy Poffin TEF 144
+4 Ultra Ball SVI 196
+1 Neutralization Zone SFA 60
+1 Switch SVI 194
+4 Rare Candy SVI 191
+
+Energy: 2
+10 Basic {F} Energy SVE 6
+1 Boomerang Energy TWM 166 PH
+
+Total Cards: 60

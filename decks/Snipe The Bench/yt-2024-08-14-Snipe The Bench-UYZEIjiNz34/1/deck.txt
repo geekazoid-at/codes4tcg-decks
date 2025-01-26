@@ -1,0 +1,30 @@
+Pokémon: 9
+1 Bloodmoon Ursaluna ex TWM 141
+1 Fezandipiti ex SFA 92
+1 Iron Bundle PAR 56
+2 Zapdos PGO 29
+2 Iron Hands ex PAR 70
+2 Squawkabilly ex PAF 75
+3 Miraidon ex SVI 81
+1 Raichu V BRS 45
+1 Raikou V BRS 48
+
+Trainer: 13
+3 Switch Cart ASR 154
+4 Nest Ball PAF 84
+1 Forest Seal Stone SIT 156
+2 Academy at Night SFA 54
+3 Ultra Ball PAF 91
+1 Prime Catcher TEF 157
+1 Rescue Board TEF 159
+4 Arven OBF 186
+1 Bravery Charm PAL 173
+3 Boss's Orders PAL 172
+4 Electric Generator PAF 79
+2 Super Rod PAL 188
+1 Lost Vacuum CRZ 135
+
+Energy: 1
+16 Basic {L} Energy SVE 4
+
+Total Cards: 60

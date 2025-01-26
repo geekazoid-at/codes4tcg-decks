@@ -1,0 +1,32 @@
+Pokémon: 6
+3 Arbok ex MEW 24
+1 Munkidori TWM 95
+4 Ekans MEW 23
+2 Froslass TWM 53
+2 Snorunt PAR 37
+1 Radiant Greninja ASR 46
+
+Trainer: 18
+1 Hisuian Heavy Ball ASR 146
+1 Enhanced Hammer TWM 148
+1 Unfair Stamp TWM 165
+2 PokéStop PGO 68
+2 Super Rod PAL 276
+1 Energy Retrieval SVI 171
+2 Irida ASR 147
+3 Ultra Ball PAF 91
+2 Pal Pad SVI 182
+3 Nest Ball SVI 181
+3 Professor's Research SVI 189
+1 Boss's Orders PAL 172
+3 Iono PAL 185
+1 Professor Turo's Scenario PAR 171 PH
+4 Dark Patch ASR 139
+3 Buddy-Buddy Poffin TEF 144
+2 Switch SVI 194
+1 Earthen Vessel PAR 163
+
+Energy: 1
+11 Basic {D} Energy SVE 7
+
+Total Cards: 60

@@ -1,0 +1,31 @@
+Pokémon: 9
+1 Regieleki V SIT 57
+1 Bloodmoon Ursaluna ex TWM 141
+1 Fezandipiti ex SFA 92
+1 Zapdos PGO 29
+2 Iron Hands ex PAR 70
+2 Squawkabilly ex PAF 75
+3 Miraidon ex SVI 81
+1 Raikou V BRS 48
+1 Regieleki VMAX SIT 58
+
+Trainer: 14
+2 Switch Cart ASR 154
+4 Nest Ball PAF 84
+2 Forest Seal Stone SIT 156
+4 Ultra Ball PAF 91
+1 Prime Catcher TEF 157
+1 Rescue Board TEF 159
+4 Arven OBF 186
+1 Bravery Charm PAL 173
+3 Boss's Orders PAL 172
+4 Electric Generator PAF 79
+1 Super Rod PAL 188
+2 Lost Vacuum CRZ 135
+1 Iono PAF 80
+1 Vitality Band SVI 197
+
+Energy: 1
+16 Basic {L} Energy SVE 4
+
+Total Cards: 60

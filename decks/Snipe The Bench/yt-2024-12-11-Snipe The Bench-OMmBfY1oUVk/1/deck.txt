@@ -1,0 +1,28 @@
+Pokémon: 6
+3 Brute Bonnet PAR 123
+2 Bibarel BRS 121
+3 Flygon ex SSP 106
+4 Trapinch SSP 104
+3 Pecharunt PR-SV 149
+2 Bidoof CRZ 111
+
+Trainer: 14
+1 Counter Catcher PAR 160
+2 Perilous Jungle TEF 156
+1 Prime Catcher TEF 157
+3 Night Stretcher SFA 61
+3 Nest Ball SVI 181
+4 Arven OBF 186
+1 Boss's Orders PAL 172
+1 Iono PAL 185
+4 Buddy-Buddy Poffin TEF 144
+4 Ultra Ball SVI 196
+4 Switch SVI 194
+4 Rare Candy SVI 191
+1 Earthen Vessel PAR 163
+3 Ancient Booster Energy Capsule PAR 159
+
+Energy: 1
+7 Basic {F} Energy SVE 14
+
+Total Cards: 60

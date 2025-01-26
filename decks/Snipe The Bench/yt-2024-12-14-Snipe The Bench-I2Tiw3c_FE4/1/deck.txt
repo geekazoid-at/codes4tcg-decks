@@ -1,0 +1,29 @@
+Pokémon: 7
+4 Geodude MEW 74
+2 Golem ex MEW 76
+4 Meditite TEF 82
+3 Graveler MEW 75
+1 Fezandipiti ex SFA 38
+2 Medicham ex SCR 80
+1 Cornerstone Mask Ogerpon ex TWM 112
+
+Trainer: 13
+1 Super Rod PAL 276
+3 Ultra Ball CRZ 146
+1 Energy Retrieval SVI 171
+1 Prime Catcher TEF 157
+4 Nest Ball SVI 181
+2 Professor's Research SVI 189
+4 Arven OBF 186
+3 Boss's Orders PAL 172
+2 Lake Acuity LOR 160
+3 Buddy-Buddy Poffin TEF 144
+4 Iono PAF 80
+2 Rock Chestplate SVI 192
+2 Earthen Vessel PAR 163
+
+Energy: 2
+4 Double Turbo Energy BRS 151
+7 Basic {F} Energy SVE 14
+
+Total Cards: 60

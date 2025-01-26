@@ -1,0 +1,43 @@
+Pokémon: 14
+1 Cleffa OBF 202
+1 Fezandipiti ex SFA 92
+1 Cofagrigus ex PAR 76
+2 Pawniard OBF 148 PH
+1 Munkidori TWM 95
+2 Kingambit OBF 150
+1 Uxie SSP 78 PH
+1 Bisharp CRZ 93
+1 Yamask SCR 62
+2 Uxie SSP 78
+1 Pawniard OBF 148
+1 Kingambit OBF 150 PH
+1 Manaphy BRS 41
+1 Radiant Alakazam SIT 59
+
+Trainer: 18
+1 Hisuian Heavy Ball ASR 146
+1 Counter Catcher PAR 160
+1 Luxurious Cape PAR 166
+1 Vengeful Punch OBF 197
+2 Switch SSH 183
+2 Artazon PAL 171 PH
+1 Pal Pad SVI 182 PH
+2 Boss's Orders PAL 172
+2 Night Stretcher SSP 251
+3 Iono PAL 185
+2 Lisia's Appeal SSP 179 PH
+3 Arven SVI 166
+1 Super Rod PAL 188
+1 Nest Ball PAF 84 PH
+2 Buddy-Buddy Poffin TEF 144
+2 Ultra Ball SVI 196
+3 Rare Candy SVI 191
+2 Earthen Vessel PAR 163
+
+Energy: 4
+1 Legacy Energy TWM 167
+2 Basic {D} Energy SVE 15
+4 Basic {P} Energy SVE 13
+4 Basic {M} Energy SVE 16
+
+Total Cards: 60

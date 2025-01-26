@@ -1,0 +1,37 @@
+Pokémon: 10
+4 Nacli PAL 121
+1 Garganacl PAL 123
+1 Naclstack PAL 122
+1 Bidoof CRZ-GG 29
+1 Rotom V LOR 58
+1 Garganacl PAR 104
+2 Garganacl ex SCR 89
+1 Cornerstone Mask Ogerpon ex TWM 112
+1 Radiant Tsareena SIT 16
+2 Bibarel CRZ-GG 25
+
+Trainer: 18
+1 Boss's Orders RCL 189
+1 Hisuian Heavy Ball ASR 146
+1 Counter Catcher PAR 160
+1 Poké Vital A SFA 62
+1 Super Rod PAL 276
+1 Forest Seal Stone SIT 156
+3 Ultra Ball PAF 91
+4 Nest Ball SVI 181
+4 Arven OBF 186
+3 Iono PAL 185
+1 Technical Machine: Devolution PAR 177
+1 Lost Vacuum CRZ 135
+4 Rare Candy PAF 89
+2 Lake Acuity LOR 160
+4 Buddy-Buddy Poffin TEF 144
+1 Switch SVI 194
+1 Rock Chestplate SVI 192
+1 Earthen Vessel PAR 163
+
+Energy: 2
+6 Basic {F} Energy SVE 6
+4 Double Turbo Energy BRS 151
+
+Total Cards: 60

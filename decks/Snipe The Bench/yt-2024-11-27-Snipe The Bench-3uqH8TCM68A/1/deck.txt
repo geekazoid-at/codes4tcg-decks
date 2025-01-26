@@ -1,0 +1,39 @@
+Pokémon: 9
+3 Hydreigon ex SSP 119
+1 Zweilous SSP 118
+4 Deino SSP 117
+1 Pecharunt ex SFA 39
+2 Pidgeot ex OBF 164
+1 Manaphy BRS 41
+1 Fezandipiti ex SFA 38
+1 Rotom V CRZ 45
+2 Pidgey MEW 16
+
+Trainer: 19
+4 Ultra Ball SVI 196
+4 Rare Candy PAF 89
+1 Xerosic's Machinations SFA 64
+2 Boss's Orders PAL 265
+4 Arven OBF 186
+1 Earthen Vessel PAR 163
+1 Eri TEF 146
+3 Crispin SCR 133
+4 Buddy-Buddy Poffin TEF 144
+1 Hisuian Heavy Ball ASR 146
+1 Night Stretcher SFA 61
+1 Super Rod PAL 188
+1 Miss Fortune Sisters LOR 164
+1 Town Store OBF 196
+1 Pal Pad SVI 182
+1 Forest Seal Stone SIT 156
+4 Nest Ball SVI 181
+1 Rescue Board TEF 159
+1 Binding Mochi SFA 55
+
+Energy: 4
+4 Basic {D} Energy SVE 15
+1 Basic {P} Energy SVE 13
+1 Basic {M} Energy SVE 16
+1 Neo Upper Energy TEF 162
+
+Total Cards: 60

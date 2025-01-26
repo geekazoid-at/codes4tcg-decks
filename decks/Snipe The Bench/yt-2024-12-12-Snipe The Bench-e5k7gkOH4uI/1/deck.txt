@@ -1,0 +1,31 @@
+Pokémon: 7
+1 Lumineon V BRS 40
+4 Bounsweet PAR 8
+1 Manaphy BRS 41
+1 Fezandipiti ex SFA 92
+3 Tsareena ex PAR 46
+1 Cleffa OBF 80
+2 Steenee PAR 9
+
+Trainer: 16
+3 Ultra Ball SVI 196
+4 Irida ASR 147
+1 Switch SVI 194
+3 Lively Stadium SSP 180
+4 Rare Candy SVI 191
+4 Arven OBF 186
+2 Earthen Vessel PAR 163
+4 Buddy-Buddy Poffin TEF 144
+1 Super Rod PAL 276
+1 Amulet of Hope SSP 162
+3 Iono PAF 80
+1 Forest Seal Stone SIT 156
+3 Nest Ball SVI 181
+3 Gravity Mountain SSP 177
+1 Boss's Orders PAL 172
+1 Panic Mask LOR 165 PH
+
+Energy: 1
+8 Basic {G} Energy SVE 1
+
+Total Cards: 60

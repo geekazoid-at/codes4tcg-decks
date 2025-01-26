@@ -1,0 +1,29 @@
+Pokémon: 6
+3 Froslass TWM 53
+1 Cleffa OBF 80
+3 Vespiquen ex OBF 212
+3 Combee OBF 8
+3 Snorunt PAR 37
+1 Manaphy BRS 41
+
+Trainer: 15
+3 Bug Catching Set TWM 143
+1 Unfair Stamp TWM 165
+1 Eri TEF 146 PH
+4 Gardenia's Vigor ASR 143
+1 Super Rod PAL 276
+2 Irida ASR 147
+2 Nest Ball SVI 181
+1 Temple of Sinnoh ASR 155
+3 Arven OBF 186
+1 Boss's Orders PAL 172
+1 Technical Machine: Devolution PAR 177
+4 Buddy-Buddy Poffin TEF 144
+4 Iono PAF 80
+4 Ultra Ball SVI 196
+1 Switch SVI 194
+
+Energy: 1
+13 Basic {G} Energy SVE 1
+
+Total Cards: 60

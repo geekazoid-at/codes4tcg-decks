@@ -1,0 +1,33 @@
+Pokémon: 8
+2 Jolteon ex PRE 30
+1 Fezandipiti ex SFA 38
+4 Eevee SSP 143
+3 Hoothoot SCR 114
+3 Noctowl SCR 115
+2 Fan Rotom SCR 118
+2 Vaporeon ex PRE 23
+1 Eevee ex PRE 75
+
+Trainer: 15
+4 Ultra Ball SVI 196
+1 Sparkling Crystal PRE 129
+1 Switch SVI 194
+2 Tera Orb SSP 189
+4 Buddy-Buddy Poffin TEF 144
+2 Area Zero Underdepths SCR 174
+1 Rigid Band MEW 165
+2 Super Rod PAL 276
+1 Counter Catcher PAR 160
+1 Boss's Orders PAL 172
+2 Nest Ball SVI 181
+4 Crispin SCR 133
+1 Earthen Vessel PRE 106
+2 Iono PAF 80
+2 Arven OBF 186
+
+Energy: 3
+4 Basic {L} Energy SVE 12
+4 Basic {W} Energy SVE 11
+4 Basic {R} Energy SVE 10
+
+Total Cards: 60

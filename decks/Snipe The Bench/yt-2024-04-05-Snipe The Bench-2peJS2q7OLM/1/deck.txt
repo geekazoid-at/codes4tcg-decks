@@ -1,0 +1,33 @@
+Pokémon: 8
+2 Farigiraf ex TEF 108
+2 Girafarig PAL 154
+2 Bibarel BRS 121
+3 Darkrai V ASR 98
+1 Radiant Greninja ASR 46
+2 Bidoof CRZ 111
+1 Squawkabilly ex PAL 169
+2 Darkrai VSTAR ASR 99
+
+Trainer: 16
+1 Counter Catcher PAR 160
+2 Rigid Band MEW 165
+1 Super Rod PAL 276
+1 Energy Retrieval SVI 171
+1 Hero's Cape TEF 152
+1 Pal Pad SVI 182
+4 Nest Ball SVI 181
+1 Professor's Research SVI 189
+3 Iono PAF 237
+2 Boss's Orders PAL 172
+2 Arven SVI 166
+2 Great Ball PAL 183
+4 Dark Patch LOR 216
+4 Ultra Ball SVI 196
+1 Switch SVI 194
+1 Earthen Vessel PAR 163
+
+Energy: 2
+12 Basic {D} Energy SVE 7
+2 Basic {P} Energy SVE 5
+
+Total Cards: 60

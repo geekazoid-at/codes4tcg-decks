@@ -1,0 +1,32 @@
+Pokémon: 6
+4 Espathra ex PAF 6
+1 Fezandipiti ex SFA 92
+4 Flittle PAR 80
+4 Xatu PAR 72
+1 Manaphy BRS 41
+4 Natu PAR 71
+
+Trainer: 18
+1 Team Star Grunt OBF 195
+2 Judge PAF 228
+1 Rigid Band MEW 165
+1 Super Rod PAL 276
+3 Nest Ball PAF 84
+1 Energy Retrieval SVI 171
+3 Ultra Ball PAF 91
+1 Night Stretcher SFA 61
+1 Professor's Research PAF 88
+1 Pal Pad SVI 182
+1 Boss's Orders PAL 172
+1 Hyper Aroma TWM 152
+1 Iono PAL 185
+3 Arven SVI 166
+2 Area Zero Underdepths SCR 131
+4 Buddy-Buddy Poffin TEF 144
+2 Switch SVI 194
+2 Earthen Vessel PAR 163
+
+Energy: 1
+11 Basic {P} Energy SVE 5
+
+Total Cards: 60

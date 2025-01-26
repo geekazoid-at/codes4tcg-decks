@@ -1,0 +1,33 @@
+Pokémon: 10
+4 Turtwig TEF 10
+3 Torterra ex TEF 12
+2 Grotle BRS 7
+3 Dunsparce TEF 128
+3 Dudunsparce TEF 129
+2 Rellor TEF 23
+2 Rabsca TEF 24
+2 Grotle BRS 7 PH
+1 Hisuian Lilligant V ASR 17
+1 Hisuian Lilligant VSTAR ASR 18
+
+Trainer: 15
+1 Counter Catcher PAR 160
+2 Artazon PAF 76
+3 Gardenia's Vigor ASR 143
+4 Nest Ball PAF 84
+2 Heavy Baton TEF 151
+1 Maximum Belt TEF 154
+1 Pal Pad SVI 182
+4 Arven OBF 186
+1 Boss's Orders PAL 172
+2 Technical Machine: Evolution PAR 178
+1 Super Rod PAL 188
+3 Buddy-Buddy Poffin TEF 144
+2 Iono PAF 80
+1 Switch SVI 194
+1 Earthen Vessel PAR 163
+
+Energy: 1
+8 Basic {G} Energy SVE 1
+
+Total Cards: 60

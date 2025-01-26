@@ -1,0 +1,25 @@
+Pokémon: 6
+3 Hydrapple ex SCR 14
+4 Teal Mask Ogerpon ex TWM 211
+1 Dipplin TWM 18
+1 Fezandipiti ex SFA 38
+4 Applin TWM 17
+1 Mew ex MEW 151
+
+Trainer: 11
+4 Ultra Ball SVI 196
+4 Rare Candy SVI 191
+4 Arven OBF 186
+2 Buddy-Buddy Poffin TEF 144
+2 Super Rod PAL 188
+4 Nest Ball SVI 181
+3 Area Zero Underdepths SCR 174
+1 Unfair Stamp TWM 165
+2 Boss's Orders PAL 172
+4 Bug Catching Set TWM 143
+3 Exp. Share SVI 174
+
+Energy: 1
+13 Basic {G} Energy SVE 1
+
+Total Cards: 60

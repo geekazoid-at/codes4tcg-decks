@@ -1,0 +1,28 @@
+Pokémon: 6
+3 Azelf SSP 80
+2 Cofagrigus SSP 83
+4 Uxie SSP 78
+2 Yamask PAR 75
+1 Manaphy BRS 41
+1 Radiant Alakazam SIT 59
+
+Trainer: 14
+2 Exp. Share SVI 174
+1 Earthen Vessel PAR 163
+4 Buddy-Buddy Poffin TEF 144
+4 Counter Catcher PAR 160
+1 Artazon PAF 76
+2 Technical Machine: Devolution PAR 177
+2 Night Stretcher SFA 61
+2 Judge SIT-TG 25
+3 Iono PAF 80
+4 Nest Ball SVI 181
+4 Professor's Research SVI 189
+1 Neutralization Zone SFA 60
+2 Switch MEW 206
+4 Arven SVI 166
+
+Energy: 1
+11 Basic {P} Energy SVE 5
+
+Total Cards: 60

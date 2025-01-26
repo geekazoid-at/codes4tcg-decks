@@ -1,0 +1,33 @@
+Pokémon: 9
+2 Bidoof CRZ-GG 29
+1 Radiant Hisuian Sneasler LOR 123
+1 Fezandipiti ex SFA 38
+2 Budew PRE 4 PH
+4 Croagunk SVI 130
+2 Toxicroak ex SVI 131
+1 Toxicroak ex SVI 232
+1 Pecharunt ex SFA 39
+2 Bibarel CRZ-GG 25
+
+Trainer: 16
+1 Counter Catcher PAR 160
+1 Super Rod PAL 276
+2 Perilous Jungle TEF 156
+2 Nest Ball SVI 181
+2 Iono PAF 237
+2 Boss's Orders PAL 172
+1 Hyper Aroma TWM 152
+2 Janine's Secret Art SFA 59 PH
+4 Dark Patch LOR 216
+4 Arven OBF 186 PH
+1 Lost Vacuum LOR 162
+4 Buddy-Buddy Poffin TEF 144
+4 Ultra Ball SVI 196
+1 Switch SVI 194
+1 Earthen Vessel PAR 163
+2 Binding Mochi SFA 55
+
+Energy: 1
+10 Basic {D} Energy SVE 7
+
+Total Cards: 60

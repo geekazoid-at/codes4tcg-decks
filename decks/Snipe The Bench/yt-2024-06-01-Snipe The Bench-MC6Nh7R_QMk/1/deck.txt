@@ -1,0 +1,28 @@
+Pokémon: 7
+4 Doduo MEW 84
+4 Dodrio MEW 85 PH
+3 Froslass TWM 53
+3 Dunsparce PAL 156
+3 Snorunt PAR 37
+3 Dudunsparce TEF 129
+
+Trainer: 13
+4 Buddy-Buddy Poffin TEF 144
+1 Hisuian Heavy Ball ASR 146
+3 Super Rod PAL 276
+4 Nest Ball SVI 181
+1 Hyper Aroma TWM 152
+1 Counter Catcher PAR 160
+2 Boss's Orders PAL 172
+2 Iono PAL 185
+2 Jamming Tower TWM 153
+4 Irida ASR 147
+4 Ultra Ball SVI 196
+2 Switch SVI 194
+2 Arven SVI 166
+
+Energy: 2
+4 Jet Energy PAL 190
+4 Gift Energy LOR 171
+
+Total Cards: 60

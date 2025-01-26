@@ -1,0 +1,39 @@
+Pokémon: 10
+1 Shellos SSP 46
+1 Toedscool PAR 16
+4 Drakloak TWM 129
+4 Dreepy TWM 128
+1 Fezandipiti ex SFA 38
+1 Gastrodon SSP 107
+1 Toedscruel PAR 17
+1 Genesect SFA 40
+2 Dragapult ex TWM 130
+1 Radiant Alakazam SIT 59
+
+Trainer: 21
+1 Hisuian Heavy Ball ASR 146
+1 Counter Catcher PAR 160
+1 Precious Trolley SSP 185
+4 Pokégear 3.0 SVI 186
+2 Night Stretcher SFA 61
+1 Rescue Board TEF 159
+1 Nest Ball SVI 181
+1 Temple of Sinnoh ASR 155
+4 Arven OBF 186
+2 Bravery Charm PAL 173
+2 Boss's Orders PAL 172
+2 Iono PAL 185
+2 Professor Turo's Scenario PAR 171
+2 Technical Machine: Evolution PAR 178
+1 Lost Vacuum LOR 162
+3 Crispin SCR 133
+1 Buddy-Buddy Poffin TEF 144
+2 Ultra Ball SVI 196
+1 Switch SVI 194
+2 Earthen Vessel PAR 163
+
+Energy: 2
+3 Basic {R} Energy SVE 10
+4 Basic {P} Energy SVE 13
+
+Total Cards: 60

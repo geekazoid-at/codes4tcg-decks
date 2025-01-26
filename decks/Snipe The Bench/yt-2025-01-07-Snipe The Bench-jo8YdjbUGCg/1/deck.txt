@@ -1,0 +1,33 @@
+Pokémon: 8
+2 Chandelure LOR 26
+2 Lampent OBF 37
+4 Shuppet SVI 87
+1 Mew ex MEW 151
+1 Fezandipiti ex SFA 92
+2 Litwick TWM 36
+1 Radiant Alakazam SIT 59
+3 Banette ex SVI 88
+
+Trainer: 17
+4 Salvatore TEF 160
+2 Switch SVI 194
+2 Xerosic's Machinations SFA 64
+1 Rare Candy SVI 191
+2 Earthen Vessel PAR 163
+4 Buddy-Buddy Poffin TEF 144
+1 Counter Catcher PAR 160
+1 Super Rod PAL 276
+1 Professor Turo's Scenario PAR 171
+4 Ultra Ball SVI 196 PH
+1 Rigid Band MEW 165
+4 Pokégear 3.0 SVI 186
+2 Nest Ball SVI 181
+1 Scoop Up Cyclone TWM 162
+2 Meddling Memo SSP 181
+3 Arven SVI 166
+1 Boss's Orders PAL 172
+
+Energy: 1
+8 Basic {P} Energy SVE 13
+
+Total Cards: 60

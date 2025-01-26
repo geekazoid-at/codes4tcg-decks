@@ -1,0 +1,35 @@
+Pokémon: 8
+2 Xatu PAR 72
+1 Drifloon SVI 89
+1 Radiant Heatran ASR 27
+2 Xatu PAF 26
+1 Manaphy BRS 41
+1 Fezandipiti ex SFA 92
+4 Natu PAR 71
+1 Tatsugiri TWM 131 PH
+
+Trainer: 18
+2 Earthen Vessel PAR 163
+4 Buddy-Buddy Poffin TEF 144
+2 Hisuian Heavy Ball ASR 146
+1 Iono PAL 185
+1 Night Stretcher SFA 61
+3 Superior Energy Retrieval PAL 189
+2 Super Rod PAL 188
+2 Technical Machine: Evolution PAR 178
+1 Counter Catcher PAR 160 PH
+2 Pokégear 3.0 SVI 186
+1 Rescue Board TEF 159
+1 Secret Box TWM 163
+4 Nest Ball PAF 84
+4 Calamitous Snowy Mountain PAL 174
+2 Night Stretcher SFA 61 PH
+1 Roseanne's Backup BRS 148
+1 Boss's Orders PAL 172
+4 Arven SVI 166
+
+Energy: 2
+6 Basic {P} Energy SVE 5
+3 Basic {R} Energy SVE 2 PH
+
+Total Cards: 60

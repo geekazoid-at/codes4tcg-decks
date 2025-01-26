@@ -1,0 +1,31 @@
+Pokémon: 10
+2 Pidgey MEW 16
+1 Bidoof CRZ-GG 29
+1 Rotom V CRZ 45
+3 Magnezone ex SVI 65
+2 Magneton OBF 64
+4 Magnemite SVI 63
+1 Rellor TEF 23
+2 Pidgeot ex OBF 164
+1 Rabsca TEF 24
+1 Bibarel CRZ-GG 25
+
+Trainer: 13
+1 Hisuian Heavy Ball ASR 146
+2 Roseanne's Backup BRS 148
+2 Judge PAF 228
+1 Scoop Up Cyclone TWM 162
+4 Nest Ball PAF 84
+1 Forest Seal Stone SIT 156
+4 Ultra Ball PAF 91
+3 Iono PAF 237
+2 Boss's Orders PAL 172
+3 Handheld Fan TWM 150
+4 Arven SVI 166
+4 Buddy-Buddy Poffin TEF 144
+4 Rare Candy SVI 191
+
+Energy: 1
+7 Basic {L} Energy SVE 4
+
+Total Cards: 60
