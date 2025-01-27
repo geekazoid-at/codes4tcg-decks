@@ -30,15 +30,15 @@ const sitemap = `<?xml version='1.0' encoding='UTF-8'?>
     <loc>https://gemfish.codes4tcg.live</loc>
     <lastmod>${formatDate(new Date())}</lastmod>
     <changefreq>never</changefreq>
-    <priority>0.7</priority>
+    <priority>0.9</priority>
   </url>
-${foundDecks
+${creatorDirs
   .map(
-    (deck) => `
+    (cd) => `
   <url>
-    <loc>https://gemfish.codes4tcg.live/deck?author=${deck.creator}&amp;id=${
-      deck.deck.name
-    }</loc>
+    <loc>https://gemfish.codes4tcg.live/list?creator=${encodeURIComponent(
+      cd
+    )}</loc>
     <lastmod>${formatDate(new Date())}</lastmod>
     <changefreq>never</changefreq>
     <priority>0.7</priority>
