@@ -1,0 +1,38 @@
+Pokémon: 8
+2 Bibarel PR-SW 188
+2 Terapagos ex PRE 92
+3 Lugia ex PRE 82
+1 Bouffalant LOR 148
+1 Budew PRE 4
+2 Bouffalant SCR 119
+1 Radiant Greninja ASR 46
+2 Bidoof CRZ 111
+
+Trainer: 19
+1 Counter Catcher PAR 160
+1 Pokémon League Headquarters OBF 192
+1 Precious Trolley SSP 185
+1 Enhanced Hammer TWM 148
+4 Glass Trumpet PRE 110
+1 Counter Gain SSP 169
+2 Nest Ball SVI 181
+4 Arven OBF 186
+1 Bravery Charm PAL 173
+2 Boss's Orders PAL 172
+2 Area Zero Underdepths PRE 94
+1 Super Rod PAL 188
+4 Crushing Hammer SVI 168
+1 Defiance Band SVI 169
+2 Earthen Vessel PRE 106
+2 Iono PAF 80
+2 Ultra Ball SVI 196
+2 Professor's Research PRE 122
+2 Switch SVI 194
+
+Energy: 4
+2 Basic {L} Energy SVE 12
+2 Basic {G} Energy SVE 9
+2 Basic {W} Energy SVE 11
+4 Double Turbo Energy BRS 151
+
+Total Cards: 60
