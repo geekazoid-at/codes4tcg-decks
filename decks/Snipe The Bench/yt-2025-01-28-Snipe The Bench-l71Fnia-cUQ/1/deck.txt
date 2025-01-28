@@ -1,0 +1,34 @@
+Pokémon: 7
+4 Flittle SVI 100 PH
+3 Espathra ex PAF 6
+1 Fezandipiti ex SFA 38
+2 Budew PRE 4 PH
+1 Toedscool OBF 118
+1 Toedscruel PAR 17
+1 Manaphy BRS 41
+
+Trainer: 18
+1 Hisuian Heavy Ball ASR 146
+1 Counter Catcher PAR 160
+1 Scramble Switch SSP 186
+2 Rigid Band MEW 165
+1 Super Rod PAL 276
+2 Nest Ball PAF 84
+1 Judge SVI 176
+3 Pokégear 3.0 SVI 186
+1 Night Stretcher SFA 61
+4 Arven OBF 186
+2 Boss's Orders PAL 172
+2 Iono PAL 185
+1 Technical Machine: Devolution PAR 177
+2 Lost Vacuum LOR 162
+4 Crispin SCR 133
+4 Buddy-Buddy Poffin TEF 144
+4 Ultra Ball SVI 196
+1 Switch SVI 194
+
+Energy: 2
+4 Basic {L} Energy SVE 12
+6 Basic {P} Energy SVE 13
+
+Total Cards: 60
