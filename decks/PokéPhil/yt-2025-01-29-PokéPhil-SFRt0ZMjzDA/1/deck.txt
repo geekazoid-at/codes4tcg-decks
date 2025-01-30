@@ -1,0 +1,29 @@
+Pokémon: 6
+3 Bibarel BRS 121
+3 Finneon LOR 40
+1 Manaphy BRS 41
+4 Seel LOR 33
+4 Dewgong LOR 34
+3 Bidoof CRZ 111
+
+Trainer: 15
+1 Counter Catcher PAR 160
+1 Drasna SSP 173
+2 Energy Search SVI 172
+1 Artazon PAF 76 PH
+1 Arezu LOR 153
+4 Irida ASR 147
+1 Hyper Aroma TWM 152
+1 Letter of Encouragement OBF 189
+1 Iono PAL 185
+3 Super Rod PAL 188
+1 Cynthia's Ambition BRS 138
+4 Buddy-Buddy Poffin TEF 144
+4 Ultra Ball SVI 196
+1 Switch SVI 194
+2 Earthen Vessel PAR 163
+
+Energy: 1
+14 Basic {W} Energy SVE 3
+
+Total Cards: 60

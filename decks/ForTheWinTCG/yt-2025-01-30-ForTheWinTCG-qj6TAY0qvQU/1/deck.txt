@@ -1,0 +1,29 @@
+Pokémon: 6
+3 Feraligatr TEF 41
+3 Croconaw TEF 40
+4 Totodile TEF 39
+3 Munkidori PRE 44
+2 Relicanth TEF 84
+2 Mimikyu PAL 97
+
+Trainer: 13
+4 Pokégear 3.0 SVI 186
+4 Counter Catcher PAR 160
+2 Buddy-Buddy Poffin PRE 101
+1 Earthen Vessel PAR 163
+1 Night Stretcher SFA 61
+3 Luxurious Cape PAR 166
+4 Iono PAF 80
+4 Arven SVI 166
+3 Colress's Tenacity SFA 57
+3 Lana's Aid TWM 155
+2 Professor's Research PRE 122
+2 Artazon PAL 171
+1 Grand Tree SCR 136
+
+Energy: 3
+5 Basic {W} Energy SVE 11
+3 Basic {D} Energy SVE 15
+1 Luminous Energy PAL 191
+
+Total Cards: 60

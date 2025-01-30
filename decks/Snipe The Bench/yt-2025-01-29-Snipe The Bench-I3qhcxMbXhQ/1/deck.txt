@@ -1,0 +1,37 @@
+Pokémon: 9
+1 Latias ex SSP 76
+2 Terapagos ex SCR 128
+2 Lugia ex PRE 82
+1 Fezandipiti ex SFA 38
+1 Regigigas PRE 86
+2 Snorlax ex PRE 76
+3 Bouffalant SCR 119
+1 Radiant Greninja ASR 46
+1 Squawkabilly ex PAL 169
+
+Trainer: 17
+1 Hisuian Heavy Ball ASR 146
+1 Counter Catcher PAR 160
+1 Scoop Up Cyclone TWM 162
+2 Ultra Ball PAF 91
+1 Night Stretcher SFA 61
+1 Penny SVI 183
+4 Nest Ball SVI 181
+3 Arven OBF 186
+2 Bravery Charm PAL 173
+1 Boss's Orders PAL 265
+2 Iono PAL 185
+1 Super Rod PAL 188
+4 Area Zero Underdepths SCR 131
+2 Crispin SCR 133
+4 Glass Trumpet SCR 135
+1 Switch SVI 194
+2 Earthen Vessel PAR 163
+
+Energy: 4
+3 Basic {L} Energy SVE 12
+3 Basic {G} Energy SVE 9
+3 Basic {W} Energy SVE 11
+4 Double Turbo Energy BRS 151
+
+Total Cards: 60

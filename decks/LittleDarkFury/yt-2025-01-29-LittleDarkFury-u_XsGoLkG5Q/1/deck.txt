@@ -1,0 +1,31 @@
+Pokémon: 10
+3 Grotle BRS 7
+1 Rabsca TEF 24
+1 Silcoon LOR 7
+2 Teal Mask Ogerpon ex TWM 25
+3 Torterra ex TEF 12
+2 Wurmple LOR 6
+4 Turtwig TEF 10
+1 Rellor TEF 23
+2 Budew PRE 4
+2 Beautifly LOR 8
+
+Trainer: 13
+4 Bug Catching Set PRE 102
+3 Ultra Ball SVI 196
+3 Rare Candy PAF 89
+1 Switch SVI 194
+4 Arven OBF 186
+4 Iono PAL 185
+1 Professor Turo's Scenario PAR 171
+1 Night Stretcher SFA 61
+3 Area Zero Underdepths PRE 94
+1 Maximum Belt TEF 154
+4 Nest Ball SVI 181
+1 Super Rod PAL 188 PH
+2 Boss's Orders PAL 172
+
+Energy: 1
+7 Basic {G} Energy GRI 167
+
+Total Cards: 60

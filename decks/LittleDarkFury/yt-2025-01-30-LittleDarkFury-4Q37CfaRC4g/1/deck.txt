@@ -1,0 +1,33 @@
+Pokémon: 6
+3 Munkidori TWM 95
+4 Chansey MEW 113
+1 Umbreon ex PRE 60
+2 Eevee MEW 133
+2 Espeon ex PRE 34
+4 Blissey ex TWM 134
+
+Trainer: 16
+2 Boss's Orders PAL 172
+2 Professor's Research SVI 190
+1 Precious Trolley SSP 185
+1 Rigid Band MEW 165
+1 Artazon PAL 171
+2 Cheren's Care BRS 134
+2 Glass Trumpet PRE 110
+2 Nest Ball SVI 181
+1 Earthen Vessel PAR 163
+1 Switch SVI 194
+3 Ultra Ball SVI 196
+3 Pokégear 3.0 USVI 186
+2 Night Stretcher SFA 61
+4 Iono PAL 185
+1 Technical Machine: Turbo Energize PAR 179
+4 Arven SVI 166
+
+Energy: 4
+4 Basic {D} Energy BUS 168
+2 Basic {G} Energy GRI 167
+4 Double Turbo Energy BRS 151
+2 Basic {P} Energy SUM 162
+
+Total Cards: 60
