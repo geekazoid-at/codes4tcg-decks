@@ -1,0 +1,30 @@
+Pokémon: 6
+3 Ceruledge ex SSP 36
+3 Charcadet SSP 32
+2 Lumineon V BRS 40
+1 Fezandipiti ex SFA 38
+1 Squawkabilly ex PAF 75
+1 Radiant Greninja ASR 46
+
+Trainer: 15
+1 Hisuian Heavy Ball ASR 146
+4 Carmine TWM 145
+2 PokéStop PGO 68
+3 Nest Ball PAF 84
+2 Forest Seal Stone SIT 156
+1 Brilliant Blender SSP 164
+3 Night Stretcher SFA 61
+2 Rescue Board TEF 159
+1 Pal Pad SVI 182
+3 Boss's Orders PAL 172
+1 Iono PAL 185
+1 Briar PRE 100
+2 Salvatore TEF 160
+3 Ultra Ball SVI 196
+2 Earthen Vessel PAR 163
+
+Energy: 2
+15 Basic {R} Energy SVE 10
+3 Jet Energy PAL 190
+
+Total Cards: 60

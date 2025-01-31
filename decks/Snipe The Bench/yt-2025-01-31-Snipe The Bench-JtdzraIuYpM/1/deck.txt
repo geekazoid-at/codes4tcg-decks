@@ -1,0 +1,33 @@
+Pokémon: 7
+2 Bidoof CRZ-GG 29
+1 Fezandipiti ex SFA 92
+2 Revavroom ex OBF 156
+1 Revavroom ex OBF 216
+4 Varoom SVI 140
+1 Radiant Greninja ASR 46
+2 Bibarel CRZ-GG 25
+
+Trainer: 17
+1 Counter Catcher PAR 160
+2 Rigid Band MEW 165
+2 Super Rod PAL 276
+1 Night Stretcher SFA 61
+1 Treasure Tracker PRE 131
+2 Nest Ball SVI 181
+2 Rigid Band MEW 165 PH
+2 Iono PAF 237
+1 Boss's Orders PAL 172
+2 Handheld Fan TWM 150
+4 Arven SVI 166
+4 Crispin SCR 133
+4 Buddy-Buddy Poffin TEF 144
+2 Full Metal Lab TEF 148
+2 Ultra Ball SVI 196
+2 Rocky Helmet SVI 193
+1 Earthen Vessel PAR 163
+
+Energy: 2
+4 Basic {R} Energy SVE 10
+8 Basic {M} Energy SVE 8
+
+Total Cards: 60
