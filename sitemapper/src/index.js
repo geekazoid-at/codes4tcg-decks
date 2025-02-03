@@ -34,7 +34,7 @@ ${creatorDirs
   .map(
     (cd) => `
   <url>
-    <loc>https://gemfish.codes4tcg.live/list?creator=${encodeURIComponent(
+    <loc>https://gemfish.codes4tcg.live/list?author=${encodeURIComponent(
       cd
     )}</loc>
     <lastmod>${formatDate(new Date())}</lastmod>
