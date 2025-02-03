@@ -1,0 +1,30 @@
+Pokémon: 7
+1 Banette LOR 73
+1 Fezandipiti ex SFA 92
+4 Archaludon ex SSP 130
+1 Shuppet SVI 87
+4 Duraludon SCR 106 PH
+1 Relicanth TEF 84
+2 Squawkabilly ex PAL 169
+
+Trainer: 15
+1 Hisuian Heavy Ball ASR 146
+4 Carmine TWM 145
+1 Scoop Up Cyclone TWM 162
+3 Ultra Ball PAF 91
+4 Pokégear 3.0 SVI 186
+3 Pokémon Catcher SVI 187
+4 Night Stretcher SFA 61
+1 Pal Pad SVI 182
+4 Nest Ball SVI 181
+3 Boss's Orders PAL 172
+1 Black Belt's Training PRE 96
+3 Jamming Tower TWM 153
+1 Professor Turo's Scenario PAR 171
+1 Iono PAF 80
+3 Earthen Vessel PAR 163
+
+Energy: 1
+9 Basic {M} Energy SVE 8
+
+Total Cards: 60
