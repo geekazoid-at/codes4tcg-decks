@@ -18,7 +18,7 @@ Trainer: 16
 1 Earthen Vessel PAR 163
 1 Switch SVI 194
 3 Ultra Ball SVI 196
-3 Pokégear 3.0 USVI 186
+3 Pokégear 3.0 SVI 186
 2 Night Stretcher SFA 61
 4 Iono PAL 185
 1 Technical Machine: Turbo Energize PAR 179
