@@ -1,0 +1,32 @@
+Pokémon: 6
+4 Venonat MEW 48
+4 Snorunt SIT 41
+4 Froslass TWM 53
+4 Venomoth MEW 49
+2 Budew PRE 4
+1 Munkidori PRE 44
+
+Trainer: 16
+1 Rescue Board TEF 159
+1 Lana's Aid TWM 155
+2 Professor's Research PRE 122
+1 Super Rod PAL 188
+2 Artazon PAL 171
+2 Earthen Vessel PAR 163
+2 Arven OBF 186
+2 Ultra Ball PAF 91
+2 Night Stretcher SFA 61
+4 Iono PAF 80
+2 Counter Catcher PAR 160
+2 Colress's Tenacity SFA 57
+2 Arezu LOR 153
+3 Irida ASR 147
+1 Neutralization Zone SFA 60
+4 Buddy-Buddy Poffin TEF 144
+
+Energy: 3
+1 Basic {D} Energy BUS 168
+6 Basic {G} Energy GRI 167
+1 Luminous Energy PAL 191
+
+Total Cards: 60

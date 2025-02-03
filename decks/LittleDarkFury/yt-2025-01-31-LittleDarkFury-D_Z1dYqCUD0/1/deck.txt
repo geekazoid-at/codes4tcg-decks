@@ -1,0 +1,29 @@
+Pokémon: 9
+1 Munkidori TWM 95
+1 Zamazenta CRZ 97
+2 Beldum TEF 113
+3 Metang TEF 114
+3 Tyranitar ex PRE 64
+2 Beldum SIT 117
+1 Radiant Greninja ASR 46
+2 Pupitar PGO 38
+4 Larvitar OBF 105
+
+Trainer: 11
+2 Professor's Research PRE 122
+4 Super Rod PAL 188
+1 Precious Trolley SSP 185
+1 Artazon PAF 76
+2 Rare Candy PAF 89
+2 Boss's Orders PAL 172
+3 Ultra Ball PAF 91
+3 Iono PAL 185
+4 Arven OBF 186
+2 Technical Machine: Evolution PAR 178
+1 Buddy-Buddy Poffin PRE 101
+
+Energy: 2
+2 Basic {D} Energy BUS 168
+14 Basic {M} Energy SUM 163
+
+Total Cards: 60

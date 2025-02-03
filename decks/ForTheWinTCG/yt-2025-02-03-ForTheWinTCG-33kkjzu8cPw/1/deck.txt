@@ -1,0 +1,35 @@
+Pokémon: 7
+2 Seaking PRE 21 PH
+4 Thwackey TWM 15
+2 Seaking PRE 21 PH
+2 Skeledirge ex PAR 137
+2 Fuecoco PAL 35
+4 Grookey TWM 14
+4 Goldeen TWM 44
+
+Trainer: 19
+1 Counter Catcher PAR 160
+2 Kieran TWM 154
+4 Festival Grounds TWM 149
+1 Lana's Aid TWM 155
+1 Colress's Tenacity SFA 57
+1 Mela PAR 167
+2 Rare Candy SVI 191
+1 Precious Trolley SSP 185
+1 Energy Retrieval SVI 171
+4 Arven OBF 186
+1 Boss's Orders PAL 172
+1 Black Belt's Training PRE 96
+2 Pal Pad SVI 182
+1 Vitality Band SVI 197
+4 Buddy-Buddy Poffin PRE 101
+1 Earthen Vessel PRE 106
+2 Iono PAF 80
+1 Superior Energy Retrieval PAL 189
+1 Technical Machine: Evolution PAR 178
+
+Energy: 2
+2 Jet Energy PAL 190
+6 Basic {R} Energy SVE 2
+
+Total Cards: 60
