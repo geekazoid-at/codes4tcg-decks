@@ -1,0 +1,32 @@
+Pokémon: 12
+3 Slowpoke SVI 42
+1 Latias ex SSP 76
+2 Xatu PAF 26
+3 Slowking SCR 58
+1 Conkeldurr TWM 105
+1 Fezandipiti ex SFA 38
+1 Regigigas PRE 86
+2 Budew PRE 4
+2 Kyurem SFA 47
+2 Natu PAR 71
+1 Tatsugiri TWM 131
+2 Squawkabilly ex PAL 169
+
+Trainer: 10
+2 Surfer SSP 187
+4 Academy at Night SFA 54
+4 Night Stretcher SFA 61
+1 Penny SVI 183
+2 Nest Ball SVI 181
+2 Lana's Aid TWM 155
+1 Colress's Tenacity SFA 57
+4 Buddy-Buddy Poffin TEF 144
+4 Ultra Ball SVI 196
+4 Professor's Research PRE 122
+
+Energy: 3
+4 Jet Energy PAL 190
+6 Basic {P} Energy SVE 5
+1 Enriching Energy SSP 191
+
+Total Cards: 60

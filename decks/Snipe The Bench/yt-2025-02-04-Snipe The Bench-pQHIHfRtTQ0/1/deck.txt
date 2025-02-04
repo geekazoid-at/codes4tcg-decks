@@ -1,0 +1,30 @@
+Pokémon: 9
+2 Terapagos ex SCR 128
+2 Magneton SSP 59
+3 Tadbulb PAL 78
+1 Fezandipiti ex SFA 38
+1 Mew ex MEW 151
+2 Budew PRE 4
+2 Magnemite SVI 63
+1 Radiant Greninja ASR 46
+2 Bellibolt ex PAL 79
+
+Trainer: 13
+1 Hisuian Heavy Ball ASR 146
+2 Counter Catcher PAR 160
+4 Irida ASR 147
+3 Night Stretcher SFA 61
+4 Nest Ball SVI 181
+2 Boss's Orders PAL 172
+3 Area Zero Underdepths PRE 94
+1 Earthen Vessel PRE 106
+3 Glass Trumpet SCR 135
+4 Buddy-Buddy Poffin TEF 144
+2 Iono PAF 80
+2 Ultra Ball SVI 196
+2 Switch SVI 194
+
+Energy: 1
+11 Basic {L} Energy SVE 12
+
+Total Cards: 60
