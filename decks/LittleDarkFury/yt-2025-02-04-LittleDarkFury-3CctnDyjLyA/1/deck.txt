@@ -1,0 +1,35 @@
+Pokémon: 9
+2 Pecharunt ex SFA 39
+1 Bibarel BRS 121
+1 Fezandipiti ex SFA 38
+2 Palafin TWM 60
+2 Morpeko PAR 121
+1 Bidoof CRZ 111
+4 Finizen TWM 59
+1 Munkidori PRE 44
+3 Palafin ex TWM 61
+
+Trainer: 17
+1 Earthen Vessel PRE 106
+4 Ultra Ball PAF 91
+1 Defiance Band SVI 169
+1 Super Rod PAL 188
+3 Irida ASR 147
+4 Iono PAL 185
+2 Gravity Mountain SSP 177
+1 Night Stretcher SFA 61
+1 Surfer SSP 187
+3 Buddy-Buddy Poffin PRE 101
+3 Arven OBF 186
+1 Maximum Belt PRE 117
+1 Counter Catcher PAR 160 PH
+1 Kieran TWM 154 PH
+2 Boss's Orders PAL 172 PH
+2 Switch SVI 194 PH
+4 Nest Ball PAF 84
+
+Energy: 2
+6 Basic {W} Energy CIN 124
+2 Basic {D} Energy BUS 168
+
+Total Cards: 60
