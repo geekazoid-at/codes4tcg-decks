@@ -1,0 +1,32 @@
+Pokémon: 8
+1 Spiritomb PAL 89
+1 Latias ex SSP 76
+4 Ting-Lu ex PAL 127
+2 Squawkabilly ex PAF 75
+2 Hawlucha PR-SV 7
+1 Cornerstone Mask Ogerpon ex TWM 112
+2 Koraidon ex SVI 125
+1 Radiant Alakazam SIT 59
+
+Trainer: 15
+1 Hisuian Heavy Ball ASR 146
+1 Switch Cart ASR 154
+1 Grant ASR 144
+4 Judge SVI 176
+2 Exp. Share SVI 174
+4 Ultra Ball PAF 91
+2 Night Stretcher SFA 61
+1 Pal Pad SVI 182
+3 Penny SVI 183
+4 Nest Ball SVI 181
+2 Bravery Charm PAL 173
+2 Boss's Orders PAL 172
+3 Earthen Vessel PRE 106
+4 Professor's Research PRE 122
+2 Gravity Mountain SSP 177
+
+Energy: 2
+1 Legacy Energy TWM 167
+9 Basic {F} Energy SVE 6
+
+Total Cards: 60
