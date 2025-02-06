@@ -1,0 +1,33 @@
+Pokémon: 10
+2 Regieleki EVS 60
+2 Regirock ASR 75
+2 Regigigas ASR 130
+3 Umbreon ex PRE 60
+3 Eevee ex PRE 75
+2 Regidrago ASR 118
+2 Registeel ASR 108
+1 Crobat V PR-SW 98
+1 Naganadel & Guzzlord-GX CEC 224
+2 Regice ASR 37
+
+Trainer: 13
+1 Irida ASR 186
+2 Switch Cart ASR 154
+4 Ultra Ball PLF 122
+1 Brilliant Blender SSP 164
+1 Hisuian Heavy Ball ASR 146
+1 Guzma BUS 143
+3 Iono PAL 269
+4 Quick Ball SSH 216
+4 Rescue Stretcher BUS 165
+4 Area Zero Underdepths SCR 174
+1 Cynthia UPR 148
+4 Professor's Research PR-SW 152
+1 Battle VIP Pass FST 225
+
+Energy: 3
+4 Aurora Energy SSH 186
+1 Capture Energy DAA 201
+4 Rainbow Energy CES 183
+
+Total Cards: 60
