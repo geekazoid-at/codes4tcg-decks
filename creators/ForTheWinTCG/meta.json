@@ -1,3 +1,7 @@
 {
-  "url": "https://www.youtube.com/@ForTheWinTCG"
+  "url": "https://www.youtube.com/@ForTheWinTCG",
+  "moreUrls": [
+    "https://www.twitch.tv/forthewintcg",
+    "https://x.com/ForTheWinTCG"
+  ]
 }
