@@ -17,13 +17,14 @@ creatorDirs.forEach((creatorDir) => {
       .readdirSync(`../decks/${creatorDir}`, {
         withFileTypes: true,
       })
-      .map((d) => ({ creator: creatorDir, deck: d }))
+      .filter((dirent) => dirent.isDirectory()) // Ensure only directories are included
+      .map((d) => ({ creator: creatorDir, deck: d.name }))
   );
 });
 
-const sitemap = `<?xml version='1.0' encoding='UTF-8'?>
-<?xml-stylesheet type='text/xsl' href='https://codes4tcg.live/wp-content/plugins/google-sitemap-generator/sitemap.xsl'?>
-<urlset xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd' xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
+const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://codes4tcg.live/wp-content/plugins/google-sitemap-generator/sitemap.xsl"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://gemfish.codes4tcg.live</loc>
     <lastmod>${formatDate(new Date())}</lastmod>
