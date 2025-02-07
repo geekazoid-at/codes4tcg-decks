@@ -1,0 +1,28 @@
+Pokémon: 4
+4 Iron Crown ex TEF 81
+3 Iron Hands ex PAR 70
+1 Fezandipiti ex SFA 38
+1 Radiant Greninja ASR 46
+
+Trainer: 14
+1 Switch Cart ASR 154
+1 Canceling Cologne ASR 136
+4 Electric Generator SVI 170
+4 Future Booster Energy Capsule TEF 149
+1 Prime Catcher PRE 119
+2 Heavy Baton TEF 151
+2 Pokégear 3.0 SVI 186
+2 Nest Ball PAF 84
+3 Judge PAF 228
+4 Techno Radar PAR 180
+2 Boss's Orders PAL 172
+4 Arven SVI 166
+1 Night Stretcher SFA 61
+1 Super Rod PAL 188
+
+Energy: 3
+15 Basic {L} Energy SVE 12
+2 Double Turbo Energy BRS 151
+2 Basic {P} Energy SVE 13
+
+Total Cards: 60
