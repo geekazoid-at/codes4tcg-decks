@@ -1,0 +1,29 @@
+Pokémon: 6
+3 Iron Hands ex PAR 70
+1 Mew ex MEW 151
+4 Iron Crown ex TEF 81
+2 Miraidon TEF 121
+1 Iron Bundle PAR 56
+1 Fezandipiti ex SFA 38
+
+Trainer: 14
+1 Switch Cart ASR 154
+3 Electric Generator SVI 170
+4 Techno Radar PRE 130
+2 Iono PAF 80
+3 Future Booster Energy Capsule TEF 149
+1 Lost Vacuum LOR 162
+1 Prime Catcher PRE 119
+2 Crispin SCR 133
+1 Counter Catcher PAR 160 PH
+2 Heavy Baton TEF 151
+4 Professor's Research PRE 123
+2 Nest Ball PAF 84 PH
+4 Arven OBF 186
+3 Boss's Orders PAL 172
+
+Energy: 2
+2 Basic {P} Energy SUM 162
+13 Basic {L} Energy GRI 168
+
+Total Cards: 60
