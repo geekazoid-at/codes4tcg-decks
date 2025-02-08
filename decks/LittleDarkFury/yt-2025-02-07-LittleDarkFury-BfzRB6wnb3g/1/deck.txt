@@ -1,0 +1,32 @@
+Pokémon: 8
+2 Ivysaur MEW 2
+4 Bulbasaur PGO 1
+1 Pidgeotto MEW 17
+2 Budew PRE 4
+3 Venusaur ex SCR 1
+1 Pidgeot ex OBF 164
+1 Pidgey OBF 162
+1 Radiant Tsareena SIT 16
+
+Trainer: 15
+1 Counter Catcher PAR 160
+4 Gardenia's Vigor ASR 143
+3 Rare Candy SVI 191 PH
+2 Ultra Ball PAF 91
+2 Nest Ball SVI 181
+1 Big Air Balloon MEW 155
+2 Boss's Orders PAL 172
+1 Super Rod PAL 188
+2 Colress's Tenacity SFA 57
+3 Bug Catching Set PRE 102
+3 Buddy-Buddy Poffin PRE 101
+1 Grand Tree SCR 136
+4 Iono PAF 80
+2 Switch SVI 194
+2 Earthen Vessel PAR 163
+
+Energy: 2
+10 Basic {G} Energy GRI 167
+2 Jet Energy PAL 190
+
+Total Cards: 60
