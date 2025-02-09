@@ -234,10 +234,10 @@ const main = async (channelId, pageSize, pageCount) => {
 const importChannelId = channelIdTyp;
 // const RUNTYPE = "IMPORT";
 
-const RUNTYPE = "IMPORT";
+const RUNTYPE = "UPDATE";
 
 if (RUNTYPE === "IMPORT") {
-  main(importChannelId, 5, 1);
+  main(importChannelId, 50, 5);
 } else if (RUNTYPE === "UPDATE") {
   for (const channelId of allChannelIds) {
     main(channelId, 5, 1);
