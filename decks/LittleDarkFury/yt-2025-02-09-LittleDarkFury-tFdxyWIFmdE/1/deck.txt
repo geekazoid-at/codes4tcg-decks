@@ -1,0 +1,41 @@
+Pokémon: 13
+1 Munkidori TWM 95
+2 Slaking ex SSP 147
+1 Bloodmoon Ursaluna ex TWM 141
+1 Rotom V CRZ 45
+2 Pidgeot ex OBF 164
+2 Pidgeotto MEW 17
+1 Black Kyurem ex SSP 48
+2 Pidgey OBF 162
+1 Vigoroth PAL 161
+2 Slakoth PAL 160
+2 Fan Rotom PRE 85
+1 Radiant Alakazam SIT 59
+1 Fezandipiti ex SFA 38
+
+Trainer: 18
+2 Buddy-Buddy Poffin TEF 144
+1 Super Rod PAL 188
+3 Rare Candy SVI 191
+2 Boss's Orders PAL 172 PH
+1 Forest Seal Stone SIT 156
+2 Nest Ball SVI 181
+1 Switch SVI 194
+1 Pal Pad SVI 182
+3 Ultra Ball PAF 91 PH
+1 Penny SVI 183
+1 Night Stretcher SFA 61
+2 Iono PAL 185
+1 Counter Catcher PAR 160
+1 Defiance Band SVI 169
+2 Colress's Tenacity SFA 57
+4 Arven OBF 186
+1 Grand Tree SCR 136
+2 Counter Gain SSP 169
+
+Energy: 3
+4 Basic {D} Energy BUS 168
+2 Boomerang Energy TWM 166
+4 Double Turbo Energy BRS 151
+
+Total Cards: 60
