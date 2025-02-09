@@ -1,0 +1,28 @@
+Pokémon: 10
+1 Wyrdeer V ASR 134
+2 Terapagos ex SCR 128
+1 Latias ex SSP 76
+3 Darkrai VSTAR ASR 99
+4 Darkrai V ASR 98
+1 Fezandipiti ex SFA 38
+1 Radiant Greninja ASR 46
+1 Roaring Moon ex PAR 124
+1 Bloodmoon Ursaluna ex TWM 141
+1 Squawkabilly ex PAL 169
+
+Trainer: 10
+1 Carmine PRE 103
+4 Ultra Ball SVI 196
+4 Dark Patch ASR 139
+2 Exp. Share SVI 174
+4 Glass Trumpet SCR 135
+4 Iono PAF 80
+4 Professor's Research PRE 122
+1 Prime Catcher TEF 157
+4 Nest Ball SVI 181
+1 Carmine TWM 145
+
+Energy: 1
+15 Basic {D} Energy SVE 15
+
+Total Cards: 60

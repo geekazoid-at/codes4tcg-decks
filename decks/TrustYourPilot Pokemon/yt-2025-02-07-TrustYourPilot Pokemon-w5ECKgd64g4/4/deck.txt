@@ -1,0 +1,38 @@
+Pokémon: 11
+1 Munkidori TWM 95
+2 Charcadet SSP 32
+1 Delphox V LOR 27
+1 Fezandipiti ex SFA 38
+1 Mew ex MEW 151
+2 Armarouge SVI 41
+3 Arceus VSTAR BRS 123
+4 Arceus V BRS 122
+1 Regigigas PRE 86
+1 Budew PRE 4
+1 Radiant Charizard CRZ 20
+
+Trainer: 17
+1 Hisuian Heavy Ball ASR 146
+1 Counter Catcher PAR 160
+3 Magma Basin BRS 144
+1 Precious Trolley SSP 185
+1 Judge SVI 176
+1 Exp. Share SVI 174
+1 Counter Gain SSP 169
+2 Night Stretcher SFA 61
+1 Rescue Board TEF 159
+2 Nest Ball SVI 181
+1 Professor's Research SVI 189
+4 Arven OBF 186
+2 Boss's Orders PAL 172
+3 Iono PAL 185
+1 Lost Vacuum LOR 162
+3 Ultra Ball SVI 196
+1 Switch SVI 194
+
+Energy: 3
+8 Basic {R} Energy SVE 10
+3 Luminous Energy PAL 191
+2 Double Turbo Energy BRS 151
+
+Total Cards: 60

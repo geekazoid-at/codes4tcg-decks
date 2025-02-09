@@ -1,0 +1,37 @@
+Pokémon: 10
+3 Whimsicott VSTAR BRS 65
+1 Mew ex MEW 151
+3 Xatu PAF 26
+1 Regigigas PRE 86
+3 Whimsicott V BRS 64
+3 Natu PAR 71
+1 Budew PRE 4
+1 Cleffa OBF 80
+1 Enamorus V LOR 82
+1 Bloodmoon Ursaluna ex TWM 141
+
+Trainer: 18
+3 Ultra Ball SVI 196
+3 Buddy-Buddy Poffin PRE 101
+2 Switch SVI 194
+1 Counter Gain SSP 169
+1 Earthen Vessel PAR 163
+1 Counter Catcher PAR 160
+1 Technical Machine: Devolution PAR 177
+1 Super Rod PAL 188
+1 Technical Machine: Evolution PAR 178
+4 Iono PAF 80
+2 Professor's Research PRE 122
+1 Pokémon League Headquarters OBF 192
+1 Rescue Board PRE 126
+3 Nest Ball SVI 181
+1 Unfair Stamp TWM 165
+1 Tulip PAR 181
+4 Arven SVI 166
+2 Boss's Orders PAL 172
+
+Energy: 2
+1 Double Turbo Energy BRS 151
+8 Basic {P} Energy SVE 13
+
+Total Cards: 60

@@ -1,0 +1,33 @@
+Pokémon: 10
+2 Bibarel BRS 121
+3 Hisuian Samurott V ASR 101
+2 Munkidori TWM 95
+1 Pecharunt ex SFA 39
+1 Fezandipiti ex SFA 38
+1 Absol ASR 97
+1 Radiant Alakazam SIT 59
+3 Hisuian Samurott VSTAR ASR 102
+2 Bidoof CRZ 111
+1 Squawkabilly ex PAL 169
+
+Trainer: 15
+4 Ultra Ball SVI 196
+1 Switch SVI 194
+4 Dark Patch ASR 139
+2 Earthen Vessel PAR 163
+2 Counter Catcher PAR 160
+1 Hisuian Heavy Ball ASR 146
+4 Iono PAL 185
+1 Gravity Mountain SSP 177
+2 Binding Mochi PRE 95
+2 Night Stretcher SFA 61
+1 Temple of Sinnoh ASR 155
+4 Nest Ball SVI 181
+1 Unfair Stamp TWM 165
+3 Professor's Research SVI 189
+3 Boss's Orders PAL 172
+
+Energy: 1
+8 Basic {D} Energy SVE 15
+
+Total Cards: 60

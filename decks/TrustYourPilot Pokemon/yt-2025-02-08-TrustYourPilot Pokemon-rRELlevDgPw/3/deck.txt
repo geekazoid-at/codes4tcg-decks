@@ -1,0 +1,34 @@
+Pokémon: 9
+3 Hisuian Decidueye V ASR 83
+2 Garchomp ex PAR 38
+3 Hisuian Decidueye VSTAR ASR 84
+1 Gabite PAR 95
+1 Mew ex MEW 151
+1 Fezandipiti ex SFA 38
+1 Radiant Greninja ASR 46
+1 Bloodmoon Ursaluna ex TWM 141
+3 Gible PAR 94
+
+Trainer: 16
+3 Ultra Ball SVI 196
+1 Switch SVI 194
+2 Lake Acuity LOR 160
+2 Rock Chestplate SVI 192
+1 Grant ASR 144
+3 Rare Candy SVI 191
+2 Earthen Vessel PAR 163
+2 Buddy-Buddy Poffin TEF 144
+1 Counter Catcher PAR 160
+4 Iono PAL 185
+1 Lana's Aid TWM 155
+1 Superior Energy Retrieval PAL 189
+3 Professor's Research PRE 122
+1 Prime Catcher TEF 157
+4 Nest Ball SVI 181
+2 Boss's Orders PAL 172
+
+Energy: 2
+9 Basic {F} Energy SVE 14
+2 Double Turbo Energy BRS 151
+
+Total Cards: 60
