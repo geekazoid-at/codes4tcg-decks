@@ -47,6 +47,35 @@ const main = async (channelId, pageSize, pageCount) => {
 
     let videoDescription = germanToEnglish(video.description);
 
+    let inDeck = false;
+    let inEnergy = false;
+
+    // Fix trust your pilot decks
+    videoDescription = videoDescription
+      .split("\n")
+      .map((t) => {
+        console.log(t);
+        if (t.match(/.*DECK LIST.*:/g)?.length) {
+          console.log("inDeck");
+
+          inDeck = true;
+        }
+
+        if (t.match(/Energy: \d+/g)?.length) {
+          console.log("inEnergy");
+          inEnergy = true;
+        }
+
+        if (!t.trim() && inDeck && inEnergy) {
+          inDeck = false;
+          inEnergy = false;
+          return "\nTotal Cards: 60";
+        }
+
+        return t;
+      })
+      .join("\n");
+
     if (
       !videoDescription.includes("Total Cards:") ||
       !(
@@ -205,10 +234,10 @@ const main = async (channelId, pageSize, pageCount) => {
 const importChannelId = channelIdTyp;
 // const RUNTYPE = "IMPORT";
 
-const RUNTYPE = "UPDATE";
+const RUNTYPE = "IMPORT";
 
 if (RUNTYPE === "IMPORT") {
-  main(importChannelId, 50, 5);
+  main(importChannelId, 5, 1);
 } else if (RUNTYPE === "UPDATE") {
   for (const channelId of allChannelIds) {
     main(channelId, 5, 1);
