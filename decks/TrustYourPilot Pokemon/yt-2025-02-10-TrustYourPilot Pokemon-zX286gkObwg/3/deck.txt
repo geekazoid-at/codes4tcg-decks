@@ -1,0 +1,33 @@
+Pokémon: 8
+4 Dragonite V PGO 49
+1 Relicanth TEF 84
+3 Dragonite VSTAR PGO 50
+1 Mew ex MEW 151
+1 Fezandipiti ex SFA 38
+1 Radiant Greninja ASR 46
+1 Budew PRE 4
+1 Squawkabilly ex PAL 169
+
+Trainer: 16
+1 Salvatore TEF 160
+4 Ultra Ball SVI 196
+1 Switch SVI 194
+1 Counter Gain SSP 169
+1 Defiance Band SVI 169
+1 Earthen Vessel PAR 163
+1 Counter Catcher PAR 160
+1 PokéStop PGO 68
+1 Technical Machine: Turbo Energize PAR 179
+2 Super Rod PAL 188
+4 Iono PAF 80
+4 Energy Sticker MEW 159
+4 Professor's Research PRE 122
+1 Prime Catcher TEF 157
+4 Nest Ball SVI 181
+2 Boss's Orders PAL 172
+
+Energy: 2
+7 Basic {W} Energy SVE 11
+7 Basic {L} Energy SVE 12
+
+Total Cards: 60

@@ -1,0 +1,36 @@
+Pokémon: 10
+1 Bloodmoon Ursaluna ex TWM 141
+3 Xatu PAF 26
+1 Mew ex MEW 151
+1 Cleffa OBF 80
+1 Regigigas PRE 86
+1 Budew PRE 4
+3 Mewtwo V PGO 30
+3 Mewtwo VSTAR PGO 31
+3 Natu PAR 71
+1 Radiant Alakazam SIT 59
+
+Trainer: 18
+1 Counter Catcher PAR 160
+1 Unfair Stamp TWM 165
+1 Counter Gain SSP 169
+3 Nest Ball SVI 181
+1 Boss's Orders PAL 172
+4 Arven SVI 166
+1 Technical Machine: Evolution PAR 178
+1 Superior Energy Retrieval PAL 189
+1 Super Rod PAL 188
+1 Tulip PAR 181
+3 Buddy-Buddy Poffin PRE 101
+4 Iono PAF 80
+3 Ultra Ball SVI 196
+2 Professor's Research PRE 122
+1 Vitality Band SVI 197
+2 Switch SVI 194
+1 Rescue Board PRE 126
+1 Earthen Vessel PAR 163
+
+Energy: 1
+10 Basic {P} Energy SVE 13
+
+Total Cards: 60

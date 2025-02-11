@@ -1,0 +1,35 @@
+Pokémon: 12
+1 Latias ex SSP 76
+3 Magnezone VSTAR LOR 57
+3 Magnezone V LOR 56
+1 Magneton SSP 59
+1 Iron Hands ex PAR 70
+1 Fezandipiti ex SFA 38
+2 Miraidon ex SVI 81
+1 Rotom SSP 61
+1 Magnemite SSP 58
+1 Radiant Greninja ASR 46
+1 Relicanth TEF 84
+1 Squawkabilly ex PAL 169
+
+Trainer: 14
+1 Counter Catcher PAR 160
+4 Electric Generator SVI 170
+1 Prime Catcher TEF 157
+1 Pokégear 3.0 SVI 186
+1 Night Stretcher SFA 61
+4 Nest Ball SVI 181
+2 Boss's Orders PAL 172
+4 Iono PAL 185
+1 Technical Machine: Devolution PAR 177
+1 Super Rod PAL 188
+1 Defiance Band SVI 169
+4 Ultra Ball SVI 196
+4 Professor's Research PRE 122
+1 Canceling Cologne ASR 136
+
+Energy: 2
+12 Basic {L} Energy SVE 12
+1 Double Turbo Energy BRS 151
+
+Total Cards: 60
