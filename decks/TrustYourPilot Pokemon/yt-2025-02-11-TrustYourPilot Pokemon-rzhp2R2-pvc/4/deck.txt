@@ -1,0 +1,35 @@
+Pokémon: 5
+4 Comfey LOR 79
+3 Hisuian Goodra VSTAR LOR 136
+3 Hisuian Goodra V LOR 135
+1 Radiant Greninja ASR 46
+1 Cramorant LOR 50
+
+Trainer: 19
+4 Switch SVI 194
+1 Switch Cart ASR 154
+1 Lake Acuity LOR 160
+1 Defiance Vest PAR 162
+2 Buddy-Buddy Poffin TEF 144
+1 Counter Catcher PAR 160
+2 Lost Vacuum LOR 162
+1 Iono PAL 185
+1 Technical Machine: Devolution PAR 177
+3 Super Rod PAL 188
+1 Technical Machine: Crisis Punch PAF 90
+1 Roxanne ASR 150
+1 Pokémon League Headquarters OBF 192
+4 Mirage Gate LOR 163
+4 Nest Ball SVI 181
+1 Rescue Board TEF 159
+4 Colress's Experiment LOR 155
+1 Survival Brace TWM 164
+1 Boss's Orders PAL 172
+
+Energy: 4
+4 Basic {W} Energy SVE 11
+2 Mist Energy TEF 161
+3 Jet Energy PAL 190
+4 Basic {M} Energy SVE 16
+
+Total Cards: 60

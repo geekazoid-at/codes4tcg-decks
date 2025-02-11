@@ -1,0 +1,31 @@
+Pokémon: 7
+1 Fezandipiti ex SFA 38
+1 Squawkabilly ex PAF 75
+1 Mew ex MEW 151
+3 Aerodactyl VSTAR LOR 93
+3 Aerodactyl V LOR 92
+1 Budew PRE 4
+1 Relicanth TEF 84
+
+Trainer: 15
+1 Grant ASR 144
+2 Pokémon League Headquarters OBF 192
+4 Nest Ball SVI 181
+3 Gutsy Pickaxe ASR 145
+4 Energy Sticker MEW 159
+2 Boss's Orders PAL 172
+2 Handheld Fan TWM 150
+4 Iono PAL 185
+1 Technical Machine: Turbo Energize PAR 179
+4 Crushing Hammer SVI 168
+1 Lost Vacuum LOR 162
+1 Deluxe Bomb SCR 134
+4 Ultra Ball SVI 196
+4 Professor's Research PRE 122
+1 Rescue Board PRE 126
+
+Energy: 2
+3 Double Turbo Energy BRS 151
+8 Basic {F} Energy SVE 14
+
+Total Cards: 60

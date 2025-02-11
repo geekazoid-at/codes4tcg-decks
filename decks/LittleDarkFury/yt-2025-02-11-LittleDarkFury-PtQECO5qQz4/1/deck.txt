@@ -1,0 +1,43 @@
+Pokémon: 10
+1 Fezandipiti ex SFA 84
+1 Togepi ASR 55
+1 Togekiss SSP 72
+1 Duraludon PRE 69
+1 Archaludon ex SSP 130
+1 Radiant Greninja ASR 46
+1 Gimmighoul PAR 88
+1 Iron Bundle PAR 56
+3 Gimmighoul SSP 97
+4 Gholdengo ex PAR 139
+
+Trainer: 18
+1 Rare Candy SVI 191
+2 Ultra Ball PAF 91
+1 Hisuian Heavy Ball ASR 146
+1 Professor Turo's Scenario PRE 121
+1 Earthen Vessel PRE 106
+1 Energy Search Pro SSP 176
+4 Superior Energy Retrieval PAL 189
+1 Counter Catcher PAR 160
+2 Night Stretcher SFA 61
+1 Irida ASR 147
+2 Boss's Orders PAL 172
+4 Nest Ball SVI 181
+1 Energy Retrieval SVI 171
+1 Jamming Tower TWM 153
+2 Iono PAL 185
+4 Buddy-Buddy Poffin PRE 101
+2 PokéStop PGO 68
+3 Ciphermaniac's Codebreaking TEF 145
+
+Energy: 8
+1 Basic {W} Energy CIN 124
+1 Basic {G} Energy GRI 167
+1 Basic {F} Energy GRI 169
+1 Basic {L} Energy GRI 168
+1 Basic {P} Energy SUM 162
+4 Basic {M} Energy SUM 163
+1 Basic {R} Energy BUS 167
+1 Basic {D} Energy BUS 168
+
+Total Cards: 60

@@ -1,0 +1,32 @@
+Pokémon: 10
+3 Drapion V LOR 118
+1 Munkidori TWM 95
+1 Pecharunt ex SFA 39
+3 Drapion VSTAR LOR 119
+1 Radiant Hisuian Sneasler LOR 123
+1 Fezandipiti ex SFA 38
+2 Brute Bonnet PAR 123
+1 Morpeko PAR 121
+1 Squawkabilly ex PAL 169
+1 Pecharunt PR-SV 149
+
+Trainer: 14
+4 Ultra Ball SVI 196
+4 Dark Patch ASR 139
+1 Counter Gain SSP 169
+2 Ancient Booster Energy Capsule TEF 140
+2 Earthen Vessel PAR 163
+4 Iono PAL 185
+2 Janine's Secret Art SFA 59
+2 Night Stretcher SFA 61
+1 Perilous Jungle TEF 156
+4 Nest Ball SVI 181
+1 Unfair Stamp TWM 165
+3 Professor's Research SVI 189
+3 Binding Mochi SFA 55
+2 Boss's Orders PAL 172
+
+Energy: 1
+10 Basic {D} Energy SVE 15
+
+Total Cards: 60
