@@ -1,0 +1,36 @@
+Pokémon: 9
+1 Eevee ex PRE 75
+1 Fezandipiti ex SFA 38
+2 Bibarel BRS 121
+2 Eevee SSP 143
+2 Eevee MEW 133
+1 Fan Rotom SCR 118
+2 Victini SSP 21
+2 Bidoof CRZ 111
+3 Flareon ex PRE 14
+
+Trainer: 17
+3 Buddy-Buddy Poffin PRE 101
+1 Crispin PRE 105
+1 Super Rod PAL 188
+2 Black Belt's Training PRE 97
+1 Tera Orb SSP 189
+2 Boss's Orders PAL 172
+1 Nest Ball SVI 181
+2 Earthen Vessel PRE 106
+2 Switch SVI 194
+4 Ultra Ball SVI 196
+2 Gravity Mountain SSP 177
+2 Night Stretcher SFA 61
+4 Iono PAF 80
+1 Counter Catcher PAR 160
+4 Arven SVI 166
+1 Glass Trumpet SCR 135
+1 Sparkling Crystal SCR 142
+
+Energy: 3
+4 Basic {R} Energy BUS 167
+3 Basic {L} Energy GRI 168
+3 Basic {W} Energy CIN 124
+
+Total Cards: 60
