@@ -1,0 +1,22 @@
+Pokémon: 4
+4 Ceruledge ex SSP 36
+1 Radiant Greninja ASR 46
+4 Charcadet SVI 40
+3 Squawkabilly ex PAL 169
+
+Trainer: 10
+1 Iono PAL 185
+4 Ultra Ball SVI 196
+2 Night Stretcher SFA 61
+4 Buddy-Buddy Poffin TEF 144
+2 Canceling Cologne ASR 136
+2 Boss's Orders PAL 172
+2 Nest Ball SVI 181
+4 Carmine TWM 145
+4 Professor's Research SVI 189
+1 Hero's Cape TEF 152
+
+Energy: 1
+22 Basic {R} Energy SVE 10
+
+Total Cards: 60

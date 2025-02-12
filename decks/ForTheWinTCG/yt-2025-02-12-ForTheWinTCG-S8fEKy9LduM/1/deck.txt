@@ -1,0 +1,31 @@
+Pokémon: 9
+2 Hawlucha SVI 118
+1 Fan Rotom PRE 85
+3 Gyarados ex SVI 45
+4 Lapras ex SCR 32
+2 Hoothoot SCR 114
+1 Fezandipiti ex SFA 38
+2 Noctowl SCR 115
+1 Radiant Alakazam SIT 59
+4 Magikarp PGO 21
+
+Trainer: 12
+4 Buddy-Buddy Poffin PRE 101
+1 Irida ASR 147
+1 Switch SVI 194
+4 Ultra Ball PAF 91
+1 Crispin PRE 105
+2 Crispin SCR 133
+1 Sparkling Crystal PRE 129
+1 Professor's Research PRE 122
+2 Nest Ball SVI 181
+2 Boss's Orders PAL 172
+1 Arven SVI 166
+1 Super Rod PAL 188
+
+Energy: 3
+13 Basic {W} Energy SVE 11
+3 Basic {P} Energy SVE 13
+3 Basic {M} Energy SVE 16
+
+Total Cards: 60
