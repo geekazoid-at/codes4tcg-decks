@@ -1,0 +1,38 @@
+Pokémon: 12
+1 Latias ex SSP 76
+1 Bloodmoon Ursaluna ex TWM 141
+1 Kricketune ASR 10
+1 Kricketot ASR 9
+3 Serperior VSTAR SIT 8
+1 Iron Hands ex PAR 70
+3 Serperior V SIT 7
+1 Fezandipiti ex SFA 38
+1 Mew ex MEW 151
+2 Joltik SCR 50
+1 Squawkabilly ex PAL 169
+1 Wyrdeer V ASR 134
+
+Trainer: 15
+1 Counter Catcher PAR 160
+3 Bug Catching Set TWM 143
+1 Precious Trolley SSP 185
+1 Gardenia's Vigor ASR 143
+3 Nest Ball SVI 181
+2 Boss's Orders PAL 172
+4 Iono PAL 185
+4 Arven SVI 166
+1 Technical Machine: Devolution PAR 177
+1 Defiance Band SVI 169
+1 Collapsed Stadium BRS 137
+1 Crispin SCR 133
+3 Ultra Ball SVI 196
+2 Professor's Research PRE 122
+1 Switch SVI 194
+
+Energy: 4
+4 Basic {L} Energy SVE 12
+1 Jet Energy PAL 190
+8 Basic {G} Energy SVE 9
+1 Double Turbo Energy BRS 151
+
+Total Cards: 60

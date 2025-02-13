@@ -1,0 +1,37 @@
+Pokémon: 10
+1 Tatsugiri SVI 62
+1 Latias ex SSP 76
+1 Iron Bundle PAR 56
+1 Kingler VMAX BRS 29
+1 Fezandipiti ex SFA 38
+1 Kingler V BRS 28
+1 Radiant Greninja ASR 46
+3 Alolan Vulpix V SIT 33
+3 Alolan Vulpix VSTAR SIT 34
+1 Squawkabilly ex PAL 169
+
+Trainer: 18
+1 Defiance Vest PAR 162
+1 Switch Cart ASR 154
+2 Blanche PGO 64
+1 Pokémon League Headquarters OBF 192
+1 Precious Trolley SSP 185
+4 Irida ASR 147
+1 Rescue Board TEF 159
+4 Nest Ball SVI 181
+2 Boss's Orders PAL 172
+1 Professor Turo's Scenario PAR 171
+1 Technical Machine: Devolution PAR 177
+2 Earthen Vessel PRE 106
+1 Lost Vacuum LOR 162
+1 Lake Acuity LOR 160
+1 Collapsed Stadium BRS 137
+2 Iono PAF 80
+4 Ultra Ball SVI 196
+2 Professor's Research PRE 122
+
+Energy: 2
+11 Basic {W} Energy SVE 11
+3 Double Turbo Energy BRS 151
+
+Total Cards: 60

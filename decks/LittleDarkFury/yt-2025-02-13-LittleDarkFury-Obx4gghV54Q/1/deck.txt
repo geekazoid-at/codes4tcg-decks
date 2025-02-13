@@ -1,0 +1,40 @@
+Pokémon: 11
+2 Zweilous SSP 118
+4 Deino SSP 117
+1 Pidgeotto MEW 17
+2 Pidgey OBF 162
+2 Hydreigon ex SSP 119
+1 Budew PRE 4
+1 Cleffa OBF 80
+2 Pidgeot ex OBF 164
+1 Rotom V CRZ 45
+1 Fezandipiti ex SFA 38
+1 Lumineon V BRS 40
+
+Trainer: 18
+3 Ultra Ball PAF 91
+1 Super Rod PAL 188
+3 Rare Candy PAF 89
+1 Earthen Vessel PRE 106
+3 Iono PAL 185
+1 Night Stretcher SFA 61
+1 Crispin PRE 105
+1 Technical Machine: Evolution PAR 178
+4 Buddy-Buddy Poffin TEF 144
+4 Arven SVI 166
+1 Forest Seal Stone SIT 156
+1 Tera Orb SSP 189
+2 Dark Patch ASR 139
+1 Counter Catcher PAR 160
+2 Counter Gain SSP 169
+1 Professor Turo's Scenario PRE 121
+1 Boss's Orders PAL 172
+3 Nest Ball PAF 84
+
+Energy: 4
+1 Basic {P} Energy SUM 162
+1 Basic {M} Energy SUM 163
+5 Basic {D} Energy BUS 168
+1 Neo Upper Energy TEF 162
+
+Total Cards: 60
