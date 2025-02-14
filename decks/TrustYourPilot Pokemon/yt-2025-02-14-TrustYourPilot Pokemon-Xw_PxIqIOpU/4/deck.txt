@@ -1,0 +1,32 @@
+Pokémon: 11
+1 Wyrdeer V ASR 134
+2 Lumineon V BRS 40
+3 Lugia VSTAR SIT 139
+1 Iron Hands ex PAR 70
+4 Archeops SIT 147
+1 Regigigas PRE 86
+3 Lugia V SIT 138
+2 Minccino TEF 136
+2 Cinccino TEF 137
+1 Bloodmoon Ursaluna ex TWM 141
+1 Squawkabilly ex PAL 169
+
+Trainer: 8
+4 Ultra Ball SVI 196
+1 Jacq SVI 175
+2 Iono PAL 185
+2 Mesagoza SVI 178
+2 Nest Ball SVI 181
+4 Capturing Aroma SIT 153
+4 Professor's Research SVI 189
+4 Boss's Orders PAL 172
+
+Energy: 6
+2 Mist Energy TEF 161
+1 V Guard Energy SIT 169
+4 Gift Energy LOR 171
+4 Double Turbo Energy BRS 151
+1 Legacy Energy TWM 167
+4 Jet Energy PAL 190
+
+Total Cards: 60

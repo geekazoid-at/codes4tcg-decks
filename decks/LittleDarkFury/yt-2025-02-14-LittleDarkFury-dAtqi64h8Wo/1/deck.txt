@@ -1,0 +1,36 @@
+Pokémon: 10
+4 Fuecoco PAL 35
+2 Budew PRE 4 PH
+1 Pidgeotto MEW 17
+1 Fezandipiti ex SFA 38
+2 Budew PRE 4
+2 Crocalor PAL 36
+1 Pidgey OBF 162
+3 Skeledirge ex PAR 137
+1 Radiant Charizard PGO 11
+1 Pidgeot ex OBF 164
+
+Trainer: 18
+2 Buddy-Buddy Poffin PRE 101
+2 Superior Energy Retrieval PAL 189
+2 Tera Orb SSP 189
+4 Rare Candy PAF 89
+4 Nest Ball PAF 84
+2 Earthen Vessel PAR 163
+1 Switch SVI 194
+1 Big Air Balloon MEW 155
+2 Ultra Ball SVI 196
+4 Arven SVI 166
+2 Night Stretcher SFA 61
+4 Iono PAF 80
+1 Counter Catcher PAR 160
+1 Boss's Orders PAL 172
+1 Colress's Tenacity SFA 57
+1 Artazon PAL 171
+1 Grand Tree SCR 136
+1 Bravery Charm PAL 173
+
+Energy: 1
+6 Basic {R} Energy BUS 167
+
+Total Cards: 60
