@@ -1,0 +1,34 @@
+Pokémon: 11
+3 Charmander PAF 7
+1 Dunsparce TEF 128
+3 Dudunsparce TEF 129
+2 Charmeleon PAF 8
+1 Fezandipiti ex SFA 38
+3 Duskull BRS 60
+2 Dunsparce PAL 156
+1 Budew PRE 4
+2 Dusclops SFA 19
+2 Dusknoir SFA 20
+3 Charizard ex PAF 54
+
+Trainer: 14
+1 Boss's Orders PAL 172
+4 Buddy-Buddy Poffin PRE 101
+1 Briar PRE 100
+1 Professor's Research PRE 122
+2 Super Rod PAL 188
+2 Artazon PAF 76
+4 Rare Candy PAF 89
+1 Nest Ball SVI 181
+2 Drayton SSP 174
+4 Ultra Ball SVI 196
+2 Night Stretcher SFA 61
+4 Iono PAL 185
+1 Jacq SVI 175
+2 Counter Catcher PAR 160
+
+Energy: 2
+5 Basic {R} Energy BUS 167
+1 Enriching Energy SSP 191
+
+Total Cards: 60
