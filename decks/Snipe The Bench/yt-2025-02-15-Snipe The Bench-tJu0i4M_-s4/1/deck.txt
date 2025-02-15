@@ -1,0 +1,33 @@
+Pokémon: 9
+1 Spinarak TWM 4
+1 Ariados TWM 5
+1 Spidops ex SVI 223
+3 Spidops ex SVI 19
+4 Tarountula PAL 17
+1 Mimikyu PAL 97
+1 Fezandipiti ex SFA 38
+2 Budew PRE 4
+1 Manaphy BRS 41
+
+Trainer: 15
+4 Bug Catching Set TWM 143
+1 Secret Box TWM 163
+1 Super Rod PAL 276
+2 Nest Ball PAF 84
+2 Judge SVI 176
+1 Night Stretcher SFA 61
+1 Pal Pad SVI 182 PH
+2 Calamitous Wasteland PAL 175
+2 Boss's Orders PAL 172
+4 Arven SVI 166
+2 Crispin SCR 133
+4 Gravity Gemstone SCR 137 PH
+4 Buddy-Buddy Poffin TEF 144
+2 Iono PAF 80
+2 Switch SVI 194
+
+Energy: 2
+8 Basic {G} Energy SVE 1
+3 Basic {P} Energy SVE 5
+
+Total Cards: 60
