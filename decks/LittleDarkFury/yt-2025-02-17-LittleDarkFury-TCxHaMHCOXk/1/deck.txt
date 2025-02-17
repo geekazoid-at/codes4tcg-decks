@@ -1,0 +1,40 @@
+Pokémon: 15
+3 Hoothoot SCR 114
+1 Hoothoot PRE 77
+4 Noctowl SCR 115
+2 Fan Rotom PRE 85
+1 Ditto MEW 132
+1 Wellspring Mask Ogerpon ex TWM 64
+1 Terapagos ex PRE 92
+1 Mew ex MEW 151
+1 Fezandipiti ex SFA 38
+1 Bloodmoon Ursaluna ex TWM 141
+1 Pikachu ex SSP 57
+1 Raikou V BRS 48
+1 Munkidori PRE 44
+1 Latias ex SSP 76
+2 Teal Mask Ogerpon ex TWM 25
+
+Trainer: 13
+2 Boss's Orders PAL 172
+1 Counter Catcher PAR 160
+3 Crispin SCR 133
+2 Professor's Research PRE 122
+1 Iono PAL 185
+1 Professor Turo's Scenario PRE 121
+4 Nest Ball PAF 84
+4 Ultra Ball PAF 91
+3 Area Zero Underdepths PRE 94
+1 Earthen Vessel PAR 163
+1 Sparkling Crystal PRE 129
+3 Energy Switch SVI 173
+2 Night Stretcher SFA 61
+
+Energy: 5
+1 Basic {W} Energy CIN 124
+5 Basic {G} Energy GRI 167
+2 Basic {L} Energy GRI 168
+1 Basic {M} Energy SUM 163
+1 Basic {D} Energy BUS 168
+
+Total Cards: 60

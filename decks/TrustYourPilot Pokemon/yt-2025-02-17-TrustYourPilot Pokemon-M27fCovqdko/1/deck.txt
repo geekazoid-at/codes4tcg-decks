@@ -1,0 +1,29 @@
+Pokémon: 10
+2 Ceruledge ex SSP 36
+1 Fezandipiti ex SFA 38
+1 Radiant Greninja ASR 46
+1 Budew PRE 4
+1 Cleffa OBF 80
+3 Simisear V BRS 27
+2 Squawkabilly ex PAL 169
+1 Simisear VSTAR CRZ-GG 37
+2 Simisear VSTAR CRZ 23
+2 Charcadet SSP 32
+
+Trainer: 9
+4 Ultra Ball SVI 196
+1 Brilliant Blender SSP 164
+3 Night Stretcher SFA 61
+2 Iono PAF 80
+4 Professor's Research PRE 122
+4 Nest Ball SVI 181
+3 Carmine TWM 145
+2 Boss's Orders PAL 172
+2 Magma Basin BRS 144
+
+Energy: 3
+13 Basic {R} Energy SVE 10
+4 Double Turbo Energy BRS 151
+2 Jet Energy PAL 190
+
+Total Cards: 60
