@@ -1,0 +1,33 @@
+Pokémon: 7
+2 Munkidori TWM 95
+4 Froslass TWM 53
+2 Greninja ex TWM 106
+2 Budew PRE 4
+4 Snorunt PAR 37
+2 Frogadier TWM 57
+2 Froakie OBF 56
+
+Trainer: 16
+4 Irida ASR 147
+1 Switch SVI 194
+3 Ultra Ball PAF 91
+1 Canceling Cologne ASR 136
+2 Arven OBF 186
+1 Earthen Vessel PAR 163
+4 Buddy-Buddy Poffin TEF 144
+2 Counter Catcher PAR 160
+1 Technical Machine: Devolution PAR 177
+4 Iono PAF 80
+3 Nest Ball SVI 181
+1 Neutralization Zone SFA 60
+1 Boss's Orders PAL 172
+1 Artazon PAL 171
+2 Night Stretcher SFA 61
+2 Pokégear 3.0 SVI 186
+
+Energy: 3
+5 Basic {W} Energy SVE 11
+2 Basic {D} Energy SVE 15
+2 Boomerang Energy TWM 166 PH
+
+Total Cards: 60
