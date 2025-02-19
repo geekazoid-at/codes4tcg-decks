@@ -1,0 +1,26 @@
+Pokémon: 8
+3 Origin Forme Dialga VSTAR ASR 114
+3 Origin Forme Dialga V ASR 113
+1 Fezandipiti ex SFA 38
+1 Mew ex MEW 151
+3 Beldum TEF 113
+3 Metang TEF 114
+2 Budew PRE 4
+1 Radiant Greninja ASR 46
+
+Trainer: 10
+1 Prime Catcher TEF 157
+4 Nest Ball SVI 181
+2 Boss's Orders PAL 172
+2 Jamming Tower TWM 153
+4 Iono PAL 185
+4 Super Rod PAL 188
+2 Buddy-Buddy Poffin PRE 101
+4 Ultra Ball SVI 196
+2 Switch SVI 194
+4 Professor's Research PRE 122 PH
+
+Energy: 1
+14 Basic {M} Energy SVE 16
+
+Total Cards: 60
