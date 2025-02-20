@@ -1,0 +1,31 @@
+Pokémon: 10
+1 Wyrdeer V ASR 134
+4 Teal Mask Ogerpon ex TWM 25
+3 Leafeon V PR-SW 194
+3 Leafeon VSTAR PR-SW 195
+1 Mew ex MEW 151
+1 Toedscruel ex OBF 22
+1 Toedscool SVI 25
+1 Kricketune ASR 10
+1 Fezandipiti ex SFA 38
+1 Kricketot ASR 9
+
+Trainer: 13
+3 Ultra Ball SVI 196
+1 Area Zero Underdepths SCR 131
+4 Energy Switch SVI 173
+3 Iono PAL 185
+1 Super Rod PAL 188
+1 Hero's Cape TEF 152
+2 Gardenia's Vigor ASR 143
+1 Temple of Sinnoh ASR 155
+4 Nest Ball SVI 181
+1 Professor's Research SVI 189
+4 Bug Catching Set TWM 143
+2 Carmine TWM 145
+2 Boss's Orders PAL 172
+
+Energy: 1
+14 Basic {G} Energy SVE 9
+
+Total Cards: 60

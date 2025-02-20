@@ -1,0 +1,32 @@
+Pokémon: 9
+3 Kleavor VSTAR PR-SW 249
+3 Kleavor V ASR 87
+4 Wattrel PAL 80
+4 Murkrow PAL 131
+2 Ditto PGO 53
+1 Fezandipiti ex SFA 38
+1 Squawkabilly ex PAL 169
+4 Flamigo PAL 170
+4 Dartrix SFA 4
+
+Trainer: 12
+3 Ultra Ball SVI 196
+3 Earthen Vessel PAR 163
+3 Explorer's Guidance TEF 147
+1 Brilliant Blender SSP 164
+2 PokéStop PGO 68
+2 Night Stretcher SFA 61
+1 Super Rod PAL 188
+1 Morty's Conviction TEF 155
+3 Nest Ball SVI 181
+1 Rescue Board TEF 159
+3 Professor's Research SVI 189
+3 Boss's Orders PAL 172
+
+Energy: 4
+1 Basic {F} Energy SVE 14
+2 Basic {D} Energy SVE 15
+2 Double Turbo Energy BRS 151
+3 Luminous Energy PAL 191
+
+Total Cards: 60

@@ -1,0 +1,35 @@
+Pokémon: 7
+4 Comfey LOR 79
+1 Sableye LOR 70
+3 Glaceon VSTAR PR-SW 197
+3 Glaceon V CRZ 38
+1 Radiant Greninja ASR 46
+1 Cramorant LOR 50
+1 Bloodmoon Ursaluna ex TWM 141
+
+Trainer: 18
+3 Switch SVI 194
+3 Switch Cart ASR 154
+2 Buddy-Buddy Poffin TEF 144
+2 Counter Catcher PAR 160
+1 Lost Vacuum LOR 162
+1 Hisuian Heavy Ball ASR 146
+1 Lost City LOR 161
+2 Iono PAL 185
+1 Technical Machine: Devolution PAR 177
+3 Super Rod PAL 188
+1 Pokégear 3.0 SVI 186
+1 Roxanne ASR 150
+1 Prime Catcher TEF 157
+4 Mirage Gate LOR 163
+4 Nest Ball SVI 181
+1 Rescue Board TEF 159
+4 Colress's Experiment LOR 155
+1 Boss's Orders PAL 172
+
+Energy: 3
+5 Basic {W} Energy SVE 11
+4 Basic {P} Energy SVE 13
+1 Jet Energy PAL 190
+
+Total Cards: 60
