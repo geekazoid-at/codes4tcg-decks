@@ -1,0 +1,30 @@
+Pokémon: 7
+2 Beldum TEF 113
+3 Metang TEF 114
+1 Beldum SIT 117
+1 Fezandipiti ex SFA 38
+2 Bouffalant SCR 119
+3 Snorlax ex PRE 76
+1 Radiant Greninja ASR 46
+
+Trainer: 15
+4 Super Rod PAL 188
+3 Ultra Ball PAF 91
+1 Hisuian Heavy Ball ASR 146
+4 Iono PAL 185
+1 Artazon PAL 171
+1 Technical Machine: Evolution PAR 178
+3 Arven OBF 186
+1 Hero's Cape TEF 152
+1 Heavy Baton TEF 151
+1 Bravery Charm PAL 173
+2 Buddy-Buddy Poffin TEF 144
+2 Boss's Orders PAL 172 PH
+4 Professor's Research PRE 123
+4 Nest Ball PAF 84
+1 Counter Catcher PAR 160
+
+Energy: 1
+14 Basic {M} Energy SVE 8
+
+Total Cards: 60
