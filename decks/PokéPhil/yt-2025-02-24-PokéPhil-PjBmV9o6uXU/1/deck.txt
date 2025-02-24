@@ -1,0 +1,32 @@
+Pokémon: 8
+2 Dusknoir PRE 37
+4 Drakloak TWM 129
+4 Dreepy TWM 128
+3 Dragapult ex TWM 130
+3 Duskull PRE 35
+1 Dusclops PRE 36
+1 Fezandipiti ex SFA 38
+2 Budew PRE 4
+
+Trainer: 15
+2 Ultra Ball SVI 196
+3 Rare Candy SVI 191
+4 Arven OBF 186
+1 Exp. Share SVI 174
+3 Jacq SVI 175
+1 Earthen Vessel PAR 163
+4 Buddy-Buddy Poffin TEF 144
+2 Counter Catcher PAR 160
+4 Iono PAL 185
+2 Night Stretcher SFA 61
+1 Sparkling Crystal SCR 142
+2 Nest Ball SVI 181
+1 Rescue Board TEF 159
+2 Artazon PAL 171
+2 Boss's Orders PAL 172
+
+Energy: 2
+3 Basic {R} Energy SVE 10
+3 Basic {P} Energy SVE 13
+
+Total Cards: 60
