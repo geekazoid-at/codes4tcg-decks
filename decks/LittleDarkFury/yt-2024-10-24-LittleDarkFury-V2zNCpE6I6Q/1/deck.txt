@@ -1,5 +1,5 @@
 Pokémon: 7
-3 Metang TEF 144
+3 Metang TEF 114
 2 Beldum TEF 113
 4 Meltan SCR 103
 4 Melmetal SCR 104
