@@ -1,0 +1,38 @@
+Pokémon: 9
+3 Noctowl PRE 78
+4 Durant ex SSP 236
+1 Dusclops SFA 19
+3 Teal Mask Ogerpon ex PRE 145
+1 Duskull SFA 18
+3 Hoothoot SCR 114
+1 Fezandipiti ex SFA 38
+1 Fan Rotom SCR 118
+1 Dusknoir SFA 20
+
+Trainer: 20
+1 Earthen Vessel PRE 106
+1 Rare Candy SVI 191
+4 Arven OBF 186
+1 Exp. Share SVI 174
+1 Defiance Band SVI 169
+2 Energy Switch SVI 173
+4 Buddy-Buddy Poffin TEF 144
+1 Lost Vacuum LOR 162
+2 Night Stretcher SFA 61
+1 Counter Catcher CIN 91
+2 Colress's Tenacity SFA 57
+2 Iono PAF 80
+1 Professor's Research PRE 122
+1 Pal Pad SVI 182
+2 Nest Ball SVI 181
+1 Rescue Board TEF 159
+2 Area Zero Underdepths SCR 174
+1 Precious Trolley SSP 185
+1 Bravery Charm PAL 173
+2 Boss's Orders PAL 172
+
+Energy: 2
+5 Basic {G} Energy SVE 1
+4 Double Turbo Energy BRS 151
+
+Total Cards: 60

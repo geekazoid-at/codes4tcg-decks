@@ -1,0 +1,34 @@
+Pokémon: 13
+2 Armarouge SVI 41
+1 Munkidori TWM 95
+2 Charcadet SSP 32
+4 Arceus V BRS 122
+1 Gouging Fire ex TEF 38
+1 Delphox V LOR 27
+1 Fezandipiti ex SFA 38
+1 Iron Hands ex PAR 70
+1 Mew ex MEW 151
+1 Regigigas PRE 86
+1 Budew PRE 4
+3 Arceus VSTAR BRS 123
+1 Radiant Charizard PGO 11
+
+Trainer: 9
+3 Boss's Orders PAL 172
+1 Lost Vacuum LOR 162
+4 Professor's Research SVI 190
+4 Nest Ball SVI 181
+1 Switch SVI 194
+4 Ultra Ball SVI 196
+1 Night Stretcher SFA 61
+4 Iono PAL 185
+3 Magma Basin BRS 144
+
+Energy: 5
+2 Luminous Energy PAL 191
+1 Legacy Energy TWM 167
+4 Double Turbo Energy BRS 151
+7 Basic {R} Energy SVE 2
+1 Jet Energy PAL 190
+
+Total Cards: 60

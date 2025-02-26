@@ -1,0 +1,36 @@
+Pokémon: 11
+1 Articuno PGO 24
+1 Frigibax PAL 57
+2 Bibarel BRS 121
+1 Bidoof BRS 120
+2 Kyogre ex PR-SV 178
+2 Budew PRE 4
+1 Frigibax PAF 17
+2 Baxcalibur PAL 60
+1 Radiant Greninja ASR 46
+1 Arctibax PAL 59
+1 Bidoof CRZ 111
+
+Trainer: 17
+1 Hisuian Heavy Ball ASR 146
+1 Counter Catcher PAR 160
+3 Nest Ball PAF 84
+3 Irida ASR 147
+4 Ultra Ball PAF 91
+1 Maximum Belt TEF 154
+2 Boss's Orders PAL 172
+2 Black Belt's Training PRE 96
+4 Arven SVI 166
+1 Technical Machine: Evolution PAR 178
+3 Superior Energy Retrieval PAL 189
+1 Super Rod PAL 188
+1 Defiance Band SVI 169
+2 Rare Candy PAF 89
+3 Buddy-Buddy Poffin PRE 101
+1 Rescue Board PRE 126
+3 Earthen Vessel PAR 163
+
+Energy: 1
+9 Basic {W} Energy SVE 3
+
+Total Cards: 60
