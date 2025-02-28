@@ -1,0 +1,28 @@
+Pokémon: 8
+1 Dachsbun ex SCR 67
+4 Toedscool PAR 16
+4 Chansey MEW 113
+1 Fidough SCR 66 PH
+3 Teal Mask Ogerpon ex TWM 211
+2 Toedscruel ex OBF 22
+1 Toedscruel PAR 17
+2 Blissey ex TWM 201
+
+Trainer: 12
+1 Counter Catcher PAR 160
+4 Bug Catching Set TWM 143
+2 Nest Ball PAF 84
+2 Judge SVI 176
+3 Ultra Ball PAF 91
+1 Night Stretcher SFA 61
+4 Arven OBF 186
+3 Area Zero Underdepths PRE 94
+4 Iono PAL 185
+1 Boss's Orders PAL 172 PH
+1 Super Rod PAL 188
+4 Buddy-Buddy Poffin PRE 101
+
+Energy: 1
+12 Basic {G} Energy SVE 9
+
+Total Cards: 60
