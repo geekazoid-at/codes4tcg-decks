@@ -1,0 +1,36 @@
+Pokémon: 13
+1 Combee PAL 8
+2 Dunsparce PRE 79
+2 Dudunsparce PRE 80
+1 Radiant Alakazam SIT 59
+3 Chansey MEW 113
+2 Hawlucha SVI 118
+1 Vespiquen ex OBF 96
+2 Teal Mask Ogerpon ex PRE 12
+1 Fezandipiti ex SFA 38
+2 Vespiquen ex OBF 212
+1 Budew PRE 4
+2 Combee OBF 8
+2 Blissey ex TWM 134
+
+Trainer: 15
+2 Carmine TWM 145
+1 Precious Trolley SSP 185
+2 Nest Ball SVI 181
+2 Boss's Orders PAL 172
+3 Area Zero Underdepths PRE 94
+3 Arven SVI 166
+1 Technical Machine: Devolution PAR 177
+1 Technical Machine: Evolution PAR 178
+1 Super Rod PAL 188
+2 Buddy-Buddy Poffin TEF 144
+2 Iono PAF 80
+4 Ultra Ball SVI 196
+1 Professor's Research PRE 122
+1 Switch SVI 194
+2 Earthen Vessel PAR 163
+
+Energy: 1
+10 Basic {G} Energy SVE 9
+
+Total Cards: 60

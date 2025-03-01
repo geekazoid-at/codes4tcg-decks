@@ -1,0 +1,28 @@
+Pokémon: 7
+4 Meowscarada ex PAL 15
+1 Fezandipiti ex SFA 38
+1 Mew ex MEW 151
+2 Teal Mask Ogerpon ex TWM 211
+1 Budew PRE 4
+4 Sprigatito SVI 13
+1 Floragato SVI 14
+
+Trainer: 13
+4 Bug Catching Set TWM 143
+3 Judge SVI 176
+3 Energy Switch SVI 173
+1 Energy Retrieval SVI 171
+1 Prime Catcher TEF 157
+3 Pokémon Catcher SVI 187
+2 Night Stretcher SFA 61
+4 Nest Ball SVI 181
+3 Boss's Orders PAL 172
+4 Iono PAL 185
+4 Rare Candy PAF 89
+4 Buddy-Buddy Poffin TEF 144
+1 Rescue Board PRE 126
+
+Energy: 1
+9 Basic {G} Energy SVE 1
+
+Total Cards: 60

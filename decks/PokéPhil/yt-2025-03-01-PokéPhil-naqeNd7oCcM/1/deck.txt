@@ -1,0 +1,34 @@
+Pokémon: 8
+2 Starmie MEW 121
+2 Staryu MEW 120
+3 Meowscarada ex PAL 15
+2 Teal Mask Ogerpon ex TWM 211
+1 Mew ex MEW 151
+1 Fezandipiti ex SFA 38
+4 Sprigatito SVI 13
+2 Floragato PAL 14
+
+Trainer: 18
+1 Ultra Ball SVI 196
+3 Rare Candy PAF 89
+1 Rocky Helmet SVI 193
+1 Defiance Band SVI 169
+1 Earthen Vessel PAR 163
+2 Energy Switch SVI 173
+4 Buddy-Buddy Poffin TEF 144
+2 Energy Retrieval SVI 171
+2 Iono PAL 185
+1 Night Stretcher SFA 61
+1 Technical Machine: Evolution PAR 178
+4 Pokégear 3.0 SVI 186
+2 Nest Ball SVI 181
+1 Rescue Board TEF 159
+1 Unfair Stamp TWM 165
+3 Bug Catching Set TWM 143
+4 Arven SVI 166
+1 Boss's Orders PAL 172
+
+Energy: 1
+8 Basic {G} Energy SVE 1
+
+Total Cards: 60
