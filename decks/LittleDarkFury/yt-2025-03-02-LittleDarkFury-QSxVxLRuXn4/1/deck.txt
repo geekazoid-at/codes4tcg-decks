@@ -1,0 +1,31 @@
+Pokémon: 11
+2 Teal Mask Ogerpon ex TWM 25
+4 Slowpoke SVI 42
+3 Slowking SCR 58
+1 Conkeldurr TWM 105
+1 Fezandipiti ex SFA 38
+1 Latias ex SSP 220
+1 Crobat SIT 105
+1 Regigigas PRE 86
+1 Budew PRE 4
+2 Kyurem SFA 47
+1 Mew ex MEW 151
+
+Trainer: 11
+4 Professor's Research SVI 190
+4 Academy at Night SFA 54
+2 Lana's Aid TWM 155
+1 Max Rod PRE 116
+4 Nest Ball SVI 181
+1 Exp. Share SVI 174
+3 Earthen Vessel PAR 163
+4 Ultra Ball SVI 196
+4 Energy Switch SVI 173
+4 Night Stretcher SSP 63
+3 Iono PAL 185
+
+Energy: 2
+6 Basic {G} Energy GRI 167
+2 Basic {P} Energy SUM 162
+
+Total Cards: 60
