@@ -1,0 +1,40 @@
+Pokémon: 7
+2 Drakloak TWM 129
+1 Munkidori TWM 95
+2 Dreepy TWM 128
+2 Dragapult ex TWM 130
+4 Gimmighoul SSP 97
+1 Fezandipiti ex SFA 38
+4 Gholdengo ex PAR 139
+
+Trainer: 18
+2 Ultra Ball SVI 196
+1 Switch SVI 194
+4 Arven OBF 186
+1 Earthen Vessel PAR 163
+4 Buddy-Buddy Poffin TEF 144
+2 Crispin SCR 133
+1 Counter Catcher PAR 160
+2 Iono PAL 185
+1 Energy Search Pro SSP 176
+1 Night Stretcher SFA 61
+4 Superior Energy Retrieval PAL 189
+1 Super Rod PAL 188
+2 Technical Machine: Evolution PAR 178
+1 Pokégear 3.0 SVI 186
+2 Nest Ball SVI 181
+1 Rescue Board TEF 159
+1 Artazon PAL 171
+1 Boss's Orders PAL 172
+
+Energy: 8
+1 Basic {W} Energy SVE 11
+1 Basic {F} Energy SVE 14
+1 Basic {L} Energy SVE 12
+1 Basic {D} Energy SVE 15
+2 Basic {R} Energy SVE 10
+1 Basic {G} Energy SVE 9
+2 Basic {P} Energy SVE 13
+3 Basic {M} Energy SVE 16
+
+Total Cards: 60
