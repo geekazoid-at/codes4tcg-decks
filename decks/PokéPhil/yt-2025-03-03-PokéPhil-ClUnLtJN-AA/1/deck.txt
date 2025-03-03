@@ -1,0 +1,30 @@
+Pokémon: 7
+4 Iron Crown ex TEF 81
+3 Iron Hands ex PAR 70
+1 Mew ex MEW 151
+2 Miraidon TEF 121
+1 Fezandipiti ex SFA 38
+1 Iron Bundle PAR 56
+1 Regigigas PRE 86 PH
+
+Trainer: 14
+4 Arven OBF 186
+4 Electric Generator SVI 170
+4 Future Booster Energy Capsule TEF 149
+2 Iono PAL 185
+1 Kieran TWM 154
+2 Surfer SSP 235
+1 Town Store OBF 196
+2 Heavy Baton TEF 151
+4 Pokégear 3.0 SVI 186
+2 Pokémon Catcher SVI 187
+2 Nest Ball SVI 181
+1 Scramble Switch SSP 186
+4 Techno Radar PAR 180
+1 Boss's Orders PAL 172
+
+Energy: 2
+12 Basic {L} Energy SVE 12
+1 Basic {P} Energy SVE 13
+
+Total Cards: 60

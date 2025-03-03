@@ -1,0 +1,35 @@
+Pokémon: 11
+3 Glimmora ex OBF 123
+2 Bibarel BRS 121
+1 Bidoof BRS 120
+2 Glimmet PAL 125
+2 Glimmet PAL 124
+1 Shellos LOR 39
+1 Radiant Hisuian Sneasler LOR 123
+2 Budew PRE 4
+1 Bidoof CRZ 111
+1 Gastrodon SSP 107
+2 Cornerstone Mask Ogerpon ex TWM 112
+
+Trainer: 16
+3 Ultra Ball SVI 196
+3 Buddy-Buddy Poffin PRE 101
+2 Switch SVI 194
+1 Earthen Vessel PRE 106
+1 Grant ASR 144
+3 Arven OBF 186
+2 Exp. Share SVI 174
+1 Hisuian Heavy Ball ASR 146
+1 Night Stretcher SFA 61
+1 Super Rod PAL 188
+4 Iono PAF 80
+1 Rigid Band MEW 165
+4 Area Zero Underdepths PRE 94
+3 Nest Ball SVI 181
+1 Unfair Stamp TWM 165
+3 Boss's Orders PAL 172
+
+Energy: 1
+8 Basic {F} Energy SVE 14
+
+Total Cards: 60
