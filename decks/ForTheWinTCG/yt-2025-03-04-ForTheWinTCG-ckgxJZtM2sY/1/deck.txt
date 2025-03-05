@@ -1,0 +1,33 @@
+Pokémon: 6
+4 Archen SIT 146
+4 Archeops SIT 147
+2 Tatsugiri ex SSP 142
+4 Greninja ex TWM 106
+4 Pidgeot ex OBF 164
+2 Frogadier TWM 57
+
+Trainer: 14
+1 Earthen Vessel PRE 106
+1 Switch SVI 194
+1 Academy at Night SFA 54
+1 Counter Gain SSP 169
+1 Canceling Cologne ASR 136
+4 Crispin SCR 133
+1 Counter Catcher PAR 160
+2 Super Rod PAL 188
+4 Town Store OBF 196
+4 Pokégear 3.0 SVI 186
+1 Roxanne ASR 150
+1 Sparkling Crystal SCR 142
+1 Jacq SVI 175
+2 Boss's Orders PAL 172
+
+Energy: 6
+3 Basic {W} Energy SVE 3
+3 Basic {R} Energy SVE 2
+2 Basic {D} Energy SVE 7
+1 Double Turbo Energy BRS 151
+4 Boomerang Energy TWM 166
+2 Luminous Energy PAL 191
+
+Total Cards: 60

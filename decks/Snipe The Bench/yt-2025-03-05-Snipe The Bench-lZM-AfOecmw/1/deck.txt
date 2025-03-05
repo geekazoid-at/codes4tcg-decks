@@ -1,0 +1,29 @@
+Pokémon: 6
+2 Budew PRE 4
+1 Munkidori TWM 95
+3 Snorunt PAR 37
+3 Froslass TWM 53
+3 Lycanroc ex PAL 117
+4 Rockruff PAL 116
+
+Trainer: 14
+2 Night Stretcher SFA 61
+1 Switch SVI 194
+4 Buddy-Buddy Poffin TEF 144
+4 Crispin SCR 133
+4 Arven OBF 186
+2 Pokégear 3.0 SVI 186
+1 Counter Catcher PAR 160
+1 Artazon PAL 171
+2 Judge PAF 228
+2 Iono PAF 80
+2 Boss's Orders PAL 172
+3 Nest Ball SVI 181
+4 Ultra Ball PAF 91
+1 Amulet of Hope SSP 162
+
+Energy: 2
+3 Basic {D} Energy SVE 15
+8 Basic {F} Energy SVE 14
+
+Total Cards: 60
