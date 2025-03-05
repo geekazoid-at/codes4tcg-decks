@@ -2,7 +2,7 @@ Pokémon: 4
 1 Radiant Greninja ASR 46
 4 Kyurem VMAX LOR 49
 4 Kyurem V LOR 48
-1 Wellspring Mask Ogerpon ex PTWM 64
+1 Wellspring Mask Ogerpon ex TWM 64
 
 Trainer: 13
 2 Powerglass SFA 63
