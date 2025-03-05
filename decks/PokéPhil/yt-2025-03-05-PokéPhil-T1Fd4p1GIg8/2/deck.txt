@@ -1,0 +1,30 @@
+Pokémon: 5
+1 Lycanroc OBF 117
+4 Rockruff PAL 116
+3 Lycanroc ex PAL 241
+4 Cornerstone Mask Ogerpon ex TWM 112
+2 Tatsugiri TWM 131
+
+Trainer: 16
+1 Rigid Band MEW 165
+3 Academy at Night SFA 54
+1 Pal Pad SVI 182
+4 Nest Ball SVI 181
+1 Calamitous Wasteland PAL 175
+4 Gutsy Pickaxe ASR 145
+1 Boss's Orders PAL 172
+1 Hyper Aroma TWM 152
+4 Arven SVI 166
+1 Super Rod PAL 188
+2 Colress's Tenacity SFA 57
+3 Buddy-Buddy Poffin PRE 101
+4 Earthen Vessel PRE 106
+1 Iono PAF 80
+1 Professor's Research PRE 122
+2 Rescue Board PRE 126
+
+Energy: 2
+8 Basic {F} Energy SVE 6
+4 Double Turbo Energy BRS 151
+
+Total Cards: 60

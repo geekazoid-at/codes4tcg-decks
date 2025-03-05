@@ -1,0 +1,30 @@
+Pokémon: 6
+3 Lycanroc ex PAL 241
+4 Froslass TWM 53
+1 Lycanroc OBF 117
+2 Budew PRE 4
+4 Snorunt TWM 51
+4 Rockruff PAL 116
+
+Trainer: 15
+2 Giovanni's Charisma MEW 197
+1 Earthen Vessel PRE 106
+4 Buddy-Buddy Poffin TEF 144
+1 Hyper Aroma TWM 152
+4 Iono PAL 185
+2 Colress's Tenacity SFA 57
+2 Technical Machine: Evolution PAR 178
+1 Rigid Band MEW 165
+1 Lost Vacuum LOR 217
+3 Pokégear 3.0 SVI 186
+1 Professor's Research PRE 122
+1 Rescue Board TEF 159
+2 Artazon PAL 171
+4 Arven SVI 166
+1 Boss's Orders PAL 172
+
+Energy: 2
+4 Double Turbo Energy BRS 151
+8 Basic {F} Energy SVE 6
+
+Total Cards: 60

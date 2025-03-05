@@ -1,0 +1,35 @@
+Pokémon: 7
+3 Scovillain ex TEF 22
+3 Capsakid SVI 28
+3 Teal Mask Ogerpon ex PRE 12
+2 Munkidori TWM 95
+1 Tatsugiri TWM 131
+1 Budew PRE 4
+1 Fezandipiti ex SFA 38
+
+Trainer: 19
+4 Nest Ball SVI 181
+3 Buddy-Buddy Poffin TEF 144
+2 Ultra Ball PAF 91
+2 Earthen Vessel PAR 163
+1 Counter Catcher PAR 160
+1 Night Stretcher SFA 61
+1 Super Rod PAL 188
+2 Energy Switch SVI 173
+1 Unfair Stamp TWM 165
+1 Rescue Board TEF 159
+1 Technical Machine: Devolution PAR 177
+1 Exp. Share SVI 174
+1 Handheld Fan TWM 150
+4 Arven SVI 166
+3 Iono PAL 185
+2 Eri PRE 136
+2 Boss's Orders PAL 172
+2 Judge SVI 176
+1 Town Store OBF 196
+
+Energy: 2
+9 Basic {G} Energy SVE 1
+2 Basic {D} Energy SVE 7
+
+Total Cards: 60
