@@ -1,0 +1,27 @@
+Pokémon: 9
+1 Wurmple LOR 6
+1 Kricketune ASR 10
+1 Kricketot ASR 9
+4 Teal Mask Ogerpon ex TWM 25
+4 Applin TWM 17
+3 Hydrapple ex SCR 14
+2 Dipplin TWM 18
+1 Silcoon LOR 7
+1 Beautifly LOR 8
+
+Trainer: 10
+4 Bug Catching Set TWM 143
+2 Nest Ball PAF 84
+3 Boss's Orders PAL 172
+2 Super Rod PAL 188
+2 Colress's Tenacity SFA 57
+2 Ciphermaniac's Codebreaking PRE 104
+1 Grand Tree SCR 136
+2 Buddy-Buddy Poffin TEF 144
+4 Iono PAF 80
+2 Switch SVI 194
+
+Energy: 1
+18 Basic {G} Energy SVE 1
+
+Total Cards: 60

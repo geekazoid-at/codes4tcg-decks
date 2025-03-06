@@ -1,0 +1,29 @@
+Pokémon: 5
+3 Rapidash SIT 22
+2 Chi-Yu PAR 29
+2 Entei V BRS 22
+3 Ponyta MEW 77
+1 Radiant Charizard CRZ 20
+
+Trainer: 16
+2 Mela PAR 167
+4 Carmine TWM 145
+1 Secret Box TWM 163
+4 Magma Basin BRS 144
+4 Nest Ball PAF 84
+2 Energy Retrieval SVI 171
+2 Ultra Ball PAF 91
+4 Night Stretcher SFA 61
+1 Pal Pad SVI 182
+2 Bravery Charm PAL 173
+2 Boss's Orders PAL 172
+2 Buddy-Buddy Poffin TEF 144
+4 Professor's Research PRE 122
+1 Switch SVI 194
+2 Rescue Board PRE 126
+3 Earthen Vessel PAR 163
+
+Energy: 1
+9 Basic {R} Energy SVE 2
+
+Total Cards: 60
