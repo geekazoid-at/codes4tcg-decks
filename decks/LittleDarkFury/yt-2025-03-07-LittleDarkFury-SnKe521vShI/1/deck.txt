@@ -1,0 +1,41 @@
+Pokémon: 9
+2 Dunsparce TEF 128
+3 Dudunsparce TEF 129
+1 Dunsparce PAL 156
+1 Fezandipiti ex SFA 38
+4 Shroodle SSP 120
+1 Radiant Greninja ASR 46
+4 Grafaiai PAL 146
+1 Gimmighoul SSP 97
+1 Gholdengo ex PAR 139
+
+Trainer: 17
+1 Energy Search Pro SSP 176
+2 Lana's Aid TWM 155
+4 Buddy-Buddy Poffin TEF 144
+1 Super Rod PAL 188
+4 Superior Energy Retrieval PAL 189
+2 Artazon PAF 76
+2 Ciphermaniac's Codebreaking TEF 145
+3 Nest Ball PAF 84
+2 Night Stretcher SFA 61
+2 Great Ball PAL 183
+1 Counter Catcher PAR 160
+1 Technical Machine: Evolution PAR 178
+1 Boss's Orders PAL 172
+1 Arezu LOR 153
+1 Energy Retrieval SVI 171
+2 Arven OBF 186
+1 Iono PAF 80
+
+Energy: 8
+1 Basic {R} Energy BUS 167
+3 Basic {D} Energy BUS 168
+1 Basic {G} Energy GRI 167
+1 Basic {F} Energy GRI 169
+1 Basic {L} Energy GRI 168
+1 Basic {W} Energy CIN 124
+1 Basic {P} Energy SUM 162
+2 Basic {M} Energy SUM 163
+
+Total Cards: 60
