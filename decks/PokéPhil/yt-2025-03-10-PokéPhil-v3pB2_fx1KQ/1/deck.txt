@@ -1,0 +1,42 @@
+Pokémon: 13
+1 Eevee ex PRE 75
+2 Flareon ex PRE 146
+1 Leafeon ex PRE 144
+2 Hoothoot ASR-TG 12
+1 Dragapult ex PRE 165
+1 Lumineon V BRS 40
+1 Fezandipiti ex SFA 38
+1 Flareon ex PRE 14
+3 Eevee PRE 74
+2 Dreepy PRE 71
+2 Noctowl PRE 78
+1 Fan Rotom PRE 85
+1 Dragapult ex TWM 200
+
+Trainer: 17
+3 Tera Orb SSP 189
+1 Glass Trumpet PRE 110
+2 Nest Ball SVI 181
+1 Area Zero Underdepths PRE 94
+1 Crispin PRE 171
+2 Boss's Orders PAL 248
+1 Iono PAL 185
+4 Arven SVI 166
+1 Professor Turo's Scenario PAR 171
+1 Super Rod PAL 188
+1 Buddy-Buddy Poffin PRE 101
+2 Crispin SCR 133
+1 Sparkling Crystal PRE 129
+2 Ultra Ball SVI 196
+2 Switch SVI 194
+2 Rescue Board PRE 126
+2 Rare Candy SVI 191
+
+Energy: 5
+1 Basic {G} Energy SVE 9 PH
+5 Basic {R} Energy SVE 10
+2 Basic {L} Energy SVE 12
+2 Basic {W} Energy SVE 11
+2 Basic {P} Energy SVE 5
+
+Total Cards: 60
