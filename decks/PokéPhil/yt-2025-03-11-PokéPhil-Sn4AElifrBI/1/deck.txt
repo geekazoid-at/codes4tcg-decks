@@ -1,0 +1,33 @@
+Pokémon: 9
+1 Kadabra MEW 64
+1 Rabsca TEF 24
+3 Abra TWM 80 PH
+2 Natu PAF 25
+1 Fezandipiti ex SFA 38
+3 Alakazam ex PAF 215
+1 Rellor TEF 23
+2 Xatu PAF 26 PH
+3 Mimikyu PR-SV 75
+
+Trainer: 16
+1 Ultra Ball SVI 196
+2 Earthen Vessel PRE 106
+3 Rare Candy SVI 191
+4 Arven OBF 186
+4 Buddy-Buddy Poffin TEF 144
+4 Iono PAL 185
+1 Technical Machine: Evolution PAR 178
+1 Counter Catcher PAR 160 PH
+2 Morty's Conviction TEF 155
+2 Rescue Board TEF 159
+1 Unfair Stamp TWM 165
+1 Calamitous Wasteland PAL 175
+1 Tulip PAR 181
+3 Artazon PAL 171
+2 Bravery Charm PAL 173
+2 Boss's Orders PAL 172
+
+Energy: 1
+9 Basic {P} Energy SVE 5
+
+Total Cards: 60
