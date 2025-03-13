@@ -1,0 +1,35 @@
+Pokémon: 7
+3 Greninja ex TWM 106
+1 Crocalor PAL 36
+3 Fuecoco PAL 34
+2 Frogadier TWM 57
+2 Skeledirge ex PAR 137
+1 Radiant Charizard PGO 11
+4 Froakie OBF 56
+
+Trainer: 18
+1 Briar PRE 100
+1 Buddy-Buddy Poffin PRE 101
+1 Switch SVI 194
+1 Earthen Vessel PRE 106
+3 Rare Candy PAF 89
+3 Ultra Ball PAF 91
+4 Arven OBF 186
+1 Energy Retrieval SVI 171
+1 Grand Tree SCR 136
+1 Super Rod PAL 188
+1 Technical Machine: Evolution PAR 178
+1 Big Air Balloon MEW 155
+4 Iono PAF 80
+3 Pokégear 3.0 SVI 186
+4 Nest Ball PAF 84
+1 Tera Orb SSP 189
+2 Artazon PAL 171
+2 Boss's Orders PAL 172
+
+Energy: 3
+4 Basic {W} Energy SVE 3
+3 Basic {R} Energy SVE 2
+2 Double Turbo Energy BRS 151
+
+Total Cards: 60

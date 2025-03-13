@@ -1,0 +1,33 @@
+Pokémon: 8
+3 Incineroar ex TEF 34
+2 Pidgeotto MEW 17
+2 Pidgeot ex OBF 164
+3 Litten TEF 32
+2 Pidgey OBF 162
+1 Fezandipiti ex SFA 38
+2 Torracat TEF 33
+2 Budew PRE 4
+
+Trainer: 17
+3 Rare Candy PAF 89
+1 Switch SVI 194
+4 Ultra Ball PAF 91
+2 Boss's Orders PAL 265
+1 Earthen Vessel PAR 163
+4 Buddy-Buddy Poffin TEF 144
+1 Grand Tree SCR 136
+2 Iono PAL 185
+2 Colress's Tenacity SFA 57
+2 Nest Ball PAF 84
+1 Judge PAF 228
+2 Accompanying Flute TWM 142
+4 Arven SVI 166
+2 Pokégear 3.0 SVI 186
+1 Technical Machine: Evolution PAR 178
+1 Super Rod PAL 188
+1 Counter Catcher PAR 160
+
+Energy: 1
+9 Basic {R} Energy SVE 10
+
+Total Cards: 60

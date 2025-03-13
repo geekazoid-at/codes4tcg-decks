@@ -1,0 +1,39 @@
+Pokémon: 11
+2 Bibarel BRS 121
+2 Frigibax PAL 57
+1 Fezandipiti ex SFA 38
+1 Regigigas PRE 86
+1 Iron Hands ex PAR 70
+1 Frigibax PAF 17
+2 Baxcalibur PAL 60
+1 Radiant Greninja ASR 46
+2 Arctibax PAL 59
+2 Bidoof CRZ 111
+2 Chien-Pao ex PAL 61
+
+Trainer: 18
+3 Buddy-Buddy Poffin TEF 144
+1 Hisuian Heavy Ball ASR 146
+2 Super Rod PAL 188
+1 PokéStop PGO 68
+1 Boss's Orders PAL 172
+4 Superior Energy Retrieval PAL 189
+2 Rare Candy SVI 191
+3 Nest Ball PAF 84
+3 Ultra Ball PAF 91
+1 Night Stretcher SFA 61
+1 Iono PAL 185
+1 Counter Catcher PAR 160
+1 Technical Machine: Evolution PAR 178
+2 Colress's Tenacity SFA 57
+2 Irida ASR 147
+1 Grand Tree SCR 136
+2 Arven SVI 166
+1 Earthen Vessel PAR 163
+
+Energy: 3
+1 Basic {L} Energy GRI 168
+8 Basic {W} Energy CIN 124
+2 Jet Energy PAL 190
+
+Total Cards: 60

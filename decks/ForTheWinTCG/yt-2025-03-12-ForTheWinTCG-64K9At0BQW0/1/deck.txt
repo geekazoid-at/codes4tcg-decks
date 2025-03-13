@@ -1,0 +1,33 @@
+Pokémon: 11
+3 Incineroar ex TEF 34
+2 Quaxly PAL 50
+1 Hisuian Decidueye V ASR 83
+1 Incineroar SIT 32
+2 Torracat SIT 31
+4 Litten SIT 30
+1 Hisuian Decidueye VSTAR ASR 84
+1 Quaxwell SSP 51
+1 Radiant Greninja ASR 46
+2 Fennekin SIT 25
+2 Quaquaval SSP 52
+
+Trainer: 13
+3 Ultra Ball SVI 196
+4 Buddy-Buddy Poffin PRE 101
+2 Switch SVI 194
+3 Irida ASR 147
+4 Rare Candy SVI 191
+1 Counter Gain SSP 169
+1 Earthen Vessel PAR 163
+1 Mela PAR 167
+1 Grand Tree SCR 136
+4 Iono PAL 185
+1 Arven SVI 166
+2 Boss's Orders PAL 172
+3 Magma Basin BRS 144
+
+Energy: 2
+4 Double Turbo Energy BRS 151
+6 Basic {R} Energy SVE 2
+
+Total Cards: 60
