@@ -1,0 +1,32 @@
+Pokémon: 6
+3 Miraidon PR-SV 92
+4 Iron Crown ex TEF 81
+2 Iron Hands ex PAR 223
+1 Iron Bundle PAR 56
+2 Iron Thorns ex TWM 77
+1 Mew ex MEW 205
+
+Trainer: 16
+2 Boss's Orders PAL 265
+4 Arven OBF 186
+2 Professor's Research PAF 88
+1 Lost Vacuum CRZ 135
+4 Future Booster Energy Capsule TEF 149
+3 Iono PAF 80
+1 Town Store OBF 196 PH
+1 Energy Switch SIT 212
+1 Heavy Baton TEF 151
+1 Counter Catcher PAR 264
+1 Nest Ball PAF 84
+1 Prime Catcher TEF 157
+2 Electric Generator PAF 79
+4 Techno Radar PAR 180
+2 Pokégear 3.0 SVI 186 PH
+1 Bravery Charm PAL 173
+
+Energy: 3
+12 Basic {L} Energy SVE 4
+2 Double Turbo Energy BRS 151
+2 Basic {P} Energy SVE 5
+
+Total Cards: 60

@@ -1,0 +1,37 @@
+Pokémon: 12
+1 Pidgey OBF 207
+2 Pidgeot ex OBF 225
+3 Gengar ex TEF 193
+1 Rotom V LOR 58
+1 Roaring Moon ex PAR 124
+1 Haunter PAF 56 PH
+1 Pidgey PAF 196
+1 Fezandipiti ex SFA 38
+4 Gastly TEF 177
+1 Pecharunt ex SFA 39
+1 Tatsugiri TWM 186
+1 Radiant Alakazam SIT 59
+
+Trainer: 17
+1 Unfair Stamp TWM 165
+1 Super Rod PAL 276
+1 Technical Machine: Devolution PAR 177 PH
+1 Forest Seal Stone SIT 156
+1 Earthen Vessel SFA 96
+2 Nest Ball SVI 181
+4 Arven PAF 235
+1 Janine's Secret Art SFA 88
+3 Ultra Ball PLF 122
+1 Boss's Orders PAL 265
+3 Iono PAL 185
+3 Dark Patch LOR 216
+1 Counter Catcher PAR 264
+1 Binding Mochi SFA 55 PH
+4 Buddy-Buddy Poffin TEF 144
+1 Handheld Fan TWM 150 PH
+4 Rare Candy SVI 191
+
+Energy: 1
+9 Basic {D} Energy SFA 98
+
+Total Cards: 60

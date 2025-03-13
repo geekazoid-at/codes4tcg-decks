@@ -1,0 +1,33 @@
+Pokémon: 10
+1 Lumineon V BRS 40
+1 Drapion V LOR 118
+2 Raichu V BRS 45
+2 Miraidon ex SVI 81
+2 Iron Hands ex PAR 223
+1 Flaaffy EVS 55
+2 Mew ex MEW 151
+1 Mareep EVS 54
+1 Squawkabilly ex PAL 169
+1 Zapdos PGO 29
+
+Trainer: 14
+4 Ultra Ball SVI 196
+2 Switch SVI 194
+1 Escape Rope BST 125
+3 Exp. Share SVI 174
+4 Electric Generator SVI 170
+1 Battle VIP Pass FST 225
+2 Town Store OBF 196
+2 Pokémon Catcher SVI 187
+1 Forest Seal Stone SIT 156
+2 Nest Ball SVI 181
+3 Professor's Research SVI 189
+3 Peony CRE 150
+2 Boss's Orders PAL 172
+1 Beach Court SVI 167
+
+Energy: 2
+14 Basic {L} Energy SVE 4
+1 Double Turbo Energy BRS 151
+
+Total Cards: 60

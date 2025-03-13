@@ -9,6 +9,7 @@ const channelIdLdf = "UCAhRWmekXLryJOZRUYR4seQ"; // LDF
 // const channelIdAgg = "UCEZlNLKMWQ7FV33gr9lpX9A"; // AzulGG, posts limitless decks
 const channelIdFtw = "UCAQKOO0Evm2TENo0UCZR-pg"; // ForTheWinTCG
 const channelIdStb = "UCCLD0ptegGoRv8RHuhgZR_A"; // snipe the bench
+const channelIdSneaker = "UCBjjolWH6d6JJRCZ6a02N6w"; // snipe the bench
 
 const allChannelIds = [
   channelIdTyp,
@@ -16,6 +17,7 @@ const allChannelIds = [
   channelIdLdf,
   channelIdFtw,
   channelIdStb,
+  channelIdSneaker,
 ];
 
 const main = async (channelId, pageSize, pageCount) => {
@@ -231,7 +233,7 @@ const main = async (channelId, pageSize, pageCount) => {
   });
 };
 
-const importChannelId = channelIdTyp;
+const importChannelId = channelIdSneaker;
 // const RUNTYPE = "IMPORT";
 
 const RUNTYPE = "UPDATE";

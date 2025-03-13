@@ -1,0 +1,36 @@
+Pokémon: 13
+2 Regieleki V SIT 57
+1 Latias ex SSP 76
+1 Mimikyu PR-SV 75
+1 Iron Hands ex PRE 154
+1 Regieleki VMAX SIT 198
+1 Luxray V ASR 168
+1 Fezandipiti ex SFA 38
+1 Squawkabilly ex PAL 247
+1 Mew ex MEW 205
+2 Miraidon ex SVI 81
+1 Raichu V BRS 45
+1 Raikou V CRZ-GG 41
+1 Regieleki VMAX SIT 58
+
+Trainer: 14
+1 Collapsed Stadium LOR 215
+3 Ultra Ball BRS 150 PH
+1 Forest Seal Stone SIT 156
+4 Nest Ball SVI 255
+1 Prime Catcher TEF 157
+4 Arven OBF 186
+1 Rescue Board TWM 225
+1 Hisuian Heavy Ball ASR 146 PH
+1 Super Rod PAL 188 PH
+3 Boss's Orders PAL 265
+4 Electric Generator PAF 79
+3 Iono PAL 269
+1 Lost Vacuum CRZ 135
+1 Bravery Charm SCR 175
+
+Energy: 2
+2 Double Turbo Energy BRS 151
+14 Basic {L} Energy SVE 4
+
+Total Cards: 60

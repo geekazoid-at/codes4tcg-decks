@@ -1,0 +1,39 @@
+Pokémon: 16
+1 Latias ex SSP 76
+1 Magnemite SSP 58 PH
+1 Iron Bundle PAR 56
+1 Lumineon V BRS 40
+1 Zapdos PGO 29
+2 Miraidon ex SVI 244
+1 Iron Hands ex PAR 248
+1 Luxray V ASR 168
+1 Fezandipiti ex SFA 38
+1 Mew ex MEW 151
+1 Bloodmoon Ursaluna ex TWM 202
+1 Raichu V BRS 45
+1 Pikachu ex SSP 57
+1 Raikou V CRZ-GG 41
+1 Magneton PR-SV 159
+1 Squawkabilly ex PAL 169
+
+Trainer: 14
+1 Hisuian Heavy Ball ASR 146
+1 Secret Box TWM 163
+1 Judge SIT-TG 25
+1 Forest Seal Stone SIT 156
+4 Electric Generator SVI 170
+1 Night Stretcher SFA 61
+4 Nest Ball SVI 181
+3 Arven PAF 235
+1 Bravery Charm PAL 173
+2 Area Zero Underdepths SCR 131
+3 Ultra Ball SVI 196
+1 Iono PAL 269
+1 Rescue Board TWM 225
+3 Boss's Orders PAL 265
+
+Energy: 2
+15 Basic {L} Energy SVE 12
+1 Double Turbo Energy BRS 151
+
+Total Cards: 60

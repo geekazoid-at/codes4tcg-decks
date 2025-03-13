@@ -1,0 +1,33 @@
+Pokémon: 8
+2 Mimikyu PAL 97 PH
+3 Abra MEW 63 PH
+2 Kadabra MEW 64 PH
+2 Bibarel CRZ-GG 25
+1 Radiant Jirachi SIT 120
+3 Klefki SVI 96 PH
+3 Alakazam ex PAF 215
+2 Bidoof CRZ-GG 29
+
+Trainer: 16
+4 Buddy-Buddy Poffin TEF 144 PH
+2 Super Rod PAL 276
+1 Iono PAL 269
+2 Boss's Orders PR-SW 251
+1 Technical Machine: Devolution PAR 177 PH
+4 Ultra Ball BRS 186
+2 Technical Machine: Evolution PAR 178
+2 Eri TEF 210
+3 Rare Candy PLB 85
+1 Iono PR-SV 124
+4 Arven SVI 249
+2 Counter Catcher PAR 264
+1 Judge SIT-TG 25
+2 Switch MEW 206
+2 Earthen Vessel PAR 163 PH
+1 Defiance Band SVI 169 PH
+
+Energy: 2
+7 Basic {P} Energy EVO 95 PH
+1 Neo Upper Energy TEF 162
+
+Total Cards: 60

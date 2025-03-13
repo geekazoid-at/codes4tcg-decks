@@ -1,0 +1,32 @@
+Pokémon: 1
+4 Iron Thorns ex TWM 77
+
+Trainer: 22
+3 Judge SVI 176
+2 Canceling Cologne ASR 136
+2 Crushing Hammer SVI 168
+4 Arven OBF 186
+1 Grabber MEW 162 PH
+2 Lost Vacuum LOR 162
+3 Future Booster Energy Capsule TEF 149
+2 Techno Radar PAR 180 PH
+1 Technical Machine: Devolution PAR 177
+2 Technical Machine: Turbo Energize PAR 179 PH
+4 Professor's Research CEL 24
+1 Town Store OBF 196 PH
+4 Pokégear 3.0 SVI 186
+3 Pokémon Catcher SVI 187
+1 Prime Catcher TEF 157
+1 Energy Loto ASR 140
+2 Penny SVI 183
+1 Colress's Tenacity SFA 87
+1 Enhanced Hammer TWM 224
+3 Boss's Orders RCL 189
+1 Earthen Vessel PAR 163 PH
+1 Lost City LOR 161 PH
+
+Energy: 2
+7 Basic {L} Energy SVE 12
+4 Double Turbo Energy BRS 151
+
+Total Cards: 60
