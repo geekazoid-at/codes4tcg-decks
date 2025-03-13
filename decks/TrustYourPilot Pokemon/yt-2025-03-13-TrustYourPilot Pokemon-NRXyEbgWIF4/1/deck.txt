@@ -1,0 +1,37 @@
+Pokémon: 21
+4 Dreepy TWM 128
+4 Drakloak TWM 129
+3 Dragapult ex TWM 130
+2 Torchic JTG 22
+1 Combusken JTG 23
+2 Blaziken ex JTG 24
+1 Budew PRE 4
+1 Fezandipiti ex SFA 38
+1 Munkidori TWM 95
+1 Mew ex MEW 151
+1 Lillie's Clefairy ex JTG 56
+
+Trainer: 32
+4 Arven OBF 186
+3 Iono PAL 185
+1 Boss's Orders PAL 172
+1 Professor Turo's Scenario PAR 171
+4 Buddy-Buddy Poffin TEF 144
+3 Ultra Ball SVI 196
+2 Nest Ball SVI 181
+2 Rare Candy SVI 191
+2 Counter Catcher PAR 160
+2 Earthen Vessel PAR 163
+1 Night Stretcher SFA 61
+1 Unfair Stamp TWM 165
+1 Super Rod PAL 188
+2 Technical Machine: Evolution PAR 178
+1 Rescue Board TEF 159
+2 Artazon PAL 171
+
+Energy: 7
+3 Basic {R} Energy SVE 2
+3 Basic {P} Energy SVE 5
+1 Basic {D} Energy SVE 7
+
+Total Cards: 60
