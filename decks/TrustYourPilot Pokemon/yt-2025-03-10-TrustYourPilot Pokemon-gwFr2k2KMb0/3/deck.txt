@@ -1,0 +1,30 @@
+Pokémon: 17
+4 Magmar MEW 126
+4 Magmortar JTG 21
+4 Budew PRE 4
+2 Volcanion ex JTG 31
+1 Fezandipiti ex SFA 38
+1 Squawkabilly ex PAL 169
+1 Bloodmoon Ursaluna ex TWM 141
+
+Trainer: 39
+4 Professor's Research SVI 189
+3 Judge SVI 176
+2 Surfer SSP 187
+2 Boss's Orders PAL 172
+1 Iono PAL 185
+4 Nest Ball SVI 181
+4 Ultra Ball SVI 196
+4 Switch SVI 194
+3 Crushing Hammer SVI 168
+3 Night Stretcher SFA 61
+2 Pokégear 3.0 SVI 186
+1 Pal Pad SVI 182
+1 Unfair Stamp TWM 165
+3 Handheld Fan TWM 150
+2 Gravity Mountain SSP 177
+
+Energy: 4
+4 Jet Energy PAL 190
+
+Total Cards: 60

@@ -57,9 +57,7 @@ const main = async (channelId, pageSize, pageCount) => {
       .split("\n")
       .map((t) => {
         console.log(t);
-        if (t.match(/.*DECK LIST.*:/g)?.length) {
-          console.log("inDeck");
-
+        if (t.match(/[A-Z+ ]+:/g)?.length) {
           inDeck = true;
         }
 

@@ -36,7 +36,4 @@ Energy: 10
 1 Basic {L} Energy SVE 4
 1 Basic {M} Energy SVE 8
 
-
-N'S ZOROARK EX DECK LIST:
-
 Total Cards: 60

@@ -1,0 +1,33 @@
+Pokémon: 18
+3 Snorunt PAR 37
+3 Froslass TWM 53
+3 Rockruff JTG 84
+2 Lycanroc JTG 85
+3 Munkidori TWM 95
+2 Budew PRE 4
+1 Maractus JTG 8
+1 Bloodmoon Ursaluna ex TWM 141
+
+Trainer: 33
+4 Iono PAL 185
+3 Professor's Research SVI 189
+2 Morty's Conviction TEF 155
+2 Arven OBF 186
+4 Buddy-Buddy Poffin TEF 144
+3 Counter Catcher PAR 160
+3 Night Stretcher SFA 61
+2 Nest Ball SVI 181
+2 Ultra Ball SVI 196
+1 Unfair Stamp TWM 165
+1 Earthen Vessel PAR 163
+1 Super Rod PAL 188
+1 Technical Machine: Devolution PAR 177
+1 Rescue Board TEF 159
+1 Counter Gain SSP 169
+2 Artazon PAL 171
+
+Energy: 9
+5 Basic {D} Energy SVE 7
+4 Spike Energy JTG 159
+
+Total Cards: 60
