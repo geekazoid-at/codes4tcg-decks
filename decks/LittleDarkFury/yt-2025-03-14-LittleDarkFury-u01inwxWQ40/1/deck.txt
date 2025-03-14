@@ -1,0 +1,36 @@
+Pokémon: 7
+1 Cornerstone Mask Ogerpon ex TWM 112
+4 Geodude MEW 74
+2 Bibarel BRS 121
+1 Munkidori TWM 95
+2 Bidoof CRZ 111
+2 Graveler MEW 75
+3 Golem ex MEW 76
+
+Trainer: 18
+1 Rock Chestplate SVI 192
+4 Ultra Ball SVI 196
+1 Super Rod PAL 188
+1 Rare Candy PLB 105
+4 Iono PAL 185
+1 Night Stretcher SFA 61
+2 Artazon PAL 171
+1 Technical Machine: Evolution PAR 178
+2 Buddy-Buddy Poffin TEF 144
+3 Arven SVI 166
+1 Maximum Belt TEF 154
+1 Counter Catcher PAR 160
+2 Professor Turo's Scenario PRE 121 PH
+1 Boss's Orders PAL 172
+1 Professor's Research PRE 122
+4 Nest Ball SVI 181
+1 Earthen Vessel PAR 163
+3 Rare Candy SVI 191
+
+Energy: 4
+2 Double Turbo Energy ASR 216
+2 Double Turbo Energy BRS 151
+1 Basic {D} Energy BUS 168
+6 Basic {F} Energy GRI 169
+
+Total Cards: 60
