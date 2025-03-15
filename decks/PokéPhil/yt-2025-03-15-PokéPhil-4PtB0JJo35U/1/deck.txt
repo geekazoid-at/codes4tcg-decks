@@ -1,0 +1,37 @@
+Pokémon: 7
+1 Fezandipiti ex SFA 92
+4 Xatu PAR 72
+4 Natu PAF 25
+1 Mew ex PAF 232
+1 Mewtwo V PGO 72
+2 Mewtwo V PGO 30
+3 Mewtwo VSTAR PGO 31
+
+Trainer: 22
+2 Boss's Orders RCL 189
+1 Carmine TWM 204
+1 Buddy-Buddy Poffin TWM 223
+1 Lost Vacuum LOR 217
+1 Precious Trolley SSP 185
+1 Pal Pad SSH 172 PH
+2 Energy Retrieval SVI 171 PH
+1 Forest Seal Stone SIT 156
+2 Professor's Research CEL 23
+1 Town Store OBF 196 PH
+2 Nest Ball SVI 255
+3 Earthen Vessel SFA 96
+1 Technical Machine: Evolution PAR 178 PH
+2 Arven PAF 235
+1 Carmine TWM 217
+1 Giovanni's Charisma MEW 204
+2 Night Stretcher SSP 251
+3 Ultra Ball BRS 150
+1 Iono PAL 269
+1 Superior Energy Retrieval PAL 189 PH
+1 Arezu LOR 189
+2 Switch SVI 194
+
+Energy: 1
+11 Basic {P} Energy SVE 5
+
+Total Cards: 60

@@ -1,0 +1,30 @@
+Pokémon: 8
+1 Latias ex SSP 76
+2 Brute Bonnet PAR 123
+3 Duraludon SCR 106
+3 Archaludon ex SSP 130
+2 Pecharunt PR-SV 149
+1 Fezandipiti ex SFA 38
+1 Relicanth TEF 84
+2 Squawkabilly ex PAL 169
+
+Trainer: 14
+4 Carmine TWM 145
+1 Scoop Up Cyclone TWM 162
+4 Nest Ball PAF 84
+4 Ultra Ball PAF 91
+4 Perilous Jungle TEF 156
+3 Night Stretcher SFA 61
+3 Professor's Research PAF 88
+4 Ancient Booster Energy Capsule PAR 159
+2 Binding Mochi SFA 55
+3 Boss's Orders PAL 265
+1 Iono PAL 185
+2 Professor Turo's Scenario PAR 171
+1 Super Rod PAL 188
+1 Earthen Vessel PAR 163
+
+Energy: 1
+8 Basic {M} Energy SVE 16
+
+Total Cards: 60
