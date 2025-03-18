@@ -1,0 +1,31 @@
+Pokémon: 8
+1 Wyrdeer V ASR 134
+1 Latias ex SSP 76
+1 Manaphy BRS 41
+4 Clefairy LOR 62
+1 Fezandipiti ex SFA 38
+1 Radiant Greninja ASR 46
+2 Clefable TWM 79
+1 Clefable MEW 36
+
+Trainer: 15
+1 Ultra Ball SVI 196
+3 Switch Cart ASR 154
+4 Buddy-Buddy Poffin TEF 144
+1 Counter Catcher PAR 160
+2 Hisuian Heavy Ball ASR 146
+4 Iono PAL 185
+1 Night Stretcher SFA 61
+3 Super Rod PAL 188
+2 Professor's Research PRE 122
+1 Prime Catcher TEF 157
+1 Morty's Conviction TEF 155
+4 Nest Ball SVI 181
+2 Cynthia's Ambition BRS 138
+2 Lively Stadium SSP 180
+2 Boss's Orders PAL 172
+
+Energy: 1
+15 Basic {P} Energy SVE 13
+
+Total Cards: 60
