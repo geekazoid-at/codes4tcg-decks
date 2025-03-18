@@ -1,0 +1,35 @@
+Pokémon: 10
+2 Terapagos ex SCR 128
+3 Swablu SIT 142
+1 Latias ex SSP 76
+3 Hoothoot SCR 114
+3 Noctowl SCR 115
+1 Fan Rotom SCR 118
+3 Bouffalant SCR 119
+3 Altaria SIT 143
+2 Bloodmoon Ursaluna ex TWM 141
+1 Squawkabilly ex PAL 169
+
+Trainer: 16
+2 Ultra Ball SVI 196
+1 Buddy-Buddy Poffin PRE 101
+3 Area Zero Underdepths SCR 131
+1 Hisuian Heavy Ball ASR 146
+4 Iono PAL 185
+1 Night Stretcher SFA 61
+1 Super Rod PAL 188
+1 Hero's Cape TEF 152
+3 Professor's Research PRE 122
+1 Morty's Conviction TEF 155
+1 Penny SVI 183
+4 Nest Ball SVI 181
+2 Rescue Board TEF 159
+2 Bravery Charm PAL 173
+1 Lively Stadium SSP 180
+2 Boss's Orders PAL 172
+
+Energy: 2
+4 Double Turbo Energy BRS 151
+4 Reversal Energy PAL 192
+
+Total Cards: 60

@@ -1,0 +1,34 @@
+Pokémon: 10
+1 Munkidori TWM 95
+2 Greninja ex TWM 106
+2 Froakie OBF 56
+1 Frogadier TWM 57
+1 Fezandipiti ex SFA 38
+1 Mew ex MEW 151
+3 Hoothoot SCR 114
+2 Wellspring Mask Ogerpon ex TWM 64
+3 Noctowl PRE 78
+2 Fan Rotom PRE 85
+
+Trainer: 14
+1 Counter Catcher PAR 160
+3 Nest Ball PAF 84
+2 Ultra Ball PAF 91
+2 Night Stretcher SFA 61
+1 Switch MEW 206
+4 Arven OBF 186
+2 Boss's Orders PAL 265
+4 Buddy-Buddy Poffin PRE 101
+4 Crispin PRE 105
+3 Area Zero Underdepths SCR 131
+1 Sparkling Crystal PRE 129
+2 Iono PAF 80
+1 Rescue Board PRE 126
+2 Rare Candy SVI 191
+
+Energy: 3
+3 Basic {D} Energy SVE 15
+6 Basic {W} Energy SVE 11
+1 Boomerang Energy TWM 166 PH
+
+Total Cards: 60
