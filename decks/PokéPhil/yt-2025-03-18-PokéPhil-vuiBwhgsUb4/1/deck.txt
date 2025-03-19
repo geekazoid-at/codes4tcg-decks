@@ -1,0 +1,35 @@
+Pokémon: 9
+1 Latias ex SSP 76
+2 Brute Bonnet PAR 123
+1 Roaring Moon ex PAR 124
+2 Munkidori TWM 95
+1 Fezandipiti ex SFA 38
+3 Gouging Fire ex TEF 38
+1 Budew PRE 4
+1 Pecharunt ex SFA 39
+1 Squawkabilly ex PAL 169
+
+Trainer: 17
+1 Counter Catcher PAR 160
+1 Unfair Stamp TWM 165
+3 Energy Switch SVI 173
+2 Perilous Jungle TEF 156
+1 Morty's Conviction TEF 155
+2 Pokégear 3.0 SVI 186
+2 Night Stretcher SFA 61
+1 Pal Pad SVI 182
+4 Nest Ball SVI 181
+2 Professor's Research SVI 189
+2 Boss's Orders PAL 172
+1 Kieran TWM 154
+2 Iono PAL 185
+4 Professor Sada's Vitality PAR 170
+3 Ancient Booster Energy Capsule TEF 140
+4 Ultra Ball SVI 196
+3 Earthen Vessel PAR 163
+
+Energy: 2
+6 Basic {R} Energy SVE 10
+3 Basic {D} Energy SVE 15
+
+Total Cards: 60

@@ -1,0 +1,31 @@
+Pokémon: 8
+4 Xatu PAR 72
+4 Natu PAR 71
+2 Mewtwo V PGO 30
+2 Mewtwo VSTAR PGO 31
+1 Klefki SVI 96
+1 Flutter Mane TEF 78
+1 Flittle PAR 80
+1 Espathra ex PAF 6
+
+Trainer: 16
+3 Iono PAL 185
+1 Night Stretcher SFA 61
+3 Ultra Ball SVI 196
+4 Nest Ball SVI 181
+2 Boss's Orders PAL 172
+1 Maximum Belt PRE 117
+4 Buddy-Buddy Poffin TEF 144
+1 Defiance Band SVI 169
+1 Super Rod PAL 188
+3 Professor's Research SVI 190
+2 Superior Energy Retrieval PAL 189
+1 Technical Machine: Evolution PAR 178
+1 Rescue Board TWEF 159
+2 Earthen Vessel PAR 163
+1 Switch SVI 194
+4 Arven SVI  166
+Energy: 1
+10 Basic {P} Energy SUM 162
+
+Total Cards: 60
