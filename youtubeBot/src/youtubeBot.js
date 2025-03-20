@@ -217,7 +217,6 @@ const main = async (channelId, pageSize, pageCount) => {
           link: `https://www.youtube.com/watch?v=${video.id}`,
           publishedAt: new Date(publishedAt),
           tags: [],
-          decksCount: totalDecks,
         };
 
         fs.writeFileSync(
