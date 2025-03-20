@@ -10,6 +10,7 @@ const channelIdLdf = "UCAhRWmekXLryJOZRUYR4seQ"; // LDF
 const channelIdFtw = "UCAQKOO0Evm2TENo0UCZR-pg"; // ForTheWinTCG
 const channelIdStb = "UCCLD0ptegGoRv8RHuhgZR_A"; // snipe the bench
 const channelIdSneaker = "UCBjjolWH6d6JJRCZ6a02N6w"; // snipe the bench
+const channelIdMrdog = "UCMS0qK1Or_qElPXCgmkCUhw"; // snipe the bench
 
 const allChannelIds = [
   channelIdTyp,
@@ -18,6 +19,7 @@ const allChannelIds = [
   channelIdFtw,
   channelIdStb,
   channelIdSneaker,
+  channelIdMrdog,
 ];
 
 const main = async (channelId, pageSize, pageCount) => {
