@@ -2,7 +2,7 @@ import axios from "axios";
 
 const API_KEY = "AIzaSyCrF9wwzpO0p-qK1JoaZXd2ZKlhMRfb714";
 
-export const getChannelName = async (channelId) => {
+const getChannelName = async (channelId) => {
   try {
     const response = await axios.get(
       "https://www.googleapis.com/youtube/v3/channels",
@@ -23,7 +23,7 @@ export const getChannelName = async (channelId) => {
   }
 };
 
-export const getYouTubeVideos = async (channelId, pageSize, pageToken = "") => {
+const getYouTubeVideos = async (channelId, pageSize, pageToken = "") => {
   try {
     const response = await axios.get(
       "https://www.googleapis.com/youtube/v3/search",
@@ -70,3 +70,28 @@ export const getYouTubeVideos = async (channelId, pageSize, pageToken = "") => {
     return { videos: [], nextPageToken: null };
   }
 };
+
+export async function getAllVideos(channelId, pageSize, pageCount) {
+  const channelName = await getChannelName(channelId);
+
+  console.log(`Channel: ${channelName}`);
+  let allVideos = [];
+  let pageToken = "";
+
+  let i = 0;
+
+  do {
+    const { videos, nextPageToken } = await getYouTubeVideos(
+      channelId,
+      pageSize,
+      pageToken
+    );
+
+    allVideos = allVideos.concat(videos);
+    pageToken = nextPageToken;
+    i++;
+  } while (pageToken && i < pageCount);
+
+  console.log(`Total YouTube videos fetched: ${allVideos.length}`);
+  return { allVideos, channelName };
+}

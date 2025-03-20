@@ -1,7 +1,7 @@
 import fs from "fs";
 
 import { germanToEnglish, transformDeck } from "./utils/deckTransformer.js";
-import { getYouTubeVideos, getChannelName } from "./api/youtube.js";
+import { getAllVideos } from "./api/youtube.js";
 
 const channelIdTyp = "UCZiUkbtzrEzCiDZ09oZYBbQ"; // Trust your pilot
 const channelIdPp = "UCkIP7BHKg-6NN56eVXfrmJw"; // Pokephil
@@ -23,27 +23,11 @@ const allChannelIds = [
 ];
 
 const main = async (channelId, pageSize, pageCount) => {
-  const channelName = await getChannelName(channelId);
-
-  console.log(`Channel: ${channelName}`);
-  let allVideos = [];
-  let pageToken = "";
-
-  let i = 0;
-
-  do {
-    const { videos, nextPageToken } = await getYouTubeVideos(
-      channelId,
-      pageSize,
-      pageToken
-    );
-
-    allVideos = allVideos.concat(videos);
-    pageToken = nextPageToken;
-    i++;
-  } while (pageToken && i < pageCount);
-
-  console.log(`Total YouTube videos fetched: ${allVideos.length}`);
+  const { channelName, allVideos } = await getAllVideos(
+    channelId,
+    pageSize,
+    pageCount
+  );
 
   await allVideos.forEach(async (video) => {
     const videoName = video.title;
@@ -194,11 +178,13 @@ const main = async (channelId, pageSize, pageCount) => {
         legalities: { standard: !videoDescription.includes("expanded") },
       };
 
-      if (deckName) {
-        deckMeta.name = deckName;
-      }
-
       if (totalDecks > 1) {
+        if (deckName && !deckName.includes("https://")) {
+          deckMeta.name = deckName;
+        } else {
+          deckMeta.name = `Deck ${deckIndex}`;
+        }
+
         deckMeta.index = deckIndex;
       }
 
@@ -232,13 +218,13 @@ const main = async (channelId, pageSize, pageCount) => {
   });
 };
 
-const importChannelId = channelIdSneaker;
-// const RUNTYPE = "IMPORT";
+const importChannelId = channelIdPp;
+const RUNTYPE = "IMPORT";
 
-const RUNTYPE = "UPDATE";
+// const RUNTYPE = "UPDATE";
 
 if (RUNTYPE === "IMPORT") {
-  main(importChannelId, 50, 5);
+  main(importChannelId, 50, 7);
 } else if (RUNTYPE === "UPDATE") {
   for (const channelId of allChannelIds) {
     main(channelId, 5, 1);
