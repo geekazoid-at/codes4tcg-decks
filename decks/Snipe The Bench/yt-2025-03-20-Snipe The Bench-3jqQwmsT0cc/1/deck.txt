@@ -1,0 +1,32 @@
+Pokémon: 7
+3 Sylveon ex SSP 86
+2 Dusknoir PRE 37
+1 Fezandipiti ex SFA 38
+2 Budew PRE 4 PH
+3 Eevee PRE 74
+3 Dusclops PRE 36
+3 Duskull PRE 35
+
+Trainer: 15
+4 Counter Catcher PAR 160
+1 Tera Orb SSP 189
+2 Judge PAF 228
+1 Unfair Stamp TWM 165
+1 Artazon PAF 76
+2 Nest Ball PAF 84
+1 Judge SVI 176
+2 Night Stretcher SFA 61
+3 Iono PAF 237
+4 Arven SVI 166
+4 Crispin PRE 105
+4 Buddy-Buddy Poffin TEF 144
+2 Ultra Ball SVI 196
+2 Rescue Board PRE 126
+1 Rare Candy SVI 191
+
+Energy: 3
+3 Basic {L} Energy SVE 12
+3 Basic {W} Energy SVE 11
+3 Basic {P} Energy SVE 13
+
+Total Cards: 60

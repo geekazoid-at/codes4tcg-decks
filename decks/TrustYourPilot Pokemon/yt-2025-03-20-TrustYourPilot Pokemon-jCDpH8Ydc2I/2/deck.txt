@@ -1,0 +1,37 @@
+Pokémon: 20
+4 Charmander MEW 4
+2 Charmeleon PAF 8
+3 Charizard ex OBF 125
+2 Pidgey OBF 162
+1 Pidgeotto MEW 17
+2 Pidgeot ex OBF 164
+2 Duskull PRE 35
+1 Dusclops PRE 36
+1 Dusknoir PRE 37
+1 Fezandipiti ex SFA 38
+1 Chi-Yu PAR 29
+
+Trainer: 33
+4 Arven OBF 186
+3 Iono PAL 185
+2 Boss's Orders PAL 172
+1 Briar SCR 132
+1 Jacq SVI 175
+1 Professor Turo's Scenario PAR 171
+4 Ultra Ball SVI 196
+3 Rare Candy SVI 191
+2 Buddy-Buddy Poffin TEF 144
+2 Nest Ball SVI 181
+2 Super Rod PAL 188
+2 Counter Catcher PAR 160
+1 Energy Search SVI 172
+1 Precious Trolley SSP 185
+2 Technical Machine: Evolution PAR 178
+1 Defiance Band SVI 169
+1 Artazon PAL 171
+
+Energy: 7
+6 Basic {R} Energy SVE 2
+1 Mist Energy TEF 161
+
+Total Cards: 60
