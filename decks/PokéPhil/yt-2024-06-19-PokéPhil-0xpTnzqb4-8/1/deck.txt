@@ -30,6 +30,6 @@ Trainer: 19
 1 Vitality Band SVI 197
 
 Energy: 1
-8 Basic {G} Energy Energy 18
+8 Basic {G} Energy SVE 1
 
 Total Cards: 60

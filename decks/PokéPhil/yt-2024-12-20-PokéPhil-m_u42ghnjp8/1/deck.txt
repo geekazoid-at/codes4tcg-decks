@@ -34,8 +34,8 @@ Trainer: 19
 
 Energy: 4
 1 Legacy Energy TWM 167
-1 Basic {F} Energy Energy 14
-2 Basic {W} Energy Energy 11
-10 Basic {G} Energy Energy 1
+1 Basic {F} Energy SVE 6
+2 Basic {W} Energy SVE 3
+10 Basic {G} Energy SVE 1
 
 Total Cards: 60

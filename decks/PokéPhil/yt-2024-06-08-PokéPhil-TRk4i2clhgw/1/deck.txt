@@ -33,6 +33,6 @@ Trainer: 20
 Energy: 3
 3 Double Turbo Energy BRS 151
 2 Reversal Energy PAL 192 PH
-5 Basic {D} Energy Energy 24
+5 Basic {D} Energy SVE 7
 
 Total Cards: 60

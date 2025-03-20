@@ -28,6 +28,6 @@ Trainer: 18
 1 Artazon PAL 171
 
 Energy: 1
-10 Basic {D} Energy Energy 15
+10 Basic {D} Energy SVE 7
 
 Total Cards: 60

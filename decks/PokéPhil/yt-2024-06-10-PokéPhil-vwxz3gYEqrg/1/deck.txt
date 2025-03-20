@@ -28,6 +28,6 @@ Trainer: 18
 2 Rare Candy SVI 191
 
 Energy: 1
-8 Basic {R} Energy Energy 10
+8 Basic {R} Energy SVE 2
 
 Total Cards: 60

@@ -29,6 +29,6 @@ Trainer: 18
 1 Beach Court SVI 167
 
 Energy: 1
-8 Basic {G} Energy Energy 1
+8 Basic {G} Energy SVE 1
 
 Total Cards: 60

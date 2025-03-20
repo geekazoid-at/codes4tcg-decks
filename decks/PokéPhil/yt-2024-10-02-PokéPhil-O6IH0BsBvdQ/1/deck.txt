@@ -1,0 +1,31 @@
+Pokémon: 7
+3 Vikavolt TEF 56
+2 Pidgeot ex OBF 164
+4 Charjabug SCR 52
+1 Manaphy BRS 41
+4 Grubbin TEF 18
+2 Pidgey MEW 16
+2 Raikou V BRS 48
+
+Trainer: 14
+3 Rare Candy PAF 89
+3 Ultra Ball PAF 91
+2 Exp. Share SVI 174
+4 Arven OBF 186
+2 Earthen Vessel PAR 163
+4 Buddy-Buddy Poffin TEF 144
+1 Counter Catcher PAR 160
+2 Artazon PAF 76
+2 Night Stretcher SFA 61
+2 Super Rod PAL 188
+3 Iono PAF 80
+1 Forest Seal Stone SIT 156
+1 Rescue Board TEF 159
+2 Nest Ball PAF 84
+
+Energy: 3
+6 Basic {L} Energy SVE 4
+3 Reversal Energy PAL 192
+1 Neo Upper Energy TEF 162
+
+Total Cards: 60

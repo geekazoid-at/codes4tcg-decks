@@ -25,7 +25,7 @@ Trainer: 13
 Energy: 4
 2 Gift Energy LOR 171
 4 Double Turbo Energy BRS 151
-1 Basic {P} Energy Energy 13
+1 Basic {P} Energy SVE 5
 3 Jet Energy PAL 190
 
 Total Cards: 60

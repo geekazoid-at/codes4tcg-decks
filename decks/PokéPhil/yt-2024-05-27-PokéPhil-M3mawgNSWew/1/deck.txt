@@ -31,8 +31,8 @@ Trainer: 18
 2 Earthen Vessel PAR 163
 
 Energy: 3
-4 Basic {P} Energy Energy 5
-4 Basic {R} Energy Energy 2
+4 Basic {P} Energy SVE 5
+4 Basic {R} Energy SVE 2
 1 Neo Upper Energy TEF 162
 
 Total Cards: 60

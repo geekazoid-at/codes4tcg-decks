@@ -31,6 +31,6 @@ Trainer: 18
 2 Earthen Vessel PAR 163
 
 Energy: 1
-10 Basic {R} Energy Energy 10
+10 Basic {R} Energy SVE 2
 
 Total Cards: 60

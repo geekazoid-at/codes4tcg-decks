@@ -27,8 +27,8 @@ Trainer: 19
 3 Boss's Orders BRS 132
 
 Energy: 4
-1 Basic {D} Energy Energy 51
-7 Basic {F} Energy Energy 50
+1 Basic {D} Energy SVE 7
+7 Basic {F} Energy SVE 6
 1 Legacy Energy TWM 167
 4 Luminous Energy PAL 191
 

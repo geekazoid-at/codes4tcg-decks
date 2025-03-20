@@ -26,8 +26,8 @@ Trainer: 17
 
 Energy: 4
 4 Double Turbo Energy BRS 151
-5 Basic {F} Energy Energy 14
-1 Basic {P} Energy Energy 13
+5 Basic {F} Energy SVE 6
+1 Basic {P} Energy SVE 5
 2 Jet Energy PAL 190
 
 Total Cards: 60

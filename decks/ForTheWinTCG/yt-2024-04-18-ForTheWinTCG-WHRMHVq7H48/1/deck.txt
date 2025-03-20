@@ -1,0 +1,38 @@
+Pokémon: 11
+1 Skwovet SVI 151
+1 Jirachi PAR 126
+1 Quaquaval ex PAL 273
+1 Lumineon V PR-SW 250
+2 Bibarel BRS 121
+2 Quaquaval ex PAL 260
+1 Quaxwell SVI 53
+1 Quaquaval SVI 54
+4 Quaxly PAL 50
+1 Manaphy BRS 41
+2 Bidoof CRZ 111
+
+Trainer: 18
+1 Hisuian Heavy Ball ASR 146
+1 Counter Catcher PAR 160
+2 Nest Ball PAF 84
+1 Forest Seal Stone SIT 156
+3 Irida ASR 147
+1 Rescue Board TEF 159
+2 Energy Loto GRI 122
+2 Boss's Orders PAL 172
+4 Arven SVI 166
+2 Professor Turo's Scenario PAR 171
+2 Technical Machine: Evolution PAR 178
+1 Lost Vacuum LOR 162
+1 Collapsed Stadium BRS 137
+4 Buddy-Buddy Poffin TEF 144
+2 Iono PAF 80
+3 Ultra Ball SVI 196
+3 Rare Candy SVI 191
+1 Earthen Vessel PAR 163
+
+Energy: 2
+6 Basic {W} Energy SVE 3
+1 Neo Upper Energy TEF 162
+
+Total Cards: 60

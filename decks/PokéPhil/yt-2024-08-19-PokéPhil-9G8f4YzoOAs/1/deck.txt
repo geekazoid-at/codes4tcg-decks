@@ -29,8 +29,8 @@ Trainer: 16
 Energy: 6
 1 Basic {R} Energy SVE 2
 1 Basic {P} Energy SVE 5
-1 Basic {M} Energy Energy 16
-1 Basic {F} Energy Energy 14
+1 Basic {M} Energy SVE 8
+1 Basic {F} Energy SVE 6
 4 Luminous Energy PAL 191
 1 Neo Upper Energy TEF 162
 

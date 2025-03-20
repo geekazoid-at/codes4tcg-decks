@@ -1,0 +1,32 @@
+Pokémon: 8
+3 Farigiraf ex TEF 108
+1 Jirachi PAR 126
+3 Xatu PAR 72
+3 Girafarig CRZ 61
+3 Natu PAF 25
+1 Mimikyu PAF 37
+1 Oranguru PAL 94
+1 Manaphy BRS 41
+
+Trainer: 15
+2 Counter Catcher PAR 160
+3 Town Store OBF 196
+1 Maximum Belt TEF 154
+2 Rescue Board TEF 159
+3 Nest Ball SVI 181
+4 Arven OBF 186
+1 Boss's Orders PAL 172
+3 Iono PAL 185
+2 Technical Machine: Devolution PAR 177
+2 Technical Machine: Evolution PAR 178
+1 Super Rod PAL 188
+1 Lost Vacuum LOR 162
+2 Buddy-Buddy Poffin TEF 144
+4 Ultra Ball SVI 196
+2 Earthen Vessel PAR 163
+
+Energy: 2
+8 Basic {P} Energy SVE 5
+3 Mist Energy TEF 161
+
+Total Cards: 60

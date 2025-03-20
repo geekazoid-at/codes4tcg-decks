@@ -1,0 +1,35 @@
+Pokémon: 17
+4 Dreepy TWM 128
+4 Drakloak TWM 129
+2 Dragapult ex TWM 130
+4 Iron Thorns ex TWM 77
+1 Toedscool PAR 16
+1 Toedscruel PAR 17
+1 Radiant Alakazam SIT 59
+
+Trainer: 32
+4 Arven OBF 186
+4 Crispin SCR 133
+2 Iono PAL 185
+2 Boss's Orders PAL 172
+1 Professor Turo's Scenario PAR 171
+4 Pokégear 3.0 SVI 186
+2 Ultra Ball SVI 196
+2 Night Stretcher SFA 61
+1 Precious Trolley SSP 185
+1 Buddy-Buddy Poffin TEF 144
+1 Nest Ball SVI 181
+1 Tera Orb SSP 189
+1 Earthen Vessel PAR 163
+1 Counter Catcher PAR 160
+1 Lost Vacuum LOR 162
+2 Technical Machine: Evolution PAR 178
+1 Rescue Board TEF 159
+1 Future Booster Energy Capsule TEF 149
+
+Energy: 11
+4 Basic {P} Energy SVE 5
+4 Basic {R} Energy SVE 2
+3 Basic {L} Energy SVE 4
+
+Total Cards: 60

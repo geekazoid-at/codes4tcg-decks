@@ -1,0 +1,38 @@
+Pokémon: 15
+4 Klawf PAR 105
+2 Brute Bonnet PAR 123
+1 Lumineon V BRS 40
+1 Radiant Hisuian Sneasler LOR 123
+1 Cobalion SIT 126
+1 Fezandipiti ex SFA 38
+1 Iron Bundle PAR 56
+1 Bloodmoon Ursaluna ex TWM 141
+1 Pecharunt PR-SV 149
+1 Hisuian Electrode V LOR 172
+1 Squawkabilly ex PAL 169
+
+Trainer: 41
+4 Arven OBF 186
+3 Boss's Orders PAL 172
+1 Iono PAL 185
+1 Colress's Tenacity SFA 57
+1 Professor's Research SVI 189
+4 Ultra Ball SVI 196
+4 Nest Ball SVI 181
+3 Switch Cart ASR 154
+3 Trekking Shoes ASR 156
+2 Night Stretcher SFA 61
+1 Hisuian Heavy Ball ASR 146
+1 Secret Box TWM 163
+4 Binding Mochi SFA 55
+3 Ancient Booster Energy Capsule TEF 140
+1 Forest Seal Stone SIT 156
+1 Rescue Board TEF 159
+2 Artazon PAL 171
+1 Town Store OBF 196
+1 Collapsed Stadium BRS 137
+
+Energy: 4
+4 Double Turbo Energy BRS 151
+
+Total Cards: 60

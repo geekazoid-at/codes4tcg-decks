@@ -35,6 +35,6 @@ Trainer: 18
 2 Boss's Orders RCL 189
 
 Energy: 1
-8 Basic {W} Energy Energy 11
+8 Basic {W} Energy SVE 3
 
 Total Cards: 60

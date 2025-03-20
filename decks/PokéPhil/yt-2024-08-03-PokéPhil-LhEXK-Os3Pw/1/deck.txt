@@ -26,6 +26,6 @@ Trainer: 16
 4 Arven SVI 166
 
 Energy: 1
-7 Basic {G} Energy Energy 1
+7 Basic {G} Energy SVE 1
 
 Total Cards: 60

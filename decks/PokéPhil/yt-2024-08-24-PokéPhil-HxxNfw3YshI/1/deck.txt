@@ -34,7 +34,7 @@ Trainer: 21
 1 Vitality Band SVI 197
 
 Energy: 3
-10 Basic {L} Energy Energy 30
+10 Basic {L} Energy SVE 4
 2 Double Turbo Energy BRS 151
 4 Basic {L} Energy SVE 4 PH
 

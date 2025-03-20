@@ -1,6 +1,4 @@
-import fs from "fs";
-
-const ENERGIES = {
+const ENERGIES: { [key: string]: { texts: string[]; number: number } } = {
   "Lightning Energy": { texts: ["{L}", "Lightning"], number: 4 },
   "Psychic Energy": { texts: ["{P}", "Psychic"], number: 5 },
   "Metal Energy": { texts: ["{M}", "Metal"], number: 8 },
@@ -12,7 +10,7 @@ const ENERGIES = {
   "Fairy Energy": { texts: ["{Y}", "Fairy"], number: 1 },
 };
 
-export function transformDeck(deck) {
+export function transformDeck(deck: string) {
   return deck
     .split("\n")
     .map((line) => {
@@ -29,7 +27,7 @@ export function transformDeck(deck) {
     .join("\n");
 }
 
-export function germanToEnglish(deck) {
+export function germanToEnglish(deck: string) {
   let videoDescription = deck;
 
   // german to english
@@ -42,7 +40,7 @@ export function germanToEnglish(deck) {
   return videoDescription;
 }
 
-function transformEnergyName(line) {
+function transformEnergyName(line: string) {
   if (line.includes("Energy Energy")) {
     const energyKeys = Object.keys(ENERGIES);
     const k = energyKeys.find((key) => line.includes(ENERGIES[key].texts[0]));

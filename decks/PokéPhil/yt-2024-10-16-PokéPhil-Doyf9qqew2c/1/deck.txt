@@ -20,8 +20,8 @@ Trainer: 10
 1 Sparkling Crystal SCR 142
 
 Energy: 3
-5 Basic {M} Energy Energy 16
-5 Basic {P} Energy Energy 13
-8 Basic {W} Energy Energy 11
+5 Basic {M} Energy SVE 8
+5 Basic {P} Energy SVE 5
+8 Basic {W} Energy SVE 3
 
 Total Cards: 60

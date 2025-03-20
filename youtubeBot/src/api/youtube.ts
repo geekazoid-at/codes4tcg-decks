@@ -1,8 +1,15 @@
 import axios from "axios";
 
+type Video = {
+  id: string;
+  title: string;
+  description: string;
+  publishedAt: string;
+};
+
 const API_KEY = "AIzaSyCrF9wwzpO0p-qK1JoaZXd2ZKlhMRfb714";
 
-const getChannelName = async (channelId) => {
+const getChannelName = async (channelId: string) => {
   try {
     const response = await axios.get(
       "https://www.googleapis.com/youtube/v3/channels",
@@ -23,7 +30,11 @@ const getChannelName = async (channelId) => {
   }
 };
 
-const getYouTubeVideos = async (channelId, pageSize, pageToken = "") => {
+const getYouTubeVideos = async (
+  channelId: string,
+  pageSize: number,
+  pageToken: string = ""
+) => {
   try {
     const response = await axios.get(
       "https://www.googleapis.com/youtube/v3/search",
@@ -39,8 +50,8 @@ const getYouTubeVideos = async (channelId, pageSize, pageToken = "") => {
       }
     );
 
-    const videoIds = response.data.items
-      .map((item) => item.id.videoId)
+    const videoIds: string[] = response.data.items
+      .map((item: any) => item.id.videoId)
       .join(",");
 
     const videoDetailsResponse = await axios.get(
@@ -54,7 +65,7 @@ const getYouTubeVideos = async (channelId, pageSize, pageToken = "") => {
       }
     );
 
-    const videos = videoDetailsResponse.data.items.map((item) => ({
+    const videos = videoDetailsResponse.data.items.map((item: any) => ({
       id: item.id,
       title: item.snippet.title,
       description: item.snippet.description,
@@ -71,11 +82,15 @@ const getYouTubeVideos = async (channelId, pageSize, pageToken = "") => {
   }
 };
 
-export async function getAllVideos(channelId, pageSize, pageCount) {
+export async function getAllVideos(
+  channelId: string,
+  pageSize: number,
+  pageCount: number
+) {
   const channelName = await getChannelName(channelId);
 
   console.log(`Channel: ${channelName}`);
-  let allVideos = [];
+  let allVideos: Video[] = [];
   let pageToken = "";
 
   let i = 0;

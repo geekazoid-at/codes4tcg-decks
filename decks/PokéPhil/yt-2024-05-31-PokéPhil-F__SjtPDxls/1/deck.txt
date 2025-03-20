@@ -34,7 +34,7 @@ Trainer: 19
 1 Enhanced Hammer GRI 124
 
 Energy: 2
-5 Basic {W} Energy Energy 3
+5 Basic {W} Energy SVE 3
 2 Double Turbo Energy BRS 151
 
 Total Cards: 60

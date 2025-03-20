@@ -28,6 +28,6 @@ Trainer: 18
 4 Iono PAF 80
 
 Energy: 1
-12 Basic {M} Energy Energy 16
+12 Basic {M} Energy SVE 8
 
 Total Cards: 60

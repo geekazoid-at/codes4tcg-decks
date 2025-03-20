@@ -30,6 +30,6 @@ Trainer: 18
 1 Iono SVALT 75
 
 Energy: 1
-12 Basic {G} Energy Energy 45
+12 Basic {G} Energy SVE 1
 
 Total Cards: 60
