@@ -1,0 +1,30 @@
+Pokémon: 9
+4 Dusclops SFA 19
+2 Dedenne-GX UNB 57
+2 Brute Bonnet PAR 123
+1 Duskull CEC 83 PH
+3 Duskull CEC 83
+2 Squawkabilly ex PAL 169
+1 Bloodmoon Ursaluna ex TWM 141
+1 Crobat V DAA 104
+2 Pecharunt PR-SV 149
+
+Trainer: 13
+4 Switch CRZ 144
+4 Quick Ball FST 237
+3 Ancient Booster Energy Capsule TEF 140
+4 Trekking Shoes ASR 156
+2 Hisuian Heavy Ball ASR 146
+4 Battle VIP Pass FST 225
+1 Dangerous Laser SFA 58
+2 Roxanne ASR 150
+2 Perilous Jungle TEF 156
+2 Gutsy Pickaxe ASR 145
+4 Acro Bike CES 123 PH
+4 Rescue Stretcher GRI 130
+2 Carmine TWM 145
+
+Energy: 1
+4 Double Colorless Energy PHF 111 PH
+
+Total Cards: 60

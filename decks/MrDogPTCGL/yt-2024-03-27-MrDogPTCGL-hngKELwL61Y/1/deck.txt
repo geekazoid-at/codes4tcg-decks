@@ -1,0 +1,30 @@
+Pokémon: 8
+2 Lumineon V BRS 40
+4 Minccino BRS 124
+3 Lugia VSTAR SIT 139
+4 Archeops SIT 147
+1 Squawkabilly ex PAF 75
+3 Lugia V SIT 138
+1 Snorlax LOR 143
+3 Cinccino TEF 137
+
+Trainer: 9
+1 Master Ball PLB 94
+4 Ultra Ball PAF 91
+1 Jacq SVI 175
+2 Great Ball PAL 183
+3 Iono PAF 80
+4 Capturing Aroma SIT 153
+4 Professor's Research SVI 189
+1 Collapsed Stadium BRS 137
+3 Boss's Orders PAL 172
+
+Energy: 6
+3 Mist Energy TEF 161
+1 V Guard Energy SIT 169
+4 Gift Energy LOR 171
+3 Double Turbo Energy BRS 151
+4 Jet Energy PAL 190
+1 Therapeutic Energy PAL 193
+
+Total Cards: 60

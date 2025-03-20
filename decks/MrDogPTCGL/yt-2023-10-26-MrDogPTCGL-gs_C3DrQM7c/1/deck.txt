@@ -1,0 +1,19 @@
+Pokémon: 4
+1 Kyogre CEL 3
+1 Radiant Greninja ASR 46
+4 Kyurem VMAX LOR 49
+4 Kyurem V LOR 48
+
+Trainer: 7
+4 Battle VIP Pass FST 225
+4 Adventurer's Discovery FST 224
+4 Forest Seal Stone SIT 156
+1 Escape Rope BST 125
+1 Nest Ball SVI 181
+4 Irida ASR 147
+1 Lost Vacuum CRZ 135
+
+Energy: 1
+31 Basic {W} Energy SVE 3
+
+Total Cards: 60

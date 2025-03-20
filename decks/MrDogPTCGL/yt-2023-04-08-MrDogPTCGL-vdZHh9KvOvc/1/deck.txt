@@ -1,0 +1,34 @@
+Pokémon: 8
+1 Drapion V LOR 118
+4 Arceus VSTAR BRS 123
+4 Arceus V BRS 122
+1 Espeon VMAX EVS 65
+1 Pumpkaboo EVS 76
+1 Radiant Gardevoir LOR 69
+1 Dunsparce FST 207
+1 Espeon V EVS 64
+
+Trainer: 16
+4 Judge FST 235
+1 Ultra Ball SUM 135
+1 Escape Rope BUS 114
+1 Path to the Peak ASR 213
+4 Trekking Shoes ASR 156
+1 Hisuian Heavy Ball ASR 146
+1 Switch SVI 194 PH
+1 Pokégear 3.0 SSH 174
+1 Raihan EVS 202
+4 Professor's Research CEL 24
+1 Serena SIT 193
+2 Choice Belt ASR 211
+1 Pokégear 3.0 SVI 186
+3 Ultra Ball BRS 150
+3 Boss's Orders BRS 132 PH
+4 Nest Ball SVI 181
+
+Energy: 3
+2 V Guard Energy SIT 169
+4 Double Turbo Energy BRS 151
+7 Basic {P} Energy SVE 5
+
+Total Cards: 60

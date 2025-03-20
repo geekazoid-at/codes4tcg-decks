@@ -1,0 +1,31 @@
+Pokémon: 11
+2 Bibarel BRS 121
+3 Arceus VSTAR BRS 123
+4 Arceus V BRS 122
+2 Leafeon VSTAR PR-SW 195
+1 Radiant Gardevoir LOR 69
+1 Toedscruel ex OBF 22
+2 Toedscool SVI 25
+1 Skwovet SVI 151
+2 Bidoof CRZ 111
+1 Toedscruel PAR 17
+2 Leafeon V CRZ 13
+
+Trainer: 10
+4 Ultra Ball SVI 196
+2 Switch SVI 194
+4 Judge SVI 176
+1 Hisuian Heavy Ball ASR 146
+3 Iono PAL 185
+1 Professor's Research SSH 178
+1 Maximum Belt TEF 154
+4 Nest Ball SVI 181
+1 Choice Belt PAL 176
+4 Boss's Orders PAL 172
+
+Energy: 3
+9 Basic {G} Energy SVE 1
+4 Double Turbo Energy BRS 151
+1 Jet Energy PAL 190
+
+Total Cards: 60

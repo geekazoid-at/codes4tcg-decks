@@ -1,0 +1,25 @@
+Pokémon: 6
+1 Radiant Alakazam SIT 59
+2 Koraidon ex SVI 125
+1 Spiritomb PAL 89
+4 Ting-Lu ex PAL 127
+2 Hawlucha SVI 118
+2 Squawkabilly ex PAL 169
+
+Trainer: 11
+4 Professor's Research CEL 24
+4 Ultra Ball SVI 196
+4 Gutsy Pickaxe ASR 145
+4 Battle VIP Pass FST 225
+4 Judge FST 235
+3 Gapejaw Bog ASR 142
+3 Trekking Shoes ASR 156
+2 Bravery Charm PAL 173
+2 Boss's Orders PAL 172
+2 Exp. Share SVI 174
+4 Switch Cart ASR 154
+
+Energy: 1
+12 Basic {F} Energy SVE 6
+
+Total Cards: 60

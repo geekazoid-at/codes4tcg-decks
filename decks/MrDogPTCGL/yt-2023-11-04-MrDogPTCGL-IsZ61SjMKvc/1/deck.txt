@@ -1,0 +1,28 @@
+Pokémon: 6
+2 Morpeko PAR 121
+1 Lumineon V BRS 40
+1 Radiant Greninja ASR 46
+4 Roaring Moon ex PAR 124
+2 Galarian Moltres V CRE 97
+2 Squawkabilly ex PAL 169
+
+Trainer: 14
+4 Ultra Ball SVI 196
+4 Switch Cart ASR 154
+1 Forest Seal Stone SIT 156
+4 Dark Patch ASR 139
+4 Earthen Vessel PAR 163
+4 Battle VIP Pass FST 225
+4 Professor Sada's Vitality PAR 170
+1 Super Rod PAL 188
+1 Pal Pad SVI 182
+4 PokéStop PGO 68
+2 Iono PAL 185
+1 Energy Switch SVI 173
+3 Energy Switch SVI 173 PH
+2 Boss's Orders PAL 172
+
+Energy: 1
+9 Basic {D} Energy SVE 7
+
+Total Cards: 60

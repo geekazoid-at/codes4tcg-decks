@@ -1,0 +1,35 @@
+Pokémon: 11
+1 Lumineon V BRS 40
+1 Hawlucha SVI 118
+3 Drakloak TWM 129
+4 Dreepy TWM 128
+3 Dragapult ex TWM 130
+2 Pidgeot ex OBF 164
+1 Manaphy BRS 41
+1 Iron Bundle PAR 56
+1 Rotom V LOR 58
+1 Jirachi PAR 126
+2 Pidgey MEW 16
+
+Trainer: 14
+4 Ultra Ball SVI 196
+4 Rare Candy SVI 191
+2 Earthen Vessel PAR 163
+4 Buddy-Buddy Poffin TEF 144
+1 Counter Catcher PAR 160
+1 Mela PAR 167
+4 Iono PAL 185
+1 Super Rod PAL 188
+1 Temple of Sinnoh ASR 155
+1 Forest Seal Stone SIT 156
+1 Rescue Board TEF 159
+3 Nest Ball PAF 84
+4 Arven SVI 166
+2 Boss's Orders PAL 172
+
+Energy: 3
+3 Basic {R} Energy SVE 2
+3 Basic {P} Energy SVE 5
+1 Neo Upper Energy TEF 162
+
+Total Cards: 60

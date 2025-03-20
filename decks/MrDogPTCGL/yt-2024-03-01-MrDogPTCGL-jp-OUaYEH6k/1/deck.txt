@@ -1,0 +1,32 @@
+Pokémon: 9
+1 Drapion V CRZ-GG 49
+2 Brute Bonnet PAR 123
+4 Klawf PAR 105
+1 Jirachi PAR 126
+1 Radiant Hisuian Sneasler LOR 123
+2 Bibarel BRS 121
+1 Squawkabilly ex PAL 247
+3 Hisuian Electrode V PR-SW 294
+2 Bidoof CRZ 111
+
+Trainer: 15
+1 Collapsed Stadium LOR 215
+3 Town Store OBF 196
+2 Escape Rope BST 125
+1 Forest Seal Stone SIT 156
+4 Spicy Seasoned Curry ASR 151
+3 Nest Ball SVI 255
+3 Ancient Booster Energy Capsule PAR 159
+4 Battle VIP Pass FST 225
+3 Boss's Orders PAL 248
+4 Iono PAL 185
+1 Technical Machine: Devolution PAR 177
+1 Super Rod PAL 188
+3 Ultra Ball BRS 186
+4 Professor's Research CEL 24
+2 Switch SUM 160
+
+Energy: 1
+4 Double Turbo Energy BRS 151
+
+Total Cards: 60

@@ -1,0 +1,35 @@
+Pokémon: 9
+4 Comfey LOR 79
+1 Hawlucha SVI 118
+2 Sableye LOR 70
+1 Kyogre CEL 3
+1 Manaphy BRS 41
+1 Radiant Greninja ASR 46
+1 Cramorant LOR 50
+1 Dragonite V PR-SW 154
+1 Raikou V BRS 48
+
+Trainer: 16
+4 Switch Cart ASR 154
+3 Escape Rope BST 125
+2 Energy Recycler BST 124
+1 Hisuian Heavy Ball ASR 146
+1 Echoing Horn CRE 136
+2 Lost Vacuum CRZ 135
+4 Battle VIP Pass FST 225
+1 PokéStop PGO 68
+3 Super Rod PAL 188
+1 Roxanne ASR 150
+4 Mirage Gate LOR 163
+1 Forest Seal Stone SIT 156
+3 Nest Ball SVI 181
+4 Colress's Experiment LOR 155
+1 Artazon PAL 171
+1 Beach Court SVI 167
+
+Energy: 3
+3 Basic {L} Energy SVE 4
+5 Basic {W} Energy SVE 3
+3 Basic {P} Energy SVE 5
+
+Total Cards: 60

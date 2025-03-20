@@ -1,0 +1,26 @@
+Pokémon: 7
+2 Bibarel BRS 121
+4 Hisuian Samurott V ASR 101
+2 Hawlucha SVI 118
+1 Skwovet SVI 151
+1 Radiant Alakazam SIT 59
+3 Hisuian Samurott VSTAR ASR 102
+2 Bidoof CRZ 111
+
+Trainer: 11
+4 Switch SVI 194
+2 Judge FST 235
+4 Dark Patch ASR 139
+2 Exp. Share BST 126
+4 Iono PAL 185
+1 Super Rod PAL 188
+2 Professor's Research CEL 24
+4 Ultra Ball BRS 150
+4 Nest Ball SVI 181
+2 Gapejaw Bog ASR 142
+3 Boss's Orders PAL 172
+
+Energy: 1
+13 Basic {D} Energy SVE 7
+
+Total Cards: 60

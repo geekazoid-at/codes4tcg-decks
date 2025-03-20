@@ -1,0 +1,29 @@
+Pokémon: 7
+1 Gengar & Mimikyu-GX TEU 53
+1 Alolan Muk SUM 58
+4 Shadow Rider Calyrex V CRE 74
+1 Tapu Lele-GX CEL-CC 25
+1 Radiant Eternatus CRZ 105
+1 Alolan Grimer SUM 57
+4 Shadow Rider Calyrex VMAX CRE 75
+
+Trainer: 14
+3 Power Plant UNB 183
+3 Guzma BUS 115
+1 Adventure Bag LOT 167
+4 Fog Crystal CRE 140
+2 Acerola BUS 112 PH
+2 Iono PAL 185
+4 Mysterious Treasure FLI 113
+3 Air Balloon SSH 156
+4 Quick Ball SSH 179
+3 Professor's Research SSH 178
+1 Forest Seal Stone SIT 156
+2 Marnie SSH 169
+1 Cynthia UPR 119
+1 Field Blower GRI 125
+
+Energy: 1
+13 Basic {P} Energy SVE 5
+
+Total Cards: 60

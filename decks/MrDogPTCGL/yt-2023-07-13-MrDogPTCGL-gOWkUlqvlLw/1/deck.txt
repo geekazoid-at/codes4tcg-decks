@@ -1,0 +1,33 @@
+Pokémon: 9
+1 Radiant Alakazam SIT 59
+3 Arceus VSTAR BRS 123
+4 Arceus V BRS 122
+1 Spiritomb PAL 89
+2 Umbreon V EVS 94
+2 Duraludon VMAX EVS 123
+2 Duraludon V EVS 122
+2 Umbreon VMAX EVS 95
+1 Lumineon V BRS 40
+
+Trainer: 13
+4 Iono PAL 185
+4 Ultra Ball SVI 196
+1 Raihan EVS 202
+1 Switch SVI 194
+2 Adventurer's Discovery FST 224
+1 Choice Belt PAL 176
+1 Path to the Peak CRE 148
+3 Boss's Orders PAL 172
+1 Escape Rope BST 125
+4 Nest Ball SVI 181
+1 Judge SVI 176
+3 Lost City LOR 161
+2 Professor's Research SVI 189
+
+Energy: 4
+2 Basic {F} Energy SVE 6
+4 Double Turbo Energy BRS 151
+4 Basic {M} Energy SVE 8
+4 Basic {D} Energy SVE 7
+
+Total Cards: 60

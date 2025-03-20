@@ -1,0 +1,31 @@
+Pokémon: 6
+2 Origin Forme Palkia V ASR 39
+1 Manaphy BRS 41
+2 Origin Forme Palkia VSTAR ASR 40
+1 Radiant Greninja ASR 46
+4 Gimmighoul PAR 87
+4 Gholdengo ex PAR 139
+
+Trainer: 16
+3 Ultra Ball SVI 196
+4 Irida ASR 147
+1 Canceling Cologne ASR 136
+4 Cross Switcher FST 230
+3 Earthen Vessel PAR 163
+2 Avery CRE 130
+2 Worker SIT 167
+1 Hisuian Heavy Ball ASR 146
+1 Lost Vacuum CRZ 135
+4 Battle VIP Pass FST 225
+1 Superior Energy Retrieval PAL 189 PH
+3 PokéStop PGO 68
+3 Superior Energy Retrieval PAL 189
+1 Super Rod PAL 188
+1 Roxanne ASR 150
+2 Nest Ball SVI 181
+
+Energy: 2
+6 Basic {W} Energy SVE 3
+4 Basic {M} Energy SVE 8
+
+Total Cards: 60

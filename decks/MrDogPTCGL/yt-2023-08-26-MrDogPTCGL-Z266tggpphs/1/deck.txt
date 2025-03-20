@@ -1,0 +1,27 @@
+Pokémon: 6
+2 Galarian Moltres V CRE 97
+2 Galarian Moltres EVS 93
+3 Darkrai VSTAR ASR 99
+3 Darkrai V ASR 98
+1 Radiant Greninja ASR 46
+1 Squawkabilly ex PAL 169
+
+Trainer: 13
+2 Switch SVI 194
+4 Dark Patch ASR 139
+1 Escape Rope BST 125
+4 Cross Switcher FST 230
+4 Trekking Shoes ASR 156
+4 Battle VIP Pass FST 225
+2 Iono PAL 185
+2 PokéStop PGO 68
+2 Super Rod PAL 188
+4 Professor's Research SSH 178
+4 Ultra Ball BRS 150
+1 Pal Pad SVI 182
+1 Boss's Orders PAL 172
+
+Energy: 1
+13 Basic {D} Energy SVE 7
+
+Total Cards: 60

@@ -1,0 +1,28 @@
+Pokémon: 8
+1 Radiant Alakazam SIT 59
+4 Hisuian Zoroark VSTAR LOR 147
+4 Hisuian Zoroark V LOR 146
+4 Klefki SVI 96
+1 Spiritomb PAL 89
+3 Gengar LOR 66
+1 Bidoof CRZ 111
+1 Bibarel BRS 121
+
+Trainer: 11
+4 Iono PAL 185
+4 Ultra Ball SVI 196
+2 Justified Gloves CRE 143
+1 Super Rod PAL 188
+2 Choice Belt PAL 176
+4 Damage Pump LOR 156
+4 Gapejaw Bog ASR 142
+3 Boss's Orders PAL 172
+2 Escape Rope BST 125
+4 Capturing Aroma SIT 153
+4 Professor's Research SVI 189
+
+Energy: 2
+3 Basic {P} Energy SVE 5
+4 Double Turbo Energy BRS 151
+
+Total Cards: 60

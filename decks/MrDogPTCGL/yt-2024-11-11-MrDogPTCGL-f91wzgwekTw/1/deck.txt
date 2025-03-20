@@ -1,0 +1,33 @@
+Pokémon: 6
+1 Lumineon V BRS 40
+2 Zacian V SSH 138
+2 Dedenne-GX UNB 57
+2 Arceus & Dialga & Palkia-GX CEC 156
+1 Crobat V LOR-TG 20
+1 Zacian V ASR-TG 21
+
+Trainer: 18
+3 Switch CRZ 144
+3 Quick Ball FST 237
+2 Chaotic Swell CEC 187
+2 Rusted Sword SHF 62
+2 Crispin SCR 133
+3 Guzma BUS 115
+1 Quick Ball SSH 216
+1 Ordinary Rod SSH 171
+1 Ultra Ball BRS 186
+4 Metal Saucer SSH 170
+1 Raihan EVS 202
+4 Professor's Research CEL 24
+2 Air Balloon SSH 156
+3 Ultra Ball BRS 150
+1 Prime Catcher TEF 157
+3 Iono PAL 254
+2 Forest Seal Stone SIT 156
+1 Field Blower GRI 125
+
+Energy: 2
+9 Basic {M} Energy SVE 8
+3 Basic {W} Energy SVE 3
+
+Total Cards: 60

@@ -1,0 +1,21 @@
+Pokémon: 5
+4 Heatran TWM 123
+1 Radiant Greninja ASR 46
+1 Zamazenta CRZ 97
+4 Beldum TEF 113
+4 Metang TEF 114
+
+Trainer: 8
+4 Buddy-Buddy Poffin TEF 144
+2 Pokégear 3.0 SVI 186
+4 Super Rod PAL 188
+4 Iono PAF 80
+1 Nest Ball PAF 84
+4 Youngster SVI 198
+4 Ultra Ball PAF 91
+1 Master Ball TEF 153
+
+Energy: 1
+22 Basic {M} Energy SVE 8
+
+Total Cards: 60

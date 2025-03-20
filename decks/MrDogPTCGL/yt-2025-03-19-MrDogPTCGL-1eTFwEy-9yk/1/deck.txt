@@ -1,0 +1,33 @@
+Pokémon: 12
+1 Chien-Pao SSP 56
+2 Teal Mask Ogerpon ex TWM 25
+2 Dedenne-GX SMALT 156
+1 Lumineon V BRS 40
+1 Teal Mask Ogerpon ex TWM 190
+1 Fezandipiti ex SFA 38
+1 Squawkabilly ex PAF 75
+1 Eldegoss V RCL 19
+4 Tsareena V FST 21
+1 Crobat V DAA 104
+1 Radiant Alakazam SIT 59
+4 Giratina SMALT 131
+
+Trainer: 13
+2 Air Balloon SSH 156
+4 Quick Ball SSH 179
+1 Forest Seal Stone SIT 156
+4 Energy Switch SVI 173
+1 Net Ball LOT 187
+1 Prime Catcher TEF 157
+4 Night Stretcher SFA 61
+4 Area Zero Underdepths PRE 94
+1 Adventure Bag LOT 167
+1 Iono PAL 185
+4 Professor's Research PAF 87
+1 Guzma BUS 115
+4 Ultra Ball SVI 196
+
+Energy: 1
+8 Basic {G} Energy SVE 1
+
+Total Cards: 60
