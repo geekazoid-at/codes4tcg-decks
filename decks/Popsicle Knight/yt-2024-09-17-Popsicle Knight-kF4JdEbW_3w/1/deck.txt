@@ -1,0 +1,37 @@
+Pokémon: 11
+2 Chansey MEW 113
+2 Galvantula ex SCR 51
+1 Teal Mask Ogerpon ex TWM 25
+2 Blissey ex TWM 134
+2 Bibarel CRZ-GG 25
+1 Manaphy BRS 41
+1 Galvantula ex SCR 168
+1 Radiant Greninja ASR 46
+4 Joltik SCR 50
+2 Bidoof CRZ 111
+1 Squawkabilly ex PAL 169
+
+Trainer: 16
+3 Ultra Ball SVI 196
+1 Switch SVI 194
+3 Powerglass SFA 63
+2 Earthen Vessel PAR 163
+2 Buddy-Buddy Poffin TEF 144
+1 Crispin SCR 133
+1 Energy Retrieval SVI 171
+1 Counter Catcher PAR 160
+3 Glass Trumpet SCR 135
+1 Hyper Aroma TWM 152
+2 Artazon PAF 76
+1 Super Rod PAL 188
+2 Iono PAF 80
+3 Nest Ball SVI 181
+4 Arven SVI 166
+1 Boss's Orders PAL 172
+
+Energy: 3
+3 Basic {F} Energy SVE 14
+3 Basic {L} Energy SVE 12
+4 Basic {G} Energy SVE 9
+
+Total Cards: 60

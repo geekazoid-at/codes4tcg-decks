@@ -1,0 +1,35 @@
+Pokémon: 10
+3 Kilowattrel ex SSP 68
+4 Wattrel TWM 75
+1 Manaphy BRS 41
+2 Kilowattrel SSP 67
+1 Radiant Hisuian Sneasler LOR 123
+2 Brute Bonnet PAR 123
+1 Rotom V LOR 58
+1 Cleffa OBF 80
+1 Mimikyu PAL 97
+1 Pecharunt PR-SV 149
+
+Trainer: 17
+3 Ultra Ball SVI 196
+1 Switch SVI 194
+2 Earthen Vessel PAR 163
+3 Buddy-Buddy Poffin TEF 144
+2 Electric Generator SVI 170
+2 Counter Catcher PAR 160
+1 Hisuian Heavy Ball ASR 146
+3 Iono PAL 185
+2 Super Rod PAL 188
+1 Forest Seal Stone SIT 156
+2 Nest Ball SVI 181
+1 Rescue Board TEF 159
+1 Survival Brace TWM 164
+2 Ancient Booster Energy Capsule PAR 159
+1 Artazon PAL 171
+3 Arven SVI 166
+1 Boss's Orders PAL 172
+
+Energy: 1
+12 Basic {L} Energy SVE 12
+
+Total Cards: 60

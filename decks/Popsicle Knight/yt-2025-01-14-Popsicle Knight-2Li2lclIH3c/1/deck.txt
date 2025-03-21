@@ -1,0 +1,37 @@
+Pokémon: 9
+2 Sylveon ex SSP 86
+1 Rotom V LOR 58
+1 Skwovet SVI 151
+3 Alolan Exeggutor ex SSP 133
+3 Exeggcute SSP 1 PH
+2 Eevee SSP 143
+2 Cleffa OBF 80
+1 Rellor TEF 23
+1 Rabsca TEF 24
+
+Trainer: 16
+1 Hisuian Heavy Ball ASR 146
+2 Counter Catcher PAR 160
+1 Roseanne's Backup BRS 148
+1 Nest Ball PAF 84
+1 Forest Seal Stone SIT 156
+1 Hero's Cape TEF 152
+2 Temple of Sinnoh ASR 155
+1 Boss's Orders PAL 172
+3 Arven SVI 166
+2 Super Rod PAL 188
+2 Crispin SCR 133
+4 Buddy-Buddy Poffin TEF 144
+3 Iono PAF 80
+3 Ultra Ball SVI 196
+2 Switch SVI 194
+2 Earthen Vessel PAR 163
+
+Energy: 5
+2 Basic {L} Energy SVE 12
+3 Basic {G} Energy SVE 9
+3 Basic {W} Energy SVE 11
+2 Basic {P} Energy SVE 13
+3 Basic {F} Energy SVE 14
+
+Total Cards: 60

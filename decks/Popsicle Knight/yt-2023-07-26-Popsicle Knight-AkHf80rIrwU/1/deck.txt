@@ -1,0 +1,39 @@
+Pokémon: 12
+1 Skwovet SVI 151
+1 Cherrim PR-SW 88
+1 Mimikyu PAL 97
+3 Spidops PAL 18
+1 Cherubi BRS 12
+3 Tarountula SVI 18
+2 Aipom PGO 56
+2 Ambipom PGO 57
+1 Manaphy BRS 41
+1 Klefki SVI 96
+2 Bidoof CRZ 111
+2 Bibarel CRZ-GG 25
+
+Trainer: 17
+1 Hisuian Heavy Ball ASR 146
+1 Team Yell's Cheer BRS 149
+3 Level Ball BST 129
+2 Avery CRE 130
+1 Cyllene ASR 138
+1 Pal Pad SVI 182
+1 Artazon PAL 171
+3 Battle VIP Pass FST 225
+2 Bravery Charm PAL 173
+2 Boss's Orders PAL 172
+1 Klara CRE 145
+1 Path to the Peak CRE 148
+3 Iono PAL 185
+1 Beach Court SVI 167
+1 Super Rod PAL 188
+4 Ultra Ball SVI 196
+1 Switch SVI 194
+
+Energy: 3
+1 Luminous Energy PAL 191
+2 Reversal Energy PAL 192
+8 Basic {G} Energy SVE 1
+
+Total Cards: 60

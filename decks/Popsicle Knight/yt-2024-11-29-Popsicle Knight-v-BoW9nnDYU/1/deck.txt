@@ -1,0 +1,37 @@
+Pokémon: 11
+1 Latias ex SSP 76
+1 Rotom V LOR 58
+2 Brute Bonnet PAR 123
+2 Pecharunt PR-SV 149
+1 Mimikyu PAL 97
+1 Fezandipiti ex SFA 38
+3 Flygon ex SSP 106
+1 Vibrava SSP 105
+3 Trapinch SSP 104
+2 Pidgeot ex OBF 164
+2 Pidgey OBF 162
+
+Trainer: 17
+1 Hisuian Heavy Ball ASR 146
+2 Counter Catcher PAR 160
+1 Tera Orb SSP 189
+1 Forest Seal Stone SIT 156
+2 Perilous Jungle TEF 156
+2 Night Stretcher SFA 61
+1 Nest Ball SVI 181
+3 Ancient Booster Energy Capsule PAR 159
+1 Boss's Orders PAL 172
+2 Binding Mochi SFA 55
+3 Iono PAL 185
+4 Arven SVI 166
+1 Super Rod PAL 188
+4 Buddy-Buddy Poffin TEF 144
+3 Ultra Ball SVI 196
+3 Rare Candy SVI 191
+1 Earthen Vessel PAR 163
+
+Energy: 2
+1 Neo Upper Energy TEF 162
+5 Basic {F} Energy SVE 14
+
+Total Cards: 60

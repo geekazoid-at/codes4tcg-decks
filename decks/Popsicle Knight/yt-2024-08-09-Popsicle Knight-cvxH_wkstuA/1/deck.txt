@@ -1,0 +1,37 @@
+Pokémon: 8
+2 Munkidori TWM 95
+1 Mimikyu PAL 97
+2 Cleffa OBF 80
+3 Bloodmoon Ursaluna SFA 25
+1 Radiant Alakazam SIT 59
+2 Froslass TWM 53
+2 Snorunt TWM 51
+1 Manaphy BRS 41
+
+Trainer: 18
+1 Hisuian Heavy Ball ASR 146
+2 Rescue Board TEF 159
+2 Energy Retrieval SVI 171
+1 Prime Catcher TEF 157
+1 Pal Pad SVI 182
+2 Nest Ball SVI 181
+3 Calamitous Snowy Mountain PAL 174
+1 Boss's Orders PAL 172
+2 Buddy-Buddy Poffin TEF 144
+2 Lana's Aid TWM 155
+1 Counter Catcher PAR 160
+3 Vengeful Punch OBF 197
+1 Canceling Cologne ASR 136
+3 Arven SVI 166
+3 Iono PAF 80
+3 Ultra Ball SVI 196
+2 Energy Switch SVI 173
+2 Earthen Vessel PAR 163
+
+Energy: 4
+1 Jet Energy PAL 190
+3 Basic Dark Energy SVE 7
+6 Basic {F} Energy SVE 6
+1 Basic {P} Energy SVE 5
+
+Total Cards: 60

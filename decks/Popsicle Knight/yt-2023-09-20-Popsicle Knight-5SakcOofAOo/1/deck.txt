@@ -1,0 +1,34 @@
+Pokémon: 8
+3 Tyranitar ex OBF 66
+1 Dottler LOR 19
+2 Archeops SIT 147
+2 Orbeetle BST 65
+2 Gengar LOR-TG 6
+1 Gallade ASR 62
+4 Luxray CRZ 44
+2 Blipbug BST 17
+
+Trainer: 15
+4 Ultra Ball SVI 196
+2 Switch SVI 194
+2 Arven SVI 235
+3 Rare Candy SVI 191
+1 Energy Search SVI 172
+3 Level Ball BST 129
+1 Hisuian Heavy Ball ASR 146
+2 Mesagoza SVI 178
+2 Path to the Peak CRE 148
+1 Poppy OBF 220
+1 Super Rod PAL 188
+3 Iono PAL 254
+2 Boss's Orders RCL 189
+2 Raihan SIT-TG 27
+1 Bravery Charm PAL 173
+
+Energy: 4
+6 Basic {F} Energy SVE 6
+2 Double Turbo Energy BRS 151
+3 Luminous Energy PAL 191
+2 Reversal Energy PAL 192
+
+Total Cards: 60

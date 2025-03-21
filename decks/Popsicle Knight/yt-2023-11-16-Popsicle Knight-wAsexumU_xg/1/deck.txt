@@ -1,0 +1,35 @@
+Pokémon: 11
+2 Frigibax PAL 57
+1 Frigibax PAL 58
+3 Chien-Pao ex PAL 261
+3 Baxcalibur PAL 60
+1 Radiant Greninja ASR 46
+2 Alolan Vulpix V SIT 33
+1 Manaphy BRS 41
+2 Alolan Vulpix VSTAR SIT 34
+2 Bibarel CRZ-GG 25
+2 Bidoof CRZ 111
+1 Iron Hands ex PAR 70
+
+Trainer: 15
+2 Boss's Orders RCL 189
+1 Hisuian Heavy Ball ASR 146
+2 Iono PAL 254
+1 Escape Rope BST 125
+2 Skaters' Park FST 242
+4 Nest Ball SVI 181
+1 Bravery Charm PAL 173
+2 Irida CRZ-GG 63
+3 Superior Energy Retrieval PAL 189
+1 Super Rod PAL 188
+2 Irida ASR 186
+4 Ultra Ball SVI 196
+1 Switch SVI 194
+3 Rare Candy SVI 191
+1 Earthen Vessel PAR 163
+
+Energy: 2
+1 Basic {L} Energy SVE 4 PH
+9 Basic {W} Energy SVE 3 PH
+
+Total Cards: 60

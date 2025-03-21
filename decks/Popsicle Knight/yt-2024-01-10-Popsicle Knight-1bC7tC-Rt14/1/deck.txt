@@ -1,0 +1,36 @@
+Pokémon: 7
+2 Alakazam ex MEW 65
+2 Abra MEW 63
+1 Kadabra MEW 64
+1 Klefki SVI 96
+1 Manaphy BRS 41
+1 Mimikyu PAL 97
+1 Kricketune V BST 6
+
+Trainer: 21
+4 Ultra Ball SVI 196
+2 Switch SVI 194
+4 Rare Candy SVI 191
+2 Escape Rope BST 125
+2 Arven OBF 186
+4 Level Ball BST 129
+1 Avery CRE 130
+1 Hisuian Heavy Ball ASR 146
+2 Luxurious Cape PAR 166
+2 Iono PAL 185
+3 Path to the Peak CRE 148
+4 Snorlax Doll PAR 175
+2 Super Rod PAL 188
+2 Technical Machine: Turbo Energize PAR 179
+1 Boss's Orders RCL 154
+2 Professor's Research SVI 189
+1 Defiance Band SVI 169
+1 Vitality Band SVI 197
+1 Pal Pad SVI 182
+1 Forest Seal Stone SIT 156
+1 Energy Search SVI 172
+
+Energy: 1
+8 Basic {P} Energy SVE 5
+
+Total Cards: 60

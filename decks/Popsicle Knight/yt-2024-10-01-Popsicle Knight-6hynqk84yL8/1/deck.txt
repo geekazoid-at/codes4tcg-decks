@@ -1,0 +1,28 @@
+Pokémon: 6
+3 Beldum TEF 113
+3 Metang TEF 114
+1 Hisuian Basculegion LOR 45
+3 Orthworm ex SCR 110
+2 Hisuian Basculin ASR 43
+1 Fezandipiti ex SFA 38
+
+Trainer: 14
+2 Buddy-Buddy Poffin TEF 144
+1 Counter Catcher PAR 160
+1 Deluxe Bomb SCR 134
+1 Super Rod PAL 188
+3 Adaman ASR 135
+3 Pokégear 3.0 SVI 186
+3 Nest Ball SVI 181
+2 Full Metal Lab TEF 148
+2 Arven SVI 166
+1 Pal Pad SVI 182
+1 Roseanne's Backup BRS 148
+1 Earthen Vessel PAR 163
+1 Kieran TWM 154
+1 Boss's Orders PAL 172
+
+Energy: 1
+24 Basic {M} Energy SVE 16
+
+Total Cards: 60

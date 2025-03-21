@@ -12,6 +12,7 @@ const channelIdStb = "UCCLD0ptegGoRv8RHuhgZR_A"; // snipe the bench
 const channelIdSneaker = "UCBjjolWH6d6JJRCZ6a02N6w"; // SneakerTalkTCG
 const channelIdMrdog = "UCMS0qK1Or_qElPXCgmkCUhw"; // MrDog
 const channelId3rd = "UCtjNWKdNFOdMv6QEUfSN8TQ"; // in3rdperson
+const channelIdPop = "UCaJRkZn63jCodODUOyGPiiA"; // PopsicleKnight
 
 const allChannelIds: string[] = [
   channelIdTyp,
@@ -22,6 +23,7 @@ const allChannelIds: string[] = [
   channelIdSneaker,
   channelIdMrdog,
   channelId3rd,
+  channelIdPop,
 ];
 
 const main = async (

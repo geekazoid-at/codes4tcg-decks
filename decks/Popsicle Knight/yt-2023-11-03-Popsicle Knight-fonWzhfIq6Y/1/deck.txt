@@ -1,0 +1,37 @@
+Pokémon: 8
+1 Skwovet SVI 151
+2 Brute Bonnet PAR 123
+1 Radiant Hisuian Sneasler LOR 123
+4 Klawf PAR 105 PH
+1 Mew ex MEW 151
+1 Manaphy BRS 41
+2 Bidoof CRZ 111
+2 Bibarel CRZ-GG 25
+
+Trainer: 20
+1 Hisuian Heavy Ball ASR 146
+2 Switch Cart ASR 154
+1 Defiance Band SVI 169
+1 Roseanne's Backup BRS 148
+2 Raihan EVS 152
+2 Escape Rope BST 125
+1 Energy Search SVI 172
+1 Pal Pad SVI 182
+4 Nest Ball SVI 181
+3 Ancient Booster Energy Capsule PAR 159
+2 Artazon PAL 171
+2 Battle VIP Pass FST 225
+1 Beach Court SVI 167
+2 Iono PAL 185
+3 Arven SVI 166
+2 Super Rod PAL 188
+2 Boss's Orders RCL 154
+3 Ultra Ball SVI 196
+2 Rock Chestplate SVI 192
+2 Professor's Research SVI 189
+
+Energy: 2
+4 Double Turbo Energy BRS 151
+3 Basic {D} Energy SVE 7 PH
+
+Total Cards: 60

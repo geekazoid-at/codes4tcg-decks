@@ -1,0 +1,37 @@
+Pokémon: 9
+4 Tatsugiri SVI 62
+4 Dondozo SVI 61
+1 Liepard BRS 91
+1 Radiant Greninja ASR 46
+1 Manaphy BRS 41
+2 Bibarel CRZ-GG 25
+2 Bidoof CRZ 111
+1 Purrloin CRZ 77
+1 Skwovet SVI 151
+
+Trainer: 19
+1 Boss's Orders RCL 189
+2 Hisuian Heavy Ball ASR 146
+2 Raihan SIT-TG 27
+2 Escape Rope BST 125
+1 PokéStop PGO 68
+3 Level Ball BST 129
+4 Ultra Ball CRZ 146
+1 Judge SVI 176
+2 Nest Ball SVI 181
+1 Beach Court SVI 167
+2 Pal Pad SVI 182
+1 Choice Belt BRS 135
+1 Worker SIT 195
+1 Thorton LOR 195
+2 Zinnia's Resolve EVS 203
+2 Roseanne's Backup BRS 172
+1 Defiance Band SVI 169
+2 Professor's Research SVI 240
+1 Professor Burnet SIT-TG 26
+
+Energy: 2
+7 Basic {W} Energy SVE 3
+4 Double Turbo Energy BRS 151
+
+Total Cards: 60

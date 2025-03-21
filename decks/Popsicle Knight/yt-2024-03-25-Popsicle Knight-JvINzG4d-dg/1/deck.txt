@@ -1,0 +1,33 @@
+Pokémon: 11
+1 Haunter PAF 56
+1 Hisuian Samurott V ASR 101
+4 Gastly TEF 102
+3 Gengar ex TEF 104
+1 Gengar PAF 57
+1 Hisuian Samurott VSTAR ASR 102
+1 Sableye TEF 107 PH
+1 Manaphy BRS 41
+2 Bidoof CRZ 111
+2 Bibarel CRZ-GG 25
+1 Mew ex MEW 151
+
+Trainer: 13
+2 Pokémon League Headquarters OBF 192
+1 Giovanni's Charisma MEW 161
+1 Judge SVI 176
+2 Nest Ball SVI 181
+2 Boss's Orders PAL 172
+4 Iono PAL 185
+1 Super Rod PAL 188
+3 Dark Patch ASR 139
+4 Ultra Ball SVI 196
+2 Switch SVI 194
+4 Rare Candy SVI 191
+4 Buddy-Buddy Poffin TEF 144
+2 Ciphermaniac's Codebreaking TEF 145
+
+Energy: 2
+9 Basic {D} Energy SVE 7
+1 Neo Upper Energy TEF 162
+
+Total Cards: 60

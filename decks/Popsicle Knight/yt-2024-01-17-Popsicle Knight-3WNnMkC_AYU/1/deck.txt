@@ -1,0 +1,36 @@
+Pokémon: 9
+2 Spidops ex SVI 19
+1 Skwovet SVI 151
+2 Cherrim PR-SW 88
+2 Cherubi BRS 12
+2 Tarountula SVI 18
+1 Manaphy BRS 41
+2 Bidoof CRZ 111
+2 Bibarel CRZ-GG 25
+3 Wo-Chien PAR 18
+
+Trainer: 19
+2 Boss's Orders RCL 189
+1 Hisuian Heavy Ball ASR 146
+2 Iono PAL 254
+1 Avery CRE 187
+2 Level Ball BST 129
+1 Mesagoza SVI 178
+1 Pal Pad SVI 182
+1 Nest Ball SVI 181
+1 Artazon PAL 171
+3 Battle VIP Pass FST 225
+1 Technical Machine: Evolution PAR 178
+2 Arven SVI 235
+2 Superior Energy Retrieval PAL 189
+2 Super Rod PAL 188
+1 Jacq SVI 236
+2 Professor's Research SVI 240
+3 Ultra Ball SVI 196
+2 Switch SVI 194
+2 Earthen Vessel PAR 163
+
+Energy: 1
+11 Basic {G} Energy SVE 1
+
+Total Cards: 60

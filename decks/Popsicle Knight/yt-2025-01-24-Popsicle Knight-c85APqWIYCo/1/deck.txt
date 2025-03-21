@@ -1,0 +1,31 @@
+Pokémon: 8
+2 Bibarel BRS 121
+3 Lugia VSTAR SIT 139
+4 Archeops SIT 147
+2 Regigigas PRE 86
+3 Lugia V SIT 138
+2 Snorlax ex PRE 76
+1 Snorlax LOR 143
+2 Bidoof CRZ 111
+
+Trainer: 10
+4 Ultra Ball SVI 196
+3 Professor's Research SVI 190
+2 Explorer's Guidance TEF 147
+3 Iono PAL 185
+2 Mesagoza SVI 178
+1 Super Rod PAL 188
+3 Nest Ball SVI 181
+4 Capturing Aroma SIT 153
+1 Scramble Switch SSP 186
+3 Boss's Orders PAL 172
+
+Energy: 6
+2 Mist Energy TEF 161
+2 Gift Energy LOR 171
+4 Double Turbo Energy BRS 151
+3 Jet Energy PAL 190
+2 Therapeutic Energy PAL 193
+2 Reversal Energy PAL 192
+
+Total Cards: 60

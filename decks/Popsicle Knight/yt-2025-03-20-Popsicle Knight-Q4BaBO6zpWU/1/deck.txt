@@ -1,0 +1,39 @@
+Pokémon: 12
+1 Rabsca TEF 24 PH
+3 Seaking PRE 21 PH
+1 Rellor TEF 23
+2 Budew PRE 4
+2 Grookey TWM 14
+3 Goldeen TWM 44 PH
+1 Cornerstone Mask Ogerpon ex TWM 112
+2 Applin TWM 17
+3 Thwackey TWM 15 PH
+1 Mimikyu PAL 97
+2 Dipplin TWM 18 PH
+1 Grookey TWM 14 PH
+
+Trainer: 17
+1 Ultra Ball SVI 196
+1 Vitality Band SVI 197
+2 Switch SVI 194
+1 Jacq SVI 175
+1 Defiance Band SVI 169
+1 Earthen Vessel PAR 163
+4 Buddy-Buddy Poffin TEF 144
+1 Kieran TWM 154
+2 Technical Machine: Devolution PAR 177
+2 Super Rod PAL 188
+3 Iono PAF 80
+1 Maximum Belt TEF 154
+2 Lacey PRE 114
+1 Pal Pad SVI 182
+2 Surfer SSP 187
+1 Boss's Orders PAL 172
+4 Festival Grounds TWM 149
+
+Energy: 3
+4 Basic {G} Energy SVE 9
+2 Luminous Energy PAL 191
+2 Jet Energy PAL 190
+
+Total Cards: 60

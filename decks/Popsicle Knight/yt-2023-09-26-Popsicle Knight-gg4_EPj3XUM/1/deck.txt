@@ -1,0 +1,36 @@
+Pokémon: 8
+3 Nidoking MEW 34
+2 Nidoqueen MEW 31
+1 Inteleon CRE 43
+4 Luxray CRZ 44
+1 Gallade ASR 62
+2 Orbeetle BST 65
+2 Blipbug BST 17
+1 Dottler LOR 19
+
+Trainer: 18
+1 Hisuian Heavy Ball ASR 146
+2 Raihan SIT-TG 27
+3 Iono PAL 254
+1 Escape Rope BST 125
+2 Panic Mask LOR 165
+1 Energy Search SVI 172
+2 Mesagoza SVI 178
+1 Pal Pad SVI 182
+3 Level Ball BST 129 PH
+1 Cheryl BST 159
+1 Bravery Charm PAL 173
+2 Arven SVI 235
+1 Super Rod PAL 188
+1 Defiance Band SVI 169
+4 Ultra Ball SVI 196
+1 Switch SVI 194
+3 Rare Candy SVI 191
+2 Boss's Orders PAL 265
+
+Energy: 3
+3 Reversal Energy PAL 192
+7 Basic {D} Energy SVE 7
+2 Double Turbo Energy BRS 151
+
+Total Cards: 60

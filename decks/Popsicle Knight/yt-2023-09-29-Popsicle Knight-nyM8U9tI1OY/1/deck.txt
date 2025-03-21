@@ -1,0 +1,39 @@
+Pokémon: 10
+1 Charizard ex MEW 6
+2 Arceus VSTAR BRS 123
+2 Arceus V BRS 122
+1 Charizard ex OBF 215
+1 Gallade ASR 62
+2 Orbeetle BST 65
+2 Charizard PGO 10
+2 Blipbug BST 17
+1 Charizard ex OBF 125
+1 Dottler LOR 19
+
+Trainer: 19
+1 Hisuian Heavy Ball ASR 146
+1 Cheryl BST 123
+2 Raihan EVS 152
+1 Escape Rope BST 125
+1 Giovanni's Charisma MEW 161
+1 Forest Seal Stone SIT 156
+1 Avery CRE 130
+1 Energy Search SVI 172
+3 Mesagoza SVI 178
+1 Pal Pad SVI 182
+3 Nest Ball SVI 181
+1 Bravery Charm PAL 173
+2 Boss's Orders PAL 172
+2 Iono PAL 185
+2 Arven SVI 166
+2 Super Rod PAL 188
+4 Ultra Ball SVI 196
+1 Switch SVI 194
+3 Rare Candy SVI 191
+
+Energy: 3
+2 Reversal Energy PAL 192
+8 Basic {R} Energy SVE 2
+2 Double Turbo Energy BRS 151
+
+Total Cards: 60

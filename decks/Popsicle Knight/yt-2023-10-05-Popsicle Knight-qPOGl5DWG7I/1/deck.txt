@@ -1,0 +1,35 @@
+Pokémon: 9
+2 Venusaur PGO 3
+1 Archeops SIT 147
+1 Pidgeot ex OBF 164
+2 Staraptor BRS 119
+3 Butterfree MEW 12 PH
+2 Orbeetle BST 65
+2 Blipbug BST 17
+1 Dottler LOR 19
+4 Luxray CRZ 44
+
+Trainer: 15
+1 Hisuian Heavy Ball ASR 146
+2 Raihan EVS 152
+1 Escape Rope BST 125
+1 Energy Search SVI 172
+3 Mesagoza SVI 178
+1 Pal Pad SVI 182
+3 Nest Ball SVI 181
+1 Bravery Charm PAL 173
+3 Iono PAL 185
+3 Arven SVI 166
+2 Super Rod PAL 188
+4 Ultra Ball SVI 196
+1 Switch SVI 194
+3 Rare Candy SVI 191
+1 Avery CRE 130
+
+Energy: 4
+2 Luminous Energy PAL 191
+2 Reversal Energy PAL 192
+4 Basic {G} Energy SVE 1
+4 Double Turbo Energy BRS 151
+
+Total Cards: 60

@@ -1,0 +1,33 @@
+Pokémon: 6
+1 Skwovet SVI 151
+4 Charjabug TEF 55
+4 Grubbin TEF 18
+4 Vikavolt TEF 56
+2 Bidoof CRZ 111
+2 Bibarel CRZ-GG 25
+
+Trainer: 17
+1 Hisuian Heavy Ball ASR 146
+2 Counter Catcher PAR 160
+2 Arezu LOR 153
+3 Ultra Ball PAF 91
+2 Cyllene ASR 138
+1 Pal Pad SVI 182
+1 Thorton LOR 167
+3 Artazon PAL 171
+2 Iono PAL 185
+2 Arven SVI 166
+4 Super Rod PAL 188
+1 Defiance Band SVI 169
+3 Cynthia's Ambition BRS 138
+2 Energy Loto ASR 140
+4 Buddy-Buddy Poffin TEF 144
+1 Switch SVI 194
+2 Rare Candy SVI 191
+
+Energy: 3
+4 Reversal Energy PAL 192
+1 Neo Upper Energy TEF 162
+2 Basic {L} Energy SVE 4
+
+Total Cards: 60

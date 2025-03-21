@@ -1,0 +1,33 @@
+Pokémon: 7
+1 Skwovet SVI 151
+1 Plusle PAR 60
+4 Pidove TEF 133
+4 Unfezant TEF 135
+1 Minun PAR 61
+2 Bibarel CRZ-GG 25
+2 Bidoof CRZ 111
+
+Trainer: 17
+1 Hisuian Heavy Ball ASR 146
+2 Counter Catcher PAR 160
+1 Hand Trimmer TEF 150
+4 Ultra Ball PAF 91
+2 Cyllene ASR 138
+1 Maximum Belt TEF 154
+1 Pal Pad SVI 182
+4 Calamitous Snowy Mountain PAL 174
+2 Iono PAL 185
+2 Arven SVI 166
+2 Super Rod PAL 188
+4 Crushing Hammer SVI 168
+3 Cynthia's Ambition BRS 138
+2 Energy Loto ASR 140
+1 Eri TEF 146
+4 Buddy-Buddy Poffin TEF 144
+1 Switch SVI 194
+
+Energy: 2
+4 Reversal Energy PAL 192
+4 Double Turbo Energy BRS 151
+
+Total Cards: 60

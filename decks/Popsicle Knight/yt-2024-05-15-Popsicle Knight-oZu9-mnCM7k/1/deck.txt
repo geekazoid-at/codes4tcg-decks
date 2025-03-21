@@ -1,0 +1,35 @@
+Pokémon: 8
+4 Loudred PAR 149
+4 Whismur PAR 148
+1 Skwovet SVI 151
+1 Toedscool PAR 16
+4 Exploud PAR 150
+3 Cleffa OBF 80
+1 Toedscruel PAR 17
+1 Sandshrew MEW 27
+
+Trainer: 17
+1 Hisuian Heavy Ball ASR 146
+3 Counter Catcher PAR 160
+2 Energy Search SVI 172
+1 Arezu LOR 153
+1 Prime Catcher TEF 157
+2 Pal Pad SVI 182
+2 Artazon PAL 171
+2 Arven SVI 166
+2 Professor Turo's Scenario PAR 171
+1 Technical Machine: Evolution PAR 178
+2 Super Rod PAL 188
+2 Eri TEF 146
+3 Buddy-Buddy Poffin TEF 144
+3 Salvatore TEF 160
+3 Iono PAF 80
+2 Switch SVI 194
+1 Miss Fortune Sisters LOR 164
+
+Energy: 3
+2 Reversal Energy PAL 192
+4 Basic {G} Energy SVE 1
+2 Gift Energy LOR 171
+
+Total Cards: 60

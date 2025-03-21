@@ -1,0 +1,31 @@
+Pokémon: 3
+3 Munkidori TWM 95
+4 Chansey MEW 113
+4 Blissey ex TWM 134
+
+Trainer: 18
+1 Counter Catcher PAR 160
+1 Exp. Share SVI 174
+1 Hero's Cape TEF 152
+4 Pokégear 3.0 SVI 186
+4 Nest Ball SVI 181
+3 Artazon PAL 171
+3 Boss's Orders PAL 172
+4 Arven SVI 166
+2 Technical Machine: Turbo Energize PAR 179
+1 Super Rod PAL 188
+1 Professor's Research PAF 87
+1 Lost Vacuum LOR 162
+3 Cheren's Care BRS 134
+1 Energy Loto ASR 140
+3 Iono PAF 80
+4 Ultra Ball SVI 196
+1 Switch SVI 194
+1 Earthen Vessel PAR 163
+
+Energy: 3
+5 Basic {D} Energy SVE 7
+4 Double Turbo Energy BRS 151
+1 Mist Energy TEF 161
+
+Total Cards: 60

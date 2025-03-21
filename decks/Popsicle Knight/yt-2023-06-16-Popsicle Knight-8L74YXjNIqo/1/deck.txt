@@ -1,0 +1,42 @@
+Pokémon: 12
+1 Flapple EVS 120
+1 Skwovet SVI 222
+2 Paldean Wooper PAL 128
+2 Alolan Raticate PGO 42
+1 Medicham V EVS 186
+2 Alolan Rattata PGO 41
+1 Manaphy CRZ-GG 6
+2 Paldean Clodsire ex PAL 130
+3 Zoroark EVS 103
+3 Zorua EVS 102
+1 Kricketune V SIT-TG 12
+1 Bibarel CRZ-GG 25
+
+Trainer: 19
+1 Boss's Orders RCL 189
+1 Hisuian Heavy Ball ASR 146
+1 Raihan SIT-TG 27
+1 Escape Rope BST 125
+1 Forest Seal Stone SIT 156
+2 Mesagoza SVI 178
+2 Serena SIT 193
+1 Pal Pad SVI 182
+3 Nest Ball SVI 181
+1 Worker SIT 195
+1 Artazon PAL 171
+1 Thorton LOR 195
+1 Beach Court SVI 167
+1 Roseanne's Backup BRS 172
+2 Super Rod PAL 188
+2 Professor's Research SVI 240
+4 Ultra Ball SVI 196
+2 Arven SVI 249
+2 Switch SVI 194
+
+Energy: 4
+2 Reversal Energy PAL 192
+3 Basic {D} Energy SVE 7
+1 Basic {F} Energy SVE 6
+4 Double Turbo Energy BRS 151
+
+Total Cards: 60

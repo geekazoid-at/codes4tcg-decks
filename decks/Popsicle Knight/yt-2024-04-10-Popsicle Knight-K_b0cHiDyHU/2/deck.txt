@@ -1,0 +1,31 @@
+Pokémon: 8
+4 Vikavolt TEF 56
+1 Bibarel CRZ-GG 25
+1 Manaphy BRS 41
+3 Dunsparce TEF 128
+3 Dudunsparce TEF 129
+4 Charjabug TEF 55
+4 Grubbin TEF 18
+1 Bidoof CRZ 111
+
+Trainer: 14
+2 Rare Candy SVI 191
+1 Thorton LOR 167
+4 Buddy-Buddy Poffin TEF 144
+2 Counter Catcher PAR 160
+1 Hisuian Heavy Ball ASR 146
+2 Iono PAL 185
+3 Great Ball PAL 183
+4 Super Rod PAL 188
+1 Cyllene ASR 138
+4 Arezu LOR 153
+2 Nest Ball SVI 181
+3 Capturing Aroma SIT 153
+2 Cynthia's Ambition BRS 138
+3 Artazon PAL 171
+
+Energy: 2
+4 Reversal Energy PAL 192
+1 Neo Upper Energy TEF 162
+
+Total Cards: 60

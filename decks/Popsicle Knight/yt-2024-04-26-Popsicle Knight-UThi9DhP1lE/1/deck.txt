@@ -1,0 +1,37 @@
+Pokémon: 10
+2 Croconaw TEF 40
+4 Totodile TEF 39
+1 Skwovet SVI 151
+1 Mimikyu PAL 97
+3 Feraligatr TEF 41
+1 Manaphy BRS 41
+1 Klefki SVI 96
+1 Relicanth TEF 84
+2 Bidoof CRZ 111
+2 Bibarel CRZ-GG 25
+
+Trainer: 18
+1 Hisuian Heavy Ball ASR 146
+1 Counter Catcher PAR 160
+2 Artazon PAF 76
+3 Irida ASR 147
+1 Hand Trimmer TEF 150
+4 Ultra Ball PAF 91
+1 Cyllene ASR 138
+1 Maximum Belt TEF 154
+1 Rescue Board TEF 159
+1 Pal Pad SVI 182
+1 Nest Ball SVI 181
+1 Boss's Orders PAL 172
+4 Iono PAL 185
+2 Super Rod PAL 188
+2 Energy Loto ASR 140
+3 Buddy-Buddy Poffin TEF 144
+1 Switch SVI 194
+3 Rare Candy SVI 191
+
+Energy: 2
+3 Reversal Energy PAL 192
+6 Basic {W} Energy SVE 3
+
+Total Cards: 60

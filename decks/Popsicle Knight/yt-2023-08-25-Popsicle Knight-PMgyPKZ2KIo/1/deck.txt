@@ -1,0 +1,33 @@
+Pokémon: 10
+1 Kricketune ASR 10
+2 Cherrim PR-SW 88
+2 Cherubi BRS 12
+3 Toedscruel ex OBF 22
+3 Toedscool SVI 24
+1 Manaphy BRS 41
+1 Kricketune V SIT-TG 12
+1 Zarude CRZ 16
+1 Kricketot CRZ 10
+1 Skwovet SVI 151
+
+Trainer: 15
+2 Boss's Orders RCL 189
+1 Hisuian Heavy Ball ASR 146
+3 Iono PAL 254
+4 Level Ball BST 129
+1 Forest Seal Stone SIT 156
+2 Mesagoza SVI 178
+1 Pal Pad SVI 182
+2 Artazon PAL 171
+3 Battle VIP Pass FST 225
+1 Thorton LOR 195
+1 Klara CRE 194
+1 Super Rod PAL 188
+3 Professor's Research SVI 240
+4 Ultra Ball SVI 196
+2 Switch SVI 194
+
+Energy: 1
+13 Basic {G} Energy SVE 1
+
+Total Cards: 60

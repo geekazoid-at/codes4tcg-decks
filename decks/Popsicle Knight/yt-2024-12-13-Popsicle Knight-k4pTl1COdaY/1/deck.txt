@@ -1,0 +1,37 @@
+Pokémon: 9
+1 Origin Forme Palkia V ASR 39
+3 Ceruledge ex SSP 36
+3 Charcadet SSP 32
+1 Lumineon V BRS 40
+1 Fezandipiti ex SFA 38
+1 Origin Forme Palkia VSTAR ASR 40
+1 Radiant Greninja ASR 46
+1 Manaphy BRS 41
+1 Squawkabilly ex PAL 169
+
+Trainer: 15
+3 Carmine TWM 145
+1 Brilliant Blender SSP 164
+3 Night Stretcher SFA 61
+1 Pal Pad SVI 182
+3 Nest Ball SVI 181
+3 Professor's Research SVI 189
+1 Cycling Road MEW 157
+2 Boss's Orders PAL 172
+1 Super Rod PAL 188
+1 Briar SCR 132
+1 Crispin SCR 133
+1 Iono PAF 80
+4 Ultra Ball SVI 196
+1 Canceling Cologne ASR 136
+2 Earthen Vessel PAR 163
+
+Energy: 6
+7 Basic {R} Energy SVE 10
+2 Jet Energy PAL 190
+5 Basic {W} Energy SVE 11
+2 Basic {P} Energy SVE 13
+1 Mist Energy TEF 161
+2 Basic {M} Energy SVE 16
+
+Total Cards: 60

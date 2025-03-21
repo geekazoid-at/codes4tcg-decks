@@ -1,0 +1,37 @@
+Pokémon: 10
+1 Rotom V LOR 58
+1 Skwovet SVI 151
+2 Tsareena ex PAR 46
+3 Seedot TEF 3
+3 Shiftry TEF 5
+1 Rufflet ASR 131
+2 Bounsweet OBF 16
+1 Hisuian Braviary SIT 149
+2 Bidoof CRZ 111
+2 Bibarel CRZ-GG 25
+
+Trainer: 19
+1 Hisuian Heavy Ball ASR 146
+2 Counter Catcher PAR 160
+1 Prime Catcher TEF 157
+1 Forest Seal Stone SIT 156
+1 Energy Search SVI 172
+2 Irida ASR 147
+1 Pal Pad SVI 182
+1 Nest Ball SVI 181
+3 Arven OBF 186
+1 Boss's Orders PAL 172
+2 Super Rod PAL 188
+4 Buddy-Buddy Poffin TEF 144
+1 Ciphermaniac's Codebreaking TEF 145
+2 Iono PAF 80
+4 Ultra Ball SVI 196
+4 Rare Candy SVI 191
+1 Cyllene ASR 138
+1 Hand Trimmer TEF 150
+1 Erika's Invitation MEW 160
+
+Energy: 1
+8 Basic {G} Energy SVE 1 PH
+
+Total Cards: 60

@@ -1,0 +1,30 @@
+Pokémon: 6
+4 Miraidon TEF 121
+4 Iron Thorns TEF 62
+1 Iron Bundle PAR 56
+1 Iron Leaves ex TEF 25
+1 Mew ex MEW 151
+4 Iron Crown ex TEF 81
+
+Trainer: 15
+4 Future Booster Energy Capsule PAR 164
+2 Electric Generator SVI 170
+2 Heavy Baton TEF 151
+1 Prime Catcher TEF 157
+2 Pal Pad SVI 182
+2 Nest Ball SVI 181
+2 Calamitous Wasteland PAL 175
+1 Boss's Orders PAL 172
+3 Arven SVI 166
+2 Professor Turo's Scenario PAR 171
+3 Super Rod PAL 188
+4 Techno Radar PAR 180
+4 Ciphermaniac's Codebreaking TEF 145
+2 Iono PAF 80
+1 Earthen Vessel PAR 163
+
+Energy: 2
+3 Basic {G} Energy SVE 1
+7 Basic {L} Energy SVE 4
+
+Total Cards: 60

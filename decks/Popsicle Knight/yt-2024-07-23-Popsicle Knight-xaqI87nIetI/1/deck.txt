@@ -1,0 +1,35 @@
+Pokémon: 9
+1 Munkidori TWM 95
+2 Snorunt SIT 41
+1 Whirlipede TWM 116 PH
+2 Froslass TWM 53
+1 Cleffa OBF 80
+4 Scolipede TWM 117 PH
+4 Venipede TWM 115
+1 Bibarel CRZ-GG 25
+1 Bidoof CRZ 111
+
+Trainer: 16
+1 Hisuian Heavy Ball ASR 146
+1 Counter Catcher PAR 160
+2 Artazon PAF 76
+1 Pal Pad SVI 182
+4 Nest Ball SVI 181
+2 Boss's Orders PAL 172
+3 Iono PAL 185
+3 Arven SVI 166
+2 Panic Mask LOR 165
+1 Giacomo PAL 182
+2 Super Rod PAL 188
+3 Professor's Research PAF 87
+1 Buddy-Buddy Poffin TEF 144
+4 Ultra Ball SVI 196
+2 Switch SVI 194
+4 Rare Candy SVI 191
+
+Energy: 3
+4 Reversal Energy PAL 192
+2 Basic {D} Energy SVE 7
+1 Neo Upper Energy TEF 162
+
+Total Cards: 60

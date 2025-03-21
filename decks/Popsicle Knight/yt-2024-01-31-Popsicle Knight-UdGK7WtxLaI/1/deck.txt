@@ -1,0 +1,40 @@
+Pokémon: 8
+1 Jirachi PAR 126
+2 Remoraid BST 36
+2 Cleffa OBF 80
+4 Hoppip EVS 2
+4 Skiploom EVS 3
+4 Jumpluff EVS 4
+1 Manaphy BRS 41
+2 Octillery BST 37
+
+Trainer: 20
+1 Counter Catcher PAR 160
+2 Rapid Strike Scroll of the Skies CRE 151
+2 Raihan EVS 152
+4 Level Ball BST 129
+1 Rescue Carrier EVS 154
+1 Korrina's Focus BST 128
+1 Energy Search SVI 172
+1 Arezu LOR 153
+2 Pokégear 3.0 SVI 186
+1 Pal Pad SVI 182
+1 Technical Machine: Crisis Punch PAF 90 PH
+2 Artazon PAL 171
+2 Arven OBF 186
+3 Battle VIP Pass FST 225
+2 Super Rod PAL 188
+1 Boss's Orders RCL 154
+1 Iono PAF 80
+1 Vitality Band SVI 197
+1 Switch SVI 194
+1 Rare Candy SVI 191
+
+Energy: 5
+1 Spiral Energy CRE 159
+2 Reversal Energy PAL 192
+4 Basic {G} Energy SVE 1
+1 Basic {L} Energy SVE 4
+1 Rapid Strike Energy BST 140
+
+Total Cards: 60

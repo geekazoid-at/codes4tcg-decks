@@ -1,0 +1,39 @@
+Pokémon: 11
+1 Flapple EVS 120
+1 Skwovet SVI 151
+1 Slowbro PGO 20
+1 Mimikyu PAL 97
+4 Tandemaus PAR 153
+4 Maushold ex PAR 155
+2 Zoroark EVS 103
+1 Manaphy BRS 41
+2 Zorua EVS 102
+2 Bidoof CRZ 111
+2 Bibarel CRZ-GG 25
+
+Trainer: 19
+2 Boss's Orders RCL 189
+1 Hisuian Heavy Ball ASR 146
+1 Raihan SIT-TG 27
+1 Iono PAL 254
+3 Vengeful Punch OBF 197
+3 Level Ball BST 129
+1 Rigid Band MEW 165
+1 Judge SVI 176
+1 Mesagoza SVI 178
+1 Pal Pad SVI 182
+1 Worker SIT 195
+1 Artazon PAL 171
+3 Zinnia's Resolve EVS 203
+1 Roseanne's Backup BRS 172
+2 Arven SVI 235
+2 Super Rod PAL 188
+2 Energy Loto ASR 140
+4 Ultra Ball SVI 196
+2 Switch SVI 194
+
+Energy: 2
+2 Basic {P} Energy SVE 5 PH
+4 Double Turbo Energy BRS 151
+
+Total Cards: 60

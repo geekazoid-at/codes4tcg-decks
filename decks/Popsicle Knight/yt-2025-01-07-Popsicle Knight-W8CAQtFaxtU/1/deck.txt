@@ -1,0 +1,33 @@
+Pokémon: 8
+1 Grafaiai SSP 121 PH
+1 Manaphy BRS 41
+1 Fezandipiti ex SFA 38
+1 Radiant Greninja ASR 46
+3 Grafaiai SSP 121
+4 Shroodle SSP 120
+1 Roaring Moon ex PAR 124
+2 Cleffa OBF 80
+
+Trainer: 17
+3 Ultra Ball SVI 196
+2 Switch SVI 194
+4 Dark Patch ASR 139
+2 Counter Gain SSP 169
+3 Crushing Hammer SVI 168
+1 Earthen Vessel PAR 163
+3 Buddy-Buddy Poffin TEF 144
+2 Counter Catcher PAR 160
+3 Handheld Fan TWM 150
+3 Iono PAL 185
+2 Gravity Mountain SSP 177
+2 Super Rod PAL 188
+1 Rescue Board TEF 159
+2 Nest Ball PAF 84
+1 Neutralization Zone SFA 60
+1 Boss's Orders PAL 172
+3 Arven SVI 166
+
+Energy: 1
+8 Basic {D} Energy SVE 15
+
+Total Cards: 60

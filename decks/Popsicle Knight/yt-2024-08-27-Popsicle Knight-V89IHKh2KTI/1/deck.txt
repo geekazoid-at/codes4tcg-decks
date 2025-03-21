@@ -1,0 +1,37 @@
+Pokémon: 9
+2 Munkidori TWM 95
+1 Pecharunt ex SFA 39
+3 Crobat SFA 29
+1 Radiant Hisuian Sneasler LOR 123
+1 Crobat SIT 105
+4 Zubat SFA 27
+1 Manaphy BRS 41
+1 Golbat SFA 28
+2 Cleffa OBF 80
+
+Trainer: 19
+3 Ultra Ball SVI 196
+2 Dark Patch ASR 139
+1 Binding Mochi SFA 55 PH
+4 Rare Candy SVI 191
+1 Earthen Vessel PAR 163
+3 Buddy-Buddy Poffin TEF 144
+1 Counter Catcher PAR 160
+1 Hisuian Heavy Ball ASR 146
+3 Iono PAL 185
+2 Janine's Secret Art SFA 59
+2 Super Rod PAL 188
+1 Neutralization Zone SFA 60
+2 Perilous Jungle TEF 156
+1 Pal Pad SVI 182
+1 Nest Ball PAF 84
+2 Binding Mochi SFA 55
+1 Roseanne's Backup BRS 148
+1 Boss's Orders PAL 172
+3 Arven SVI 166
+
+Energy: 2
+7 Basic {D} Energy SVE 7
+2 Reversal Energy PAL 192
+
+Total Cards: 60

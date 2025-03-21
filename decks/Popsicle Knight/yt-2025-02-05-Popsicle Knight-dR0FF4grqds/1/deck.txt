@@ -1,0 +1,37 @@
+Pokémon: 10
+1 Munkidori TWM 95
+2 Froslass TWM 53
+3 Glaceon ex PRE 26
+1 Eevee ex PRE 75
+1 Radiant Alakazam SIT 59
+1 Budew PRE 4
+1 Cleffa OBF 80
+3 Eevee PRE 74
+2 Snorunt PAR 37
+2 Iron Valiant ex PAR 89
+
+Trainer: 17
+2 Buddy-Buddy Poffin PRE 101
+1 Earthen Vessel PRE 106
+3 Switch SVI 194
+3 Switch Cart ASR 154
+1 Briar SCR 132
+2 Crispin SCR 133
+1 Gravity Gemstone SCR 137
+3 Future Booster Energy Capsule PAR 164
+1 Super Rod PAL 188
+1 Sparkling Crystal PRE 129
+3 Iono PAF 80
+3 Nest Ball SVI 181
+2 Tera Orb SSP 189
+3 Surfer SSP 187
+1 Calamitous Snowy Mountain PAL 174
+1 Boss's Orders PAL 172
+2 Arven SVI 166
+
+Energy: 3
+3 Basic {W} Energy SVE 11
+4 Basic {D} Energy SVE 15
+3 Basic {G} Energy SVE 9
+
+Total Cards: 60

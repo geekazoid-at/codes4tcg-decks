@@ -1,0 +1,38 @@
+Pokémon: 10
+2 Regice ASR 37
+2 Regirock ASR 75
+2 Regidrago ASR 118
+2 Registeel ASR 108
+2 Regieleki ASR 51
+1 Squawkabilly ex PAF 75
+2 Umbreon ex PRE 60
+2 Regigigas ASR 130
+1 Radiant Greninja ASR 46
+2 Eevee SSP 143
+
+Trainer: 16
+2 Trekking Shoes ASR 156
+1 Hisuian Heavy Ball ASR 146
+1 Counter Catcher PAR 160
+2 Switch SVI 194
+1 Precious Trolley SSP 185
+3 Night Stretcher SFA 61
+2 Gravity Gemstone SCR 137
+3 Nest Ball SVI 181
+3 Professor's Research SVI 189
+2 Boss's Orders PAL 172
+1 Iono PAL 185
+1 Super Rod PAL 188
+4 Area Zero Underdepths SCR 131
+1 Ciphermaniac's Codebreaking TEF 145
+3 Ultra Ball SVI 196
+2 Earthen Vessel PAR 163
+
+Energy: 5
+2 Basic {L} Energy SVE 12
+2 Luminous Energy PAL 191
+2 Basic {D} Energy SVE 15
+2 Basic {W} Energy SVE 11
+2 Basic {P} Energy SVE 13
+
+Total Cards: 60

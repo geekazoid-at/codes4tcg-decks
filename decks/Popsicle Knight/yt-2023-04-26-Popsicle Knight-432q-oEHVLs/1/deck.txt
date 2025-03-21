@@ -1,0 +1,38 @@
+Pokémon: 10
+1 Skwovet SVI 151
+1 Pyukumuku PR-SW 169
+4 Tandemaus SVI 160
+4 Maushold SVI 161
+1 Radiant Greninja ASR 46
+1 Manaphy BRS 41
+2 Zoroark EVS 103
+1 Zorua EVS 102
+2 Bidoof CRZ 111
+2 Bibarel CRZ-GG 25
+
+Trainer: 18
+1 Boss's Orders RCL 189
+1 Hisuian Heavy Ball ASR 146
+2 Raihan SIT-TG 27
+1 Escape Rope BST 125
+4 Level Ball BST 129
+1 Mesagoza SVI 178
+3 Rescue Carrier CRZ 142
+2 Pal Pad SVI 182
+2 Battle VIP Pass FST 225
+1 Path to the Peak ASR 213
+1 Thorton LOR 195
+2 Irida CRZ-GG 63
+1 Roseanne's Backup BRS 172
+1 Defiance Band SVI 169
+1 Choice Belt BRS 135
+2 Irida ASR 186
+3 Ultra Ball SVI 196
+1 Switch SVI 194
+
+Energy: 3
+4 Basic {W} Energy SVE 3
+3 Gift Energy LOR 171
+4 Double Turbo Energy BRS 151
+
+Total Cards: 60

@@ -1,0 +1,38 @@
+Pokémon: 10
+1 Scovillain ex TEF 22
+1 Kricketune ASR 10
+2 Charcadet SSP 32
+2 Armarouge SVI 41
+2 Cleffa OBF 80
+3 Capsakid SVI 28
+1 Radiant Charizard CRZ 20
+3 Scovillain ex SSP 37
+1 Kricketot CRZ 10
+1 Manaphy BRS 41
+
+Trainer: 18
+1 Hisuian Heavy Ball ASR 146
+2 Counter Catcher PAR 160
+2 Damage Pump LOR 156
+2 Magma Basin BRS 144
+1 Rigid Band MEW 165
+1 Exp. Share SVI 174
+2 Calamitous Snowy Mountain PAL 174
+3 Professor's Research SVI 189
+1 Boss's Orders PAL 172
+1 Hyper Aroma TWM 152
+2 Iono PAL 185
+3 Arven SVI 166
+1 Super Rod PAL 188
+4 Buddy-Buddy Poffin TEF 144
+3 Ultra Ball SVI 196
+1 Switch SVI 194
+1 Canceling Cologne ASR 136
+1 Earthen Vessel PAR 163
+
+Energy: 3
+8 Basic {R} Energy SVE 10
+1 Luminous Energy PAL 191
+2 Basic {G} Energy SVE 9
+
+Total Cards: 60

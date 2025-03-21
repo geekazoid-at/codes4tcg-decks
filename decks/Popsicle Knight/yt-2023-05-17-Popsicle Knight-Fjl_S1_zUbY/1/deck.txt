@@ -1,0 +1,37 @@
+Pokémon: 11
+1 Spidops ex SVI 19
+1 Skwovet SVI 151
+4 Wugtrio SVI 57
+2 Armarouge SVI 41
+1 Tarountula SVI 18
+4 Wiglett SVI 56
+1 Manaphy BRS 41
+1 Kricketune V SIT-TG 12
+1 Bidoof CRZ 111
+1 Bibarel CRZ-GG 25
+2 Charcadet SVI 40
+
+Trainer: 17
+2 Boss's Orders RCL 189
+1 Hisuian Heavy Ball ASR 146
+2 Raihan SIT-TG 27
+2 Magma Basin BRS 144
+2 Escape Rope BST 125
+4 Level Ball BST 129
+1 Forest Seal Stone SIT 156
+1 Judge SVI 176
+2 Exp. Share SVI 174
+2 Rescue Carrier CRZ 142
+1 Pal Pad SVI 182
+2 Nest Ball SVI 181
+1 Battle VIP Pass FST 225
+1 Roseanne's Backup BRS 172
+2 Arven SVI 235
+3 Irida ASR 186
+2 Ultra Ball SVI 196
+
+Energy: 2
+6 Basic {R} Energy SVE 2
+4 Double Turbo Energy BRS 151
+
+Total Cards: 60

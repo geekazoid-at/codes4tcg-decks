@@ -1,0 +1,32 @@
+Pokémon: 9
+1 Alakazam TWM 82
+3 Drakloak TWM 129
+4 Dreepy TWM 128
+2 Abra TWM 80
+3 Dragapult ex TWM 130
+2 Pidgeot ex OBF 164
+1 Manaphy BRS 41
+1 Rotom V LOR 58
+2 Pidgey MEW 16
+
+Trainer: 13
+4 Ultra Ball SVI 196
+4 Rare Candy SVI 191
+3 Earthen Vessel PAR 163
+4 Buddy-Buddy Poffin TEF 144
+1 Lost Vacuum LOR 162
+1 Counter Catcher PAR 160
+1 Mela PAR 167
+4 Iono PAL 185
+1 Forest Seal Stone SIT 156
+4 Nest Ball SVI 181
+1 Rescue Board TEF 159
+4 Arven SVI 166
+2 Boss's Orders PAL 172
+
+Energy: 3
+3 Basic {R} Energy SVE 2
+3 Basic {P} Energy SVE 5
+1 Neo Upper Energy TEF 162
+
+Total Cards: 60

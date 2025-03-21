@@ -1,0 +1,33 @@
+Pokémon: 9
+2 Alakazam TWM 82
+2 Abra TWM 80
+2 Bibarel CRZ-GG 25
+2 Pidgeot ex OBF 164
+1 Kadabra TWM 81
+2 Bidoof CRZ 111
+3 Alolan Raticate PGO 42
+2 Pidgey MEW 16
+3 Alolan Rattata PGO 41
+
+Trainer: 15
+4 Ultra Ball SVI 196
+3 Rare Candy PAF 89
+1 Switch SVI 194
+4 Buddy-Buddy Poffin TEF 144
+3 Counter Catcher PAR 160
+4 Iono PAL 185
+1 Lana's Aid TWM 155
+2 Artazon PAF 76
+1 Super Rod PAL 188
+1 Technical Machine: Evolution PAR 178
+2 Roxanne ASR 150
+3 Panic Mask LOR 165
+1 Survival Brace TWM 164
+1 Boss's Orders PAL 172
+4 Arven SVI 166
+
+Energy: 2
+2 Basic {P} Energy SVE 5
+4 Reversal Energy PAL 192
+
+Total Cards: 60

@@ -1,0 +1,36 @@
+Pokémon: 12
+1 Skwovet SVI 151
+3 Gible PAR 94
+1 Lucario BRS 79
+1 Riolu SVI 112
+2 Silicobra SVI 119
+1 Mew ex MEW 151
+1 Gabite PAR 95
+1 Manaphy BRS 41
+2 Sandaconda SVI 120
+3 Garchomp ex PAR 38
+1 Bibarel CRZ-GG 25
+1 Bidoof CRZ 111
+
+Trainer: 16
+1 Hisuian Heavy Ball ASR 146
+1 Luxurious Cape PAR 166
+1 Escape Rope BST 125
+2 Avery CRE 130
+3 Irida ASR 147
+1 Pal Pad SVI 182
+3 Nest Ball SVI 181
+3 Battle VIP Pass FST 225
+2 Path to the Peak CRE 148
+1 Technical Machine: Devolution PAR 177
+2 Super Rod PAL 188
+1 Boss's Orders RCL 154
+2 Iono PAF 80
+4 Ultra Ball SVI 196
+1 Switch SVI 194
+3 Rare Candy SVI 191
+
+Energy: 1
+11 Basic {F} Energy SVE 6
+
+Total Cards: 60

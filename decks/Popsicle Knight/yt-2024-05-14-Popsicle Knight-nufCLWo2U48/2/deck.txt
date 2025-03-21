@@ -1,0 +1,38 @@
+Pokémon: 11
+2 Incineroar ex TEF 34
+3 Reuniclus TEF 72 PH
+2 Bibarel CRZ-GG 25
+2 Pidgeot ex OBF 164
+1 Skwovet SVI 151
+2 Solosis TEF 70
+1 Rotom V LOR 58
+1 Bidoof CRZ 111
+1 Skeledirge ex PAR 137
+2 Charizard PGO 10
+2 Charizard ex OBF 125
+
+Trainer: 18
+2 Ultra Ball SVI 196
+2 Switch SVI 194
+3 Rare Candy PAF 89
+2 Energy Search SVI 172
+2 Buddy-Buddy Poffin TEF 144
+2 Ciphermaniac's Codebreaking TEF 145
+1 Counter Catcher PAR 160
+1 Hisuian Heavy Ball ASR 146
+2 Mesagoza SVI 178
+1 Professor Turo's Scenario PAR 171
+2 Super Rod PAL 188
+2 Iono PAF 80
+2 Pokégear 3.0 SVI 186
+1 Pal Pad SVI 182
+1 Forest Seal Stone SIT 156
+1 Nest Ball PAF 84
+3 Arven SVI 166
+2 Boss's Orders PAL 172
+
+Energy: 2
+8 Basic {R} Energy SVE 2
+1 Neo Upper Energy TEF 162
+
+Total Cards: 60

@@ -1,0 +1,37 @@
+Pokémon: 13
+2 Origin Forme Palkia V ASR 39
+1 Shellos SSP 46
+2 Milotic ex SSP 42
+1 Fezandipiti ex SFA 38
+1 Gastrodon SSP 107
+2 Cleffa OBF 80
+1 Mimikyu PAF 37
+2 Feebas SIT 39
+2 Origin Forme Palkia VSTAR ASR 40
+1 Radiant Greninja ASR 46
+1 Manaphy BRS 41
+2 Black Kyurem ex SSP 48
+
+Trainer: 16
+1 Hisuian Heavy Ball ASR 146
+1 Counter Catcher PAR 160
+1 Unfair Stamp TWM 165
+3 Irida ASR 147
+3 Ultra Ball PAF 91
+2 Night Stretcher SFA 61
+1 Rescue Board TEF 159
+3 Nest Ball SVI 181
+2 Boss's Orders PAL 172
+3 Arven SVI 166
+1 Technical Machine: Devolution PAR 177
+1 Super Rod PAL 188
+2 Buddy-Buddy Poffin TEF 144
+3 Iono PAF 80
+2 Switch SVI 194
+1 Earthen Vessel PAR 163
+
+Energy: 2
+8 Basic {W} Energy SVE 11
+4 Double Turbo Energy BRS 151
+
+Total Cards: 60

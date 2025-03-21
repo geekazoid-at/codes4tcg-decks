@@ -1,0 +1,40 @@
+Pokémon: 10
+3 Golbat BST 90
+1 Kricketune V SIT-TG 12
+1 Manaphy BRS 41
+2 Crobat SIT 105
+1 Skwovet SVI 151
+3 Zubat BST 89
+3 Alolan Raticate PGO 42
+3 Alolan Rattata PGO 41
+1 Crobat BST 91
+1 Medicham V EVS 186
+
+Trainer: 20
+3 Ultra Ball SVI 196
+2 Switch SVI 194
+2 Arven SVI 235
+1 Rare Candy SVI 191
+1 Escape Rope BST 125
+3 Level Ball BST 129
+1 Hisuian Heavy Ball ASR 146
+2 Mesagoza SVI 178
+1 Worker SIT 195
+2 Super Rod PAL 188
+1 Roseanne's Backup BRS 172
+1 Thorton LOR 195
+2 Serena SIT 193
+1 Pal Pad SVI 182
+1 Forest Seal Stone SIT 156
+2 Iono PAL 254
+3 Nest Ball SVI 181
+1 Boss's Orders RCL 189
+1 Artazon PAL 171
+1 Raihan SIT-TG 27
+
+Energy: 3
+3 Basic {D} Energy SVE 7
+4 Double Turbo Energy BRS 151
+2 Reversal Energy PAL 192
+
+Total Cards: 60

@@ -1,0 +1,46 @@
+Pokémon: 13
+2 Noctowl PRE 78
+3 Espeon ex PRE 34
+3 Eevee PRE 74
+1 Noivern ex PAL 153
+1 Sandshrew MEW 27
+1 Cleffa OBF 80
+2 Hoothoot ASR 120
+1 Fan Rotom PRE 85
+1 Eevee ex PRE 75
+1 Toedscruel PAR 17
+1 Budew PRE 4
+1 Toedscool SCR 17
+1 Noibat PRE 90
+
+Trainer: 21
+1 Xerosic's Machinations SFA 64
+1 Hisuian Heavy Ball ASR 146
+2 Iono PAL 185
+1 Super Rod PAL 188
+1 Pal Pad SVI 182
+1 Nest Ball SVI 181
+1 Counter Catcher PAR 160
+1 Area Zero Underdepths SCR 131
+1 Crispin SCR 133
+2 Ultra Ball SVI 196
+3 Arven SVI 166
+1 Switch SVI 194
+2 Lacey SCR 139
+3 Tera Orb SSP 189
+1 Sparkling Crystal PRE 129
+1 Night Stretcher SFA 61
+1 Rescue Board PRE 126
+1 Glass Trumpet PRE 110
+3 Buddy-Buddy Poffin PRE 101
+2 Earthen Vessel PRE 106
+1 Boss's Orders PAL 172
+
+Energy: 5
+3 Basic {P} Energy SVE 13
+2 Luminous Energy PAL 191
+2 Basic {G} Energy SVE 9
+2 Basic {D} Energy SVE 15
+1 Double Turbo Energy BRS 151
+
+Total Cards: 60

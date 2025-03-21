@@ -1,0 +1,37 @@
+Pokémon: 10
+2 Gardevoir CRE 61
+3 Luxray CRZ 44
+1 Inteleon CRE 43
+1 Gengar LOR 66
+1 Gallade ASR 62
+2 Orbeetle BST 65
+1 Gardevoir ex SVI 86
+2 Gothitelle PAL 92
+2 Blipbug BST 17
+1 Dottler LOR 19
+
+Trainer: 17
+1 Hisuian Heavy Ball ASR 146
+1 Cheryl BST 123
+2 Raihan EVS 152
+3 Level Ball BST 129
+1 Energy Search SVI 172
+2 Mesagoza SVI 178
+1 Pal Pad SVI 182
+1 Bravery Charm PAL 173
+2 Boss's Orders PAL 172
+2 Path to the Peak CRE 148
+3 Iono PAL 185
+3 Arven SVI 166
+1 Super Rod PAL 188
+4 Ultra Ball SVI 196
+1 Vitality Band SVI 197
+2 Switch SVI 194
+2 Rare Candy SVI 191
+
+Energy: 3
+2 Reversal Energy PAL 192
+8 Basic {P} Energy SVE 5
+2 Double Turbo Energy BRS 151
+
+Total Cards: 60

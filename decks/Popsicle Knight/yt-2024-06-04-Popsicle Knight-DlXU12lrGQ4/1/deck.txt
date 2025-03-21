@@ -1,0 +1,36 @@
+Pokémon: 8
+1 Rotom V LOR 58
+2 Xatu PAF 26
+4 Drakloak TWM 129
+4 Dreepy TWM 128
+1 Manaphy BRS 41
+1 Natu PAR 71
+3 Dragapult ex TWM 130
+1 Radiant Alakazam SIT 59
+
+Trainer: 19
+1 Hisuian Heavy Ball ASR 146
+2 Counter Catcher PAR 160
+1 Scoop Up Cyclone TWM 162
+1 Forest Seal Stone SIT 156
+1 Cyllene ASR 138
+1 Rescue Board TEF 159
+3 Nest Ball SVI 181
+2 Temple of Sinnoh ASR 155
+2 Boss's Orders PAL 172
+4 Iono PAL 185
+4 Arven SVI 166
+1 Technical Machine: Evolution PAR 178
+1 Super Rod PAL 188
+1 Defiance Band SVI 169
+4 Buddy-Buddy Poffin TEF 144
+1 Ultra Ball SVI 196
+2 Lance SIT 159
+1 Rare Candy SVI 191
+2 Earthen Vessel PAR 163
+
+Energy: 2
+3 Basic {R} Energy SVE 2
+5 Basic {P} Energy SVE 5
+
+Total Cards: 60

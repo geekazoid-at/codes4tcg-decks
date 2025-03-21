@@ -1,0 +1,36 @@
+Pokémon: 8
+2 Hisuian Zoroark LOR 76
+2 Hisuian Zorua LOR 75
+1 Rotom V LOR 58
+3 Alolan Exeggutor ex SSP 133
+3 Exeggcute SSP 1 PH
+2 Cleffa OBF 80
+1 Rellor TEF 23
+1 Rabsca TEF 24
+
+Trainer: 18
+1 Hisuian Heavy Ball ASR 146
+1 Counter Catcher PAR 160
+2 Enhanced Hammer TWM 148
+1 Nest Ball PAF 84
+1 Forest Seal Stone SIT 156
+1 Bravery Charm PAL 173
+2 Boss's Orders PAL 172
+3 Arven SVI 166
+2 Super Rod PAL 188
+2 Crispin SCR 133
+1 Gravity Gemstone SCR 137
+4 Buddy-Buddy Poffin TEF 144
+1 Technical Machine: Crisis Punch PAF 90
+3 Iono PAF 80
+3 Ultra Ball SVI 196
+1 Neutralization Zone SFA 60
+2 Switch SVI 194
+2 Earthen Vessel PAR 163
+
+Energy: 3
+4 Basic {G} Energy SVE 9
+4 Basic {W} Energy SVE 11
+4 Basic {F} Energy SVE 14
+
+Total Cards: 60

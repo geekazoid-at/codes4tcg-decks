@@ -1,0 +1,32 @@
+Pokémon: 9
+1 Skwovet SVI 151
+3 Gible PAR 94
+2 Lucario BRS 79
+2 Riolu SVI 113
+1 Jirachi PAR 126 PH
+1 Slither Wing PAR 107
+3 Garchomp ex PAR 38
+2 Bibarel CRZ-GG 25
+2 Bidoof CRZ 111
+
+Trainer: 16
+2 Boss's Orders RCL 189
+1 Hisuian Heavy Ball ASR 146
+2 Iono PAL 254
+1 Escape Rope BST 125
+3 Avery CRE 187
+1 Cheryl BST 159
+1 Pal Pad SVI 182
+3 Nest Ball SVI 181
+2 Tool Jammer BST 136
+3 Path to the Peak CRE 148
+2 Super Rod PAL 188
+4 Irida ASR 186
+4 Ultra Ball SVI 196
+1 Switch SVI 194
+3 Rare Candy SVI 191
+
+Energy: 1
+10 Basic {F} Energy SVE 6
+
+Total Cards: 60

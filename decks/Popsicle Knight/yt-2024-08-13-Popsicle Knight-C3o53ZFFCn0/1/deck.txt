@@ -1,0 +1,40 @@
+Pokémon: 12
+1 Slowpoke PGO 19
+1 Bloodmoon Ursaluna ex TWM 141
+1 Slowbro PGO 20
+4 Luxray PAL 71
+3 Duskull SFA 18
+1 Cleffa OBF 80
+3 Dusclops SFA 19
+1 Manaphy BRS 41
+1 Tatsugiri TWM 131
+2 Bibarel CRZ-GG 25
+2 Bidoof CRZ 111
+1 Dusknoir SFA 20
+
+Trainer: 19
+1 Hisuian Heavy Ball ASR 146
+3 Counter Catcher PAR 160
+1 Roseanne's Backup BRS 148
+2 Night Stretcher SFA 61
+1 Rescue Board TEF 159
+2 Nest Ball SVI 181
+1 Calamitous Snowy Mountain PAL 174
+2 Iono PAL 185
+2 Arven SVI 166
+1 Professor Turo's Scenario PAR 171
+1 Grusha PAL 184
+1 Super Rod PAL 188
+2 Colress's Tenacity SFA 57
+2 Defiance Band SVI 169
+2 Roxanne ASR 150
+2 Energy Loto ASR 140
+4 Buddy-Buddy Poffin TEF 144
+3 Ultra Ball SVI 196
+1 Neutralization Zone SFA 60
+
+Energy: 2
+4 Reversal Energy PAL 192
+1 Double Turbo Energy BRS 151
+
+Total Cards: 60

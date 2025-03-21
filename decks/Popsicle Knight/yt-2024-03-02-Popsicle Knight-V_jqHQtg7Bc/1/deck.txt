@@ -1,0 +1,18 @@
+Pokémon: 5
+4 Kyogre CEL 3
+4 Cryogonal EVS 43
+2 Hisuian Basculegion LOR 45 PH
+1 Hisuian Basculin ASR 43
+4 Groudon CEL 17
+
+Trainer: 4
+3 Gloria BRS 141
+2 Ultra Ball SVI 196
+2 Furisode Girl SIT 157
+2 Nest Ball SVI 181
+
+Energy: 2
+18 Basic {W} Energy SVE 3
+18 Basic {F} Energy SVE 6
+
+Total Cards: 60

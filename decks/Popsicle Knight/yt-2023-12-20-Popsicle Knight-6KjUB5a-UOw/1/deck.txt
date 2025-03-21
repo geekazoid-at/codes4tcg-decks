@@ -1,0 +1,35 @@
+Pokémon: 8
+2 Scizor OBF 205
+2 Gholdengo ex PAR 252
+2 Gimmighoul PAR 198
+2 Scyther MEW 123 PH
+1 Radiant Greninja ASR 46
+1 Manaphy BRS 41
+2 Gimmighoul PAR 87
+2 Gholdengo ex PAR 139
+
+Trainer: 19
+2 Boss's Orders RCL 189
+1 Hisuian Heavy Ball ASR 146
+2 Iono PAL 254
+1 Escape Rope BST 125
+2 PokéStop PGO 68
+3 Level Ball BST 129
+1 Cheryl BST 159
+1 Roxanne ASR 188
+1 Pal Pad SVI 182
+2 Worker SIT 195
+3 Battle VIP Pass FST 225
+1 Klara CRE 194
+1 Technical Machine: Evolution PAR 178
+2 Arven SVI 235
+4 Superior Energy Retrieval PAL 189
+2 Super Rod PAL 188
+3 Ultra Ball SVI 196
+1 Switch SVI 194
+3 Earthen Vessel PAR 163
+
+Energy: 1
+10 Basic {M} Energy SVE 8 PH
+
+Total Cards: 60

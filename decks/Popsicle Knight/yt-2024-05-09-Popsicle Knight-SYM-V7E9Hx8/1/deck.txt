@@ -1,0 +1,30 @@
+Pokémon: 6
+1 Sandy Shocks TEF 98 PH
+1 Mew ex MEW 151
+4 Raging Bolt ex TEF 123
+1 Radiant Greninja ASR 46
+2 Squawkabilly ex PAL 169
+3 Sandy Shocks ex PAR 108
+
+Trainer: 15
+4 Ultra Ball SVI 196
+3 Switch Cart ASR 154
+4 Earthen Vessel PAR 163
+2 Energy Switch SVI 173
+1 Hisuian Heavy Ball ASR 146
+2 Iono PAL 185
+3 PokéStop PGO 68
+4 Professor Sada's Vitality PAR 170
+1 Super Rod PAL 188
+3 Pokégear 3.0 SVI 186
+1 Prime Catcher TEF 157
+1 Pal Pad SVI 182
+4 Nest Ball SVI 181
+3 Ancient Booster Energy Capsule PAR 159
+2 Boss's Orders PAL 172
+
+Energy: 2
+7 Basic {F} Energy SVE 6
+3 Basic {L} Energy SVE 4
+
+Total Cards: 60

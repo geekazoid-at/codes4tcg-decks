@@ -1,0 +1,36 @@
+Pokémon: 8
+3 Scovillain ex TEF 22
+1 Skwovet SVI 151
+1 Mew ex MEW 151
+3 Teal Mask Ogerpon ex TWM 211
+3 Capsakid SVI 28
+1 Rellor TEF 23
+1 Radiant Tsareena SIT 16
+1 Rabsca TEF 24
+
+Trainer: 20
+1 Hisuian Heavy Ball ASR 146
+1 Counter Catcher PAR 160
+1 Miss Fortune Sisters LOR 164
+4 Bug Catching Set TWM 143
+1 Unfair Stamp TWM 165
+2 Judge SVI 176
+2 Energy Switch SVI 173
+1 Hand Trimmer TEF 150
+1 Cyllene ASR 138
+1 Pal Pad SVI 182
+3 Nest Ball SVI 181
+3 Arven OBF 186
+2 Boss's Orders PAL 172
+2 Handheld Fan TWM 150
+1 Iono PAL 185
+2 Beach Court SVI 167
+1 Super Rod PAL 188
+3 Buddy-Buddy Poffin TEF 144
+1 Ultra Ball SVI 196
+2 Switch SVI 194
+
+Energy: 1
+11 Basic {G} Energy SVE 1
+
+Total Cards: 60

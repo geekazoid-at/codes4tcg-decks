@@ -1,0 +1,33 @@
+Pokémon: 7
+1 Medicham V EVS 186
+1 Mew ex MEW 151
+1 Shadow Rider Calyrex V CRE 74
+1 Skwovet SVI 151
+3 Xatu PR-SV 59
+3 Iron Valiant ex PAR 249
+3 Natu PAR 71
+
+Trainer: 16
+2 Future Booster Energy Capsule PAR 164 PH
+3 Battle VIP Pass FST 225 PH
+3 Iono PAL 254
+2 Escape Rope BST 125
+1 Forest Seal Stone SIT 156
+2 Town Store OBF 196 PH
+1 Klara CRE 194
+4 Fog Crystal CRE 140
+1 Boss's Orders PAL 248
+3 Arven SVI 235
+1 Super Rod PAL 188
+3 Switch Cart ASR 154 PH
+2 Professor's Research SVI 241
+4 Ultra Ball SVI 196
+2 Switch SVI 194
+1 Mesagoza SVI 178
+
+Energy: 3
+9 Basic {P} Energy SVE 5 PH
+2 Jet Energy PAL 190 PH
+1 Double Turbo Energy BRS 151
+
+Total Cards: 60

@@ -1,0 +1,35 @@
+Pokémon: 9
+1 Monferno TWM 32
+3 Infernape TWM 33
+1 Manaphy BRS 41
+3 Chimchar TWM 31
+1 Rotom V LOR 58
+2 Fuecoco PAL 34
+2 Cleffa OBF 80
+2 Skeledirge ex PAR 137
+1 Radiant Charizard CRZ 20
+
+Trainer: 17
+3 Ultra Ball SVI 196
+2 Switch SVI 194
+4 Rare Candy SVI 191
+3 Arven OBF 186
+1 Earthen Vessel PAR 163
+4 Buddy-Buddy Poffin TEF 144
+1 Counter Catcher PAR 160
+1 Hisuian Heavy Ball ASR 146
+3 Iono PAL 185
+2 Great Ball PAL 183
+2 Super Rod PAL 188
+1 Maximum Belt TEF 154
+1 Pal Pad SVI 182
+1 Forest Seal Stone SIT 156
+2 Nest Ball PAF 84
+1 Boss's Orders PAL 172
+2 Magma Basin BRS 144
+
+Energy: 2
+8 Basic {R} Energy SVE 2
+2 Boomerang Energy TWM 166
+
+Total Cards: 60

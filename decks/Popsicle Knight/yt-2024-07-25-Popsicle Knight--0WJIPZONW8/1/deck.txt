@@ -1,0 +1,35 @@
+Pokémon: 7
+4 Pawniard SVI 132 PH
+3 Kingambit OBF 150
+2 Cutiefly TEF 75
+2 Cleffa OBF 80
+1 Rellor TEF 23
+1 Rabsca TEF 24
+2 Ribombee TEF 76
+
+Trainer: 18
+1 Hisuian Heavy Ball ASR 146
+1 Counter Catcher PAR 160
+1 Town Store OBF 196
+4 Vengeful Punch OBF 197
+1 Pal Pad SVI 182
+1 Artazon PAL 171
+4 Arven OBF 186
+1 Bravery Charm PAL 173
+1 Boss's Orders PAL 172
+3 Iono PAL 185
+2 Super Rod PAL 188
+1 Roxanne ASR 150
+4 Buddy-Buddy Poffin TEF 144
+1 Technical Machine: Crisis Punch PAF 90
+4 Ultra Ball SVI 196
+1 Vitality Band SVI 197
+1 Switch SVI 194
+3 Rare Candy SVI 191
+
+Energy: 3
+1 Legacy Energy TWM 167
+2 Reversal Energy PAL 192
+7 Basic {M} Energy SVE 8
+
+Total Cards: 60

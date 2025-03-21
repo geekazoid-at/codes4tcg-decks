@@ -1,0 +1,33 @@
+Pokémon: 10
+1 Skwovet SVI 151
+1 Jirachi PAR 126 PH
+2 Snorlax PGO 55
+2 Scizor OBF 141
+2 Scyther MEW 123 PH
+1 Manaphy BRS 41
+3 Honedge PAR 130
+3 Aegislash PAR 134
+2 Bidoof CRZ 111
+2 Bibarel CRZ-GG 25
+
+Trainer: 15
+1 Boss's Orders RCL 189
+1 Hisuian Heavy Ball ASR 146
+1 Counter Catcher PAR 160
+2 Luxurious Cape PAR 166
+3 Iono PAL 254
+2 Mesagoza SVI 178
+1 Pal Pad SVI 182
+3 Nest Ball SVI 181
+3 Battle VIP Pass FST 225
+3 Arven SVI 235
+1 Super Rod PAL 188
+1 Erika's Invitation MEW 196
+4 Ultra Ball SVI 196
+2 Switch SVI 194
+3 Rare Candy SVI 191
+
+Energy: 1
+10 Basic {M} Energy SVE 8 PH
+
+Total Cards: 60

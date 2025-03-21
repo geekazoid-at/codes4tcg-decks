@@ -1,0 +1,32 @@
+Pokémon: 8
+4 Froslass TWM 53
+3 Greninja ex TWM 106
+1 Rotom V LOR 58
+4 Snorunt TWM 51
+1 Cleffa OBF 80
+1 Bloodmoon Ursaluna ex TWM 141
+1 Frogadier TWM 57
+4 Froakie OBF 56
+
+Trainer: 15
+4 Ultra Ball SVI 196
+3 Rare Candy PAF 89
+4 Irida ASR 147
+1 Earthen Vessel PAR 163
+4 Buddy-Buddy Poffin TEF 144
+1 Counter Catcher PAR 160
+1 Technical Machine: Devolution PAR 177
+1 Super Rod PAL 188
+3 Iono PAF 80
+1 Forest Seal Stone SIT 156
+2 Nest Ball SVI 181
+1 Unfair Stamp TWM 165
+1 Collapsed Stadium BRS 137
+2 Boss's Orders PAL 172
+3 Arven SVI 166
+
+Energy: 2
+7 Basic {W} Energy SVE 3
+2 Double Turbo Energy BRS 151
+
+Total Cards: 60

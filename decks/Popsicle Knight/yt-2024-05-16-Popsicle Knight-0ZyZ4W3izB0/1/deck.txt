@@ -1,0 +1,36 @@
+Pokémon: 5
+1 Rotom V LOR 58
+1 Mimikyu PAL 97
+1 Pidgeot V LOR 137
+4 Snorlax PGO 55
+1 Chi-Yu ex PAL 40
+
+Trainer: 23
+1 Hisuian Heavy Ball ASR 146
+2 Switch Cart ASR 154
+4 Counter Catcher PAR 160 PH
+2 Miss Fortune Sisters LOR 164
+1 Team Yell's Cheer BRS 149
+2 Erika's Invitation MEW 160
+1 Forest Seal Stone SIT 156
+1 Hero's Cape TEF 152
+1 Hand Trimmer TEF 150
+2 Cyllene ASR 138
+4 Pokégear 3.0 SVI 186
+2 Pal Pad SVI 182
+4 Penny SVI 183
+4 Nest Ball SVI 181
+3 Temple of Sinnoh ASR 155
+1 Artazon PAL 171
+4 Arven OBF 186
+2 Bravery Charm PAL 173
+2 Boss's Orders PAL 172
+2 Iono PAL 185
+1 Super Rod PAL 188
+3 Eri TEF 146
+1 Ultra Ball SVI 196
+
+Energy: 1
+2 Basic {R} Energy SVE 2
+
+Total Cards: 60

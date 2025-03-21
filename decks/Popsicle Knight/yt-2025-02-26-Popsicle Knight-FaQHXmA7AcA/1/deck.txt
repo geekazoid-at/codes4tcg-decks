@@ -1,0 +1,35 @@
+Pokémon: 9
+3 Totodile TEF 39
+3 Feraligatr TEF 41
+2 Relicanth TEF 84
+3 Munkidori TWM 95
+1 Budew PRE 4
+3 Croconaw TEF 40
+2 Feebas TWM 49
+1 Mimikyu PAL 97
+2 Milotic ex SSP 42
+
+Trainer: 16
+1 Ultra Ball SVI 196
+1 Earthen Vessel PAR 163
+1 Crispin SCR 133
+1 Buddy-Buddy Poffin TEF 144
+3 Counter Catcher PAR 160
+2 Luxurious Cape PAR 166
+4 Iono PAL 185
+2 Lana's Aid TWM 155
+2 Artazon PAF 76
+1 Night Stretcher SFA 61
+1 Technical Machine: Evolution PAR 178
+4 Pokégear 3.0 SVI 186
+1 Rescue Board PRE 126
+2 Professor's Research SVI 189
+1 Precious Trolley SSP 185
+4 Arven SVI 166
+
+Energy: 3
+4 Basic {W} Energy SVE 11
+3 Basic {D} Energy SVE 15
+2 Luminous Energy PAL 191
+
+Total Cards: 60

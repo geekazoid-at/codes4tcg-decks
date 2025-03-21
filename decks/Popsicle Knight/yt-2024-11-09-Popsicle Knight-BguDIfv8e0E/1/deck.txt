@@ -1,0 +1,30 @@
+Pokémon: 6
+2 Azelf SSP 80
+3 Uxie SSP 78
+2 Munkidori TWM 95
+4 Froslass TWM 53
+4 Snorunt PAR 37
+2 Cleffa OBF 80
+
+Trainer: 15
+3 Ultra Ball SVI 196
+3 Irida ASR 147
+3 Counter Gain SSP 169
+3 Earthen Vessel PAR 163
+4 Buddy-Buddy Poffin TEF 144
+2 Counter Catcher PAR 160
+1 Hisuian Heavy Ball ASR 146
+1 Hyper Aroma TWM 152
+3 Night Stretcher SFA 61
+2 Super Rod PAL 188
+2 Nest Ball SVI 181
+1 Rescue Board TEF 159
+2 Artazon PAL 171
+3 Arven SVI 166
+2 Boss's Orders PAL 172
+
+Energy: 2
+2 Basic {D} Energy SVE 15
+6 Basic {P} Energy SVE 13
+
+Total Cards: 60

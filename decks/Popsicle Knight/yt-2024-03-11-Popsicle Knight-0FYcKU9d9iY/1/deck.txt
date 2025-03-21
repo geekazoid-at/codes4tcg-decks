@@ -1,0 +1,34 @@
+Pokémon: 8
+1 Glimmora ex OBF 123
+1 Glimmet PAL 124
+1 Skwovet SVI 151
+3 Silicobra SVI 119
+2 Mew ex MEW 151
+1 Snorlax PGO 55
+1 Manaphy BRS 41
+3 Sandaconda SVI 120
+
+Trainer: 16
+1 Hisuian Heavy Ball ASR 146
+2 Counter Catcher PAR 160
+1 Luxurious Cape PAR 166
+2 Roseanne's Backup BRS 148
+3 Escape Rope BST 125
+1 Giovanni's Charisma MEW 161
+4 Level Ball BST 129
+4 Avery CRE 130
+1 Pal Pad SVI 182
+2 Artazon PAL 171
+2 Boss's Orders PAL 172
+1 Technical Machine: Devolution PAR 177
+2 Super Rod PAL 188
+4 Iono PAF 80
+4 Ultra Ball SVI 196
+3 Switch SVI 194
+
+Energy: 3
+4 Reversal Energy PAL 192
+2 Basic {F} Energy SVE 6
+4 Double Turbo Energy BRS 151
+
+Total Cards: 60

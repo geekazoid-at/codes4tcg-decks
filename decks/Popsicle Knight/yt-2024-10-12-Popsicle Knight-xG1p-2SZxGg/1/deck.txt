@@ -1,0 +1,35 @@
+Pokémon: 3
+4 Lileep SCR 5
+4 Cradily SCR 6
+1 Omastar V SIT 35
+
+Trainer: 23
+1 Counter Catcher PAR 160
+1 Town Store OBF 196
+1 Forest Seal Stone SIT 156
+2 Xerosic's Machinations SFA 64
+1 Cyllene ASR 138
+1 Neutralization Zone SFA 60
+1 Pal Pad SVI 182
+2 Bug Catching Set TWM 143
+1 Temple of Sinnoh ASR 155
+4 Trekking Shoes ASR 156
+2 Arven OBF 186
+2 Boss's Orders PAL 172
+1 Technical Machine: Evolution PAR 178
+1 Super Rod PAL 188
+1 Lost Vacuum LOR 162
+4 Antique Root Fossil SCR 130
+2 Gravity Gemstone SCR 137
+4 Iono PAF 80
+3 Judge SVI 176
+3 Ultra Ball SVI 196
+1 Switch SVI 194
+2 Rare Candy SVI 191
+1 Earthen Vessel PAR 163
+
+Energy: 2
+7 Basic {G} Energy SVE 9
+2 Jet Energy PAL 190
+
+Total Cards: 60

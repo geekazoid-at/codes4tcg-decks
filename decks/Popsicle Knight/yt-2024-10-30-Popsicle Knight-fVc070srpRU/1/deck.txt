@@ -1,0 +1,41 @@
+Pokémon: 12
+1 Raboot SCR 27
+1 Rotom V LOR 58
+3 Cinderace ex SCR 28
+1 Munkidori TWM 95
+3 Scorbunny SCR 26
+2 Duskull SFA 18
+1 Fezandipiti ex SFA 38
+2 Pidgeot ex OBF 164
+2 Pidgey OBF 162
+1 Dusclops SFA 19
+1 Manaphy BRS 41
+1 Dusknoir SFA 20
+
+Trainer: 17
+1 Hisuian Heavy Ball ASR 146
+2 Counter Catcher PAR 160
+1 Magma Basin BRS 144
+3 Nest Ball PAF 84
+1 Forest Seal Stone SIT 156
+1 Boss's Orders PAL 172
+1 Jamming Tower TWM 153
+3 Iono PAL 185
+4 Arven SVI 166
+1 Super Rod PAL 188
+1 Briar SCR 132
+1 Crispin SCR 133
+3 Buddy-Buddy Poffin TEF 144
+3 Ultra Ball SVI 196
+1 Switch SVI 194
+4 Rare Candy SVI 191
+1 Earthen Vessel PAR 163
+
+Energy: 5
+4 Basic {R} Energy SVE 10
+2 Basic {D} Energy SVE 15
+1 Double Turbo Energy BRS 151
+1 Neo Upper Energy TEF 162
+1 Basic {F} Energy SVE 14
+
+Total Cards: 60

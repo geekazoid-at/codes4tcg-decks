@@ -1,0 +1,33 @@
+Pokémon: 8
+3 Walking Wake ex TEF 50
+2 Brute Bonnet PAR 123
+3 Klawf PAR 105
+1 Radiant Hisuian Sneasler LOR 123
+1 Lumineon V BRS 40
+1 Mew ex MEW 151
+1 Flutter Mane TEF 78
+1 Squawkabilly ex PAL 169
+
+Trainer: 16
+3 Switch Cart ASR 154
+1 Town Store OBF 196
+1 Forest Seal Stone SIT 156
+2 Energy Switch SVI 173
+2 Perilous Jungle TEF 156
+1 Prime Catcher TEF 157
+1 Pal Pad SVI 182
+4 Nest Ball SVI 181
+2 Professor's Research SVI 189
+4 Ancient Booster Energy Capsule PAR 159
+2 Boss's Orders PAL 172
+4 Professor Sada's Vitality PAR 170
+1 Lost Vacuum LOR 162
+3 Iono PAF 80
+4 Ultra Ball SVI 196
+2 Earthen Vessel PAR 163
+
+Energy: 2
+6 Basic {W} Energy SVE 3
+4 Double Turbo Energy BRS 151
+
+Total Cards: 60

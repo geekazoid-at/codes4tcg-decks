@@ -1,0 +1,39 @@
+Pokémon: 8
+1 Rotom V LOR 58
+2 Drakloak TWM 129
+3 Dreepy TWM 128
+3 Snorunt TWM 51
+3 Froslass TWM 53
+1 Manaphy BRS 41
+1 Radiant Alakazam SIT 59
+3 Dragapult ex TWM 130
+
+Trainer: 21
+1 Hisuian Heavy Ball ASR 146
+2 Counter Catcher PAR 160
+1 Roseanne's Backup BRS 148
+1 Forest Seal Stone SIT 156
+2 Irida ASR 147
+1 Rescue Board TEF 159
+1 Pal Pad SVI 182
+2 Nest Ball SVI 181
+1 Boss's Orders PAL 172
+2 Iono PAL 185
+3 Arven SVI 166
+1 Professor Turo's Scenario PAR 171
+1 Technical Machine: Devolution PAR 177
+2 Panic Mask LOR 165
+1 Super Rod PAL 188
+1 Lost Vacuum LOR 162
+1 Collapsed Stadium BRS 137
+3 Buddy-Buddy Poffin TEF 144
+3 Ultra Ball SVI 196
+3 Rare Candy SVI 191
+1 Earthen Vessel PAR 163
+
+Energy: 3
+4 Basic {R} Energy SVE 2
+4 Basic {P} Energy SVE 5
+1 Neo Upper Energy TEF 162
+
+Total Cards: 60

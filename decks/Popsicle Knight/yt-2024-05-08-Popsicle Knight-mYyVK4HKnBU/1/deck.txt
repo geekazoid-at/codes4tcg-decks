@@ -1,0 +1,30 @@
+Pokémon: 4
+3 iron leave ex TEF 25
+4 iron crown ex TEF 81
+1 iron hands ex PAR 70
+2 miraidon TEF 121
+
+Trainer: 15
+2 Pokégear SVI 186
+2 switch cart ASR 154
+2 counter catcher PAR 160
+2 lost vacuum LOR 162
+2 super rod PAL 188
+3 professor's research PAF 88
+3 professor turo's scenario PAR 171
+2 iono PAF 80
+3 arven OBF 186
+4 future booster energy capsule TEF 149
+4 techno radar PAR 180
+2 boss's orders PAL 172
+1 thorton LOR 167
+2 exp. share SVI 174
+1 reboot pot TEF 158
+
+Energy: 4
+2 luminous energy PAL 191
+9 grass SVE 1
+2 lightning SVE 4
+2 psychic SVE 5
+
+Total Cards: 60

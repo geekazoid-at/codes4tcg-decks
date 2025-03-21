@@ -1,0 +1,31 @@
+Pokémon: 9
+1 Kricketune ASR 10
+1 Kricketot ASR 9
+3 Teal Mask Ogerpon ex TWM 25
+1 Dipplin SCR 13
+3 Hydrapple ex SCR 14
+1 Sinistcha ex TWM 23
+3 Applin SCR 12
+2 Poltchageist TWM 20
+2 Sinistcha TWM 22
+
+Trainer: 14
+2 Bug Catching Set TWM 143
+3 Nest Ball PAF 84
+1 Prime Catcher TEF 157
+3 Professor's Research SVI 189
+2 Boss's Orders PAL 172
+3 Iono PAL 185
+1 Superior Energy Retrieval PAL 189
+2 Super Rod PAL 188
+1 Area Zero Underdepths SCR 131
+2 Buddy-Buddy Poffin TEF 144
+2 Ultra Ball SVI 196
+1 Switch SVI 194
+3 Rare Candy SVI 191
+1 Earthen Vessel PAR 163
+
+Energy: 1
+16 Basic {G} Energy SVE 9
+
+Total Cards: 60

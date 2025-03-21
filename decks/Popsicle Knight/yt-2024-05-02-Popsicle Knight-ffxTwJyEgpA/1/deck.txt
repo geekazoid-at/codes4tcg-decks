@@ -1,0 +1,31 @@
+Pokémon: 10
+3 Origin Forme Dialga VSTAR ASR 114
+3 Origin Forme Dialga V ASR 113
+1 Skwovet SVI 151
+2 Hisuian Basculegion LOR 45 PH
+1 Mew ex MEW 151
+3 Beldum TEF 113
+3 Metang TEF 114
+1 Scizor OBF 141
+2 Hisuian Basculin ASR 43
+1 Scyther MEW 123 PH
+
+Trainer: 13
+2 Irida ASR 147
+1 Prime Catcher TEF 157
+2 Pokégear 3.0 SVI 186
+1 Nest Ball SVI 181
+1 Boss's Orders PAL 172
+1 Professor Turo's Scenario PAR 171
+1 Super Rod PAL 188
+4 Buddy-Buddy Poffin TEF 144
+2 Ciphermaniac's Codebreaking TEF 145
+3 Iono PAF 80
+2 Full Metal Lab TEF 148
+3 Ultra Ball SVI 196
+2 Professor's Research SVI 190
+
+Energy: 1
+15 Basic {M} Energy SVE 8
+
+Total Cards: 60

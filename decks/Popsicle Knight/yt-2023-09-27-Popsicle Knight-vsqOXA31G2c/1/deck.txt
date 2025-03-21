@@ -1,0 +1,33 @@
+Pokémon: 9
+3 Nidoking MEW 34
+3 Nidoqueen MEW 31
+1 Radiant Hisuian Sneasler LOR 123
+2 Nidorino MEW 33
+3 Nidoran♀ MEW 29
+1 Nidorina MEW 30
+4 Nidoran♂ MEW 32
+2 Bibarel CRZ-GG 25
+2 Bidoof CRZ 111
+
+Trainer: 15
+2 Boss's Orders RCL 189
+1 Hisuian Heavy Ball ASR 146
+2 Iono PAL 254
+4 Level Ball BST 129
+2 Cynthia's Ambition BRS 169
+2 Mesagoza SVI 178
+1 Pal Pad SVI 182
+4 Battle VIP Pass FST 225
+2 Arven SVI 235
+1 Super Rod PAL 188
+2 Miriam SVI 238
+1 Arezu LOR 189
+4 Ultra Ball SVI 196
+1 Switch SVI 194
+4 Rare Candy SVI 191
+
+Energy: 2
+2 Reversal Energy PAL 192
+4 Basic {D} Energy SVE 7
+
+Total Cards: 60

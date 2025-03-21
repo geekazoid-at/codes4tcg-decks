@@ -1,0 +1,37 @@
+Pokémon: 11
+1 Bloodmoon Ursaluna ex TWM 141
+2 Archaludon ex SSP 241
+3 Duraludon SCR 106
+1 Archaludon ex SSP 130
+2 Duskull SFA 18
+2 Cleffa OBF 80
+2 Dusclops SFA 19
+1 Radiant Greninja ASR 46
+1 Manaphy BRS 41
+1 Relicanth TEF 84
+2 Dusknoir SFA 20
+
+Trainer: 18
+1 Hisuian Heavy Ball ASR 146
+2 Counter Catcher PAR 160
+2 Night Stretcher SFA 61
+1 Pal Pad SVI 182
+3 Nest Ball SVI 181
+3 Professor's Research SVI 189
+2 Boss's Orders PAL 172
+2 Iono PAL 185
+2 Arven SVI 166
+2 Practice Studio PAL 186
+1 Super Rod PAL 188
+1 Deluxe Bomb SCR 134
+2 Buddy-Buddy Poffin TEF 144
+3 Ultra Ball SVI 196
+2 Switch SVI 194
+1 Canceling Cologne ASR 136
+1 Rare Candy SVI 191
+2 Earthen Vessel PAR 163
+
+Energy: 1
+9 Basic {M} Energy SVE 16
+
+Total Cards: 60

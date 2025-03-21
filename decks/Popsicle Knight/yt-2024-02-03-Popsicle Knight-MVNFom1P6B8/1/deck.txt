@@ -1,0 +1,37 @@
+Pokémon: 9
+2 Gengar PAF 57 PH
+2 Gastly PAF 55
+1 Medicham V EVS 83
+2 Bibarel CRZ-GG 25
+1 Manaphy BRS 41
+1 Skwovet SVI 151
+1 Jirachi PAR 126
+2 Bidoof CRZ 111
+3 Iron Valiant ex PAR 249
+
+Trainer: 19
+4 Ultra Ball SVI 196
+3 Switch SVI 194
+2 Switch Cart ASR 154
+1 Escape Rope BST 125
+3 Rare Candy SVI 191
+1 Lost Vacuum LOR 162
+2 Worker SIT 167
+1 Hisuian Heavy Ball ASR 146
+3 Iono PAL 185
+2 Super Rod PAL 188
+2 Future Booster Energy Capsule PAR 164 PH
+1 Pal Pad SVI 182
+1 Forest Seal Stone SIT 156
+4 Nest Ball SVI 181
+3 Arven SVI 166
+1 Boss's Orders PAL 172
+1 Raihan EVS 152
+1 Technical Machine: Devolution PAR 177
+
+Energy: 3
+5 Basic {D} Energy SVE 7
+2 Double Turbo Energy BRS 151
+2 Jet Energy PAL 190
+
+Total Cards: 60

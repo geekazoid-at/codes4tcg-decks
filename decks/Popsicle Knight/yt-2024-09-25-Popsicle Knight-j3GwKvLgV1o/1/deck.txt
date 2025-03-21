@@ -1,0 +1,37 @@
+Pokémon: 5
+1 Mawile LOR 71
+4 Comfey SCR 63
+1 Pidgeot V LOR 137
+1 Mimikyu PAF 37
+1 Manaphy BRS 41
+
+Trainer: 24
+1 Hisuian Heavy Ball ASR 146
+2 Counter Catcher PAR 160
+1 Miss Fortune Sisters LOR 164
+3 Artazon PAF 76
+1 PokéStop PGO 68
+4 Nest Ball PAF 84
+1 Forest Seal Stone SIT 156
+2 Xerosic's Machinations SFA 64
+2 Hand Trimmer TEF 150
+1 Cyllene ASR 138
+2 Pokégear 3.0 SVI 186
+2 Night Stretcher SFA 61
+1 Rescue Board TEF 159
+1 Pal Pad SVI 182
+1 Boss's Orders PAL 172
+4 Arven SVI 166
+1 Super Rod PAL 188
+4 Crushing Hammer SVI 168
+1 Lost Vacuum LOR 162
+3 Eri TEF 146
+2 Gravity Gemstone SCR 137
+4 Buddy-Buddy Poffin TEF 144
+1 Neutralization Zone SFA 60
+2 Earthen Vessel PAR 163
+
+Energy: 1
+5 Basic {P} Energy SVE 13
+
+Total Cards: 60
