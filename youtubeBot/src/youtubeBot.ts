@@ -85,8 +85,8 @@ enum RunType {
   UPDATE = "UPDATE",
 }
 
-const importChannelId = channelIdPp;
-const RUNTYPE: RunType = RunType.UPDATE;
+const importChannelId = channelIdGym;
+const RUNTYPE: RunType = RunType.IMPORT;
 
 if (RUNTYPE === (RunType.IMPORT as RunType)) {
   main(importChannelId, 50, 5);
