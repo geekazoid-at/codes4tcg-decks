@@ -11,6 +11,7 @@ const channelIdFtw = "UCAQKOO0Evm2TENo0UCZR-pg"; // ForTheWinTCG
 const channelIdStb = "UCCLD0ptegGoRv8RHuhgZR_A"; // snipe the bench
 const channelIdSneaker = "UCBjjolWH6d6JJRCZ6a02N6w"; // SneakerTalkTCG
 const channelIdMrdog = "UCMS0qK1Or_qElPXCgmkCUhw"; // MrDog
+const channelId3rd = "UCtjNWKdNFOdMv6QEUfSN8TQ"; // in3rdperson
 
 const allChannelIds: string[] = [
   channelIdTyp,
@@ -20,6 +21,7 @@ const allChannelIds: string[] = [
   channelIdStb,
   channelIdSneaker,
   channelIdMrdog,
+  channelId3rd,
 ];
 
 const main = async (
