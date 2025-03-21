@@ -1,0 +1,32 @@
+Pokémon: 3
+4 Genesect V FST 185
+3 Mew VMAX FST 114
+4 Mew V FST 113
+
+Trainer: 20
+1 Hisuian Heavy Ball ASR 146
+2 Box of Disaster LOR 154
+1 Escape Rope BST 125
+3 Forest Seal Stone SIT 156
+3 Judge SVI 176
+1 Feather Ball ASR 141
+1 Pal Pad SVI 182
+1 Nest Ball SVI 181
+1 Lost City LOR 161
+3 Cram-o-matic FST 229
+1 Choice Belt PAL 176
+4 Battle VIP Pass FST 225
+2 Boss's Orders PAL 172
+3 Path to the Peak CRE 148
+1 Iono PAL 185
+4 Lost Vacuum CRZ 135
+4 Power Tablet FST 236
+1 Elesa's Sparkle FST 233
+4 Ultra Ball SVI 196
+2 Switch SVI 194
+
+Energy: 2
+2 Fusion Strike Energy FST 244
+4 Double Turbo Energy BRS 151
+
+Total Cards: 60

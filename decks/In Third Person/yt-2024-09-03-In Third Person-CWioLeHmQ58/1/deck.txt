@@ -1,0 +1,28 @@
+Pokémon: 7
+4 Charmander MEW 4
+3 Moltres MEW 146
+3 Pidgey MEW 16
+3 Charmeleon PAF 8
+2 Pidgeotto MEW 17
+2 Pidgeot ex OBF 164
+3 Charizard ex OBF 125
+
+Trainer: 13
+1 Prime Catcher TEF 157
+2 Professor's Research SVI 189
+2 Artazon PAL 171
+2 Boss's Orders PAL 172
+4 Iono PAL 185
+2 Arven SVI 166
+2 Technical Machine: Evolution PAR 178
+1 Super Rod PAL 188
+1 Defiance Band SVI 169
+4 Buddy-Buddy Poffin TEF 144
+4 Ultra Ball SVI 196
+1 Switch SVI 194
+4 Rare Candy SVI 191
+
+Energy: 1
+10 Basic {R} Energy SVE 2
+
+Total Cards: 60

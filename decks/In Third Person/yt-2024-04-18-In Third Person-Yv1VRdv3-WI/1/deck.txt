@@ -1,0 +1,33 @@
+Pokémon: 9
+3 Arceus VSTAR BRS 123
+4 Arceus V BRS 122
+1 Iron Leaves ex TEF 25
+1 Radiant Gardevoir LOR 69
+1 Skwovet SVI 151
+2 Giratina VSTAR LOR 131
+2 Giratina V LOR 130
+2 Bidoof CRZ 111
+2 Bibarel BRS 121
+
+Trainer: 13
+2 Pokémon League Headquarters OBF 192
+1 Eri TEF 146
+2 Switch SVI 194
+1 Professor Turo's Scenario PAR 171
+1 Super Rod PAL 188
+4 Iono PAF 80
+3 Boss's Orders PAL 172
+4 Nest Ball SVI 181
+1 Lost Vacuum CRZ 135
+2 Judge SVI 176
+4 Ultra Ball PAF 91
+2 Capturing Aroma SIT 153
+1 Maximum Belt TEF 154
+
+Energy: 4
+4 Double Turbo Energy BRS 151
+6 Basic {G} Energy SVE 1
+1 Jet Energy PAL 190
+3 Basic {P} Energy SVE 5
+
+Total Cards: 60

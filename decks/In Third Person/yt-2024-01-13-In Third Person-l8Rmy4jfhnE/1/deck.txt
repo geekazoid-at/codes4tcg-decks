@@ -1,0 +1,30 @@
+Pokémon: 7
+2 Giratina V LOR 130
+2 Bibarel BRS 121
+3 Arceus VSTAR BRS 123
+4 Arceus V BRS 122
+2 Giratina VSTAR LOR 131
+1 Skwovet SVI 151
+2 Bidoof CRZ 111
+
+Trainer: 12
+4 Ultra Ball SVI 196
+1 Switch SVI 194
+4 Judge FST 235
+1 Escape Rope BST 125
+2 Iono PAL 185
+1 Professor Turo's Scenario PAR 171
+4 Path to the Peak CRE 148
+2 Box of Disaster LOR 154
+4 Nest Ball SVI 181
+1 Choice Belt PAL 176
+1 Cleansing Gloves BRS 136
+4 Boss's Orders PAL 172
+
+Energy: 4
+1 V Guard Energy SIT 169
+5 Basic {G} Energy SVE 1
+5 Basic {P} Energy SVE 5
+4 Double Turbo Energy BRS 151
+
+Total Cards: 60

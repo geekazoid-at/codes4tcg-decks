@@ -1,0 +1,31 @@
+Pokémon: 7
+1 Morpeko PAR 121
+3 Roaring Moon ex PAR 124
+1 Lumineon V BRS 40
+1 Darkrai VSTAR ASR 99
+1 Darkrai V ASR 98
+1 Radiant Greninja ASR 46
+1 Squawkabilly ex PAL 169
+
+Trainer: 16
+4 Trekking Shoes ASR 156
+1 Switch Cart ASR 154
+4 PokéStop PGO 68
+2 Nest Ball SVI 181
+4 Battle VIP Pass FST 225
+1 Boss's Orders PAL 172
+1 Iono PAL 185
+4 Professor Sada's Vitality PAR 170
+1 Super Rod PAL 188
+1 Lost Vacuum LOR 162
+4 Dark Patch ASR 139
+3 Ultra Ball SVI 196
+4 Crossceiver FST 231
+4 Cross Switcher FST 230
+1 Switch SVI 194
+3 Earthen Vessel PAR 163
+
+Energy: 1
+9 Basic {D} Energy SVE 7
+
+Total Cards: 60

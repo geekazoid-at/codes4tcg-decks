@@ -1,0 +1,29 @@
+Pokémon: 8
+2 Frigibax PAL 57
+3 Chien-Pao ex PAL 61
+1 Iron Hands ex PAR 70
+2 Bibarel BRS 121
+1 Frigibax PAF 17
+2 Baxcalibur PAL 60
+1 Radiant Greninja ASR 46
+2 Bidoof CRZ 111
+
+Trainer: 12
+1 Hisuian Heavy Ball ASR 146
+4 PokéStop PGO 68
+4 Irida ASR 147
+4 Ultra Ball PAF 91
+4 Nest Ball SVI 181
+4 Battle VIP Pass FST 225
+4 Superior Energy Retrieval PAL 189
+2 Super Rod PAL 188
+3 Rare Candy PAF 89
+1 Iono PAF 80
+4 Cross Switcher FST 230
+2 Earthen Vessel PAR 163
+
+Energy: 2
+8 Basic {W} Energy SVE 3
+1 Basic {L} Energy SVE 4
+
+Total Cards: 60

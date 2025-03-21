@@ -1,0 +1,33 @@
+Pokémon: 8
+3 Doduo MEW 84
+3 Hisuian Zoroark VSTAR LOR 147
+1 Manaphy BRS 41
+2 Gengar LOR 66
+1 Radiant Alakazam SIT 59
+4 Hisuian Zoroark V LOR 146
+1 Jirachi PAR 126
+3 Dodrio MEW 85
+
+Trainer: 14
+1 Switch SVI 194
+4 Ultra Ball PAF 91
+4 Professor's Research PAF 87
+3 Trekking Shoes CRZ 145
+1 Lost Vacuum CRZ 135
+3 Great Ball PAL 183
+1 Super Rod PAL 188
+4 Iono PAF 80
+1 Maximum Belt TEF 154
+1 Pal Pad SVI 182
+4 Damage Pump LOR 156
+3 Gapejaw Bog ASR 142
+1 Cheren's Care BRS 134
+3 Boss's Orders PAL 172
+
+Energy: 4
+2 Mist Energy TEF 161
+1 Basic {P} Energy SVE 5
+4 Double Turbo Energy BRS 151
+1 Jet Energy PAL 190
+
+Total Cards: 60

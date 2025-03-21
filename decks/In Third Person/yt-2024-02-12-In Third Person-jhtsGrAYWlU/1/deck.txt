@@ -1,0 +1,33 @@
+Pokémon: 11
+2 Bibarel BRS 121
+2 Xatu PAR 72
+2 Flittle PAR 80
+3 Espathra ex PAF 6
+1 Manaphy BRS 41
+2 Flittle SVI 100
+2 Natu PAR 71
+1 Jirachi PAR 126
+2 Bidoof CRZ 111
+1 Mimikyu PAL 97
+1 Mew ex MEW 151
+
+Trainer: 13
+1 Switch SVI 194
+4 Ultra Ball PAF 91
+2 Arven OBF 186
+4 Battle VIP Pass FST 225
+2 Fog Crystal CRE 140
+1 Technical Machine: Devolution PAR 177
+1 Super Rod PAL 188
+1 Technical Machine: Evolution PAR 178
+4 Iono PAF 80
+1 Rigid Band MEW 165
+3 Pokémon League Headquarters OBF 192
+4 Crushing Hammer SSH 159
+2 Boss's Orders PAL 172
+
+Energy: 2
+2 Double Turbo Energy BRS 151
+9 Basic {P} Energy SVE 5
+
+Total Cards: 60

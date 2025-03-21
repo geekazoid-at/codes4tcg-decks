@@ -1,0 +1,33 @@
+Pokémon: 12
+3 Regidrago VSTAR SIT 136
+3 Teal Mask Ogerpon ex TWM 25
+1 Hawlucha SVI 118
+1 Giratina VSTAR LOR 131
+1 Fezandipiti ex SFA 38
+1 Mew ex MEW 151
+3 Regidrago V SIT 135
+1 Radiant Charizard CRZ 20
+1 Kyurem SFA 47
+2 Dragapult ex TWM 130
+1 Squawkabilly ex PAL 169
+1 Hisuian Goodra VSTAR LOR 136
+
+Trainer: 12
+4 Energy Switch SVI 173
+1 Prime Catcher TEF 157
+4 Nest Ball SVI 181
+4 Professor's Research SVI 189
+3 Boss's Orders PAL 172
+3 Iono PAL 185
+1 Superior Energy Retrieval PAL 189
+1 Super Rod PAL 188
+4 Ultra Ball SVI 196
+1 Switch SVI 194
+1 Canceling Cologne ASR 136
+4 Earthen Vessel PAR 163
+
+Energy: 2
+3 Basic {R} Energy SVE 2
+7 Basic {G} Energy SVE 1
+
+Total Cards: 60

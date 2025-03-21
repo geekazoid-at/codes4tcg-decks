@@ -1,0 +1,27 @@
+Pokémon: 8
+1 Cresselia LOR 74
+3 Drifloon SVI 89
+1 Lumineon V BRS 40
+4 Kirlia SIT 68
+1 Mew ex MEW 151
+4 Ralts SIT 67
+1 Radiant Greninja ASR 46
+3 Gardevoir ex SVI 86
+
+Trainer: 11
+1 Jacq SVI 175
+4 Nest Ball SVI 181
+3 Professor's Research SVI 189
+2 Artazon PAL 171
+2 Arven OBF 186
+3 Bravery Charm PAL 173
+2 Boss's Orders PAL 172
+4 Iono PAL 185
+1 Super Rod PAL 188
+4 Ultra Ball SVI 196
+3 Rare Candy SVI 191
+
+Energy: 1
+13 Basic {P} Energy SVE 5
+
+Total Cards: 60

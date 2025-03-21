@@ -1,0 +1,36 @@
+Pokémon: 8
+3 Meowscarada ex PAL 15
+1 Lumineon V BRS 40
+2 Bibarel BRS 121
+2 Floragato PAL 14
+4 Sprigatito SVI 13
+1 Manaphy BRS 41
+1 Radiant Alakazam SIT 59
+2 Bidoof CRZ 111
+
+Trainer: 19
+1 Counter Catcher PAR 160
+2 Artazon PAF 76
+1 Forest Seal Stone SIT 156
+2 Energy Retrieval SVI 171
+1 Master Ball TEF 153
+4 Ultra Ball PAF 91
+1 Boss's Orders PAL 172
+4 Arven SVI 166
+1 Professor Turo's Scenario PAR 171
+1 Technical Machine: Devolution PAR 177
+2 Technical Machine: Evolution PAR 178
+1 Super Rod PAL 188
+1 Lost Vacuum CRZ 135
+2 Professor's Research PAF 87
+2 Rare Candy PAF 89
+4 Buddy-Buddy Poffin TEF 144
+2 Iono PAF 80
+1 Switch SVI 194
+1 Earthen Vessel PAR 163
+
+Energy: 2
+6 Basic {G} Energy SVE 1
+4 Double Turbo Energy BRS 151
+
+Total Cards: 60

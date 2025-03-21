@@ -1,0 +1,36 @@
+Pokémon: 11
+1 Mimikyu PAF 37
+1 Klefki SVI 96
+4 Kirlia SIT 68
+2 Drifloon SVI 89
+1 Munkidori TWM 95
+1 Manaphy BRS 41
+1 Radiant Greninja ASR 46
+1 Scream Tail PAR 86
+1 Flutter Mane TEF 78
+4 Ralts ASR 60
+2 Gardevoir ex PAF 29
+
+Trainer: 16
+2 Ultra Ball PAF 91
+1 Earthen Vessel PAR 163
+4 Buddy-Buddy Poffin TEF 144
+2 Counter Catcher PAR 160
+1 Hisuian Heavy Ball ASR 146
+1 Professor Turo's Scenario PAR 171
+2 Super Rod PAL 188
+2 Technical Machine: Evolution PAR 178
+4 Iono PAF 80
+1 Pal Pad SVI 182
+1 Unfair Stamp TWM 165
+2 Nest Ball PAF 84
+1 Artazon PAL 171
+2 Bravery Charm PAL 173
+1 Boss's Orders PAL 172
+4 Arven SVI 166
+
+Energy: 2
+2 Basic {D} Energy SVE 7
+8 Basic {P} Energy SVE 5
+
+Total Cards: 60

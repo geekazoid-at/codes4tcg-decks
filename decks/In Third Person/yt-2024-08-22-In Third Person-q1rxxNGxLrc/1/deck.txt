@@ -1,0 +1,31 @@
+Pokémon: 8
+1 Lumineon V BRS 40
+2 Bibarel BRS 121
+4 Iron Valiant ex PAR 89
+3 Entei V BRS 22
+1 Radiant Charizard CRZ 20
+1 Moltres BRS 21
+2 Bidoof CRZ 111
+1 Squawkabilly ex PAL 169
+
+Trainer: 14
+4 Switch Cart ASR 154
+2 Future Booster Energy Capsule PAR 164
+4 Carmine TWM 145
+4 Magma Basin BRS 144
+1 Scoop Up Cyclone TWM 162
+1 Forest Seal Stone SIT 156
+1 Night Stretcher SFA 61
+1 Pal Pad SVI 182
+3 Nest Ball SVI 181
+3 Boss's Orders PAL 172
+3 Iono PAL 185
+2 Technical Machine: Devolution PAR 177
+4 Ultra Ball SVI 196
+4 Switch SVI 194
+
+Energy: 2
+4 Jet Energy PAL 190
+4 Basic {R} Energy SVE 2
+
+Total Cards: 60

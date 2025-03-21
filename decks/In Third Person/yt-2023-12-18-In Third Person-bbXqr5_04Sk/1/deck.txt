@@ -1,0 +1,32 @@
+Pokémon: 8
+4 Comfey LOR 79
+1 Sableye LOR 70
+1 Cramorant LOR 50
+1 Roaring Moon ex PAR 124
+3 Giratina VSTAR LOR 131
+3 Giratina V LOR 130
+1 Radiant Greninja ASR 46
+1 Manaphy BRS 41
+
+Trainer: 13
+2 Counter Catcher PAR 160
+3 Switch Cart ASR 154
+3 Escape Rope BST 125
+4 Mirage Gate LOR 163
+3 Nest Ball SVI 181
+4 Battle VIP Pass FST 225
+1 Boss's Orders PAL 172
+3 Path to the Peak CRE 148
+1 Iono PAL 185
+1 Technical Machine: Devolution PAR 177
+4 Colress's Experiment LOR 155
+2 Super Rod PAL 188
+1 Roxanne ASR 150
+
+Energy: 4
+3 Jet Energy PAL 190
+3 Basic {G} Energy SVE 1
+3 Basic {D} Energy SVE 7
+4 Basic {P} Energy SVE 5
+
+Total Cards: 60

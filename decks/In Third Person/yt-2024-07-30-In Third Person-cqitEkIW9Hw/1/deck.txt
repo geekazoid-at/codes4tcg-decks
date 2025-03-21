@@ -1,0 +1,40 @@
+Pokémon: 15
+1 Bibarel PR-SW 188
+2 Bibarel BRS 121
+2 Arceus VSTAR BRS 123
+1 Arceus V BRS 122
+1 Cornerstone Mask Ogerpon ex TWM 215
+1 Radiant Tsareena SIT 16
+1 Arceus V PR-SW 204
+1 Arceus VSTAR BRS 184
+1 Bidoof PGO 59
+1 Arceus V BRS 165
+1 Skwovet SVI 151
+1 Arceus V BRS 166
+1 Arceus VSTAR CRZ-GG 70
+2 Bidoof CRZ 111
+1 Bloodmoon Ursaluna ex TWM 141
+
+Trainer: 14
+2 Lost City LOR 161
+4 Iono PAL 269
+1 Technical Machine: Devolution PAR 177
+4 Ultra Ball BRS 186
+2 Eri TEF 210
+1 Cheren's Care CRZ-GG 58
+1 Lost Vacuum LOR 217
+2 Buddy-Buddy Poffin TWM 223
+1 Pal Pad SVI 182
+1 Scoop Up Cyclone TWM 162
+1 Judge PAF 228
+4 Boss's Orders RCL 189
+1 Switch MEW 206
+4 Nest Ball SVI 255
+
+Energy: 4
+2 Mist Energy TEF 161
+4 Double Turbo Energy ASR 216
+1 Jet Energy PAL 190
+6 Basic {F} Energy SVE 6 PH
+
+Total Cards: 60

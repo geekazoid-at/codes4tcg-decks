@@ -1,0 +1,36 @@
+Pokémon: 9
+4 Charmander MEW 4
+1 Charmeleon MEW 5
+2 Pidgey MEW 16
+1 Jirachi PAR 126
+1 Rotom V CRZ 45
+1 Minior PAR 99
+2 Pidgeot ex OBF 164
+1 Manaphy BRS 41
+3 Charizard ex OBF 125
+
+Trainer: 19
+1 Counter Catcher PAR 160
+1 Town Store OBF 196
+1 Forest Seal Stone SIT 156
+1 Avery CRE 130
+3 Nest Ball SVI 181
+1 Professor's Research SVI 189
+1 Tool Jammer BST 136
+4 Battle VIP Pass FST 225
+2 Boss's Orders PAL 172
+2 Iono PAL 185
+4 Arven SVI 166
+1 Professor Turo's Scenario PAR 171
+2 Super Rod PAL 188
+2 Lost Vacuum CRZ 135
+1 Defiance Band SVI 169
+1 Collapsed Stadium BRS 137
+4 Ultra Ball SVI 196
+1 Switch SVI 194
+4 Rare Candy SVI 191
+
+Energy: 1
+7 Basic {R} Energy SVE 2
+
+Total Cards: 60

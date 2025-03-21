@@ -1,0 +1,34 @@
+Pokémon: 8
+1 Iron Bundle PAR 56
+3 Frigibax PAL 57
+3 Chien-Pao ex PAL 61
+1 Iron Hands ex PAR 70
+2 Bibarel BRS 121
+2 Baxcalibur PAL 60
+1 Radiant Greninja ASR 46
+2 Bidoof CRZ 111
+
+Trainer: 17
+1 Hisuian Heavy Ball ASR 146
+1 Counter Catcher PAR 160
+2 PokéStop PGO 68
+4 Irida ASR 147
+4 Ultra Ball PAF 91
+1 Prime Catcher TEF 157
+1 Cyllene ASR 138
+3 Nest Ball SVI 181
+4 Superior Energy Retrieval PAL 189
+3 Super Rod PAL 188
+1 Lost Vacuum CRZ 135
+3 Rare Candy PAF 89
+3 Buddy-Buddy Poffin TEF 144
+1 Ciphermaniac's Codebreaking TEF 145
+1 Iono PAF 80
+1 Canceling Cologne ASR 136
+2 Earthen Vessel PAR 163
+
+Energy: 2
+8 Basic {W} Energy SVE 3
+1 Basic {L} Energy SVE 4
+
+Total Cards: 60

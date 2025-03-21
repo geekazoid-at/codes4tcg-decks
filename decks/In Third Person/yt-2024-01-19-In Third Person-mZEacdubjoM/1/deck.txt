@@ -1,0 +1,41 @@
+Pokémon: 15
+1 Duraludon VMAX EVS 123
+3 Regidrago VSTAR SIT 136
+1 Bibarel PR-SW 188
+1 Noivern ex PAL 153
+1 Giratina VSTAR LOR 131
+1 Mew ex MEW 151
+3 Regidrago V SIT 135
+1 Leafeon V EVS 7
+1 Altaria OBF 160
+1 Radiant Greninja ASR 46
+1 Bidoof CRZ 111
+1 Squawkabilly ex PAL 169
+1 Leafeon VSTAR CRZ 14
+1 Hisuian Goodra VSTAR LOR 136
+1 Altaria ex PAR 140
+
+Trainer: 17
+1 Pokémon League Headquarters OBF 192
+1 Escape Rope BST 125
+4 Gardenia's Vigor ASR 143
+1 PokéStop PGO 68
+1 Forest Seal Stone SIT 156
+2 Judge SVI 176
+3 Nest Ball SVI 181
+2 Capturing Aroma SIT 153
+1 Choice Belt PAL 176
+2 Boss's Orders PAL 172
+1 Path to the Peak CRE 148
+1 Iono PAL 185
+2 Superior Energy Retrieval PAL 189
+1 Super Rod PAL 188
+4 Ultra Ball SVI 196
+1 Switch SVI 194
+3 Earthen Vessel PAR 163
+
+Energy: 2
+3 Basic {R} Energy SVE 2
+7 Basic {G} Energy SVE 1
+
+Total Cards: 60

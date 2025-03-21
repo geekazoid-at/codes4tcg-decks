@@ -1,0 +1,32 @@
+Pokémon: 6
+4 Froslass TWM 53
+3 Greninja ex TWM 106
+4 Snorunt TWM 51
+2 Cleffa OBF 80
+1 Frogadier TWM 57
+4 Froakie OBF 56
+
+Trainer: 17
+4 Irida ASR 147
+3 Ultra Ball PAF 91
+2 Professor's Research SVI 190
+4 Rare Candy SVI 191
+2 Arven OBF 186
+2 Earthen Vessel PAR 163
+4 Buddy-Buddy Poffin TEF 144
+2 Counter Catcher PAR 160
+1 Lost Vacuum CRZ 135
+1 Professor Turo's Scenario PAR 171
+1 Artazon PAF 76
+1 Technical Machine: Devolution PAR 177
+2 Super Rod PAL 188
+2 Iono PAF 80
+1 Rescue Board TEF 159
+1 Unfair Stamp TWM 165
+1 Boss's Orders PAL 172
+
+Energy: 2
+5 Basic {W} Energy SVE 3
+3 Double Turbo Energy BRS 151
+
+Total Cards: 60

@@ -1,0 +1,36 @@
+Pokémon: 6
+3 Squirtle MEW 7
+3 Blastoise ex MEW 9
+1 Manaphy CRZ-GG 6
+2 Origin Forme Palkia V ASR 39
+2 Origin Forme Palkia VSTAR ASR 40
+1 Radiant Greninja ASR 46
+
+Trainer: 22
+4 Ultra Ball SVI 196
+1 Switch SVI 194
+1 Irida ASR 186
+3 Irida ASR 147
+2 Rare Candy SVI 191
+1 Escape Rope BST 125
+3 Earthen Vessel PAR 163
+1 Rare Candy PLB 105
+1 Lost Vacuum LOR 162
+1 Energy Retrieval SVI 171
+1 Counter Catcher PAR 160
+4 Battle VIP Pass FST 225
+1 Iono PAL 185
+1 Letter of Encouragement OBF 189
+1 Melony CRE 146
+3 PokéStop PGO 68
+3 Superior Energy Retrieval PAL 189
+1 Super Rod PAL 188
+1 Pokégear 3.0 SVI 186
+2 Nest Ball SVI 181
+1 Raihan EVS 152 PH
+1 Boss's Orders PAL 172
+
+Energy: 1
+10 Basic {W} Energy SVE 3 PH
+
+Total Cards: 60

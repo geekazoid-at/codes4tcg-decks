@@ -1,0 +1,29 @@
+Pokémon: 5
+1 Medicham V EVS 83
+4 Entei V BRS 22
+4 Iron Valiant ex PAR 89
+1 Squawkabilly ex PAL 169
+1 Radiant Charizard CRZ 20
+
+Trainer: 14
+4 Switch SVI 194
+4 Switch Cart ASR 154
+4 Escape Rope BST 125
+1 Earthen Vessel PAR 163
+1 Lost Vacuum CRZ 135
+2 Future Booster Energy Capsule PAR 164
+4 Battle VIP Pass FST 225
+2 Forest Seal Stone SIT 156
+3 Nest Ball SVI 181
+3 Colress's Experiment LOR 155
+4 Professor's Research SVI 189
+2 Techno Radar PAR 180
+1 Boss's Orders PAL 172
+4 Magma Basin BRS 144
+
+Energy: 3
+6 Basic {R} Energy SVE 2
+2 Double Turbo Energy BRS 151
+2 Jet Energy PAL 190
+
+Total Cards: 60

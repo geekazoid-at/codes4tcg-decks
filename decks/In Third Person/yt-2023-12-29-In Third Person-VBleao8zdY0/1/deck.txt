@@ -1,0 +1,35 @@
+Pokémon: 12
+3 Gible PAR 94
+1 Jirachi PAR 126
+2 Lucario BRS 79
+2 Riolu SVI 113
+1 Iron Hands ex PAR 70
+1 Garchomp ex PAR 219
+2 Bibarel BRS 121
+1 Garchomp ex PAR 245
+1 Radiant Greninja ASR 46
+1 Manaphy BRS 41
+1 Garchomp ex PAR 38
+2 Bidoof CRZ 111
+
+Trainer: 14
+1 Counter Catcher PAR 160
+1 Avery CRE 130
+4 Irida ASR 147
+3 Nest Ball SVI 181
+2 Professor's Research SVI 189
+4 Battle VIP Pass FST 225
+2 Boss's Orders PAL 172
+2 Path to the Peak CRE 148
+1 Colress's Experiment LOR 155
+2 Super Rod PAL 188
+3 Ultra Ball SVI 196
+2 Switch SVI 194
+3 Rare Candy SVI 191
+2 Earthen Vessel PAR 163
+
+Energy: 2
+9 Basic {F} Energy SVE 6
+1 Basic {L} Energy SVE 4
+
+Total Cards: 60

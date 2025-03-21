@@ -1,0 +1,31 @@
+Pokémon: 8
+3 Doduo MEW 84
+3 Dodrio MEW 85
+1 Fezandipiti ex SFA 38
+4 Capsakid SVI 28
+1 Radiant Charizard CRZ 20
+3 Scovillain ex SSP 37
+1 Fan Rotom SCR 118
+1 Manaphy BRS 41
+
+Trainer: 15
+1 Counter Catcher PAR 160
+4 Damage Pump LOR 156
+1 Secret Box TWM 163
+4 Magma Basin BRS 144
+2 Night Stretcher SFA 61
+2 Rescue Board TEF 159
+2 Nest Ball SVI 181
+2 Professor's Research SVI 189
+2 Arven OBF 186
+2 Boss's Orders PAL 172
+4 Iono PAL 185
+1 Super Rod PAL 188
+3 Buddy-Buddy Poffin TEF 144
+4 Ultra Ball SVI 196
+2 Earthen Vessel PAR 163
+
+Energy: 1
+7 Basic {R} Energy SVE 10
+
+Total Cards: 60

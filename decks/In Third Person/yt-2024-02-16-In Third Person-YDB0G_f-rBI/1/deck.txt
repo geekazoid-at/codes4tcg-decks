@@ -1,0 +1,33 @@
+Pokémon: 7
+2 Origin Forme Dialga VSTAR ASR 114
+4 Comfey LOR 79
+1 Sableye LOR 70
+2 Origin Forme Dialga V ASR 113
+1 Radiant Greninja ASR 46
+1 Cramorant LOR 50
+1 Zamazenta CRZ 97
+
+Trainer: 16
+1 Raihan EVS 152
+4 Switch SVI 194
+2 Switch Cart ASR 154
+1 Escape Rope BST 125
+1 Lost Vacuum CRZ 135
+4 Battle VIP Pass FST 225
+1 Technical Machine: Devolution PAR 177
+2 Path to the Peak CRE 148
+3 Super Rod PAL 188
+2 Iono PAF 80
+1 Leafy Camo Poncho SIT 160
+1 Pokégear 3.0 SVI 186
+4 Mirage Gate LOR 163
+3 Nest Ball SVI 181
+4 Colress's Experiment LOR 155
+2 Boss's Orders PAL 172
+
+Energy: 3
+2 Basic {W} Energy SVE 3
+2 Basic {P} Energy SVE 5
+8 Basic {M} Energy SVE 8
+
+Total Cards: 60

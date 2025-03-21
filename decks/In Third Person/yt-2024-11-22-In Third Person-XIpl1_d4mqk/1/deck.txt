@@ -1,0 +1,34 @@
+Pokémon: 10
+2 Origin Forme Dialga VSTAR ASR 114
+1 Lumineon V BRS 40
+1 Archaludon ex SSP 224
+4 Duraludon SCR 106
+1 Relicanth TEF 84
+2 Origin Forme Dialga V ASR 113
+1 Fezandipiti ex SFA 38
+1 Radiant Greninja ASR 46
+1 Archaludon ex SSP 241
+1 Archaludon ex SSP 130
+
+Trainer: 16
+4 Ultra Ball SVI 196
+1 Irida ASR 147
+1 Switch SVI 194
+3 Earthen Vessel PAR 163
+1 Counter Catcher PAR 160
+2 Iono PAL 185
+2 PokéStop PGO 68
+1 Professor Turo's Scenario PAR 171
+4 Night Stretcher SFA 61
+2 Pokégear 3.0 SVI 186
+3 Pokémon Catcher CRZ 138
+1 Pal Pad SVI 182
+4 Nest Ball SVI 181
+4 Professor's Research SVI 189
+1 Scramble Switch SSP 186
+2 Boss's Orders PAL 172
+
+Energy: 1
+9 Basic {M} Energy SVE 16
+
+Total Cards: 60

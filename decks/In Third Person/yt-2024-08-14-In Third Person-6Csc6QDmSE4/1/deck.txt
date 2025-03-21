@@ -1,0 +1,31 @@
+Pokémon: 7
+3 Charizard VSTAR BRS 18
+4 Comfey LOR 79
+2 Sableye LOR 70
+1 Manaphy BRS 41
+1 Radiant Greninja ASR 46
+2 Charizard V BRS 17
+2 Cramorant LOR 50
+
+Trainer: 14
+4 Switch Cart ASR 154
+1 Thorton LOR 167
+1 Buddy-Buddy Poffin TEF 144
+2 Counter Catcher PAR 160
+2 Iono PAL 185
+2 Super Rod PAL 188
+1 Roxanne ASR 150
+1 Prime Catcher TEF 157
+2 Boss's Orders SHF 58
+4 Mirage Gate LOR 163
+4 Nest Ball SVI 181
+2 Rescue Board TEF 159
+4 Colress's Experiment LOR 155
+3 Magma Basin BRS 144
+
+Energy: 3
+3 Basic {W} Energy SVE 3
+7 Basic {R} Energy SVE 2
+2 Basic {P} Energy SVE 5
+
+Total Cards: 60

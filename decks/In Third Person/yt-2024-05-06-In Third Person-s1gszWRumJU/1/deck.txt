@@ -1,0 +1,33 @@
+Pokémon: 9
+1 Raichu V BRS 45
+3 Miraidon ex SVI 81
+2 Iron Hands ex PAR 70
+1 Mew ex MEW 151
+1 Iron Bundle PAR 56
+1 Radiant Greninja ASR 46
+1 Squawkabilly ex PAL 169
+1 Zapdos PGO 29
+1 Raikou V BRS 48
+
+Trainer: 15
+1 Ultra Ball SVI 196
+1 Switch Cart ASR 154
+4 Electric Generator SVI 170
+1 Lost Vacuum LOR 162
+1 Super Rod PAL 188
+1 Town Store OBF 196
+1 Heavy Baton TEF 151
+1 Prime Catcher TEF 157
+1 Forest Seal Stone SIT 156
+4 Nest Ball SVI 181
+2 Rescue Board TEF 159
+4 Professor's Research SVI 189
+2 Bravery Charm PAL 173
+3 Boss's Orders PAL 172
+3 Arven SVI 166
+
+Energy: 2
+16 Basic {L} Energy SVE 4
+2 Double Turbo Energy BRS 151
+
+Total Cards: 60

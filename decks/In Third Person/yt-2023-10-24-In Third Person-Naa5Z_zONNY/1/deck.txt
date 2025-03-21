@@ -1,0 +1,32 @@
+Pokémon: 11
+1 Spiritomb PAL 89
+1 Cresselia LOR 74
+1 Mew CEL 11
+1 Zacian V CEL 16
+3 Kirlia SIT 68
+1 Kirlia CRE 60
+4 Ralts ASR 60
+1 Radiant Greninja ASR 46
+2 Gardevoir CRE 61
+2 Gardevoir ex SVI 86
+1 Manaphy BRS 41
+
+Trainer: 12
+2 Super Rod PAL 188
+1 Artazon PAL 171
+4 Level Ball BST 129
+3 Rare Candy SVI 191
+4 Iono PAL 185
+1 Worker SIT 195
+3 Fog Crystal CRE 140
+4 Battle VIP Pass FST 225
+3 Ultra Ball SVI 196
+1 Worker SIT 167
+1 Collapsed Stadium BRS 137
+3 Boss's Orders PAL 172
+
+Energy: 2
+2 Reversal Energy PAL 192
+10 Basic {P} Energy SVE 5
+
+Total Cards: 60

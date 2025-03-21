@@ -1,0 +1,25 @@
+Pokémon: 8
+1 Wyrdeer V ASR 134
+2 Sinistcha TWM 22
+4 Teal Mask Ogerpon ex TWM 25
+3 Poltchageist TWM 20
+2 Sinistcha ex TWM 23
+1 Fezandipiti ex SFA 38
+1 Radiant Greninja ASR 46
+1 Flutter Mane TEF 78
+
+Trainer: 9
+3 Ultra Ball SVI 196
+2 Earthen Vessel PAR 163
+1 Deluxe Bomb SCR 134
+3 Iono PAL 185
+2 Super Rod PAL 188
+4 Nest Ball SVI 181
+4 Professor's Research SVI 189
+4 Bug Catching Set TWM 143
+3 Boss's Orders PAL 172
+
+Energy: 1
+19 Basic {G} Energy SVE 9
+
+Total Cards: 60

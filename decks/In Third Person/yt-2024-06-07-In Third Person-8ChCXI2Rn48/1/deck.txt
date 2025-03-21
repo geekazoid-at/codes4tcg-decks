@@ -1,0 +1,27 @@
+Pokémon: 13
+2 Koraidon ex TEF 120
+1 Sandy Shocks ex PAR 108
+4 Koraidon TEF 119
+3 Sandy Shocks TEF 98
+3 Great Tusk TEF 96
+
+Trainer: 32
+3 Professor Sada's Vitality PAR 170
+3 Professor's Research SVI 189
+3 Youngster SVI 198
+2 Explorer's Guidance TEF 147
+2 Ryme OBF 194
+1 Boss's Orders PAL 172
+1 Cook TWM 147
+4 Nest Ball SVI 181
+3 Earthen Vessel PAR 163
+3 Switch SVI 194
+2 Ultra Ball SVI 196
+1 Super Rod PAL 188
+4 Ancient Booster Energy Capsule PAR 159
+
+Energy: 14
+8 Basic {F} Energy SVE 6
+6 Basic {R} Energy SVE 2
+
+Total Cards: 60

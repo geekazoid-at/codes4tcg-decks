@@ -1,0 +1,31 @@
+Pokémon: 7
+3 Spidops ex SVI 19
+4 Venonat MEW 48
+1 Mew ex MEW 151
+3 Venomoth MEW 49
+4 Tarountula PAL 16
+1 Manaphy BRS 41
+1 Radiant Alakazam SIT 59
+
+Trainer: 15
+1 Pokémon League Headquarters OBF 192
+3 Bruno BST 121
+1 Raihan EVS 152
+2 Level Ball BST 129
+1 Pal Pad SVI 182
+3 Nest Ball SVI 181
+2 Temple of Sinnoh ASR 155
+4 Battle VIP Pass FST 225
+4 Boss's Orders PAL 172
+1 Klara CRE 145
+4 Iono PAL 185
+2 Trekking Shoes CRZ 145
+1 Super Rod PAL 188
+3 Ultra Ball SVI 196
+2 Switch SVI 194
+
+Energy: 2
+7 Basic {G} Energy SVE 1
+2 Double Turbo Energy BRS 151
+
+Total Cards: 60

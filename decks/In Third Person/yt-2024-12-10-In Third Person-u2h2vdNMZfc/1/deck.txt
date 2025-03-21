@@ -1,0 +1,41 @@
+Pokémon: 15
+1 Latias ex SSP 76
+1 Bloodmoon Ursaluna ex TWM 141
+1 Oranguru V ASR 133
+2 Brute Bonnet PAR 123
+2 Klawf PAR 105
+1 Iron Bundle PAR 56
+2 Terapagos ex SCR 128
+1 Radiant Hisuian Sneasler LOR 123
+1 Pecharunt PR-SV 149
+1 Lumineon V BRS 40
+1 Fezandipiti ex SFA 38
+1 Pecharunt ex SFA 39
+1 Hisuian Electrode V PR-SW 294
+1 Genesect SFA 40
+1 Squawkabilly ex PAL 169
+
+Trainer: 18
+2 Hisuian Heavy Ball ASR 146
+2 Switch Cart ASR 154
+1 Carmine TWM 145
+1 Precious Trolley SSP 185
+2 Forest Seal Stone SIT 156
+3 Night Stretcher SFA 61
+4 Nest Ball SVI 181
+1 Professor's Research SVI 189
+3 Ancient Booster Energy Capsule PAR 159
+3 Boss's Orders PAL 172
+3 Binding Mochi SFA 55
+1 Iono PAL 185
+3 Arven SVI 166
+1 Colress's Tenacity SFA 57
+1 Supereffective Glasses ASR 152
+1 Energy Loto ASR 140
+4 Area Zero Underdepths SCR 131
+2 Ultra Ball SVI 196
+
+Energy: 1
+4 Double Turbo Energy BRS 151
+
+Total Cards: 60

@@ -1,0 +1,29 @@
+Pokémon: 8
+1 Starmie MEW 121
+2 Staryu BRS 30
+4 Duraludon SCR 106
+1 Relicanth TEF 84
+1 Fezandipiti ex SFA 38
+1 Radiant Greninja ASR 46
+1 Iron Bundle PAR 56
+3 Archaludon ex SSP 130
+
+Trainer: 13
+4 Ultra Ball SVI 196
+4 Earthen Vessel PAR 163
+3 Iono PAL 185
+4 Pokémon Catcher SSH 175
+3 PokéStop PGO 68
+1 Professor Turo's Scenario PAR 171
+3 Pokégear 3.0 SSH 174
+4 Night Stretcher SFA 61
+1 Maximum Belt TEF 154
+1 Pal Pad SVI 182
+4 Nest Ball SVI 181
+4 Professor's Research SVI 189
+2 Boss's Orders PAL 172
+
+Energy: 1
+8 Basic {M} Energy SVE 16
+
+Total Cards: 60

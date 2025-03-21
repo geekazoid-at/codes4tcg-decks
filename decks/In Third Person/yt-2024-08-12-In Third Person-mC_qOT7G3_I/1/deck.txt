@@ -1,0 +1,33 @@
+Pokémon: 11
+2 Okidogi ex SFA 36
+1 Tatsugiri TWM 131
+2 Pecharunt ex SFA 39
+1 Mew ex MEW 151
+2 Munkidori ex SFA 37
+1 Cobalion SIT 126
+1 Fezandipiti ex SFA 38
+1 Radiant Greninja ASR 46
+1 Morpeko PAR 121
+1 Roaring Moon ex PAR 124
+1 Squawkabilly ex PAL 169
+
+Trainer: 14
+4 Ultra Ball SVI 196
+4 Dark Patch ASR 139
+2 Energy Switch SVI 173
+4 Trekking Shoes ASR 156
+2 Iono PAL 185
+4 Janine's Secret Art SFA 59
+2 Pokémon Catcher SSH 175
+1 Night Stretcher SFA 61
+1 Super Rod PAL 188
+1 Prime Catcher TEF 157
+4 Nest Ball SVI 181
+3 Binding Mochi SFA 55
+2 Arven SVI 166
+1 Boss's Orders PAL 172
+
+Energy: 1
+11 Basic {D} Energy SVE 7
+
+Total Cards: 60

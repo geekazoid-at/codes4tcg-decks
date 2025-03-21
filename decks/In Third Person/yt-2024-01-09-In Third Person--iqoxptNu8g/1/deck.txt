@@ -1,0 +1,26 @@
+Pokémon: 5
+4 Vulpix OBF 28
+3 Ninetales ex MEW 38
+4 Ponyta SIT 21
+2 Paldean Tauros PAL 28
+3 Rapidash SIT 22 PH
+
+Trainer: 13
+3 Youngster SVI 198
+3 Judge SVI 176
+2 Jacq SVI 175
+2 Energy Retrieval SVI 171
+1 Pal Pad SVI 182
+1 Jubilife Village ASR 148
+4 Nest Ball SVI 181
+3 Professor's Research SVI 189
+1 Super Rod PAL 188
+3 Zisu ASR 159
+3 Ultra Ball SVI 196
+2 Switch SVI 194
+3 Earthen Vessel PAR 163
+
+Energy: 1
+13 Basic {R} Energy SVE 2
+
+Total Cards: 60

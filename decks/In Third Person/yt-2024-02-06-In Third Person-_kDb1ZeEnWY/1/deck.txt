@@ -1,0 +1,32 @@
+Pokémon: 11
+2 Charcadet OBF 43
+2 Rayquaza VMAX EVS 111
+2 Rayquaza V EVS 110
+1 Delphox V LOR 27
+1 Drapion V LOR 118
+1 Mew ex MEW 151
+2 Armarouge SVI 41
+3 Arceus VSTAR BRS 123
+4 Arceus V BRS 122
+1 Radiant Heatran ASR 27
+1 Charcadet SVI 40
+
+Trainer: 11
+4 Magma Basin BRS 144
+1 Escape Rope BST 125
+1 Judge SVI 176
+1 Pal Pad SVI 182
+4 Nest Ball SVI 181
+3 Professor's Research SVI 189
+1 Choice Belt PAL 176
+3 Boss's Orders PAL 172
+3 Iono PAF 80
+4 Ultra Ball SVI 196
+1 Switch SVI 194
+
+Energy: 3
+8 Basic {R} Energy SVE 2
+2 Basic {L} Energy SVE 4
+4 Double Turbo Energy BRS 151
+
+Total Cards: 60

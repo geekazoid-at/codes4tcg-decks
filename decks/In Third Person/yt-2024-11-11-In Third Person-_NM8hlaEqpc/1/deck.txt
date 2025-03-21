@@ -1,0 +1,32 @@
+Pokémon: 7
+3 Ceruledge ex SSP 36
+4 Charcadet SSP 32
+1 Fezandipiti ex SFA 38
+1 Fan Rotom SCR 118
+1 Radiant Greninja ASR 46
+1 Manaphy BRS 41
+1 Squawkabilly ex PAL 169
+
+Trainer: 13
+1 Counter Catcher PAR 160
+3 Carmine TWM 145
+1 PokéStop PGO 68
+4 Night Stretcher SFA 61
+1 Pal Pad SVI 182
+3 Nest Ball SVI 181
+4 Professor's Research SVI 189
+1 Boss's Orders PAL 172
+1 Jamming Tower TWM 153
+1 Briar SCR 132
+1 Buddy-Buddy Poffin TEF 144
+4 Ultra Ball SVI 196
+3 Earthen Vessel PAR 163
+
+Energy: 5
+11 Basic {R} Energy SVE 10
+1 Legacy Energy TWM 167
+3 Jet Energy PAL 190
+3 Basic {W} Energy SVE 11
+2 Mist Energy TEF 161
+
+Total Cards: 60
