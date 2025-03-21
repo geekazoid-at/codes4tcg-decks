@@ -1,0 +1,26 @@
+Pokémon: 5
+2 Squawkabilly ex PAF 75
+1 Radiant Hisuian Sneasler LOR 123
+2 Brute Bonnet PAR 123
+4 Iron Valiant ex PAR 89
+4 Pecharunt PR-SV 149
+
+Trainer: 14
+4 Switch Cart ASR 154
+4 Tool Box LOR 168
+4 Ancient Booster Energy Capsule TEF 140
+4 Trekking Shoes ASR 156
+2 Hisuian Heavy Ball ASR 146
+2 Future Booster Energy Capsule TEF 149
+2 Perilous Jungle TEF 156
+4 Switch BCR 135
+4 Pokégear 3.0 SVI 186
+4 Ultra Ball CRZ 146
+4 Gutsy Pickaxe ASR 145
+4 Nest Ball SVI 181
+4 Carmine TWM 145
+1 Dangerous Laser SFA 58
+
+Energy: 0
+
+Total Cards: 60

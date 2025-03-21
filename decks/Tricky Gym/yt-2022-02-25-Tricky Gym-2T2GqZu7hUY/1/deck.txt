@@ -1,0 +1,27 @@
+Pokémon: 8
+1 Lumineon V BRS 40
+3 Raichu V BRS 45
+2 Arceus VSTAR BRS 123
+3 Arceus V BRS 122
+4 Mareep DAA 55
+4 Flaaffy EVS 55
+1 Manaphy BRS 41
+1 Crobat V DAA 104
+
+Trainer: 10
+1 Raihan EVS 152
+1 Escape Rope BST 125
+4 Professor's Research SHF 60
+1 Switch SSH 183
+4 Marnie CPA 56
+2 Air Balloon SSH 156
+4 Quick Ball SSH 179
+4 Ultra Ball BRS 150
+3 Boss's Orders SHF 58
+1 Choice Belt BRS 135
+
+Energy: 2
+4 Double Turbo Energy BRS 151
+12 Basic {L} Energy SVE 4
+
+Total Cards: 60

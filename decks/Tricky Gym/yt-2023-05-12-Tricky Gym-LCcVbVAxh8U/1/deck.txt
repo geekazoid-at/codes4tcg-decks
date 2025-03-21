@@ -1,0 +1,27 @@
+Pokémon: 16
+1 Skwovet SVI 151
+4 Luxray CRZ 44
+4 Magnezone ex SVI 65
+2 Bibarel BRS 121
+4 Magnemite SVI 63
+1 Bidoof CRZ 111
+
+Trainer: 35
+1 Hisuian Heavy Ball ASR 146
+2 Cheryl BST 123
+2 Raihan EVS 152
+2 Boss's Orders SHF 58
+3 Nest Ball SUM 123
+2 Avery CRE 130
+4 Judge SVI 176
+4 Path to the Peak CRE 148
+3 Colress's Experiment LOR 155
+2 Escape Rope BUS 114
+2 Cleansing Gloves BRS 136
+4 Ultra Ball SVI 196
+4 Rare Candy SVI 191
+
+Energy: 9
+9 Basic {L} Energy SVE 4
+
+Total Cards: 60

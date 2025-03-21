@@ -1,0 +1,30 @@
+Pokémon: 7
+4 Electrode MEW 101
+1 Mew ex MEW 151
+4 Voltorb PAL 66
+1 Manaphy BRS 41
+1 Rotom V CRZ 45
+2 Snorlax MEW 143
+1 Honchkrow V BRS 88
+
+Trainer: 15
+2 Ultra Ball SVI 196
+2 Tool Box LOR 168
+2 Escape Rope BST 125
+4 Exp. Share SVI 174
+2 Zinnia's Resolve EVS 164
+4 Level Ball BST 129
+2 Iono PAL 185
+1 Super Rod PAL 188
+4 Leftovers MEW 163
+2 Town Store OBF 196
+4 Forest Seal Stone SIT 156
+4 Nest Ball SVI 181
+2 Colress's Experiment LOR 155
+3 Professor's Research SVI 189
+2 Boss's Orders PAL 172
+
+Energy: 1
+6 Basic {L} Energy SVE 4
+
+Total Cards: 60

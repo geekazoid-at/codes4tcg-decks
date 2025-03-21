@@ -1,0 +1,30 @@
+Pokémon: 9
+4 Duraludon SCR 106
+4 Archaludon ex SSP 130
+1 Zamazenta V BRS 105
+1 Fezandipiti ex SFA 38
+1 Zamazenta VSTAR CRZ 99
+1 Radiant Greninja ASR 46
+1 Relicanth TEF 84
+2 Starmie MEW 121
+2 Staryu MEW 120
+
+Trainer: 13
+1 Switch CRZ 144
+3 PokéStop PGO 68
+4 Nest Ball SUM 123
+1 Prime Catcher TEF 157
+3 Pokégear 3.0 SVI 186
+4 Night Stretcher SFA 61
+1 Pal Pad SVI 182
+3 Professor's Research SVI 189
+2 Boss's Orders PAL 172
+4 Ultra Ball SUM 135
+2 Professor Turo's Scenario PAR 171
+3 Iono PAF 80
+3 Earthen Vessel PAR 163
+
+Energy: 1
+9 Basic {M} Energy SVE 16
+
+Total Cards: 60

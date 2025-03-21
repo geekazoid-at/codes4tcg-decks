@@ -1,0 +1,27 @@
+Pokémon: 7
+4 Houndoom SWSHALT 52
+3 Gengar V FST 156
+3 Gengar VMAX FST 157
+2 Bidoof BRS 120
+1 Crobat V DAA 104
+2 Bibarel SWSHALT 85
+4 Houndour BST 95
+
+Trainer: 11
+4 Quick Ball SSH 179
+2 Boss's Orders SHF 58
+3 Switch SSH 183
+4 Urn of Vitality BST 139
+4 Battle VIP Pass FST 225
+3 Marnie SWSHALT 21
+3 Path to the Peak CRE 148
+3 Ultra Ball BRS 150
+4 Professor's Research SHF 60
+2 Evolution Incense SSH 163
+2 Choice Belt BRS 135
+
+Energy: 2
+4 Single Strike Energy BST 141
+3 Hiding {D} Energy DAA 175
+
+Total Cards: 60

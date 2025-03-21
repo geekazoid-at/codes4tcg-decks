@@ -1,0 +1,32 @@
+Pokémon: 8
+2 Origin Forme Palkia V ASR 39
+4 Totodile TEF 39
+2 Bibarel PR-SW 188
+3 Feraligatr TEF 41
+2 Origin Forme Palkia VSTAR ASR 40
+1 Radiant Greninja ASR 46
+1 Manaphy BRS 41
+2 Bidoof CRZ 111
+
+Trainer: 15
+1 Counter Catcher PAR 160
+1 Town Store OBF 196
+2 Switch CRZ 144
+2 Exp. Share SVI 174
+4 Irida ASR 147
+1 Maximum Belt TEF 154
+3 Nest Ball SVI 181
+2 Boss's Orders PAL 172
+3 Iono PAL 185
+1 Super Rod PAL 188
+1 Lost Vacuum CRZ 135
+4 Buddy-Buddy Poffin TEF 144
+4 Ultra Ball SVI 196
+4 Rare Candy SVI 191
+1 Earthen Vessel PAR 163
+
+Energy: 2
+2 Reversal Energy PAL 192
+7 Basic {W} Energy SVE 3
+
+Total Cards: 60

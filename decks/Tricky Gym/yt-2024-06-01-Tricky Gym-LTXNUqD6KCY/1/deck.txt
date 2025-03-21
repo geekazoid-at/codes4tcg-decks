@@ -1,0 +1,39 @@
+Pokémon: 10
+2 Pidgey MEW 16
+1 Rotom V CRZ 45
+2 Drakloak TWM 129
+4 Dreepy TWM 128
+1 Bibarel BRS 121
+1 Cleffa OBF 80
+1 Radiant Charizard CRZ 20
+2 Pidgeot ex OBF 164
+3 Dragapult ex TWM 130
+1 Bidoof CRZ 111
+
+Trainer: 19
+2 Counter Catcher PAR 160
+2 Mela PAR 167
+1 Nest Ball PAF 84
+1 Forest Seal Stone SIT 156
+4 Ultra Ball PAF 91
+1 Cyllene ASR 138
+1 Rescue Board TEF 159
+1 Enhanced Hammer GRI 124
+4 Arven OBF 186
+1 Boss's Orders PAL 172
+1 Kieran TWM 154
+1 Professor Turo's Scenario PAR 171
+1 Super Rod PAL 188
+1 Defiance Band SVI 169
+4 Rare Candy PAF 89
+1 Lost Vacuum LOR 162
+4 Buddy-Buddy Poffin TEF 144
+3 Iono PAF 80
+1 Earthen Vessel PAR 163
+
+Energy: 3
+3 Basic {P} Energy SVE 5
+3 Basic {R} Energy SVE 2
+1 Neo Upper Energy TEF 162
+
+Total Cards: 60

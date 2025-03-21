@@ -13,6 +13,7 @@ const channelIdSneaker = "UCBjjolWH6d6JJRCZ6a02N6w"; // SneakerTalkTCG
 const channelIdMrdog = "UCMS0qK1Or_qElPXCgmkCUhw"; // MrDog
 const channelId3rd = "UCtjNWKdNFOdMv6QEUfSN8TQ"; // in3rdperson
 const channelIdPop = "UCaJRkZn63jCodODUOyGPiiA"; // PopsicleKnight
+const channelIdGym = "UC35KRaWGA7hQ5De40GG_7Fw"; // TrickyGym
 
 const allChannelIds: string[] = [
   channelIdTyp,

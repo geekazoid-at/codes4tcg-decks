@@ -1,0 +1,33 @@
+Pokémon: 10
+2 Rotom V LOR 58
+3 Slaking ex SSP 147
+1 Vigoroth SSP 146
+1 Fezandipiti ex SFA 38
+1 Fan Rotom SCR 118
+2 Pidgeot ex OBF 164
+2 Pidgey OBF 162
+1 Radiant Jirachi SIT 120
+1 Manaphy BRS 41
+4 Slakoth PAL 160
+
+Trainer: 14
+1 Professor Turo's Scenario PAR 171
+4 Nest Ball PAF 84
+2 Forest Seal Stone SIT 156
+4 Rare Candy PLB 105
+1 Kieran TWM 154
+4 Ultra Ball PAF 91
+1 Canceling Cologne ASR 136
+4 Boss's Orders PAL 172
+4 Arven SVI 166
+1 Cheren's Care BRS 134
+1 Collapsed Stadium BRS 137
+2 Buddy-Buddy Poffin TEF 144
+4 Iono PAF 80
+1 Maximum Belt TEF 154
+
+Energy: 2
+4 Jet Energy PAL 190
+4 Double Turbo Energy BRS 151
+
+Total Cards: 60

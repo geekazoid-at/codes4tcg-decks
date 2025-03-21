@@ -1,0 +1,35 @@
+Pokémon: 11
+2 Hydreigon ex SSP 119
+4 Comfey LOR 79
+2 Deino SSP 117
+1 Bloodmoon Ursaluna ex TWM 141
+1 Sableye LOR 70
+1 Cramorant LOR 50
+1 Duskull BRS 60
+1 Fezandipiti ex SFA 38
+1 Radiant Greninja ASR 46
+1 Manaphy BRS 41
+1 Dusknoir SFA 20
+
+Trainer: 14
+1 Hisuian Heavy Ball ASR 146
+3 Switch Cart ASR 154
+2 PokéStop PGO 68
+4 Mirage Gate LOR 163
+1 Prime Catcher TEF 157
+1 Rescue Board TEF 159
+3 Nest Ball SVI 181
+4 Colress's Experiment LOR 155
+4 Super Rod PAL 188
+3 Rare Candy PAF 89
+1 Lost Vacuum LOR 162
+4 Buddy-Buddy Poffin TEF 144
+1 Iono PAF 80
+4 Switch SVI 194
+
+Energy: 3
+3 Basic {D} Energy SVE 15
+3 Basic {P} Energy SVE 13
+2 Basic {M} Energy SVE 16
+
+Total Cards: 60

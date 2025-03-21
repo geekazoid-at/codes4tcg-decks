@@ -1,0 +1,25 @@
+Pokémon: 8
+2 Minccino BRS 124
+4 Indeedee BST 120
+3 Milotic EVS 38
+4 Golbat BST 90
+4 Zubat BST 89
+3 Feebas EVS 37
+4 Crobat BST 91
+2 Cinccino SSH 147
+
+Trainer: 8
+4 Schoolgirl FST 239
+4 Schoolboy FST 238
+4 Rescue Carrier EVS 154
+4 Battle VIP Pass FST 225
+4 Level Ball BST 129
+3 Evolution Incense SSH 163
+1 Boss's Orders SHF 58
+4 Scoop Up Net RCL 165
+
+Energy: 2
+2 Double Turbo Energy BRS 151
+4 Twin Energy RCL 174
+
+Total Cards: 60
