@@ -1,0 +1,39 @@
+Pokémon: 9
+1 Budew PRE 4 PH
+1 Fezandipiti ex SFA 92
+3 Xatu PAR 72
+1 Natu PAR 71 PH
+1 Mew ex PAF 232
+3 Xerneas ex PR-SV 179
+1 Manaphy BRS 41
+1 Radiant Alakazam SIT 59
+2 Natu PAF 25 PH
+
+Trainer: 20
+2 Buddy-Buddy Poffin TWM 223
+1 Rescue Board TWM 225
+3 Iono PAL 254
+1 Pal Pad SSH 172
+1 Nest Ball SVI 255
+1 Hero's Cape TEF 152
+3 Earthen Vessel SFA 96
+3 Arven PAF 235
+3 Ultra Ball ROS 93 PH
+1 Black Belt's Training PRE 99 PH
+2 Penny PAF 239
+2 Night Stretcher SSP 251
+1 Boss's Orders PAL 248
+1 Roseanne's Backup BRS 148 PH
+1 Energy Retrieval CRZ 127
+2 Counter Catcher PAR 264
+2 Nest Ball PAF 84 PH
+2 Lively Stadium SSP 180 PH
+2 Bravery Charm PAL 173 PH
+1 Ultra Ball SLG 68
+
+Energy: 3
+8 Basic {P} Energy SVE 5 PH
+2 Jet Energy PAL 190
+1 Jet Energy SSP 252
+
+Total Cards: 60
