@@ -1,0 +1,33 @@
+Pokémon: 8
+2 Pineco PAL 4
+2 Forretress ex PAL 5
+1 Manaphy CRZ-GG 6
+2 Bidoof BRS 120
+4 Brambleghast TEF 21
+4 Bramblin PAL 22
+1 Mimikyu PR-SV 75
+2 Bibarel CRZ-GG 25
+
+Trainer: 16
+4 Buddy-Buddy Poffin TWM 223
+1 Hassel TWM 205
+4 Ultra Ball PLB 90 PH
+3 Bug Catching Set TWM 143
+1 Exp. Share PRC 128 PH
+1 Super Rod PAL 276
+1 Superior Energy Retrieval PAL 277
+1 Powerglass SFA 63 PH
+2 Boss's Orders LOR-TG 24
+1 Jacq SVI 250
+1 Switch SLG 67 PH
+1 Technical Machine: Evolution PAR 178 PH
+1 Technical Machine: Crisis Punch PAF 90 PH
+4 Arven PAF 235
+3 Iono PAL 269
+1 Neutralization Zone SFA 60
+
+Energy: 2
+1 Luminous Energy TWM 226
+11 Basic {G} Energy GEN 75 PH
+
+Total Cards: 60

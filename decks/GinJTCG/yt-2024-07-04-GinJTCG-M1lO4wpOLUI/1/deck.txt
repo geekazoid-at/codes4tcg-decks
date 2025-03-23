@@ -1,0 +1,31 @@
+Pokémon: 9
+2 Liepard BRS 91 PH
+3 Arceus VSTAR BRS 123
+4 Arceus V BRS 122
+2 Heatran VMAX ASR 26
+2 Heatran V ASR 25
+2 Purrloin CRZ 77
+1 Radiant Greninja ASR 46
+1 Ditto PAF 201
+1 Mew ex PR-SV 53
+
+Trainer: 12
+4 Ultra Ball PLB 90 PH
+1 Pokémon Catcher BKP 105 PH
+4 Judge SIT-TG 25
+1 Professor Turo's Scenario PAR 257
+3 Boss's Orders LOR-TG 24
+4 Nest Ball SVI 255
+2 Switch SLG 67 PH
+1 Energy Loto GRI 122 PH
+4 Capturing Aroma SIT 153
+3 Iono PAL 269
+2 Magma Basin BRS 185
+1 Eri TEF 210
+
+Energy: 3
+1 Legacy Energy TWM 167
+4 Double Turbo Energy BRS 151
+7 Basic {R} Energy SVE 2
+
+Total Cards: 60

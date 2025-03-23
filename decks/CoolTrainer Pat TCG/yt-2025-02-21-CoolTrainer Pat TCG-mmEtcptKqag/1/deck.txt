@@ -1,0 +1,30 @@
+Pokémon: 5
+4 Cinderace ex SCR 28
+3 Togekiss SSP 72
+3 Tatsugiri ex SSP 226
+3 Infernape TWM 33
+4 Pidgeot ex OBF 164
+
+Trainer: 13
+2 Crispin SCR 164
+1 Secret Box TWM 163
+1 Nest Ball SVI 255
+2 Earthen Vessel SFA 96
+2 Arven PAF 235
+2 Boss's Orders PAL 172
+2 Magma Basin BRS 185
+2 Super Rod PAL 188
+3 Academy at Night SFA 54 PH
+1 Judge FLI 108
+2 Iono PAF 80
+2 Crispin SCR 133 PH
+3 Boxed Order TEF 143 PH
+
+Energy: 5
+3 Luminous Energy TWM 226
+4 Basic {D} Energy SVE 7
+4 Basic {F} Energy SVE 6
+3 Basic {W} Energy SVE 3
+4 Basic {R} Energy SVE 2
+
+Total Cards: 60

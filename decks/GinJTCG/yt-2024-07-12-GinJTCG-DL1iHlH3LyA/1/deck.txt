@@ -1,0 +1,30 @@
+Pokémon: 8
+2 Hisuian Basculin ASR 43 PH
+2 Hisuian Basculegion LOR 45
+3 Heatran TWM 123
+4 Metang PR-SV 90
+1 Radiant Greninja ASR 46
+1 Zamazenta CRZ 97
+1 Manaphy CRZ-GG 6
+4 Beldum TEF 113
+
+Trainer: 14
+2 Irida ASR 186
+1 Nest Ball SVI 255
+2 Buddy-Buddy Poffin TEF 144
+1 Pal Pad FLF 92 PH
+1 Arezu LOR 189
+2 Pokégear 3.0 UNB 182 PH
+1 Artazon OBF 229
+1 Switch SLG 67 PH
+2 Boss's Orders LOR-TG 24
+3 Super Rod PAL 276
+1 Ultra Ball BRS 186
+1 Hyper Aroma TWM 152
+2 Adaman ASR 181
+1 Lana's Aid TWM 207
+
+Energy: 1
+21 Basic {M} Energy SVE 8
+
+Total Cards: 60

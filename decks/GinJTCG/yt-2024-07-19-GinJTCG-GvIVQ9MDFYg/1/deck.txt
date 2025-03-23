@@ -1,0 +1,35 @@
+Pokémon: 8
+2 Bidoof CRZ-GG 29
+2 Magnezone ex SVI 65
+1 Manaphy CRZ-GG 6
+1 Rotom V LOR 177
+2 Relicanth TEF 173
+4 Magnemite SVI 63
+4 Magneton MEW 82
+2 Bibarel CRZ-GG 25
+
+Trainer: 19
+1 Lana's Aid TWM 207
+1 Lost Vacuum LOR 217
+3 Ultra Ball PLB 90 PH
+1 Scoop Up Cyclone TWM 162
+1 Super Rod PAL 276
+1 Technical Machine: Devolution PAR 177 PH
+1 Forest Seal Stone SIT 156
+1 Professor Turo's Scenario PAR 257
+3 Nest Ball SVI 255
+4 Arven PAF 235
+4 Crushing Hammer SUM 115 PH
+1 Hisuian Heavy Ball ASR 146 PH
+2 Iono PAL 269
+2 Technical Machine: Evolution PAR 178
+1 Earthen Vessel PAR 163 PH
+2 Counter Catcher PAR 264
+2 Eri TEF 210
+1 Pal Pad FLF 92 PH
+4 Buddy-Buddy Poffin TEF 144
+
+Energy: 1
+6 Basic {L} Energy GEN 78 PH
+
+Total Cards: 60

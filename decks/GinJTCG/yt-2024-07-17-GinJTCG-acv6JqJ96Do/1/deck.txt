@@ -1,0 +1,27 @@
+Pokémon: 5
+4 Toedscool SVI 25
+1 Toedscruel PAR 185
+1 Mew ex PR-SV 53
+4 Teal Mask Ogerpon ex TWM 25
+4 Toedscruel ex OBF 22
+
+Trainer: 13
+4 Professor's Research CEL 24
+3 Iono PAL 269
+3 Boss's Orders LOR-TG 24
+1 Roxanne ASR 188
+4 Energy Switch SUM 117 PH
+3 Earthen Vessel PAR 163 PH
+4 Nest Ball SVI 255
+4 Bug Catching Set TWM 143
+2 Energy Retrieval SLG 59 PH
+1 Counter Catcher PAR 264
+1 Super Rod PAL 276
+1 Ultra Ball BRS 186
+2 Jamming Tower TWM 153
+
+Energy: 2
+12 Basic {G} Energy GEN 75 PH
+1 Legacy Energy TWM 167
+
+Total Cards: 60

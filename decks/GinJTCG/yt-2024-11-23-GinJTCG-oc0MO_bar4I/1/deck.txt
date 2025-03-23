@@ -1,0 +1,38 @@
+Pokémon: 9
+2 Bidoof CRZ-GG 29
+1 Klefki PAF 159
+1 Iron Thorns ex TWM 196
+3 Flygon ex SSP 106
+1 Vibrava SSP 105
+3 Trapinch SSP 104
+1 Cornerstone Mask Ogerpon ex TWM 215
+2 Mimikyu PR-SV 75
+2 Bibarel CRZ-GG 25
+
+Trainer: 19
+4 Buddy-Buddy Poffin TWM 223
+1 Lost Vacuum LOR 217
+4 Ultra Ball PLB 90 PH
+1 Surfer SSP 187
+1 Judge SIT-TG 25
+1 Future Booster Energy Capsule TEF 149 PH
+2 Pokémon League Headquarters OBF 192 PH
+2 Boss's Orders LOR-TG 24
+1 Earthen Vessel SFA 96
+1 Maximum Belt TEF 154
+1 Night Stretcher SFA 61 PH
+4 Arven PAF 235
+1 Switch MEW 206
+1 Defiance Band SVI 169 PH
+4 Rare Candy PRC 135 PH
+3 Iono PAL 269
+1 Counter Catcher PAR 264
+2 Rescue Board TEF 159 PH
+1 Vitality Band SVI 197 PH
+
+Energy: 3
+4 Luminous Energy TWM 226
+3 Basic {F} Energy SVE 6 PH
+1 Basic {M} Energy SVE 8 PH
+
+Total Cards: 60

@@ -1,0 +1,32 @@
+Pokémon: 7
+4 Venonat MEW 48 PH
+3 Venomoth MEW 49 PH
+4 Snorunt TWM 51
+1 Cleffa OBF 80 PH
+4 Froslass TWM 53
+1 Elekid PAR 59 PH
+1 Manaphy BRS 41 PH
+
+Trainer: 17
+1 Counter Catcher PAR 160
+4 Carmine TWM 145
+4 Irida ASR 147
+2 Ultra Ball PAF 91
+4 Pokégear 3.0 SVI 186
+2 Calamitous Wasteland PAL 175
+1 Boss's Orders PAL 172
+1 Hyper Aroma TWM 152
+3 Arven SVI 166
+2 Technical Machine: Devolution PAR 177
+1 Technical Machine: Evolution PAR 178
+2 Super Rod PAL 188
+2 Lost Vacuum CRZ 135
+4 Buddy-Buddy Poffin TEF 144
+2 Handheld Fan TWM 150 PH
+1 Switch SVI 194
+2 Earthen Vessel PAR 163
+
+Energy: 1
+4 Basic {G} Energy SVE 1 PH
+
+Total Cards: 60

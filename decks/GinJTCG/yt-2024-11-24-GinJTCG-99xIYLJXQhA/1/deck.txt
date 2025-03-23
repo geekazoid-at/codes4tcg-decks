@@ -1,0 +1,37 @@
+Pokémon: 9
+1 Rotom V LOR 177
+3 Hydreigon ex SSP 119
+1 Zweilous SSP 118
+4 Deino SSP 117
+2 Pidgeot ex OBF 164
+1 Cleffa OBF 202
+2 Pidgey OBF 162
+1 Lumineon V BRS 156
+1 Fezandipiti ex SFA 92
+
+Trainer: 17
+4 Rare Candy PRC 135 PH
+2 Counter Gain LOT 170 PH
+1 Earthen Vessel SFA 96
+4 Arven PAF 235
+4 Ultra Ball PLB 90 PH
+3 Iono PAL 269
+1 Professor Turo's Scenario PAR 257
+1 Technical Machine: Devolution PAR 177 PH
+1 Boss's Orders LOR-TG 24
+1 Pokémon League Headquarters OBF 192 PH
+1 Crispin SCR 164
+4 Buddy-Buddy Poffin TWM 223
+1 Forest Seal Stone SIT 156
+2 Dark Patch LOR 216
+2 Counter Catcher PAR 264
+1 Night Stretcher SFA 61 PH
+3 Nest Ball SVI 255
+
+Energy: 4
+5 Basic {D} Energy SVE 7
+1 Basic {M} Energy SFA 99
+1 Basic {P} Energy CRZ 156
+1 Neo Upper Energy TEF 162
+
+Total Cards: 60

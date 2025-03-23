@@ -1,0 +1,28 @@
+Pokémon: 5
+4 Doduo MEW 84
+3 Steelix PAR 125
+4 Dodrio MEW 85
+4 Onix PAR 90
+1 Manaphy CRZ-GG 6
+
+Trainer: 14
+2 Hassel TWM 205
+4 Professor's Research CEL 24
+4 Iono PAL 269
+3 Nest Ball SVI 255
+2 Boss's Orders LOR-TG 24
+3 Super Rod PAL 276
+1 Switch SLG 67 PH
+1 Luxurious Cape PAR 265
+3 Damage Pump LOR 156
+4 Ultra Ball PLB 90 PH
+3 Artazon PAF 76
+3 Great Ball SUM 119 PH
+1 Hero's Cape TEF 152
+1 Earthen Vessel PAR 163 PH
+
+Energy: 2
+7 Basic {M} Energy SVE 8
+2 Jet Energy PAL 190 PH
+
+Total Cards: 60

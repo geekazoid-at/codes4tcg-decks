@@ -1,0 +1,33 @@
+Pokémon: 9
+3 Flareon ex PRE 14
+1 Fezandipiti ex SFA 92
+3 Eevee PRE 74
+1 Budew PRE 4 PH
+2 Eevee ex PRE 75
+1 Mew ex MEW 151
+4 Hoothoot SCR 114
+4 Noctowl SCR 115
+1 Radiant Greninja ASR 46
+
+Trainer: 14
+2 Boss's Orders RCL 189
+4 Buddy-Buddy Poffin TWM 223
+3 Drayton SSP 174
+1 Tera Orb SSP 189
+1 Energy Switch ROS 109
+1 Earthen Vessel SFA 96
+1 Prime Catcher TEF 157
+3 Nest Ball SVI 181
+1 Night Stretcher SFA 61 PH
+3 Iono PAF 237
+2 Area Zero Underdepths SCR 174
+3 Ultra Ball BRS 186
+2 Crispin SCR 133
+2 Glass Trumpet SCR 135
+
+Energy: 3
+4 Basic {R} Energy SVE 10
+3 Basic {L} Energy SVE 12
+4 Basic {W} Energy SVE 11
+
+Total Cards: 60

@@ -1,0 +1,37 @@
+Pokémon: 10
+4 Medicham SVI 111
+3 Meditite SCR 77
+1 Meditite SCR 77 PH
+2 Brute Bonnet PAR 123
+1 Pecharunt ex SFA 39
+2 Morpeko PAR 121
+1 Fezandipiti ex SFA 38
+1 Radiant Hisuian Sneasler LOR 123
+1 Manaphy BRS 41
+1 Munkidori TWM 95
+
+Trainer: 18
+2 Arven OBF 186
+2 Arven SVI 166
+3 Ancient Booster Energy Capsule PAR 159
+1 Boss's Orders PAL 172
+2 Binding Mochi PRE 95
+2 Black Belt's Training PRE 96
+2 Buddy-Buddy Poffin PRE 101
+2 Counter Catcher PAR 160
+1 Earthen Vessel PRE 106
+3 Professor's Research PRE 122
+1 Binding Mochi SFA 55
+4 Ultra Ball PAF 91
+2 Nest Ball SVI 181
+1 Precious Trolley SSP 185
+3 Crispin PRE 105
+1 Gravity Gemstone SCR 137
+2 Night Stretcher SFA 61
+1 Super Rod PAL 188
+
+Energy: 2
+4 Basic {D} Energy SVE 7
+4 Basic {F} Energy SVE 6
+
+Total Cards: 60

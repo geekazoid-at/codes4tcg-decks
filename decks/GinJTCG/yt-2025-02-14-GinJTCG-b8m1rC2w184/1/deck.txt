@@ -1,0 +1,33 @@
+Pokémon: 10
+3 Xatu PAR 72
+1 Flittle PAR 80
+3 Espathra ex PAF 6
+1 Flutter Mane PR-SV 97
+1 Fezandipiti ex SFA 92
+3 Flittle SVI 100
+3 Natu PAR 71
+1 Radiant Alakazam SIT 59
+2 Budew PRE 4
+1 Mimikyu PR-SV 75
+
+Trainer: 15
+3 Earthen Vessel SFA 96
+1 Super Rod PAL 276
+2 Ultra Ball PLB 90 PH
+1 Hyper Aroma TWM 152
+4 Iono PAL 269
+2 Night Stretcher SSP 251
+2 Energy Retrieval SLG 59 PH
+2 Boss's Orders LOR-TG 24
+2 Pokémon League Headquarters OBF 192 PH
+4 Professor's Research CEL 24
+4 Buddy-Buddy Poffin TWM 223
+1 Briar SCR 171
+1 Rescue Board TWM 225
+1 Switch MEW 206
+2 Nest Ball SVI 255
+
+Energy: 1
+9 Basic {P} Energy SVE 5
+
+Total Cards: 60

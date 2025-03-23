@@ -1,0 +1,37 @@
+Pokémon: 9
+1 Eevee ex PRE 75
+1 Flareon ex PRE 146
+2 Slowpoke PGO 19
+1 Slowpoke SVI 204
+2 Bidoof CRZ-GG 29
+3 Leafeon ex PRE 6
+3 Eevee PRE 74
+3 Slowbro SVI 43
+2 Bibarel CRZ-GG 25
+
+Trainer: 17
+2 Boss's Orders RCL 189
+3 Buddy-Buddy Poffin TWM 223
+1 Tera Orb SSP 189
+1 Super Rod PAL 276
+1 Glass Trumpet PRE 110
+1 Nest Ball SVI 255
+1 Hero's Cape TEF 152
+2 Earthen Vessel SFA 96
+3 Irida ASR 147
+1 Night Stretcher SFA 61 PH
+1 Rigid Band MEW 165 PH
+4 Arven PAF 235
+4 Iono PAF 237
+1 Switch MEW 206
+1 Nest Ball SUM 158
+1 Technical Machine: Turbo Energize PAR 179
+4 Ultra Ball BRS 186
+
+Energy: 4
+3 Basic {R} Energy SVE 10
+1 Basic {L} Energy SVE 12
+3 Basic {G} Energy SVE 9
+3 Basic {W} Energy SVE 11
+
+Total Cards: 60

@@ -1,0 +1,38 @@
+Pokémon: 12
+3 Charmander MEW 4
+1 Charmeleon PAF 8
+1 Rotom V LOR 177
+2 Pidgey OBF 162
+2 Pidgeot ex OBF 164
+1 Duskull BRS 60
+1 Dusclops SFA 19
+1 Dusknoir SFA 20
+1 Lumineon V CRZ-GG 39
+1 Fezandipiti ex SFA 92
+1 Radiant Charizard CRZ 20
+2 Charizard ex OBF 223
+
+Trainer: 18
+4 Arven PAF 235
+3 Iono PAL 269
+2 Boss's Orders LOR-TG 24
+1 Thorton LOR 195
+1 Professor Turo's Scenario PAR 257
+4 Nest Ball SVI 255
+4 Buddy-Buddy Poffin TWM 223
+4 Ultra Ball PLB 90 PH
+4 Rare Candy PRC 135 PH
+2 Counter Catcher PAR 264
+2 Super Rod PAL 276
+1 Hisuian Heavy Ball ASR 146 PH
+1 Night Stretcher SFA 61 PH
+1 Unfair Stamp TWM 165
+1 Lost Vacuum LOR 217
+1 Canceling Cologne ASR 136 PH
+1 Defiance Band SVI 169 PH
+1 Forest Seal Stone SIT 156
+
+Energy: 1
+5 Basic {R} Energy OBF 230
+
+Total Cards: 60

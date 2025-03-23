@@ -1,0 +1,37 @@
+Pokémon: 8
+1 Skwovet SVI 222
+2 Bidoof CRZ-GG 29
+1 Snorlax LOR-TG 10
+4 Jigglypuff MEW 39
+1 Wigglytuff PAL 84
+3 Wigglytuff ex MEW 40
+1 Radiant Jirachi SIT 120
+2 Bibarel CRZ-GG 25
+
+Trainer: 18
+1 Town Store OBF 196
+4 Ultra Ball PLB 90 PH
+1 Super Rod PAL 276
+1 Artazon OBF 229
+1 Rocky Helmet BCR 133 PH
+2 Boss's Orders LOR-TG 24
+2 Nest Ball SVI 255
+1 Hero's Cape TEF 152
+1 Switch SLG 67 PH
+3 Arven PAF 235
+1 Pokégear 3.0 UNB 233
+2 Cheren's Care CRZ-GG 58
+3 Iono PAL 269
+1 Technical Machine: Evolution PAR 178
+1 Roseanne's Backup BRS 180
+1 Morty's Conviction TEF 211
+1 Pal Pad FLF 92 PH
+4 Buddy-Buddy Poffin TEF 144
+
+Energy: 4
+4 Therapeutic Energy PAL 193
+4 Double Turbo Energy BRS 151 PH
+2 Gift Energy LOR 171
+4 Mist Energy TEF 161
+
+Total Cards: 60

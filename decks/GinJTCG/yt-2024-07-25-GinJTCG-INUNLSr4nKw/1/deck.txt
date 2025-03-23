@@ -1,0 +1,37 @@
+Pokémon: 11
+1 Manaphy CRZ-GG 6
+3 Incineroar ex TEF 34
+1 Incineroar SIT 32
+1 Relicanth TEF 173
+1 Torracat SIT 31
+4 Litten SIT 30
+1 Radiant Heatran ASR 27
+1 Entei V CRZ-GG 36
+2 Pidgeot ex OBF 164
+1 Tatsugiri TWM 186
+2 Pidgey MEW 16
+
+Trainer: 17
+4 Rare Candy PRC 135 PH
+1 Defiance Band SVI 169
+1 Rescue Board TEF 159 PH
+4 Buddy-Buddy Poffin TEF 144
+2 Switch SLG 67 PH
+4 Arven PAF 235
+1 Super Rod PAL 276
+3 Ultra Ball PLB 90 PH
+1 Iono PAL 269
+1 Mela PAR 254
+3 Magma Basin BRS 185
+3 Boss's Orders LOR-TG 24
+1 Thorton LOR 195
+1 Forest Seal Stone SIT 156
+1 Counter Catcher PAR 264
+2 Earthen Vessel PAR 163 PH
+1 Nest Ball SVI 255
+
+Energy: 2
+7 Basic {R} Energy SVE 2
+1 Legacy Energy TWM 167
+
+Total Cards: 60

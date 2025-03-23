@@ -1,0 +1,39 @@
+Pokémon: 11
+3 Duskull SFA 18 PH
+3 Dusclops SFA 19 PH
+2 Dusknoir SFA 20 PH
+2 Pineco PAL 4 PH
+2 Forretress ex PAL 5
+1 Slowpoke SVI 204
+1 Slowbro PGO 20 PH
+1 Iron Hands ex PAR 248
+1 Tatsugiri TWM 186
+1 Bloodmoon Ursaluna ex TWM 216
+1 Rotom V LOR 177
+
+Trainer: 18
+4 Arven PAF 235
+2 Roxanne CRZ-GG 66
+1 Roxanne ASR 188
+2 Iono PAL 269
+1 Boss's Orders LOR-TG 24
+1 Thorton LOR 195
+4 Buddy-Buddy Poffin TWM 223
+3 Nest Ball SVI 255
+3 Ultra Ball PLB 90 PH
+1 Hisuian Heavy Ball ASR 146 PH
+1 Switch MEW 206
+3 Rare Candy PRC 135 PH
+2 Night Stretcher SFA 61 PH
+2 Counter Catcher PAR 264
+1 Forest Seal Stone SIT 156
+1 Technical Machine: Devolution PAR 177 PH
+1 Future Booster Energy Capsule PAR 164 PH
+1 Rescue Board TEF 159 PH
+
+Energy: 3
+6 Basic {G} Energy SVE 1 PH
+1 Basic {L} Energy SVE 4 PH
+1 Legacy Energy TWM 167
+
+Total Cards: 60

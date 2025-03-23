@@ -1,0 +1,38 @@
+Pokémon: 14
+1 Combee PAL 8
+2 Combee ASR 11
+1 Bidoof CRZ-GG 29
+1 Combee OBF 8 PH
+1 Manaphy CRZ-GG 6
+2 Hawlucha SVI 118
+3 Vespiquen ex OBF 96
+1 Iron Bundle PAR 56 PH
+1 Terapagos ex SCR 170
+3 Hoothoot SCR 114
+2 Noctowl SCR 115
+2 Fan Rotom SCR 118
+1 Bibarel CRZ-GG 25
+1 Radiant Alakazam SIT 59
+
+Trainer: 16
+2 Boss's Orders RCL 189
+4 Buddy-Buddy Poffin TWM 223
+1 Lost Vacuum LOR 217
+1 Super Rod PAL 276
+1 Technical Machine: Devolution PAR 177 PH
+1 Nest Ball SVI 255
+2 Earthen Vessel SFA 96
+2 Arven PAF 235
+1 Switch MEW 206
+1 Nest Ball SUM 158
+1 Gardenia's Vigor ASR 143 PH
+2 Area Zero Underdepths SCR 174
+4 Ultra Ball BRS 186
+2 Professor's Research CEL 24
+2 Gardenia's Vigor ASR 184
+1 Sparkling Crystal SCR 142
+
+Energy: 1
+10 Basic {G} Energy SVE 1 PH
+
+Total Cards: 60

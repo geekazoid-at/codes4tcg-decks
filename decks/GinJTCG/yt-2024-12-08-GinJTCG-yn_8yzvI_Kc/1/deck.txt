@@ -1,0 +1,27 @@
+Pokémon: 8
+4 Turtwig TEF 10
+3 Torterra ex TEF 12
+4 Teal Mask Ogerpon ex TWM 25
+4 Grotle BRS 7
+2 Illumise TWM 10
+1 Radiant Venusaur PGO 4
+2 Shaymin ASR 14
+1 Volbeat TWM 9
+
+Trainer: 11
+1 Professor Turo's Scenario PAR 257
+3 Professor's Research CEL 24
+3 Iono PAL 269
+1 Scoop Up Cyclone TWM 162
+3 Boss's Orders LOR-TG 24
+2 Nest Ball SVI 255
+3 Ultra Ball PLB 90 PH
+4 Bug Catching Set TWM 143
+3 Area Zero Underdepths SCR 174
+4 Super Rod PAL 276
+2 Rare Candy SVI 256
+
+Energy: 1
+10 Basic {G} Energy GEN 75 PH
+
+Total Cards: 60

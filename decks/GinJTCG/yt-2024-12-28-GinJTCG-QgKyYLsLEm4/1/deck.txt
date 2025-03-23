@@ -1,0 +1,30 @@
+Pokémon: 9
+4 Scyther MEW 123 PH
+3 Scizor OBF 205
+2 Scizor ex TEF 111
+1 Bidoof CRZ-GG 29
+1 Radiant Greninja ASR 46
+2 Beldum TEF 113
+2 Metang PR-SV 90
+1 Mew ex PR-SV 53
+1 Bibarel CRZ-GG 25
+
+Trainer: 13
+4 Professor's Research CEL 24
+4 Iono PAL 269
+3 Boss's Orders LOR-TG 24
+1 Lana's Aid TWM 207
+4 Buddy-Buddy Poffin TEF 144
+1 Ciphermaniac's Codebreaking TEF 198
+4 Ultra Ball PLB 90 PH
+3 Nest Ball SVI 255
+2 Super Rod PAL 276
+1 Prime Catcher TEF 157
+1 Full Metal Lab TEF 148 PH
+2 Jamming Tower TWM 153
+1 Night Stretcher SSP 251
+
+Energy: 1
+12 Basic {M} Energy SVE 8
+
+Total Cards: 60

@@ -1,0 +1,37 @@
+Pokémon: 10
+2 Tinkaton PAL 105 PH
+1 Tinkatuff PAL 104
+2 Dunsparce TEF 128
+4 Dudunsparce TEF 129
+1 Fezandipiti ex SFA 92
+1 Luxray PAL 71
+2 Dunsparce PAL 156
+3 Tinkaton ex PAL 262
+2 Fan Rotom SCR 118
+4 Tinkatink PAR 83 PH
+
+Trainer: 19
+4 Buddy-Buddy Poffin TWM 223
+3 Artazon OBF 229
+1 Boss's Orders LOR-TG 24
+1 Nest Ball SVI 255
+1 Roxanne ASR 188
+2 Capturing Aroma SIT 153
+1 Switch MEW 206
+2 Night Stretcher SSP 251
+4 Rare Candy PRC 135 PH
+2 Iono PAL 269
+2 Counter Catcher PAR 264
+1 Morty's Conviction TEF 211
+1 Pal Pad FLF 92 PH
+1 Zisu ASR 189
+1 Colress's Tenacity SFA 87
+3 Arezu LOR 189
+
+Energy: 4
+4 Double Turbo Energy ASR 216
+1 Basic {P} Energy CRZ 156
+1 Enriching Energy SSP 191
+2 Reversal Energy PAR 266
+
+Total Cards: 60

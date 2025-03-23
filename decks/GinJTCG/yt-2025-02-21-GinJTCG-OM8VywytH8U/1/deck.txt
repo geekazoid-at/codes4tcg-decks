@@ -1,0 +1,33 @@
+Pokémon: 11
+2 Origin Forme Palkia V ASR 39
+1 Fezandipiti ex SFA 92
+1 Iron Bundle PR-SV 66
+3 Greninja ex TWM 198
+4 Froakie OBF 56 PH
+1 Frogadier TWM 57 PH
+2 Pidgey OBF 162
+2 Origin Forme Palkia VSTAR ASR 40
+1 Radiant Greninja ASR 46
+2 Pidgeot ex OBF 217
+
+Trainer: 14
+4 Ultra Ball PLB 90 PH
+1 Super Rod PAL 276
+1 Artazon OBF 229
+2 Boss's Orders LOR-TG 24
+1 Canceling Cologne ASR 136 PH
+2 Nest Ball SVI 255
+1 Earthen Vessel SFA 96
+1 Prime Catcher TEF 157
+1 Technical Machine: Devolution PAR 177
+4 Rare Candy PRC 135 PH
+3 Iono PAL 269
+4 Irida SWSHALT 101
+1 Handheld Fan TWM 150 PH
+3 Buddy-Buddy Poffin TWM 223
+
+Energy: 2
+9 Basic {W} Energy GEN 77 PH
+3 Double Turbo Energy ASR 216
+
+Total Cards: 60

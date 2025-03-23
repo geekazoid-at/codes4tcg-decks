@@ -1,0 +1,33 @@
+Pokémon: 8
+4 Teal Mask Ogerpon ex TWM 25
+3 Entei V BRS 22
+1 Mew ex PR-SV 53
+1 Squawkabilly ex PAL 264
+1 Fezandipiti ex SFA 92
+1 Latias ex SSP 239
+1 Radiant Charizard CRZ 20
+1 Iron Bundle PR-SV 66
+
+Trainer: 16
+4 Judge SIT-TG 25
+3 Boss's Orders LOR-TG 24
+1 Iono PAL 269
+1 Briar SCR 171
+4 Nest Ball SVI 255
+4 Earthen Vessel SFA 96
+4 Energy Switch SUM 117 PH
+4 Trekking Shoes ASR 215
+2 Night Stretcher SSP 251
+1 Ultra Ball PLB 90 PH
+1 Hisuian Heavy Ball ASR 146 PH
+1 Arven SVI 249
+1 Prime Catcher TEF 157
+1 Superior Energy Retrieval PAL 277
+2 Forest Seal Stone SIT 156
+3 Area Zero Underdepths SCR 174
+
+Energy: 2
+3 Basic {R} Energy OBF 230
+7 Basic {G} Energy SVE 1
+
+Total Cards: 60

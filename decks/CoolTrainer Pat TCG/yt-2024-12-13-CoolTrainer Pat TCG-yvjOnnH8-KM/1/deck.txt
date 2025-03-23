@@ -1,0 +1,34 @@
+Pokémon: 19
+4 Slakoth PAL 160
+1 Vigoroth SSP 146
+3 Slaking ex SSP 147
+2 Pidgey MEW 169
+2 Pidgeot ex OBF 164
+2 Rotom V LOR 58
+2 Archeops SIT 147
+1 Minccino TEF 136
+1 Cinccino TEF 137
+1 Fezandipiti ex SFA 38
+
+Trainer: 31
+4 Arven SVI 166
+3 Iono PAL 185
+2 Boss's Orders PAL 172
+4 Rare Candy SVI 191
+4 Buddy-Buddy Poffin TEF 144
+3 Nest Ball SVI 181
+2 Ultra Ball SVI 196
+2 Night Stretcher SFA 61
+2 Unidentified Fossil SIT 165
+1 Canceling Cologne ASR 136
+1 Prime Catcher TEF 157
+1 Counter Catcher PAR 160
+1 Forest Seal Stone SIT 156
+1 Big Air Balloon MEW 155
+
+Energy: 10
+4 Boomerang Energy TWM 166
+3 Mist Energy TEF 161
+3 Gift Energy LOR 171
+
+Total Cards: 60

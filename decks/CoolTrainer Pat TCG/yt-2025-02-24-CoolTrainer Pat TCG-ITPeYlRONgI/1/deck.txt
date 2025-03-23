@@ -1,0 +1,36 @@
+Pokémon: 10
+4 Joltik SCR 150
+1 Larvitar OBF 105
+2 Galvantula ex SCR 51
+1 Latias ex SSP 239
+1 Rotom V LOR 58
+1 Galvantula SFA 2
+1 Fezandipiti ex SFA 38
+2 Larvitar OBF 105 PH
+3 Tyranitar ex PRE 64
+1 Pupitar OBF 106
+
+Trainer: 16
+3 Ultra Ball SVI 196
+3 Rare Candy PAF 89
+2 Powerglass SFA 63
+2 Crispin SCR 133
+2 Buddy-Buddy Poffin TEF 144
+3 Iono PAL 185
+1 Jacq SVI 175
+1 Night Stretcher SFA 61
+1 Super Rod PAL 188
+2 Cycling Road MEW 157
+1 Crispin SCR 164
+1 Forest Seal Stone SIT 156
+2 Nest Ball PAF 84
+1 Precious Trolley SSP 185
+2 Boss's Orders PAL 172
+4 Arven SVI 166
+
+Energy: 3
+5 Basic {G} Energy SVE 1
+2 Basic {F} Energy SVE 6
+5 Basic {L} Energy SVE 4
+
+Total Cards: 60

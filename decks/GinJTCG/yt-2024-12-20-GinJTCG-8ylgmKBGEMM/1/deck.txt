@@ -1,0 +1,37 @@
+Pokémon: 6
+1 Fezandipiti ex SFA 92
+4 Tatsugiri TWM 186
+1 Bloodmoon Ursaluna ex TWM 216
+1 Cornerstone Mask Ogerpon ex TWM 215
+1 Radiant Charizard CRZ 20
+4 Dondozo SVI 207
+
+Trainer: 22
+3 Hassel TWM 205
+3 Crispin SCR 164
+1 Exp. Share PRC 128 PH
+1 Hisuian Heavy Ball ASR 146 PH
+1 Brilliant Blender SSP 164
+1 Super Rod PAL 276
+1 Technical Machine: Devolution PAR 177 PH
+1 Town Store OBF 196 PH
+4 Nest Ball SVI 255
+3 Artazon PAL 171 PH
+1 Penny SVI 252
+4 Pokégear 3.0 UNB 182 PH
+1 Night Stretcher SFA 61 PH
+1 Technical Machine: Crisis Punch PAF 90 PH
+4 Arven PAF 235
+1 Earthen Vessel SFA 96
+1 Lucky Helmet AOR 77 PH
+2 Iono PAL 269
+2 Counter Catcher PAR 264
+1 Switch Cart ASR 154 PH
+1 Defiance Band SVI 169 PH
+1 Bravery Charm PAL 173 PH
+
+Energy: 2
+5 Basic {F} Energy SVE 6
+4 Basic {R} Energy OBF 230
+
+Total Cards: 60

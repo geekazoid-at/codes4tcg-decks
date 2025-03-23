@@ -1,0 +1,42 @@
+Pokémon: 11
+2 Simisear PAR 21
+2 Simisage PAR 5
+2 Simipour PAR 42
+2 Panpour PAR 41
+2 Pansage PAR 4
+2 Pansear PAR 20
+2 Bidoof CRZ-GG 29
+2 Bibarel CRZ-GG 25
+1 Manaphy CRZ-GG 6
+1 Skwovet SVI 222
+1 Radiant Charizard CRZ 20
+
+Trainer: 19
+3 Arven PAF 235
+1 Arezu LOR 189
+1 Boss's Orders LOR-TG 24
+2 Iono PAL 269
+2 Hassel TWM 205
+1 Thorton LOR 195
+1 Lana's Aid TWM 207
+3 Buddy-Buddy Poffin TEF 144
+4 Ultra Ball PLB 90 PH
+1 Hisuian Heavy Ball ASR 146 PH
+1 Switch SLG 67 PH
+2 Super Rod PAL 276
+2 Energy Loto GRI 122 PH
+1 Artazon OBF 229
+1 Mesagoza SVI 178 PH
+1 Nest Ball SVI 255
+1 Technical Machine: Evolution PAR 178 PH
+1 Rescue Board TEF 159 PH
+1 Technical Machine: Crisis Punch PAF 90 PH
+
+Energy: 5
+4 Luminous Energy TWM 226
+1 Legacy Energy TWM 167
+2 Reversal Energy PAR 266
+2 Basic {R} Energy OBF 230
+2 Basic {G} Energy GEN 75 PH
+
+Total Cards: 60

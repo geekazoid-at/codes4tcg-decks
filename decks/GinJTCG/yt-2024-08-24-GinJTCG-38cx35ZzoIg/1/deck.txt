@@ -1,0 +1,30 @@
+Pokémon: 9
+Pokémon: 7
+4 Rotom V LOR 58
+3 Rotom VSTAR CRZ 46
+1 Morpeko TWM 72
+1 Iron Bundle PR-SV 66
+1 Fezandipiti ex SFA 92
+1 Miraidon ex SVI 244
+2 Cramorant LOR 50 PH
+
+Trainer: 14
+4 Professor's Research CEL 24
+2 Explorer's Guidance TEF 200
+1 Boss's Orders LOR-TG 24
+4 Ultra Ball PLB 90 PH
+4 Electric Generator SVI 170
+2 Tool Box LOR 168
+1 Kamado ASR 187
+1 Prime Catcher TEF 157
+4 Technical Machine: Devolution PAR 177
+4 Technical Machine: Crisis Punch PAF 90
+4 Rescue Board TEF 159
+3 Exp. Share SVI 174
+2 Forest Seal Stone SIT 156
+1 Vengeful Punch OBF 197
+
+Energy: 1
+10 Basic {L} Energy SVE 4
+
+Total Cards: 60

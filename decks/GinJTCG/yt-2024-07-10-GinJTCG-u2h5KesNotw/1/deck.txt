@@ -1,0 +1,35 @@
+Pokémon: 8
+4 Ekans MEW 23
+3 Arbok ex MEW 24
+2 Bidoof CRZ-GG 29
+2 Bibarel CRZ-GG 25
+1 Manaphy CRZ-GG 6
+1 Radiant Greninja ASR 46
+1 Girafarig TWM 83 PH
+1 Farigiraf ex TEF 108
+
+Trainer: 18
+3 Arven PAF 235
+3 Iono PAL 269
+3 Judge SIT-TG 25
+1 Roxanne ASR 188
+1 Eri TEF 210
+1 Boss's Orders LOR-TG 24
+4 Buddy-Buddy Poffin TEF 144
+4 Ultra Ball PLB 90 PH
+4 Dark Patch LOR 216
+2 Hand Trimmer TEF 150
+2 Switch SLG 67 PH
+1 Earthen Vessel PAR 163 PH
+1 Super Rod PAL 276
+1 Counter Catcher PAR 264
+1 Unfair Stamp TWM 165
+1 Technical Machine: Devolution PAR 177 PH
+1 Technical Machine: Turbo Energize PAR 179 PH
+2 Pokémon League Headquarters OBF 192
+
+Energy: 2
+8 Basic {D} Energy SVE 7
+1 Luminous Energy TWM 226
+
+Total Cards: 60

@@ -1,0 +1,39 @@
+Pokémon: 10
+2 Regirock ASR 75 PH
+2 Regieleki ASR 51 PH
+1 Fezandipiti ex SFA 92
+2 Regidrago ASR 118 PH
+2 Regice ASR 37 PH
+1 Squawkabilly ex PAL 264
+2 Pikachu ex SSP 57
+2 Regigigas ASR 130
+1 Radiant Greninja ASR 46
+2 Registeel ASR 108 PH
+
+Trainer: 16
+3 Ultra Ball PLB 90 PH
+1 Precious Trolley SSP 185
+2 Super Rod PAL 276
+1 Professor Turo's Scenario PAR 257
+1 Boss's Orders LOR-TG 24
+4 Nest Ball SVI 255
+2 Earthen Vessel SFA 96
+3 Night Stretcher SFA 61 PH
+1 Kieran TWM 218
+2 Hisuian Heavy Ball ASR 146 PH
+4 Area Zero Underdepths SCR 174
+1 Iono PAL 269
+1 Pal Pad FLF 92 PH
+2 Switch Cart ASR 154 PH
+4 Professor's Research CEL 24
+1 Irida ASR 186
+
+Energy: 6
+2 Luminous Energy TWM 226
+2 Basic {G} Energy SVE 1
+1 Gift Energy LOR 171 PH
+2 Basic {M} Energy SFA 99
+2 Basic {L} Energy SVE 4 PH
+1 Basic {W} Energy SVE 3
+
+Total Cards: 60

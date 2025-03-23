@@ -1,0 +1,29 @@
+Pokémon: 7
+3 Gible PAR 94 PH
+3 Garchomp ex PAR 38
+4 Swablu SSP 148
+1 Gabite PAR 95
+1 Manaphy BRS 41
+1 Radiant Greninja ASR 46
+4 Altaria SIT 143
+
+Trainer: 14
+4 Ultra Ball SVI 196
+2 Switch SVI 194
+4 Irida ASR 147
+2 Powerglass SFA 63
+2 Rare Candy SVI 191
+2 Earthen Vessel PAR 163
+2 Feather Ball ASR 141
+4 Buddy-Buddy Poffin TEF 144
+2 Night Stretcher SFA 61
+1 Technical Machine: Crisis Punch PAF 90
+2 Iono PAF 80
+1 Survival Brace TWM 164
+2 Boss's Orders RCL 154
+4 Carmine TWM 145
+
+Energy: 1
+9 Basic {F} Energy SVE 14
+
+Total Cards: 60

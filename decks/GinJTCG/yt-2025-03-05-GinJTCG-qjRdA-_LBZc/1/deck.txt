@@ -1,0 +1,35 @@
+Pokémon: 7
+2 Aegislash PAR 210
+2 Aegislash PR-SV 60
+1 Budew PRE 4
+3 Doublade PAR 132
+4 Honedge PAR 131
+1 Aegislash ex PAR 135
+2 Tatsugiri TWM 186
+
+Trainer: 17
+4 Buddy-Buddy Poffin TWM 223
+1 Rescue Board TWM 225
+2 Ultra Ball PLB 90 PH
+1 Super Rod PAL 276
+1 Pokémon League Headquarters OBF 192 PH
+2 Boss's Orders LOR-TG 24
+1 Town Store OBF 196 PH
+4 Nest Ball SVI 255
+1 Earthen Vessel SFA 96
+2 Luxurious Cape PAR 166 PH
+4 Arven PAF 235
+1 Night Stretcher SSP 251
+3 Rare Candy PRC 135 PH
+3 Iono PAL 269
+1 Counter Catcher PAR 264
+3 Colress's Tenacity SFA 87
+1 Grand Tree SCR 136
+
+Energy: 4
+1 Reversal Energy PAR 266
+2 Mist Energy TEF 161 PH
+6 Basic {M} Energy GEN 82 PH
+1 Jet Energy SSP 252
+
+Total Cards: 60

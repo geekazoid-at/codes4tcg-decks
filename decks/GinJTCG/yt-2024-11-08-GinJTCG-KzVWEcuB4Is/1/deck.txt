@@ -1,0 +1,29 @@
+Pokémon: 6
+1 Relicanth TEF 173
+4 Duraludon SCR 106
+1 Fezandipiti ex SFA 92
+1 Radiant Greninja ASR 46
+4 Luxray CRZ 44
+3 Archaludon ex SSP 130
+
+Trainer: 15
+2 Pokégear 3.0 UNB 182 PH
+3 Earthen Vessel SFA 96
+3 Pokémon Catcher BKP 105 PH
+4 Ultra Ball PLB 90 PH
+1 Iono PAL 269
+1 Professor Turo's Scenario PAR 257
+3 PokéStop PGO 68
+2 Boss's Orders LOR-TG 24
+2 Judge SIT-TG 25
+4 Professor's Research CEL 24
+2 Pal Pad FLF 92 PH
+1 Prime Catcher TEF 157
+1 Canceling Cologne ASR 136 PH
+4 Night Stretcher SFA 61 PH
+4 Nest Ball SVI 255
+
+Energy: 1
+9 Basic {M} Energy SVE 8
+
+Total Cards: 60

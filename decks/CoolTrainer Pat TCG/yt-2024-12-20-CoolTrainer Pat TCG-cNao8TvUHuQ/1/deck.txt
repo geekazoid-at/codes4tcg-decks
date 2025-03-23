@@ -1,0 +1,34 @@
+Pokémon: 7
+4 Spidops ex SVI 19
+2 Bidoof CRZ-GG 29
+1 Pidgeot V LOR 137
+4 Rotom SSP 61
+4 Tarountula SVI 16
+1 Snorlax SWSHALT 107
+2 Bibarel CRZ-GG 25
+
+Trainer: 19
+2 Counter Catcher PAR 160
+1 Super Rod PAL 276
+2 Artazon OBF 229
+1 Forest Seal Stone SIT 156
+1 Earthen Vessel SFA 96
+1 Miss Fortune Sisters LOR 209
+1 Miss Fortune Sisters LOR 164 PH
+4 Nest Ball SVI 181
+1 Pal Pad SVI 182 PH
+1 Night Stretcher SFA 61 PH
+1 Erika's Invitation MEW 203
+3 Arven PAF 235
+3 Iono PAF 237
+1 Switch MEW 206
+1 Hyper Aroma TWM 152
+2 Ultra Ball BRS 186
+2 Counter Catcher PAR 264
+4 Buddy-Buddy Poffin TEF 144
+3 Gravity Gemstone SCR 137
+
+Energy: 1
+7 Basic {L} Energy SVE 4 PH
+
+Total Cards: 60

@@ -1,0 +1,26 @@
+Pokémon: 5
+2 Iron Hands ex PAR 248
+3 Iron Leaves ex TEF 25
+4 Iron Crown ex TEF 206
+4 Miraidon TEF 121
+1 Iron Thorns ex TWM 77
+
+Trainer: 12
+4 Professor's Research CEL 24
+4 Techno Radar PAR 180 PH
+1 Reboot Pod TEF 158
+3 Iono PAL 269
+4 Pokégear 3.0 UNB 182 PH
+3 Future Booster Energy Capsule PAR 164 PH
+4 Crispin SCR 164
+3 Boss's Orders LOR-TG 24
+1 Counter Catcher PAR 264
+3 Exp. Share PRC 128 PH
+2 Town Store OBF 196 PH
+3 Judge SIT-TG 25
+
+Energy: 2
+7 Basic {G} Energy SVALT 131
+4 Basic {L} Energy SVALT 134
+
+Total Cards: 60

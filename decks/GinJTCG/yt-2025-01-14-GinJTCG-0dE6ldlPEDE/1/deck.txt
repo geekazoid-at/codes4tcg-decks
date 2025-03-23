@@ -1,0 +1,31 @@
+Pokémon: 3
+1 Ditto PAF 201
+4 Cramorant LOR 50 PH
+4 Articuno PGO 24
+
+Trainer: 20
+4 Pokégear 3.0 UNB 182 PH
+1 Irida ASR 186
+4 Switch Cart ASR 154
+4 Switch SLG 67 PH
+2 Super Rod PAL 276
+3 Night Stretcher SSP 251
+2 Boss's Orders LOR-TG 24
+2 Defiance Band SVI 169 PH
+2 Roxanne CRZ-GG 66
+4 Pokémon League Headquarters OBF 192 PH
+2 Call Bell SSP 165 PH
+3 Lost Vacuum LOR 217
+1 Pal Pad FLF 92 PH
+1 Hisuian Heavy Ball ASR 146 PH
+2 Counter Catcher PAR 264
+1 Technical Machine: Crisis Punch PAF 90 PH
+1 Precious Trolley SSP 185
+2 Colress's Experiment LOR 190
+4 Nest Ball SVI 255
+2 Colress's Experiment CRZ-GG 59
+
+Energy: 1
+4 Jet Energy PAL 190
+
+Total Cards: 60

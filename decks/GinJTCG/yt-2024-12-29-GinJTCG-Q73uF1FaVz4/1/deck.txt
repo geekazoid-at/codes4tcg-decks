@@ -1,0 +1,26 @@
+Pokémon: 7
+2 Sinistcha TWM 22
+4 Teal Mask Ogerpon ex TWM 25
+3 Poltchageist TWM 20
+2 Sinistcha ex TWM 23
+1 Wyrdeer V ASR 180
+1 Fezandipiti ex SFA 92
+1 Radiant Greninja ASR 46
+
+Trainer: 11
+2 Earthen Vessel SFA 96
+1 Super Rod PAL 276
+3 Ultra Ball PLB 90 PH
+3 Iono PAL 269
+1 Night Stretcher SSP 251
+3 Boss's Orders LOR-TG 24
+4 Professor's Research CEL 24
+1 Hisuian Heavy Ball ASR 146 PH
+1 Unfair Stamp TWM 165
+4 Bug Catching Set TWM 143
+4 Nest Ball SVI 255
+
+Energy: 1
+19 Basic {G} Energy SVE 1
+
+Total Cards: 60

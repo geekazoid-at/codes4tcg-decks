@@ -1,0 +1,32 @@
+Pokémon: 6
+3 Bloodmoon Ursaluna SFA 25
+2 Tatsugiri TWM 186
+1 Fezandipiti ex SFA 92
+1 Sandy Shocks TEF 98 PH
+1 Ting-Lu TWM 110
+1 Radiant Alakazam SIT 59
+
+Trainer: 18
+4 Arven PAF 235
+3 Hassel TWM 205
+4 Iono PAL 269
+2 Boss's Orders LOR-TG 24
+1 Grant CRZ-GG 62
+4 Nest Ball SVI 255
+3 Ultra Ball PLB 90 PH
+1 Hisuian Heavy Ball ASR 146 PH
+2 Switch Cart ASR 154 PH
+3 Letter of Encouragement OBF 189
+1 Superior Energy Retrieval PAL 277
+2 Super Rod PAL 276
+1 Earthen Vessel PAR 163 PH
+1 Unfair Stamp TWM 165
+1 Counter Catcher PAR 264
+4 Vengeful Punch OBF 197
+2 Rescue Board TEF 159 PH
+3 Artazon PAL 171 PH
+
+Energy: 1
+9 Basic {F} Energy SVE 6
+
+Total Cards: 60

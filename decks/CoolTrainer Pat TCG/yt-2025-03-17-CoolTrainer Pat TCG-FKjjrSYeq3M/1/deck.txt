@@ -1,0 +1,35 @@
+Pokémon: 10
+2 Quaquaval SVI 54
+2 Quaxly SVI 52
+2 Charmander PAF 7
+1 Quaxwell SSP 51
+1 Charmeleon PAF 8
+1 Rotom V LOR 58
+3 Armarouge ex PAR 27
+2 Charizard PGO 10
+1 Charcadet SSP 32 PH
+2 Charcadet SSP 32
+
+Trainer: 17
+4 Rare Candy PAF 89
+2 Powerglass SFA 63
+1 Ultra Ball PAF 91
+1 Earthen Vessel PAR 163
+3 Buddy-Buddy Poffin TEF 144
+1 Mela PAR 167
+3 Iono PAL 185
+1 Night Stretcher SFA 61
+1 Poké Vital A SFA 62
+1 Super Rod PAL 188
+1 Technical Machine: Evolution PAR 178
+2 Ultra Ball CRZ 146
+1 Arezu LOR 153
+1 Forest Seal Stone SIT 156
+3 Nest Ball PAF 84
+2 Boss's Orders PAL 172
+4 Arven SVI 166
+
+Energy: 1
+11 Basic {R} Energy SVE 2
+
+Total Cards: 60

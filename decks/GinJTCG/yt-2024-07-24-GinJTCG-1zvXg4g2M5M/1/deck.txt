@@ -1,0 +1,36 @@
+Pokémon: 9
+3 Gothitelle PAL 92 PH
+2 Pidgey MEW 16
+1 Gothorita PAL 213
+1 Manaphy CRZ-GG 6
+1 Rotom V LOR 177
+2 Pidgeot ex OBF 217
+2 Mimikyu PR-SV 75
+3 Gothita PAL 90 PH
+1 Radiant Alakazam SIT 59
+
+Trainer: 19
+1 Lost Vacuum LOR 217
+4 Ultra Ball PLB 90 PH
+1 Exp. Share PRC 128 PH
+1 Unfair Stamp TWM 165
+2 Judge SIT-TG 25
+2 Super Rod PAL 276
+1 Technical Machine: Devolution PAR 177 PH
+1 Artazon OBF 229
+1 Forest Seal Stone SIT 156
+1 Professor Turo's Scenario PAR 257
+1 Boss's Orders LOR-TG 24
+2 Nest Ball SVI 255
+3 Arven PAF 235
+4 Rare Candy PRC 135 PH
+3 Iono PAL 269
+1 Earthen Vessel PAR 163 PH
+1 Eri TEF 210
+3 Buddy-Buddy Poffin TEF 144
+1 Handheld Fan TWM 150 PH
+
+Energy: 1
+10 Basic {P} Energy SVE 5 PH
+
+Total Cards: 60

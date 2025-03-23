@@ -1,0 +1,35 @@
+Pokémon: 10
+2 Uxie SSP 78 PH
+1 Spinda SIT 141 PH
+1 Bisharp CRZ 93 PH
+1 Froslass TWM 53 PH
+3 Kingambit OBF 150 PH
+2 Snorunt PAR 37
+2 Pawniard OBF 148
+2 Bisharp CRZ 93
+1 Froslass TWM 174
+1 Pawniard OBF 148 PH
+
+Trainer: 15
+2 Ultra Ball SVI 196
+2 Switch SVI 194
+2 Energy Search SVI 172
+3 Buddy-Buddy Poffin TEF 144
+3 Trekking Shoes ASR 156
+3 Counter Catcher PAR 160
+3 Iono PAL 185
+2 Super Rod PAL 188
+2 Technical Machine: Evolution PAR 178
+3 Pokégear 3.0 SVI 186
+1 Prime Catcher TEF 157
+2 Arezu LOR 153
+2 Arven SVI 166
+3 Boss's Orders PAL 172
+2 Beach Court SVI 167
+
+Energy: 3
+3 Basic {P} Energy SVE 5
+3 Basic {M} Energy SVE 8
+3 Luminous Energy PAL 191
+
+Total Cards: 60

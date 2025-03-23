@@ -1,0 +1,36 @@
+Pokémon: 6
+2 Regirock ASR 75 PH
+2 Regieleki ASR 51 PH
+3 Regidrago ASR 118 PH
+2 Regice ASR 37 PH
+2 Regigigas ASR 130
+2 Registeel ASR 108 PH
+
+Trainer: 15
+3 Switch Cart ASR 154
+4 Ultra Ball PLB 90 PH
+3 Super Rod PAL 276
+1 Kamado ASR 187
+1 Boss's Orders LOR-TG 24
+4 Nest Ball SVI 255
+3 Artazon PAL 171 PH
+1 Hisuian Heavy Ball ASR 146 PH
+1 Thorton LOR 195
+4 Iono PAL 269
+3 Earthen Vessel PAR 163 PH
+2 Counter Catcher PAR 264
+1 Morty's Conviction TEF 211
+4 Professor's Research CEL 24
+
+Energy: 9
+2 Basic {F} Energy GEN 80 PH
+1 Luminous Energy TWM 226
+1 Legacy Energy TWM 167
+1 Basic {M} Energy GEN 82 PH
+2 Gift Energy LOR 171 PH
+1 Basic {W} Energy GEN 77 PH
+1 Basic {L} Energy CRZ 155
+2 Basic {G} Energy GEN 75 PH
+1 Basic {R} Energy OBF 230
+
+Total Cards: 60

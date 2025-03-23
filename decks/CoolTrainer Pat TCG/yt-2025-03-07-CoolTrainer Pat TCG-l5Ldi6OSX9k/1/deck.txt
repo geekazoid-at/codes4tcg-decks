@@ -1,0 +1,27 @@
+Pokémon: 6
+3 Teal Mask Ogerpon ex TWM 211
+3 Venusaur ex SCR 1
+3 Ditto MEW 132
+1 Budew PRE 4
+3 Bulbasaur MEW 1
+2 Ivysaur MEW 2
+
+Trainer: 13
+3 Ultra Ball PAF 91
+2 Rare Candy SVI 191
+3 Energy Switch SVI 173 PH
+3 Buddy-Buddy Poffin TEF 144
+1 Grand Tree SCR 136
+3 Colress's Tenacity SFA 57
+2 Big Air Balloon MEW 155
+3 Iono PAF 80
+1 Heavy Baton TEF 151
+2 Area Zero Underdepths PRE 94
+3 Bug Catching Set TWM 143
+2 Boss's Orders PAL 172
+4 Arven SVI 166
+
+Energy: 1
+13 Basic {G} Energy SVE 1
+
+Total Cards: 60

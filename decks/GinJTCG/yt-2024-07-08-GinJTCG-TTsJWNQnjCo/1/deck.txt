@@ -1,0 +1,27 @@
+Pokémon: 1
+4 Iron Thorns ex TWM 77
+
+Trainer: 16
+4 Iono PAL 269
+4 Boss's Orders LOR-TG 24
+4 Crushing Hammer SUM 115 PH
+4 Pokégear 3.0 UNB 182 PH
+2 Lost Vacuum LOR 217
+2 Techno Radar PAR 180 PH
+2 Earthen Vessel PAR 163 PH
+1 Enhanced Hammer GRI 124 PH
+4 Future Booster Energy Capsule PAR 164 PH
+1 Technical Machine: Turbo Energize PAR 179 PH
+3 Lost City LOR 161 PH
+4 Arven SVI 235
+4 Judge PAF 228
+2 Eri TEF 210
+1 Canceling Cologne ASR 136 PH
+1 Technical Machine: Devolution PAR 177 PH
+
+Energy: 3
+1 Legacy Energy TWM 167
+8 Basic {L} Energy 48
+4 Double Turbo Energy ASR 216
+
+Total Cards: 60

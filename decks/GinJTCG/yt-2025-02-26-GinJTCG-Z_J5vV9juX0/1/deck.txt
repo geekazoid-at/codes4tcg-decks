@@ -1,0 +1,37 @@
+Pokémon: 9
+1 Uxie SSP 78 PH
+4 Iron Crown ex TEF 206
+1 Bloodmoon Ursaluna ex TWM 216
+2 Iron Valiant ex PAR 225
+1 Iron Bundle PR-SV 66
+3 Miraidon TEF 121
+1 Fezandipiti ex SFA 92
+1 Mew ex PR-SV 53
+2 Iron Valiant ex PAR 249
+
+Trainer: 18
+3 Switch Cart ASR 154
+1 Earthen Vessel SFA 96
+3 Switch SLG 67 PH
+4 Arven PAF 235
+1 Super Rod PAL 276
+3 Techno Radar PAR 180 PH
+3 Iono PAL 269
+1 Gravity Mountain SSP 250
+1 Kieran TWM 218
+1 Surfer SSP 235
+1 Technical Machine: Devolution PAR 177 PH
+1 Ultra Ball BRS 186
+2 Boss's Orders LOR-TG 24
+3 Future Booster Energy Capsule PAR 164 PH
+2 Professor's Research CEL 24
+1 Prime Catcher TEF 157
+1 Counter Catcher PAR 264
+1 Nest Ball SVI 255
+
+Energy: 3
+7 Basic {P} Energy SVE 5
+2 Jet Energy PAL 190 PH
+2 Gift Energy LOR 171 PH
+
+Total Cards: 60

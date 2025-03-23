@@ -1,0 +1,36 @@
+Pokémon: 9
+1 Munkidori SFA 72
+2 Dunsparce TEF 128
+1 Lumineon V CRZ-GG 39
+2 Dudunsparce TEF 129
+2 Brute Bonnet PAR 123
+4 Venonat MEW 48
+1 Radiant Hisuian Sneasler LOR 123
+1 Bloodmoon Ursaluna ex TWM 216
+4 Venomoth MEW 49
+
+Trainer: 18
+1 Boss's Orders RCL 189
+3 Buddy-Buddy Poffin TWM 223
+1 Secret Box TWM 163
+1 Super Rod PAL 276
+1 Earthen Vessel SFA 96
+4 Nest Ball SVI 181
+1 Thorton LOR 167 PH
+1 Night Stretcher SFA 61 PH
+3 Arven PAF 235
+3 Iono PAF 237
+1 Switch MEW 206
+4 Binding Mochi SFA 55
+1 Practice Studio PAL 186
+3 Ultra Ball BRS 186
+2 Ancient Booster Energy Capsule PAR 159 PH
+1 Counter Catcher PAR 264
+1 Colress's Tenacity SFA 87
+4 Salvatore TEF 160
+
+Energy: 2
+1 Luminous Energy TWM 226
+5 Basic {G} Energy SVE 1 PH
+
+Total Cards: 60

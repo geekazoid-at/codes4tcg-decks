@@ -1,0 +1,25 @@
+Pokémon: 9
+3 Palkia SSP 136
+1 Palkia SSP 136 PH
+4 Oddish MEW 43 PH
+4 Gloom MEW 44 PH
+3 Vileplume MEW 45 PH
+2 Hisuian Basculin ASR 43
+1 Hisuian Basculegion LOR 45
+1 Radiant Greninja ASR 46
+1 Fezandipiti ex SFA 92
+
+Trainer: 7
+4 Nest Ball SVI 181
+4 Buddy-Buddy Poffin TWM 223
+2 Counter Catcher PAR 264
+1 Scoop Up Cyclone TWM 162
+4 Arezu LOR 153
+2 Irida ASR 147
+1 Lana's Aid TWM 219
+
+Energy: 2
+11 Basic {G} Energy SVE 1 PH
+11 Basic {W} Energy SVE 3 PH
+
+Total Cards: 60

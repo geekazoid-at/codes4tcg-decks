@@ -1,0 +1,31 @@
+Pokémon: 8
+1 Manaphy CRZ-GG 6
+3 Scovillain ex SSP 37
+3 Doduo MEW 84
+3 Dodrio MEW 85
+1 Fezandipiti ex SFA 92
+1 Fan Rotom SCR 118
+1 Radiant Charizard CRZ 20
+4 Capsakid SVI 28 PH
+
+Trainer: 16
+4 Iono PAL 269
+2 Boss's Orders LOR-TG 24
+2 Arven PAF 235
+2 Professor's Research CEL 24
+4 Ultra Ball PLB 90 PH
+3 Buddy-Buddy Poffin TWM 223
+4 Damage Pump LOR 156
+2 Earthen Vessel SFA 96
+2 Night Stretcher SSP 251
+2 Nest Ball SVI 255
+1 Super Rod PAL 276
+1 Canceling Cologne ASR 136 PH
+1 Secret Box TWM 163
+2 Rescue Board TEF 159 PH
+4 Magma Basin BRS 185
+
+Energy: 1
+7 Basic {R} Energy OBF 230
+
+Total Cards: 60

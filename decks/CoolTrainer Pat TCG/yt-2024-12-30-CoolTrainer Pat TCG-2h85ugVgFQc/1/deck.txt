@@ -1,0 +1,41 @@
+Pokémon: 13
+1 Rotom V LOR 177
+1 Fuecoco PAL 35
+1 Fuecoco PAR 23
+2 Pidgeot ex OBF 225
+2 Pidgey OBF 207
+2 Skeledirge SSP 31
+1 Fuecoco SSP 29
+1 Fezandipiti ex SFA 92
+1 Fuecoco PAL 34
+1 Crocalor PAL 36 PH
+1 Skeledirge ex PAR 137
+1 Radiant Charizard CRZ 20
+1 Lumineon V CRZ-GG 39
+
+Trainer: 19
+4 Rare Candy PAF 89
+1 Earthen Vessel SFA 96
+1 Counter Gain SSP 169
+1 Defiance Band SVI 169
+4 Arven PAF 235
+3 Iono PAF 237
+1 Kieran TWM 154
+2 Magma Basin BRS 185
+3 Ultra Ball BRS 186
+2 Night Stretcher SFA 61
+1 Lost Vacuum LOR 217
+1 Pokégear 3.0 SVI 186
+1 Forest Seal Stone SIT 156
+3 Nest Ball SVI 181
+2 Counter Catcher PAR 264
+1 Precious Trolley SSP 185
+2 Boss's Orders RCL 189
+1 Switch MEW 206
+1 Magma Basin BRS 144
+
+Energy: 2
+2 Jet Energy PAL 190
+7 Basic {R} Energy SVE 2 PH
+
+Total Cards: 60

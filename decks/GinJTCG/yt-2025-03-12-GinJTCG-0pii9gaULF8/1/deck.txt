@@ -1,0 +1,35 @@
+Pokémon: 10
+4 Nacli PAR 102
+1 Fezandipiti ex SFA 92
+2 Naclstack PAF 177
+1 Garganacl PAF 178
+1 Rotom V LOR 177
+1 Pidgeotto MEW 17
+3 Garganacl ex SCR 89
+2 Pidgeot ex OBF 164
+2 Pidgey OBF 162
+1 Garganacl PAR 202
+
+Trainer: 16
+3 Buddy-Buddy Poffin TWM 223
+1 Rock Chestplate SVI 192 PH
+4 Ultra Ball PLB 90 PH
+1 Super Rod PAL 276
+1 Forest Seal Stone SIT 156
+2 Boss's Orders LOR-TG 24
+3 Nest Ball SVI 255
+1 Earthen Vessel SFA 96
+1 Technical Machine: Evolution PAR 178 PH
+4 Arven PAF 235
+1 Kieran TWM 218
+1 Night Stretcher SSP 251
+3 Rare Candy PRC 135 PH
+2 Iono PAL 269
+1 Colress's Tenacity SFA 87
+1 Grand Tree SCR 136
+
+Energy: 2
+9 Basic {F} Energy SVE 6
+3 Double Turbo Energy ASR 216
+
+Total Cards: 60

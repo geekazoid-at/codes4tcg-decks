@@ -1,0 +1,39 @@
+Pokémon: 15
+1 Hisuian Samurott VSTAR ASR 209
+1 Munkidori SFA 72
+1 Hisuian Samurott VSTAR CRZ-GG 52
+1 Bidoof CRZ-GG 29
+1 Fezandipiti ex SFA 92
+1 Roaring Moon ex PAR 251
+1 Hisuian Samurott V ASR 101
+1 Squawkabilly ex PAL 264
+1 Pecharunt ex SFA 93
+1 Absol ASR 97
+2 Hisuian Samurott V CRZ-GG 51
+1 Hisuian Samurott VSTAR ASR 102
+1 Bibarel CRZ-GG 25
+1 Radiant Alakazam SIT 59
+1 Morpeko PAR 206
+
+Trainer: 16
+2 Boss's Orders RCL 189
+1 Technical Machine: Devolution PAR 177 PH
+1 Exp. Share SVI 174
+2 Town Store OBF 196 PH
+1 Prime Catcher TEF 157
+2 Night Stretcher SFA 61
+4 Nest Ball SVI 181
+1 Pal Pad SVI 182 PH
+1 Thorton LOR 167 PH
+2 Arven PAF 235
+4 Iono PAF 237
+2 Binding Mochi SFA 55
+4 Dark Patch LOR 216
+4 Ultra Ball BRS 186
+1 Counter Catcher PAR 264
+4 Professor's Research CEL 24
+
+Energy: 1
+8 Basic {D} Energy SVE 7 PH
+
+Total Cards: 60

@@ -1,0 +1,27 @@
+Pokémon: 7
+4 Teal Mask Ogerpon ex TWM 25
+4 Toedscool SVI 25
+1 Iron Bundle PR-SV 66
+4 Toedscruel ex OBF 22
+1 Toedscruel PAR 185
+1 Mew ex PR-SV 53
+1 Wyrdeer V ASR 134
+
+Trainer: 11
+4 Bug Catching Set TWM 143
+4 Energy Switch SUM 117 PH
+1 Super Rod PAL 276
+1 Artazon OBF 229
+3 Boss's Orders LOR-TG 24
+4 Nest Ball SVI 255
+2 Energy Retrieval SLG 59 PH
+4 Iono PAL 269
+3 Earthen Vessel PAR 163 PH
+1 Counter Catcher PAR 264
+4 Professor's Research CEL 24
+
+Energy: 2
+1 Legacy Energy TWM 167
+12 Basic {G} Energy GEN 75 PH
+
+Total Cards: 60

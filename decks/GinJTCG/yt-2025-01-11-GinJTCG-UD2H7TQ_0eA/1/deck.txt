@@ -1,0 +1,31 @@
+Pokémon: 9
+3 Tatsugiri ex SSP 142
+4 Pidgeot ex OBF 164
+2 Greninja ex TWM 198
+2 Dusknoir SFA 20 PH
+3 Togekiss OBF 85
+2 Luxray CRZ 44
+2 Cinderace ex SCR 28
+3 Archeops SIT 147
+1 Hydreigon ex SSP 119
+
+Trainer: 10
+4 Crispin SCR 164
+1 Boss's Orders LOR-TG 24
+1 Judge SIT-TG 25
+4 Pokégear 3.0 UNB 182 PH
+4 Call Bell SSP 165
+1 Sparkling Crystal SCR 142
+1 Bravery Charm PAL 173
+1 Counter Gain SSP 249
+1 Counter Catcher PAR 264
+4 Town Store OBF 196 PH
+
+Energy: 5
+3 Double Turbo Energy ASR 216
+3 Luminous Energy TWM 226
+4 Basic {W} Energy SVE 3
+3 Basic {D} Energy SFA 98
+3 Basic {R} Energy OBF 230
+
+Total Cards: 60

@@ -1,0 +1,35 @@
+Pokémon: 5
+2 Slowpoke PGO 19
+1 Rotom V LOR 58
+1 Slowbro PGO 20
+1 Radiant Charizard CRZ 20
+4 Okidogi TWM 111
+
+Trainer: 21
+4 Ultra Ball PLB 90 PH
+4 Exp. Share PRC 128 PH
+1 Super Rod PAL 276
+1 Artazon OBF 229
+1 Forest Seal Stone SIT 156
+1 Boss's Orders LOR-TG 24
+2 Town Store OBF 196 PH
+4 Nest Ball SVI 255
+1 Switch SLG 67 PH
+3 Pokégear 3.0 UNB 182 PH
+2 Energy Loto GRI 122 PH
+4 Arven PAF 235
+1 Pokégear 3.0 UNB 233
+3 Hassel TWM 151
+2 Thorton LOR 195
+2 Iono PAL 269
+1 Technical Machine: Turbo Energize PAR 179
+1 Counter Catcher PAR 264
+1 Bravery Charm PAL 173 PH
+
+Energy: 4
+4 Luminous Energy TWM 226
+1 Legacy Energy TWM 167
+6 Basic {F} Energy SVE 6
+1 Basic {D} Energy SVE 7
+
+Total Cards: 60

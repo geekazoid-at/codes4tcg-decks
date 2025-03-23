@@ -1,0 +1,32 @@
+Pokémon: 11
+3 Regidrago VSTAR SIT 136
+3 Teal Mask Ogerpon ex TWM 25
+3 Regidrago V SIT 184
+1 Squawkabilly ex PAL 264
+1 Cleffa OBF 202
+1 Giratina VSTAR CRZ-GG 69
+1 Mew ex PR-SV 53
+1 Hisuian Goodra VSTAR LOR 136
+1 Koraidon TEF 119
+1 Noivern ex PAL 153
+2 Dragapult ex TWM 200
+
+Trainer: 12
+4 Professor's Research CEL 24
+3 Boss's Orders LOR-TG 24
+2 Iono PAL 269
+1 Penny SVI 252
+4 Nest Ball SVI 255
+4 Energy Switch SUM 117 PH
+4 Ultra Ball PLB 90 PH
+4 Earthen Vessel PAR 163 PH
+2 Superior Energy Retrieval PAL 277
+1 Switch SLG 67 PH
+1 Prime Catcher TEF 157
+1 Canceling Cologne ASR 136 PH
+
+Energy: 2
+8 Basic {G} Energy GEN 75 PH
+3 Basic {R} Energy OBF 230
+
+Total Cards: 60

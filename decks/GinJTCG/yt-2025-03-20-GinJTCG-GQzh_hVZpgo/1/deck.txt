@@ -1,0 +1,38 @@
+Pokémon: 10
+3 Okidogi ex SFA 36
+3 Brute Bonnet PAR 123
+2 Pecharunt PR-SV 149
+1 Pecharunt ex SFA 39
+1 Latias ex SSP 76
+1 Fezandipiti ex SFA 38
+1 Munkidori TWM 95
+1 Budew PRE 4
+1 Radiant Hisuian Sneasler LOR 123
+
+Trainer: 21
+4 Arven OBF 186
+2 Carmine TWM 145
+2 Janine's Secret Art PRE 112
+2 Colress's Tenacity SFA 57
+1 Penny SVI 183
+1 Boss's Orders PAL 172
+1 Xerosic's Machinations SFA 64
+3 Nest Ball SVI 181
+3 Earthen Vessel PAR 163
+2 Energy Switch SVI 173
+2 Night Stretcher SFA 61
+2 Ultra Ball SVI 196
+2 Dark Patch ASR 139
+1 Hisuian Heavy Ball ASR 146
+1 Counter Catcher PAR 160
+1 Precious Trolley SSP 185
+1 Pal Pad SVI 182
+3 Ancient Booster Energy Capsule TEF 140
+2 Binding Mochi PRE 95
+1 Perilous Jungle TEF 156
+1 Town Store OBF 196
+
+Energy: 1
+8 Basic {D} Energy SVE 15
+
+Total Cards: 60

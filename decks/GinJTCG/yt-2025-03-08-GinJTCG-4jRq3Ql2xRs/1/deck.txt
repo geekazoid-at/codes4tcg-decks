@@ -1,0 +1,29 @@
+Pokémon: 7
+4 Toedscool SVI 25
+3 Toedscruel ex OBF 22
+4 Teal Mask Ogerpon ex PRE 145
+1 Fezandipiti ex SFA 92
+1 Budew PRE 4 PH
+1 Mew ex PR-SV 53
+1 Toedscruel PAR 185
+
+Trainer: 13
+4 Energy Switch SIT 212
+1 Night Stretcher SSP 251
+1 Energy Retrieval SLG 59 PH
+4 Iono PAL 269
+1 Briar SCR 171
+2 Boss's Orders LOR-TG 24
+4 Bug Catching Set TWM 143
+4 Nest Ball SVI 255
+1 Super Rod PAL 276
+2 Ultra Ball PLB 90 PH
+1 Counter Catcher PAR 264
+3 Area Zero Underdepths SCR 174
+4 Professor's Research CEL 24
+
+Energy: 2
+12 Basic {G} Energy GEN 75 PH
+1 Legacy Energy TWM 167
+
+Total Cards: 60

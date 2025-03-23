@@ -1,0 +1,42 @@
+Pokémon: 13
+1 Eevee ex PRE 75
+1 Ditto MEW 132 PH
+2 Munkidori SFA 72
+1 Fezandipiti ex SFA 92
+1 Sylveon PRE 40
+1 Budew PRE 4 PH
+2 Espeon ex PRE 34
+1 Gengar LOR 66
+2 Terapagos ex SCR 170
+2 Hoothoot SCR 114
+2 Fan Rotom SCR 118
+2 Noctowl PRE 78
+2 Eevee SFA 50
+
+Trainer: 18
+1 Judge SVI 176 PH
+1 Cyrano SSP 170
+1 Tera Orb SSP 189
+1 Unfair Stamp TWM 165
+3 Ultra Ball PAF 91
+1 Night Stretcher SFA 61
+1 Rescue Board TEF 159
+3 Nest Ball SVI 181
+1 Boss's Orders PAL 172
+3 Area Zero Underdepths SCR 174
+1 Super Rod PAL 188
+1 Colress's Tenacity SFA 57
+3 Buddy-Buddy Poffin PRE 101
+1 Earthen Vessel PRE 106
+2 Crispin SCR 133
+2 Glass Trumpet SCR 135
+3 Iono PAF 80
+1 Switch SVI 194
+
+Energy: 4
+2 Basic {G} Energy SVE 9
+4 Basic {D} Energy SVE 15
+1 Double Turbo Energy BRS 151
+3 Basic {P} Energy SVE 13
+
+Total Cards: 60

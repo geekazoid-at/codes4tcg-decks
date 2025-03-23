@@ -1,0 +1,31 @@
+Pokémon: 7
+1 Hisuian Lilligant V ASR 163
+4 Toedscool PAR 16
+3 Teal Mask Ogerpon ex TWM 25
+3 Toedscruel ex OBF 22
+1 Radiant Venusaur PGO 4
+1 Hisuian Lilligant VSTAR ASR 190
+1 Toedscruel PAR 185
+
+Trainer: 16
+1 Lost Vacuum LOR 217
+3 Ultra Ball PLB 90 PH
+4 Bug Catching Set TWM 143
+4 Energy Switch SUM 117 PH
+1 Super Rod PAL 276
+2 Boss's Orders LOR-TG 24
+4 Nest Ball SVI 255
+1 Maximum Belt TEF 154
+1 Rigid Band MEW 165 PH
+1 Energy Retrieval SLG 59 PH
+3 Iono PAL 269
+1 Earthen Vessel PAR 163 PH
+2 Arven SVI 235
+1 Professor's Research CEL 24
+1 Temple of Sinnoh ASR 155 PH
+2 Buddy-Buddy Poffin TEF 144
+
+Energy: 1
+14 Basic {G} Energy SVE 1
+
+Total Cards: 60

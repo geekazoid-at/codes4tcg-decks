@@ -1,0 +1,24 @@
+Pokémon: 4
+3 Hydrapple ex SCR 14
+4 Teal Mask Ogerpon ex TWM 25
+1 Mew ex PR-SV 53
+3 Applin TWM 17
+
+Trainer: 12
+2 Pokégear 3.0 UNB 182 PH
+4 Rare Candy PRC 135 PH
+1 Super Rod PAL 276
+3 Ultra Ball PLB 90 PH
+4 Iono PAL 269
+3 Boss's Orders LOR-TG 24
+4 Professor's Research CEL 24
+1 Scoop Up Cyclone TWM 162
+1 Canceling Cologne ASR 136 PH
+4 Bug Catching Set TWM 143
+1 Night Stretcher SFA 61 PH
+4 Nest Ball SVI 255
+
+Energy: 1
+17 Basic {G} Energy GEN 75 PH
+
+Total Cards: 60

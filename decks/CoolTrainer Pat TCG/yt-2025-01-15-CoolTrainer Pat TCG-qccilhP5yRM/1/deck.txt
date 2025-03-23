@@ -1,0 +1,44 @@
+Pokémon: 13
+1 Rotom V LOR 58
+1 Iron Bundle PAR 56
+1 Uxie SSP 78 PH
+2 Sandygast TWM 91
+1 Fezandipiti ex SFA 38
+1 Sandygast TWM 91 PH
+2 Cleffa OBF 80
+2 Palossand ex SSP 91
+1 Diancie ASR 68
+1 Manaphy BRS 41
+1 Mimikyu PR-SV 75
+2 Abra TWM 80
+2 Alakazam TWM 82
+
+Trainer: 21
+1 Hisuian Heavy Ball ASR 146
+1 Counter Catcher PAR 160
+1 Tera Orb SSP 189
+2 Artazon PAF 76
+1 Lively Stadium SSP 180
+1 Forest Seal Stone SIT 156
+1 Amulet of Hope SSP 162
+1 Rescue Board TEF 159
+3 Nest Ball SVI 181
+3 Arven PAF 235
+1 Boss's Orders PAL 172
+2 Super Rod PAL 188
+2 Crispin SCR 133
+2 Buddy-Buddy Poffin TEF 144
+3 Iono PAF 80
+2 Ultra Ball SVI 196
+1 Switch SVI 194
+1 Canceling Cologne ASR 136
+2 Rare Candy SVI 191
+1 Gravity Mountain SSP 177
+1 Earthen Vessel PAR 163
+
+Energy: 3
+3 Basic {W} Energy SVE 11
+3 Basic {P} Energy SVE 13
+3 Basic {F} Energy SVE 14
+
+Total Cards: 60

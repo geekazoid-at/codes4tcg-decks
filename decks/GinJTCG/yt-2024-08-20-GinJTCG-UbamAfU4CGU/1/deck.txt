@@ -1,0 +1,37 @@
+Pokémon: 11
+4 Sprigatito PAL 13
+3 Meowscarada ex PAL 15
+2 Bidoof BRS 120
+2 Bibarel CRZ-GG 25
+2 Duskull SFA 18 PH
+1 Dusclops SFA 19 PH
+1 Dusknoir SFA 20 PH
+1 Radiant Alakazam SIT 59
+1 Mew ex PR-SV 53
+1 Fezandipiti ex SFA 92
+1 Manaphy CRZ-GG 6
+
+Trainer: 16
+2 Nest Ball SVI 255
+4 Ultra Ball PLB 90 PH
+3 Buddy-Buddy Poffin TWM 223
+4 Rare Candy PRC 135 PH
+1 Switch SLG 67 PH
+1 Super Rod PAL 276
+2 Earthen Vessel SFA 96
+1 Rescue Board TEF 159 PH
+1 Technical Machine: Devolution PAR 177 PH
+2 Boss's Orders LOR-TG 24
+3 Iono PAL 269
+3 Arven PAF 235
+1 Pokémon League Headquarters OBF 192 PH
+1 Energy Retrieval SLG 59 PH
+1 Morty's Conviction TEF 211
+1 Irida ASR 186
+
+Energy: 3
+2 Double Turbo Energy BRS 151 PH
+7 Basic {G} Energy SVE 1
+1 Neo Upper Energy TEF 162
+
+Total Cards: 60

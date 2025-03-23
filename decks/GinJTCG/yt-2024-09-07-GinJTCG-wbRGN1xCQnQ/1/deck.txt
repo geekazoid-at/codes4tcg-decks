@@ -1,0 +1,26 @@
+Pokémon: 6
+4 Poltchageist TWM 20
+2 Sinistcha ex TWM 23
+2 Sinistcha TWM 22
+4 Teal Mask Ogerpon ex TWM 25
+1 Radiant Greninja ASR 46
+1 Fezandipiti ex SFA 92
+
+Trainer: 12
+4 Professor's Research CEL 24
+3 Iono PAL 269
+3 Boss's Orders LOR-TG 24
+4 Nest Ball SVI 255
+3 Ultra Ball PLB 90 PH
+4 Bug Catching Set TWM 143
+1 Night Stretcher SFA 61 PH
+1 Earthen Vessel SFA 96
+1 Super Rod PAL 276
+1 Hisuian Heavy Ball ASR 146 PH
+1 Prime Catcher TEF 157
+1 Vitality Band SVI 197
+
+Energy: 1
+19 Basic {G} Energy SVE 1
+
+Total Cards: 60

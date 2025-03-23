@@ -1,0 +1,30 @@
+Pokémon: 4
+3 Rotom V LOR 58
+3 Rotom VSTAR CRZ 46
+4 Cramorant LOR 50 PH
+1 Radiant Jirachi SIT 120
+
+Trainer: 18
+4 Ultra Ball PLB 90 PH
+2 Exp. Share PRC 128 PH
+1 Super Rod PAL 276
+1 Forest Seal Stone SIT 156
+3 Boss's Orders LOR-TG 24
+2 Town Store OBF 196 PH
+3 Nest Ball SVI 255
+1 Hero's Cape TEF 152
+2 Serena SIT 193
+2 Tool Box LOR 168
+3 Technical Machine: Crisis Punch PAF 90 PH
+2 Technical Machine: Devolution PAR 177
+3 Electric Generator PAF 79
+3 Technical Machine: Turbo Energize PAR 179
+2 Rescue Board TEF 159 PH
+3 Professor's Research CEL 24
+2 Explorer's Guidance TEF 147
+1 Sky Seal Stone CRZ 143
+
+Energy: 1
+9 Basic {L} Energy SVE 4
+
+Total Cards: 60

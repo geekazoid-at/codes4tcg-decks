@@ -1,0 +1,28 @@
+Pokémon: 9
+2 Kingdra ex SFA 80
+2 Blastoise ex MEW 9
+2 Togepi SSP 70
+2 Bibarel BRS 121
+2 Baxcalibur PAL 60
+1 Kingdra ex SFA 12
+2 Bidoof CRZ 111
+3 Horsea SFA 10
+2 Togekiss SSP 72
+
+Trainer: 11
+4 Ultra Ball SVI 196
+4 Irida ASR 147
+4 Rare Candy SVI 191
+3 Earthen Vessel PAR 163
+4 Buddy-Buddy Poffin TEF 144
+1 Brilliant Blender SSP 164
+2 Energy Retrieval SVI 171
+2 Superior Energy Retrieval PAL 189
+4 Professor's Research SVI 189
+2 Arven SVI 166
+2 Boss's Orders PAL 172
+
+Energy: 1
+10 Basic {W} Energy SVE 3
+
+Total Cards: 60

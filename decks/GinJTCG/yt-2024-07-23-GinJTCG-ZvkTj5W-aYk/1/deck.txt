@@ -1,0 +1,40 @@
+Pokémon: 14
+1 Charmeleon PAF 110
+2 Charizard ex OBF 223
+1 Dragapult ex TWM 200
+2 Dreepy TWM 128
+2 Drakloak TWM 129
+2 Pidgeot ex OBF 217
+2 Pidgey OBF 162
+1 Bidoof CRZ-GG 29
+1 Bibarel CRZ-GG 25
+1 Cleffa OBF 202
+1 Lumineon V CRZ-GG 39
+1 Manaphy CRZ-GG 6
+1 Radiant Charizard CRZ 20
+3 Charmander MEW 4
+
+Trainer: 17
+4 Arven PAF 235
+2 Iono PAL 269
+1 Kieran TWM 218
+1 Professor Turo's Scenario PAR 257
+1 Boss's Orders LOR-TG 24
+4 Rare Candy PRC 135 PH
+4 Ultra Ball PLB 90 PH
+4 Buddy-Buddy Poffin TEF 144
+2 Super Rod PAL 276
+2 Counter Catcher PAR 264
+1 Lost Vacuum LOR 217
+1 Pal Pad FLF 92 PH
+1 Unfair Stamp TWM 165
+1 Technical Machine: Evolution PAR 178 PH
+1 Forest Seal Stone SIT 156
+1 Defiance Band SVI 169 PH
+1 Collapsed Stadium LOR 215
+
+Energy: 2
+5 Basic {R} Energy GEN 76 PH
+2 Basic {P} Energy GEN 79 PH
+
+Total Cards: 60

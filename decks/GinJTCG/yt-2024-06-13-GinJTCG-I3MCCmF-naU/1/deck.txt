@@ -1,0 +1,36 @@
+Pokémon: 10
+1 Bloodmoon Ursaluna ex TWM 141
+1 Terrakion SIT 97
+1 Manaphy CRZ-GG 6
+1 Gabite PAR 95 PH
+2 Bidoof BRS 120
+4 Gible PAR 94 PH
+3 Okidogi TWM 111
+1 Radiant Greninja ASR 46
+3 Garchomp ex PAR 38
+2 Bibarel CRZ-GG 25
+
+Trainer: 17
+1 Ultra Ball PLB 90 PH
+2 Super Rod PAL 276
+1 Artazon OBF 229
+1 Professor Turo's Scenario PAR 257
+2 Boss's Orders LOR-TG 24
+3 Nest Ball SVI 255
+3 Irida ASR 147
+1 Artazon PAL 171 PH
+2 Energy Loto GRI 122 PH
+3 Rare Candy PRC 135 PH
+3 Iono PAL 269
+1 Ultra Ball BRS 186
+1 Counter Catcher PAR 264
+1 Switch Cart ASR 154 PH
+1 Professor's Research CEL 24
+3 Buddy-Buddy Poffin TEF 144
+
+Energy: 3
+4 Luminous Energy TWM 226
+1 Legacy Energy TWM 167
+7 Basic {F} Energy SVE 6 PH
+
+Total Cards: 60

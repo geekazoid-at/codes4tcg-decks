@@ -1,0 +1,39 @@
+Pokémon: 4
+4 Snorlax PGO 55
+1 Rotom V LOR 58
+1 Mantine ASR 34
+1 Mimikyu PAL 97
+
+Trainer: 27
+4 Arven OBF 186
+3 Penny SVI 183
+2 Cyllene ASR 138
+2 Eri TEF 146
+2 Boss's Orders PAL 172
+2 Miss Fortune Sisters LOR 164
+1 Iono PAL 185
+1 Team Yell's Cheer BRS 149
+1 Erika's Invitation MEW 160
+1 Colress's Tenacity SFA 57
+1 Xerosic's Machinations SFA 64
+4 Nest Ball SVI 181
+4 Pokégear 3.0 SVI 186
+4 Counter Catcher PAR 160
+4 Accompanying Flute TWM 142
+2 Pal Pad SVI 182
+2 Night Stretcher SFA 61
+1 Hisuian Heavy Ball ASR 146
+1 Lost Vacuum LOR 162
+1 Secret Box TWM 163
+2 Handheld Fan TWM 150
+1 Defiance Vest PAR 162
+1 Bravery Charm PAL 173
+1 Jubilife Village ASR 148
+2 Temple of Sinnoh ASR 155
+1 Artazon PAL 171
+1 Forest Seal Stone SIT 156
+
+Energy: 1
+1 Jet Energy PAL 190
+
+Total Cards: 60

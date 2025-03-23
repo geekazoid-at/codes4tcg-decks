@@ -1,0 +1,34 @@
+Pokémon: 9
+1 Jolteon ex PRE 153
+1 Radiant Venusaur PGO 4
+2 Jolteon ex PRE 30
+4 Teal Mask Ogerpon ex PRE 145
+1 Fezandipiti ex SFA 92
+2 Leafeon ex PRE 6
+3 Eevee PRE 74
+1 Eevee ASR 119 PH
+
+Trainer: 17
+2 Earthen Vessel SFA 96
+4 Arven PAF 235
+1 Super Rod PAL 276
+4 Ultra Ball PLB 90 PH
+2 Iono PAL 269
+1 Night Stretcher SSP 251
+1 Technical Machine: Turbo Energize PAR 179 PH
+2 Boss's Orders LOR-TG 24
+1 Artazon OBF 229
+1 Prime Catcher TEF 157
+2 Buddy-Buddy Poffin TWM 223
+1 Briar SCR 171
+3 Energy Switch SUM 117 PH
+1 Counter Gain SSP 249
+1 Technical Machine: Evolution PAR 178 PH
+3 Nest Ball SVI 255
+1 Crispin SCR 164
+
+Energy: 2
+9 Basic {G} Energy GEN 75 PH
+5 Basic {L} Energy SVE 4 PH
+
+Total Cards: 60

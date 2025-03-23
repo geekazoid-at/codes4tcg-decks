@@ -14,6 +14,9 @@ const channelIdMrdog = "UCMS0qK1Or_qElPXCgmkCUhw"; // MrDog
 const channelId3rd = "UCtjNWKdNFOdMv6QEUfSN8TQ"; // in3rdperson
 const channelIdPop = "UCaJRkZn63jCodODUOyGPiiA"; // PopsicleKnight
 const channelIdGym = "UC35KRaWGA7hQ5De40GG_7Fw"; // TrickyGym
+const channelIdZapdos = "UCYCzQRsPJ_eUEXXmU_CSx2g";
+const channelIdGinJ = "UCG73skhpwL7MF0Fb6RufGTQ";
+const channelIdPat = "UCLryZvbuOJNmRCp_OI-VoTg";
 
 const allChannelIds: string[] = [
   channelIdTyp,
@@ -25,6 +28,10 @@ const allChannelIds: string[] = [
   channelIdMrdog,
   channelId3rd,
   channelIdPop,
+  channelIdGym,
+  channelIdZapdos,
+  channelIdGinJ,
+  channelIdPat,
 ];
 
 const main = async (

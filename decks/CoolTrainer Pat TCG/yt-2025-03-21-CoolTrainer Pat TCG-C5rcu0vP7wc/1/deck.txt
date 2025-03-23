@@ -1,0 +1,31 @@
+Pokémon: 8
+1 Lumineon V BRS 40
+1 Lapras ex SCR 158
+3 Larvitar PRE 47
+2 Lapras ex SCR 32
+1 Radiant Greninja ASR 46
+1 Larvitar PRE 47 PH
+1 Pupitar PAL 111
+3 Tyranitar ex PRE 64
+
+Trainer: 13
+3 Ultra Ball SVI 196
+2 Buddy-Buddy Poffin PRE 101
+2 Powerglass SFA 63
+2 Crispin PRE 105
+3 Rare Candy SVI 191
+1 Crispin SCR 133
+3 Iono PAL 185
+2 Night Stretcher SFA 61
+1 Sparkling Crystal PRE 129
+1 Forest Seal Stone SIT 156
+3 Nest Ball PAF 84
+4 Arven SVI 166
+2 Boss's Orders PAL 172
+
+Energy: 3
+6 Basic {M} Energy SVE 8
+6 Basic {P} Energy SVE 5
+6 Basic {W} Energy SVE 3
+
+Total Cards: 60

@@ -1,0 +1,39 @@
+Pokémon: 6
+3 Cornerstone Mask Ogerpon ex TWM 112
+2 Noibat PAL 152
+2 Noivern ex PAL 153
+2 Feebas SIT 39
+2 Milotic ex SSP 42
+1 Radiant Jirachi SIT 120
+
+Trainer: 22
+1 Penny SVI 252
+1 Penny PAF 239
+2 Boss's Orders LOR-TG 24
+1 Thorton LOR 195
+4 Pokégear 3.0 UNB 182 PH
+4 Ultra Ball PLB 90 PH
+2 Nest Ball SVI 255
+2 Night Stretcher SFA 61 PH
+1 Hisuian Heavy Ball ASR 146 PH
+1 Buddy-Buddy Poffin TWM 223
+1 Lost Vacuum LOR 217
+1 Earthen Vessel SFA 96
+1 Scoop Up Cyclone TWM 162
+1 Energy Loto GRI 122 PH
+1 Rescue Board TEF 159 PH
+1 Technical Machine: Turbo Energize PAR 179 PH
+1 Rock Chestplate SVI 192 PH
+1 Town Store OBF 196 PH
+1 Drayton SSP 244
+4 Arven PAF 235
+1 Penny SVI 239
+3 Iono PAL 269
+
+Energy: 4
+4 Basic {F} Energy SVE 6
+3 Basic {W} Energy SVE 3
+1 Mist Energy TEF 161 PH
+4 Double Turbo Energy ASR 216
+
+Total Cards: 60

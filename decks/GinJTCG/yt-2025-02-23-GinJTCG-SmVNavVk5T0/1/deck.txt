@@ -1,0 +1,35 @@
+Pokémon: 8
+1 Bidoof BRS 120
+2 Bibarel CRZ-GG 25
+1 Radiant Venusaur PGO 4
+4 Exeggcute SSP 1 PH
+2 Exeggutor SSP 3 PH
+1 Regigigas PRE 86 PH
+2 Alolan Exeggutor ex SSP 242
+1 Bidoof CRZ-GG 29
+
+Trainer: 17
+1 Gardenia's Vigor CRZ-GG 61
+2 Earthen Vessel SFA 96
+1 Exp. Share PRC 128 PH
+4 Arven PAF 235
+1 Super Rod PAL 276
+2 Superior Energy Retrieval PAL 277
+4 Ultra Ball PLB 90 PH
+3 Iono PAL 269
+1 Night Stretcher SSP 251
+1 Kieran TWM 218
+2 Boss's Orders LOR-TG 24
+2 Crispin SCR 164
+4 Buddy-Buddy Poffin TWM 223
+1 Sparkling Crystal SCR 142
+1 Counter Catcher PAR 264
+1 Switch MEW 206
+2 Nest Ball SVI 255
+
+Energy: 3
+3 Basic {W} Energy SVALT 133
+7 Basic {G} Energy SVALT 131
+3 Basic {F} Energy SVALT 136
+
+Total Cards: 60

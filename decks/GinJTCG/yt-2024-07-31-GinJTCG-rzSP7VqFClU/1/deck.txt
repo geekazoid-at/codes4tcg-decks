@@ -1,0 +1,33 @@
+Pokémon: 10
+3 Maschiff SVI 135 PH
+2 Mabosstiff PAF 63 PH
+1 Mabosstiff PAL 143 PH
+2 Darkrai V ASR 98
+1 Radiant Greninja ASR 46
+2 Darkrai VSTAR CRZ-GG 50
+1 Bidoof BRS 120 PH
+1 Bidoof CRZ-GG 29
+2 Bibarel CRZ-GG 25
+1 Squawkabilly ex PAL 264
+
+Trainer: 15
+3 Carmine TWM 145
+3 Iono PAL 269
+1 Kieran TWM 218
+3 Nest Ball SVI 255
+3 Buddy-Buddy Poffin TEF 144
+4 Ultra Ball PLB 90 PH
+4 Dark Patch LOR 216
+1 Switch SLG 67 PH
+1 Luxurious Cape PAR 265
+1 Unfair Stamp TWM 165
+2 Super Rod PAL 276
+1 Exp. Share PRC 128 PH
+1 Technical Machine: Crisis Punch PAF 90 PH
+1 Lost Vacuum LOR 217
+3 Arven PAF 235
+
+Energy: 1
+12 Basic {D} Energy SVE 7
+
+Total Cards: 60

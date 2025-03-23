@@ -1,0 +1,38 @@
+Pokémon: 9
+1 Cleffa OBF 202
+2 Aegislash PAR 210
+1 Pidgeot V LOR 137
+1 Cornerstone Mask Ogerpon ex TWM 215
+1 Aegislash PR-SV 60
+3 Doublade PAR 132
+4 Honedge PAR 131
+1 Aegislash ex PAR 135
+2 Tatsugiri TWM 186
+
+Trainer: 17
+4 Buddy-Buddy Poffin TWM 223
+2 Ultra Ball PLB 90 PH
+1 Super Rod PAL 276
+1 Forest Seal Stone SIT 156
+2 Boss's Orders LOR-TG 24
+4 Nest Ball SVI 255
+2 Earthen Vessel SFA 96
+1 Rescue Board TEF 159
+2 Luxurious Cape PAR 166 PH
+4 Arven PAF 235
+3 Rare Candy PRC 135 PH
+3 Iono PAL 269
+1 Lost City LOR 161 PH
+1 Roseanne's Backup BRS 180
+1 Counter Catcher PAR 264
+2 Colress's Tenacity SFA 87
+1 Grand Tree SCR 136
+
+Energy: 5
+1 Basic {F} Energy GEN 80 PH
+1 Jet Energy PAL 190 PH
+4 Basic {M} Energy GEN 82 PH
+2 Mist Energy TEF 161 PH
+1 Reversal Energy PAR 266
+
+Total Cards: 60

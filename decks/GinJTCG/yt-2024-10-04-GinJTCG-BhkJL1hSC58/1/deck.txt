@@ -1,0 +1,36 @@
+Pokémon: 10
+2 Naclstack PAF 177
+4 Nacli PAL 121
+3 Garganacl ex SCR 89
+1 Cornerstone Mask Ogerpon ex TWM 215
+1 Garganacl PAR 202
+1 Garganacl PAF 178
+1 Pidgeotto MEW 17
+2 Pidgeot ex OBF 164
+1 Tatsugiri TWM 186
+2 Pidgey MEW 16
+
+Trainer: 16
+4 Rare Candy PRC 135 PH
+2 Lake Acuity LOR 160
+2 Rock Chestplate SVI 192
+1 Earthen Vessel SFA 96
+1 Switch SLG 67 PH
+2 Arven PAF 235
+1 Grand Tree SCR 136
+1 Super Rod PAL 276
+4 Ultra Ball PLB 90 PH
+2 Iono PAL 269
+1 Boss's Orders LOR-TG 24
+1 Roseanne's Backup BRS 180
+4 Buddy-Buddy Poffin TWM 223
+2 Colress's Tenacity SFA 87
+1 Rescue Board TEF 159
+2 Nest Ball SVI 255
+
+Energy: 3
+3 Double Turbo Energy BRS 151 PH
+1 Mist Energy TEF 161 PH
+7 Basic {F} Energy SVE 6 PH
+
+Total Cards: 60

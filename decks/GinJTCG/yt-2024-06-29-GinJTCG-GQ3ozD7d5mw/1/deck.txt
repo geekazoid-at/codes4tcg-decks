@@ -1,0 +1,32 @@
+Pokémon: 6
+3 Dunsparce TEF 128
+3 Dudunsparce TEF 129
+1 Manaphy CRZ-GG 6
+4 Tandemaus PAR 153
+4 Maushold ex PAR 155
+1 Radiant Jirachi SIT 120
+
+Trainer: 15
+1 Hisuian Heavy Ball ASR 146
+1 Vengeful Punch OBF 197
+3 Feather Ball ASR 141
+3 Ultra Ball PAF 91
+1 Mesagoza SVI 178
+1 Artazon PAL 171
+2 Boss's Orders PAL 172
+1 Hyper Aroma TWM 152
+2 Lana's Aid TWM 155
+4 Arven SVI 166
+1 Technical Machine: Evolution PAR 178
+2 Super Rod PAL 188
+1 Cheren's Care BRS 134
+4 Buddy-Buddy Poffin TEF 144
+4 Iono PAF 80
+
+Energy: 4
+3 Jet Energy PAL 190
+3 Gift Energy LOR 171
+4 Double Turbo Energy BRS 151
+3 Mist Energy TEF 161
+
+Total Cards: 60

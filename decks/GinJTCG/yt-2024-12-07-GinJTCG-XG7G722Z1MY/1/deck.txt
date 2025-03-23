@@ -1,0 +1,32 @@
+Pokémon: 6
+2 Manaphy CRZ-GG 6
+2 Sableye LOR 70
+2 Cramorant LOR 50 PH
+1 Bloodmoon Ursaluna ex TWM 216
+1 Radiant Charizard CRZ 20
+4 Comfey CRZ-GG 14
+
+Trainer: 18
+4 Colress's Experiment CRZ-GG 59
+4 Switch SLG 67 PH
+4 Buddy-Buddy Poffin TWM 223
+4 Switch Cart ASR 154
+4 Super Rod PAL 276
+4 Mirage Gate LOR 163 PH
+4 Nest Ball SVI 255
+2 Counter Catcher PAR 264
+1 Lost Vacuum LOR 217
+1 Hisuian Heavy Ball ASR 146 PH
+1 Night Stretcher SFA 61 PH
+1 Pal Pad FLF 92 PH
+2 Rescue Board TEF 159 PH
+1 Secret Box TWM 163
+1 Defiance Band SVI 169 PH
+2 PokéStop PGO 68 PH
+1 Roxanne CRZ-GG 66
+
+Energy: 2
+4 Basic {P} Energy SVE 5 PH
+3 Basic {R} Energy OBF 230
+
+Total Cards: 60

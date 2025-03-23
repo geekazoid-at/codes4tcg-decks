@@ -1,0 +1,31 @@
+Pokémon: 8
+1 Wyrdeer V ASR 134
+1 Manaphy CRZ-GG 6
+2 Mewtwo ex PAR 58
+1 Latias ex SSP 76
+4 Clefairy LOR 62
+1 Fezandipiti ex SFA 92
+1 Radiant Greninja ASR 46
+1 Clefable TWM 79
+
+Trainer: 15
+2 Exp. Share SVI 174
+2 Energy Switch SVI 173
+1 Hisuian Heavy Ball ASR 146
+2 Arven PAF 235
+2 Iono PAF 237
+3 Super Rod PAL 276
+1 Night Stretcher SFA 61
+1 Switch EVO 88 PH
+4 Buddy-Buddy Poffin TWM 223
+3 Nest Ball SVI 181
+3 Area Zero Underdepths SCR 174
+3 Surfer SSP 187
+1 Precious Trolley SSP 185
+2 Boss's Orders RCL 189
+3 Switch MEW 206
+
+Energy: 1
+15 Basic {P} Energy SVE 5 PH
+
+Total Cards: 60

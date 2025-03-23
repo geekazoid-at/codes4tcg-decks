@@ -1,0 +1,32 @@
+Pokémon: 10
+3 Thwackey TWM 15
+1 Dipplin TWM 18
+1 Fezandipiti ex SFA 92
+4 Grookey TWM 14
+4 Applin TWM 17
+1 Thwackey TWM 15 PH
+1 Togetic ASR 56
+2 Togepi ASR 55
+2 Togekiss SSP 72
+3 Dipplin TWM 18 PH
+
+Trainer: 13
+3 Ultra Ball SVI 196
+3 Earthen Vessel SFA 96
+3 Rare Candy SVI 191
+3 Professor's Research PAF 87
+2 Arven PAF 235
+3 Iono PAL 185
+1 Lana's Aid TWM 219
+1 Lana's Aid TWM 155 PH
+1 Super Rod PAL 188
+2 Buddy-Buddy Poffin TWM 223
+2 Nest Ball SVI 181
+2 Boss's Orders PAL 172
+3 Festival Grounds TWM 149
+
+Energy: 2
+8 Basic {G} Energy SVE 1
+1 Legacy Energy TWM 167
+
+Total Cards: 60

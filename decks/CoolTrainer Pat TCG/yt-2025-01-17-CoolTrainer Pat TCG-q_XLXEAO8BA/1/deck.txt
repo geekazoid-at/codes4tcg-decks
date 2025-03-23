@@ -1,0 +1,34 @@
+Pokémon: 8
+2 Eevee ex PRE 75
+1 Munkidori SFA 72
+3 Umbreon ex PRE 60
+2 Eevee SSP 143
+1 Mew ex MEW 151
+1 Radiant Greninja ASR 46
+4 Chansey TWM 187
+3 Blissey ex TWM 134
+
+Trainer: 16
+2 Boss's Orders RCL 189
+1 Lost Vacuum LOR 217
+1 Counter Gain SSP 169 PH
+1 Precious Trolley SSP 185
+1 Nest Ball SVI 255
+2 Earthen Vessel SFA 96
+2 Night Stretcher SFA 61
+1 Technical Machine: Evolution PAR 178 PH
+4 Arven PAF 235
+4 Iono PAF 237
+2 Switch MEW 206
+1 Nest Ball SUM 158
+4 Ultra Ball BRS 186
+2 Counter Catcher PAR 264
+4 Glass Trumpet SCR 135
+2 Professor's Research CEL 24
+
+Energy: 3
+3 Basic {L} Energy SVE 12
+3 Basic {D} Energy SVE 15
+3 Basic {P} Energy SVE 13
+
+Total Cards: 60

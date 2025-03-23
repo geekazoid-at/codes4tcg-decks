@@ -1,0 +1,30 @@
+Pokémon: 5
+4 Arceus VSTAR BRS 123
+4 Arceus V BRS 122
+3 Munkidori TWM 95
+1 Radiant Greninja ASR 46
+2 Mimikyu PR-SV 75
+
+Trainer: 14
+1 Super Rod PAL 276
+4 Ultra Ball PLB 90 PH
+3 Iono PAL 269
+2 Boss's Orders LOR-TG 24
+4 Judge SIT-TG 25
+2 Cheren's Care CRZ-GG 58
+1 Lost Vacuum LOR 217
+3 Crispin SCR 164
+1 Energy Switch SUM 117 PH
+1 Unfair Stamp TWM 165
+2 Capturing Aroma SIT 153
+1 Pokégear 3.0 UNB 233
+1 Switch MEW 206
+4 Nest Ball SVI 255
+
+Energy: 4
+4 Double Turbo Energy ASR 216
+4 Basic {P} Energy SVE 5 PH
+4 Basic {W} Energy SVE 3 PH
+4 Basic {D} Energy SFA 98
+
+Total Cards: 60

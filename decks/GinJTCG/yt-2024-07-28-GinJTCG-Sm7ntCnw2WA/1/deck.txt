@@ -1,0 +1,35 @@
+Pokémon: 9
+2 Bidoof CRZ-GG 29
+4 Rockruff TEF 89 PH
+1 Manaphy CRZ-GG 6
+3 Lycanroc ex PAL 241
+1 Cornerstone Mask Ogerpon ex TWM 112
+1 Radiant Jirachi SIT 120
+1 Lycanroc CRZ 74 PH
+2 Bibarel CRZ-GG 25
+
+Trainer: 16
+4 Ultra Ball PLB 90 PH
+1 Exp. Share PRC 128 PH
+2 Super Rod PAL 276
+1 Ciphermaniac's Codebreaking TEF 198
+2 Boss's Orders LOR-TG 24
+1 Nest Ball SVI 255
+1 Switch SLG 67 PH
+2 Calamitous Wasteland PAL 175 PH
+3 Arven PAF 235
+3 Gutsy Pickaxe ASR 145
+3 Iono PAL 269
+1 Earthen Vessel PAR 163 PH
+1 Technical Machine: Turbo Energize PAR 179 PH
+1 Morty's Conviction TEF 211
+4 Buddy-Buddy Poffin TEF 144
+1 Handheld Fan TWM 150 PH
+
+Energy: 4
+9 Basic {F} Energy SVE 6
+1 Legacy Energy TWM 167
+1 Double Turbo Energy ASR 216
+3 Double Turbo Energy BRS 151 PH
+
+Total Cards: 60

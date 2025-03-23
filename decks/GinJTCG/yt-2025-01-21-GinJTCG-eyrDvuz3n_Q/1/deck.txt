@@ -1,0 +1,38 @@
+Pokémon: 10
+4 Budew PRE 4
+2 Fuecoco SSP 29
+2 Pidgeot ex OBF 217
+2 Skeledirge ex PAR 137
+2 Pidgey OBF 162
+1 Pidgeotto MEW 17
+1 Radiant Charizard CRZ 20
+1 Lumineon V CRZ-GG 39
+1 Fezandipiti ex SFA 92
+1 Crocalor PAL 202
+
+Trainer: 20
+4 Arven PAF 235
+3 Iono PAL 269
+1 Boss's Orders LOR-TG 24
+1 Professor Turo's Scenario PAR 257
+1 Surfer SSP 235
+1 Colress's Tenacity SFA 87
+4 Nest Ball SVI 255
+4 Ultra Ball PLB 90 PH
+3 Pokégear 3.0 UNB 182 PH
+3 Rare Candy PRC 135 PH
+1 Night Stretcher SSP 251
+1 Counter Catcher PAR 264
+2 Earthen Vessel SFA 96
+1 Super Rod PAL 276
+1 Forest Seal Stone SIT 156
+1 Rescue Board TWM 225
+1 Grand Tree SCR 136
+1 Magma Basin BRS 185
+1 Artazon OBF 229
+1 Switch MEW 206
+
+Energy: 1
+7 Basic {R} Energy OBF 230
+
+Total Cards: 60

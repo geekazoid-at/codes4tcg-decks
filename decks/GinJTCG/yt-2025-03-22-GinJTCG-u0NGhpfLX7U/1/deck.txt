@@ -1,0 +1,30 @@
+Pokémon: 5
+4 Capsakid SVI 28 PH
+4 Scovillain ex TEF 22
+2 Budew PRE 4 PH
+1 Fezandipiti ex SFA 92
+3 Teal Mask Ogerpon ex TWM 211
+
+Trainer: 17
+4 Arven PAF 235
+3 Judge SIT-TG 25
+3 Boss's Orders LOR-TG 24
+1 Iono PAL 269
+1 Black Belt's Training PRE 96 PH
+1 Handheld Fan TWM 150 PH
+4 Nest Ball SVI 255
+2 Buddy-Buddy Poffin TWM 223
+4 Bug Catching Set PRE 102 PH
+1 Ultra Ball BRS 186
+4 Crushing Hammer SUM 115 PH
+1 Super Rod PAL 276
+3 Energy Switch SIT 212
+1 Counter Catcher PAR 264
+1 Rescue Board TWM 225
+1 Unfair Stamp TWM 165
+1 Pokémon League Headquarters OBF 192 PH
+
+Energy: 1
+10 Basic {G} Energy SVALT 131
+
+Total Cards: 60

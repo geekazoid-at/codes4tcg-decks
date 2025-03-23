@@ -1,0 +1,34 @@
+Pokémon: 10
+1 Steenee OBF 17
+2 Pidgey MEW 16
+3 Tsareena ex PAR 46
+1 Manaphy CRZ-GG 6
+2 Rufflet SIT 148
+1 Rotom V LOR 177
+1 Pidgeotto MEW 17
+3 Bounsweet PAR 8
+2 Pidgeot ex OBF 164
+2 Hisuian Braviary SIT 149
+
+Trainer: 16
+4 Buddy-Buddy Poffin TWM 223
+4 Ultra Ball PLB 90 PH
+1 Unfair Stamp TWM 165
+1 Super Rod PAL 276
+1 Forest Seal Stone SIT 156
+2 Nest Ball SVI 255
+2 Earthen Vessel SFA 96
+1 Switch SLG 67 PH
+1 Technical Machine: Evolution PAR 178 PH
+4 Arven PAF 235
+2 Panic Mask LOR 165 PH
+4 Rare Candy PRC 135 PH
+3 Iono PAL 269
+2 Counter Catcher PAR 264
+1 Eri TEF 210
+2 Irida ASR 186
+
+Energy: 1
+7 Basic {G} Energy GEN 75 PH
+
+Total Cards: 60

@@ -1,0 +1,33 @@
+Pokémon: 7
+4 Hisuian Zoroark V LOR 146
+3 Doduo MEW 84
+1 Manaphy CRZ-GG 6
+3 Dodrio MEW 85
+4 Hisuian Zoroark VSTAR LOR 147
+1 Radiant Alakazam SIT 59
+2 Gengar LOR-TG 6
+
+Trainer: 16
+3 Buddy-Buddy Poffin TWM 223
+4 Damage Pump LOR 156
+4 Ultra Ball PLB 90 PH
+1 Secret Box TWM 163
+1 Super Rod PAL 276
+1 Ciphermaniac's Codebreaking TEF 198
+3 Boss's Orders LOR-TG 24
+1 Canceling Cologne ASR 136 PH
+3 Nest Ball SVI 255
+1 Energy Loto GRI 122 PH
+1 Kieran TWM 218
+1 Night Stretcher SSP 251
+1 Iono PAL 269
+4 Gapejaw Bog ASR 142 PH
+1 Colress's Tenacity SFA 87
+4 Professor's Research CEL 24
+
+Energy: 3
+2 Jet Energy PAL 190 PH
+4 Double Turbo Energy ASR 216
+2 Basic {P} Energy GEN 79 PH
+
+Total Cards: 60

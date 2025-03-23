@@ -1,0 +1,32 @@
+Pokémon: 8
+2 Bibarel CRZ-GG 25
+4 Goldeen MEW 118 PH
+2 Bidoof CRZ-GG 29
+4 Seaking MEW 119 PH
+2 Finneon LOR 40
+1 Radiant Greninja ASR 46
+1 Manaphy CRZ-GG 6
+1 Hisuian Basculin ASR 43 PH
+
+Trainer: 15
+2 Letter of Encouragement OBF 189
+1 Switch SLG 67 PH
+1 Nest Ball SVI 255
+2 Professor's Research CEL 24
+4 Irida ASR 147
+1 Boss's Orders LOR-TG 24
+1 Hyper Aroma TWM 152
+1 Artazon OBF 229
+4 Superior Energy Retrieval PAL 277
+2 Iono PAL 269
+1 Lana's Aid TWM 207
+2 Super Rod PAL 276
+3 Ultra Ball PLB 90 PH
+4 Buddy-Buddy Poffin TEF 144
+1 Hisuian Heavy Ball ASR 146 PH
+
+Energy: 2
+1 Reversal Energy PAL 192
+12 Basic {W} Energy SVE 3
+
+Total Cards: 60

@@ -1,0 +1,34 @@
+Pokémon: 9
+4 Gastly TEF 102
+2 Pidgeot ex OBF 164
+2 Haunter PAF 56
+3 Gengar ex TEF 193
+1 Munkidori TWM 95
+1 Rotom V LOR 177
+2 Pidgey OBF 162
+1 Fezandipiti ex SFA 92
+1 Pecharunt ex SFA 93
+
+Trainer: 17
+3 Ultra Ball PLB 90 PH
+2 Super Rod PAL 276
+1 Artazon OBF 229
+1 Boss's Orders LOR-TG 24
+2 Nest Ball SVI 255
+1 Prime Catcher TEF 157
+3 Arven PAF 235
+4 Crushing Hammer SUM 115 PH
+1 Forest Seal Stone SIT 156
+4 Rare Candy PRC 135 PH
+2 Iono PAL 269
+2 Dark Patch LOR 216
+3 Janine's Secret Art SFA 59 PH
+3 Buddy-Buddy Poffin TWM 223
+1 Rescue Board TEF 159 PH
+2 Handheld Fan TWM 150 PH
+1 Enhanced Hammer GRI 124 PH
+
+Energy: 1
+7 Basic {D} Energy SVE 7
+
+Total Cards: 60

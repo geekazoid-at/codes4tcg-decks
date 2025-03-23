@@ -1,0 +1,25 @@
+Pokémon: 5
+1 Mew ex PR-SV 53
+4 Scovillain ex TEF 22
+4 Teal Mask Ogerpon ex TWM 25
+1 Cleffa OBF 202
+4 Capsakid SVI 28 PH
+
+Trainer: 12
+4 Judge SIT-TG 25
+4 Iono PAL 269
+2 Boss's Orders LOR-TG 24
+4 Crushing Hammer SUM 115 PH
+4 Energy Switch SUM 117 PH
+2 Grabber MEW 162 PH
+4 Nest Ball SVI 255
+4 Bug Catching Set TWM 143
+1 Counter Catcher PAR 264
+1 Enhanced Hammer GRI 124 PH
+1 Unfair Stamp TWM 165
+2 Jamming Tower TWM 153
+
+Energy: 1
+13 Basic {G} Energy GEN 75
+
+Total Cards: 60

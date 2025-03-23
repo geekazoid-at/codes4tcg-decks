@@ -1,0 +1,33 @@
+Pokémon: 1
+4 Iron Thorns ex TWM 77
+
+Trainer: 21
+3 Future Booster Energy Capsule PAR 164 PH
+1 Lost Vacuum LOR 217
+2 Techno Radar PAR 180 PH
+3 Pokémon Catcher BKP 105 PH
+3 Judge SIT-TG 25
+2 Boss's Orders LOR-TG 24
+2 Canceling Cologne ASR 136 PH
+1 Earthen Vessel SFA 96
+1 Prime Catcher TEF 157
+1 Penny SVI 252
+4 Pokégear 3.0 UNB 182 PH
+1 Energy Loto GRI 122 PH
+4 Arven PAF 235
+4 Crushing Hammer SUM 115 PH
+2 Boss's Orders PAL 265
+1 Iono PAL 269
+3 Lost City LOR 161 PH
+1 Giovanni's Charisma MEW 197
+1 Technical Machine: Turbo Energize PAR 179 PH
+2 Colress's Tenacity SFA 87
+3 Professor's Research CEL 24
+
+Energy: 4
+1 Double Turbo Energy ASR 216
+3 Double Turbo Energy BRS 151 PH
+6 Basic {L} Energy SVE 4
+1 Basic {L} Energy CRZ 155
+
+Total Cards: 60

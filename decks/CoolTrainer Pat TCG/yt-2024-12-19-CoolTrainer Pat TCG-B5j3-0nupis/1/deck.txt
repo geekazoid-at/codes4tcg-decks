@@ -1,0 +1,39 @@
+Pokémon: 10
+1 Galvantula ex SCR 168
+1 Fezandipiti ex SFA 92
+2 Joltik SCR 150
+1 Mew ex MEW 151
+1 Bloodmoon Ursaluna ex TWM 216
+1 Zeraora VSTAR CRZ-GG 43
+2 Zeraora VMAX CRZ 54
+2 Zeraora V CRZ 53
+1 Radiant Greninja ASR 46
+2 Miraidon ex SVI 244
+
+Trainer: 20
+2 Boss's Orders RCL 189
+1 Counter Gain SSP 169 PH
+1 Secret Box TWM 163
+1 Technical Machine: Devolution PAR 177 PH
+1 Energy Switch ROS 109
+1 Cassiopeia SFA 94
+4 Electric Generator SVI 170
+1 Nest Ball SVI 255
+1 Thorton LOR 167 PH
+1 Night Stretcher SFA 61 PH
+4 Arven PAF 235
+2 Iono PAF 237
+1 Switch MEW 206
+1 Nest Ball SUM 158
+1 Nest Ball SVI 181 PH
+3 Ultra Ball BRS 186
+1 Defiance Band SVI 169
+2 Counter Catcher PAR 264
+1 Rescue Board TEF 159 PH
+1 Canceling Cologne ASR 136
+
+Energy: 2
+3 Basic {G} Energy SVE 1 PH
+12 Basic {L} Energy SVE 4 PH
+
+Total Cards: 60

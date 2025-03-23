@@ -1,0 +1,32 @@
+Pokémon: 10
+1 Skwovet SVI 222
+2 Bidoof CRZ-GG 29
+2 Aerodactyl VSTAR LOR 93
+2 Aerodactyl V LOR 92
+3 Arceus VSTAR BRS 123
+1 Relicanth TEF 173
+4 Arceus V BRS 122
+1 Cornerstone Mask Ogerpon ex TWM 112
+1 Radiant Tsareena SIT 16
+2 Bibarel CRZ-GG 25
+
+Trainer: 11
+1 Lost Vacuum LOR 217
+4 Ultra Ball PLB 90 PH
+3 Judge SIT-TG 25
+3 Boss's Orders LOR-TG 24
+4 Nest Ball SVI 255
+1 Maximum Belt TEF 154
+1 Switch SLG 67 PH
+4 Crushing Hammer SUM 115 PH
+3 Iono PAL 269
+2 Lost City LOR 161 PH
+1 Eri TEF 210
+
+Energy: 4
+2 Jet Energy PAL 190 PH
+4 Double Turbo Energy BRS 151 PH
+6 Basic {F} Energy SVE 6
+2 Mist Energy TEF 161 PH
+
+Total Cards: 60

@@ -1,0 +1,33 @@
+Pokémon: 8
+4 Hisuian Zoroark V LOR 146
+4 Hisuian Zoroark VSTAR LOR 147
+3 Doduo MEW 84
+3 Dodrio MEW 85
+2 Manaphy CRZ-GG 6
+1 Radiant Alakazam SIT 59
+1 Squawkabilly ex PAL 264
+2 Gengar LOR-TG 6
+
+Trainer: 15
+3 Professor's Research CEL 24
+2 Boss's Orders LOR-TG 24
+1 Cheren's Care CRZ-GG 58
+2 Ciphermaniac's Codebreaking TEF 198
+1 Judge SIT-TG 25
+1 Cyllene ASR 183
+4 Ultra Ball PLB 90 PH
+4 Damage Pump LOR 156
+4 Great Ball SUM 119 PH
+2 Nest Ball SVI 255
+1 Switch SLG 67 PH
+1 Pal Pad FLF 92 PH
+4 Gapejaw Bog ASR 142 PH
+1 Maximum Belt TEF 154
+1 Canceling Cologne ASR 136 PH
+
+Energy: 3
+4 Double Turbo Energy BRS 151 PH
+2 Jet Energy PAL 190 PH
+2 Gift Energy LOR 171 PH
+
+Total Cards: 60

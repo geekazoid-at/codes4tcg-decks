@@ -1,0 +1,25 @@
+Pokémon: 5
+3 Ceruledge ex SSP 36
+1 Fezandipiti ex SFA 92
+4 Charcadet SSP 32
+1 Squawkabilly ex PAL 264
+1 Radiant Greninja ASR 46
+
+Trainer: 12
+4 Ultra Ball PLB 90 PH
+3 Boss's Orders LOR-TG 24
+4 Nest Ball SVI 255
+4 Earthen Vessel SFA 96
+1 Brilliant Blender SSP 164
+2 Pokégear 3.0 UNB 182 PH
+3 Night Stretcher SFA 61 PH
+4 Carmine TWM 217
+1 Briar SCR 171
+1 Iono PAL 269
+1 Professor's Research CEL 24
+2 PokéStop PGO 68 PH
+
+Energy: 1
+20 Basic {R} Energy SVE 2
+
+Total Cards: 60
