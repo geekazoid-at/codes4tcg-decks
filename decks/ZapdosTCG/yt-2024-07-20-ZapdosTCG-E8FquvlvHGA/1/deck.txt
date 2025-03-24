@@ -1,0 +1,38 @@
+Pokémon: 11
+3 Froslass TWM 53
+3 Snorunt SIT 41
+3 Munkidori TWM 95
+1 Cleffa OBF 80
+2 Mawile LOR 71
+1 Rotom V LOR 58
+1 Radiant Tsareena SIT 16
+1 Bloodmoon Ursaluna ex TWM 141
+1 Minior PAR 99
+1 Jirachi PAR 126
+1 Manaphy BRS 41
+
+Trainer: 18
+4 Iono PAL 185
+4 Irida ASR 147
+3 Arven SVI 166
+1 Lana's Aid TWM 155
+3 Buddy-Buddy Poffin TEF 144
+3 Nest Ball SVI 181
+2 Ultra Ball SVI 196
+1 Hisuian Heavy Ball ASR 146
+2 Earthen Vessel PAR 163
+2 Switch Cart ASR 154
+2 Counter Catcher PAR 160
+1 Unfair Stamp TWM 165
+1 Super Rod PAL 188
+1 Supereffective Glasses ASR 152
+2 Technical Machine: Devolution PAR 177
+1 Rescue Board TEF 159
+1 Forest Seal Stone SIT 156
+1 Temple of Sinnoh ASR 155
+
+Energy: 2
+5 Basic {D} Energy SVE 7
+2 Basic {P} Energy SVE 5
+
+Total Cards: 60

@@ -1,0 +1,31 @@
+Pokémon: 10
+2 Bibarel BRS 121
+2 Baxcalibur PAL 60
+1 Kyogre CRZ 36
+2 Origin Forme Palkia V ASR 39
+3 Chien-Pao ex PAL 61
+2 Origin Forme Palkia VSTAR ASR 40
+1 Radiant Greninja ASR 46
+2 Bidoof CRZ 111
+3 Frigibax PAL 57 PH
+1 Lumineon V CRZ-GG 39
+
+Trainer: 13
+3 Ultra Ball SVI 196
+4 Irida ASR 147
+2 Rare Candy SVI 191
+2 Escape Rope BST 125
+1 Lost Vacuum LOR 162
+1 Skaters' Park FST 242
+2 Lost City LOR 161
+4 Battle VIP Pass FST 225
+3 Iono PAL 185
+1 Superior Energy Retrieval PAL 189 PH
+3 Superior Energy Retrieval PAL 189
+2 Nest Ball SVI 181
+3 Boss's Orders PAL 172
+
+Energy: 1
+10 Basic {W} Energy SVE 3
+
+Total Cards: 60

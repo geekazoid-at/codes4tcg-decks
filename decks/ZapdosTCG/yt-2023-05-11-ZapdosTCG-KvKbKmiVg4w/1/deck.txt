@@ -1,0 +1,34 @@
+Pokémon: 7
+3 Regieleki EVS 60
+1 Regidrago EVS 124
+2 Regice ASR 37
+2 Regirock ASR 75
+2 Regidrago ASR 118
+2 Registeel ASR 108
+2 Regigigas ASR 130
+
+Trainer: 14
+3 Trekking Shoes ASR 156
+1 Hisuian Heavy Ball ASR 146
+2 Switch Cart ASR 154
+2 Escape Rope BST 125
+2 Serena SIT 164
+2 Judge SVI 176
+4 Energy Search SVI 172
+2 Miriam SVI 179
+4 Nest Ball SVI 181
+4 Professor's Research SVI 189
+3 Path to the Peak CRE 148
+1 Choice Belt BRS 135
+1 Boss's Orders BRS 132
+4 Ultra Ball SVI 196
+
+Energy: 6
+2 Gift Energy LOR 171
+2 Basic {G} Energy SVE 1
+1 Double Turbo Energy BRS 151
+2 Basic {F} Energy SVE 6
+3 Basic {L} Energy SVE 4
+1 Basic {R} Energy SVE 2
+
+Total Cards: 60

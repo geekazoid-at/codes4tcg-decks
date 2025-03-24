@@ -1,0 +1,29 @@
+Pokémon: 7
+1 Charcadet SVI 40
+2 Squawkabilly ex PAL 169
+1 Fan Rotom SCR 118
+1 Fezandipiti ex SFA 38
+1 Radiant Greninja ASR 46
+3 Charcadet SSP 32
+3 Ceruledge ex SSP 36
+
+Trainer: 12
+4 Carmine TWM 145
+2 Boss's Orders PAL 172
+2 Judge SVI 176
+2 Professor's Research SVI 189
+1 Briar SCR 132
+4 Ultra Ball SVI 196
+3 Nest Ball SVI 181
+3 Earthen Vessel PAR 163
+2 Night Stretcher SFA 61
+1 Pal Pad SVI 182
+1 Canceling Cologne ASR 136
+3 PokéStop PGO 68
+
+Energy: 3
+15 Basic {R} Energy SVE 10
+4 Jet Energy PAL 190
+1 Legacy Energy TWM 167
+
+Total Cards: 60
