@@ -1,0 +1,27 @@
+Pokémon: 4
+4 Blissey V CRE 119
+1 Fan Rotom SCR 118
+3 Bouffalant SCR 119
+1 Radiant Greninja ASR 46
+
+Trainer: 10
+4 Professor's Research SHF 60
+4 Path to the Peak CRE 148
+1 Hero's Cape TEF 152
+2 Pokégear 3.0 SVI 186
+1 Forest Seal Stone SIT 156
+4 Nest Ball SVI 181
+3 Bravery Charm PAL 173
+3 Boss's Orders PAL 172
+4 Milo RCL 161
+4 Max Potion BKP 103
+
+Energy: 6
+1 Mist Energy TEF 161
+4 Double Colorless Energy PHF 111 PH
+4 Capture Energy RCL 171
+4 Jet Energy PAL 190
+4 Powerful {C} Energy DAA 176
+4 Lucky Energy CRE 158
+
+Total Cards: 60

@@ -1,0 +1,41 @@
+Pokémon: 15
+2 Slowpoke SVI 42
+1 Slowpoke SVI 204
+1 Slowpoke SCR 57
+1 Lumineon V CRZ-GG 39
+1 Fezandipiti ex SFA 92
+3 Slowking SCR 58
+1 Haxorus SFA 46
+1 Coalossal TEF 95
+3 Kirlia SIT 68
+1 Crobat SIT 105
+2 Gardevoir ex PAF 233
+1 Ralts SVI 211
+2 Ralts PAF 27
+2 Kyurem SFA 47
+1 Regigigas PRE 86 PH
+
+Trainer: 16
+1 Buddy-Buddy Poffin TWM 223
+1 Counter Catcher PAR 160
+1 Cyllene ASR 183
+1 Precious Trolley SSP 185
+2 Ultra Ball CRZ 146
+4 Ciphermaniac's Codebreaking TEF 198
+3 Academy at Night SFA 54
+1 Professor Turo's Scenario PAR 257
+1 Roxanne CRZ-GG 66
+1 Earthen Vessel SFA 96
+1 Jacq SVI 250
+3 Night Stretcher SFA 61
+4 Arven PAF 235
+2 Boss's Orders PAL 265
+2 Technical Machine: Evolution PAR 178
+1 Defiance Band SVI 169
+
+Energy: 3
+3 Basic {P} Energy SVE 5
+1 Basic {P} Energy MEW 207
+4 Reversal Energy PAR 266
+
+Total Cards: 60
