@@ -1,0 +1,27 @@
+Pokémon: 2
+4 Great Tusk TEF 97
+1 Cornerstone Mask Ogerpon ex TWM 112
+
+Trainer: 17
+1 Hisuian Heavy Ball ASR 146
+3 Counter Catcher PAR 160
+2 Accompanying Flute TWM 142
+1 Hand Trimmer TEF 150
+4 Pokégear 3.0 SVI 186
+3 Night Stretcher SFA 61
+4 Pal Pad SVI 182
+4 Nest Ball SVI 181
+3 Artazon PAL 171
+3 Handheld Fan TWM 150
+4 Professor Sada's Vitality PAR 170
+4 Super Rod PAL 188
+1 Eri TEF 146
+4 Explorer's Guidance TEF 147
+2 Ultra Ball SVI 196
+1 Neutralization Zone SFA 60
+4 Earthen Vessel PAR 163
+
+Energy: 1
+7 Basic {F} Energy SVE 14
+
+Total Cards: 60

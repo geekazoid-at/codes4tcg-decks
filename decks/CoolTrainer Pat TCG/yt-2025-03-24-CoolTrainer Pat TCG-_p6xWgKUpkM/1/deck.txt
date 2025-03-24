@@ -1,0 +1,30 @@
+Pokémon: 10
+2 Okidogi ex SFA 90
+2 Pecharunt ex SFA 93
+1 Gengar PAF 57 PH
+2 Munkidori TWM 95
+3 Gastly PAF 55
+2 Haunter TEF 103
+1 Fezandipiti ex SFA 92
+2 Morpeko PAR 121
+4 Gengar ex TEF 104
+1 Gastly PAF 55 PH
+
+Trainer: 12
+2 Buddy-Buddy Poffin PRE 101
+4 Ultra Ball PAF 91
+4 Rare Candy SVI 191
+1 Arven PAF 235
+4 Janine's Secret Art SFA 59
+2 Night Stretcher SFA 61
+2 Nest Ball SVI 181
+1 Rescue Board TEF 159
+3 Arven SVI 249
+1 Precious Trolley SSP 185
+3 Binding Mochi SFA 55
+2 Boss's Orders RCL 189
+
+Energy: 1
+11 Basic {D} Energy SVE 15
+
+Total Cards: 60

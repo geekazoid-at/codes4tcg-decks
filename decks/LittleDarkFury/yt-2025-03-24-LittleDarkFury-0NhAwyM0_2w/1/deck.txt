@@ -1,0 +1,35 @@
+Pokémon: 10
+3 Turtwig TEF 10
+3 Torterra BRS 8
+2 Grotle BRS 7
+2 Luxray PAL 71
+3 Drakloak TWM 129
+3 Dreepy TWM 128
+2 Pidgeot ex OBF 164
+2 Pidgey OBF 162
+1 Pidgeotto OBF 163
+2 Dragapult ex TWM 130
+
+Trainer: 13
+1 Counter Catcher PAR 160
+4 Nest Ball PAF 84
+3 Ultra Ball PAF 91
+1 Artazon PAL 171
+4 Arven OBF 186
+1 Boss's Orders PAL 172
+4 Iono PAL 185
+1 Technical Machine: Evolution PAR 178
+1 Super Rod PAL 188
+3 Rare Candy PAF 89
+1 Earthen Vessel PRE 106
+2 Crispin PRE 105
+2 Buddy-Buddy Poffin TEF 144
+
+Energy: 5
+2 Basic {R} Energy BUS 167
+2 Basic {G} Energy GRI 167
+2 Reversal Energy PAL 192
+1 Neo Upper Energy TEF 162
+2 Basic {P} Energy SUM 162
+
+Total Cards: 60
