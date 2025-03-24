@@ -55,7 +55,7 @@ export function processDescription(
   videoDescription = videoDescription
     .split("\n")
     .map((t, index, arr) => {
-      if (t.match(/[A-Z+ ]+:/g)?.length) {
+      if (t.match(/[A-Za-z+ ]+:/g)?.length) {
         inDeck = true;
       }
 
