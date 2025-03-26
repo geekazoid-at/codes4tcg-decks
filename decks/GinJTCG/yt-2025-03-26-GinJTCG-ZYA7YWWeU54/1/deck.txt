@@ -1,0 +1,31 @@
+Pokémon: 8
+1 Skwovet SVI 222
+2 Bidoof CRZ-GG 29
+3 Arceus VSTAR BRS 123
+4 Arceus V BRS 122
+2 Heatran VMAX ASR 26
+2 Heatran V ASR 25
+1 Radiant Charizard CRZ 20
+2 Bibarel CRZ-GG 25
+
+Trainer: 13
+4 Ultra Ball PLB 90 PH
+1 Scoop Up Cyclone TWM 162
+4 Judge SIT-TG 25
+1 Super Rod PAL 276
+2 Boss's Orders LOR-TG 24
+4 Nest Ball SVI 255
+2 Switch MEW 206
+2 Jamming Tower TWM 153
+1 Night Stretcher SSP 251
+2 Cheren's Care CRZ-GG 58
+3 Iono PAL 269
+1 Magma Basin BRS 185
+1 Pal Pad FLF 92 PH
+
+Energy: 3
+4 Double Turbo Energy ASR 216
+2 Mist Energy TEF 161 PH
+9 Basic {R} Energy OBF 230
+
+Total Cards: 60

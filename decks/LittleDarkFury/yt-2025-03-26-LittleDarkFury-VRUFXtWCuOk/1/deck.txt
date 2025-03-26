@@ -1,0 +1,62 @@
+Pokémon: 17
+1 Pidgeot ex OBF 164
+1 Charizard ex OBF 125
+1 Fezandipiti ex SFA 38
+1 Dragapult ex TWM 130
+1 Dreepy TWM 128
+1 Drakloak TWM 129
+1 Charmander PAF 7
+1 Charmeleon PAF 8
+1 Pidgeotto MEW 17
+1 Pidgey OBF 162
+1 Manaphy BRS 41
+1 Bidoof CRZ 111
+1 Cleffa OBF 80
+1 Radiant Charizard PGO 11
+1 Rotom V LOR 58
+1 Lumineon V BRS 40
+1 Bibarel PR-SW 188
+
+Trainer: 35
+1 Professor's Research PRE 122
+1 Drayton SSP 174
+1 Sparkling Crystal SCR 142
+1 Night Stretcher SFA 61
+1 Buddy-Buddy Poffin TEF 144
+1 Rescue Board TEF 159
+1 Technical Machine: Evolution PAR 178
+1 Professor Turo's Scenario PAR 171
+1 Iono PAL 185
+1 Super Rod PAL 188
+1 Artazon PAL 171
+1 Nest Ball SVI 181
+1 Boss's Orders PAL 172
+1 Counter Catcher PAR 160
+1 Jacq SVI 175
+1 Pokégear 3.0 SVI 186
+1 Pal Pad SVI 182
+1 Rare Candy SVI 191
+1 Forest Seal Stone SIT 156
+1 Arven SVI 166
+1 Lost Vacuum LOR 162
+1 Roxanne ASR 150
+1 Hisuian Heavy Ball ASR 146
+1 Ultra Ball SVI 196
+1 Switch SVI 194 PH
+1 Clavell PAL 177
+1 Tera Orb SSP 189
+1 Capturing Aroma SIT 153
+1 Great Ball PAL 183
+1 Dusk Ball SSP 175
+1 Lance SIT 159
+1 Thorton LOR 167
+1 Cynthia's Ambition BRS 138
+1 Surfer SSP 187
+1 Canceling Cologne ASR 136
+
+Energy: 3
+5 Basic {R} Energy SVE 2
+2 Basic {P} Energy SVE 5
+1 Double Turbo Energy BRS 151
+
+Total Cards: 60
