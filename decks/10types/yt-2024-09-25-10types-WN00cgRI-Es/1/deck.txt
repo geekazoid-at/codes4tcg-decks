@@ -1,0 +1,30 @@
+Pokémon: 8
+4 Teal Mask Ogerpon ex TWM 25
+1 Fezandipiti ex SFA 38
+1 Mew ex MEW 151
+1 Darkrai VSTAR ASR 99
+1 Darkrai V ASR 98
+1 Radiant Greninja ASR 46
+1 Squawkabilly ex PAL 169
+2 Wyrdeer V ASR 134
+
+Trainer: 14
+1 Hisuian Heavy Ball ASR 146
+1 Energy Retrieval SVI 171
+1 Prime Catcher TEF 157
+4 Night Stretcher SFA 61
+1 Pal Pad SVI 182
+4 Nest Ball SVI 181
+4 Professor's Research SVI 189
+3 Boss's Orders PAL 172
+2 Iono PAL 185
+2 Area Zero Underdepths SCR 131
+4 Glass Trumpet SCR 135
+4 Ultra Ball SVI 196
+2 Switch SVI 194
+1 Earthen Vessel PAR 163
+
+Energy: 1
+14 Basic {G} Energy SVE 1
+
+Total Cards: 60

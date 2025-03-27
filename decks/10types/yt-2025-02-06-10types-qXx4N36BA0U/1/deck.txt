@@ -1,0 +1,36 @@
+Pokémon: 12
+1 Eevee ex PRE 75
+2 Sylveon ex SSP 86
+3 Espathra ex PAF 6
+1 Sylveon PRE 40
+2 Eevee SSP 143
+1 Flittle PAR 80
+2 Xatu PAR 72
+1 Fezandipiti ex SFA 38
+1 Manaphy BRS 41
+2 Flittle SVI 100
+2 Natu PAR 71
+1 Klefki SVI 96
+
+Trainer: 14
+1 Energy Retrieval SVI 171
+2 Professor's Research SVI 189
+4 Arven OBF 186
+2 Boss's Orders PAL 172
+4 Iono PAL 185
+2 Great Ball PAL 183
+1 Technical Machine: Turbo Energize PAR 179
+1 Technical Machine: Evolution PAR 178
+2 Super Rod PAL 188
+1 Lost Vacuum LOR 162
+4 Buddy-Buddy Poffin TEF 144
+1 Sparkling Crystal PRE 129
+4 Ultra Ball SVI 196
+1 Rescue Board PRE 126
+
+Energy: 3
+2 Basic {L} Energy SVE 12
+2 Basic {W} Energy SVE 11
+7 Basic {P} Energy SVE 13
+
+Total Cards: 60

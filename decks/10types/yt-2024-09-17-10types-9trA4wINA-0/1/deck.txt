@@ -1,0 +1,38 @@
+Pokémon: 10
+2 Pidgey MEW 16
+1 Raboot SCR 27
+3 Cinderace ex SCR 28
+1 Munkidori TWM 95
+1 Rotom V CRZ 45
+4 Scorbunny SCR 26
+1 Fezandipiti ex SFA 38
+1 Radiant Charizard CRZ 20
+2 Pidgeot ex OBF 164
+1 Manaphy BRS 41
+
+Trainer: 16
+1 Counter Catcher PAR 160
+2 Magma Basin BRS 144
+3 Nest Ball PAF 84
+1 Forest Seal Stone SIT 156
+2 Feather Ball ASR 141
+3 Ultra Ball PAF 91
+1 Night Stretcher SFA 61
+3 Arven OBF 186
+2 Boss's Orders PAL 172
+1 Super Rod PAL 188
+4 Rare Candy PAF 89
+1 Crispin SCR 133
+4 Buddy-Buddy Poffin TEF 144
+3 Iono PAF 80
+1 Switch SVI 194
+1 Earthen Vessel PAR 163
+
+Energy: 5
+5 Basic {R} Energy SVE 2
+2 Basic {D} Energy SVE 7
+1 Basic {F} Energy SVE 6
+1 Double Turbo Energy BRS 151
+1 Neo Upper Energy TEF 162
+
+Total Cards: 60

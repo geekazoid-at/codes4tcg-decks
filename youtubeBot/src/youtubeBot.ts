@@ -17,6 +17,7 @@ const channelIdGym = "UC35KRaWGA7hQ5De40GG_7Fw"; // TrickyGym
 const channelIdZapdos = "UCYCzQRsPJ_eUEXXmU_CSx2g";
 const channelIdGinJ = "UCG73skhpwL7MF0Fb6RufGTQ";
 const channelIdPat = "UCLryZvbuOJNmRCp_OI-VoTg";
+const channelId10t = "UCGt88fXOvxhyXZrj5MDKQwQ";
 
 const allChannelIds: string[] = [
   channelIdTyp,
@@ -32,6 +33,7 @@ const allChannelIds: string[] = [
   channelIdZapdos,
   channelIdGinJ,
   channelIdPat,
+  channelId10t,
 ];
 
 const main = async (

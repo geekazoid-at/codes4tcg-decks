@@ -1,0 +1,36 @@
+Pokémon: 10
+1 Charizard ex MEW 6
+1 Marshadow UNB 81
+4 Sobble CRE 41
+3 Drizzile SSH 56
+1 Radiant Charizard CRZ 20
+1 Charmeleon TEU 13
+2 Inteleon SSH 58
+1 Manaphy BRS 41
+4 Charmander VIV 23
+3 Charizard ex OBF 125
+
+Trainer: 18
+2 Pokémon Communication TEU 152
+4 Level Ball BST 129
+1 Nest Ball PAF 84
+3 Irida ASR 147
+1 Field Blower GRI 125
+1 Pal Pad SVI 182
+1 Giant Hearth UNM 197
+1 Boss's Orders PAL 172
+1 Scoop Up Cyclone PLB 95
+1 Professor Turo's Scenario PAR 171
+4 Evolution Incense SSH 163
+1 Super Rod PAL 188
+4 Rare Candy PAF 89
+1 Marnie CPA 56
+1 Guzma BUS 115
+2 Buddy-Buddy Poffin TEF 144
+1 Iono PAF 80
+3 Devolution Spray Z UNB 166
+
+Energy: 1
+6 Basic {R} Energy SVE 2
+
+Total Cards: 60

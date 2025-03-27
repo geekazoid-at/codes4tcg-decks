@@ -1,0 +1,39 @@
+Pokémon: 5
+1 Rotom V LOR 58
+1 Mimikyu PAL 97
+1 Pidgeot V LOR 137
+4 Snorlax PGO 55
+2 Cornerstone Mask Ogerpon ex TWM 112
+
+Trainer: 27
+1 Neutralization Zone SFA 60
+1 Hisuian Heavy Ball ASR 146
+3 Counter Catcher PAR 160
+1 Switch Cart ASR 154
+3 Miss Fortune Sisters LOR 164
+1 Team Yell's Cheer BRS 149
+3 Accompanying Flute TWM 142
+1 Erika's Invitation MEW 160
+1 Forest Seal Stone SIT 156
+1 Xerosic's Machinations SFA 64 PH
+1 Cyllene ASR 138
+4 Pokégear 3.0 SVI 186
+1 Night Stretcher SFA 61
+2 Pal Pad SVI 182
+3 Penny SVI 183
+4 Nest Ball SVI 181
+1 Night Stretcher SFA 61 PH
+2 Temple of Sinnoh ASR 155
+4 Arven OBF 186
+1 Daisy's Help MEW 158
+2 Bravery Charm PAL 173
+1 Boss's Orders PAL 172
+1 Iono PAL 185
+1 Giacomo PAL 182
+4 Crushing Hammer SVI 168
+1 Arc Phone LOR 152
+2 Eri TEF 146
+
+Energy: 0
+
+Total Cards: 60

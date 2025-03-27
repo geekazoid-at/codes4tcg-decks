@@ -1,0 +1,33 @@
+Pokémon: 11
+1 Latios PAR 73
+3 Espathra ex PAF 6
+3 Xatu PAF 26
+1 Mew ex MEW 151
+2 Shuppet SVI 87
+2 Flutter Mane TEF 78
+2 Banette ex SVI 88
+3 Natu PGO 32
+1 Radiant Greninja ASR 46
+1 Manaphy BRS 41
+3 Flittle SVI 100
+
+Trainer: 14
+2 Pokémon League Headquarters OBF 192
+1 Nest Ball PAF 84
+4 Ultra Ball PAF 91
+1 Prime Catcher TEF 157
+1 Cyllene ASR 138
+1 Pal Pad SVI 182
+1 Temple of Sinnoh ASR 155
+2 Boss's Orders PAL 172
+2 Professor's Research SHF 60
+1 Lost Vacuum CRZ 135
+2 Tulip PAR 181
+4 Buddy-Buddy Poffin TEF 144
+4 Iono PAF 80
+1 Earthen Vessel PAR 163
+
+Energy: 1
+11 Basic {P} Energy SVE 5
+
+Total Cards: 60

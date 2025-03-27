@@ -1,0 +1,31 @@
+Pokémon: 12
+2 Lanturn CES 50
+1 Pidgeot TEU 124
+2 Pidgeotto TEU 123
+3 Pidgey TEU 121
+3 Dragonair UNM 150
+3 Dratini UNM 148
+2 Tornadus UNM 178
+2 Thundurus UNM 68
+2 Chinchou CES 49
+1 Dragonite UNM 151
+1 Dragonite SMALT 163
+2 Alolan Grimer UNM 127
+
+Trainer: 10
+2 Pokémon Fan Club UPR 133
+2 Pokémon Communication TEU 152
+1 Switch CES 147
+1 Tate & Liza CES 148
+2 Lillie UPR 125
+1 Fisherman CES 130
+2 Hau CES 132
+2 Bug Catcher UNM 189
+2 Cynthia UPR 119
+1 Energy Recycle System CES 128
+
+Energy: 2
+11 Basic {L} Energy SVE 4
+9 Basic {W} Energy SVE 3
+
+Total Cards: 60

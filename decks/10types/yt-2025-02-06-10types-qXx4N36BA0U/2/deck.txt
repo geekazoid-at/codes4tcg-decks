@@ -1,0 +1,31 @@
+Pokémon: 6
+1 Munkidori SFA 72
+3 Espathra ex PAF 6
+3 Teal Mask Ogerpon ex TWM 25
+3 Flittle SCR 68
+1 Flittle SCR 68 PH
+1 Munkidori TWM 95 PH
+
+Trainer: 15
+3 Pokémon League Headquarters OBF 192
+4 Tera Orb SSP 189
+1 Secret Box TWM 163
+3 Rigid Band MEW 165
+1 Pokémon League Headquarters OBF 192 PH
+4 Energy Switch SVI 173
+1 Night Stretcher SFA 61
+2 Nest Ball SVI 181
+3 Boss's Orders PAL 172
+4 Iono PAL 185
+4 Arven SVI 166
+1 Super Rod PAL 188
+2 Earthen Vessel PRE 106
+1 Crispin SCR 133
+3 Buddy-Buddy Poffin TEF 144
+
+Energy: 3
+6 Basic {G} Energy SVE 9
+2 Basic {D} Energy SVE 15
+3 Basic {P} Energy SVE 13
+
+Total Cards: 60

@@ -1,0 +1,29 @@
+Pokémon: 5
+2 Azelf SSP 80
+4 Uxie SSP 78
+4 Froslass TWM 53
+4 Snorunt SIT 41
+1 Cleffa OBF 80
+
+Trainer: 16
+2 Ultra Ball SVI 196
+2 Irida ASR 147
+1 Counter Gain SSP 169
+1 Earthen Vessel PAR 163
+4 Buddy-Buddy Poffin TEF 144
+2 Counter Catcher PAR 160
+4 Iono PAL 185
+1 Technical Machine: Devolution PAR 177
+2 Night Stretcher SFA 61
+2 Super Rod PAL 188
+1 Technical Machine: Evolution PAR 178
+2 Rescue Board TEF 159
+1 Unfair Stamp TWM 165
+4 Accompanying Flute TWM 142
+2 Artazon PAL 171
+4 Arven SVI 166
+
+Energy: 1
+10 Basic {P} Energy SVE 13
+
+Total Cards: 60
