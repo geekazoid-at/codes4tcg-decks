@@ -1,0 +1,61 @@
+Pokémon: 20
+1 Charmander MEW 4
+1 Bloodmoon Ursaluna ex TWM 141
+1 Espathra ex PAF 6
+1 Dudunsparce TEF 129
+1 Xatu PAF 26
+1 Dunsparce PRE 79
+1 Flittle SCR 68
+1 Charmeleon PAF 8
+1 Drakloak TWM 129
+1 Dreepy TWM 128
+1 Fezandipiti ex SFA 38
+1 Pidgeotto MEW 17
+1 Budew PRE 4
+1 Mimikyu PAF 37
+1 Pidgeot ex OBF 164
+1 Pidgey OBF 162
+1 Natu PAR 71
+1 Dragapult ex PRE 73
+1 Squawkabilly ex PAL 169
+1 Charizard ex OBF 125
+
+Trainer: 32
+1 Dusk Ball SSP 175
+1 Counter Catcher PAR 160
+1 Mela PAR 167
+1 Cyrano SSP 170
+1 Town Store OBF 196
+1 Tera Orb SSP 189
+1 Nest Ball PAF 84
+1 Jacq SVI 175
+1 Energy Search SVI 172
+1 Morty's Conviction TEF 155
+1 Night Stretcher SFA 61
+1 Clavell PAL 177
+1 Artazon PAL 171
+1 Boss's Orders PAL 172
+1 Arven SVI 166
+1 Great Ball PAL 183
+1 Technical Machine: Evolution PAR 178
+1 Super Rod PAL 188
+1 Colress's Tenacity SFA 57
+1 Defiance Band SVI 169
+1 Carmine PRE 103
+1 Buddy-Buddy Poffin PRE 101
+1 Crispin PRE 105
+1 Grand Tree SCR 136
+1 Kofu SCR 138
+1 Iono PAF 80
+1 Ultra Ball SVI 196
+1 Professor's Research PRE 122
+1 Switch SVI 194
+1 Professor Turo's Scenario PRE 121
+1 Rare Candy SVI 191
+1 Earthen Vessel PAR 163
+
+Energy: 2
+4 Basic {R} Energy SVE 10
+4 Basic {P} Energy SVE 13
+
+Total Cards: 60

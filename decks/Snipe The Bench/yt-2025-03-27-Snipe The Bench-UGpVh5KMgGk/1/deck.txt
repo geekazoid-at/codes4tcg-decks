@@ -1,0 +1,32 @@
+Pokémon: 5
+1 Iron Bundle PAR 56
+4 Miraidon SSP 69
+1 Iron Leaves ex TEF 25
+2 Iron Hands ex PAR 70
+4 Iron Crown ex TEF 81
+
+Trainer: 17
+4 Future Booster Energy Capsule PAR 164
+2 Judge PAF 228
+1 Lively Stadium SSP 180
+1 Prime Catcher PRE 119
+3 Pokégear 3.0 SVI 186
+2 Night Stretcher SFA 61
+2 Nest Ball SVI 181
+2 Iono PAF 237
+2 Arven OBF 186
+2 Boss's Orders PAL 172
+1 Super Rod PAL 188
+4 Techno Radar PAR 180
+4 Crispin SCR 133
+2 Ultra Ball SVI 196
+1 Professor's Research PRE 122
+1 Switch SVI 194
+1 Earthen Vessel PAR 163
+
+Energy: 3
+3 Basic {G} Energy SVE 1
+2 Basic {P} Energy SVE 5
+8 Basic {L} Energy SVE 4
+
+Total Cards: 60
