@@ -1,0 +1,35 @@
+Pokémon: 10
+1 Dusknoir PRE 37
+4 Drakloak TWM 129
+4 Dreepy TWM 128
+2 Dragapult ex TWM 130
+2 Duskull PRE 35
+1 Fezandipiti ex SFA 38
+2 Budew PRE 4
+2 Charizard ex OBF 125
+2 Charmander MEW 4
+1 Charmeleon MEW 5
+
+Trainer: 16
+2 Ultra Ball SVI 196
+1 Vitality Band SVI 197
+3 Rare Candy SVI 191
+4 Arven OBF 186
+1 Defiance Band SVI 169
+2 Jacq SVI 175
+4 Buddy-Buddy Poffin TEF 144
+1 Counter Catcher PAR 160
+3 Iono PAL 185
+2 Super Rod PAL 188
+1 Prime Catcher TEF 157
+1 Pokémon League Headquarters OBF 192
+2 Nest Ball SVI 181
+1 Rescue Board TEF 159
+1 Tera Orb SSP 189
+2 Boss's Orders PAL 172
+
+Energy: 2
+5 Basic {R} Energy SVE 10
+3 Basic {P} Energy SVE 13
+
+Total Cards: 60

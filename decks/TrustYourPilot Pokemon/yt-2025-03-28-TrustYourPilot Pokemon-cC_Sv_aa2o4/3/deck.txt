@@ -1,0 +1,39 @@
+Pokémon: 13
+1 Latias ex SSP 76
+1 Bloodmoon Ursaluna ex TWM 141
+2 Teal Mask Ogerpon ex TWM 25
+1 Terapagos ex SCR 128
+1 Ditto MEW 132
+1 Fezandipiti ex SFA 38
+1 Mew ex MEW 151
+1 Pikachu ex SSP 57
+4 Hoothoot SCR 114
+2 Wellspring Mask Ogerpon ex TWM 64
+4 Noctowl SCR 115
+2 Fan Rotom SCR 118
+1 Lillie's Clefairy ex JTG 56
+
+Trainer: 14
+1 Counter Catcher PAR 160
+3 Energy Switch SVI 173
+1 Night Stretcher SFA 61
+4 Nest Ball SVI 181
+2 Professor's Research SVI 189
+2 Boss's Orders PAL 172
+1 Iono PAL 185
+1 Super Rod PAL 188
+3 Area Zero Underdepths SCR 131
+3 Crispin SCR 133
+4 Ultra Ball SVI 196
+1 Switch SVI 194
+1 Sparkling Crystal SCR 142
+1 Earthen Vessel PAR 163
+
+Energy: 5
+1 Basic {L} Energy SVE 12
+5 Basic {G} Energy SVE 9
+1 Basic {W} Energy SVE 11
+2 Basic {P} Energy SVE 13
+1 Basic {M} Energy SVE 16
+
+Total Cards: 60
