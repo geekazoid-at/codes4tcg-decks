@@ -1,0 +1,34 @@
+Pokémon: 9
+4 N's Zorua JTG 97
+2 N's Darmanitan JTG 27
+1 Fezandipiti ex SFA 38
+4 N's Zoroark ex JTG 98
+1 Budew PRE 4
+1 N's Sigilyph JTG 64
+3 N's Darumaka JTG 26
+1 Pecharunt ex SFA 39
+2 N's Reshiram JTG 116
+
+Trainer: 16
+2 Counter Catcher PAR 160
+1 Pokémon League Headquarters OBF 192
+1 Unfair Stamp TWM 165
+2 Night Stretcher SFA 61
+2 Nest Ball SVI 181
+2 Boss's Orders PAL 172
+4 Iono PAL 185
+4 Arven SVI 166
+1 Technical Machine: Evolution PAR 178
+2 N's Castle JTG 152
+3 N's PP Up JTG 153
+1 Defiance Band SVI 169
+3 Buddy-Buddy Poffin PRE 101
+1 Binding Mochi PRE 95
+3 Ultra Ball SVI 196
+1 Earthen Vessel PAR 163
+
+Energy: 2
+2 Reversal Energy PAL 192
+6 Basic {D} Energy SVE 15
+
+Total Cards: 60
