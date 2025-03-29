@@ -1,0 +1,33 @@
+Pokémon: 11
+3 N's Zorua JTG 97
+1 N's Reshiram JTG 116
+1 Noibat PAF 68
+2 N's Darmanitan JTG 27
+1 N's Zoroark ex JTG 175
+1 Noibat PAL 152
+2 Noivern JTG 128
+2 N's Zoroark ex JTG 98
+1 Hop's Cramorant JTG 138
+1 Fezandipiti ex SFA 38
+2 N's Darumaka JTG 26
+
+Trainer: 13
+4 Ultra Ball SVI 196
+2 Earthen Vessel PAR 163
+4 Buddy-Buddy Poffin TEF 144
+1 Counter Catcher PAR 160
+4 Iono PAL 185
+4 Professor's Research SHF 60
+3 Night Stretcher SFA 61
+2 N's Castle JTG 152
+4 N's PP Up JTG 153
+1 Prime Catcher TEF 157
+1 Professor Turo's Scenario PRE 121
+4 Nest Ball SVI 181
+1 Boss's Orders PAL 172
+
+Energy: 2
+6 Basic {D} Energy SVE 15
+2 Reversal Energy PAL 192
+
+Total Cards: 60

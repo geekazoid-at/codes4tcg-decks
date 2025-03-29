@@ -1,0 +1,24 @@
+Pokémon: 4
+1 Fezandipiti ex SFA 92
+4 Charcadet SSP 32 PH
+1 Budew PRE 4 PH
+4 Ceruledge ex PRE 147
+
+Trainer: 11
+3 Night Stretcher SSP 251
+3 Explorer's Guidance TEF 147
+4 Ultra Ball PLF 122
+2 Pal Pad FLF 92 PH
+4 Buddy-Buddy Poffin TWM 223
+1 Briar SCR 163
+2 Counter Catcher PAR 264
+4 Professor's Research SVI 240
+2 Boss's Orders PAL 265
+4 Earthen Vessel SFA 96
+1 Brilliant Blender SSP 164
+
+Energy: 2
+2 Jet Energy SSP 252
+18 Basic {R} Energy EVO 92 PH
+
+Total Cards: 60

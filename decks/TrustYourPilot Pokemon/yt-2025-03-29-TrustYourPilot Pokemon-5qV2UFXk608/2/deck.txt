@@ -1,0 +1,38 @@
+Pokémon: 12
+4 Swinub JTG 77
+1 Naclstack PAL 122
+1 Pidgeotto MEW 17
+2 Pidgeot ex OBF 164
+2 Piloswine JTG 78
+2 Pidgey OBF 162
+2 Luxray PAL 71
+1 Fezandipiti ex SFA 38
+1 Cornerstone Mask Ogerpon ex TWM 112
+2 Nacli PAR 102
+2 Garganacl PAR 104
+3 Mamoswine ex JTG 79
+
+Trainer: 17
+1 Ultra Ball SVI 196
+1 Switch SVI 194
+4 Rare Candy SVI 191
+3 Arven OBF 186
+1 Earthen Vessel PAR 163
+3 Buddy-Buddy Poffin TEF 144
+1 Counter Catcher PAR 160
+1 Grand Tree SCR 136
+1 Jamming Tower TWM 153
+4 Iono PAL 185
+1 Professor Turo's Scenario PAR 171
+2 Colress's Tenacity SFA 57
+1 Super Rod PAL 188
+2 Technical Machine: Evolution PAR 178
+1 Big Air Balloon MEW 155
+1 Morty's Conviction TEF 155
+2 Boss's Orders PAL 172
+
+Energy: 2
+6 Basic {F} Energy SVE 14
+1 Reversal Energy PAL 192
+
+Total Cards: 60

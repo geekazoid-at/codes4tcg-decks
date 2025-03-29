@@ -1,0 +1,38 @@
+Pokémon: 12
+3 Mamoswine ex JTG 79
+1 Klinklang SCR 101
+1 Luxray PAL 71
+4 Swinub JTG 77
+1 Fezandipiti ex SFA 38
+2 Piloswine JTG 78
+2 Pidgeotto MEW 17
+2 Combusken JTG 23
+2 Blaziken ex JTG 24
+2 Pidgeot ex OBF 164
+2 Pidgey OBF 162
+2 Torchic JTG 22
+
+Trainer: 16
+1 Buddy-Buddy Poffin TWM 223
+2 Ultra Ball PLB 90 PH
+1 Precious Trolley SSP 185
+1 Super Rod PAL 276
+1 Boss's Orders LOR-TG 24
+2 Earthen Vessel SFA 96
+3 Pokégear 3.0 UNB 182 PH
+2 Technical Machine: Evolution PAR 178 PH
+4 Arven PAF 235
+1 Defiance Band SVI 169 PH
+1 Kieran TWM 218
+1 Jamming Tower TWM 153
+4 Rare Candy PRC 135 PH
+2 Iono PAL 269
+1 Counter Catcher PAR 264
+1 Morty's Conviction TEF 211
+
+Energy: 3
+6 Basic {F} Energy SVE 6 PH
+1 Reversal Energy PAR 266
+1 Basic {R} Energy OBF 230
+
+Total Cards: 60

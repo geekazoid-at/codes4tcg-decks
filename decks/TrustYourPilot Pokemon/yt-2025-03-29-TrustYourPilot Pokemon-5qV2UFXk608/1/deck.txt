@@ -1,0 +1,36 @@
+Pokémon: 11
+4 Swinub JTG 77
+2 Blaziken ex JTG 24
+2 Torchic JTG 22
+1 Pidgeotto MEW 17
+2 Pidgeot ex OBF 164
+2 Piloswine JTG 78
+2 Pidgey OBF 162
+1 Combusken JTG 23
+2 Luxray PAL 71
+1 Fezandipiti ex SFA 38
+3 Mamoswine ex JTG 79
+
+Trainer: 16
+2 Ultra Ball SVI 196
+1 Switch SVI 194
+4 Rare Candy SVI 191
+4 Arven OBF 186
+2 Earthen Vessel PAR 163
+2 Buddy-Buddy Poffin TEF 144
+1 Counter Catcher PAR 160
+2 Iono PAL 185
+1 Professor Turo's Scenario PAR 171
+2 Super Rod PAL 188
+2 Technical Machine: Evolution PAR 178
+1 Big Air Balloon MEW 155
+1 Pokémon League Headquarters OBF 192
+2 Professor's Research SVI 189
+1 Precious Trolley SSP 185
+2 Boss's Orders PAL 172
+
+Energy: 2
+6 Basic {F} Energy SVE 14
+2 Basic {R} Energy SVE 10
+
+Total Cards: 60
