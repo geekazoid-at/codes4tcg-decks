@@ -1,0 +1,35 @@
+Pokémon: 8
+1 Fezandipiti ex SFA 38
+2 Hop's Snorlax JTG 117
+2 Munkidori TWM 95
+2 Froslass TWM 53
+2 Hop's Cramorant JTG 138
+2 Hop's Zacian ex JTG 111
+2 Snorunt PAR 37
+1 Bloodmoon Ursaluna ex TWM 141
+
+Trainer: 18
+4 Hop's Choice Band JTG 148
+2 Ultra Ball SVI 196
+2 Hop's Bag JTG 147
+1 Penny SVI 183
+4 Iono PAL 185
+2 Night Stretcher SFA 61
+2 Iris's Fighting Spirit JTG 149
+1 Earthen Vessel PAR 163
+1 Technical Machine: Devolution PAR 177
+4 Postwick JTG 154
+1 Prime Catcher TEF 157
+1 Rescue Board TEF 159
+4 Arven OBF 186
+1 Counter Catcher PAR 160
+2 Boss's Orders PAL 172
+1 Switch SVI 194
+3 Professor's Research JTG 155
+4 Nest Ball SVI 181
+
+Energy: 2
+1 Jet Energy PAL 190
+5 Basic {D} Energy BUS 168
+
+Total Cards: 60
