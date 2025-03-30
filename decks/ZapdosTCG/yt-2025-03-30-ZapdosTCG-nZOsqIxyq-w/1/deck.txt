@@ -1,0 +1,33 @@
+Pokémon: 14
+3 Feebas SSP 41
+3 Milotic ex SSP 42
+2 Girafarig PAL 154
+2 Farigiraf ex TEF 108
+2 Cornerstone Mask Ogerpon ex TWM 112
+2 Munkidori TWM 95
+
+Trainer: 34
+4 Crispin SCR 133
+4 Arven OBF 186
+4 Boss's Orders PAL 172
+3 Iono PAL 185
+1 Professor's Research SVI 189
+4 Pokégear 3.0 SVI 186
+4 Nest Ball SVI 181
+1 Super Rod PAL 188
+1 Ultra Ball SVI 196
+1 Earthen Vessel PAR 163
+1 Buddy-Buddy Poffin TEF 144
+2 Technical Machine: Evolution PAR 178
+1 Technical Machine: Turbo Energize PAR 179
+1 Hero's Cape TEF 152
+2 Artazon PAL 171
+
+Energy: 12
+3 Basic {W} Energy SVE 3
+3 Basic {P} Energy SVE 5
+2 Mist Energy TEF 161
+2 Basic {D} Energy SVE 7
+2 Basic {F} Energy SVE 6
+
+Total Cards: 60

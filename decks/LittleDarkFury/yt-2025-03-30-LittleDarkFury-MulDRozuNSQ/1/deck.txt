@@ -1,0 +1,36 @@
+Pokémon: 9
+2 Varoom OBF 155
+2 Arctibax PAL 59
+2 Revavroom SVI 142
+2 Baxcalibur PAL 60
+1 Fezandipiti ex SFA 38
+1 Regigigas PRE 86
+3 Wailmer JTG 40
+2 Frigibax PAL 57
+3 Wailord JTG 41
+
+Trainer: 18
+1 Earthen Vessel PAR 163
+2 Ultra Ball PAF 91
+2 Rare Candy SVI 191
+1 Super Rod PAL 188
+1 Morty's Conviction TEF 155
+4 Superior Energy Retrieval PAL 189
+3 Iono PAL 185
+1 Night Stretcher SFA 61
+1 Artazon PAL 171
+2 Technical Machine: Evolution PAR 178
+2 Buddy-Buddy Poffin TEF 144
+4 Arven SVI 166
+1 Counter Catcher PAR 160
+2 Luxurious Cape PAR 166
+1 Boss's Orders PAL 172
+1 Precious Trolley SSP 185
+1 Switch SVI 194
+2 Nest Ball PAF 84
+
+Energy: 2
+8 Basic {W} Energy CIN 124
+2 Reversal Energy PAL 192
+
+Total Cards: 60
