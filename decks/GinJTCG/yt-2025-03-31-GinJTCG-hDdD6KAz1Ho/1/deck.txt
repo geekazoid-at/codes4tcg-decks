@@ -1,0 +1,37 @@
+Pokémon: 10
+1 Munkidori SFA 72
+3 Dudunsparce TEF 129
+1 Fezandipiti ex SFA 92
+4 Larvitar PRE 47
+3 Tyranitar JTG 95
+3 Dunsparce PAL 156
+1 Budew PRE 4 PH
+1 Dudunsparce ex JTG 121
+1 Pupitar PAL 111
+1 Tyranitar PAL 222
+
+Trainer: 18
+4 Buddy-Buddy Poffin TWM 223
+1 Rescue Board TWM 225
+3 Ultra Ball PLB 90 PH
+1 Super Rod PAL 276
+1 Pokémon League Headquarters OBF 192 PH
+2 Boss's Orders LOR-TG 24
+1 Earthen Vessel SFA 96
+1 Jacq SVI 250
+2 Luxurious Cape PAR 166 PH
+3 Arven PAF 235
+3 Crushing Hammer SUM 115 PH
+1 Jamming Tower TWM 153
+1 Night Stretcher SSP 251
+3 Rare Candy PRC 135 PH
+3 Iono PAL 269
+1 Counter Catcher PAR 264
+1 Colress's Tenacity SFA 87
+1 Neutralization Zone SFA 60
+
+Energy: 2
+3 Reversal Energy PAL 192
+5 Basic {D} Energy SFA 98
+
+Total Cards: 60

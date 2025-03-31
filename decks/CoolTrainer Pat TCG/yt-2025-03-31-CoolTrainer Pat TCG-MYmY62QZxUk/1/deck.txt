@@ -1,0 +1,36 @@
+Pokémon: 9
+1 Fezandipiti ex SFA 92
+2 Xatu PAF 26
+2 Natu PAF 25
+1 Bloodmoon Ursaluna ex TWM 216
+2 Cornerstone Mask Ogerpon ex TWM 215
+2 Rellor TEF 23
+3 Lillie's Clefairy ex JTG 56
+2 Rabsca TEF 24
+2 Tatsugiri TWM 131
+
+Trainer: 16
+2 Boss's Orders RCL 189
+4 Buddy-Buddy Poffin TWM 223
+2 Town Store OBF 196
+1 Nest Ball SVI 255
+1 Hero's Cape TEF 152
+2 Earthen Vessel SFA 96
+2 Night Stretcher SFA 61
+1 Rescue Board TEF 159
+4 Arven PAF 235
+3 Iono PAF 237
+1 Nest Ball SUM 158
+2 Technical Machine: Evolution PAR 178
+1 Ultra Ball BRS 186
+2 Lillie's Pearl JTG 151
+2 Counter Catcher PAR 264
+2 Professor's Research CEL 24
+
+Energy: 4
+6 Basic {P} Energy SVE 5 PH
+2 Jet Energy PAL 190
+2 Basic {F} Energy SVE 6 PH
+1 Jet Energy SSP 252
+
+Total Cards: 60
