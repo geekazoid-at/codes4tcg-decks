@@ -1,0 +1,29 @@
+Pokémon: 8
+2 Iono's Wattrel JTG 54
+4 Iono's Tadbulb JTG 52 PH
+2 Iono's Kilowattrel JTG 55
+1 Mew ex MEW 151
+4 Iono's Bellibolt ex JTG 53
+1 Fezandipiti ex SFA 38
+1 Budew PRE 4
+1 Bloodmoon Ursaluna ex TWM 141
+
+Trainer: 13
+4 Buddy-Buddy Poffin PRE 101
+3 Earthen Vessel PRE 106
+3 Ultra Ball PAF 91
+4 Arven OBF 186
+1 Counter Catcher PAR 160
+3 Iono PAL 185
+2 Professor Turo's Scenario PAR 171
+1 Technical Machine: Evolution PAR 178
+2 Rigid Band MEW 165
+4 Levincia JTG 150
+1 Pal Pad SVI 182
+1 Scoop Up Cyclone TWM 162
+2 Boss's Orders PAL 172
+
+Energy: 1
+13 Basic {L} Energy SVE 12
+
+Total Cards: 60

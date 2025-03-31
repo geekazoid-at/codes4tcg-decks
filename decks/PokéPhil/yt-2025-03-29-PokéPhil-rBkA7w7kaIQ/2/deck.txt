@@ -1,18 +1,22 @@
-Pokémon: 8
+Pokémon: 11
 1 Gengar ex TEF 104
 2 Haunter TEF 103 PH
 2 Gengar ex TEF 193
-3 Brute Bonnet PAR 123
+1 Rotom V CRZ 45
 4 Gastly TEF 102 PH
 1 Fezandipiti ex SFA 38
-1 Mew ex MEW 151
+2 Bibarel BRS 121
+2 Bidoof BRS 120
 1 Pecharunt ex SFA 39
+1 Manaphy BRS 41
+1 Radiant Alakazam SIT 59
 
 Trainer: 22
 1 Unfair Stamp TWM 165
 1 Super Rod PAL 276
+1 Forest Seal Stone SIT 156
 2 Pokémon League Headquarters OBF 192 PH
-2 Night Stretcher SFA 61 PH
+1 Night Stretcher SFA 61 PH
 1 Janine's Secret Art SFA 88
 2 Iono PAF 237
 2 Buddy-Buddy Poffin TEF 144 PH
@@ -21,15 +25,14 @@ Trainer: 22
 4 Arven SVI 166
 1 Technical Machine: Devolution PAR 177
 1 Janine's Secret Art SFA 59 PH
+2 Dark Patch LOR 216
 1 Technical Machine: Evolution PAR 178
 1 Earthen Vessel PAR 163 PH
 2 Rare Candy PAF 89 PH
 1 Buddy-Buddy Poffin PRE 101
 1 Professor Turo's Scenario PAR 171 PH
-2 Perilous Jungle TEF 156
 2 Nest Ball PAF 84 PH
 2 Handheld Fan TWM 150 PH
-3 Ancient Booster Energy Capsule PAR 159
 1 Rare Candy SVI 191
 
 Energy: 1
