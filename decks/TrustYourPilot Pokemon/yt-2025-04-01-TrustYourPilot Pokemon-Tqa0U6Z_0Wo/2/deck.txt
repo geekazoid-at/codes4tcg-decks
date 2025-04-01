@@ -1,0 +1,34 @@
+Pokémon: 9
+2 Hop's Snorlax JTG 117
+3 Hop's Zacian ex JTG 111
+2 Rockruff TEF 89
+2 Munkidori TWM 95
+2 Lycanroc JTG 85
+1 Latias ex SSP 76
+2 Hop's Cramorant JTG 138
+1 Fezandipiti ex SFA 38
+1 Bloodmoon Ursaluna ex TWM 141
+
+Trainer: 14
+2 Ultra Ball SVI 196
+2 Earthen Vessel PRE 106
+4 Hop's Choice Band JTG 148
+3 Hop's Bag JTG 147
+4 Arven OBF 186
+2 Counter Catcher PAR 160
+4 Iono PAL 185
+2 Night Stretcher SFA 61
+3 Postwick JTG 154
+1 Professor's Research JTG 155
+1 Morty's Conviction TEF 155
+1 Penny SVI 183
+3 Nest Ball SVI 181
+2 Boss's Orders PAL 172
+
+Energy: 4
+4 Spiky Energy JTG 159
+2 Basic {D} Energy SVE 15
+1 Legacy Energy TWM 167
+3 Jet Energy PAL 190
+
+Total Cards: 60

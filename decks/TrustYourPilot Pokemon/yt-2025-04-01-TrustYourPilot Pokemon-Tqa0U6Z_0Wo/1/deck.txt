@@ -1,0 +1,32 @@
+Pokémon: 7
+2 Munkidori TWM 95
+2 Froslass TWM 53
+3 Maractus JTG 8
+3 Lycanroc JTG 85
+2 Snorunt PAR 37
+1 Bloodmoon Ursaluna ex TWM 141
+3 Rockruff JTG 84
+
+Trainer: 14
+3 Ultra Ball SVI 196
+3 Iris's Fighting Spirit JTG 149
+2 Earthen Vessel PAR 163
+4 Buddy-Buddy Poffin TEF 144
+3 Counter Catcher PAR 160
+4 Iono PAL 185
+1 Technical Machine: Devolution PAR 177
+3 Night Stretcher SFA 61
+1 Super Rod PAL 188
+3 Morty's Conviction TEF 155
+3 Nest Ball SVI 181
+1 Rescue Board TEF 159
+1 Calamitous Snowy Mountain PAL 174
+1 Artazon PAL 171
+
+Energy: 4
+4 Basic {D} Energy SVE 15
+4 Spiky Energy JTG 159
+1 Legacy Energy TWM 167
+2 Jet Energy PAL 190
+
+Total Cards: 60

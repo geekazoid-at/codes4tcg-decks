@@ -1,0 +1,28 @@
+Pokémon: 5
+3 Copperajah SFA 42
+3 Cufant SFA 41
+1 Fezandipiti ex SFA 38
+4 Beldum TEF 113
+4 Metang TEF 114
+
+Trainer: 15
+1 Counter Catcher PAR 160
+1 Artazon PAF 76
+3 Super Rod PAL 276
+3 Pokégear 3.0 SVI 186
+3 Nest Ball SVI 181
+4 Arven OBF 186
+2 Heavy Baton TEF 151
+2 Boss's Orders PAL 248
+4 Iono PAL 185
+1 Colress's Tenacity SFA 57
+2 Buddy-Buddy Poffin TEF 144
+3 Ultra Ball SVI 196
+1 Neutralization Zone SFA 60
+1 Switch SVI 194
+2 Professor Turo's Scenario PRE 121
+
+Energy: 1
+12 Basic {M} Energy SVE 16
+
+Total Cards: 60
