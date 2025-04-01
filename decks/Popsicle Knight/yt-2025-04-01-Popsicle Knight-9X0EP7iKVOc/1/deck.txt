@@ -1,0 +1,29 @@
+Pokémon: 6
+2 Iono's Wattrel JTG 54
+3 Iono's Voltorb JTG 47 PH
+3 Iono's Tadbulb JTG 52 PH
+2 Iono's Kilowattrel JTG 55
+3 Iono's Bellibolt ex JTG 53
+1 Iono's Electrode JTG 48
+
+Trainer: 15
+1 Switch SVI 194
+3 Ultra Ball PAF 91
+2 Earthen Vessel PAR 163
+3 Buddy-Buddy Poffin TEF 144
+3 Iono PAL 185
+2 Night Stretcher SFA 61
+2 Superior Energy Retrieval PAL 189
+1 Prime Catcher PRE 119
+1 Super Rod PAL 188
+1 Technical Machine: Evolution PAR 178
+2 Professor's Research PRE 122
+3 Levincia JTG 150
+1 Pal Pad SVI 182
+2 Arven SVI 166
+2 Boss's Orders PAL 172
+
+Energy: 1
+17 Basic {L} Energy SVE 12
+
+Total Cards: 60

@@ -1,0 +1,36 @@
+Pokémon: 11
+4 Larvitar PRE 47
+3 Tyranitar JTG 95
+1 Munkidori TWM 95
+2 Pidgeot ex OBF 164
+2 Pupitar JTG 81
+1 Pidgeotto MEW 17
+1 Cleffa OBF 80
+1 Budew PRE 4
+1 Pidgey OBF 162
+1 Tyranitar PAL 135
+1 Fezandipiti ex SFA 38
+
+Trainer: 16
+4 Buddy-Buddy Poffin PRE 101
+1 Counter Gain SSP 169
+4 Rare Candy PAF 89
+2 Nest Ball SVI 181
+1 Switch SVI 194
+2 Ultra Ball PAF 91
+1 Night Stretcher SFA 61
+4 Iono PAF 80
+1 Technical Machine: Devolution PAR 177
+1 Professor Turo's Scenario PRE 121
+1 Technical Machine: Evolution PAR 178
+1 Counter Catcher PAR 160
+2 Luxurious Cape PAR 166
+4 Arven SVI 166
+2 Boss's Orders PAL 172
+1 Neutralization Zone SFA 60
+
+Energy: 2
+8 Basic {D} Energy BUS 168
+2 Reversal Energy PAL 192
+
+Total Cards: 60

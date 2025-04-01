@@ -1,0 +1,30 @@
+Pokémon: 8
+2 Scizor OBF 205
+1 Fezandipiti ex SFA 92
+4 Duraludon SCR 106
+3 Archaludon ex SSP 130
+1 Relicanth TEF 173
+1 Scizor ex TEF 111
+1 Squawkabilly ex PAL 264
+2 Scyther MEW 123
+
+Trainer: 14
+1 Vengeful Punch OBF 197
+4 Ultra Ball PLB 90 PH
+2 Professor Turo's Scenario PAR 257
+3 Boss's Orders LOR-TG 24
+4 Nest Ball SVI 255
+3 Earthen Vessel SFA 96
+1 Maximum Belt TEF 154
+2 Pokégear 3.0 UNB 182 PH
+4 Night Stretcher SFA 61 PH
+2 Black Belt's Training PRE 96
+2 Practice Studio PAL 186
+3 Iono PAL 269
+1 Pal Pad FLF 92 PH
+4 Professor's Research CEL 24
+
+Energy: 1
+9 Basic {M} Energy SVE 16
+
+Total Cards: 60
