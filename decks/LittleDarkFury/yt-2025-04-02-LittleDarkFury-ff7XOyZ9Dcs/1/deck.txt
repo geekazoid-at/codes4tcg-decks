@@ -1,0 +1,34 @@
+Pokémon: 10
+3 Mamoswine ex JTG 79
+4 Quaxly SVI 52
+2 Luxray PAL 71
+2 Quaquaval SSP 52
+4 Swinub JTG 77
+2 Piloswine JTG 78
+1 Quaquaval ex PAL 52
+2 Quaxwell SVI 53
+1 Quaquaval SVI 54
+
+
+Trainer: 15
+2 Boss's Orders PAL 172
+4 Buddy-Buddy Poffin TEF 144
+1 Super Rod PAL 188
+4 Rare Candy SVI 191
+1 Nest Ball SVI 181
+1 Earthen Vessel PAR 163
+1 Switch SVI 194
+3 Ultra Ball SVI 196
+1 Night Stretcher SFA 61
+4 Iono PAL 185
+2 Technical Machine: Evolution PAR 178
+1 Counter Catcher PAR 160
+1 Colress's Tenacity SFA 57
+1 Grand Tree SCR 136
+4 Arven SVI 166
+
+Energy: 2
+7 Basic {F} Energy GRI 169
+1 Basic {W} Energy CIN 124
+
+Total Cards: 60

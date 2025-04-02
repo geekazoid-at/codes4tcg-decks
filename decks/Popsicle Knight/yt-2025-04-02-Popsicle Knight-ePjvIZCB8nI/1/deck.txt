@@ -1,0 +1,36 @@
+Pokémon: 10
+1 Dusknoir PRE 37
+2 Maractus JTG 8
+4 Lycanroc JTG 85
+2 Duskull PRE 35
+2 Dusclops PRE 36
+1 Fezandipiti ex SFA 38
+2 Cleffa OBF 80
+1 Cornerstone Mask Ogerpon ex TWM 112
+1 Munkidori PRE 44
+4 Rockruff JTG 84
+
+Trainer: 15
+3 Ultra Ball SVI 196
+3 Buddy-Buddy Poffin PRE 101
+1 Earthen Vessel PRE 106
+3 Arven OBF 186
+1 Brilliant Blender SSP 164
+1 Counter Catcher PAR 160
+2 Iono PAL 185
+1 Night Stretcher SFA 61
+2 Super Rod PAL 188
+3 Vengeful Punch OBF 197
+3 Professor's Research PRE 122
+1 Rescue Board PRE 126
+2 Nest Ball SVI 181
+3 Calamitous Snowy Mountain PAL 174
+2 Boss's Orders PAL 172
+
+Energy: 4
+1 Basic {F} Energy SVE 14
+4 Spiky Energy JTG 159
+3 Basic {D} Energy SVE 15
+1 Reversal Energy PAL 192
+
+Total Cards: 60
