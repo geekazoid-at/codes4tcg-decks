@@ -1,0 +1,33 @@
+Pokémon: 8
+4 Eevee SSP 143
+2 Shelgon JTG 113 PH
+1 Fezandipiti ex SFA 38
+1 Toedscool OBF 118
+3 Flareon ex PRE 14
+2 Bagon JTG 112 PH
+1 Toedscruel PAR 17
+2 Salamence ex JTG 114
+
+Trainer: 15
+1 Counter Catcher PAR 160
+1 Counter Gain SSP 249
+2 Tera Orb SSP 189
+3 Judge PAF 228
+3 Night Stretcher SFA 61
+2 Nest Ball SVI 181
+2 Boss's Orders PAL 265
+3 Iono PAL 185
+4 Buddy-Buddy Poffin PRE 101
+1 Crispin PRE 105
+1 Eri TEF 146
+1 Sparkling Crystal PRE 129
+4 Ultra Ball SVI 196
+2 Switch SVI 194
+2 Rare Candy SVI 191
+
+Energy: 3
+6 Basic {R} Energy SVE 10
+3 Basic {L} Energy SVE 12
+3 Basic {W} Energy SVE 11
+
+Total Cards: 60

@@ -1,0 +1,39 @@
+Pokémon: 10
+1 Latias ex SSP 76
+4 Litten TEF 32
+1 Fezandipiti ex SFA 38
+1 Pidgeotto MEW 17
+1 Budew PRE 4
+1 Torracat TEF 33
+1 Pidgeot ex OBF 164
+1 Pidgey OBF 162
+3 Incineroar ex TEF 34
+2 Brute Bonnet PAR 207
+
+Trainer: 21
+1 Counter Catcher PAR 160
+1 Accompanying Flute TWM 142
+1 Counter Gain SSP 169 PH
+1 Precious Trolley SSP 185
+2 Perilous Jungle TEF 156
+3 Pokégear 3.0 SVI 186
+2 Night Stretcher SFA 61
+1 Rescue Board TEF 159
+1 Pal Pad SVI 182
+2 Nest Ball SVI 181
+2 Ancient Booster Energy Capsule PAR 159
+2 Boss's Orders PAL 172
+1 Black Belt's Training PRE 96
+4 Arven SVI 166
+1 Technical Machine: Evolution PAR 178
+2 Buddy-Buddy Poffin PRE 101
+2 Earthen Vessel PRE 106
+2 Iono PAF 80
+1 Ultra Ball SVI 196
+2 Professor's Research PRE 122
+4 Rare Candy SVI 191
+
+Energy: 1
+6 Basic {R} Energy SVE 10
+
+Total Cards: 60
