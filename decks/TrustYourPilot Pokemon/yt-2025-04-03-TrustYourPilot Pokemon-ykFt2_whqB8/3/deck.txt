@@ -1,0 +1,32 @@
+Pokémon: 6
+3 Xatu PAR 72
+4 Beldum JTG 61
+1 Fezandipiti ex SFA 38
+4 Metagross JTG 63
+3 Natu PAR 71
+4 Metang JTG 62
+
+Trainer: 17
+1 Precious Trolley SSP 185
+1 Nest Ball SVI 181
+2 Artazon PAL 171
+1 Daisy's Help MEW 158
+1 Boss's Orders PAL 172
+1 Kieran TWM 154
+4 Iono PAL 185
+4 Arven SVI 166
+2 Technical Machine: Evolution PAR 178
+1 Super Rod PAL 188
+2 Tulip PAR 181
+3 Buddy-Buddy Poffin TEF 144
+3 Ultra Ball SVI 196
+1 Professor's Research PRE 122
+2 Switch SVI 194
+2 Rare Candy SVI 191
+2 Earthen Vessel PAR 163
+
+Energy: 2
+1 Reversal Energy PAL 192
+7 Basic {P} Energy SVE 13
+
+Total Cards: 60

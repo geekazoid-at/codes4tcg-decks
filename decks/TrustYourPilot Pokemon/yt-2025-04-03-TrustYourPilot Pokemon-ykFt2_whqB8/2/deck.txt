@@ -1,0 +1,34 @@
+Pokémon: 7
+2 Xatu PAR 72
+4 Metang JTG 62
+3 Metagross JTG 63
+1 Fezandipiti ex SFA 38
+3 Natu PAR 71
+1 Lillie's Clefairy ex JTG 56
+4 Beldum JTG 61
+
+Trainer: 18
+3 Ultra Ball SVI 196
+1 Switch SVI 194
+2 Rare Candy SVI 191
+2 Earthen Vessel PAR 163
+4 Buddy-Buddy Poffin TEF 144
+1 Counter Catcher PAR 160
+4 Iono PAL 185
+2 Super Rod PAL 188
+2 Technical Machine: Evolution PAR 178
+1 Redeemable Ticket JTG 156
+1 Professor's Research PRE 122
+1 Maximum Belt TEF 154
+1 Rescue Board PRE 126
+1 Nest Ball SVI 181
+1 Tulip PAR 181
+2 Artazon PAL 171
+4 Arven SVI 166
+1 Boss's Orders PAL 172
+
+Energy: 2
+7 Basic {P} Energy SVE 13
+1 Reversal Energy PAL 192
+
+Total Cards: 60
