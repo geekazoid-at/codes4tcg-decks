@@ -1,0 +1,39 @@
+Pokémon: 12
+1 Latias ex SSP 76
+2 Dunsparce PRE 79
+3 Dudunsparce PRE 80
+2 Dunsparce PAL 156
+2 Terapagos ex PRE 92
+1 Ditto MEW 132
+1 Fezandipiti ex SFA 38
+2 Dudunsparce ex JTG 121
+1 Hoothoot SCR 114
+1 Noctowl SCR 115
+1 Fan Rotom SCR 118
+2 Bouffalant SCR 119
+
+Trainer: 17
+1 Counter Catcher PAR 160
+1 Precious Trolley SSP 185
+1 Exp. Share SVI 174
+1 Counter Gain SSP 169
+4 Ultra Ball PAF 91
+3 Pokégear 3.0 SVI 186
+1 Pal Pad SVI 182
+1 Nest Ball SVI 181
+2 Boss's Orders PAL 172
+4 Arven SVI 166
+1 Technical Machine: Evolution PAR 178
+1 Redeemable Ticket JTG 156
+1 Buddy-Buddy Poffin PRE 101
+2 Earthen Vessel PRE 106
+3 Crispin PRE 105
+2 Glass Trumpet SCR 135
+3 Iono PAF 80
+
+Energy: 3
+3 Basic {L} Energy SVE 12
+3 Basic {G} Energy SVE 1
+3 Basic {W} Energy SVE 11
+
+Total Cards: 60

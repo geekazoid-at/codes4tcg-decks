@@ -1,0 +1,32 @@
+Pokémon: 8
+1 Latias ex SSP 76
+2 Iono's Tadbulb JTG 52 PH
+3 Raging Bolt ex TEF 123
+1 Brute Bonnet PAR 123
+1 Fezandipiti ex SFA 84
+2 Iono's Bellibolt ex JTG 53
+1 Cornerstone Mask Ogerpon ex TWM 112
+2 Squawkabilly ex PAL 169
+
+Trainer: 15
+2 Iono PAL 254
+1 Prime Catcher PRE 119
+4 Professor Sada's Vitality PAR 256
+2 Energy Switch SVI 173
+4 Energy Retrieval SVI 171
+2 Pokégear 3.0 SVI 186
+2 Night Stretcher SFA 61
+1 Pal Pad SVI 182
+4 Nest Ball SVI 181
+3 Ancient Booster Energy Capsule PAR 159
+2 Boss's Orders PAL 172
+2 Arven SVI 166
+3 Levincia JTG 150
+1 Earthen Vessel PRE 106
+3 Ultra Ball SVI 196
+
+Energy: 2
+7 Basic {L} Energy SVE 12
+4 Basic {F} Energy SVE 14
+
+Total Cards: 60

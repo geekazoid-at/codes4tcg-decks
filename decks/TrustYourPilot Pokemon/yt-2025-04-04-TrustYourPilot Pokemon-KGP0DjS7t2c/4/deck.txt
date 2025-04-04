@@ -1,0 +1,29 @@
+Pokémon: 10
+2 Hop's Snorlax JTG 117
+3 Beldum TEF 113
+3 Metang TEF 114
+2 Hop's Zacian ex JTG 111
+1 Heatran TWM 123
+1 Latias ex SSP 76
+1 Mew ex MEW 151
+1 Regigigas PRE 86
+1 Hop's Cramorant JTG 138
+1 Fezandipiti ex SFA 38
+
+Trainer: 10
+3 Ultra Ball SVI 196
+4 Hop's Choice Band JTG 148
+1 Hop's Bag JTG 147
+4 Iono PAL 185
+4 Super Rod PAL 188
+3 Postwick JTG 154
+1 Prime Catcher TEF 157
+4 Nest Ball SVI 181
+3 Professor's Research SVI 189
+3 Boss's Orders PAL 172
+
+Energy: 2
+2 Jet Energy PAL 190
+12 Basic {M} Energy SVE 16
+
+Total Cards: 60
