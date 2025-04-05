@@ -1,0 +1,35 @@
+Pokémon: 10
+4 N's Zorua JTG 97
+2 N's Reshiram JTG 116
+2 N's Darmanitan JTG 27
+1 Pecharunt ex SFA 39
+4 N's Zoroark ex JTG 98
+1 Hop's Cramorant JTG 138
+1 Fezandipiti ex SFA 38
+1 Budew PRE 4
+1 Squawkabilly ex PAL 169
+2 N's Darumaka JTG 26
+
+Trainer: 16
+3 Ultra Ball SVI 196
+1 Powerglass SFA 63
+4 Arven OBF 186
+1 Defiance Band SVI 169
+1 Earthen Vessel PAR 163
+1 Buddy-Buddy Poffin TEF 144
+2 Counter Catcher PAR 160
+4 Iono PAL 185
+1 Professor Turo's Scenario PAR 171
+2 Night Stretcher SFA 61
+1 Technical Machine: Evolution PAR 178
+2 N's Castle JTG 152
+3 N's PP Up JTG 153
+4 Nest Ball SVI 181
+1 Precious Trolley SSP 185
+2 Boss's Orders PAL 172
+
+Energy: 2
+6 Basic {D} Energy SVE 15
+2 Reversal Energy PAL 192
+
+Total Cards: 60
