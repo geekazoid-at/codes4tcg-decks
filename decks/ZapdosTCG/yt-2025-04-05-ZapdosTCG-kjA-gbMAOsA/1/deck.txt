@@ -1,0 +1,35 @@
+Pokémon: 22
+4 Marill SCR 33
+4 Azumarill SSP 74
+2 Hoothoot SCR 114
+2 Noctowl SCR 115
+2 Pidgey OBF 162
+1 Pidgeotto MEW 17
+2 Pidgeot ex OBF 164
+2 Cornerstone Mask Ogerpon ex TWM 112
+1 Fezandipiti ex SFA 38
+1 Fan Rotom SCR 118
+1 Lillie's Clefairy ex JTG 56
+
+Trainer: 32
+3 Boss's Orders PAL 172
+2 Black Belt's Training JTG 145
+2 Jacq SVI 175
+2 Iono PAL 185
+1 Crispin SCR 133
+4 Nest Ball SVI 181
+4 Buddy-Buddy Poffin TEF 144
+4 Ultra Ball SVI 196
+2 Switch SVI 194
+2 Earthen Vessel PAR 163
+1 Unfair Stamp TWM 165
+1 Night Stretcher SFA 61
+1 Super Rod PAL 188
+1 Rare Candy SVI 191
+2 Area Zero Underdepths SCR 131
+
+Energy: 6
+5 Basic {P} Energy SVE 5
+1 Basic {F} Energy SVE 6
+
+Total Cards: 60

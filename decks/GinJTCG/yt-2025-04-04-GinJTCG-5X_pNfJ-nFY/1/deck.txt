@@ -1,0 +1,35 @@
+Pokémon: 12
+1 Pawmot SVI 209
+3 Pawmot ex OBF 73
+1 Pawmo SVI 75
+1 Budew PRE 4 PH
+1 Iron Hands ex PRE 154
+2 Varoom SFA 43
+1 Regigigas PRE 86 PH
+1 Combusken JTG 23
+2 Revavroom SVI 142
+2 Blaziken ex JTG 24
+4 Pawmi SVI 74
+2 Torchic JTG 22
+
+Trainer: 14
+4 Buddy-Buddy Poffin TWM 223
+4 Ultra Ball PLB 90 PH
+1 Poppy OBF 227
+1 Super Rod PAL 276
+1 Prime Catcher PRE 119
+2 Powerglass SFA 63 PH
+2 Boss's Orders LOR-TG 24
+1 Earthen Vessel SFA 96
+1 Technical Machine: Evolution PAR 178 PH
+4 Arven PAF 235
+4 Rare Candy PRC 135 PH
+2 Iono PAL 269
+2 Levincia JTG 150
+1 Counter Catcher PAR 264
+
+Energy: 2
+7 Basic {L} Energy SVE 4
+2 Basic {R} Energy OBF 230
+
+Total Cards: 60
