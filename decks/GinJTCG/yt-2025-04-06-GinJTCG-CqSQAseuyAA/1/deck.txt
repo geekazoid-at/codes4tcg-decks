@@ -1,0 +1,28 @@
+Pokémon: 6
+3 Roaring Moon ex PAR 124
+2 Pecharunt ex SFA 39
+2 Brute Bonnet PAR 123
+2 Squawkabilly ex PAL 169
+2 Pecharunt PR-SV 149
+1 Fezandipiti ex SFA 38
+
+Trainer: 14
+4 Professor Sada's Vitality PAR 256
+3 Boss's Orders LOR-TG 24
+4 Earthen Vessel SFA 96
+4 Pokégear 3.0 UNB 182 PH
+4 Nest Ball SVI 255
+3 Ultra Ball PLB 90 PH
+3 Energy Switch SIT 212
+1 Night Stretcher SSP 251
+1 Pal Pad FLF 92 PH
+4 Ancient Booster Energy Capsule PAR 159 PH
+1 Secret Box TWM 163
+2 Binding Mochi PRE 95 PH
+3 Perilous Jungle TEF 156 PH
+4 Carmine TWM 217
+
+Energy: 1
+7 Basic {D} Energy SVE 7
+
+Total Cards: 60
