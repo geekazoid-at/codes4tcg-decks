@@ -1,0 +1,33 @@
+Pokémon: 9
+1 Rabsca TEF 24
+3 Dunsparce PAL 156
+4 Butterfree JTG 3
+3 Metapod JTG 2
+1 Dudunsparce ex JTG 121
+2 Dudunsparce TEF 129
+1 Rellor TEF 23
+1 Budew PRE 4
+4 Caterpie MEW 10
+
+Trainer: 15
+3 Rare Candy SVI 191
+1 Earthen Vessel PAR 163
+3 Buddy-Buddy Poffin TEF 144
+2 Counter Catcher PAR 160
+2 Handheld Fan TWM 150
+4 Iono PAL 185
+1 Lana's Aid TWM 155
+1 Technical Machine: Devolution PAR 177
+3 Super Rod PAL 188
+2 Technical Machine: Evolution PAR 178
+2 Professor's Research PRE 122
+1 Pokémon League Headquarters OBF 192
+4 Bug Catching Set TWM 143
+1 Boss's Orders PAL 172
+4 Arven SVI 166
+
+Energy: 2
+5 Basic {G} Energy SVE 9
+1 Legacy Energy TWM 167
+
+Total Cards: 60

@@ -1,0 +1,33 @@
+Pokémon: 9
+3 Blaziken ex JTG 24
+2 Girafarig TEF 66
+2 Munkidori TWM 95
+4 Torchic JTG 22
+2 Munkidori SFA 72
+2 Combusken JTG 23
+2 Farigiraf ex TEF 108
+1 Combusken JTG 23 PH
+1 Mimikyu PR-SV 75
+
+Trainer: 14
+3 Earthen Vessel SFA 96
+4 Arven PAF 235
+4 Iono PAF 237
+2 Ultra Ball BRS 186
+2 Technical Machine: Evolution PAR 178
+2 Professor's Research CEL 24
+4 Pokégear 3.0 SVI 186
+1 Buddy-Buddy Poffin TWM 223
+1 Counter Catcher PAR 264
+1 Precious Trolley SSP 185
+3 Boss's Orders RCL 189
+1 Night Stretcher SFA 61 PH
+2 Bravery Charm PAL 173
+1 Nest Ball SVI 255
+
+Energy: 3
+3 Basic {P} Energy SVE 5 PH
+4 Basic {D} Energy SVE 7 PH
+3 Basic {R} Energy SVE 2 PH
+
+Total Cards: 60

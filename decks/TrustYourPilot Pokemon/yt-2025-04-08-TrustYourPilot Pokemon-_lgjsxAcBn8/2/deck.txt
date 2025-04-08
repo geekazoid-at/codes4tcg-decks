@@ -1,0 +1,36 @@
+Pokémon: 9
+1 Maractus JTG 8
+4 Butterfree JTG 3
+3 Metapod JTG 2
+4 Caterpie JTG 1
+2 Froslass TWM 53
+1 Cleffa OBF 80
+1 Budew PRE 4
+1 Munkidori PRE 44
+2 Snorunt PAR 37
+
+Trainer: 16
+2 Counter Catcher PAR 160
+4 Bug Catching Set TWM 143
+1 Pokémon League Headquarters OBF 192
+1 Surfer SSP 187
+1 Nest Ball SVI 181
+1 Boss's Orders PAL 172
+4 Iono PAL 185
+4 Arven SVI 166
+1 Technical Machine: Devolution PAR 177
+2 Technical Machine: Evolution PAR 178
+3 Super Rod PAL 188
+3 Buddy-Buddy Poffin TEF 144
+2 Professor's Research PRE 122
+1 Rescue Board PRE 126
+3 Rare Candy SVI 191
+1 Earthen Vessel PAR 163
+
+Energy: 4
+1 Legacy Energy TWM 167
+1 Luminous Energy PAL 191
+4 Basic {G} Energy SVE 9
+1 Basic {D} Energy SVE 15
+
+Total Cards: 60
