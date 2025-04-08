@@ -1,0 +1,35 @@
+Pokémon: 8
+2 Hop's Snorlax JTG 117
+1 Hop's Zacian ex JTG 111
+1 Latias ex SSP 76
+3 Hop's Corviknight JTG 108
+1 Hop's Cramorant JTG 138
+1 Fezandipiti ex SFA 38
+2 Hop's Corvisquire JTG 134
+3 Hop's Rookidee JTG 133
+
+Trainer: 17
+2 Ultra Ball SVI 196
+4 Hop's Choice Band JTG 148
+2 Hop's Bag JTG 147
+3 Rare Candy SVI 191
+1 Earthen Vessel PAR 163
+1 Counter Catcher PAR 160
+3 Iono PAL 185
+1 Night Stretcher SFA 61
+2 Colress's Tenacity SFA 57
+2 Super Rod PAL 188
+4 Postwick JTG 154
+2 Pokégear 3.0 SVI 186
+2 Professor's Research PRE 122
+2 Nest Ball SVI 181
+1 Neutralization Zone SFA 60
+3 Arven SVI 166
+2 Boss's Orders PAL 172
+
+Energy: 3
+2 Jet Energy PAL 190
+3 Reversal Energy PAL 192
+4 Basic {M} Energy SVE 16
+
+Total Cards: 60

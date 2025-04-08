@@ -1,0 +1,41 @@
+Pokémon: 17
+4 Gimmighoul SSP 97
+4 Gholdengo ex PAR 139
+3 Dunsparce PAL 156
+2 Dudunsparce TEF 129
+1 Dudunsparce ex JTG 121
+1 Scyther MEW 123
+1 Scizor OBF 141
+1 Fezandipiti ex SFA 38
+
+Trainer: 32
+4 Arven OBF 186
+2 Boss's Orders PAL 172
+2 Ciphermaniac's Codebreaking TEF 145
+1 Iono PAL 185
+1 Professor Turo's Scenario PAR 171
+4 Superior Energy Retrieval PAL 189
+4 Buddy-Buddy Poffin TEF 144
+2 Nest Ball SVI 181
+2 Ultra Ball SVI 196
+2 Night Stretcher SFA 61
+1 Energy Search Pro SSP 176
+1 Earthen Vessel PAR 163
+1 Switch SVI 194
+1 Counter Catcher PAR 160
+1 Vengeful Punch OBF 197
+1 Technical Machine: Evolution PAR 178
+1 Artazon PAL 171
+1 Levincia JTG 150
+
+Energy: 11
+3 Basic {M} Energy SVE 8
+2 Basic {L} Energy SVE 4
+1 Basic {R} Energy SVE 2
+1 Basic {G} Energy SVE 1
+1 Basic {D} Energy SVE 7
+1 Basic {F} Energy SVE 6
+1 Basic {P} Energy SVE 5
+1 Basic {W} Energy SVE 3
+
+Total Cards: 60

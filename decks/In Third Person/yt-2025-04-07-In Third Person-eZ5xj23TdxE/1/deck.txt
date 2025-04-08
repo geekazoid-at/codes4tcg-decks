@@ -1,42 +1,42 @@
 Pokémon: 15
-1 Bloodmoon Ursaluna ex PRE 168
+1 Terapagos ex SCR 128
 1 Hoothoot PRE 77
-1 Fezandipiti ex SFA 92
-2 Wellspring Mask Ogerpon ex TWM 213
-2 Teal Mask Ogerpon ex TWM 211
-1 Cornerstone Mask Ogerpon ex TWM 215
-1 Mew ex PAF 232
-1 Terapagos ex SCR 170
-2 Fan Rotom SCR 118 PH
+2 Teal Mask Ogerpon ex TWM 25
+1 Latias ex SSP 76
+1 Mew ex MEW 151
 3 Hoothoot SCR 114
 4 Noctowl SCR 115
-1 Ditto PAF 201
-1 Lillie's Clefairy ex JTG 173
-1 Pikachu ex SSP 238
-1 Latias ex SSP 239
+1 Fezandipiti ex SFA 38
+1 Ditto MEW 132
+1 Pikachu ex SSP 57
+2 Fan Rotom SCR 118
+1 Cornerstone Mask Ogerpon ex TWM 112
+1 Bloodmoon Ursaluna ex TWM 141
+2 Wellspring Mask Ogerpon ex TWM 64
+1 Lillie's Clefairy ex JTG 56
 
 Trainer: 14
-2 Boss's Orders RCL 189
-3 Crispin SCR 164
-1 Judge SIT-TG 25
-1 Professor Turo's Scenario PAR 257
-4 Nest Ball SVI 255
-1 Earthen Vessel SFA 96
-3 Energy Switch SIT 212
-2 Night Stretcher SSP 251
-2 Area Zero Underdepths SCR 174
-1 Iono PAL 269
-4 Ultra Ball BRS 186
-1 Counter Catcher PAR 264
-1 Professor's Research SVI 240
+4 Ultra Ball SVI 196
+1 Judge SVI 176
+1 Earthen Vessel PAR 163
+2 Area Zero Underdepths SCR 131
+3 Energy Switch SVI 173
+3 Crispin SCR 133
+1 Counter Catcher PAR 160
+1 Iono PAL 185
+1 Professor Turo's Scenario PAR 171
+2 Night Stretcher SFA 61
+1 Professor's Research JTG 155
 1 Sparkling Crystal SCR 142
+4 Nest Ball SVI 181
+2 Boss's Orders PAL 172
 
 Energy: 6
-2 Basic {P} Energy SVE 13 PH
-1 Basic {L} Energy SVE 12 PH
-4 Basic {G} Energy SVE 9 PH
-1 Basic {M} Energy SVE 16 PH
-1 Basic {F} Energy SVE 14 PH
-1 Basic {W} Energy SVE 11 PH
+1 Basic {W} Energy SVE 11
+1 Basic {F} Energy SVE 14
+1 Basic {L} Energy SVE 12
+4 Basic {G} Energy SVE 9
+2 Basic {P} Energy SVE 13
+1 Basic {M} Energy SVE 16
 
 Total Cards: 60

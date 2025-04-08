@@ -1,0 +1,33 @@
+Pokémon: 8
+4 Beldum JTG 61 PH
+2 Xatu PAR 72
+1 Fezandipiti ex SFA 38
+1 Tatsugiri TWM 131
+3 Metang JTG 62
+3 Metagross JTG 63
+2 Natu PAR 71
+1 Lillie's Clefairy ex JTG 56
+
+Trainer: 17
+4 Ultra Ball SVI 196
+3 Rare Candy SVI 191
+1 Super Rod PAL 188
+3 Iono PAF 80
+1 Night Stretcher SFA 61
+2 Tulip PAR 181
+2 Professor's Research JTG 155
+2 Artazon PAF 76
+2 Technical Machine: Evolution PAR 178
+4 Buddy-Buddy Poffin PRE 101
+1 Rescue Board TEF 159
+1 Maximum Belt TEF 154
+4 Arven OBF 186
+1 Boss's Orders PAL 172
+1 Earthen Vessel PAR 163
+2 Nest Ball SVI 181
+1 Counter Catcher PAR 160
+
+Energy: 1
+8 Basic {P} Energy SVE 5
+
+Total Cards: 60

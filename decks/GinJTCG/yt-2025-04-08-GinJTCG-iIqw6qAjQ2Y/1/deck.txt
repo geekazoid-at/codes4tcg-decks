@@ -1,0 +1,30 @@
+Pokémon: 8
+4 Applin TWM 126
+2 Dipplin TWM 18
+2 Dipplin SCR 13
+3 Hydrapple ex SCR 14
+4 Teal Mask Ogerpon ex PRE 145
+1 Budew PRE 4 PH
+1 Mew ex PR-SV 53
+1 Fezandipiti ex SFA 92
+
+Trainer: 13
+4 Professor's Research CEL 24
+4 Iono PAL 269
+2 Boss's Orders LOR-TG 24
+4 Bug Catching Set PRE 102 PH
+4 Nest Ball SVI 255
+3 Ultra Ball PLB 90 PH
+1 Rare Candy SVI 256
+1 Counter Catcher PAR 264
+1 Superior Energy Retrieval PAL 277
+1 Night Stretcher SSP 251
+1 Super Rod PAL 276
+1 Pal Pad FLF 92 PH
+2 Festival Grounds PRE 108 PH
+
+Energy: 2
+1 Legacy Energy TWM 167
+12 Basic {G} Energy GEN 75 PH
+
+Total Cards: 60
