@@ -1,0 +1,33 @@
+Pokémon: 7
+1 Hop's Cramorant JTG 138
+2 Munkidori TWM 95
+2 Varoom SFA 43
+2 Revavroom SVI 142
+2 Cornerstone Mask Ogerpon ex TWM 112
+4 Hop's Snorlax JTG 117
+1 Hop's Zacian ex JTG 111
+
+Trainer: 15
+1 Counter Catcher PAR 160
+4 Hop's Choice Band JTG 148
+3 Iris's Fighting Spirit JTG 149
+2 Hop's Bag JTG 147
+1 Night Stretcher SFA 61
+2 Nest Ball SVI 181
+2 Boss's Orders PAL 172
+4 Iono PAL 185
+3 Postwick JTG 154
+1 Super Rod PAL 188
+2 Crispin SCR 133
+4 Glass Trumpet SCR 135
+2 Ultra Ball SVI 196
+2 Switch SVI 194
+2 Earthen Vessel PAR 163
+
+Energy: 4
+1 Legacy Energy TWM 167
+3 Jet Energy PAL 190
+3 Basic {D} Energy SVE 15
+4 Basic {F} Energy SVE 14
+
+Total Cards: 60
