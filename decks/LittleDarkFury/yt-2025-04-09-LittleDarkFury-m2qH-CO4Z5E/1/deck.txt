@@ -1,0 +1,38 @@
+Pokémon: 9
+1 Pikachu ex SSP 57
+1 Victini ex OBF 33
+1 Munkidori TWM 95
+2 Varoom SFA 43
+2 Combusken JTG 23
+2 Revavroom SVI 142
+4 Blaziken ex JTG 24
+4 Torchic JTG 22
+1 Lillie's Clefairy ex JTG 56
+
+Trainer: 16
+2 Buddy-Buddy Poffin PRE 101
+1 Iris's Fighting Spirit JTG 149
+2 Rare Candy SVI 191
+1 Precious Trolley SSP 185
+2 Nest Ball SVI 181
+2 Earthen Vessel PRE 106
+1 Switch SVI 194
+4 Ultra Ball SVI 196
+2 Night Stretcher SFA 61
+3 Iono PAL 185
+1 Counter Catcher PAR 160
+2 Technical Machine: Evolution PAR 178
+1 Defiance Band SVI 169
+1 Levincia JTG 150
+2 Boss's Orders PAL 172
+4 Arven SVI 166
+
+Energy: 6
+3 Basic {R} Energy SVE 2
+2 Basic {G} Energy SVE 1
+2 Basic {M} Energy SVE 8
+1 Basic {D} Energy SVE 7
+1 Basic {P} Energy SVE 5
+2 Basic {L} Energy SVE 4
+
+Total Cards: 60

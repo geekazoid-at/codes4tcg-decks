@@ -1,0 +1,30 @@
+Pokémon: 6
+3 Charizard ex PAF 234
+4 Charmander PR-SV 47
+1 Pidgey OBF 162
+1 Jirachi PAR 126
+2 Squawkabilly ex PAF 223
+1 Pidgeot ex OBF 217
+
+Trainer: 14
+4 Ultra Ball SVI 196
+2 Switch SVI 194
+3 Rare Candy SVI 191
+2 Defiance Band SVI 169
+2 Energy Retrieval SVI 171
+3 Iono PAL 185
+4 Mesagoza SVI 178
+2 Super Rod PAL 188
+2 Professor's Research JTG 155
+2 Pokégear 3.0 SVI 186
+2 Professor Turo's Scenario PRE 121
+2 Artazon PAL 171
+2 Boss's Orders PAL 172
+4 Arven SVI 166
+
+Energy: 3
+2 Basic {W} Energy SVE 11
+2 Basic {F} Energy SVE 14
+8 Basic {R} Energy SVE 10
+
+Total Cards: 60
