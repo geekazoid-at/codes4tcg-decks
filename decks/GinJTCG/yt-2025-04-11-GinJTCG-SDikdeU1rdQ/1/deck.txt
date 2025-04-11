@@ -1,0 +1,33 @@
+Pokémon: 7
+4 Exeggcute SSP 1
+3 Teal Mask Ogerpon ex TWM 211
+1 Iron Bundle PR-SV 66
+1 Fezandipiti ex SFA 92
+1 Mew ex PR-SV 53
+1 Regigigas PRE 86 PH
+3 Alolan Exeggutor ex SSP 242
+
+Trainer: 16
+2 Bug Catching Set PRE 102 PH
+1 Earthen Vessel SFA 96
+1 Exp. Share PRC 128 PH
+4 Arven PAF 235
+1 Super Rod PAL 276
+2 Tera Orb SSP 189 PH
+3 Iono PAL 269
+2 Night Stretcher SSP 251
+2 Boss's Orders LOR-TG 24
+3 Energy Switch SIT 212
+1 Artazon OBF 229
+2 Crispin SCR 164
+1 Sparkling Crystal SCR 142
+1 Rescue Board TWM 225
+2 Switch MEW 206
+4 Nest Ball SVI 255
+
+Energy: 3
+3 Basic {W} Energy SVE 11
+3 Basic {F} Energy SVE 14
+8 Basic {G} Energy SVE 9
+
+Total Cards: 60

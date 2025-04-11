@@ -1,0 +1,21 @@
+Pokémon: 6
+3 Iono's Wattrel JTG 54
+3 Iono's Voltorb JTG 47
+1 Klefki SVI 96
+3 Iono's Tadbulb JTG 52
+3 Iono's Kilowattrel JTG 55
+3 Iono's Bellibolt ex JTG 53
+
+Trainer: 9
+4 Ultra Ball SVI 196
+2 Earthen Vessel PAR 163
+4 Buddy-Buddy Poffin TEF 144
+4 Iono PAL 185
+2 Superior Energy Retrieval PAL 189
+3 Professor's Research PRE 122
+1 Max Rod PRE 116
+3 Levincia JTG 150
+3 Boss's Orders PAL 172
+
+Energy: 1
+18 Basic {L} Energy SVE 4

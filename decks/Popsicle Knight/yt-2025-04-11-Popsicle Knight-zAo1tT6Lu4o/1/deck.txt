@@ -1,0 +1,37 @@
+Pokémon: 9
+3 Tyranitar JTG 95
+1 Munkidori TWM 95
+2 Pupitar JTG 81
+1 Fezandipiti ex SFA 38
+1 Cleffa OBF 80
+2 Budew PRE 4
+1 Tyranitar PAL 135
+1 Cornerstone Mask Ogerpon ex TWM 112
+4 Larvitar JTG 80
+
+Trainer: 18
+1 Counter Catcher PAR 160
+2 Luxurious Cape PAR 166
+1 Xerosic's Machinations SFA 64
+2 Mesagoza SVI 178
+2 Pal Pad SVI 182
+1 Boss's Orders PAL 172
+3 Iono PAL 185
+3 Arven SVI 166
+2 Super Rod PAL 188
+3 Professor's Research JTG 155
+1 Colress's Tenacity SFA 57
+1 Earthen Vessel PRE 106
+1 Crispin PRE 105
+3 Buddy-Buddy Poffin TEF 144
+3 Ultra Ball SVI 196
+1 Neutralization Zone SFA 60
+1 Switch SVI 194
+4 Rare Candy SVI 191
+
+Energy: 3
+3 Reversal Energy PAL 192
+4 Basic {D} Energy SVE 15
+2 Basic {F} Energy SVE 14
+
+Total Cards: 60

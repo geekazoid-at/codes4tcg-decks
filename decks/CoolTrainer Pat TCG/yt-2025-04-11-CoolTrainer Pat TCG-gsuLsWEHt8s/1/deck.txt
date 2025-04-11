@@ -1,0 +1,28 @@
+Pokémon: 6
+3 Iono's Wattrel JTG 54
+2 Iono's Voltorb JTG 47 PH
+3 Iono's Tadbulb JTG 52 PH
+2 Iono's Kilowattrel JTG 55
+3 Raging Bolt ex TEF 123
+2 Iono's Bellibolt ex JTG 53
+
+Trainer: 13
+2 Earthen Vessel SFA 96
+2 Arven PAF 235
+1 Luxurious Cape PAR 166
+2 Iono PAF 237
+1 Superior Energy Retrieval PAL 277
+3 Nest Ball SVI 181 PH
+3 Professor Sada's Vitality PAR 256
+1 Ultra Ball BRS 186
+2 Night Stretcher SFA 61
+4 Buddy-Buddy Poffin TWM 223
+4 Levincia JTG 150
+2 Boss's Orders RCL 189
+4 Carmine TWM 145
+
+Energy: 2
+4 Basic {F} Energy SVE 14
+10 Basic {L} Energy SVE 12
+
+Total Cards: 60
