@@ -1,0 +1,39 @@
+Pokémon: 12
+1 Emolga TWM 69
+3 Lotad JTG 35
+1 Munkidori TWM 95
+1 Mimikyu PAL 97
+4 Baltoy OBF 94
+3 Ludicolo JTG 37
+1 Fezandipiti ex SFA 38
+1 Froslass TWM 53
+1 Budew PRE 4
+2 Lombre JTG 36
+1 Snorunt PAR 37
+4 Claydol OBF 95
+
+Trainer: 17
+1 Counter Catcher PAR 160
+1 Iris's Fighting Spirit JTG 149
+1 Jacq SVI 175
+1 Energy Search SVI 172
+1 Morty's Conviction TEF 155
+1 Night Stretcher SFA 61
+1 Rescue Board TEF 159
+1 Boss's Orders PAL 172
+1 Jamming Tower TWM 153
+4 Iono PAL 185
+4 Arven SVI 166
+2 Technical Machine: Evolution PAR 178
+2 Super Rod PAL 188
+4 Buddy-Buddy Poffin TEF 144
+2 Ultra Ball SVI 196
+1 Rocky Helmet SVI 193
+2 Rare Candy SVI 191
+
+Energy: 3
+1 Legacy Energy TWM 167
+1 Basic {D} Energy SVE 15
+5 Basic {P} Energy SVE 13
+
+Total Cards: 60

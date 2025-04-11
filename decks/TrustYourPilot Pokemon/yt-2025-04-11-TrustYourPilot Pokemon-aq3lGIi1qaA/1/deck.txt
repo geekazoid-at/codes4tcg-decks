@@ -1,0 +1,30 @@
+Pokémon: 8
+1 Mimikyu PAF 37
+4 Iono's Voltorb JTG 47
+3 Ludicolo JTG 37
+3 Lotad JTG 35
+4 Iono's Electrode JTG 48
+1 Fezandipiti ex SFA 38
+1 Budew PRE 4
+2 Lombre JTG 36
+
+Trainer: 13
+1 Ultra Ball SVI 196
+2 Rare Candy SVI 191
+1 Exp. Share SVI 174
+4 Arven OBF 186
+4 Buddy-Buddy Poffin TEF 144
+1 Counter Catcher PAR 160
+4 Iono PAL 185
+2 Super Rod PAL 188
+2 Technical Machine: Evolution PAR 178
+1 Hero's Cape TEF 152
+2 Professor's Research JTG 155
+1 Rescue Board PRE 126
+4 Electric Generator PAF 79
+
+Energy: 2
+8 Basic {L} Energy SVE 12
+4 Reversal Energy PAL 192
+
+Total Cards: 60
