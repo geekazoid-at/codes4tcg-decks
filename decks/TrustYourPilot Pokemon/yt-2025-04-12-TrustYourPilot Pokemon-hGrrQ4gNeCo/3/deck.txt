@@ -1,0 +1,31 @@
+Pokémon: 7
+4 Magmar MEW 126
+2 Espathra ex PAF 6
+1 Fezandipiti ex SFA 38
+2 Flittle SVI 100
+3 Budew PRE 4
+2 Volcanion ex JTG 31
+4 Magmortar JTG 21
+
+Trainer: 15
+4 Ultra Ball SVI 196
+1 Earthen Vessel PRE 106
+4 Switch SVI 194
+2 Judge SVI 176
+3 Handheld Fan TWM 150
+2 Iono PAL 185
+1 Technical Machine: Devolution PAR 177
+2 Night Stretcher SFA 61
+1 Super Rod PAL 188
+3 Pokémon League Headquarters OBF 192
+1 Pal Pad SVI 182
+4 Nest Ball SVI 181
+4 Surfer SSP 187
+3 Professor's Research SVI 189
+2 Boss's Orders PAL 172
+
+Energy: 2
+4 Basic {P} Energy SVE 13
+1 Legacy Energy TWM 167
+
+Total Cards: 60

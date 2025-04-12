@@ -1,0 +1,36 @@
+Pokémon: 9
+3 Magmar MEW 126
+1 Fezandipiti ex SFA 38
+2 Brute Bonnet PAR 123
+3 Budew PRE 4
+1 Bloodmoon Ursaluna ex TWM 141
+1 Mimikyu PAL 97
+1 Pecharunt PR-SV 149
+2 Volcanion ex JTG 31
+3 Magmortar JTG 21
+
+Trainer: 17
+4 Ultra Ball SVI 196
+4 Switch SVI 194
+3 Judge SVI 176
+1 Counter Gain SSP 169
+2 Ancient Booster Energy Capsule TEF 140
+2 Handheld Fan TWM 150
+2 Iono PAL 185
+1 Artazon PAF 76
+2 Technical Machine: Devolution PAR 177
+2 Night Stretcher SFA 61
+1 Super Rod PAL 188
+1 Town Store OBF 196
+4 Nest Ball SVI 181
+1 Unfair Stamp TWM 165
+2 Surfer SSP 187
+3 Professor's Research SVI 189
+2 Boss's Orders PAL 172
+
+Energy: 3
+1 Basic {D} Energy SVE 15
+1 Basic {P} Energy SVE 13
+4 Jet Energy PAL 190
+
+Total Cards: 60

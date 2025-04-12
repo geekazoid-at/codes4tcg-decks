@@ -1,0 +1,33 @@
+Pokémon: 7
+2 Ivysaur MEW 2
+3 Venusaur ex MEW 3
+3 Munkidori TWM 95
+1 Terapagos ex SCR 128
+4 Bulbasaur MEW 1 PH
+1 Fezandipiti ex SFA 38
+1 Mew ex MEW 151
+
+Trainer: 17
+1 Counter Catcher PAR 160
+2 Ultra Ball SVI 196 PH
+2 Pokémon League Headquarters OBF 192
+1 Exp. Share SVI 174
+1 Hero's Cape TEF 152
+2 Pokégear 3.0 SVI 186
+2 Night Stretcher SFA 61
+3 Nest Ball SVI 181
+2 Switch SVI 194 PH
+2 Boss's Orders PAL 265
+2 Iono PAL 185
+4 Arven SVI 166
+2 Technical Machine: Evolution PAR 178
+3 Buddy-Buddy Poffin PRE 101
+1 Earthen Vessel PRE 106
+3 Crispin PRE 105
+2 Rare Candy SVI 191
+
+Energy: 2
+7 Basic {G} Energy SVE 9
+3 Basic {D} Energy SVE 15
+
+Total Cards: 60

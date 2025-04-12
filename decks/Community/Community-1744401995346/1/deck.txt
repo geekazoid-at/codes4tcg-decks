@@ -1,0 +1,28 @@
+Pokémon: 9
+1 Hop's Snorlax JTG 117
+1 Beldum TEF 113
+1 Scyther MEW 123
+1 Metang TEF 114
+3 Hop's Corviknight JTG 108
+2 Hop's Cramorant JTG 138
+2 Hop's Corvisquire JTG 134
+1 Scizor OBF 141
+4 Hop's Rookidee JTG 133
+
+Trainer: 13
+4 Hop's Choice Band JTG 148
+2 Hop's Bag JTG 147
+2 Super Rod PAL 188
+2 Iono PAF 80
+3 Rare Candy PAF 89
+2 Buddy-Buddy Poffin PRE 101
+1 Technical Machine: Evolution PAR 178
+2 Postwick JTG 154
+1 Prime Catcher TEF 157
+4 Arven SVI 166
+2 Boss's Orders PAL 172
+4 Professor's Research PRE 123
+3 Ultra Ball PAF 91
+
+Energy: 1
+12 Basic {M} Energy SVE 8

@@ -1,0 +1,29 @@
+Pokémon: 5
+4 Magmar MEW 126
+2 Dunsparce PAL 156
+2 Dudunsparce TEF 129
+4 Slither Wing PAR 107
+4 Magmortar JTG 21
+
+Trainer: 15
+4 Ultra Ball SVI 196
+2 Switch SVI 194
+2 Earthen Vessel PAR 163
+1 Counter Catcher PAR 160
+2 Iono PAL 185
+4 Professor Sada's Vitality PAR 170
+2 Night Stretcher SFA 61
+1 Super Rod PAL 188
+2 Technical Machine: Evolution PAR 178
+2 Pokégear 3.0 SVI 186
+4 Nest Ball SVI 181
+1 Precious Trolley SSP 185
+2 Ancient Booster Energy Capsule PAR 159
+2 Artazon PAL 171
+1 Boss's Orders PAL 172
+
+Energy: 2
+9 Basic {F} Energy SVE 14
+3 Basic {R} Energy SVE 10
+
+Total Cards: 60
