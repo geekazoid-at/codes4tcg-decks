@@ -1,0 +1,34 @@
+Pokémon: 8
+2 Pidgey MEW 16
+4 Larvitar PRE 47
+4 Tyranitar JTG 95
+1 Fezandipiti ex SFA 38
+1 Pidgeotto MEW 17
+2 Budew PRE 4
+2 Pidgeot ex OBF 164
+2 Pupitar PRE 48
+
+Trainer: 18
+1 Unfair Stamp TWM 165
+1 Xerosic's Machinations SFA 64
+1 Exp. Share SVI 174
+3 Jacq SVI 175
+1 Energy Retrieval SVI 171
+2 Pokégear 3.0 SVI 186
+1 Rescue Board TEF 159
+1 Pal Pad SVI 182
+2 Nest Ball SVI 181
+1 Switch MEW 206
+2 Night Stretcher SSP 251
+2 Boss's Orders PAL 248
+2 Iono PAL 185
+3 Arven SVI 166
+4 Buddy-Buddy Poffin PRE 101
+2 Ultra Ball SVI 196
+4 Rare Candy SVI 191
+2 Earthen Vessel PAR 163
+
+Energy: 1
+7 Basic {D} Energy SVE 7
+
+Total Cards: 60
