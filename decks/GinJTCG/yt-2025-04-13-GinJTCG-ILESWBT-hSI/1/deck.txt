@@ -1,0 +1,25 @@
+Pokémon: 5
+3 Iono's Wattrel JTG 54
+3 Iono's Tadbulb JTG 52
+3 Iono's Kilowattrel JTG 55
+3 Iono's Bellibolt ex JTG 53
+2 Iono's Voltorb JTG 47
+
+Trainer: 12
+3 Iono PAL 269
+2 Boss's Orders LOR-TG 24
+1 Clemont's Quick Wit SSP 243
+4 Ultra Ball PLB 90 PH
+4 Buddy-Buddy Poffin TWM 223
+2 Superior Energy Retrieval PAL 277
+2 Night Stretcher SSP 251
+2 Nest Ball SVI 255
+1 Pokégear 3.0 UNB 233
+1 Maximum Belt TEF 154
+3 Levincia JTG 150
+4 Professor's Research CEL 24
+
+Energy: 1
+17 Basic {L} Energy SVE 4
+
+Total Cards: 60

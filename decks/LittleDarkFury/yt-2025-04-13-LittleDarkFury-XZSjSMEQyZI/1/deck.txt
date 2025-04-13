@@ -1,0 +1,35 @@
+Pokémon: 12
+1 Squawkabilly ex PAL 169
+2 Iron Hands ex PRE 31
+2 Magnemite PAL 65
+1 Latias ex SSP 76
+1 Fezandipiti ex SFA 38
+2 Miraidon ex SVI 81
+2 Magneton SSP 59
+1 Pikachu ex SSP 57
+1 Iron Bundle PAR 56
+1 Mew ex MEW 151
+1 Bloodmoon Ursaluna ex TWM 141
+1 Magnezone ex SVI 65
+
+Trainer: 13
+1 Night Stretcher SFA 61
+1 Crispin PRE 105
+1 Rescue Board PRE 126
+1 Heavy Baton TEF 151
+1 Sparkling Crystal SCR 142
+4 Arven SVI 166
+2 Area Zero Underdepths PRE 94
+1 Counter Catcher PAR 160
+3 Boss's Orders PAL 172
+3 Ultra Ball PAF 91
+4 Electric Generator PAF 79
+1 Switch SVI 194
+4 Nest Ball SVI 181
+
+Energy: 3
+1 Basic {M} Energy SUM 163
+1 Basic {G} Energy GRI 167
+15 Basic {L} Energy GRI 168
+
+Total Cards: 60

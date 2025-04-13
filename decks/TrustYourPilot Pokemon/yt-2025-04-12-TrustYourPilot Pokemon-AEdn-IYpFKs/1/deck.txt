@@ -18,8 +18,7 @@ Trainer: 29
 3 Ultra Ball SVI 196
 3 Earthen Vessel PAR 163
 2 Night Stretcher SFA 61
-2 Superior Energy Retrieval PAL 189
-1 Energy Retrieval SVI 171
+3 Energy Retrieval SVI 171
 1 Prime Catcher TEF 157
 1 Pal Pad SVI 182
 2 Area Zero Underdepths SCR 131
