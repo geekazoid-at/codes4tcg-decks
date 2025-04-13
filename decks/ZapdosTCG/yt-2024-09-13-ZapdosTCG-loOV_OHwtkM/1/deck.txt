@@ -14,7 +14,7 @@ Trainer: 37
 4 Arven OBF 186
 2 Boss's Orders PAL 172
 1 Professor Turo's Scenario PAR 171
-1 Crispin SV 7 97
+1 Crispin SCR 133
 4 Nest Ball SVI 181
 4 Buddy-Buddy Poffin TEF 144
 4 Rare Candy SVI 191
@@ -23,9 +23,9 @@ Trainer: 37
 1 Earthen Vessel PAR 163
 1 Night Stretcher SFA 61
 1 Technical Machine: Devolution PAR 177
-1 Gravity Orb SV 7 95
+1 Gravity Gemstone SCR 137
 1 Forest Seal Stone SIT 156
-1 Sparkling Crystal SV 7 94
+1 Sparkling Crystal SCR 142
 1 Pokémon League Headquarters OBF 192
 1 Temple of Sinnoh ASR 155
 

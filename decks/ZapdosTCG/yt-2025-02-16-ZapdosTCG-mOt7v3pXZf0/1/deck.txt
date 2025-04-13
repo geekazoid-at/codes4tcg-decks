@@ -12,7 +12,7 @@ Pokémon: 22
 1 Fezandipiti ex SFA 38
 1 Latias ex SSP 76
 1 Mew ex MEW 151
-1 Lillie's Clefairy ex SV 9 33
+1 Lillie's Clefairy ex JTG 184
 
 Trainer: 28
 3 Crispin PRE 105

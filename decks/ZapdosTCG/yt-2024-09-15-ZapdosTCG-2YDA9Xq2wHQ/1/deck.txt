@@ -20,7 +20,7 @@ Trainer: 34
 2 Boss's Orders PAL 172
 1 Thorton LOR 167
 1 Professor Turo's Scenario PAR 171
-1 Briar SV 7 100
+1 Briar SCR 132
 4 Buddy-Buddy Poffin TEF 144
 4 Ultra Ball SVI 196
 4 Rare Candy SVI 191

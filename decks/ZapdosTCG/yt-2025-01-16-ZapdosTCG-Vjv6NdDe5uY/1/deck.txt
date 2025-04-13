@@ -5,7 +5,7 @@ Pokémon: 21
 2 Duskull BRS 60
 1 Dusclops SFA 19
 2 Dusknoir SFA 20
-2 Budew SV 8a 1
+2 Budew PRE 4
 1 Klefki SVI 96
 1 Radiant Alakazam SIT 59
 1 Fezandipiti ex SFA 38
