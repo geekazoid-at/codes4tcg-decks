@@ -1,0 +1,37 @@
+Pokémon: 13
+4 Gimmighoul SSP 97
+4 Gholdengo ex PAR 139
+2 Togepi OBF 83
+2 Togekiss SSP 72
+1 Fezandipiti ex SFA 38
+
+Trainer: 35
+4 Arven SVI 166
+2 Iono PAL 185
+2 Boss's Orders PAL 172
+2 Ciphermaniac's Codebreaking TEF 145
+4 Ultra Ball SVI 196
+4 Buddy-Buddy Poffin TEF 144
+4 Superior Energy Retrieval PAL 189
+2 Nest Ball SVI 181
+2 Rare Candy SVI 191
+1 Earthen Vessel PAR 163
+1 Switch SVI 194
+1 Energy Search Pro SSP 176
+1 Super Rod PAL 188
+1 Counter Catcher PAR 160
+1 Technical Machine: Evolution PAR 178
+1 Rescue Board TEF 159
+2 Levincia JTG 150
+
+Energy: 12
+3 Basic {L} Energy SVE 4
+3 Basic {M} Energy SVE 8
+1 Basic {W} Energy SVE 3
+1 Basic {F} Energy SVE 6
+1 Basic {D} Energy SVE 7
+1 Basic {R} Energy SVE 2
+1 Basic {G} Energy SVE 1
+1 Basic {P} Energy SVE 5
+
+Total Cards: 60
