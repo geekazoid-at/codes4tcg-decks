@@ -1,0 +1,39 @@
+Pokémon: 11
+3 Lycanroc JTG 85
+4 Rockruff TEF 89
+2 Froslass TWM 53
+2 Snorunt PAR 37
+2 Munkidori TWM 95
+1 Maractus JTG 8
+1 Budew PRE 4
+2 Dudunsparce TEF 129
+1 Dunsparce TEF 128
+1 Dunsparce PAL 156
+1 Dudunsparce ex JTG 121
+
+Trainer: 18
+1 Vengeful Punch OBF 197
+4 Arven SVI 166
+2 Boss's Orders PAL 172
+4 Buddy-Buddy Poffin PRE 101
+1 Counter Catcher PAR 160
+1 Counter Gain SSP 169
+1 Earthen Vessel PAR 163
+3 Iono PAL 185
+2 Ultra Ball SVI 196
+1 Artazon PAL 171
+1 Night Stretcher SFA 61
+2 Super Rod PAL 188
+1 Nest Ball SVI 181
+1 Brilliant Blender SSP 164
+1 Technical Machine: Devolution PAR 177
+1 Morty's Conviction TEF 155
+3 Professor's Research PRE 122
+1 Technical Machine: Evolution PAR 178
+
+Energy: 3
+4 Basic {D} Energy SVE 7
+4 Spiky Energy JTG 159
+1 Jet Energy PAL 190
+
+Total Cards: 60

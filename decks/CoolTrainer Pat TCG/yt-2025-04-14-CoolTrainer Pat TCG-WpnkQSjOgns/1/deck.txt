@@ -1,0 +1,36 @@
+Pokémon: 9
+2 Wugtrio ex TEF 60
+2 Wiglett TEF 47 PH
+2 Munkidori SFA 72
+2 Snorunt TWM 51
+1 Bloodmoon Ursaluna ex TWM 216
+2 Varoom SFA 43
+2 Revavroom SVI 142
+1 Budew PRE 4
+2 Froslass TWM 174
+
+Trainer: 17
+4 Buddy-Buddy Poffin TWM 223
+1 Counter Catcher PAR 160 PH
+1 Unfair Stamp TWM 165
+1 Nest Ball SVI 255
+2 Earthen Vessel SFA 96
+1 Pokégear 3.0 SVI 186
+3 Night Stretcher SFA 61
+4 Arven PAF 235
+3 Iono PAF 237
+1 Technical Machine: Devolution PAR 177
+1 Team Star Grunt OBF 195 PH
+4 Ultra Ball BRS 186
+3 Levincia JTG 150
+2 Counter Catcher PAR 264
+2 Professor's Research CEL 24
+2 Gravity Gemstone SCR 137
+1 Rescue Board PRE 126
+
+Energy: 3
+3 Basic {L} Energy SVE 12
+2 Basic {D} Energy SVE 15
+3 Basic {W} Energy SVE 11
+
+Total Cards: 60

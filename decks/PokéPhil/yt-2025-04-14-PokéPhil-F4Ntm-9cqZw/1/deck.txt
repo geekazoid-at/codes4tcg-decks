@@ -1,0 +1,32 @@
+Pokémon: 9
+1 Hop's Zacian ex JTG 186
+2 N's Zoroark ex JTG 185
+1 Budew PRE 4 PH
+3 Archaludon ex SSP 241
+1 Fezandipiti ex SFA 92
+3 Duraludon SCR 106
+4 N's Zorua JTG 97
+2 N's Zoroark ex JTG 98
+1 Relicanth TEF 84
+
+Trainer: 15
+3 Boss's Orders RCL 189
+1 Scoop Up Cyclone TWM 162
+1 Pal Pad SSH 172 PH
+1 Rigid Band MEW 165
+2 Professor Turo's Scenario PAR 257
+4 Nest Ball SVI 255
+3 Earthen Vessel SFA 96
+1 Black Belt's Training PRE 96 PH
+1 Black Belt's Training PRE 97 PH
+4 Night Stretcher SSP 251
+3 Iono PAL 269
+4 Ultra Ball BRS 186
+2 N's Castle JTG 152
+1 Counter Catcher PAR 264
+2 Professor's Research SVI 240
+
+Energy: 1
+9 Basic {M} Energy SVE 16 PH
+
+Total Cards: 60
