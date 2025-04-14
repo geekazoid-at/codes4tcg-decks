@@ -1,0 +1,30 @@
+Pokémon: 7
+1 Bloodmoon Ursaluna ex TWM 141
+1 Duraludon SCR 106
+1 Archaludon ex SSP 130
+4 Munkidori TWM 95
+3 Copperajah ex PAL 150
+4 Cufant SFA 41
+1 Squawkabilly ex PAL 169
+
+Trainer: 13
+1 Precious Trolley SSP 185
+4 Energy Switch SVI 173
+2 Heavy Baton TEF 151
+4 Ultra Ball PAF 91
+4 Pokégear 3.0 SVI 186
+3 Night Stretcher SFA 61
+2 Boss's Orders PAL 172
+2 Iono PAL 185
+4 Arven SVI 166
+2 Technical Machine: Turbo Energize PAR 179
+3 Professor's Research JTG 155
+1 Earthen Vessel PRE 106
+1 Crispin PRE 105
+
+Energy: 3
+4 Basic {D} Energy SVE 7
+1 Basic {P} Energy SVE 5
+7 Basic {M} Energy SVE 8
+
+Total Cards: 60

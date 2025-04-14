@@ -1,0 +1,33 @@
+Pokémon: 8
+4 N's Zorua JTG 97
+1 Mimikyu PAL 97
+4 Durant ex SSP 4
+3 N's Zoroark ex JTG 98
+1 Pikachu ex SSP 57
+2 Pidgeot ex OBF 164
+1 Cornerstone Mask Ogerpon ex TWM 112
+2 Pidgey OBF 162
+
+Trainer: 18
+1 Dusk Ball SSP 175
+3 Nest Ball PAF 84
+1 Max Rod PRE 116
+2 Ultra Ball PAF 91
+1 Miriam SVI 179
+2 Pal Pad SVI 182
+2 Penny SVI 183
+1 Bravery Charm PAL 173
+2 Dusk Ball SSP 175 PH
+4 Iono PAL 185
+3 Arven SVI 166
+1 Lucky Helmet TWM 158
+4 Great Ball PAL 183
+4 Super Rod PAL 188
+2 Rare Candy PAF 89
+3 Buddy-Buddy Poffin PRE 101
+4 Area Zero Underdepths SCR 131
+2 Professor Turo's Scenario PRE 121
+
+Energy: 0
+
+Total Cards: 60
