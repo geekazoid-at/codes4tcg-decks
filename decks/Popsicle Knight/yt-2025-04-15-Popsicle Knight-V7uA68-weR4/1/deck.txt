@@ -1,0 +1,36 @@
+Pokémon: 14
+3 Mamoswine ex JTG 79
+2 Lotad JTG 35
+3 Swinub JTG 77
+1 Ludicolo JTG 37
+2 Piloswine JTG 78
+1 Pidgeotto MEW 17
+2 Annihilape SSP 100
+1 Lombre JTG 36
+2 Pidgeot ex OBF 164
+1 Cornerstone Mask Ogerpon ex TWM 112
+2 Pidgey OBF 162
+2 Mankey SVI 107
+1 Primeape SVI 108
+1 Ludicolo JTG 37 PH
+
+Trainer: 13
+1 Counter Catcher PAR 160
+1 Big Air Balloon MEW 155
+2 Boss's Orders PAL 172
+3 Iono PAL 185
+4 Arven SVI 166
+2 Super Rod PAL 188
+1 Colress's Tenacity SFA 57
+4 Buddy-Buddy Poffin PRE 101
+1 Earthen Vessel PRE 106
+2 Ultra Ball SVI 196
+1 Professor's Research PRE 122
+1 Rock Chestplate SVI 192
+4 Rare Candy SVI 191
+
+Energy: 2
+1 Neo Upper Energy TEF 162
+8 Basic {F} Energy SVE 14
+
+Total Cards: 60
