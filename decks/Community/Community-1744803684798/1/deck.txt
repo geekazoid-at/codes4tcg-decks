@@ -1,0 +1,33 @@
+Pokémon: 13
+4 Tinkaton ex PR-SV 31
+2 Dudunsparce TEF 129
+1 Tinkatuff PAL 217
+1 Tinkatink PAL 102 PH
+2 Dunsparce PAL 156
+2 Dudunsparce TEF 129 PH
+1 Fezandipiti ex SFA 38
+2 Dunsparce TEF 128 PH
+1 Fan Rotom SCR 118
+2 Tinkatuff PAL 104 PH
+1 Radiant Tsareena SIT 16
+1 Manaphy BRS 41
+3 Tinkatink PAR 83 PH
+Trainer: 14
+3 Arezu LOR 153 PH
+1 Jacq SVI 175
+2 Artazon PAL 171 PH
+4 Nest Ball SVI 181
+2 Capturing Aroma SIT 153
+3 Boss's Orders PAL 172
+2 Colress's Tenacity SFA 57 PH
+1 Beach Court SVI 167
+1 Worker SIT 167
+2 Colress's Tenacity SFA 57
+1 Roxanne ASR 150
+1 Grand Tree SCR 136
+4 Buddy-Buddy Poffin TEF 144
+3 Rare Candy SVI 191
+Energy: 2
+4 Double Turbo Energy BRS 151
+3 Basic {P} Energy SVE 13
+Total Cards: 60
