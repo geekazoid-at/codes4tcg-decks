@@ -1,0 +1,29 @@
+Pokémon: 6
+3 Doduo MEW 84
+4 Caterpie JTG 1
+2 Metapod MEW 11
+3 Dodrio MEW 85
+4 Butterfree JTG 3 PH
+1 Budew PRE 4
+
+Trainer: 15
+4 Drayton SSP 174
+4 Artazon PAF 76
+4 Energy Search SVI 172
+4 Night Stretcher SFA 61
+1 Rescue Board TEF 159
+1 Pal Pad SVI 182
+2 Boss's Orders PAL 172
+3 Iono PAL 185
+1 Technical Machine: Devolution PAR 177
+1 Technical Machine: Evolution PAR 178
+4 Professor's Research JTG 155
+1 Eri TEF 146
+4 Buddy-Buddy Poffin TEF 144
+1 Neutralization Zone SFA 60
+3 Rare Candy SVI 191
+
+Energy: 1
+5 Basic {G} Energy SVE 9
+
+Total Cards: 60
