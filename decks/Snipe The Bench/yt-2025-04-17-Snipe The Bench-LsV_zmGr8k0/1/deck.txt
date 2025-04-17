@@ -1,0 +1,33 @@
+Pokémon: 9
+2 Tyranitar JTG 95
+1 Pecharunt PR-SV 149
+1 Fezandipiti ex SFA 38
+2 Revavroom PAF 65
+1 Pupitar PAL 111
+2 Larvitar PAL 110
+3 Accelgor JTG 13
+2 Varoom SVI 140
+3 Shelmet JTG 12
+
+Trainer: 15
+1 Counter Catcher PAR 160
+1 Neutralization Zone SFA 60
+2 Perilous Jungle TEF 156
+1 Pal Pad SVI 182
+2 Nest Ball SVI 181
+2 Boss's Orders PAL 172
+4 Arven SVI 166
+2 Super Rod PAL 188
+3 Crispin SCR 133
+4 Buddy-Buddy Poffin TEF 144
+2 Iono PAF 80
+3 Ultra Ball SVI 196
+2 Switch SVI 194
+2 Rare Candy SVI 191
+1 Earthen Vessel PAR 163
+
+Energy: 2
+6 Basic {G} Energy SVE 9
+5 Basic {D} Energy SVE 15
+
+Total Cards: 60

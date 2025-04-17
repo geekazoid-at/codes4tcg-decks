@@ -1,0 +1,39 @@
+Pokémon: 16
+4 Dreepy TWM 128
+4 Drakloak TWM 129
+2 Dragapult ex TWM 130
+2 Budew PRE 4
+1 Fezandipiti ex SFA 38
+1 Bloodmoon Ursaluna ex TWM 141
+1 Munkidori TWM 95
+1 Hawlucha SVI 118
+
+Trainer: 37
+4 Iono PAL 185
+4 Arven OBF 186
+2 Boss's Orders PAL 172
+2 Jacq SVI 175
+2 Crispin SCR 133
+2 Professor Turo's Scenario PAR 171
+1 Brock's Scouting JTG 146
+4 Buddy-Buddy Poffin TEF 144
+3 Ultra Ball SVI 196
+3 Counter Catcher PAR 160
+1 Nest Ball SVI 181
+1 Earthen Vessel PAR 163
+1 Night Stretcher SFA 61
+1 Super Rod PAL 188
+1 Unfair Stamp TWM 165
+1 Switch SVI 194
+1 Rescue Board TEF 159
+1 Bravery Charm PAL 173
+1 Defiance Band SVI 169
+1 Artazon PAL 171
+
+Energy: 7
+3 Basic {P} Energy SVE 5
+2 Basic {R} Energy SVE 2
+1 Luminous Energy PAL 191
+1 Basic {D} Energy SVE 7
+
+Total Cards: 60
