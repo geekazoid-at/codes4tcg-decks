@@ -1,0 +1,32 @@
+Pokémon: 2
+4 Iron Thorns ex TWM 77
+1 Mimikyu PR-SV 75
+
+Trainer: 19
+3 Future Booster Energy Capsule PAR 164 PH
+2 Crispin SCR 164
+2 Techno Radar PAR 180 PH
+4 Judge SIT-TG 25
+1 Technical Machine: Devolution PAR 177 PH
+3 Boss's Orders LOR-TG 24
+2 Town Store OBF 196 PH
+1 Earthen Vessel SFA 96
+2 Penny SVI 252
+4 Pokégear 3.0 UNB 182 PH
+4 Arven PAF 235
+4 Crushing Hammer SUM 115 PH
+1 Lively Stadium SSP 180 PH
+1 Giovanni's Charisma MEW 197
+1 Technical Machine: Turbo Energize PAR 179 PH
+1 Pal Pad FLF 92 PH
+1 Colress's Tenacity SFA 87
+1 Deluxe Bomb SCR 134
+2 Professor's Research CEL 24
+
+Energy: 4
+3 Spiky Energy JTG 159
+8 Basic {L} Energy SVE 4 PH
+2 Mist Energy TEF 161
+2 Basic {P} Energy GEN 79 PH
+
+Total Cards: 60
