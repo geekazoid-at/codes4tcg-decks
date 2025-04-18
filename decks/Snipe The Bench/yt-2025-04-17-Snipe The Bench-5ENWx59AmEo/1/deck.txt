@@ -1,0 +1,39 @@
+Pokémon: 10
+3 Dunsparce TEF 128
+3 Dudunsparce TEF 129
+2 Tyranitar JTG 95
+1 Pecharunt PR-SV 149
+1 Mimikyu PAL 97
+1 Fezandipiti ex SFA 38
+1 Pupitar PAL 111
+2 Larvitar PAL 110
+3 Accelgor JTG 13
+3 Shelmet JTG 12
+
+Trainer: 20
+1 Counter Catcher PAR 160
+1 Counter Gain SSP 249
+1 Precious Trolley SSP 185
+2 Perilous Jungle TEF 156
+2 Night Stretcher SFA 61
+1 Pal Pad SVI 182
+1 Nest Ball SVI 181
+1 Big Air Balloon MEW 155
+1 Boss's Orders PAL 172
+4 Arven SVI 166
+2 Technical Machine: Evolution PAR 178
+1 Super Rod PAL 188
+3 Crispin SCR 133
+1 Buddy-Buddy Poffin TEF 144
+2 Iono PAF 80
+2 Ultra Ball SVI 196
+1 Switch SVI 194
+1 Rescue Board PRE 126
+1 Rare Candy SVI 191
+1 Earthen Vessel PAR 163
+
+Energy: 2
+5 Basic {G} Energy SVE 9
+5 Basic {D} Energy SVE 15
+
+Total Cards: 60
