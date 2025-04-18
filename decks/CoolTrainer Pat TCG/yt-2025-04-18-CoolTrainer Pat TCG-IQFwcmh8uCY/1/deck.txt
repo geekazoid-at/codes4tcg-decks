@@ -1,0 +1,41 @@
+Pokémon: 10
+2 Flareon ex PRE 146
+1 Fezandipiti ex SFA 92
+2 Eevee ex PRE 167
+1 Eevee SSP 143
+1 Wellspring Mask Ogerpon ex TWM 213
+3 Hoothoot SCR 114
+3 Noctowl SCR 115
+2 Fan Rotom SCR 118
+2 Salamence ex JTG 114
+2 Bagon JTG 112
+
+Trainer: 19
+2 Boss's Orders RCL 189
+4 Buddy-Buddy Poffin TWM 223
+1 Jacq SVI 175 PH
+1 Super Rod PAL 276
+2 Rare Candy SVI 256
+1 Rescue Board TEF 159
+1 Night Stretcher SFA 61 PH
+2 Arven PAF 235
+2 Iono PAF 237
+1 Switch MEW 206
+1 Powerglass SFA 63
+2 Area Zero Underdepths SCR 174
+3 Nest Ball SVI 181 PH
+2 Ultra Ball BRS 186
+1 Defiance Band SVI 169
+1 Counter Catcher PAR 264
+1 Colress's Tenacity SFA 87
+2 Crispin SCR 133
+1 Professor's Research CEL 24
+
+Energy: 5
+4 Basic {R} Energy SVE 2 PH
+3 Basic {W} Energy SVE 3 PH
+1 Boomerang Energy TWM 166 PH
+1 Neo Upper Energy TEF 162
+1 Basic {L} Energy SVE 4 PH
+
+Total Cards: 60
