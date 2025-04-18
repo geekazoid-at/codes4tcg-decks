@@ -1,0 +1,36 @@
+Pokémon: 12
+1 Budew PRE 4
+1 Rellor PAL 26
+1 Rabsca TEF 24
+4 Abra MEW 63
+1 Kadabra TWM 81
+2 Alakazam ex MEW 65
+1 Lillie's Clefairy ex JTG 56
+2 Munkidori TWM 95
+2 Natu PAR 71
+2 Xatu PAR 72
+2 Cornerstone Mask Ogerpon ex TWM 112
+2 Mimikyu PAL 97
+
+Trainer: 15
+3 Buddy-Buddy Poffin PRE 101
+1 Counter Catcher PAR 160
+2 Earthen Vessel PRE 106
+2 Nest Ball SVI 181
+3 Night Stretcher SFA 61
+2 Rare Candy SVI 191
+3 Ultra Ball SVI 196
+2 Area Zero Underdepths PRE 94
+1 Pokémon League Headquarters OBF 192
+4 Arven SVI 166
+1 Boss's Orders PAL 172
+3 Iono PAL 185
+1 Maximum Belt PRE 117
+1 Technical Machine: Devolution PAR 177
+1 Technical Machine: Evolution PAR 178
+
+Energy: 2
+3 Basic {D} Energy SVE 15
+6 Basic {P} Energy SVE 13
+
+Total Cards: 60
