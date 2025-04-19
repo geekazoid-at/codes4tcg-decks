@@ -1,0 +1,34 @@
+Pokémon: 9
+2 Dedenne-GX SMALT 156
+2 Regieleki V SIT 175
+1 Tapu Koko {*} TEU 51
+3 Miraidon ex PAF 243
+1 Tapu Lele-GX HIF 163
+2 Regieleki VMAX SIT 58
+1 Crobat V LOR-TG 20
+1 Zeraora-GX LOT 201
+1 Vikavolt V DAA 180
+
+Trainer: 16
+2 Cynthia HIF 151
+1 Switch SUM 160
+4 Electric Generator SVI 170
+3 Iono PAF 237
+4 Electropower SMALT 137
+2 Quick Ball SSH 216
+4 Ultra Ball BRS 186
+1 Ordinary Rod SSH 215
+2 Guzma & Hala CEC 229
+1 Prime Catcher TEF 157
+3 Guzma HIF 153
+2 Escape Rope BUS 163
+1 Forest Seal Stone SIT 156
+1 Field Blower GRI 163
+1 Stormy Mountains EVS 232
+1 Thunder Mountain {*} LOT 191
+
+Energy: 2
+1 Speed {L} Energy RCL 173
+12 Basic {L} Energy GRI 168
+
+Total Cards: 60

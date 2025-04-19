@@ -1,0 +1,25 @@
+Pokémon: 5
+1 Zebstrika LOT 82 PH
+1 Dedenne-GX SMALT 156
+4 Blitzle LOT 81
+3 Zebstrika LOT 82
+4 Volcarona V EVS 170
+
+Trainer: 11
+4 Professor's Research CEL 24
+4 Fiery Flint DRM 76
+2 Rescue Stretcher BUS 165
+1 Heat Factory {*} LOT 178
+3 Guzma HIF 153
+4 Ultra Ball BRS 186
+2 Forest Seal Stone SIT 156
+2 Air Balloon SSH 156
+4 Quick Ball SSH 216
+1 Giant Hearth CEC 263
+1 Maximum Belt TEF 154
+
+Energy: 2
+17 Basic {R} Energy BUS 167
+2 Basic {R} Energy OBF 230
+
+Total Cards: 60

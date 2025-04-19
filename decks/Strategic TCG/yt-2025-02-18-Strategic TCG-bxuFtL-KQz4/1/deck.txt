@@ -1,0 +1,30 @@
+Pokémon: 8
+4 Dedenne DAA 78
+4 Bunnelby DAA 150
+1 Squawkabilly ex PAL 264
+4 Ditto CRZ 107
+1 Oranguru BRS-TG 12
+4 Galarian Mr. Rime DAA 36
+2 Dedenne-GX SMALT 156
+4 Polteageist DAA 83
+
+Trainer: 13
+4 Trekking Shoes ASR 215
+1 Rescue Carrier CRZ 142
+1 Brilliant Blender SSP 164
+1 Rescue Stretcher SMALT 187
+4 Quick Ball SSH 216
+4 Ultra Ball BRS 186
+2 Air Balloon SSH 213
+4 Professor's Research CEL 24
+1 Choice Belt ASR 211
+3 Guzma HIF 153
+1 Collapsed Stadium LOR 215
+1 Hisuian Heavy Ball ASR 146 PH
+1 Echoing Horn CRE 225
+
+Energy: 2
+4 Twin Energy RCL 209
+4 Double Colorless Energy GRI 166
+
+Total Cards: 60

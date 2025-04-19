@@ -1,0 +1,26 @@
+Pokémon: 4
+4 Brute Bonnet PAR 207
+2 Dedenne-GX SMALT 156
+4 Flutter Mane PR-SV 97
+4 Roaring Moon TEF 109
+
+Trainer: 14
+1 Field Blower SMALT 44
+3 Explorer's Guidance TEF 200
+1 Rescue Stretcher BUS 165
+1 Night Stretcher SSP 251
+3 PokéStop PGO 68
+3 Guzma HIF 153
+2 Switch SUM 160
+4 Quick Ball SSH 216
+4 Dark Patch LOR 216
+4 Earthen Vessel SFA 96
+4 Professor Sada's Vitality PAR 256
+1 Choice Belt ASR 211
+1 Brilliant Blender SSP 164
+4 Ancient Booster Energy Capsule PAR 159
+
+Energy: 1
+10 Basic {D} Energy BUS 168
+
+Total Cards: 60

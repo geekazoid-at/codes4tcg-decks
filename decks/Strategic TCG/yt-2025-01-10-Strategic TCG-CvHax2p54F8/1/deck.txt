@@ -1,0 +1,31 @@
+Pokémon: 9
+4 Archeops PR-SW 272
+2 Lugia VSTAR SIT 211
+1 Ditto {*} LOT 154
+3 Lugia V SIT 186
+1 Dedenne-GX SMALT 156
+1 Alolan Muk TEU 84
+4 Sizzlipede FST 47
+2 Tapu Lele-GX SMALT 38
+3 Centiskorch SSH 39
+
+Trainer: 12
+1 Bellelba & Brycen-Man CEC 186
+1 Rescue Stretcher BUS 165
+1 Roseanne's Backup BRS 148
+4 Ultra Ball PLF 122
+2 Iono PAF 237
+2 Guzma HIF 153
+3 Professor's Research SSH 201
+4 Quick Ball SSH 216
+1 Professor Turo's Scenario PAR 257
+1 Brilliant Blender SSP 164
+3 Cursed Shovel RCL 157
+4 Evolution Incense SSH 163
+
+Energy: 3
+4 Heat {R} Energy DAA 174
+4 Counter Energy CIN 100
+4 Reversal Energy PAL 192
+
+Total Cards: 60

@@ -1,0 +1,40 @@
+Pokémon: 12
+2 Drakloak TWM 129
+4 Dreepy TWM 128
+2 Dragapult ex TWM 130
+1 Dusclops SFA 19
+2 Pidgeot ex OBF 164
+1 Manaphy BRS 41
+1 Duskull SFA 18
+1 Fezandipiti ex SFA 38
+1 Rotom V LOR 58
+1 Dragapult ex TWM 200
+2 Pidgey MEW 16
+1 Dusknoir SFA 20
+
+Trainer: 19
+4 Ultra Ball SVI 196
+4 Rare Candy SVI 191
+1 Defiance Band SVI 169
+1 Earthen Vessel PAR 163
+1 Crispin SCR 133
+4 Buddy-Buddy Poffin TEF 144
+1 Counter Catcher PAR 160
+1 Mela PAR 167
+4 Arven PAF 235
+3 Iono PAL 185
+1 Technical Machine: Devolution PAR 177
+1 Super Rod PAL 188
+1 Briar SCR 163
+1 Pokémon League Headquarters OBF 192
+1 Sparkling Crystal SCR 142
+1 Forest Seal Stone SIT 156
+2 Nest Ball SVI 181
+1 Rescue Board TEF 159
+2 Boss's Orders PAL 172
+
+Energy: 2
+3 Basic {R} Energy SVE 2
+3 Basic {P} Energy SVE 5
+
+Total Cards: 60

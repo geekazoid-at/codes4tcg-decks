@@ -1,0 +1,40 @@
+Pokémon: 11
+1 Rotom V LOR 177
+3 Dragapult ex PRE 165
+4 Drakloak TWM 129
+4 Dreepy TWM 128
+1 Dusclops SFA 69
+1 Budew PRE 4 PH
+2 Duskull SFA 68
+1 Fezandipiti ex SFA 92
+1 Radiant Alakazam SIT 59
+2 Dusknoir SFA 70
+1 Lumineon V CRZ-GG 39
+
+Trainer: 20
+2 Lance SIT 192
+1 Earthen Vessel SFA 96
+1 Boss's Orders PAL 265
+2 Ultra Ball PLF 122
+1 Lance SIT 159
+4 Arven PAF 235
+1 Night Stretcher SSP 251
+1 Professor Turo's Scenario PAR 257
+1 Technical Machine: Evolution PAR 178
+4 Buddy-Buddy Poffin TWM 223
+1 Temple of Sinnoh ASR 214
+1 Sparkling Crystal SCR 142
+3 Iono PAL 254
+1 Forest Seal Stone SIT 156
+1 Crispin PRE 171
+1 Collapsed Stadium LOR 215
+1 Rescue Board TWM 225
+2 Rare Candy GRI 165
+2 Counter Catcher PAR 264
+2 Nest Ball SVI 255
+
+Energy: 2
+3 Basic {P} Energy SUM 162
+3 Basic {R} Energy BUS 167
+
+Total Cards: 60

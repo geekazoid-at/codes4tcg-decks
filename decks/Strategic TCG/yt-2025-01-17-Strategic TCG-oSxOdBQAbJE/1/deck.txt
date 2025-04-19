@@ -1,0 +1,32 @@
+Pokémon: 7
+1 Squawkabilly ex PAL 264
+4 Rotom V LOR 177
+1 Dedenne-GX SMALT 156
+1 Tapu Koko {*} TEU 51
+3 Rotom VSTAR CRZ 46
+1 Tapu Lele-GX SMALT 38
+1 Crobat V LOR-TG 20
+
+Trainer: 16
+4 Exp. Share BST 126
+4 Ultra Ball PLF 122
+1 Bravery Charm PAL 173 PH
+2 Adventure Bag LOT 167
+2 Field Blower SMALT 44
+3 Quick Ball SSH 216
+1 Raihan EVS 202
+3 Professor's Research CEL 24
+4 Air Balloon SSH 156
+4 Choice Belt ASR 211
+2 Guzma HIF 153
+2 Forest Seal Stone SIT 156
+3 Big Charm SSH 158
+1 Secret Box TWM 163
+1 Thunder Mountain {*} LOT 191
+3 Big Parasol DAA 157
+
+Energy: 2
+4 Speed {L} Energy RCL 173
+4 Basic {L} Energy GRI 168
+
+Total Cards: 60

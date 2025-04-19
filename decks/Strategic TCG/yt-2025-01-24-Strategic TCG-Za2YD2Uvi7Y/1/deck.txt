@@ -1,0 +1,39 @@
+Pokémon: 13
+1 Manaphy CRZ-GG 6
+4 Drakloak TWM 129
+4 Dreepy TWM 128
+2 Dragapult ex TWM 130
+2 Dusclops SFA 69
+1 Budew PRE 4 PH
+2 Duskull SFA 18
+1 Fezandipiti ex SFA 92
+1 Radiant Alakazam SIT 59
+1 Budew PRE 4
+1 Dragapult ex TWM 200
+1 Dusknoir SFA 70
+1 Lumineon V CRZ-GG 39
+
+Trainer: 17
+1 Lance SIT 192
+1 Earthen Vessel SFA 96
+1 Boss's Orders PAL 265
+3 Ultra Ball PLF 122
+2 Lance SIT 159
+4 Arven PAF 235
+3 Iono PAF 237
+2 Night Stretcher SSP 251
+1 Professor Turo's Scenario PAR 257
+1 Artazon OBF 229
+4 Buddy-Buddy Poffin TWM 223
+1 Sparkling Crystal SCR 142
+1 Forest Seal Stone SIT 156
+1 Rescue Board TWM 225
+2 Rare Candy GRI 165
+2 Counter Catcher PAR 264
+2 Nest Ball SVI 255
+
+Energy: 2
+3 Basic {P} Energy SUM 162
+3 Basic {R} Energy BUS 167
+
+Total Cards: 60

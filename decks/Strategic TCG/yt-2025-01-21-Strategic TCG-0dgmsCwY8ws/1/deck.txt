@@ -1,0 +1,23 @@
+Pokémon: 5
+1 Dedenne-GX SMALT 156
+4 Poltchageist TWM 20
+3 Blitzle LOT 81
+4 Sinistcha ex TWM 23
+3 Zebstrika LOT 82
+
+Trainer: 10
+4 Professor's Research CEL 24
+4 Ultra Ball PLF 122
+1 Canceling Cologne ASR 136
+1 Accompanying Flute TWM 142 PH
+2 Clay CEC 188
+4 Quick Ball SSH 216
+1 U-Turn Board UNM 255
+4 Net Ball SMALT 139
+3 Rescue Stretcher SMALT 187
+1 Brilliant Blender SSP 164
+
+Energy: 1
+20 Basic {G} Energy SVE 1
+
+Total Cards: 60

@@ -1,0 +1,37 @@
+Pokémon: 13
+1 Rotom V LOR 177
+3 Charizard ex PAF 234
+1 Dusclops SFA 19
+2 Pidgeot ex OBF 164
+2 Pidgey OBF 162
+1 Manaphy BRS 41
+2 Duskull SFA 18
+1 Fezandipiti ex SFA 38
+1 Charmeleon PAF 8
+1 Dusknoir SFA 20
+1 Radiant Charizard CRZ 20
+1 Lumineon V CRZ-GG 39
+4 Charmander MEW 4
+
+Trainer: 16
+4 Rare Candy SVI 191
+1 Defiance Band SVI 169
+1 Briar SCR 132
+4 Buddy-Buddy Poffin TEF 144
+2 Counter Catcher PAR 160
+3 Iono PAL 185
+2 Super Rod PAL 188
+1 Roxanne ASR 150
+1 Prime Catcher TEF 157
+4 Ultra Ball CRZ 146
+1 Forest Seal Stone SIT 156
+1 Collapsed Stadium LOR 215
+2 Nest Ball PAF 84
+1 Lost Vacuum CRZ 135 PH
+3 Arven SVI 166
+2 Boss's Orders PAL 172
+
+Energy: 1
+6 Basic {R} Energy SVE 10
+
+Total Cards: 60

@@ -1,0 +1,31 @@
+Pokémon: 8
+3 Raichu & Alolan Raichu-GX UNM 221
+2 Dedenne-GX SMALT 156
+1 Tapu Koko {*} TEU 51
+2 Miraidon ex PAF 243
+1 Tapu Lele-GX HIF 163
+1 Crobat V LOR-TG 20
+1 Zeraora-GX LOT 201
+1 Vikavolt V DAA 180
+
+Trainer: 15
+1 Switch SUM 160
+3 Ultra Ball PLF 122
+4 Electric Generator SVI 170
+4 Electropower SMALT 137
+2 Marnie PR-SW 121
+4 Quick Ball SSH 216
+4 Professor's Research CEL 24
+1 Choice Belt ASR 211
+1 Prime Catcher TEF 157
+3 Guzma HIF 153
+1 Escape Rope BUS 163
+2 Energy Switch SSH 162
+2 Forest Seal Stone SIT 156
+1 Stormy Mountains EVS 232
+1 Thunder Mountain {*} LOT 191
+
+Energy: 1
+14 Basic {L} Energy GRI 168
+
+Total Cards: 60

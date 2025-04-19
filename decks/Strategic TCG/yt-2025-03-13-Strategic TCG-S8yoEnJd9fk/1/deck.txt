@@ -1,0 +1,39 @@
+Pokémon: 12
+1 Wellspring Mask Ogerpon ex PRE 152
+1 Oranguru BRS-TG 12
+1 Moltres & Zapdos & Articuno-GX SMP 210
+1 Dedenne-GX SMALT 156
+3 Lugia V SIT 186
+3 Lugia VSTAR SIT 211
+1 Yveltal SHF 46
+1 Raikou VIV 50
+1 Blissey V CRE 183
+3 Archeops PR-SW 272
+1 Radiant Charizard CRZ 20
+2 Lumineon V CRZ-GG 39
+
+Trainer: 15
+4 Ultra Ball PLF 122
+1 Brilliant Blender SSP 164
+1 Hisuian Heavy Ball ASR 146
+1 Arven PAF 235
+1 Field Blower SMALT 44
+1 Night Stretcher SSP 251
+1 Marnie PR-SW 121
+4 Quick Ball SSH 216
+1 Acro Bike SMALT 120
+1 Boss's Orders LOR-TG 24
+4 Professor's Research CEL 24
+2 Evolution Incense SSH 163
+1 Escape Rope BUS 163
+2 Iono PAL 254
+1 Cape of Toughness VIV 200
+
+Energy: 5
+1 V Guard Energy SIT 215
+4 Aurora Energy SSH 186
+4 Rainbow Energy CES 183
+2 Double Colorless Energy GRI 166
+4 Powerful {C} Energy DAA 176
+
+Total Cards: 60

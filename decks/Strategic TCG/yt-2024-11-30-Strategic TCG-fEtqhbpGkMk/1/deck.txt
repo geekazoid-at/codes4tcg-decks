@@ -1,0 +1,32 @@
+Pokémon: 9
+1 Manaphy CRZ-GG 6
+1 Squawkabilly ex PAL 264
+2 Charcadet PAR 25
+2 Dedenne-GX SMALT 156
+4 Ceruledge ex SSP 36
+1 Tapu Lele-GX SMALT 38
+2 Charcadet PAR 25 PH
+1 Crobat V LOR-TG 20
+1 Volcarona V EVS 170
+
+Trainer: 15
+2 Salvatore TEF 160
+1 Switch SUM 160
+4 Ultra Ball PLF 122
+1 Brilliant Blender SSP 164
+2 Night Stretcher SSP 251
+1 Giant Hearth CEC 263
+4 Quick Ball SSH 216
+1 Raihan EVS 202
+3 Professor's Research CEL 24
+3 Guzma HIF 153
+2 Fiery Flint DRM 76
+1 Escape Rope BUS 163
+1 Forest Seal Stone SIT 156
+1 Heat Factory {*} LOT 178
+1 U-Turn Board UNM 255
+
+Energy: 1
+17 Basic {R} Energy BUS 167
+
+Total Cards: 60

@@ -1,0 +1,45 @@
+Pokémon: 16
+2 Deino SSP 117
+1 Pidgeotto TEU 123 PH
+1 Pidgey MEW 16
+1 Pidgey OBF 207
+2 Hydreigon ex SSP 240
+1 Pidgeot ex OBF 225
+1 Lumineon V CRZ-GG 39
+2 Deino SSP 117 PH
+1 Ditto {*} LOT 154
+1 Hydreigon ex SSP 223
+1 Rotom V LOR 177
+1 Zweilous SSP 118 PH
+1 Zacian V SSH 195
+1 Pidgeot ex OBF 217
+1 Alolan Muk SUM 58
+1 Gengar LOR-TG 6
+
+Trainer: 17
+4 Buddy-Buddy Poffin TWM 223
+4 Rare Candy GRI 165
+1 Black Market {*} TEU 134
+1 Guzma BUS 143
+1 Forest Seal Stone SIT 156
+1 Rescue Stretcher SMALT 187
+1 Guzma & Hala CEC 229
+1 Field Blower SMALT 44
+1 Counter Gain LOT 170 PH
+1 Technical Machine: Evolution PAR 178 PH
+4 Arven PAF 235
+2 Iono PAF 237
+1 Switch MEW 206
+4 Evolution Incense SSH 163
+1 Colress's Tenacity SFA 87
+4 Quick Ball SSH 216
+1 Altar of the Moone GRI 117
+
+Energy: 5
+3 Basic {D} Energy SFA 98
+2 Counter Energy CIN 100
+1 Super Boost Energy {*} UPR 136
+1 Neo Upper Energy TEF 162
+1 Basic {P} Energy SUM 162
+
+Total Cards: 60

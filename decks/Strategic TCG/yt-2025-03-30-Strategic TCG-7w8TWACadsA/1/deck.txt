@@ -1,0 +1,40 @@
+Pokémon: 11
+1 Manaphy CRZ-GG 6
+3 Dragapult ex PRE 165
+2 Sobble SSH 55
+1 Hawlucha PAF 175
+2 Drizzile SSH 56
+4 Drakloak TWM 129
+4 Dreepy TWM 128
+1 Fezandipiti ex SFA 92
+1 Radiant Alakazam SIT 59
+2 Inteleon CRE 43
+1 Lumineon V CRZ-GG 39
+
+Trainer: 19
+2 Cynthia HIF 151
+1 Lance SIT 192
+1 Earthen Vessel SFA 96
+1 Boss's Orders PAL 265
+4 Arven PAF 235
+2 Night Stretcher SSP 251
+2 Quick Ball SSH 216
+1 Air Balloon SSH 213
+1 Raihan EVS 202
+1 Technical Machine: Evolution PAR 178
+1 Crispin SCR 164
+4 Buddy-Buddy Poffin TWM 223
+3 Evolution Incense SSH 163
+1 Sparkling Crystal SCR 142
+1 Forest Seal Stone SIT 156
+1 Crispin PRE 171
+2 Rare Candy GRI 165
+1 Max Potion GRI 164
+1 Counter Catcher PAR 264
+
+Energy: 3
+3 Basic {P} Energy SUM 162
+1 Counter Energy CIN 100
+3 Basic {R} Energy BUS 167
+
+Total Cards: 60

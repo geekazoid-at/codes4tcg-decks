@@ -1,0 +1,30 @@
+Pokémon: 5
+1 Oricorio CRZ-GG 4
+3 Mew VMAX FST 269
+4 Genesect V FST 255
+4 Mew V FST 250
+2 Meloetta FST 124
+
+Trainer: 16
+1 Salvatore TEF 160
+2 Switch Cart ASR 154
+3 Elesa's Sparkle CRZ 147
+4 Ultra Ball PLF 122
+4 Cram-o-matic FST 229
+1 Hisuian Heavy Ball ASR 146
+2 Lost City LOR 161
+4 Battle VIP Pass FST 225
+1 Field Blower SMALT 44
+2 Choice Belt ASR 211
+1 Prime Catcher TEF 157
+4 Guzma HIF 153
+1 Escape Rope BUS 163
+4 Power Tablet FST 281
+1 Forest Seal Stone SIT 156
+3 Nest Ball SVI 255
+
+Energy: 2
+4 Fusion Strike Energy FST 244
+4 Double Colorless Energy GRI 166
+
+Total Cards: 60
