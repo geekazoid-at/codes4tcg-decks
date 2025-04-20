@@ -1,0 +1,36 @@
+Pokémon: 23
+4 Swinub JTG 77
+2 Piloswine JTG 78
+3 Mamoswine ex JTG 79
+2 Torchic JTG 22
+1 Combusken JTG 23
+2 Blaziken ex JTG 24
+2 Pidgey MEW 16
+2 Pidgeotto MEW 17
+2 Pidgeot ex OBF 164
+1 Luxray PAL 71
+1 Fezandipiti ex SFA 38
+1 Klinklang SCR 101
+
+Trainer: 30
+4 Arven OBF 186
+2 Iono PAF 80
+1 Boss's Orders PAL 172
+1 Jacq SVI 175
+1 Professor Turo's Scenario PRE 121
+4 Buddy-Buddy Poffin PRE 101
+4 Ultra Ball PAF 91
+3 Rare Candy PAF 89
+2 Earthen Vessel PRE 106
+2 Nest Ball PAF 84
+1 Counter Catcher PAR 160
+1 Prime Catcher PRE 119
+1 Super Rod PAL 188
+1 Switch SVI 194
+2 Technical Machine: Evolution PAR 178
+
+Energy: 7
+6 Basic {F} Energy SVE 6
+1 Reversal Energy PAL 192
+
+Total Cards: 60

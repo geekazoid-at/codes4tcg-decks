@@ -1,0 +1,37 @@
+Pokémon: 19
+4 Snorunt PAR 188
+3 Froslass ex PAR 3
+1 Froslass TWM 53
+2 Hoothoot SCR 114
+2 Noctowl PRE 78
+2 Wellspring Mask Ogerpon ex PRE 27
+2 Munkidori PRE 44
+1 Budew PRE 4
+1 Fezandipiti ex SFA 38
+1 Fan Rotom PRE 85
+
+Trainer: 33
+3 Arven OBF 186
+3 Crispin PRE 105
+1 Boss's Orders PAL 172
+1 Iono PAL 185
+1 Jacq SVI 175
+3 Buddy-Buddy Poffin PRE 101
+3 Nest Ball PAF 84
+2 Earthen Vessel PRE 106
+2 Night Stretcher SFA 61
+2 Tera Orb SSP 189
+2 Ultra Ball PAF 91
+1 Counter Catcher PAR 160
+1 Switch SVI 194
+2 Technical Machine: Devolution PAR 177
+1 Counter Gain SSP 169
+1 Rescue Board PRE 126
+1 Sparkling Crystal PRE 129
+3 Area Zero Underdepths PRE 94
+
+Energy: 8
+5 Basic {W} Energy SVE 3
+3 Basic {D} Energy SVE 7
+
+Total Cards: 60

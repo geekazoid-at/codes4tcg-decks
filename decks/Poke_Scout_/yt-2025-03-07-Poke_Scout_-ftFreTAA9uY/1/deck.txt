@@ -1,0 +1,35 @@
+Pokémon: 17
+4 Gible PAR 94
+2 Gabite PAR 95
+3 Garchomp ex PAR 38
+2 Regigigas PRE 86
+2 Bloodmoon Ursaluna PRE 54
+1 Budew PRE 4
+1 Cornerstone Mask Ogerpon ex PRE 58
+1 Munkidori PRE 44
+1 Fezandipiti ex SFA 38
+
+Trainer: 31
+2 Arven OBF 186
+2 Iono PAF 80
+2 Professor's Research PRE 122
+1 Boss's Orders PAL 172
+1 Carmine PRE 103
+4 Nest Ball PAF 84
+3 Buddy-Buddy Poffin PRE 101
+3 Earthen Vessel PRE 106
+2 Night Stretcher SFA 61
+2 Rare Candy PAF 89
+2 Tera Orb SSP 189
+2 Ultra Ball PAF 91
+1 Counter Catcher PAR 160
+1 Prime Catcher PRE 119
+1 Switch SVI 194
+1 Technical Machine: Evolution PAR 178
+1 Rescue Board PRE 126
+
+Energy: 12
+10 Basic {F} Energy SVE 6
+2 Basic {D} Energy SVE 7
+
+Total Cards: 60

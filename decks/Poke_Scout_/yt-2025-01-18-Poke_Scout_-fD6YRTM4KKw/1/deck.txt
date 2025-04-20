@@ -1,0 +1,28 @@
+Pokémon: 19
+2 Hisuian Basculin ASR 43
+2 Hisuian Basculegion LOR 45
+2 Regigigas PRE 86
+3 Heatran TWM 123
+1 Radiant Greninja ASR 46
+4 Beldum TEF 113
+4 Metang TEF 114
+1 Manaphy BRS 41
+
+Trainer: 24
+3 Buddy-Buddy Poffin PRE 101
+1 Counter Catcher PAR 160
+1 Hyper Aroma TWM 152
+3 Nest Ball PAF 84
+2 Night Stretcher SFA 61
+1 Super Rod PAL 188
+2 Switch SVI 194
+1 Ultra Ball PAF 91
+1 Boss's Orders PAL 172
+4 Iono PAF 80
+4 Irida ASR 147
+1 Morty's Conviction TEF 155
+
+Energy: 17
+17 Basic {M} Energy SVE 8
+
+Total Cards: 60

@@ -1,0 +1,37 @@
+Pokémon: 14
+3 Gouging Fire ex TEF 38
+2 Torchic JTG 22
+1 Combusken JTG 23
+2 Blaziken ex JTG 24
+1 Gouging Fire SSP 38
+1 Budew PRE 4
+1 Flutter Mane SSP 96
+1 Latias ex SSP 76
+1 Mimikyu PAF 37
+1 Fezandipiti ex SFA 38
+
+Trainer: 36
+3 Arven OBF 186
+3 Professor Sada's Vitality PRE 120
+2 Professor's Research PRE 122
+1 Boss's Orders PAL 172
+1 Carmine PRE 103
+1 Surfer SSP 187
+3 Switch MEW 206
+3 Ultra Ball PAF 91
+2 Buddy-Buddy Poffin PRE 101
+2 Counter Catcher PAR 160
+2 Earthen Vessel PRE 106
+2 Nest Ball PAF 84
+2 Night Stretcher SFA 61
+2 Rare Candy PAF 89
+1 Pal Pad SVI 182
+1 Precious Trolley SSP 185
+3 Ancient Booster Energy Capsule TEF 140
+2 Technical Machine: Devolution PAR 177
+
+Energy: 10
+7 Basic {R} Energy SVE 2
+3 Jet Energy PAL 190
+
+Total Cards: 60

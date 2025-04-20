@@ -1,0 +1,37 @@
+Pokémon: 19
+1 Budew PRE 4
+4 Charcadet SSP 32
+2 Armarouge PAF 15
+2 Armarouge ex PAR 27
+2 Bidoof CRZ 111
+2 Bibarel BRS 121
+1 Radiant Greninja ASR 46
+1 Bloodmoon Ursaluna ex TWM 141
+2 Eevee PRE 74
+2 Flareon ex PRE 14
+
+Trainer: 30
+4 Buddy-Buddy Poffin PRE 101
+1 Canceling Cologne ASR 136
+1 Counter Catcher PAR 160
+2 Earthen Vessel PRE 106
+1 Lost Vacuum CRZ 135
+2 Nest Ball PAF 84
+2 Night Stretcher SFA 61
+4 Ultra Ball SVI 196
+2 Magma Basin BRS 144
+2 Arven OBF 186
+2 Boss's Orders PAL 172
+2 Crispin PRE 105
+1 Iono PAF 80
+1 Irida ASR 147
+1 Mela PAR 167
+1 Hero's Cape TEF 152
+1 Rescue Board PRE 126
+
+Energy: 11
+1 Basic {L} Energy SVE 4
+2 Basic {W} Energy SVE 3
+8 Basic {R} Energy SVE 2
+
+Total Cards: 60

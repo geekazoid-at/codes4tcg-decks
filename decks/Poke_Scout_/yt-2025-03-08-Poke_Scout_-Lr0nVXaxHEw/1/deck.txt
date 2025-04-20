@@ -1,0 +1,36 @@
+Pokémon: 19
+4 Abra TWM 80
+2 Kadabra TWM 81
+3 Alakazam ex MEW 188
+1 Alakazam TWM 82
+2 Natu PAR 71
+2 Xatu PAF 26
+2 Mimikyu PAF 37
+1 Munkidori PRE 44
+1 Cornerstone Mask Ogerpon ex PRE 58
+1 Fezandipiti ex SFA 38
+
+Trainer: 32
+4 Arven OBF 186
+3 Iono PAF 80
+1 Boss's Orders PAL 172
+1 Tulip PAR 181
+3 Buddy-Buddy Poffin PRE 101
+3 Ultra Ball PAF 91
+2 Earthen Vessel PRE 106
+2 Nest Ball PAF 84
+2 Night Stretcher SFA 61
+2 Rare Candy PAF 89
+1 Counter Catcher PAR 160
+1 Switch SVI 194
+2 Technical Machine: Devolution PAR 177
+2 Technical Machine: Evolution PAR 178
+1 Bravery Charm PAL 173
+1 Deluxe Bomb SCR 134
+1 Rescue Board PRE 126
+
+Energy: 9
+7 Basic {P} Energy SVE 5
+2 Luminous Energy PAL 191
+
+Total Cards: 60

@@ -1,0 +1,37 @@
+Pokémon: 18
+3 Charmander PAF 7
+1 Charmeleon PAF 8
+2 Charizard ex PAF 54
+1 Hawlucha SVI 118
+1 Fezandipiti ex SFA 38
+2 Bagon JTG 112
+1 Shelgon JTG 113
+2 Salamence ex JTG 114
+2 Pidgey MEW 16
+1 Pidgeotto MEW 17
+2 Pidgeot ex OBF 164
+
+Trainer: 34
+4 Buddy-Buddy Poffin PRE 101
+2 Counter Catcher PAR 160
+1 Nest Ball SVI 181
+4 Rare Candy PAF 89
+2 Super Rod PAL 188
+4 Ultra Ball PAF 91
+1 Grand Tree SCR 136
+4 Arven OBF 186
+2 Boss's Orders PAL 172
+2 Crispin PRE 105
+2 Iono PAL 185
+1 Jacq SVI 175
+1 Professor Turo's Scenario PRE 121
+1 Ruffian JTG 157
+1 Counter Gain SSP 169
+1 Technical Machine: Devolution PAR 177
+1 Technical Machine: Evolution PAR 178
+
+Energy: 8
+5 Basic {R} Energy SVE 2
+3 Basic {W} Energy SVE 3
+
+Total Cards: 60

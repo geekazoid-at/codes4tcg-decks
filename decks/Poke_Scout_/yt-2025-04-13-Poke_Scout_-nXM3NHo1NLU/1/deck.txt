@@ -1,0 +1,36 @@
+Pokémon: 23
+3 Litten TEF 32
+2 Torracat TEF 33
+3 Incineroar ex TEF 34
+2 Magmar PAF 9
+2 Magmortar JTG 21
+2 Torchic JTG 22
+1 Combusken JTG 23
+2 Blaziken ex JTG 24
+2 N's Zorua JTG 97
+2 N's Zoroark ex JTG 98
+1 Victini ex OBF 33
+1 Fezandipiti ex SFA 38
+
+Trainer: 29
+4 Arven SVI 166
+1 Boss's Orders PAL 172
+1 Iono PAL 185
+1 Professor Turo's Scenario PRE 121
+3 Rare Candy PAF 89
+3 Ultra Ball PAF 91
+2 Buddy-Buddy Poffin PRE 101
+2 Earthen Vessel PRE 106
+2 Nest Ball PAF 84
+2 Night Stretcher SFA 61
+2 Pokégear 3.0 SVI 186
+1 Accompanying Flute TWM 142
+1 Counter Catcher PAR 160
+1 Precious Trolley SSP 185
+1 Switch SVI 194
+2 Technical Machine: Evolution PAR 178
+
+Energy: 8
+8 Basic {R} Energy SVE 2
+
+Total Cards: 60

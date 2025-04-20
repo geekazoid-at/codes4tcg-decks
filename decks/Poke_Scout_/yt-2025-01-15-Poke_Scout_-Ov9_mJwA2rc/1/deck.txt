@@ -1,0 +1,39 @@
+Pokémon: 17
+3 Bounsweet OBF 16
+1 Steenee PAR 9
+3 Tsareena ex PAR 220
+2 Pidgey OBF 162
+2 Pidgeot ex OBF 164
+1 Radiant Hisuian Sneasler LOR 123
+2 Brute Bonnet PAR 123
+1 Rotom V CRZ 45
+1 Fezandipiti ex SFA 38
+1 Bloodmoon Ursaluna ex TWM 141
+
+Trainer: 38
+2 Buddy-Buddy Poffin TEF 144
+1 Counter Catcher PAR 160
+2 Earthen Vessel PAR 163
+1 Hisuian Heavy Ball ASR 146
+3 Nest Ball SVI 181
+2 Night Stretcher SFA 61
+1 Pal Pad SVI 182
+1 Precious Trolley SSP 185
+4 Rare Candy SVI 191
+1 Super Rod PAL 188
+2 Switch SVI 194
+3 Ultra Ball SVI 196
+1 Lively Stadium SSP 180
+1 Perilous Jungle TEF 156
+4 Arven OBF 186
+2 Boss's Orders PAL 172
+2 Irida ASR 147
+1 Professor Turo's Scenario PAR 171
+2 Ancient Booster Energy Capsule TEF 140
+1 Forest Seal Stone SIT 156
+1 Panic Mask LOR 165
+
+Energy: 5
+5 Basic {G} Energy SVE 1
+
+Total Cards: 60

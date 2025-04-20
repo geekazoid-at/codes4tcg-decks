@@ -1,0 +1,28 @@
+Pokémon: 18
+4 Roaring Moon PRE 65
+3 Flutter Mane PRE 43
+3 Koraidon SSP 116
+3 Brute Bonnet PAR 123
+2 Pecharunt ex SFA 39
+2 Squawkabilly ex PAF 75
+1 Fezandipiti ex SFA 38
+
+Trainer: 34
+4 Explorer's Guidance PRE 107
+4 Professor Sada's Vitality PRE 120
+1 Boss's Orders PAL 172
+4 Earthen Vessel PRE 106
+4 Nest Ball PAF 84
+4 Ultra Ball PAF 91
+2 Hand Trimmer TEF 150
+2 Night Stretcher SFA 61
+1 Brilliant Blender SSP 164
+1 Counter Catcher PAR 160
+1 Pal Pad SVI 182
+4 Ancient Booster Energy Capsule TEF 140
+2 Binding Mochi PRE 95
+
+Energy: 8
+8 Basic {D} Energy SVE 7
+
+Total Cards: 60

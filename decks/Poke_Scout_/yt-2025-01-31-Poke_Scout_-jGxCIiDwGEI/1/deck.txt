@@ -1,0 +1,38 @@
+Pokémon: 16
+4 Gimmighoul SSP 97
+4 Gholdengo ex PAR 139
+1 Munkidori PRE 44
+1 Fezandipiti ex SFA 38
+2 Dreepy PRE 71
+2 Drakloak PRE 72
+2 Dragapult ex PRE 73
+
+Trainer: 32
+4 Buddy-Buddy Poffin PRE 101
+1 Counter Catcher PAR 160
+1 Earthen Vessel PRE 106
+1 Energy Retrieval SVI 171
+4 Superior Energy Retrieval PAL 189
+1 Energy Search Pro SSP 176
+3 Nest Ball PAF 84
+2 Night Stretcher SFA 61
+1 Switch SVI 194
+3 Ultra Ball PAF 91
+4 Arven OBF 186
+1 Boss's Orders PAL 172
+2 Ciphermaniac's Codebreaking PRE 104
+2 Crispin PRE 105
+1 Iono PAF 80
+1 Technical Machine: Evolution PAR 178
+
+Energy: 12
+1 Basic {D} Energy SVE 7
+1 Basic {F} Energy SVE 6
+1 Basic {G} Energy SVE 1
+1 Basic {L} Energy SVE 4
+3 Basic {M} Energy SVE 8
+2 Basic {P} Energy SVE 5
+2 Basic {R} Energy SVE 2
+1 Basic {W} Energy SVE 3
+
+Total Cards: 60

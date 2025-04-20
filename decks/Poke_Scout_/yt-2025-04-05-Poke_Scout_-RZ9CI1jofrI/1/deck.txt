@@ -1,0 +1,37 @@
+Pokémon: 17
+4 Growlithe SVI 30
+3 Arcanine ex SVI 32
+2 Torchic JTG 22
+2 Combusken JTG 23
+2 Blaziken ex JTG 24
+1 Budew PRE 4
+1 Chi-Yu PAR 29
+1 Mew ex PAF 216
+1 Fezandipiti ex SFA 38
+
+Trainer: 34
+3 Arven OBF 186
+2 Carmine PRE 103
+2 Mela PAR 167
+2 Professor's Research PRE 122
+1 Boss's Orders PAL 172
+1 Iono PAL 185
+1 Professor Turo's Scenario PRE 121
+3 Buddy-Buddy Poffin PRE 101
+3 Ultra Ball PAF 91
+2 Earthen Vessel PRE 106
+2 Nest Ball PAF 84
+2 Night Stretcher SFA 61
+2 Switch SVI 194
+1 Counter Catcher PAR 160
+1 Prime Catcher PRE 119
+1 Rare Candy PAF 89
+2 Technical Machine: Evolution PAR 178
+1 Powerglass SFA 63
+1 Technical Machine: Devolution PAR 177
+1 Pokémon League Headquarters OBF 192
+
+Energy: 9
+9 Basic {R} Energy SVE 2
+
+Total Cards: 60

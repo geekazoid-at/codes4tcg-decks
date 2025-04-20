@@ -1,0 +1,37 @@
+Pokémon: 18
+1 Fezandipiti ex SFA 38
+3 Bagon JTG 112
+2 Shelgon JTG 113
+3 Salamence ex JTG 114
+2 Eevee SSP 143
+2 Flareon ex PRE 14
+1 Fan Rotom PRE 85
+2 Hoothoot SCR 114
+2 Noctowl PRE 78
+
+Trainer: 32
+4 Buddy-Buddy Poffin PRE 101
+1 Counter Catcher PAR 160
+2 Earthen Vessel PRE 106
+1 Nest Ball PAF 84
+2 Night Stretcher SFA 61
+2 Rare Candy PAF 89
+1 Super Rod PAL 188
+1 Switch SVI 194
+2 Tera Orb SSP 189
+3 Ultra Ball PAF 91
+4 Arven SVI 166
+1 Boss's Orders PAL 172
+2 Crispin PRE 105
+2 Iono PAL 185
+1 Professor Turo's Scenario PRE 121
+1 Maximum Belt PRE 117
+1 Rescue Board PRE 126
+1 Technical Machine: Evolution PAR 178
+
+Energy: 10
+2 Basic {L} Energy SVE 4
+4 Basic {R} Energy SVE 2
+4 Basic {W} Energy SVE 3
+
+Total Cards: 60

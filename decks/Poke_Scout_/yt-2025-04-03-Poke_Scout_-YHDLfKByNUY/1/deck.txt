@@ -1,0 +1,36 @@
+Pokémon: 15
+3 Lillie's Clefairy ex JTG 56
+3 Cornerstone Mask Ogerpon ex PRE 58
+2 Natu PAF 25
+2 Xatu PAF 26
+1 Budew PRE 4
+1 Mew ex PAF 216
+1 Mimikyu PAF 37
+1 Fezandipiti ex SFA 38
+1 Bloodmoon Ursaluna ex TWM 141
+
+Trainer: 34
+3 Arven OBF 186
+3 Crispin PRE 105
+3 Iono PAL 185
+1 Boss's Orders PAL 172
+1 Colress's Tenacity SFA 57
+3 Nest Ball PAF 84
+3 Ultra Ball PAF 91
+2 Night Stretcher SFA 61
+2 Pokégear 3.0 SVI 186
+1 Buddy-Buddy Poffin PRE 101
+1 Counter Catcher PAR 160
+1 Earthen Vessel PRE 106
+1 Energy Switch SVI 173
+1 Precious Trolley SSP 185
+1 Tera Orb SSP 189
+3 Lillie's Pearl JTG 151
+1 Technical Machine: Devolution PAR 177
+3 Area Zero Underdepths PRE 94
+
+Energy: 11
+7 Basic {P} Energy SVE 5
+4 Basic {F} Energy SVE 6
+
+Total Cards: 60

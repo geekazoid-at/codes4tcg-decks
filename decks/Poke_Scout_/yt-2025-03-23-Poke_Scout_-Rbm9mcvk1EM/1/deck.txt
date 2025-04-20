@@ -1,0 +1,36 @@
+Pokémon: 15
+3 Magnemite SSP 58
+3 Magneton SSP 59
+3 Iron Hands ex PRE 31
+3 Pikachu ex SSP 238
+1 Fezandipiti ex SFA 38
+1 Teal Mask Ogerpon TWM 24
+1 Mew ex PAF 216
+
+Trainer: 33
+3 Arven OBF 186
+3 Crispin PRE 105
+1 Boss's Orders PAL 172
+1 Carmine PRE 103
+1 Professor Turo's Scenario PRE 121
+4 Nest Ball PAF 84
+3 Ultra Ball PAF 91
+2 Buddy-Buddy Poffin PRE 101
+2 Counter Catcher PAR 160
+2 Night Stretcher SFA 61
+2 Switch SVI 194
+2 Tera Orb SSP 189
+1 Brilliant Blender SSP 164
+1 Earthen Vessel PRE 106
+1 Electric Generator PAF 79
+1 Pokégear 3.0 SVI 186
+1 Super Rod PAL 188
+1 Heavy Baton TEF 151
+1 Rescue Board PRE 126
+
+Energy: 12
+6 Basic {L} Energy SVE 4
+3 Basic {G} Energy SVE 1
+3 Basic {M} Energy SVE 8
+
+Total Cards: 60

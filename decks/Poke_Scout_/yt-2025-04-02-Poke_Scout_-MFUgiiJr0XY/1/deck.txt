@@ -1,0 +1,36 @@
+Pokémon: 19
+1 Budew PRE 4
+2 Torchic JTG 22
+1 Combusken JTG 23
+2 Blaziken ex JTG 24
+1 Fezandipiti ex SFA 38
+3 Bagon JTG 112
+1 Shelgon JTG 113
+2 Salamence ex JTG 114
+2 Pidgey MEW 16
+2 Pidgeotto MEW 17
+2 Pidgeot ex OBF 164
+
+Trainer: 31
+4 Buddy-Buddy Poffin PRE 101
+1 Counter Catcher PAR 160
+2 Earthen Vessel PRE 106
+1 Nest Ball PAF 84
+2 Night Stretcher SFA 61
+1 Pokégear 3.0 SVI 186
+3 Rare Candy PAF 89
+3 Ultra Ball PAF 91
+4 Arven OBF 186
+1 Boss's Orders PAL 172
+3 Crispin PRE 105
+2 Iono PAL 185
+1 Professor Turo's Scenario PRE 121
+2 Powerglass SFA 63
+1 Technical Machine: Evolution PAR 178
+
+Energy: 10
+1 Neo Upper Energy TEF 162
+5 Basic {R} Energy SVE 2
+4 Basic {W} Energy SVE 3
+
+Total Cards: 60

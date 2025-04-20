@@ -1,0 +1,39 @@
+Pokémon: 17
+2 Deino SSP 117
+1 Zweilous SSP 118
+2 Hydreigon ex SSP 119
+1 Fezandipiti ex SFA 38
+3 Gastly TEF 177
+1 Haunter TEF 103
+2 Gengar ex TEF 104
+2 Pidgey MEW 16
+1 Pidgeotto MEW 17
+2 Pidgeot ex OBF 164
+
+Trainer: 34
+3 Buddy-Buddy Poffin PRE 101
+1 Counter Catcher PAR 160
+2 Earthen Vessel PRE 106
+2 Nest Ball PAF 84
+2 Night Stretcher SFA 61
+1 Pokégear 3.0 SVI 186
+3 Rare Candy PAF 89
+1 Tera Orb SSP 189
+2 Ultra Ball PAF 91
+1 Town Store OBF 196
+4 Arven OBF 186
+1 Boss's Orders PAL 172
+1 Colress's Tenacity SFA 57
+2 Crispin PRE 105
+1 Iono PAF 80
+1 Professor Turo's Scenario PRE 121
+2 Counter Gain SSP 169
+1 Handheld Fan TWM 150
+1 Sparkling Crystal PRE 129
+2 Technical Machine: Evolution PAR 178
+
+Energy: 9
+7 Basic {D} Energy SVE 7
+2 Basic {P} Energy SVE 5
+
+Total Cards: 60

@@ -1,0 +1,40 @@
+Pokémon: 18
+1 Budew PRE 4
+4 Froakie OBF 56
+2 Frogadier TWM 57
+2 Greninja ex TWM 106
+1 Greninja ex SCR 41
+2 Snorunt PAR 37
+2 Froslass TWM 53
+1 Walking Wake TWM 63
+2 Munkidori PRE 44
+1 Fezandipiti ex SFA 38
+
+Trainer: 34
+4 Buddy-Buddy Poffin PRE 101
+1 Counter Catcher PAR 160
+2 Earthen Vessel PRE 106
+1 Energy Retrieval SVI 171
+2 Nest Ball PAF 84
+2 Night Stretcher SFA 61
+1 Pokégear 3.0 SVI 186
+2 Rare Candy PAF 89
+1 Switch SVI 194
+2 Tera Orb SSP 189
+1 Ultra Ball PAF 91
+1 Artazon PAF 76
+4 Arven OBF 186
+1 Boss's Orders PAL 172
+2 Crispin PRE 105
+1 Iono PAF 80
+2 Professor's Research PRE 122
+1 Counter Gain SSP 169
+1 Sparkling Crystal PRE 129
+1 Technical Machine: Devolution PAR 177
+1 Technical Machine: Evolution PAR 178
+
+Energy: 8
+3 Basic {D} Energy SVE 7
+5 Basic {W} Energy SVE 3
+
+Total Cards: 60

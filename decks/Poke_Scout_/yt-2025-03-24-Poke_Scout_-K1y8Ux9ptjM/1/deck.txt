@@ -1,0 +1,30 @@
+Pokémon: 17
+4 Pawmi SVI 74
+2 Pawmo PAL 75
+3 Pawmot ex OBF 73
+2 Magnemite SSP 58
+2 Magneton SSP 59
+2 Iron Hands ex PRE 31
+1 Plusle PAR 60
+1 Fezandipiti ex SFA 38
+
+Trainer: 31
+3 Arven OBF 186
+3 Colress's Tenacity SFA 57
+1 Boss's Orders PAL 172
+1 Lisia's Appeal SSP 179
+4 Buddy-Buddy Poffin PRE 101
+4 Electric Generator PAF 79
+3 Nest Ball PAF 84
+3 Ultra Ball PAF 91
+2 Counter Catcher PAR 160
+2 Earthen Vessel PRE 106
+2 Switch SVI 194
+1 Rare Candy PAF 89
+1 Technical Machine: Evolution PAR 178
+1 Grand Tree SCR 136
+
+Energy: 12
+12 Basic {L} Energy SVE 4
+
+Total Cards: 60

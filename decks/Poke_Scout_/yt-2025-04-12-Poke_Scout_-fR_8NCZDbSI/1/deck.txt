@@ -1,0 +1,36 @@
+Pokémon: 20
+3 Charmander PAF 7
+2 Charmeleon PAF 8
+2 Charizard ex MEW 6
+1 Charizard ex PAF 54
+2 N's Zorua JTG 97
+2 N's Zoroark ex JTG 98
+2 Torchic JTG 22
+2 Combusken JTG 23
+2 Blaziken ex JTG 24
+1 Fezandipiti ex SFA 38
+1 Chi-Yu PAR 29
+
+Trainer: 31
+4 Arven SVI 166
+2 Boss's Orders PAL 172
+1 Carmine TWM 145
+1 Iono PAL 185
+1 Jacq SVI 175
+3 Pokégear 3.0 SVI 186
+3 Rare Candy PAF 89
+3 Ultra Ball PAF 91
+2 Buddy-Buddy Poffin PRE 101
+2 Earthen Vessel PRE 106
+1 Counter Catcher PAR 160
+1 Nest Ball PAF 84
+1 Night Stretcher SFA 61
+1 Precious Trolley SSP 185
+1 Switch SVI 194
+2 Powerglass SFA 63
+2 Technical Machine: Evolution PAR 178
+
+Energy: 9
+9 Basic {R} Energy SVE 2
+
+Total Cards: 60

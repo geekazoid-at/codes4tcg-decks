@@ -1,0 +1,34 @@
+Pokémon: 17
+1 Radiant Greninja ASR 46
+4 Gimmighoul SSP 97
+4 Gholdengo ex PAR 139
+1 Munkidori PRE 44
+3 Ralts ASR 60
+3 Kirlia SIT 68
+1 Fezandipiti ex SFA 38
+
+Trainer: 30
+1 Brilliant Blender SSP 164
+3 Buddy-Buddy Poffin PRE 101
+1 Counter Catcher PAR 160
+2 Earthen Vessel PRE 106
+2 Energy Retrieval SVI 171
+1 Hisuian Heavy Ball ASR 146
+1 Letter of Encouragement OBF 189
+2 Nest Ball PAF 84
+4 Superior Energy Retrieval PAL 189
+1 Switch SVI 194
+3 Ultra Ball PAF 91
+2 Arven OBF 186
+1 Boss's Orders PAL 172
+3 Ciphermaniac's Codebreaking PRE 104
+1 Professor Turo's Scenario PRE 121
+1 Tulip PAR 181
+1 Technical Machine: Evolution PAR 178
+
+Energy: 13
+2 Basic {D} Energy SVE 7
+6 Basic {M} Energy SVE 8
+5 Basic {P} Energy SVE 5
+
+Total Cards: 60

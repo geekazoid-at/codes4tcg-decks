@@ -1,0 +1,36 @@
+Pokémon: 17
+4 Bloodmoon Ursaluna PRE 54
+3 Munkidori PRE 44
+2 Snorunt TWM 51
+2 Froslass TWM 53
+2 Doduo MEW 84
+2 Dodrio MEW 85
+1 Budew PRE 4
+1 Mimikyu PAF 37
+
+Trainer: 33
+3 Arven OBF 186
+2 Colress's Tenacity SFA 57
+1 Boss's Orders PAL 172
+1 Iono PAF 80
+1 Jacq SVI 175
+4 Earthen Vessel PRE 106
+4 Ultra Ball PAF 91
+3 Buddy-Buddy Poffin PRE 101
+3 Nest Ball PAF 84
+2 Night Stretcher SFA 61
+1 Counter Catcher PAR 160
+1 Energy Retrieval SVI 171
+1 Pokégear 3.0 SVI 186
+1 Super Rod PAL 188
+1 Switch SVI 194
+1 Counter Gain SSP 169
+1 Rescue Board PRE 126
+1 Gravity Mountain SSP 177
+1 Neutralization Zone SFA 60
+
+Energy: 10
+7 Basic {F} Energy SVE 6
+3 Basic {D} Energy SVE 7
+
+Total Cards: 60

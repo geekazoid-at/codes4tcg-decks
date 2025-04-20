@@ -1,0 +1,35 @@
+Pokémon: 15
+4 Brute Bonnet TWM 118
+2 Snorunt PAR 37
+2 Froslass TWM 53
+2 Munkidori PRE 44
+1 Koraidon SSP 116
+1 Fezandipiti ex SFA 38
+1 Radiant Greninja ASR 46
+1 Budew PRE 4
+1 Mimikyu PAF 37
+
+Trainer: 36
+4 Professor Sada's Vitality PRE 120
+2 Arven OBF 186
+2 Colress's Tenacity SFA 57
+1 Boss's Orders PAL 172
+1 Clavell PAL 177
+4 Dark Patch ASR 139
+4 Nest Ball PAF 84
+3 Earthen Vessel PRE 106
+3 Ultra Ball PAF 91
+2 Buddy-Buddy Poffin PRE 101
+1 Counter Catcher PAR 160
+1 Night Stretcher SFA 61
+1 Pal Pad SVI 182
+1 Switch SVI 194
+3 Ancient Booster Energy Capsule TEF 140
+1 Calamitous Snowy Mountain PAL 174
+1 Neutralization Zone SFA 60
+1 PokéStop PGO 68
+
+Energy: 9
+9 Basic {D} Energy SVE 7
+
+Total Cards: 60

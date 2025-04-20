@@ -1,0 +1,35 @@
+Pokémon: 14
+4 Croagunk SVI 130
+3 Toxicroak ex SVI 232
+2 Munkidori PRE 44
+2 Brute Bonnet PAR 123
+1 Fezandipiti ex SFA 38
+1 Pecharunt PR-SV 129
+1 Pecharunt ex PRE 163
+
+Trainer: 38
+4 Arven OBF 186
+3 Janine's Secret Art PRE 173
+2 Iono PAL 185
+1 Boss's Orders PAL 172
+1 Drayton SSP 174
+1 Professor Turo's Scenario PRE 121
+3 Earthen Vessel PRE 106
+3 Nest Ball PAF 84
+3 Ultra Ball PAF 91
+2 Buddy-Buddy Poffin PRE 101
+2 Night Stretcher SFA 61
+1 Counter Catcher PAR 160
+1 Energy Switch SVI 173
+1 Precious Trolley SSP 185
+1 Switch SVI 194
+2 Ancient Booster Energy Capsule TEF 140
+2 Binding Mochi PRE 95
+1 Rescue Board TWM 225
+1 Technical Machine: Devolution PAR 177
+3 Perilous Jungle TEF 156
+
+Energy: 8
+8 Basic {D} Energy SVE 7
+
+Total Cards: 60

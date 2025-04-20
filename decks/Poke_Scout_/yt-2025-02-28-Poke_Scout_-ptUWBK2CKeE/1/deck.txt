@@ -1,0 +1,38 @@
+Pokémon: 17
+4 Meditite TEF 82
+3 Medicham ex SCR 80
+2 Munkidori PRE 44
+2 Brute Bonnet PAR 123
+1 Snorunt TWM 51
+1 Froslass TWM 53
+1 Budew PRE 4
+1 Fezandipiti ex SFA 38
+1 Radiant Hisuian Sneasler LOR 123
+1 Bloodmoon Ursaluna ex TWM 141
+
+Trainer: 34
+4 Arven OBF 186
+2 Colress's Tenacity SFA 57
+2 Drayton SSP 174
+2 Jacq SVI 175
+1 Boss's Orders PAL 172
+1 Crispin PRE 105
+1 Iono PAF 80
+3 Nest Ball PAF 84
+3 Ultra Ball PAF 91
+2 Buddy-Buddy Poffin PRE 101
+2 Night Stretcher SFA 61
+1 Counter Catcher PAR 160
+1 Pokégear 3.0 SVI 186
+1 Precious Trolley SSP 185
+1 Switch SVI 194
+2 Ancient Booster Energy Capsule TEF 140
+2 Vengeful Punch OBF 197
+1 Technical Machine: Devolution PAR 177
+2 Perilous Jungle TEF 156
+
+Energy: 9
+5 Basic {D} Energy SVE 7
+4 Double Turbo Energy BRS 151
+
+Total Cards: 60
