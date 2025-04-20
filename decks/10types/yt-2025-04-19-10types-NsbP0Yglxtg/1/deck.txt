@@ -1,0 +1,32 @@
+Pokémon: 5
+3 Tyranitar JTG 95 PH
+4 Larvitar PRE 47
+2 Munkidori TWM 95
+2 Budew PRE 4
+3 Pupitar PRE 48
+
+Trainer: 18
+1 Counter Catcher PAR 160
+2 Luxurious Cape PAR 166
+2 Pokémon League Headquarters OBF 192
+3 Pokégear 3.0 SVI 186
+2 Night Stretcher SFA 61
+1 Rescue Board TEF 159
+1 Nest Ball SVI 181
+4 Arven OBF 186
+2 Boss's Orders PAL 172
+4 Iono PAL 185
+1 Lucky Helmet TWM 158
+2 Crushing Hammer SVI 168
+3 Colress's Tenacity SFA 57
+1 Earthen Vessel PRE 106
+1 Grand Tree SCR 136
+4 Buddy-Buddy Poffin TEF 144
+2 Ultra Ball SVI 196
+2 Rare Candy SVI 191
+
+Energy: 2
+3 Reversal Energy PAL 192
+5 Basic {D} Energy SVE 15
+
+Total Cards: 60
