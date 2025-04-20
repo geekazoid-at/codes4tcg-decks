@@ -19,6 +19,7 @@ const channelIdGinJ = "UCG73skhpwL7MF0Fb6RufGTQ"; // GinJTCG
 const channelIdPat = "UCLryZvbuOJNmRCp_OI-VoTg"; // CoolTrainerPat
 const channelId10t = "UCGt88fXOvxhyXZrj5MDKQwQ"; // 10 types gaming
 const channelIdSTCG = "UCSmwbnSsbzy53z6AnSkGYkg"; // Strategic TCG
+const channelIdPokeScout = "UC8LFaLCY2hvA0D7jZFwIk0Q"; // PokeScout
 
 const allChannelIds: string[] = [
   channelIdTyp,
@@ -36,6 +37,7 @@ const allChannelIds: string[] = [
   channelIdPat,
   channelId10t,
   channelIdSTCG,
+  channelIdPokeScout,
 ];
 
 const main = async (
