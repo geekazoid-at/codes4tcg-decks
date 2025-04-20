@@ -1,0 +1,34 @@
+Pokémon: 12
+4 Hoppip PAL 1
+3 Skiploom PAL 2
+3 Jumpluff PAL 3
+1 Bloodmoon Ursaluna ex TWM 141
+3 Lilligant JTG 7
+3 Petilil JTG 6
+2 Dudunsparce TEF 129
+3 Dunsparce PAL 156
+1 Dudunsparce ex JTG 121
+1 Budew PRE 4
+1 Rellor TEF 23
+1 Rabsca TEF 24
+
+Trainer: 13
+4 Bug Catching Set TWM 143
+1 Iris's Fighting Spirit JTG 149
+1 Morty's Conviction TEF 155
+2 Rescue Board TEF 159
+1 Lana's Aid TWM 155
+4 Iono PAL 185
+4 Arven SVI 166
+1 Technical Machine: Devolution PAR 177
+2 Technical Machine: Evolution PAR 178
+2 Super Rod PAL 188
+1 Defiance Band SVI 169
+4 Buddy-Buddy Poffin TEF 144
+1 Switch SVI 194
+
+Energy: 2
+1 Legacy Energy TWM 167
+5 Basic {G} Energy SVE 9
+
+Total Cards: 60

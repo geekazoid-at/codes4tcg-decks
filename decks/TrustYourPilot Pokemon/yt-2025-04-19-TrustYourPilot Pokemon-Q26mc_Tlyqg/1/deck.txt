@@ -1,0 +1,35 @@
+Pokémon: 9
+1 Rabsca TEF 24
+3 Thwackey TWM 15
+4 Dipplin TWM 18
+2 Lilligant JTG 7
+2 Petilil JTG 6
+4 Applin SCR 12
+1 Rellor TEF 23
+2 Budew PRE 4
+3 Grookey TWM 14
+
+Trainer: 18
+2 Ultra Ball SVI 196
+1 Vitality Band SVI 197
+1 Switch SVI 194
+4 Arven OBF 186
+1 Defiance Band SVI 169
+4 Buddy-Buddy Poffin TEF 144
+1 Counter Catcher PAR 160
+2 Iono PAL 185
+1 Lana's Aid TWM 155
+1 Kieran TWM 154
+2 Night Stretcher SFA 61
+1 Pal Pad SVI 182
+1 Rescue Board TEF 159
+1 Survival Brace TWM 164
+2 Professor's Research SVI 189
+3 Bug Catching Set TWM 143
+1 Boss's Orders PAL 172
+4 Festival Grounds TWM 149
+
+Energy: 1
+5 Basic {G} Energy SVE 9
+
+Total Cards: 60
