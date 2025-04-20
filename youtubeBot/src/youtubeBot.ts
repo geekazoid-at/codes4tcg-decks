@@ -100,10 +100,17 @@ enum RunType {
 const importChannelId = channelIdPp;
 const RUNTYPE: RunType = RunType.UPDATE;
 
-if (RUNTYPE === (RunType.IMPORT as RunType)) {
-  main(importChannelId, 50, 5);
-} else if (RUNTYPE === (RunType.UPDATE as RunType)) {
-  for (const channelId of allChannelIds) {
-    main(channelId, 5, 1);
+async function runBot() {
+  if (RUNTYPE === (RunType.IMPORT as RunType)) {
+    await main(importChannelId, 50, 5);
+  } else if (RUNTYPE === (RunType.UPDATE as RunType)) {
+    for (const channelId of allChannelIds) {
+      await main(channelId, 5, 1);
+    }
   }
+  console.log("Run finished!");
 }
+
+runBot().catch((error) => {
+  console.error("Error running bot:", error);
+});
