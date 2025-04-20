@@ -80,13 +80,22 @@ export function processDescription(
     })
     .join("\n");
 
+  if (!videoDescription.includes("Total Cards:") && inEnergy) {
+    videoDescription = `${videoDescription}\n\nTotal Cards: 60`;
+  }
+
+  if (!videoDescription.includes("Total Cards:")) {
+    console.log("Does not contain Total Cards");
+    return null;
+  }
+
   if (
-    !videoDescription.includes("Total Cards:") ||
     !(
       videoDescription.includes("Pokémon:") ||
       videoDescription.includes("Pokemon:")
     )
   ) {
+    console.log("Does not contain Pokémon");
     return null;
   }
 
