@@ -107,7 +107,7 @@ async function runBot() {
     await main(importChannelId, 50, 5);
   } else if (RUNTYPE === (RunType.UPDATE as RunType)) {
     for (const channelId of allChannelIds) {
-      await main(channelId, 5, 1);
+      await main(channelId, 3, 1);
     }
   }
   console.log("Run finished!");
