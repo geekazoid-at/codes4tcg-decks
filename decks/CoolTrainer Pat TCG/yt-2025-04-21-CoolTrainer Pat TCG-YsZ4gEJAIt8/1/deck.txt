@@ -1,0 +1,34 @@
+Pokémon: 7
+4 Maushold ex PAR 155
+3 Tandemaus PAL 167
+1 Tandemaus PAL 167 PH
+2 Terapagos ex SCR 170
+2 Noctowl SCR 115
+2 Hoothoot SCR 114
+2 Fan Rotom PRE 85
+
+Trainer: 16
+1 Jacq SVI 175 PH
+3 Nest Ball SVI 181
+3 Ultra Ball BRS 186
+2 Pokégear 3.0 SVI 186
+2 Glass Trumpet SCR 135
+2 Super Rod PAL 276
+4 Arven PAF 235
+2 Practice Studio PAL 186
+2 Crispin SCR 133
+2 Boss's Orders RCL 189
+1 Deluxe Bomb SCR 134
+3 Vengeful Punch OBF 197 PH
+3 Buddy-Buddy Poffin TWM 223
+2 Rescue Board TEF 159
+1 Night Stretcher SSP 251
+1 Pal Pad SVI 182 PH
+
+Energy: 4
+2 Basic {W} Energy SVE 11
+2 Basic {G} Energy SVE 9
+2 Basic {L} Energy SVE 12
+4 Spiky Energy JTG 159
+
+Total Cards: 60
