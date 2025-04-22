@@ -1,0 +1,38 @@
+Pokémon: 10
+1 Kadabra TWM 81 PH
+3 Abra TWM 80 PH
+2 Tyranitar JTG 95
+1 Mimikyu PAL 97
+3 Alakazam ex MEW 65
+1 Fezandipiti ex SFA 38
+1 Lillie's Clefairy ex JTG 56
+1 Pupitar PRE 48
+2 Larvitar JTG 80
+1 Genesect SFA 40
+
+Trainer: 19
+1 Counter Catcher PAR 160
+1 Luxurious Cape PAR 166
+1 Precious Trolley SSP 185
+2 Pokégear 3.0 SVI 186
+2 Night Stretcher SFA 61
+1 Rescue Board TEF 159
+2 Nest Ball SVI 181
+1 Switch MEW 206
+1 Bravery Charm PAL 173
+2 Boss's Orders PAL 172
+3 Iono PAL 185
+4 Arven SVI 166
+2 Technical Machine: Evolution PAR 178
+1 Professor's Research JTG 155
+2 Rare Candy PAF 89
+1 Buddy-Buddy Poffin PRE 101
+1 Earthen Vessel PRE 106
+2 Crispin PRE 105
+4 Ultra Ball SVI 196
+
+Energy: 2
+5 Basic {D} Energy SVE 15
+5 Basic {P} Energy SVE 13
+
+Total Cards: 60
