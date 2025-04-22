@@ -64,6 +64,11 @@ const main = async (
 
     const { meta: videoMeta, decks } = videoData;
 
+    if (fs.existsSync(`../decks/${channelName}/${videoMeta.id}`)) {
+      console.log("Skip, already exists", videoMeta.id);
+      continue;
+    }
+
     fs.mkdirSync(`../decks/${channelName}/${videoMeta.id}`, {
       recursive: true,
     });
