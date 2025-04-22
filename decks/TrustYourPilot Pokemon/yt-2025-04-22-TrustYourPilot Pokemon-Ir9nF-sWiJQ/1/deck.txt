@@ -1,0 +1,35 @@
+Pokémon: 10
+2 Salamence ex JTG 114
+3 Bagon JTG 112
+1 Shelgon JTG 113
+3 Dunsparce PAL 156
+1 Dudunsparce ex JTG 121
+1 Fezandipiti ex SFA 38
+2 Dudunsparce TEF 129
+1 Charmeleon PAF 8
+3 Charmander MEW 4
+2 Charizard ex OBF 125
+
+Trainer: 16
+4 Ultra Ball SVI 196
+1 Counter Gain SSP 169
+4 Rare Candy SVI 191
+4 Arven OBF 186
+1 Earthen Vessel PAR 163
+4 Buddy-Buddy Poffin TEF 144
+2 Counter Catcher PAR 160
+2 Mela PAR 167
+2 Iono PAL 185
+1 Technical Machine: Devolution PAR 177
+1 Night Stretcher SFA 61
+2 Super Rod PAL 188
+2 Technical Machine: Evolution PAR 178
+1 Unfair Stamp TWM 165
+1 Artazon PAL 171
+2 Boss's Orders PAL 172
+
+Energy: 2
+1 Basic {W} Energy SVE 3
+6 Basic {R} Energy SVE 2
+
+Total Cards: 60
