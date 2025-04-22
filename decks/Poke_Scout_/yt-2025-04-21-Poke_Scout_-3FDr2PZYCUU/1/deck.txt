@@ -1,12 +1,11 @@
 Pokémon: 20
-3 Torchic SV 10 18
-3 Combusken SV 10 19
+3 Torchic JTG 22
+3 Combusken JTG 23
 3 Blaziken ex JTG 24
 3 Munkidori TWM 95
 2 Snorunt TWM 51
 2 Froslass TWM 53
 2 Budew PRE 4
-1 Shaymin SV 9a 6
 1 Maractus JTG 8
 
 Trainer: 31
@@ -25,6 +24,7 @@ Trainer: 31
 2 Technical Machine: Evolution PAR 178
 1 Technical Machine: Devolution PAR 177
 2 Artazon PAL 171
+1 Iono PAL 185
 
 Energy: 9
 5 Basic {D} Energy SVE 7
