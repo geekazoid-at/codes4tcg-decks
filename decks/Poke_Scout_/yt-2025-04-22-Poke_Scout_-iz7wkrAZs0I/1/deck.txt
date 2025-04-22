@@ -1,0 +1,39 @@
+Pokémon: 18
+2 Torchic JTG 22
+2 Combusken JTG 23
+2 Blaziken ex JTG 24
+1 Mew ex PAF 232
+1 Fezandipiti ex SFA 38
+2 Fan Rotom PRE 85
+3 Slakoth PAL 160
+3 Slaking ex SSP 147
+2 Vigoroth SSP 146
+
+Trainer: 34
+2 Buddy-Buddy Poffin PRE 101
+1 Counter Catcher PAR 160
+1 Earthen Vessel PRE 106
+2 Nest Ball PAF 84
+1 Night Stretcher SFA 61
+2 Pokégear 3.0 SVI 186
+2 Rare Candy PAF 89
+1 Switch SVI 194
+3 Ultra Ball PAF 91
+2 Town Store OBF 196
+4 Arven SVI 166
+1 Black Belt's Training PRE 96
+2 Boss's Orders PAL 172
+1 Crispin PRE 105
+3 Iono PAL 185
+1 Professor Turo's Scenario PRE 121
+1 Professor's Research JTG 155
+1 Maximum Belt PRE 117
+1 Powerglass SFA 63
+2 Technical Machine: Evolution PAR 178
+
+Energy: 8
+1 Boomerang Energy TWM 166
+3 Basic {D} Energy SVE 7
+4 Basic {R} Energy SVE 2
+
+Total Cards: 60

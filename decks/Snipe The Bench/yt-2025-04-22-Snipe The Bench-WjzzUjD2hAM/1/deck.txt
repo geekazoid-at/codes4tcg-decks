@@ -1,0 +1,31 @@
+Pokémon: 7
+1 Bloodmoon Ursaluna ex TWM 141
+1 Fezandipiti ex SFA 92
+2 Brute Bonnet PAR 123
+3 Tsareena ex PAR 46
+3 Bounsweet PAR 8
+1 Steenee PAR 9
+2 Budew PRE 4
+
+Trainer: 16
+1 Counter Catcher PAR 160
+1 Unfair Stamp TWM 165
+3 Perilous Jungle TEF 156
+1 Pokégear 3.0 SVI 186
+2 Night Stretcher SFA 61
+2 Nest Ball SVI 181
+3 Ancient Booster Energy Capsule PAR 159
+4 Arven OBF 186
+3 Boss's Orders PAL 172
+4 Buddy-Buddy Poffin TEF 144
+4 Iono PAF 80
+3 Ultra Ball SVI 196
+2 Professor's Research PRE 122
+1 Switch SVI 194
+4 Rare Candy SVI 191
+1 Earthen Vessel PAR 163
+
+Energy: 1
+8 Basic {G} Energy SVE 1
+
+Total Cards: 60
