@@ -1,0 +1,39 @@
+Pokémon: 11
+3 Blaziken ex JTG 24
+3 Torchic JTG 22
+2 Combusken JTG 23
+3 Hoothoot SCR 114
+1 Fezandipiti ex SFA 38
+3 Noctowl SCR 115
+2 Pikachu ex SSP 57
+1 Fan Rotom SCR 118
+1 Cornerstone Mask Ogerpon ex TWM 112
+1 Wellspring Mask Ogerpon ex TWM 64
+1 Squawkabilly ex PAL 169
+
+Trainer: 15
+2 Ultra Ball SVI 196
+2 Rare Candy SVI 191
+4 Arven OBF 186
+1 Jacq SVI 175
+2 Earthen Vessel PAR 163
+1 Area Zero Underdepths SCR 131
+4 Buddy-Buddy Poffin TEF 144
+3 Iono PAL 185
+1 Gravity Mountain SSP 177
+1 Night Stretcher SFA 61
+1 Technical Machine: Evolution PAR 178
+1 Sparkling Crystal SCR 142
+4 Nest Ball SVI 181
+1 Rescue Board TEF 159
+2 Boss's Orders PAL 172
+
+Energy: 6
+1 Basic {W} Energy SVE 3
+1 Basic {R} Energy SVE 2
+2 Basic {G} Energy SVE 1
+1 Basic {F} Energy SVE 6
+2 Basic {L} Energy SVE 4
+2 Basic {M} Energy SVE 8
+
+Total Cards: 60

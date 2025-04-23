@@ -1,0 +1,37 @@
+Pokémon: 10
+1 Terapagos ex SCR 128
+2 Slaking ex SSP 147
+1 Fezandipiti ex SFA 38
+1 Mew ex MEW 151
+1 Combusken JTG 23
+1 Budew PRE 4
+2 Blaziken ex JTG 24
+1 Vigoroth PAL 161
+3 Slakoth PAL 160
+3 Torchic JTG 22
+
+Trainer: 16
+1 Counter Catcher PAR 160
+1 Cyrano SSP 170
+1 Maximum Belt TEF 154
+1 Morty's Conviction TEF 155
+2 Night Stretcher SFA 61
+3 Nest Ball SVI 181
+1 Professor's Research SVI 189
+4 Arven OBF 186
+2 Boss's Orders PAL 172
+4 Iono PAL 185
+2 Technical Machine: Evolution PAR 178
+4 Buddy-Buddy Poffin TEF 144
+3 Ultra Ball SVI 196
+1 Switch SVI 194
+4 Rare Candy SVI 191
+2 Earthen Vessel PAR 163
+
+Energy: 4
+2 Basic {R} Energy SVE 10
+2 Basic {L} Energy SVE 12
+2 Basic {G} Energy SVE 9
+2 Basic {W} Energy SVE 11
+
+Total Cards: 60
