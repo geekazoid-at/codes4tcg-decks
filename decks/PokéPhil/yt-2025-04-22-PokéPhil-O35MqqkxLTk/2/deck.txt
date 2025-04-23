@@ -1,0 +1,37 @@
+Pokémon: 8
+2 Salamence ex JTG 114
+3 Bagon JTG 112
+1 Shelgon JTG 113
+2 Budew PRE 4
+3 Froslass TWM 53
+3 Snorunt PAR 37
+2 Munkidori TWM 95
+1 Cleffa OBF 80
+
+Trainer: 18
+4 Arven OBF 186
+2 Crispin SCR 133
+3 Ultra Ball SVI 196
+1 Technical Machine: Devolution PAR 177
+1 Technical Machine: Evolution PAR 178
+1 Super Rod PAL 188
+2 Counter Catcher PAR 160
+1 Rescue Board TEF 159
+2 Rare Candy SVI 191
+1 Pokégear 3.0 SVI 186
+2 Nest Ball SVI 181
+1 Night Stretcher SFA 61
+4 Iono PAL 185
+1 Earthen Vessel PAR 163
+1 Counter Gain SSP 169
+4 Buddy-Buddy Poffin TEF 144
+1 Artazon PAF 76
+2 Morty's Conviction TEF 155
+
+Energy: 4
+3 Basic {R} Energy SVE 2
+3 Basic {D} Energy SVE 7
+2 Basic {W} Energy SVE 3
+1 Neo Upper Energy TEF 162
+
+Total Cards: 60

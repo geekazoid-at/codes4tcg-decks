@@ -1,0 +1,43 @@
+Pokémon: 9
+1 Latias ex SSP 76
+1 Fezandipiti ex SFA 38
+1 Pidgeotto MEW 17
+1 Budew PRE 4
+1 Pidgeot ex OBF 164
+1 Pidgey OBF 162
+3 Salamence ex JTG 114
+4 Bagon JTG 112
+2 Shelgon JTG 113
+
+Trainer: 22
+1 Counter Catcher PAR 160
+2 Artazon PAF 76
+2 Jacq SVI 175
+1 Counter Gain SSP 169
+2 Pokégear 3.0 SVI 186
+1 Night Stretcher SFA 61
+1 Pal Pad SVI 182
+2 Nest Ball SVI 181
+4 Arven OBF 186
+1 Boss's Orders PAL 172
+1 Powerglass SFA 63
+2 Iono PAL 185
+1 Technical Machine: Devolution PAR 177
+1 Technical Machine: Evolution PAR 178
+1 Super Rod PAL 188
+1 Professor's Research JTG 155
+1 Colress's Tenacity SFA 57
+2 Crispin SCR 133
+4 Buddy-Buddy Poffin TEF 144
+2 Ultra Ball SVI 196
+2 Rare Candy SVI 191
+2 Earthen Vessel PAR 163
+
+Energy: 5
+2 Boomerang Energy TWM 166
+1 Jet Energy PAL 190
+2 Basic {R} Energy SVE 2
+2 Basic {W} Energy SVE 3
+1 Neo Upper Energy TEF 162
+
+Total Cards: 60
