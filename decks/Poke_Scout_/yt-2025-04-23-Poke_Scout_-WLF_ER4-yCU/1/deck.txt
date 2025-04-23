@@ -1,0 +1,30 @@
+Pokémon: 10
+2 Lilligant JTG 7
+2 Petilil JTG 6
+3 Toedscool PAR 16
+4 Teal Mask Ogerpon ex TWM 25
+1 Toedscool SVI 25
+1 Fezandipiti ex SFA 38
+3 Toedscruel ex OBF 22
+1 Budew PRE 4
+1 Teal Mask Ogerpon TWM 24
+1 Toedscruel PAR 17
+
+Trainer: 12
+4 Bug Catching Set TWM 143
+4 Energy Switch SVI 173
+1 Energy Retrieval SVI 171
+1 Prime Catcher TEF 157
+3 Night Stretcher SFA 61
+4 Nest Ball SVI 181
+2 Boss's Orders PAL 172
+2 Iono PAL 185
+1 Superior Energy Retrieval PAL 189
+3 Area Zero Underdepths SCR 131
+3 Ultra Ball SVI 196
+1 Switch SVI 194
+
+Energy: 1
+12 Basic {G} Energy SVE 9
+
+Total Cards: 60
