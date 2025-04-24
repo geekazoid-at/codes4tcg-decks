@@ -1,0 +1,37 @@
+Pokémon: 10
+4 Swinub JTG 77
+2 Klefki SVI 96
+2 Mamoswine ex JTG 174
+1 Gengar LOR-TG 6
+3 Archen UNM 120
+1 Piloswine JTG 78
+1 Fezandipiti ex SFA 92
+2 Archeops PR-SW 272
+1 Mamoswine ex JTG 79
+1 Lumineon V CRZ-GG 39
+
+Trainer: 18
+1 Boss's Orders PAL 265
+1 Buff Padding TEU 136 PH
+4 Arven PAF 235
+3 Iono PAL 269
+1 Field Blower SMALT 44
+2 Quick Ball SSH 216
+1 Air Balloon SSH 213
+1 Guzma & Hala CEC 229
+1 Hero's Cape TEF 152
+4 Buddy-Buddy Poffin TWM 223
+3 Evolution Incense SSH 163
+1 Forest Seal Stone SIT 156
+3 Rare Candy GRI 165
+3 Pokémon Research Lab UNM 205
+1 Stadium Nav UNM 208
+2 Max Potion SMALT 45
+1 Switch MEW 206
+1 Pokémon Research Lab UNM 205 PH
+
+Energy: 2
+4 Aurora Energy SSH 186
+4 Stone {F} Energy VIV 164
+
+Total Cards: 60

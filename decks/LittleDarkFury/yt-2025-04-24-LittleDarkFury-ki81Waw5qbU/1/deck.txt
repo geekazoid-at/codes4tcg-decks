@@ -1,0 +1,33 @@
+Pokémon: 6
+1 Seaking PRE 21
+4 Thwackey TWM 15
+4 Dipplin TWM 18
+4 Grookey TWM 14
+4 Applin TWM 17
+1 Goldeen TWM 44
+
+Trainer: 19
+4 Bug Catching Set PRE 102
+4 Buddy-Buddy Poffin PRE 101
+1 Switch SVI 194
+3 Arven OBF 186
+1 Jacq SVI 175
+2 Defiance Band SVI 169
+1 Counter Catcher PAR 160
+1 Night Stretcher SFA 61
+2 Super Rod PAL 188
+1 Technical Machine: Evolution PAR 178
+4 Iono PAF 80
+2 Kieran PRE 113
+1 Maximum Belt TEF 154
+1 Morty's Conviction TEF 155
+1 Rescue Board TEF 159
+1 Nest Ball PAF 84
+1 Surfer SSP 187
+4 Festival Grounds PRE 108
+1 Boss's Orders PAL 172
+
+Energy: 1
+6 Basic {G} Energy SVE 1
+
+Total Cards: 60
