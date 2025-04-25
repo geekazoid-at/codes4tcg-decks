@@ -1,0 +1,32 @@
+Pokémon: 7
+4 Magmar MEW 126
+1 Latias ex SSP 76
+1 Bloodmoon Ursaluna ex TWM 141
+2 Volcanion ex JTG 31
+4 Magmortar JTG 21
+1 Fezandipiti ex SFA 38
+3 Budew PRE 4
+
+Trainer: 15
+1 Counter Catcher PAR 160
+2 Surfer SSP 187
+1 Precious Trolley SSP 185
+3 Night Stretcher SFA 61
+1 Pal Pad SVI 182
+3 Nest Ball SVI 181
+3 Arven OBF 186
+2 Boss's Orders PAL 172
+3 Iono PAL 185
+2 Super Rod PAL 188
+4 Ultra Ball SVI 196
+3 Professor's Research PRE 122
+4 Switch SVI 194
+2 Gravity Mountain SSP 177
+1 Technical Machine: Evolution PAR 178
+
+Energy: 3
+3 Basic {R} Energy SVE 10
+3 Jet Energy PAL 190
+3 Reversal Energy PAL 192
+
+Total Cards: 60
