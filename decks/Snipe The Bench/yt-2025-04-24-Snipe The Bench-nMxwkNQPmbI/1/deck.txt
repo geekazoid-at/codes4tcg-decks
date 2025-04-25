@@ -1,0 +1,32 @@
+Pokémon: 7
+1 Bloodmoon Ursaluna ex TWM 141
+3 Doduo MEW 84
+1 Fezandipiti ex SFA 92
+2 Brute Bonnet PAR 123
+3 Munkidori TWM 95
+4 Komala JTG 129
+3 Dodrio MEW 85
+
+Trainer: 15
+2 Counter Catcher PAR 160
+4 Nest Ball PAF 84
+2 Perilous Jungle TEF 156
+2 Night Stretcher SFA 61
+2 Ancient Booster Energy Capsule PAR 159
+2 Boss's Orders PAL 172
+2 Binding Mochi SFA 55
+4 Iono PAL 185
+1 Professor Turo's Scenario PAR 171
+2 Professor's Research JTG 155
+2 Crispin SCR 133
+2 Ultra Ball SVI 196
+1 Neutralization Zone SFA 60
+4 Switch SVI 194
+1 Earthen Vessel PAR 163
+
+Energy: 3
+2 Therapeutic Energy PAL 193
+5 Basic {D} Energy SVE 15
+3 Basic {P} Energy SVE 13
+
+Total Cards: 60
