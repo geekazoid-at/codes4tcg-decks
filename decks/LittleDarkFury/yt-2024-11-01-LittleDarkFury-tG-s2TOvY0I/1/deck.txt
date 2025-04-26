@@ -26,9 +26,9 @@ Trainer: 25
 1 Neutralization Zone SFA 60
 1 Hassel TWM 151
 1 Cyllene ASR 138
-1 Boss's Orders Pal 172
+1 Boss's Orders PAL 172
 1 Team Yell's Cheer BRS 149
-1 Rescue Board Tef 159
+1 Rescue Board TEF 159
 1 Artazon PAL 171
 
 Energy: 1

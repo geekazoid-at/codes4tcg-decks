@@ -5,7 +5,7 @@ Pokémon: 9
 1 Bidoof BRS 120
 4 Wiglett SVI 56
 1 Manaphy BRS 41
-1 SkwovetSVI 151
+1 Skwovet SVI 151
 2 Bidoof CRZ 111
 1 Mimikyu PAL 97
 

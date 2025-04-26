@@ -30,7 +30,7 @@ Trainer: 15
 
 Energy: 3
 3 Double Turbo Energy BRS 151
-4 Reversal Energy PAL, 192
+4 Reversal Energy PAL 192
 3 Basic {M} Energy SUM 163
 
 Total Cards: 60

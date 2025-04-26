@@ -13,7 +13,7 @@ Pokémon: 11
 Trainer: 15
 4 Ultra Ball SVI 196
 3 Area Zero Underdepths SCR 131
-2 Buddy-Buddy Poffin Tef 144
+2 Buddy-Buddy Poffin TEF 144
 3 Nest Ball SVI 181
 2 Boss's Orders PAL 172
 2 Earthen Vessel PAR 163
