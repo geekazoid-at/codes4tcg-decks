@@ -21,7 +21,7 @@ Trainer: 14
 1 Counter Catcher PAR 160
 2 Boss's Orders PAL 172
 2 Nest Ball SVI 181
-4 Irida 
+4 Irida ASR 147
 1 Hero's Cape TEF 152
 1 Super Rod PAL 276
 
