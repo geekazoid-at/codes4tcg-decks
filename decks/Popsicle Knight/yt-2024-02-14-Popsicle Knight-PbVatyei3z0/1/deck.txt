@@ -1,7 +1,7 @@
 Pokémon: 15
-4 Iron Thorns TEF
-4 Iron Crown ex TEF
-4 Miraidon TEF
+4 Iron Thorns TEF 62
+4 Iron Crown ex TEF 81
+4 Miraidon TEF 121
 1 Iron Hands ex TEF 70
 1 Mew ex MEW 151
 1 Squawkabilly ex PAF 75
