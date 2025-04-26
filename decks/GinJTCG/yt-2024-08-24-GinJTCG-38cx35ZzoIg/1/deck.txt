@@ -1,4 +1,3 @@
-Pokémon: 9
 Pokémon: 7
 4 Rotom V LOR 58
 3 Rotom VSTAR CRZ 46

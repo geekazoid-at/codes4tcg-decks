@@ -31,4 +31,5 @@ Trainer: 16
 
 Energy: 1
 7 Basic {W} Energy SVE 3
+
 Total Cards: 60
