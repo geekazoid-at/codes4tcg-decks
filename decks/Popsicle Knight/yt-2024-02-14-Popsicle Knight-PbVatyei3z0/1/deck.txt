@@ -7,8 +7,8 @@ Pokémon: 15
 1 Squawkabilly ex PAF 75
 
 Trainer: 36
-4 Cryptomaniac's Deciphering TEF
-4 Future Booster Energy Capsule 164 PAR
+4 Cypermaniac's Codebreaking TEF 198
+4 Future Booster Energy Capsule PAR 164
 4 Techno Radar PAR 180
 4 Electric Generator PAF 79
 1 Professor Turo's Scenario PAR 171
