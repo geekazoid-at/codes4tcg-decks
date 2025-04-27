@@ -1,0 +1,35 @@
+Pokémon: 7
+2 Ceruledge ex SSP 36
+3 Charcadet SSP 32
+2 N's Zorua JTG 97
+1 Fezandipiti ex SFA 38
+2 N's Zoroark ex JTG 98
+1 N's Reshiram JTG 116
+2 Squawkabilly ex PAL 169
+
+Trainer: 17
+1 Pokémon League Headquarters OBF 192
+3 Carmine TWM 145
+1 Secret Box TWM 163
+2 Night Stretcher SFA 61
+1 Pal Pad SVI 182
+2 Nest Ball SVI 181
+2 Professor's Research SVI 189
+2 Boss's Orders PAL 172
+1 Jamming Tower TWM 153
+1 Technical Machine: Evolution PAR 178
+2 N's PP Up JTG 153
+1 Colress's Tenacity SFA 57
+1 Briar SCR 132
+3 Buddy-Buddy Poffin TEF 144
+3 Ultra Ball SVI 196
+1 Switch SVI 194
+1 Earthen Vessel PAR 163
+
+Energy: 4
+8 Basic {R} Energy SVE 10
+1 Luminous Energy PAL 191
+4 Jet Energy PAL 190
+6 Basic {D} Energy SVE 15
+
+Total Cards: 60

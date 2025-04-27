@@ -1,0 +1,27 @@
+Pokémon: 6
+4 Ceruledge ex SSP 36
+1 Fezandipiti ex SFA 38
+2 Ditto MEW 132
+2 Fan Rotom SCR 118
+2 Squawkabilly ex PAL 169
+4 Charcadet SSP 32
+
+Trainer: 11
+4 Ultra Ball SVI 196
+3 Earthen Vessel PAR 163
+1 Briar SCR 132
+2 Jamming Tower TWM 153
+1 Super Rod PAL 188
+1 Rigid Band MEW 165
+4 Professor's Research JTG 155
+2 Pokégear 3.0 SVI 186
+1 Pal Pad SVI 182
+4 Carmine TWM 145
+2 Boss's Orders PAL 172
+
+Energy: 3
+15 Basic {R} Energy SVE 10
+1 Legacy Energy TWM 167
+4 Jet Energy PAL 190
+
+Total Cards: 60
