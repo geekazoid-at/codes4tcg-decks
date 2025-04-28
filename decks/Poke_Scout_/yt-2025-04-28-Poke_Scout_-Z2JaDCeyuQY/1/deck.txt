@@ -1,0 +1,28 @@
+Pokémon: 14
+3 Raging Bolt SCR 111
+3 Raging Bolt ex TEF 123
+2 N's Zorua JTG 97
+2 N's Zoroark ex JTG 98
+2 Sandy Shocks ex PRE 56
+2 Latias ex SSP 76
+
+Trainer: 36
+4 Crispin PRE 105
+4 Cyrano SSP 170
+4 Professor Sada's Vitality PRE 120
+2 Surfer SSP 187
+4 Nest Ball PAF 84
+4 Pokégear 3.0 SVI 186
+3 Buddy-Buddy Poffin PRE 101
+3 N's PP Up JTG 153
+2 Super Rod PAL 188
+1 Prime Catcher PRE 119
+1 Counter Catcher PAR 160
+3 Bravery Charm PAL 173
+1 Artazon PAF 76
+
+Energy: 10
+5 Basic {F} Energy SVE 6
+5 Basic {L} Energy SVE 4
+
+Total Cards: 60

@@ -1,0 +1,29 @@
+Pokémon: 8
+1 Pawmo SVI 75 PH
+3 Pawmot ex OBF 73
+1 Magneton SSP 59
+1 Fezandipiti ex SFA 38
+1 Mew ex MEW 151
+2 Miraidon ex SVI 81
+1 Magnemite SVI 63
+3 Pawmi SVI 74
+
+Trainer: 13
+1 Prime Catcher PRE 119
+4 Electric Generator SVI 170
+1 Pokégear 3.0 SVI 186
+4 Nest Ball SVI 181
+3 Boss's Orders PAL 172
+3 Powerglass SFA 63
+4 Iono PAL 185
+4 Arven SVI 166
+3 Ultra Ball SVI 196
+2 Professor's Research PRE 122
+3 Rare Candy SVI 191
+1 Night Stretcher SFA 61
+1 Super Rod PAL 188
+
+Energy: 1
+13 Basic {L} Energy SVE 12
+
+Total Cards: 60

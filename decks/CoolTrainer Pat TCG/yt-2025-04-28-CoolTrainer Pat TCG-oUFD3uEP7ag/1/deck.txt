@@ -1,0 +1,36 @@
+Pokémon: 12
+1 Combee PAL 8
+2 Combee OBF 8 PH
+3 Vespiquen ex OBF 96
+3 Chansey MEW 113
+2 Blissey ex TWM 201
+2 Teal Mask Ogerpon ex PRE 145
+2 Dunsparce TEF 128
+2 Dudunsparce PRE 80
+1 Lillie's Clefairy ex JTG 56
+2 Hawlucha SVI 118 PH
+1 Budew PRE 4
+1 Fezandipiti ex SFA 92
+
+Trainer: 16
+1 Nest Ball SVI 255
+1 Nest Ball SUM 158
+2 Buddy-Buddy Poffin TWM 223
+4 Ultra Ball BRS 186
+1 Switch MEW 206
+2 Earthen Vessel SFA 96
+1 Super Rod PAL 276
+1 Precious Trolley SSP 185
+1 Technical Machine: Evolution PAR 178 PH
+1 Technical Machine: Devolution PAR 177 PH
+3 Arven PAF 235
+2 Iono PAF 237
+2 Boss's Orders RCL 189
+1 Professor's Research CEL 24
+2 Carmine TWM 145
+3 Area Zero Underdepths SCR 174
+
+Energy: 1
+10 Basic {G} Energy SVE 1 PH
+
+Total Cards: 60

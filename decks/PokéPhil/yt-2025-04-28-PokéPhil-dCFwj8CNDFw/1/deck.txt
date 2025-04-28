@@ -1,0 +1,41 @@
+Pokémon: 9
+3 N's Zoroark ex JTG 185
+2 Budew PRE 4 PH
+1 Bloodmoon Ursaluna ex PRE 168
+2 Hydreigon ex SSP 240
+3 N's Zorua JTG 97 PH
+1 Fezandipiti ex SFA 92
+3 Deino SSP 117 PH
+2 Zweilous SSP 118 PH
+1 Pecharunt ex SFA 85
+
+Trainer: 21
+1 Buddy-Buddy Poffin TWM 223
+3 Crispin SCR 164
+1 Counter Gain SSP 249
+3 Iono PAL 254
+2 Call Bell SSP 165 PH
+1 Pokémon League Headquarters OBF 192
+1 Precious Trolley SSP 185
+1 Super Rod PAL 276
+2 Nest Ball SVI 255
+2 Rare Candy SVI 256
+1 Pal Pad SVI 182
+1 Technical Machine: Evolution PAR 178 PH
+4 Arven PAF 235
+1 Janine's Secret Art SFA 88
+1 Pokégear 3.0 UNB 233
+1 Night Stretcher SSP 251
+1 Boss's Orders PAL 248
+1 Binding Mochi PRE 95 PH
+1 Technical Machine: Evolution PAR 178
+2 Ultra Ball BRS 186
+2 Counter Catcher PAR 264
+
+Energy: 4
+2 Basic {P} Energy SVE 13 PH
+1 Luminous Energy TWM 226
+5 Basic {D} Energy SFA 98
+1 Basic {M} Energy SFA 99
+
+Total Cards: 60

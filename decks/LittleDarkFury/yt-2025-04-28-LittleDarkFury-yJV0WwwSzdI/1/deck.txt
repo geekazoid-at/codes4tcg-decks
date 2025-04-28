@@ -1,0 +1,36 @@
+Pokémon: 12
+2 Xatu PAR 72
+1 Conkeldurr TWM 105
+1 Fezandipiti ex SFA 38
+3 Slowpoke SVI 42
+1 Regigigas PRE 86
+2 Kyurem SFA 47
+2 Natu PAR 71
+1 Budew PRE 4
+3 Slowking SCR 58
+1 Annihilape SSP 100
+1 Tatsugiri TWM 131
+1 Latias ex SSP 76
+
+Trainer: 15
+4 Academy at Night SFA 54
+1 Earthen Vessel PAR 163
+3 Ultra Ball PAF 91
+3 Iono PAL 185
+4 Night Stretcher SFA 61
+4 Buddy-Buddy Poffin TEF 144
+1 Ciphermaniac's Codebreaking TEF 145
+1 Rescue Board TEF 159
+1 Max Rod PRE 116
+2 Lana's Aid TWM 155
+1 Boss's Orders PAL 172
+2 Nest Ball PAF 84
+3 Professor's Research PRE 122
+1 Drayton SSP 174
+1 Morty's Conviction TEF 155
+
+Energy: 2
+3 Jet Energy PAL 190
+6 Basic {P} Energy SVE 5
+
+Total Cards: 60
