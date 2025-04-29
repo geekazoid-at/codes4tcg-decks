@@ -1,0 +1,30 @@
+Pokémon: 7
+3 Meltan SCR 103
+2 Melmetal ex PR-SV 104
+1 Fezandipiti ex SFA 38
+3 Beldum TEF 113
+1 Melmetal TEF 117
+3 Metang TEF 114
+1 Regigigas PRE 86
+
+Trainer: 15
+1 Precious Trolley SSP 185
+2 Brock's Scouting JTG 146
+1 Nest Ball PAF 84
+2 Heavy Baton TEF 151
+3 Pokégear 3.0 SVI 186
+1 Night Stretcher SFA 61
+2 Boss's Orders PAL 172
+4 Arven SVI 166
+2 Technical Machine: Evolution PAR 178
+4 Super Rod PAL 188
+2 Professor's Research JTG 155
+1 Buddy-Buddy Poffin TEF 144
+2 Ultra Ball SVI 196
+1 Switch SVI 194
+1 Professor Turo's Scenario PRE 121
+
+Energy: 1
+17 Basic {M} Energy SVE 8
+
+Total Cards: 60
