@@ -1,0 +1,29 @@
+Pokémon: 7
+3 Lycanroc JTG 85
+3 Rockruff JTG 84
+4 Uxie SSP 78
+2 Duskull PRE 35
+2 Dusclops PRE 36
+2 Dusknoir SFA 20
+1 Fezandipiti ex SFA 38
+
+Trainer: 13
+4 Buddy-Buddy Poffin PRE 101
+4 Ultra Ball SVI 196
+2 Switch SVI 194
+1 Colress's Tenacity SFA 57
+2 Boss's Orders PAL 172
+1 Professor Turo's Scenario PAR 171
+1 Earthen Vessel PRE 106
+1 Neutralization Zone SFA 60
+3 Jamming Tower TWM 153
+4 Iono PAF 80
+4 Professor's Research PRE 122
+4 Night Stretcher SFA 61
+2 Nest Ball PAF 84
+
+Energy: 2
+4 Spiky Energy JTG 159
+6 Basic {P} Energy SVE 13
+
+Total Cards: 60
