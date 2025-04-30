@@ -1,0 +1,26 @@
+Pokémon: 5
+1 Fezandipiti ex SFA 84
+4 Ekans MEW 23
+4 Magmar JTG 20 PH
+4 Arbok TEF 101
+4 Magmortar JTG 21
+
+Trainer: 13
+2 Gravity Gemstone SCR 137
+4 Ultra Ball PAF 91
+2 Counter Catcher PAR 160
+4 Switch SVI 194 PH
+4 Iono PAL 185
+4 Perilous Jungle TEF 156
+4 Night Stretcher SFA 61
+4 Arven SVI 166
+1 Buddy-Buddy Poffin TEF 144
+1 Nest Ball SVI 181
+4 Professor's Research PRE 122
+1 Precious Trolley SSP 185
+2 Boss's Orders PAL 172
+
+Energy: 1
+6 Basic {D} Energy SVE 15
+
+Total Cards: 60

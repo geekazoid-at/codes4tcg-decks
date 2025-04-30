@@ -1,0 +1,30 @@
+Pokémon: 2
+4 Copperajah SFA 42
+4 Cufant PAL 149
+
+Trainer: 18
+2 Counter Catcher PAR 160
+1 Luxurious Cape PAR 166
+2 Town Store OBF 196
+1 Jacq SVI 175
+2 Heavy Baton TEF 151
+4 Pokégear 3.0 SVI 186
+3 Nest Ball SVI 181
+1 Boss's Orders PAL 172
+2 Iono PAL 185
+4 Arven SVI 166
+3 Technical Machine: Turbo Energize PAR 179
+2 Technical Machine: Evolution PAR 178
+1 Redeemable Ticket JTG 156
+2 Professor's Research JTG 155
+4 Colress's Tenacity SFA 57
+1 Neutralization Zone SFA 60
+1 Professor Turo's Scenario PRE 121
+2 Professor's Research PRE 124
+
+Energy: 3
+4 Reversal Energy PAL 192
+2 Mist Energy TEF 161
+8 Basic {M} Energy SVE 16
+
+Total Cards: 60

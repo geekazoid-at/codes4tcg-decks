@@ -1,0 +1,37 @@
+Pokémon: 12
+3 Charmander MEW 4
+1 Dusknoir PRE 37
+2 Charmeleon PAF 8
+1 Munkidori TWM 95
+4 N's Zorua JTG 97
+1 Chi-Yu PAR 29
+1 Fezandipiti ex SFA 38
+4 N's Zoroark ex JTG 98
+1 Cleffa OBF 80
+1 Dusclops PRE 36
+1 Duskull PRE 35
+3 Charizard ex OBF 125
+
+Trainer: 16
+2 Counter Catcher PAR 160
+1 Tera Orb SSP 189
+1 Nest Ball PAF 84
+1 Maximum Belt PRE 117
+1 Jacq SVI 175
+1 Artazon PAL 171
+2 Boss's Orders PAL 172
+3 Iono PAL 185
+4 Arven SVI 166
+1 Technical Machine: Evolution PAR 178
+2 Super Rod PAL 188
+1 Defiance Band SVI 169
+4 Buddy-Buddy Poffin PRE 101
+2 Ultra Ball SVI 196
+1 Professor Turo's Scenario PRE 121
+3 Rare Candy SVI 191
+
+Energy: 2
+6 Basic {R} Energy SVE 2
+1 Basic {D} Energy SVE 7
+
+Total Cards: 60

@@ -1,0 +1,33 @@
+Pokémon: 19
+4 Dreepy TWM 128
+3 Drakloak TWM 129
+2 Dragapult ex TWM 130
+3 Slakoth SSP 145
+2 Vigoroth SSP 146
+2 Slaking ex SSP 147
+1 Squawkabilly ex PAL 169
+1 Fezandipiti ex SFA 38
+1 Psyduck PR-SV 262
+
+Trainer: 32
+4 Professor's Research JTG 155
+3 Iono PAL 185
+3 Boss's Orders PAL 172
+1 Crispin SCR 133
+4 Buddy-Buddy Poffin TEF 144
+3 Nest Ball SVI 181
+3 Ultra Ball SVI 196
+3 Rare Candy SVI 191
+2 Night Stretcher SFA 61
+1 Super Rod PAL 188
+1 Counter Catcher PAR 160
+1 Powerglass SFA 63
+3 Team Rocket's Watchtower SV 10 96
+
+Energy: 9
+3 Basic {R} Energy SVE 2
+3 Basic {P} Energy SVE 5
+2 Boomerang Energy TWM 166
+1 Neo Upper Energy TEF 162
+
+Total Cards: 60

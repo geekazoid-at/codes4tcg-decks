@@ -1,0 +1,37 @@
+Pokémon: 13
+1 Latias ex SSP 76
+1 Bloodmoon Ursaluna ex TWM 141
+1 Lillie's Ribombee JTG 67
+1 Fezandipiti ex SFA 38
+1 Mew ex MEW 151
+2 Lillie's Comfey JTG 68
+1 Cleffa OBF 80
+3 Hoothoot SCR 114
+1 Lillie's Cutiefly JTG 66
+3 Lillie's Clefairy ex JTG 56
+2 Cornerstone Mask Ogerpon ex TWM 112
+3 Noctowl PRE 78
+2 Fan Rotom PRE 85
+
+Trainer: 15
+1 Counter Catcher PAR 160
+1 Maximum Belt TEF 154
+1 Rescue Board TEF 159
+3 Nest Ball SVI 181
+2 Arven OBF 186
+2 Boss's Orders PAL 172
+3 Area Zero Underdepths PRE 94
+3 Iono PAL 185
+1 Super Rod PAL 188
+3 Lillie's Pearl JTG 151
+1 Earthen Vessel PRE 106
+3 Crispin SCR 133
+2 Buddy-Buddy Poffin TEF 144
+2 Ultra Ball SVI 196
+2 Professor's Research PRE 122
+
+Energy: 2
+5 Basic {P} Energy SVE 13
+3 Basic {F} Energy SVE 14
+
+Total Cards: 60
