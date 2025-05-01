@@ -1,0 +1,29 @@
+Pokémon: 9
+1 Squawkabilly ex PAF 75
+2 Latias ex SSP 76
+1 Pecharunt ex SFA 39
+1 Ditto MEW 132
+4 Brute Bonnet PAR 123
+4 Iron Valiant ex PAR 89
+2 Squawkabilly ex PAL 169
+4 Pecharunt PR-SV 149
+1 Volcanion ex JTG 31
+
+Trainer: 13
+1 Carmine PRE 103
+4 Switch SVI 194
+4 Ultra Ball PAF 91
+4 Dusk Ball SSP 175
+4 Great Ball PAL 183
+1 Dangerous Laser SFA 58
+4 Pokégear 3.0 SVI 186
+4 Perilous Jungle TEF 156
+2 Poké Ball SVI 185
+4 Nest Ball PAF 84
+4 Ancient Booster Energy Capsule PAR 159
+3 Carmine TWM 145
+1 Roto-Stick PRE 127 PH
+
+Energy: 0
+
+Total Cards: 60
