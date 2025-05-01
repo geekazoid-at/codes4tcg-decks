@@ -1,0 +1,43 @@
+Pokémon: 14
+2 Hydreigon ex SSP 119
+1 Zweilous SSP 118
+3 Deino SSP 117
+1 Bloodmoon Ursaluna ex TWM 141
+1 Dusknoir PRE 37
+1 Munkidori TWM 95
+1 Fezandipiti ex SFA 38
+1 Pidgeotto MEW 17
+1 Dusclops PRE 36
+2 Budew PRE 4
+2 Pidgeot ex OBF 164
+2 Pidgey OBF 162
+1 Pecharunt ex SFA 39
+1 Duskull PRE 35
+
+Trainer: 18
+2 Counter Catcher PAR 160
+1 Jacq SVI 175
+1 Counter Gain SSP 169
+2 Night Stretcher SFA 61
+1 Pal Pad SVI 182
+3 Nest Ball SVI 181
+4 Arven OBF 186
+1 Boss's Orders PAL 172
+2 Iono PAL 185
+1 Professor Turo's Scenario PAR 171
+1 Redeemable Ticket JTG 156
+1 Super Rod PAL 188
+1 Crispin SCR 133
+3 Buddy-Buddy Poffin TEF 144
+1 Binding Mochi PRE 95
+3 Ultra Ball SVI 196
+4 Rare Candy SVI 191
+1 Earthen Vessel PAR 163
+
+Energy: 4
+4 Basic {D} Energy SVE 15
+1 Basic {P} Energy SVE 13
+1 Neo Upper Energy TEF 162
+1 Basic {M} Energy SVE 16
+
+Total Cards: 60
