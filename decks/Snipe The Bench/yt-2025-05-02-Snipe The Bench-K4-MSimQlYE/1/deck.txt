@@ -1,0 +1,36 @@
+Pokémon: 9
+2 Hydreigon ex SSP 119
+2 Zweilous SSP 118
+2 Deino SSP 117
+4 Shuppet JTG 59 PH
+2 Pidgeotto MEW 17
+2 Pidgeot ex OBF 164
+3 Banette JTG 60
+1 Fezandipiti ex SFA 38
+2 Pidgey MEW 16
+
+Trainer: 17
+3 Ultra Ball PAF 91
+1 Brock's Scouting JTG 146
+1 Crispin PRE 105
+2 Rare Candy SVI 191
+1 Eri TEF 146
+4 Buddy-Buddy Poffin TEF 144
+1 Counter Catcher PAR 160
+1 Switch SVI 194 PH
+2 Iono PAL 185
+2 Night Stretcher SFA 61
+1 Pokégear 3.0 SVI 186
+1 Professor's Research PRE 122
+1 Pal Pad SVI 182
+2 Nest Ball PAF 84
+1 Unfair Stamp TWM 165
+4 Judge PAF 228
+2 Boss's Orders PAL 172
+
+Energy: 3
+2 Basic {D} Energy SVE 15
+6 Basic {P} Energy SVE 13
+2 Basic {M} Energy SVE 16
+
+Total Cards: 60

@@ -1,0 +1,39 @@
+Pokémon: 11
+1 Fezandipiti ex SFA 38
+3 Larvitar PRE 47
+2 Pupitar PRE 48
+1 Munkidori TWM 95
+2 Tyranitar JTG 95
+3 Shelmet JTG 12
+2 Accelgor JTG 13
+1 Budew PRE 4
+1 Mimikyu PAL 97
+1 Pecharunt PR-SV 149
+1 Cornerstone Mask Ogerpon ex PRE 58
+
+Trainer: 17
+3 Ultra Ball PAF 91
+1 Super Rod PAL 188
+1 Grand Tree SCR 136
+1 Earthen Vessel PAR 163
+4 Iono PAF 80
+1 Night Stretcher SFA 61
+4 Buddy-Buddy Poffin PRE 101
+1 Big Air Balloon MEW 155
+1 Perilous Jungle TEF 156
+3 Colress's Tenacity SFA 57
+2 Rescue Board PRE 126
+1 Counter Catcher PAR 160
+3 Arven OBF 186
+1 Boss's Orders PAL 172 PH
+2 Nest Ball SVI 181
+3 Professor's Research PRE 122
+1 Rare Candy SVI 191
+
+Energy: 4
+3 Basic {G} Energy SVE 1
+2 Basic {D} Energy SVE 7
+3 Reversal Energy PAL 192
+1 Luminous Energy PAL 191
+
+Total Cards: 60
