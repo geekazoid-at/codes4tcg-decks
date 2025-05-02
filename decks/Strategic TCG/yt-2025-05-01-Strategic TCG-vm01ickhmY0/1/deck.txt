@@ -1,0 +1,35 @@
+Pokémon: 11
+1 Mewtwo V-UNION PR-SW 159
+1 Radiant Eternatus CRZ 105
+4 Shadow Rider Calyrex VMAX CRE 205
+1 Zacian V CEL 16
+1 Lunala {*} UPR 62
+1 Lillie's Clefairy ex JTG 184
+2 Shadow Rider Calyrex V CRE 172
+1 Tapu Lele-GX SMALT 38
+1 Mewtwo V-UNION PR-SW 162
+1 Mewtwo V-UNION PR-SW 160
+1 Mewtwo V-UNION PR-SW 161
+
+Trainer: 16
+1 Brilliant Blender SSP 164
+1 Hisuian Heavy Ball ASR 146
+1 Acerola BUS 142
+2 Guzma BUS 143
+1 Super Rod PAL 276
+2 Night Stretcher SSP 251
+1 Mallow GRI 145
+2 Quick Ball SSH 216
+3 Altar of the Moone GRI 117
+4 Mysterious Treasure FLI 145
+1 Gladion CIN 109
+3 Iono PAL 254
+1 Forest Seal Stone SIT 156
+1 Field Blower GRI 163
+4 Fog Crystal CRE 227
+4 Professor's Research SSH 201
+
+Energy: 1
+13 Basic {P} Energy SUM 162
+
+Total Cards: 60
