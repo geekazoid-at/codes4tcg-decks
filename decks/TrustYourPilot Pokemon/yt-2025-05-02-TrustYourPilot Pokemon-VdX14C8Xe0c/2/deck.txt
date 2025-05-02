@@ -1,0 +1,40 @@
+Pokémon: 14
+1 Latias ex SSP 76
+1 Hop's Cramorant JTG 138
+1 Bloodmoon Ursaluna ex TWM 141
+2 Brute Bonnet PAR 123
+1 Pecharunt PR-SV 149
+1 Volcanion ex JTG 31
+1 Bonsly OBF 110
+1 Fezandipiti ex SFA 38
+1 Budew PRE 4
+1 Wellspring Mask Ogerpon ex TWM 64
+2 Lileep SCR 5
+1 Cornerstone Mask Ogerpon ex TWM 112
+3 Cradily SCR 6
+1 Squawkabilly ex PAL 169
+
+Trainer: 17
+1 Counter Catcher PAR 160
+1 Surfer SSP 187
+1 Iris's Fighting Spirit JTG 149
+2 Night Stretcher SFA 61
+4 Nest Ball SVI 181
+2 Ancient Booster Energy Capsule PAR 159
+1 Boss's Orders PAL 172
+1 Kieran TWM 154
+4 Iono PAL 185
+4 Arven SVI 166
+2 Technical Machine: Evolution PAR 178
+4 Antique Root Fossil SCR 130
+2 Area Zero Underdepths SCR 131
+1 Boxed Order TEF 143
+2 Ultra Ball SVI 196
+2 Switch SVI 194
+2 Rare Candy SVI 191
+
+Energy: 2
+1 Legacy Energy TWM 167
+5 Basic {G} Energy SVE 9
+
+Total Cards: 60
