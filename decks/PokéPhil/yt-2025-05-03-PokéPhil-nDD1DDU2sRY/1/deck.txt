@@ -1,0 +1,31 @@
+Pokémon: 5
+1 Roaring Moon ex PAR 124
+4 Munkidori TWM 95
+1 Cornerstone Mask Ogerpon ex TWM 112
+4 Chansey TWM 133
+4 Blissey ex TWM 134
+
+Trainer: 16
+2 Town Store OBF 196
+1 Precious Trolley SSP 185
+2 Rigid Band MEW 165
+1 Exp. Share SVI 174
+4 Pokégear 3.0 SVI 186
+2 Night Stretcher SFA 61
+1 Rescue Board TEF 159
+2 Nest Ball SVI 181
+4 Arven OBF 186
+4 Boss's Orders PAL 172
+3 Iono PAL 185
+2 Technical Machine: Turbo Energize PAR 179
+2 Professor's Research JTG 155
+4 Ultra Ball SVI 196
+1 Switch SVI 194
+1 Earthen Vessel PAR 163
+
+Energy: 3
+7 Basic {D} Energy SVE 15
+1 Basic {P} Energy SVE 13
+2 Basic {F} Energy SVE 14
+
+Total Cards: 60

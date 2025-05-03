@@ -1,0 +1,36 @@
+Pokémon: 10
+2 Xatu PAF 26
+3 Beldum JTG 61
+1 Beldum JTG 61 PH
+2 Natu PAF 25
+2 Metagross JTG 63 PH
+2 Metagross JTG 63
+1 Cleffa OBF 80
+1 Lillie's Clefairy ex JTG 56
+1 Cornerstone Mask Ogerpon ex TWM 112
+3 Metang JTG 62
+
+Trainer: 17
+1 Counter Catcher PAR 160
+1 Luxurious Cape PAR 166
+2 Mesagoza SVI 178
+2 Night Stretcher SFA 61
+1 Rescue Board TEF 159
+1 Pal Pad SVI 182
+2 Boss's Orders PAL 172
+3 Iono PAL 185
+3 Arven SVI 166
+1 Super Rod PAL 188
+2 Tulip PAR 181
+4 Buddy-Buddy Poffin TEF 144
+3 Ultra Ball SVI 196
+1 Neutralization Zone SFA 60
+2 Professor's Research PRE 122
+3 Rare Candy SVI 191
+1 Earthen Vessel PAR 163
+
+Energy: 2
+1 Reversal Energy PAL 192
+8 Basic {P} Energy SVE 13
+
+Total Cards: 60
