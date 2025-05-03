@@ -1,0 +1,40 @@
+Pokémon: 13
+1 Bloodmoon Ursaluna ex PRE 168
+2 Drakloak PRE 72 PH
+2 Joltik SCR 150
+2 Miraidon ex SVI 253
+2 Iron Hands ex PRE 154
+1 Galvantula SFA 2 PH
+1 Pikachu ex SSP 238
+1 Latias ex SSP 239
+1 Mew ex PAF 232
+2 Dreepy PRE 71 PH
+1 Fezandipiti ex SFA 92
+1 Lillie's Clefairy ex JTG 184
+1 Dragapult ex TWM 200
+
+Trainer: 15
+4 Ultra Ball SVI 196
+1 Earthen Vessel SFA 96
+1 Brock's Scouting JTG 179
+3 Arven OBF 186
+3 Crispin SCR 133
+1 Super Rod PAL 276
+1 Iono PAF 237
+1 Prime Catcher PRE 119
+4 Nest Ball SVI 181
+1 Rescue Board TWM 225
+1 Area Zero Underdepths SCR 174
+2 Bravery Charm SCR 175
+1 Pokégear 3.0 UNB 233
+1 Vitality Band SVI 197 PH
+3 Boss's Orders PAL 172
+
+Energy: 5
+5 Basic {L} Energy EVO 94 PH
+1 Basic {M} Energy SFA 99
+1 Basic {R} Energy OBF 230
+5 Basic {G} Energy EVO 91 PH
+2 Basic {P} Energy MEW 207
+
+Total Cards: 60
