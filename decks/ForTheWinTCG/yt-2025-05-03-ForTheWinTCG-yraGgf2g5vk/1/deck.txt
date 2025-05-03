@@ -1,0 +1,35 @@
+Pokémon: 8
+3 Duraludon PRE 69
+3 Archaludon ex SSP 130
+3 N's Zorua JTG 97
+1 Fezandipiti ex SFA 38
+3 N's Zoroark ex JTG 98
+1 Budew PRE 4
+1 Relicanth TEF 84
+1 Hop's Zacian ex JTG 111
+
+Trainer: 19
+3 Deduction Kit SSP 171
+1 Precious Trolley SSP 185
+2 Artazon PAF 76
+1 Hop's Choice Band JTG 148
+1 Rigid Band MEW 165
+3 Ultra Ball PAF 91
+3 Pokégear 3.0 SVI 186
+2 Night Stretcher SFA 61
+1 Pal Pad SVI 182
+1 Nest Ball SVI 181
+3 Boss's Orders PAL 172
+2 Black Belt's Training PRE 96
+4 Arven SVI 166
+2 Professor Turo's Scenario PAR 171
+2 Technical Machine: Evolution PAR 178
+1 Buddy-Buddy Poffin PRE 101
+2 Earthen Vessel PRE 106
+2 Iono PAF 80
+1 Vitality Band SVI 197
+
+Energy: 1
+7 Basic {M} Energy SVE 16
+
+Total Cards: 60
