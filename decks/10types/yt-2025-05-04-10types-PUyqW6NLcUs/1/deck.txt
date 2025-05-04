@@ -1,0 +1,36 @@
+Pokémon: 7
+4 Totodile TEF 39
+3 Feraligatr TEF 41
+2 Relicanth TEF 84
+2 Munkidori TWM 95
+2 Croconaw TEF 40 PH
+1 Croconaw TEF 40
+2 Mimikyu PAL 97
+
+Trainer: 17
+1 Ultra Ball SVI 196
+1 Rare Candy SVI 191
+4 Arven OBF 186
+1 Exp. Share SVI 174
+1 Earthen Vessel PAR 163
+2 Buddy-Buddy Poffin TEF 144
+3 Counter Catcher PAR 160
+1 Grand Tree SCR 136
+2 Luxurious Cape PAR 166
+4 Iono PAL 185
+1 Lana's Aid TWM 155
+4 Professor's Research SHF 60
+1 Night Stretcher SFA 61
+4 Colress's Tenacity SFA 57
+1 Technical Machine: Evolution PAR 178
+1 Nest Ball SVI 181
+2 Artazon PAL 171
+
+Energy: 5
+5 Basic {W} Energy SVE 11
+2 Basic {D} Energy SVE 15
+1 Basic {P} Energy SVE 13
+1 Luminous Energy PAL 191
+1 Reversal Energy PAL 192
+
+Total Cards: 60
