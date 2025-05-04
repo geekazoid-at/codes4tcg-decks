@@ -1,0 +1,41 @@
+Pokémon: 10
+1 Scizor OBF 205
+1 Fezandipiti ex SFA 92
+4 Gholdengo ex PAR 252
+3 Dunsparce PRE 79 PH
+3 Gimmighoul PAR 198
+1 Iron Bundle PR-SV 66
+2 Dudunsparce PRE 80 PH
+1 Scyther MEW 123 PH
+1 Dudunsparce ex JTG 178
+1 Gimmighoul SSP 97 PH
+
+Trainer: 16
+1 Energy Search Pro SSP 176
+3 Buddy-Buddy Poffin TWM 223
+4 Superior Energy Retrieval PLF 103 PH
+2 Ciphermaniac's Codebreaking TEF 198
+1 Professor Turo's Scenario PAR 257
+1 Earthen Vessel SFA 96
+2 Technical Machine: Evolution PAR 178 PH
+3 Ultra Ball PLF 122
+1 Counter Catcher CIN 120
+2 Boss's Orders PAL 265
+2 Night Stretcher SSP 251
+2 Nest Ball SUM 158
+1 Jamming Tower TWM 153 PH
+1 Levincia JTG 150 PH
+4 Arven SVI 249
+1 Energy Retrieval AOR 99
+
+Energy: 8
+3 Basic {M} Energy SVE 34 PH
+1 Basic {F} Energy EVO 96 PH
+1 Basic {R} Energy SVALT 132
+1 Basic {D} Energy SVE 51 PH
+1 Basic {G} Energy CRZ 152
+1 Basic {W} Energy SVE 3
+2 Basic {L} Energy GEN 78 PH
+1 Basic {P} Energy SUM 162
+
+Total Cards: 60
