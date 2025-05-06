@@ -1,0 +1,38 @@
+Pokémon: 11
+4 Uxie SSP 78
+2 Kingambit OBF 150
+1 Rabsca TEF 24
+1 Froslass TWM 53
+1 Fezandipiti ex SFA 38
+3 Pawniard SVI 132
+1 Rellor TEF 23
+1 Budew PRE 4
+1 Snorunt PAR 37
+1 Cleffa OBF 80
+2 Bisharp OBF 149
+
+Trainer: 17
+1 Switch SVI 194
+2 Ultra Ball PAF 91
+1 Iris's Fighting Spirit JTG 149
+2 Rare Candy SVI 191
+2 Energy Search SVI 172
+4 Buddy-Buddy Poffin TEF 144
+2 Counter Catcher PAR 160
+4 Iono PAL 185
+2 Night Stretcher SFA 61
+1 Super Rod PAL 188
+4 Vengeful Punch OBF 197
+1 Morty's Conviction TEF 155
+1 Rescue Board TEF 159
+1 Calamitous Snowy Mountain PAL 174
+2 Accompanying Flute TWM 142
+1 Artazon PAL 171
+4 Arven SVI 166
+
+Energy: 3
+3 Basic {P} Energy SVE 13
+1 Legacy Energy TWM 167
+3 Basic {M} Energy SVE 16
+
+Total Cards: 60
