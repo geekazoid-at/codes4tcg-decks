@@ -1,0 +1,37 @@
+Pokémon: 9
+2 Pidgey MEW 16
+1 Fezandipiti ex SFA 38
+1 Combusken JTG 23
+1 Budew PRE 4
+3 Blaziken ex JTG 24
+1 Victini SSP 21
+2 Pidgeot ex OBF 164
+1 Pidgeotto OBF 163
+4 Torchic JTG 22
+
+Trainer: 20
+1 Drayton SSP 174
+2 Surfer SSP 187
+1 Brock's Scouting JTG 146
+1 Prime Catcher TEF 157
+4 Pokégear 3.0 SVI 186
+2 Night Stretcher SFA 61
+1 Rescue Board TEF 159
+1 Pal Pad SVI 182
+2 Big Air Balloon MEW 155
+1 Artazon PAL 171
+1 Boss's Orders PAL 172
+2 Iono PAL 185
+4 Arven SVI 166
+1 Professor Turo's Scenario PAR 171
+1 Technical Machine: Evolution PAR 178
+4 Buddy-Buddy Poffin TEF 144
+1 Ultra Ball SVI 196
+2 Switch SVI 194
+4 Rare Candy SVI 191
+2 Earthen Vessel PAR 163
+
+Energy: 1
+6 Basic {R} Energy SVE 10
+
+Total Cards: 60
