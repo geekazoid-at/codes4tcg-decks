@@ -1,0 +1,33 @@
+Pokémon: 8
+2 Haunter TEF 103
+3 Gengar ex TEF 104
+4 Gastly TEF 102 PH
+1 Fezandipiti ex SFA 38
+2 Drakloak PRE 72
+2 Dreepy PRE 71
+2 Budew PRE 4
+1 Munkidori TWM 95
+
+Trainer: 17
+1 Counter Catcher PAR 160
+1 Rescue Board TEF 159
+2 Judge PAF 228
+1 Grand Tree SCR 136
+1 Janine's Secret Art PRE 112
+4 Ultra Ball PAF 91
+1 Exp. Share SVI 174
+2 Night Stretcher SFA 61
+3 Nest Ball SVI 181
+1 Brock's Scouting JTG 146
+4 Arven OBF 186
+2 Boss's Orders PAL 172
+3 Rare Candy PAF 89
+4 Buddy-Buddy Poffin TEF 144
+3 Iono PAF 80
+1 Switch SVI 194
+1 Colress's Tenacity SFA 57
+
+Energy: 1
+8 Basic {D} Energy SVE 15
+
+Total Cards: 60
