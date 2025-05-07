@@ -1,0 +1,28 @@
+Pokémon: 5
+4 Metang JTG 62
+3 Natu PAF 25
+3 Xatu PAF 26
+4 Metagross JTG 63 PH
+4 Beldum JTG 61
+
+Trainer: 15
+2 Earthen Vessel PRE 106
+4 Brock's Scouting JTG 146
+2 Rare Candy SVI 191
+4 Buddy-Buddy Poffin TEF 144
+1 Lana's Aid TWM 155
+2 Gravity Mountain SSP 177
+4 Night Stretcher SFA 61
+2 Technical Machine: Evolution PAR 178
+1 Iono PAF 80
+4 Pokégear 3.0 SVI 186
+1 Pal Pad SVI 182
+1 Rescue Board TEF 159
+1 Precious Trolley SSP 185
+4 Arven SVI 166
+1 Boss's Orders PAL 172
+
+Energy: 1
+8 Basic {P} Energy SVE 13
+
+Total Cards: 60

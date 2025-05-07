@@ -1,0 +1,38 @@
+Pokémon: 10
+1 Tatsugiri PR-SV 118
+1 Bloodmoon Ursaluna ex TWM 141
+1 Cornerstone Mask Ogerpon ex TWM 112
+1 Fezandipiti ex SFA 38
+2 Wellspring Mask Ogerpon ex PRE 27
+1 Mew ex MEW 151
+1 Hearthflame Mask Ogerpon ex PRE 17
+1 Budew PRE 4
+1 Lillie's Clefairy ex JTG 56
+4 Teal Mask Ogerpon ex TWM 25
+
+Trainer: 15
+2 Crispin PRE 105
+4 Professor's Research JTG 155
+2 Boss's Orders PAL 172
+1 Superior Energy Retrieval PAL 189
+1 Tera Orb SSP 189
+4 Ogre's Mask PRE 118
+3 Nest Ball PAF 84
+3 Earthen Vessel PAR 163
+4 Ultra Ball SVI 196
+3 Energy Switch SVI 173
+1 Night Stretcher SFA 61
+2 Iono PAL 185
+1 Beach Court SVI 167
+1 Sparkling Crystal PRE 129
+2 Bravery Charm PAL 173
+
+Energy: 6
+1 Basic {R} Energy SVE 2
+6 Basic {G} Energy SVE 1
+1 Basic {F} Energy SVE 6
+1 Basic {P} Energy SVE 5
+1 Basic {W} Energy SVE 3
+2 Luminous Energy PAL 191
+
+Total Cards: 60

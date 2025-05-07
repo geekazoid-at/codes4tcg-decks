@@ -1,0 +1,31 @@
+Pokémon: 13
+4 Charcadet SSP 32
+4 Ceruledge ex SSP 36
+1 Fezandipiti ex SFA 38
+2 Fan Rotom SCR 118
+1 Ditto MEW 132
+1 Genesect SFA 40
+
+Trainer: 29
+4 Carmine PRE 103
+3 Professor's Research PAF 87
+2 Boss's Orders PAL 172
+1 Professor Turo's Scenario PAR 171
+1 Briar PRE 100
+4 Ultra Ball PAF 91
+3 Earthen Vessel PRE 106
+3 Pokégear 3.0 SVI 186
+1 Super Rod PAL 188
+1 Pal Pad SVI 182
+2 Pokémon League Headquarters OBF 192
+1 Jamming Tower TWM 153
+1 Bravery Charm PAL 173
+1 Rescue Board PRE 126
+1 Rigid Band MEW 165
+
+Energy: 18
+1 Legacy Energy TWM 167
+4 Jet Energy PAL 190
+13 Basic {R} Energy SVE 2
+
+Total Cards: 60

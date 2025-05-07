@@ -1,0 +1,36 @@
+Pokémon: 8
+2 Baxcalibur PAL 60
+2 Munkidori TWM 95
+3 Wailmer JTG 40
+1 Arctibax PAL 59
+1 Fezandipiti ex SFA 38
+2 Frigibax PAL 57
+1 Cleffa OBF 80
+3 Wailord JTG 41
+
+Trainer: 18
+3 Ultra Ball SVI 196
+2 Rare Candy PAF 89
+1 Switch SVI 194
+2 Earthen Vessel PAR 163
+1 Counter Catcher PAR 160
+2 Luxurious Cape PAR 166
+2 Mesagoza SVI 178
+1 Professor Turo's Scenario PAR 171
+2 Night Stretcher SFA 61
+1 Colress's Tenacity SFA 57
+1 Super Rod PAL 188
+3 Iono PAF 80
+3 Professor's Research JTG 155
+1 Pal Pad SVI 182
+3 Nest Ball SVI 181
+1 Neutralization Zone SFA 60
+2 Arven SVI 166
+1 Boss's Orders PAL 172
+
+Energy: 3
+7 Basic {W} Energy SVE 11
+2 Basic {D} Energy SVE 15
+4 Reversal Energy PAL 192
+
+Total Cards: 60
