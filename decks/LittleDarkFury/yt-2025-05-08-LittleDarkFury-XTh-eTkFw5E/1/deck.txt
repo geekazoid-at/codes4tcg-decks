@@ -1,0 +1,30 @@
+Pokémon: 9
+4 Blaziken ex JTG 24
+2 N's Darmanitan JTG 27
+3 Hydreigon ex SSP 119
+1 Dragapult ex TWM 130
+4 Tatsugiri ex SSP 142
+1 Pidgeotto MEW 17
+4 Pidgeot ex OBF 164
+1 Zweilous PAL 139
+2 Ditto MEW 132
+
+Trainer: 9
+4 Crispin PRE 105
+1 Counter Gain SSP 169
+2 Iono PAF 80
+1 Sparkling Crystal PRE 129
+3 Town Store OBF 196
+4 Pokégear 3.0 SVI 186
+1 Penny SVI 183
+4 Carmine TWM 145
+2 Boss's Orders PAL 172
+
+Energy: 5
+3 Basic {M} Energy SVE 8
+5 Basic {D} Energy SVE 7
+3 Basic {P} Energy SVE 5
+2 Basic {W} Energy SVE 3
+3 Basic {R} Energy SVE 2
+
+Total Cards: 60

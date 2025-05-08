@@ -1,0 +1,31 @@
+Pokémon: 18
+4 Dreepy TWM 128
+4 Drakloak TWM 129
+3 Dragapult ex TWM 130
+2 Budew PRE 4
+1 Latias ex SSP 76
+1 Bloodmoon Ursaluna ex TWM 141
+1 Munkidori TWM 95
+1 Hawlucha SVI 118
+1 Fezandipiti ex SFA 38
+
+Trainer: 34
+4 Boss's Orders PAL 172
+4 Professor's Research JTG 155
+4 Iono PAL 185
+4 Brock's Scouting JTG 146
+2 Professor Turo's Scenario PAR 171
+4 Buddy-Buddy Poffin TEF 144
+4 Ultra Ball SVI 196
+3 Counter Catcher PAR 160
+2 Nest Ball SVI 181
+1 Super Rod PAL 188
+2 Jamming Tower TWM 153
+
+Energy: 8
+3 Luminous Energy PAL 191
+2 Basic {R} Energy SVE 2
+2 Basic {P} Energy SVE 5
+1 Neo Upper Energy TEF 162
+
+Total Cards: 60
