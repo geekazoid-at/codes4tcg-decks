@@ -1,0 +1,61 @@
+Pokémon: 16
+1 Shinx UPR 45
+1 Regieleki EVS 60
+1 Flaaffy EVS 55
+1 Mareep LOT 75
+1 Raichu TEF 52
+1 Pikachu SSH 65
+1 Luxio UPR 47
+1 Zebstrika LOT 82
+1 Blitzle CRE 50
+1 Iono's Wattrel JTG 54
+1 Iono's Kilowattrel JTG 55
+1 Luxray RCL 62
+1 Zapdos SMALT 143
+1 Tapu Koko SMP 30
+1 Electivire BRS 47
+1 Electabuzz SCR 46
+
+Trainer: 35
+1 Cape of Toughness DAA 160
+1 Hisuian Heavy Ball ASR 146
+1 Exp. Share SVI 174
+1 Evolution Incense SSH 163
+1 Marnie CPA 56
+1 Stormy Mountains EVS 161
+1 Rescue Stretcher GRI 130
+1 Scoop Up Net RCL 165
+1 Air Balloon SSH 156
+1 Escape Rope BUS 114
+1 Guzma BUS 115
+1 Pal Pad SVI 182
+1 Nest Ball SVI 181
+1 Level Ball BST 129
+1 Counter Catcher PAR 160
+1 Luxurious Cape PAR 166
+1 Ultra Ball SVI 196
+1 Switch SVI 194
+1 Iono PAF 80
+1 Raihan EVS 152
+1 Surfer SSP 187
+1 Timer Ball SUM 134
+1 Night Stretcher SFA 61
+1 Ball Guy SHF 57
+1 Professor's Research PRE 122
+1 Ordinary Rod SSH 171
+1 Cynthia UPR 119
+1 Electropower LOT 172
+1 Pokémon Communication TEU 152
+1 Quick Ball FST 237
+1 Gladion CIN 95
+1 Buddy-Buddy Poffin PRE 101
+1 Earthen Vessel PRE 106
+1 Boss's Orders PAL 172
+1 Field Blower GRI 125
+
+Energy: 3
+7 Basic {L} Energy SVE 12
+1 Speed {L} Energy RCL 173
+1 Capture Energy RCL 171
+
+Total Cards: 60

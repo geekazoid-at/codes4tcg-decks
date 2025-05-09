@@ -1,0 +1,61 @@
+Pokémon: 16
+1 Hoopa DAA 111
+1 Pecharunt PR-SV 149
+1 Liepard BRS 91
+1 Weavile UPR 74
+1 Spiritomb UNB 112
+1 Galarian Zigzagoon SSH 117
+1 Sneasel UPR 73
+1 Galarian Obstagoon SSH 119
+1 Brute Bonnet PAR 123
+1 Purrloin CPA 39
+1 Galarian Weezing RCL 113
+1 Zoroark EVS 103
+1 Zorua SFA 31
+1 Galarian Moltres EVS 93
+1 Koffing SHF 41
+1 Galarian Linoone FST 160
+
+Trainer: 36
+1 Artazon PAF 76
+1 Hisuian Heavy Ball ASR 146
+1 Jacq SVI 175
+1 Dark City UNM 193
+1 Evolution Incense SSH 163
+1 Marnie SSH 169
+1 Super Rod PAL 188
+1 Air Balloon SSH 156
+1 Pokégear 3.0 SVI 186
+1 Guzma BUS 115
+1 Pal Pad SVI 182
+1 Ultra Ball PAF 91
+1 Level Ball BST 129
+1 Dark Patch ASR 139
+1 Switch SVI 194
+1 Binding Mochi PRE 95
+1 Iono PAF 80
+1 Lana's Aid TWM 155
+1 Timer Ball SUM 134
+1 Professor's Research PRE 122
+1 Arven OBF 186
+1 Rescue Board PRE 126
+1 Cynthia UPR 119
+1 Quick Ball SSH 179
+1 Ancient Booster Energy Capsule TEF 140
+1 Perilous Jungle TEF 156
+1 Morty's Conviction TEF 155
+1 Pokémon Communication TEU 152
+1 Buddy-Buddy Poffin PRE 101
+1 Earthen Vessel PRE 106
+1 Tate & Liza CES 148
+1 Klara CRE 145
+1 Boss's Orders PAL 172
+1 Nest Ball PAF 84
+1 Field Blower GRI 125
+1 Piers DAA 165
+
+Energy: 2
+1 Hiding {D} Energy DAA 175
+7 Basic {D} Energy SVE 7
+
+Total Cards: 60
