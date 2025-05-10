@@ -1,0 +1,35 @@
+Pokémon: 10
+1 Noivern ex PAF 69
+2 Munkidori TWM 95
+4 Noibat PAL 152
+2 Froslass TWM 53
+4 Noivern JTG 128
+1 Bloodmoon Ursaluna ex TWM 141
+1 Budew PRE 4
+2 Snorunt TWM 51
+1 Cleffa OBF 80
+1 Maractus JTG 8
+
+Trainer: 16
+2 Super Rod PAL 188
+3 Ultra Ball SVI 196
+4 Iono PAL 185
+1 Night Stretcher SFA 61
+2 Judge SVI 176
+1 Technical Machine: Devolution PAR 177
+4 Buddy-Buddy Poffin TEF 144
+4 Arven OBF 186
+2 Pokégear 3.0 SVI 186
+1 Earthen Vessel PAR 163
+1 Unfair Stamp TWM 165
+1 Boss's Orders PAL 172
+1 Switch SVI 194
+4 Professor's Research PRE 122
+2 Nest Ball SVI 181
+2 Counter Catcher PAR 160
+
+Energy: 2
+2 Reversal Energy PAL 192
+4 Basic {D} Energy SVE 7
+
+Total Cards: 60
