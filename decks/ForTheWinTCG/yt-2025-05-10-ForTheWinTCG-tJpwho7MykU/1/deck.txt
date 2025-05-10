@@ -1,0 +1,60 @@
+Pokémon: 17
+1 Dragapult RCL 91
+1 Dusclops PRE 36
+1 Dusknoir PRE 37
+1 Giratina LOT 97
+1 Malamar FLI 51
+1 Xatu PAR 72
+1 Kirlia SIT 68
+1 Dreepy SIT 87
+1 Drakloak SIT 88
+1 Duskull BUS 51
+1 Natu CEC 78
+1 Inkay FLI 50
+1 Mew UNB 76
+1 Gardevoir CRE 61
+1 Blacephalon CEC 104
+1 Mimikyu GRI 58 PH
+1 Ralts SIT 67
+
+Trainer: 33
+1 Fog Crystal CRE 140
+1 Mysterious Treasure FLI 113
+1 Altar of the Moone GRI 117
+1 Spell Tag LOT 190
+1 Level Ball BST 129
+1 Hisuian Heavy Ball ASR 146
+1 Nest Ball SVI 181
+1 Quick Ball FST 237
+1 Evolution Incense SSH 163
+1 Ultra Ball CRZ 146
+1 Rare Candy SVI 191
+1 Cynthia UPR 119
+1 Iono PAL 185
+1 Marnie CPA 56
+1 Professor's Research PRE 122
+1 Ball Guy SHF 57
+1 Boss's Orders SHF 58
+1 Guzma BUS 115
+1 Air Balloon SSH 156
+1 Rosa CEC 204
+1 Morty's Conviction TEF 155
+1 Earthen Vessel PRE 106
+1 Energy Spinner UNB 170
+1 Counter Catcher PAR 160
+1 Counter Gain SSP 169
+1 Pal Pad SVI 182
+1 Rescue Stretcher GRI 130
+1 Super Rod PAL 188
+1 Field Blower GRI 125
+1 Buddy-Buddy Poffin PRE 101
+1 Artazon PAL 171
+1 Gladion CIN 95
+1 U-Turn Board UNM 211
+
+Energy: 3
+8 Basic {P} Energy SVE 13
+1 Counter Energy CIN 100
+1 Horror {P} Energy RCL 172
+
+Total Cards: 60
