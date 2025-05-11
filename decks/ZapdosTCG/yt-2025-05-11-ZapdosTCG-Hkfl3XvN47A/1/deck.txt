@@ -1,0 +1,26 @@
+Pokémon: 16
+4 Dunsparce PAL 156
+4 Dudunsparce TEF 129
+4 Roaring Moon TEF 109
+2 Roaring Moon ex PAR 124
+2 Fan Rotom SCR 118
+
+Trainer: 38
+4 Professor Sada's Vitality PAR 170
+4 Explorer's Guidance TEF 147
+2 Boss's Orders PAL 172
+4 Great Ball PAL 183
+4 Buddy-Buddy Poffin TEF 144
+4 Earthen Vessel PAR 163
+4 Ultra Ball SVI 196
+2 Energy Switch SVI 173
+1 Counter Catcher PAR 160
+1 Super Rod PAL 188
+4 Ancient Booster Energy Capsule TEF 140
+3 Artazon PAL 171
+1 Neutralization Zone SFA 60
+
+Energy: 6
+6 Basic {D} Energy SVE 7
+
+Total Cards: 60

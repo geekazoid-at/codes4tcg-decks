@@ -1,0 +1,31 @@
+Pokémon: 17
+3 Ralts SVI 84
+2 Kirlia SVI 85
+3 Gardevoir ex SVI 86
+3 Munkidori TWM 95
+2 Scream Tail PAR 86
+1 Drifloon SVI 89
+1 Lillie's Clefairy ex JTG 56
+1 Mew ex MEW 151
+1 Budew PRE 4
+
+Trainer: 33
+4 Arven OBF 186
+4 Professor's Research JTG 155
+3 Iono PAL 185
+4 Night Stretcher SFA 61
+4 Ultra Ball SVI 196
+2 Buddy-Buddy Poffin TEF 144
+2 Rare Candy SVI 191
+1 Brilliant Blender SSP 164
+1 Counter Catcher PAR 160
+1 Earthen Vessel PAR 163
+4 Bravery Charm PAL 173
+1 Technical Machine: Evolution PAR 178
+2 Artazon PAL 171
+
+Energy: 10
+7 Basic {P} Energy SVE 5
+3 Basic {D} Energy SVE 7
+
+Total Cards: 60

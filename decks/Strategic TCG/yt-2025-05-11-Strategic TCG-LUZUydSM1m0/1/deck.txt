@@ -1,0 +1,39 @@
+Pokémon: 14
+1 Salamence ex JTG 187
+3 Teal Mask Ogerpon ex PRE 145
+1 Noivern ex PAF 220
+3 Regidrago V SIT 184
+1 Dragapult ex PRE 165
+1 Dedenne-GX UNB 195
+3 Regidrago VSTAR SIT 136
+1 N's Reshiram JTG 167
+1 Dialga-GX UPR 146
+1 Noivern-GX HIF 147
+1 Crobat V LOR-TG 20
+1 Kyurem SFA 47
+1 Duraludon VMAX EVS 220
+1 Hisuian Goodra VSTAR LOR 136
+
+Trainer: 16
+1 Hisuian Heavy Ball ASR 146
+1 Field Blower GRI 163
+1 Professor Turo's Scenario PAR 257
+2 Earthen Vessel SFA 96
+1 Choice Belt ASR 211
+1 Prime Catcher TEF 157
+2 Iono PAF 237
+4 Mysterious Treasure FLI 145
+3 Guzma HIF 153
+4 Energy Switch SIT 212
+1 Night Stretcher SSP 251
+2 Professor's Research CEL 24
+4 Quick Ball SSH 216
+1 Energy Retrieval AOR 99
+1 Air Balloon SSH 213
+1 Chaotic Swell CEC 187
+
+Energy: 2
+3 Basic {R} Energy BUS 167
+7 Basic {G} Energy PAL 278
+
+Total Cards: 60
