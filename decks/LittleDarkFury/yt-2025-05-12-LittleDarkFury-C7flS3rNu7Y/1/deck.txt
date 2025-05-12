@@ -1,0 +1,37 @@
+Pokémon: 10
+2 N's Zoroark ex JTG 98
+2 Greninja ex TWM 106
+2 Froakie OBF 56
+2 N's Zorua JTG 97
+1 Frogadier TWM 57
+2 Combusken JTG 23
+1 Munkidori PRE 44
+3 Blaziken ex JTG 24
+4 Torchic JTG 22
+1 Lillie's Clefairy ex JTG 56
+
+Trainer: 16
+2 Buddy-Buddy Poffin PRE 101
+1 Professor's Research JTG 155
+2 Morty's Conviction TEF 155
+1 Precious Trolley SSP 185
+1 Nest Ball SVI 181
+4 Rare Candy PAF 89
+1 Earthen Vessel PRE 106 PH
+1 Switch SVI 194
+2 Boss's Orders PAL 172
+3 Ultra Ball PAF 91
+2 Night Stretcher SFA 61
+3 Iono PAL 185
+4 Arven SVI 166
+2 Technical Machine: Evolution PAR 178
+1 Jacq SVI 175
+1 Counter Catcher PAR 160
+
+Energy: 4
+3 Basic {R} Energy BUS 167
+2 Basic {D} Energy BUS 168
+3 Basic {W} Energy CIN 124
+1 Basic {P} Energy SUM 162
+
+Total Cards: 60
