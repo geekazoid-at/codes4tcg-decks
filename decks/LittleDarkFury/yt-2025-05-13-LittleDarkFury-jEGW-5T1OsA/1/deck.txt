@@ -1,0 +1,38 @@
+Pokémon: 9
+1 Fezandipiti ex SFA 38
+2 Meowscarada ex PAL 15
+4 Drakloak TWM 129
+4 Dreepy TWM 128
+1 Munkidori TWM 95
+2 Sprigatito SVI 13
+2 Budew PRE 4
+1 Floragato PAL 14
+2 Dragapult ex PRE 73
+
+Trainer: 17
+1 Earthen Vessel PRE 106
+1 Jacq SVI 175
+2 Rare Candy SVI 191
+3 Ultra Ball SVI 196
+4 Iono PAF 80
+2 Night Stretcher SFA 61
+1 Crispin PRE 105
+1 Technical Machine: Devolution PAR 177
+4 Buddy-Buddy Poffin TEF 144
+1 Rescue Board TEF 159
+1 Pokémon League Headquarters OBF 192
+4 Arven OBF 186
+2 Counter Catcher PAR 160
+1 Energy Retrieval SVI 171
+1 Boss's Orders PAL 172
+1 Professor's Research JTG 155
+1 Nest Ball SVI 181
+
+Energy: 5
+2 Basic {R} Energy SVE 2
+3 Basic {G} Energy SVE 1
+1 Basic {D} Energy SVE 7
+3 Basic {P} Energy SVE 5
+1 Neo Upper Energy TEF 162
+
+Total Cards: 60
