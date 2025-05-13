@@ -1,0 +1,34 @@
+Pokémon: 6
+2 Cornerstone Mask Ogerpon ex PRE 58
+2 Munkidori TWM 95
+2 Hop's Cramorant JTG 138
+1 Iron Bundle PAR 56
+4 Okidogi TWM 111
+1 Bloodmoon Ursaluna ex TWM 141
+
+Trainer: 16
+2 Hop's Choice Band JTG 148
+1 Exp. Share SVI 174
+3 Crispin SCR 133
+2 Artazon PAF 76
+1 Technical Machine: Devolution PAR 177
+2 Night Stretcher SFA 61
+4 Colress's Tenacity SFA 57
+3 Iono PAF 80
+1 Town Store OBF 196
+4 Pokégear 3.0 SVI 186
+2 Professor's Research PRE 122
+2 Penny SVI 183
+4 Nest Ball SVI 181
+1 Rescue Board TEF 159
+2 Bravery Charm PAL 173
+2 Boss's Orders PAL 172
+
+Energy: 5
+4 Basic {F} Energy SVE 14
+2 Basic {D} Energy SVE 15
+1 Basic {P} Energy SVE 13
+1 Legacy Energy TWM 167
+4 Luminous Energy PAL 191
+
+Total Cards: 60
