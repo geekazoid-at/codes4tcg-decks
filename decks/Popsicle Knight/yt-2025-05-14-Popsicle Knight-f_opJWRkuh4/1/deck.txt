@@ -1,0 +1,36 @@
+Pokémon: 12
+1 N's Joltik JTG 49
+2 N's Klinklang JTG 105 PH
+3 N's Zorua JTG 97
+1 N's Klang JTG 104
+2 N's Darmanitan JTG 27
+2 N's Klink JTG 103
+1 Fezandipiti ex SFA 38
+3 N's Zoroark ex JTG 98
+1 N's Purrloin JTG 96
+2 N's Darumaka JTG 26
+1 Pecharunt ex SFA 39
+1 N's Reshiram JTG 116
+
+Trainer: 15
+2 Counter Catcher PAR 160
+1 Unfair Stamp TWM 165
+2 Night Stretcher SFA 61
+2 Nest Ball SVI 181
+1 Boss's Orders PAL 172
+4 Iono PAL 185
+4 Arven SVI 166
+1 Technical Machine: Evolution PAR 178
+1 Super Rod PAL 188
+2 N's Castle JTG 152
+3 N's PP Up JTG 153
+2 Rare Candy PAF 89
+3 Buddy-Buddy Poffin PRE 101
+3 Ultra Ball SVI 196
+1 Earthen Vessel PAR 163
+
+Energy: 2
+2 Reversal Energy PAL 192
+6 Basic {D} Energy SVE 15
+
+Total Cards: 60
