@@ -1,0 +1,32 @@
+Pokémon: 6
+2 Hydreigon ex SSP 119
+2 Tatsugiri ex SSP 226
+2 Tatsugiri ex SSP 142
+4 Dragapult ex TWM 130
+4 Pidgeot ex OBF 164
+2 Hydreigon ex SSP 240
+
+Trainer: 13
+4 Crispin PRE 105
+2 Counter Gain SSP 169
+1 Exp. Share SVI 174
+4 Counter Catcher PAR 160
+2 Iono PAF 80
+1 Redeemable Ticket JTG 156
+4 Pokégear 3.0 SVI 186
+1 Sparkling Crystal SCR 142
+1 Nest Ball SVI 181
+1 Rescue Board TEF 159
+2 Boss's Orders PAL 172 PH
+4 Earthen Vessel PAR 163 PH
+4 Arven SVI 166
+
+Energy: 6
+2 Basic {W} Energy SVE 11
+2 Basic {D} Energy SVE 15
+2 Basic {R} Energy SVE 10
+2 Basic {P} Energy SVE 13
+4 Luminous Energy PAL 191
+1 Basic {M} Energy SVE 16
+
+Total Cards: 60
