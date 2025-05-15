@@ -1,0 +1,32 @@
+Pokémon: 9
+3 N's Zoroark ex JTG 98
+3 N's Zorua JTG 97
+2 Pecharunt ex SFA 39
+3 Palafin ex TWM 61
+2 Budew PRE 4
+2 Palafin TWM 60
+3 Finizen TWM 59
+1 Fezandipiti ex SFA 38
+1 Bloodmoon Ursaluna ex TWM 141
+
+Trainer: 15
+1 Defiance Band SVI 169
+4 Brock's Scouting JTG 146
+4 Professor's Research PRE 122
+4 Iono PAL 185
+3 Boss's Orders PAL 172
+1 Prime Catcher PRE 119
+1 Counter Catcher PAR 160
+1 Rescue Board PRE 126
+1 Professor Turo's Scenario PRE 121
+1 Kieran PRE 113
+4 Buddy-Buddy Poffin TEF 144
+2 Nest Ball SVI 181
+4 Ultra Ball PAF 91
+2 Super Rod PAL 188
+3 N's Castle JTG 152
+
+Energy: 1
+4 Basic {W} Energy SVE 3
+
+Total Cards: 60

@@ -1,0 +1,38 @@
+Pokémon: 17
+4 Ethan’s Cyndaquil DRI 32
+4 Ethan’s Quilava DRI 33
+3 Ethan’s Typhlosion DRI 34
+2 Victini SSP 21
+1 Budew PRE 4
+1 Shaymin DRI 10
+1 Fezandipiti ex SFA 38
+1 Tatsugiri TWM 131
+
+Trainer: 38
+4 Ethan’s Adventure DRI 165
+2 Professor's Research JTG 155
+2 Boss's Orders PAL 172
+2 Arven OBF 186
+2 Iono PAL 185
+1 Kieran TWM 154
+1 Lana's Aid TWM 155
+4 Buddy-Buddy Poffin TEF 144
+4 Ultra Ball SVI 196
+2 Night Stretcher SFA 61
+2 Rare Candy SVI 191
+1 Redeemable Ticket JTG 156
+1 Pal Pad SVI 182
+1 Pokégear 3.0 SVI 186
+1 Picnic Basket SVI 184
+1 Super Rod PAL 188
+1 Counter Catcher PAR 160
+1 Secret Box TWM 163
+1 Vengeful Punch OBF 197
+1 Rescue Board TEF 159
+2 Gravity Mountain SSP 177
+1 Artazon PAL 171
+
+Energy: 5
+5 Basic {R} Energy SVE 2
+
+Total Cards: 60

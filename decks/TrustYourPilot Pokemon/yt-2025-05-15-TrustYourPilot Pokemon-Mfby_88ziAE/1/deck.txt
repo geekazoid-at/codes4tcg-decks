@@ -1,0 +1,35 @@
+Pokémon: 20
+4 Marnie’s Impidimp DRI 134
+3 Marnie’s Morgrem DRI 135
+3 Marnie’s Grimmsnarl ex DRI 136
+3 Munkidori TWM 95
+2 Snorunt PAR 37
+2 Froslass TWM 53
+1 Budew PRE 4
+1 Iron Bundle PAR 56
+1 Maractus JTG 8
+
+Trainer: 32
+4 Arven OBF 186
+4 Iono PAL 185
+3 Professor's Research JTG 155
+1 Boss's Orders PAL 172
+2 Counter Catcher PAR 160
+2 Night Stretcher SFA 61
+2 Buddy-Buddy Poffin TEF 144
+1 Secret Box TWM 163
+1 Earthen Vessel PAR 163
+1 Super Rod PAL 188
+1 Ultra Ball SVI 196
+1 Rare Candy SVI 191
+2 Technical Machine: Evolution PAR 178
+1 Defiance Band SVI 169
+1 Rescue Board TEF 159
+1 Technical Machine: Devolution PAR 177
+2 Artazon PAL 171
+2 Spikemuth Gym DRI 169
+
+Energy: 8
+8 Basic {D} Energy SVE 7
+
+Total Cards: 60
