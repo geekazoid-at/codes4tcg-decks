@@ -1,0 +1,37 @@
+Pokémon: 12
+1 Boltund V BRS-TG 13
+1 Raichu & Alolan Raichu-GX UNM 221
+2 Dedenne-GX SMALT 156
+1 Pikachu V-UNION PR-SW 142
+1 Pikachu V-UNION PR-SW 140
+1 Pikachu V-UNION PR-SW 141
+1 Miraidon ex SVI 244
+1 Tapu Koko {*} TEU 51
+1 Pikachu V-UNION PR-SW 139
+1 Pikachu & Zekrom-GX SMP 168
+1 Zeraora-GX LOT 201
+1 Vikavolt V DAA 180
+
+Trainer: 17
+1 Brilliant Blender SSP 164
+4 Volkner UPR 135
+1 Hisuian Heavy Ball ASR 146
+2 Guzma BUS 143
+4 Quick Ball SSH 216
+1 Air Balloon SSH 213
+1 Rescue Stretcher BUS 165
+1 Choice Belt ASR 211
+2 Escape Rope BUS 163
+3 Iono PAL 254
+1 Forest Seal Stone SIT 156
+4 Electric Generator PAF 79
+1 Field Blower GRI 163
+4 Electropower LOT 232
+1 Stormy Mountains EVS 232
+1 Thunder Mountain {*} LOT 191
+1 Professor's Research SSH 201
+
+Energy: 1
+14 Basic {L} Energy GRI 168
+
+Total Cards: 60
