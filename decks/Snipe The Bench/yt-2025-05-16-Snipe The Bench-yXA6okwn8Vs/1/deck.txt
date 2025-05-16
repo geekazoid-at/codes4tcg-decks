@@ -1,0 +1,36 @@
+Pokémon: 8
+2 Varoom SFA 43
+2 Revavroom ex OBF 156
+2 Steven's Metang SV 10 144
+1 Fezandipiti ex SFA 38
+2 Steven's Beldum SV 10 143
+1 Steven's Beldum PR-SV 207
+2 Steven's Metagross ex SV 10 145
+1 Lillie's Clefairy ex JTG 56
+
+Trainer: 19
+3 Ultra Ball SVI 196
+1 Switch SVI 194
+1 Professor's Research SVI 190
+1 Rare Candy SVI 191
+1 Earthen Vessel PAR 163
+4 Buddy-Buddy Poffin TEF 144
+2 Full Metal Lab TEF 148
+4 Iono PAL 185
+1 Professor Turo's Scenario PAR 171
+1 Energy Recycler SV 10 164
+2 Lucky Helmet TWM 158
+2 Night Stretcher SFA 61
+2 Technical Machine: Evolution PAR 178
+1 Hero's Cape TEF 152
+1 Pokégear 3.0 SVI 186
+2 Nest Ball SVI 181
+2 Rigid Band MEW 165 PH
+4 Arven SVI 166
+2 Boss's Orders PAL 172
+
+Energy: 2
+4 Basic {P} Energy SVE 13
+6 Basic {M} Energy SVE 16
+
+Total Cards: 60
