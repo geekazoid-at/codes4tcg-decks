@@ -1,0 +1,35 @@
+Pokémon: 14
+3 Steven's Beldum SVOD 5
+3 Steven's Metang SVOD 6
+2 Steven's Metagross ex SVOD 7
+3 Munkidori PRE 44
+1 Lillie's Clefairy ex JTG 56
+1 Mew ex MEW 151
+1 Fezandipiti ex SFA 38
+
+Trainer: 35
+4 Arven OBF 186
+4 Iono PAF 80
+3 Professor's Research JTG 155
+2 Nest Ball PAF 84
+2 Ultra Ball PAF 91
+2 Buddy-Buddy Poffin PRE 101
+2 Counter Catcher PAR 160
+2 Night Stretcher SFA 61
+1 Super Rod PAL 188
+1 Energy Recycler BST 124
+1 Earthen Vessel PRE 106
+1 Rare Candy PAF 89
+1 Secret Box TWM 163
+2 Technical Machine: Evolution PAR 178
+2 Bravery Charm PAL 173
+1 Defiance Band SVI 169
+2 Granite Cave SVOD 18
+2 Artazon PAF 76
+
+Energy: 11
+4 Basic {M} Energy SVE 8
+4 Basic {P} Energy SVE 5
+3 Basic {D} Energy SVE 7
+
+Total Cards: 60

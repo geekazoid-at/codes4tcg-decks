@@ -1,0 +1,33 @@
+Pokémon: 9
+1 Maractus JTG 8
+2 Marnie's Grimmsnarl ex SV 10 136
+3 Munkidori TWM 95
+4 Marnie's Impidimp SV 10 134
+2 Snorunt TWM 51
+2 Froslass TWM 53
+1 Cleffa OBF 80
+1 Budew PRE 4
+3 Marnie's Morgrem SV 10 135
+
+Trainer: 16
+2 Counter Catcher PAR 160
+2 Spikemuth Gym SV 10 169
+1 Hero's Cape TEF 152
+2 Ultra Ball PAF 91
+2 Pokégear 3.0 SVI 186
+2 Artazon PAL 171
+1 Boss's Orders PAL 172
+4 Iono PAL 185
+4 Arven SVI 166
+1 Technical Machine: Devolution PAR 177
+2 Technical Machine: Evolution PAR 178
+2 Super Rod PAL 188
+3 Professor's Research JTG 155
+1 Rare Candy PAF 89
+3 Buddy-Buddy Poffin PRE 101
+1 Rescue Board PRE 126
+
+Energy: 1
+8 Basic {D} Energy SVE 15
+
+Total Cards: 60

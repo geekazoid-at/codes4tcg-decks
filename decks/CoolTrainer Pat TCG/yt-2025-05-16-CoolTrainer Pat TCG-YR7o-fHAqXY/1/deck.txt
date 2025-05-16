@@ -1,0 +1,43 @@
+Pokémon: 13
+4 Shelmet JTG 12
+3 Accelgor JTG 13
+1 Accelgor JTG 13 PH
+2 Mimikyu PAF 37 PH
+1 Pecharunt PR-SV 149
+1 Larvitar OBF 105
+1 Pupitar PAL 111 PH
+1 Tyranitar JTG 95
+1 Cornerstone Mask Ogerpon ex TWM 215
+1 Munkidori SFA 72
+1 Squawkabilly ex PAL 264
+1 Latias ex SSP 76
+1 Fezandipiti ex SFA 92
+
+Trainer: 19
+1 Nest Ball SVI 255
+1 Nest Ball SUM 158
+3 Buddy-Buddy Poffin TWM 223
+3 Ultra Ball BRS 186
+1 Night Stretcher SSP 251
+1 Super Rod PAL 276
+1 Earthen Vessel SFA 96
+2 Rescue Board TEF 159
+1 Technical Machine: Evolution PAR 178
+1 Technical Machine: Devolution PAR 177
+1 Counter Gain SSP 169
+4 Arven PAF 235
+2 Boss's Orders RCL 189
+1 Professor's Research CEL 24
+2 Iono PAF 237
+2 Crispin PRE 171
+1 Neutralization Zone SFA 60
+1 Practice Studio PAL 186
+1 Counter Catcher PAR 264
+
+Energy: 4
+6 Basic {G} Energy SVE 1 PH
+3 Basic {D} Energy SVE 7 PH
+1 Basic {F} Energy SVE 6 PH
+1 Jet Energy SSP 252
+
+Total Cards: 60

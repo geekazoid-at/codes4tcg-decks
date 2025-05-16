@@ -1,0 +1,37 @@
+Pokémon: 11
+3 Steven's Metagross ex SV 10 145
+1 Steven's Carbink SV 10 86
+3 Steven's Beldum SV 10 143
+1 Steven's Metang SV 10 144
+2 Pidgeot ex OBF 164
+1 Cleffa OBF 80
+1 Fezandipiti ex SFA 38
+1 Pidgeotto MEW 17
+2 Pidgey OBF 162
+2 Munkidori PRE 44
+1 Lillie's Clefairy ex JTG 56
+
+Trainer: 16
+2 Granite Cave SV 10 166
+1 Hero's Cape TEF 152
+4 Arven SVI 166
+4 Rare Candy PAF 89
+1 Artazon PAF 76
+2 Boss's Orders PAL 172
+3 Buddy-Buddy Poffin PRE 101
+1 Professor Turo's Scenario PRE 121
+1 Counter Catcher PAR 160
+1 Jacq SVI 175
+3 Iono PAL 185
+1 Super Rod PAL 188
+3 Ultra Ball SVI 196
+1 Professor's Research PRE 122
+1 Technical Machine: Evolution PAR 178
+2 Nest Ball PAF 84
+
+Energy: 3
+5 Basic {M} Energy SUM 163
+4 Basic {P} Energy SUM 162
+2 Basic {D} Energy BUS 168
+
+Total Cards: 60

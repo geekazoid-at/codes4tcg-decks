@@ -1,0 +1,31 @@
+Pokémon: 9
+1 Latias ex SSP 76
+1 Hop's Cramorant JTG 138
+3 Duraludon SCR 106
+3 Archaludon ex SSP 130
+1 Fezandipiti ex SFA 38
+2 Varoom SFA 43
+2 Revavroom SVI 142
+2 Hop's Snorlax JTG 117
+2 Hop's Zacian ex JTG 111
+
+Trainer: 14
+1 Counter Catcher PAR 160
+1 Scoop Up Cyclone TWM 162
+3 Hop's Choice Band JTG 148
+2 Hop's Bag JTG 147
+2 Night Stretcher SFA 61
+4 Nest Ball SVI 181
+1 Boss's Orders PAL 172
+2 Iono PAL 185
+3 Arven SVI 166
+1 Professor Turo's Scenario PAR 171
+3 Postwick JTG 154
+4 Professor's Research JTG 155
+4 Ultra Ball SVI 196
+2 Earthen Vessel PAR 163
+
+Energy: 1
+10 Basic {M} Energy SVE 16
+
+Total Cards: 60
