@@ -1,0 +1,34 @@
+Pokémon: 10
+1 Steven's Skarmory DRI 142
+2 Steven's Metang DRI 144
+2 Steven's Baltoy DRI 83
+2 Steven's Claydol DRI 84
+1 Steven's Carbink DRI 86
+4 Steven's Beldum DRI 143
+3 Steven's Metagross ex DRI 145
+1 Fezandipiti ex SFA 38
+1 Lillie's Clefairy ex JTG 56
+1 Mew ex MEW 151
+
+Trainer: 15
+2 Granite Cave DRI 166
+4 Ultra Ball SVI 196
+1 Switch SVI 194
+2 Rare Candy SVI 191
+1 Earthen Vessel PAR 163
+4 Buddy-Buddy Poffin TEF 144
+3 Iono PAL 185
+2 Super Rod PAL 188
+1 Technical Machine: Evolution PAR 178
+3 Professor's Research PRE 122
+1 Prime Catcher TEF 157
+2 Nest Ball SVI 181
+1 Rescue Board TEF 159
+4 Arven SVI 166
+2 Boss's Orders PAL 172
+
+Energy: 2
+5 Basic {P} Energy SVE 13
+4 Basic {M} Energy SVE 16
+
+Total Cards: 60
