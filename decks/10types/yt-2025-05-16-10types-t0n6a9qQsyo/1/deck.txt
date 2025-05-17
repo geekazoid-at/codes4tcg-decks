@@ -1,0 +1,35 @@
+Pokémon: 8
+3 Munkidori TWM 95
+2 Steven's Metang SV 10 144
+1 Fezandipiti ex SFA 38
+1 Mew ex MEW 151
+3 Steven's Beldum SV 10 143
+1 Lillie's Clefairy ex JTG 56
+1 Steven's Carbink SV 10 86
+2 Steven's Metagross ex SV 10 145
+
+Trainer: 16
+1 Counter Catcher PAR 160
+3 Granite Cave SV 10 166
+1 Prime Catcher TEF 157
+2 Pokégear 3.0 SVI 186
+1 Rescue Board TEF 159
+4 Nest Ball SVI 181
+3 Arven OBF 186
+1 Boss's Orders PAL 172
+4 Iono PAL 185
+1 Professor Turo's Scenario PAR 171
+1 Technical Machine: Evolution PAR 178
+2 Super Rod PAL 188
+1 Earthen Vessel PRE 106
+2 Buddy-Buddy Poffin TEF 144
+4 Ultra Ball SVI 196
+3 Rare Candy SVI 191
+
+Energy: 4
+1 Luminous Energy PAL 191
+3 Basic {D} Energy SVE 15
+4 Basic {P} Energy SVE 13
+4 Basic {M} Energy SVE 16
+
+Total Cards: 60
