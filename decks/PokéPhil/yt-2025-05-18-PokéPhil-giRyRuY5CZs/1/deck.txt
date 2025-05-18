@@ -1,0 +1,41 @@
+Pokémon: 10
+1 Charmander MEW 4
+1 Charmeleon MEW 5
+4 Drakloak TWM 129
+4 Dreepy TWM 128
+1 Hawlucha SVI 118
+1 Fezandipiti ex SFA 38
+1 Budew PRE 4
+1 Charmander PR-SV 47
+2 Dragapult ex TWM 130
+2 Charizard ex OBF 125
+
+Trainer: 21
+2 Counter Catcher PAR 160
+1 Pokémon League Headquarters OBF 192
+1 Tera Orb SSP 189
+1 Unfair Stamp TWM 165
+1 Jacq SVI 175
+1 Night Stretcher SFA 61
+1 Rescue Board TEF 159
+2 Nest Ball SVI 181
+4 Arven OBF 186
+2 Boss's Orders PAL 172
+1 Jamming Tower TWM 153
+3 Iono PAL 185
+1 Professor Turo's Scenario PAR 171
+1 Technical Machine: Evolution PAR 178
+1 Super Rod PAL 188
+1 Professor's Research JTG 155
+1 Defiance Band SVI 169
+4 Buddy-Buddy Poffin TEF 144
+2 Ultra Ball SVI 196
+2 Rare Candy SVI 191
+1 Earthen Vessel PAR 163
+
+Energy: 3
+5 Basic {R} Energy SVE 10
+1 Luminous Energy PAL 191
+2 Basic {P} Energy SVE 13
+
+Total Cards: 60

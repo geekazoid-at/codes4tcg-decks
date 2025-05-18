@@ -1,0 +1,26 @@
+Pokémon: 13
+4 Team Rocket's Porygon Porygon DRI 153
+4 Team Rocket's PORYGON 2 DRI 154
+4 Team Rocket's Porygon-Z Porygon-Z DRI 155
+1 Team Rocket's Articuno DRI 51
+
+Trainer: 39
+4 Team Rocket's Proton Proton DRI 177
+4 Team Rocket's Giovanni Giovanni DRI 174
+4 Team Rocket's Ariana DRI 171
+4 Team Rocket's Archer DRI 170
+4 Team Rocket's Petrel DRI 176
+4 Ultra Ball SVI 196
+4 Team Rocket's Transceiver DRI 178
+3 Night Stretcher SFA 61
+2 Rare Candy SVI 191
+1 Brilliant Blender SSP 164
+1 Sacred Ash FLF 96
+1 Hand Trimmer TEF 150
+3 Team Rocket's Factory DRI 173
+
+Energy: 8
+4 Team Rocket's Energy DRI 182
+4 Reversal Energy PAL 192
+
+Total Cards: 60
