@@ -1,0 +1,24 @@
+Pokémon: 4
+4 Beldum TEF 113
+4 Metang TEF 114
+4 Heatran TWM 123
+2 Regigigas PRE 86
+
+Trainer: 12
+2 Super Rod PAL 188
+2 Artazon PAL 171
+1 Hyper Aroma TWM 152
+4 Energy Recycler SV 10 164
+1 Technical Machine: Evolution PAR 178
+2 Buddy-Buddy Poffin TEF 144
+4 Iono PAL 185
+1 Pokégear 3.0 SVI 186
+1 Boss's Orders PAL 172 PH
+3 Professor's Research PRE 122
+2 Nest Ball PAF 84
+4 Arven OBF 186
+
+Energy: 1
+19 Basic {M} Energy SUM 163
+
+Total Cards: 60

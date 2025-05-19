@@ -1,0 +1,28 @@
+Pokémon: 7
+3 Koraidon TEF 119 PH
+1 Brute Bonnet PAR 123
+4 Roaring Moon TEF 109
+1 Munkidori PRE 44
+1 Flutter Mane TEF 78
+4 Walking Wake TWM 63
+1 Iron Bundle PAR 56 PH
+
+Trainer: 13
+4 Ultra Ball SVI 196
+4 Earthen Vessel PAR 163 PH
+1 Secret Box TWM 163
+1 Superior Energy Retrieval PAL 189 PH
+2 Super Rod PAL 188 PH
+4 Pokégear 3.0 SVI 186
+4 Professor Sada's Vitality PRE 120
+3 Artazon PAL 171
+1 Pal Pad SVI 182
+2 Boss's Orders PAL 172
+4 Lucky Helmet TWM 158
+4 Ancient Booster Energy Capsule PAR 159
+4 Explorer's Guidance PRE 107
+
+Energy: 1
+7 Basic {D} Energy SVE 15
+
+Total Cards: 60
