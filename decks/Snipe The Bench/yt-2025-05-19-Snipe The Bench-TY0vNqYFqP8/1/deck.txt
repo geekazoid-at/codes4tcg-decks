@@ -1,0 +1,23 @@
+Pokémon: 7
+2 Varoom SFA 43
+4 Beldum TEF 113
+4 Metang TEF 114
+3 Heatran TWM 123
+2 Revavroom PAF 65
+1 Regigigas PRE 86 PH
+1 Mew ex MEW 193
+
+Trainer: 8
+4 Ultra Ball SVI 196
+3 Jacq SVI 175
+4 Super Rod PAL 276
+1 Hyper Aroma TWM 152
+4 Artazon OBF 229
+4 Buddy-Buddy Poffin TWM 223
+4 Nest Ball SVI 181
+4 Energy Recycler BST 124
+
+Energy: 1
+15 Basic {M} Energy SVE 16
+
+Total Cards: 60
