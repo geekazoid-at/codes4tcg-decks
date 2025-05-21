@@ -1,0 +1,34 @@
+Pokémon: 8
+3 Litten TEF 32
+4 Magmar PAF 9
+4 Magmortar JTG 21
+1 Fezandipiti ex SFA 38
+1 Mew ex MEW 151
+2 Torracat TEF 33
+1 Cornerstone Mask Ogerpon ex TWM 112
+3 Incineroar ex TEF 34
+
+Trainer: 17
+1 Counter Catcher PAR 160
+1 Pokémon League Headquarters OBF 192
+1 Precious Trolley SSP 185
+2 Night Stretcher SFA 61
+2 Nest Ball SVI 181
+2 Boss's Orders PAL 172
+1 Jamming Tower TWM 153
+4 Iono PAL 185
+4 Arven SVI 166
+2 Technical Machine: Evolution PAR 178
+2 Professor's Research JTG 155
+2 Earthen Vessel PRE 106
+1 Crispin PRE 105
+2 Buddy-Buddy Poffin TEF 144
+3 Ultra Ball SVI 196
+1 Switch SVI 194
+2 Rare Candy SVI 191
+
+Energy: 2
+6 Basic {R} Energy SVE 10
+2 Basic {F} Energy SVE 14
+
+Total Cards: 60
