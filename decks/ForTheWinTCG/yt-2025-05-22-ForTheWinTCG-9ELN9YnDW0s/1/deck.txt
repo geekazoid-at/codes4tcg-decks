@@ -1,0 +1,30 @@
+Pokémon: 5
+3 Dudunsparce TEF 129
+1 Mimikyu PAL 97
+3 Dunsparce PAL 156
+4 Great Tusk TEF 97
+2 Fan Rotom SCR 118
+
+Trainer: 16
+3 Counter Catcher PAR 160
+1 Xerosic's Machinations SFA 64
+3 Pokégear 3.0 SVI 186
+1 Night Stretcher SFA 61
+2 Pal Pad SVI 182
+3 Nest Ball SVI 181
+3 Artazon PAL 171
+3 Handheld Fan TWM 150
+4 Professor Sada's Vitality PAR 170
+1 Redeemable Ticket JTG 156
+2 Super Rod PAL 188
+2 Crushing Hammer SVI 168
+4 Explorer's Guidance TEF 147
+2 Ultra Ball SVI 196
+1 Neutralization Zone SFA 60
+3 Earthen Vessel PAR 163
+
+Energy: 2
+2 Jet Energy PAL 190
+7 Basic {F} Energy SVE 6
+
+Total Cards: 60
