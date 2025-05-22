@@ -1,0 +1,35 @@
+Pokémon: 9
+3 Marnie's Grimmsnarl ex SV 10 136
+3 Munkidori TWM 95
+3 Marnie's Impidimp SV 10 134
+2 Froslass TWM 53
+2 Budew PRE 4
+1 Eevee ex PRE 75
+2 Snorunt PAR 37
+1 Marnie's Morgrem SV 10 135
+1 Leafeon ex PRE 6
+
+Trainer: 17
+3 Buddy-Buddy Poffin TEF 144
+1 Rescue Board PRE 126
+3 Professor's Research PRE 122
+4 Iono PAF 80
+1 Super Rod PAL 188
+2 Spikemuth Gym SV 10 169
+1 Secret Box TWM 163
+2 Artazon PAL 171
+2 Rare Candy SVI 191
+1 Earthen Vessel PAR 163
+1 Ultra Ball PAF 91
+2 Night Stretcher SFA 61
+4 Arven SVI 166
+1 Technical Machine: Devolution PAR 177
+1 Technical Machine: Evolution PAR 178
+2 Counter Catcher PAR 160
+2 Boss's Orders PAL 172
+
+Energy: 2
+8 Basic {D} Energy BUS 168
+1 Basic {G} Energy GRI 167
+
+Total Cards: 60

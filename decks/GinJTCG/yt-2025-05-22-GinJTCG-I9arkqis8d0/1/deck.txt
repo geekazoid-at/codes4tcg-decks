@@ -1,0 +1,35 @@
+Pokémon: 21
+3 Froakie OBF 56
+1 Frogadier TWM 57
+2 Greninja ex TWM 106
+3 Dunsparce PAL 156
+3 Dudunsparce TEF 129
+3 Torchic JTG 22
+1 Combusken JTG 23
+3 Blaziken ex JTG 24
+1 Munkidori TWM 95
+1 Fezandipiti ex SFA 38
+
+Trainer: 32
+4 Arven OBF 186
+3 Iono PAL 185
+2 Boss's Orders PAL 172
+1 Morty's Conviction TEF 155
+1 Crispin PRE 105
+4 Ultra Ball SVI 196
+4 Rare Candy SVI 191
+3 Buddy-Buddy Poffin TEF 144
+2 Earthen Vessel PAR 163
+2 Night Stretcher SFA 61
+1 Counter Catcher PAR 160
+1 Unfair Stamp TWM 165
+1 Nest Ball SVI 181
+2 Technical Machine: Evolution PAR 178
+1 Artazon PAL 171
+
+Energy: 7
+4 Basic {W} Energy SVE 3
+2 Basic {R} Energy SVE 2
+1 Basic {D} Energy SVE 7
+
+Total Cards: 60

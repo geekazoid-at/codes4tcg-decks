@@ -1,0 +1,36 @@
+Pokémon: 20
+4 Dreepy TWM 128
+4 Drakloak TWM 129
+3 Dragapult ex TWM 130
+2 Budew PRE 4
+1 Fezandipiti ex SFA 38
+1 Bloodmoon Ursaluna ex TWM 141
+1 Latias ex SSP 76
+1 Munkidori TWM 95
+1 Hawlucha SVI 118
+1 Genesect SFA 40
+1 Maractus JTG 8
+
+Trainer: 33
+4 Iono PAL 185
+3 Arven OBF 186
+3 Boss's Orders PAL 172
+3 Brock's Scouting JTG 146
+2 Jacq SVI 175
+4 Buddy-Buddy Poffin TEF 144
+3 Ultra Ball SVI 196
+3 Counter Catcher PAR 160
+2 Night Stretcher SFA 61
+1 Energy Search SVI 172
+1 Unfair Stamp TWM 165
+1 Rescue Board TEF 159
+1 Bravery Charm PAL 173
+1 Exp. Share SVI 174
+1 Defiance Band SVI 169
+
+Energy: 7
+3 Luminous Energy PAL 191
+2 Basic {R} Energy SVE 2
+2 Basic {P} Energy SVE 5
+
+Total Cards: 60
