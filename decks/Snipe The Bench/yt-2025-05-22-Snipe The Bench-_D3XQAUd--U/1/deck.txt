@@ -1,0 +1,33 @@
+Pokémon: 7
+2 Dragapult ex TWM 130
+4 Drakloak TWM 129
+4 Dreepy TWM 128
+2 Flittle PAR 80
+1 Fezandipiti ex SFA 92
+2 Espathra ex PAF 6
+1 Cleffa OBF 80
+
+Trainer: 17
+4 Iono PAL 185
+3 Crispin PRE 105
+2 Pokémon League Headquarters OBF 192
+2 Night Stretcher SFA 61
+2 Boss's Orders RCL 189
+4 Buddy-Buddy Poffin TEF 144
+1 Rigid Band MEW 165
+1 Unfair Stamp TWM 165
+1 Rare Candy SVI 191
+1 Defiance Band SVI 169
+1 Counter Catcher PAR 160
+1 Super Rod PAL 188
+2 Nest Ball SVI 181
+4 Ultra Ball PAF 91
+4 Arven SVI 166
+1 Earthen Vessel PRE 106
+2 Switch SVI 194
+
+Energy: 2
+4 Basic {R} Energy SVE 10
+4 Basic {P} Energy SVE 13
+
+Total Cards: 60

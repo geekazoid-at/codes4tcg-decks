@@ -1,0 +1,39 @@
+Pokémon: 18
+4 Mankey DRI 90
+2 Primeape SVI 108
+2 Annihilape DRI 92
+1 Annihilape SVI 109
+1 Annihilape SSP 100
+2 Duskull SFA 18
+1 Dusclops SFA 19
+1 Dusknoir SFA 20
+2 Budew PRE 4
+1 Fezandipiti ex SFA 38
+1 Relicanth TEF 84
+
+Trainer: 36
+4 Arven SVI 166
+4 Iono PAL 185
+1 Morty's Conviction TEF 155
+1 Iris's Fighting Spirit JTG 149
+1 Boss's Orders PAL 172
+1 Colress's Tenacity SFA 57
+4 Team Rocket’s Venture Bomb DRI 179
+4 Buddy-Buddy Poffin TEF 144
+3 Night Stretcher SFA 61
+3 Rare Candy SVI 191
+2 Ultra Ball SVI 196
+1 Redeemable Ticket JTG 156
+1 Counter Catcher PAR 160
+1 Super Rod PAL 188
+1 Technical Machine: Evolution PAR 178
+1 Rescue Board TEF 159
+1 Calamitous Snowy Mountain PAL 174
+1 Artazon PAL 171
+1 Neutralization Zone SFA 60
+
+Energy: 6
+3 Reversal Energy PAL 192
+3 Basic {F} Energy SVE 6
+
+Total Cards: 60

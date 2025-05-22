@@ -1,0 +1,36 @@
+Pokémon: 24
+4 Dreepy TWM 128
+4 Drakloak TWM 129
+3 Dragapult ex TWM 130
+2 Team Rocket’s Zubat DRI 120
+2 Team Rocket’s Golbat DRI 121
+1 Team Rocket’s Crobat ex DRI 122
+2 Budew PRE 4
+1 Duskull PRE 35
+1 Dusclops PRE 36
+1 Dusknoir PRE 37
+1 Shaymin DRI 10
+1 Fezandipiti ex SFA 38
+1 Squawkabilly ex PAL 169
+
+Trainer: 29
+4 Professor's Research JTG 155
+4 Iono PAL 185
+2 Boss's Orders PAL 172
+1 Jacq SVI 175
+4 Buddy-Buddy Poffin TEF 144
+3 Ultra Ball SVI 196
+3 Night Stretcher SFA 61
+2 Nest Ball SVI 181
+2 Counter Catcher PAR 160
+1 Rare Candy SVI 191
+2 Rescue Board TEF 159
+1 Jamming Tower TWM 153
+
+Energy: 7
+3 Basic {P} Energy SVE 5
+2 Basic {R} Energy SVE 2
+1 Luminous Energy PAL 191
+1 Neo Upper Energy TEF 162
+
+Total Cards: 60
