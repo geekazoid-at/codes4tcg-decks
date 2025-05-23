@@ -1,0 +1,35 @@
+Pokémon: 8
+1 Doublade PAR 132 PH
+1 Squawkabilly ex PAL 264
+2 Aegislash PAR 134 PH
+2 Doublade PAR 132
+3 Honedge PAR 131
+1 Aegislash PAR 134
+2 Tatsugiri TWM 131
+1 Honedge PAR 131 PH
+
+Trainer: 17
+4 Boss's Orders RCL 189
+1 Luxurious Cape PAR 166
+1 Super Rod PAL 276
+3 Pokémon League Headquarters OBF 192 PH
+1 Earthen Vessel SFA 96
+2 Rare Candy SVI 256
+1 Prime Catcher TEF 157
+1 Luxurious Cape PAR 166 PH
+4 Nest Ball SVI 181
+2 Technical Machine: Evolution PAR 178 PH
+4 Arven PAF 235
+4 Iono PAF 237
+4 Ultra Ball BRS 186
+1 Counter Catcher PAR 264
+1 Rare Candy PAF 89 PH
+1 Rescue Board TEF 159 PH
+2 Professor's Research CEL 24
+
+Energy: 3
+5 Basic {M} Energy SVE 8 PH
+1 Basic {M} Energy SFA 99
+4 Mist Energy TEF 161
+
+Total Cards: 60

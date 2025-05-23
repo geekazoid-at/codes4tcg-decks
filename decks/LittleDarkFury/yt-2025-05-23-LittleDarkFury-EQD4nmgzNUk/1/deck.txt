@@ -1,0 +1,36 @@
+Pokémon: 9
+4 Maushold ex PAR 155
+2 Rockruff TEF 89
+1 Munkidori TWM 95
+1 Fezandipiti ex SFA 38
+2 Lycanroc JTG 85
+1 Maushold PAF 74
+1 Lillie's Clefairy ex JTG 56
+4 Tandemaus SSP 157
+1 Bloodmoon Ursaluna ex TWM 141
+
+Trainer: 17
+1 Morty's Conviction TEF 155
+3 Ultra Ball SVI 196
+4 Iono PAL 185
+1 Deluxe Bomb SCR 134
+1 Night Stretcher SFA 61
+1 Super Rod PAL 188
+1 Artazon PAL 171
+2 Crispin SCR 133
+4 Buddy-Buddy Poffin PRE 101
+1 Vengeful Punch OBF 197
+1 Counter Catcher PAR 160
+3 Arven SVI 166
+3 Pokégear 3.0 SVI 186
+2 Boss's Orders PAL 172
+2 Professor's Research PRE 123
+1 Nest Ball SVI 181 PH
+1 Rescue Board PRE 126
+
+Energy: 3
+3 Basic {P} Energy SUM 162
+4 Spiky Energy JTG 159
+4 Basic {D} Energy BUS 168
+
+Total Cards: 60
