@@ -1,0 +1,30 @@
+Pokémon: 8
+2 Brute Bonnet PAR 123
+2 Pecharunt PR-SV 149
+1 Fezandipiti ex SFA 38
+2 Squawkabilly ex PAF 75
+3 Venipede TWM 115
+2 Scolipede TWM 117
+3 Whirlipede TWM 116
+1 Pecharunt ex SFA 39
+
+Trainer: 13
+1 Secret Box TWM 163
+4 Nest Ball PAF 84
+2 Janine's Secret Art PRE 112
+4 Ultra Ball PAF 91
+3 Perilous Jungle TEF 156
+3 Night Stretcher SFA 61
+1 Artazon PAL 171
+3 Arven OBF 186
+3 Boss's Orders PAL 172
+1 Technical Machine: Evolution PAR 178
+2 Rare Candy PAF 89
+4 Carmine PRE 103
+4 Ancient Booster Energy Capsule TEF 140
+
+Energy: 2
+2 Jet Energy PAL 190
+7 Basic {D} Energy SVE 7
+
+Total Cards: 60
