@@ -1,0 +1,23 @@
+Pokémon: 15
+4 Beldum TEF 113
+4 Metang TEF 114
+1 Metagross TEF 115
+4 Heatran TWM 123
+2 Regigigas PRE 86
+
+Trainer: 25
+4 Arven OBF 186
+3 Iono PAF 80
+2 Boss's Orders PAL 172
+4 Pokégear 3.0 SVI 186
+3 Energy Recycler BST 124
+3 Night Stretcher SFA 61
+2 Ultra Ball PAF 91
+1 Buddy-Buddy Poffin PRE 101
+1 Precious Trolley SSP 185
+2 Technical Machine: Evolution PAR 178
+
+Energy: 20
+20 Basic {M} Energy SVE 8
+
+Total Cards: 60

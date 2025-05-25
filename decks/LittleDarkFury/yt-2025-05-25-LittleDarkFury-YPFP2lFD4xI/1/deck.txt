@@ -1,0 +1,36 @@
+Pokémon: 11
+3 Mamoswine ex JTG 79
+2 Gible PAR 94
+1 Gabite PAR 95
+2 Pidgeot ex OBF 164
+3 Swinub JTG 77
+2 Piloswine JTG 78
+2 Pidgey MEW 16
+1 Luxray PAL 71
+1 Pidgeotto MEW 17
+1 Klinklang SCR 101
+2 Garchomp ex PAR 38
+
+Trainer: 16
+4 Arven OBF 186
+2 Boss's Orders PAL 172
+4 Buddy-Buddy Poffin PRE 101
+1 Counter Catcher PAR 160
+2 Earthen Vessel PAR 163 PH
+4 Iono PAL 185
+1 Nest Ball SVI 181
+3 Ultra Ball SVI 196
+1 Switch SVI 194
+1 Technical Machine: Evolution PAR 178
+1 Powerglass SFA 63
+1 Secret Box TWM 163
+1 Super Rod PAL 188
+1 Hassel TWM 151
+1 Pokémon League Headquarters OBF 192
+4 Rare Candy SVI 191
+
+Energy: 2
+1 Reversal Energy PAL 192
+7 Basic {F} Energy GRI 169
+
+Total Cards: 60
