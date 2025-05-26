@@ -1,0 +1,36 @@
+Pokémon: 12
+1 Lillie's Clefairy ex JTG 56
+1 Fezandipiti ex SFA 38
+1 Dedenne ex PAL 93
+1 Pidgey MEW 16
+1 Steven's Metang SV 10 144
+1 Farigiraf ex TEF 108
+4 Steven's Beldum SV 10 143
+1 Cleffa OBF 80
+1 Steven's Carbink SV 10 86
+3 Steven's Metagross ex SV 10 145
+1 Girafarig TWM 83
+1 Pidgeot ex OBF 164
+
+Trainer: 15
+3 Buddy-Buddy Poffin PRE 101
+1 Super Rod PAL 188
+3 Iono PAL 185
+1 Cyrano SSP 170
+3 Ultra Ball PAF 91
+2 Granite Cave SV 10 166
+4 Rare Candy SVI 191
+3 Nest Ball SVI 181
+1 Hero's Cape TEF 152
+1 Big Air Balloon MEW 155
+1 Switch SVI 194
+2 Professor's Research PRE 122
+4 Arven OBF 186
+2 Boss's Orders PAL 172
+1 Energy Recycler SV 10 164
+
+Energy: 2
+6 Basic {P} Energy SUM 162
+5 Basic {M} Energy SUM 163
+
+Total Cards: 60

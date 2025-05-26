@@ -1,0 +1,28 @@
+Pokémon: 7
+2 Iono's Wattrel JTG 54
+1 Jolteon ex PRE 153
+3 Iono's Tadbulb JTG 52 PH
+2 Iono's Kilowattrel JTG 55
+2 Jolteon ex PRE 30
+2 Iono's Bellibolt ex JTG 53
+4 Eevee PRE 74
+
+Trainer: 13
+4 Earthen Vessel SFA 96
+2 Energy Retrieval SVI 171
+4 Arven PAF 235
+1 Super Rod PAL 276
+4 Iono PAF 237
+1 Professor Turo's Scenario PAR 257
+3 Ultra Ball BRS 186
+1 Sparkling Crystal PRE 129
+3 Pokégear 3.0 SVI 186
+4 Buddy-Buddy Poffin TWM 223
+4 Levincia JTG 150
+2 Boss's Orders RCL 189
+1 Switch MEW 206
+
+Energy: 1
+10 Basic {L} Energy SVE 4 PH
+
+Total Cards: 60
