@@ -1,0 +1,33 @@
+Pokémon: 10
+1 Dunsparce TEF 128
+3 Dudunsparce TEF 129
+1 Iron Bundle PAR 56
+3 Dunsparce PAL 156
+1 Fezandipiti ex SFA 38
+1 Dudunsparce ex JTG 121
+2 Munkidori PRE 44
+2 Scizor OBF 141
+3 Okidogi TWM 111
+2 Scyther MEW 123 PH
+
+Trainer: 11
+4 Nest Ball SVI 181
+3 Artazon PAL 171
+2 Bravery Charm PAL 173
+3 Boss's Orders PAL 172
+2 Super Rod PAL 188
+2 Professor's Research JTG 155
+1 Colress's Tenacity SFA 57
+3 Crispin PRE 105
+1 Buddy-Buddy Poffin TEF 144
+4 Iono PAF 80
+3 Ultra Ball SVI 196
+
+Energy: 5
+1 Legacy Energy TWM 167
+4 Luminous Energy PAL 191
+2 Basic {D} Energy SVE 15
+5 Basic {F} Energy SVE 14
+1 Basic {M} Energy SVE 16
+
+Total Cards: 60
