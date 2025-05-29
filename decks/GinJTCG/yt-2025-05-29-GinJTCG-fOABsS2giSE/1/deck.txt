@@ -1,0 +1,31 @@
+Pokémon: 17
+4 Magmar MEW 126
+4 Magmortar JTG 21
+3 Budew PRE 4
+2 Latias ex SSP 76
+2 Volcanion ex JTG 31
+1 Fezandipiti ex SFA 38
+1 Bloodmoon Ursaluna ex TWM 141
+
+Trainer: 36
+4 Arven OBF 186
+4 Iono PAL 185
+3 Boss's Orders PAL 172
+2 Surfer SSP 187
+2 Professor's Research JTG 155
+1 Penny SVI 183
+4 Switch SVI 194
+3 Ultra Ball SVI 196
+3 Night Stretcher SFA 61
+2 Nest Ball SVI 181
+1 Counter Catcher PAR 160
+1 Precious Trolley SSP 185
+3 Bravery Charm PAL 173
+2 Defiance Band SVI 169
+1 Technical Machine: Evolution PAR 178
+
+Energy: 7
+4 Jet Energy PAL 190
+3 Reversal Energy PAL 192
+
+Total Cards: 60
