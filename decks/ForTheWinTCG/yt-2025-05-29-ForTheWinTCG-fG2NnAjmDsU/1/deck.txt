@@ -1,0 +1,32 @@
+Pokémon: 7
+1 Maractus JTG 8
+3 Dudunsparce TEF 129
+3 Dunsparce PAL 156
+4 Wugtrio SVI 57
+2 Joltik SCR 50
+1 Fan Rotom SCR 118
+4 Wiglett SVI 56
+
+Trainer: 15
+3 Drayton SSP 174
+3 Counter Catcher PAR 160
+1 Artazon PAF 76
+1 Xerosic's Machinations SFA 64
+2 Counter Gain SSP 169
+3 Pokégear 3.0 SVI 186
+2 Night Stretcher SFA 61
+2 Rescue Board TEF 159
+2 Nest Ball SVI 181
+4 Arven SVI 166
+1 Colress's Tenacity SFA 57
+4 Buddy-Buddy Poffin PRE 101
+1 Earthen Vessel PRE 106
+2 Ultra Ball SVI 196
+1 Neutralization Zone SFA 60
+
+Energy: 3
+4 Reversal Energy PAL 192
+3 Basic {L} Energy SVE 4
+3 Basic {G} Energy SVE 1
+
+Total Cards: 60
