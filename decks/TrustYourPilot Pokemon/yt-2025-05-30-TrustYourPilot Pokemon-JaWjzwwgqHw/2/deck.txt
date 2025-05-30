@@ -1,0 +1,32 @@
+Pokémon: 7
+2 Dusclops SFA 19
+4 Ethan's Cyndaquil DRI 32
+4 Ethan's Quilava DRI 33
+4 Ethan's Typhlosion DRI 34
+3 Duskull SFA 18
+1 Fezandipiti ex SFA 38
+2 Dusknoir SFA 20
+
+Trainer: 17
+3 Ultra Ball SVI 196
+3 Rare Candy SVI 191
+4 Arven OBF 186
+4 Buddy-Buddy Poffin TEF 144
+1 Counter Catcher PAR 160
+1 Iono PAL 185
+4 Night Stretcher SFA 61
+1 Black Belt's Training PRE 96
+1 Super Rod PAL 188
+1 Technical Machine: Evolution PAR 178
+1 Redeemable Ticket JTG 156
+2 Professor's Research JTG 155
+1 Maximum Belt TEF 154
+1 Rescue Board TEF 159
+4 Ethan's Adventure DRI 165
+1 Artazon PAL 171
+2 Boss's Orders PAL 172
+
+Energy: 1
+5 Basic {R} Energy SVE 10
+
+Total Cards: 60
