@@ -1,0 +1,32 @@
+Pokémon: 7
+1 Lillie's Clefairy ex JTG 56
+2 Team Rocket's Mewtwo ex DRI 81
+2 Team Rocket's Mimikyu DRI 87
+1 Team Rocket's Sneasel DRI 128
+4 Team Rocket's Tarountula DRI 19
+3 Team Rocket's Spidops DRI 20
+1 Team Rocket's Articuno DRI 51
+
+Trainer: 15
+4 Ultra Ball SVI 196
+3 Energy Switch SVI 173
+2 Nest Ball SVI 181
+2 Earthen Vessel PAR 163
+2 Night Stretcher SFA 61
+1 Maximum Belt TEF 154
+1 Bravery Charm PAL 173
+1 Counter Gain SSP 169
+4 Team Rocket's Ariana DRI 171
+2 Team Rocket's Archer DRI 170
+3 Team Rocket's Factory DRI 173
+3 Team Rocket's Giovanni DRI 174
+1 Team Rocket's Petrel DRI 176
+3 Team Rocket's Proton DRI 177
+4 Team Rocket's Transceiver DRI 178
+
+Energy: 3
+3 Basic {G} Energy SVE 9
+3 Basic {P} Energy SVE 13
+4 Team Rocket's Energy DRI 182
+
+Total Cards: 60

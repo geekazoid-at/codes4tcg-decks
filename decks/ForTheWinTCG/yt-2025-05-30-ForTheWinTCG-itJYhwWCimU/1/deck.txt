@@ -1,0 +1,32 @@
+Pokémon: 14
+4 Team Rocket's Tarountula SV 10 8
+4 Team Rocket's Spidops SV 10 9
+2 Team Rocket's Mewtwo ex SV 10 39
+1 Team Rocket's Mimikyu SV 10 42
+1 Team Rocket's Murkrow SV 10 71
+1 Team Rocket's Articuno SV 10 22
+1 Team Rocket's Zapdos SV 10 33
+
+Trainer: 36
+3 Team Rocket's Ariana SV 10 91
+2 Team Rocket's Proton SV 10 95
+2 Team Rocket's Giovanni SV 10 93
+2 Iono PAL 185
+1 Team Rocket's Archer SV 10 92
+4 Buddy-Buddy Poffin TEF 144
+4 Ultra Ball SVI 196
+4 Team Rocket's Receiver SV 10 90
+2 Earthen Vessel PAR 163
+2 Night Stretcher SFA 61
+2 Counter Catcher PAR 160
+1 Secret Box TWM 163
+2 Defiance Band SVI 169
+1 Counter Gain SSP 169
+1 Bravery Charm PAL 173
+3 Team Rocket's Factory SV 10 97
+
+Energy: 10
+6 Basic {G} Energy SVE 1
+4 Team Rocket's Energy SV 10 98
+
+Total Cards: 60
