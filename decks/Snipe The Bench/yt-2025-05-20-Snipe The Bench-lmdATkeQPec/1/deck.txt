@@ -2,11 +2,11 @@ Pokémon: 9
 2 Okidogi ex SFA 36
 1 Darkrai OBF 136
 2 Munkidori TWM 95
-2 Marnie's Impidimp SV 10 134
+2 Marnie's Impidimp DRI 134
 2 Pecharunt ex SFA 39
 1 Fezandipiti ex SFA 38
-2 Marnie's Grimmsnarl ex SV 10 136
-1 Marnie's Morgrem SV 10 135
+2 Marnie's Grimmsnarl ex DRI 136
+1 Marnie's Morgrem DRI 135
 1 Genesect SFA 40
 
 Trainer: 19
@@ -15,7 +15,7 @@ Trainer: 19
 2 Ultra Ball PAF 91
 2 Energy Switch SVI 173
 1 Counter Catcher PAR 160
-2 Spikemuth Gym SV 10 169
+2 Spikemuth Gym DRI 169
 2 Iono PAL 185
 1 Night Stretcher SFA 61
 1 Super Rod PAL 188

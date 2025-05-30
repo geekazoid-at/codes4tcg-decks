@@ -1,15 +1,15 @@
 Pokémon: 7
-3 Marnie's Grimmsnarl ex SV 10 136
+3 Marnie's Grimmsnarl ex DRI 136
 3 Munkidori TWM 95
-4 Marnie's Impidimp SV 10 134
+4 Marnie's Impidimp DRI 134
 3 Snorunt TWM 51
 3 Froslass TWM 53
 2 Budew PRE 4
-2 Marnie's Morgrem SV 10 135
+2 Marnie's Morgrem DRI 135
 
 Trainer: 18
 2 Counter Catcher PAR 160
-2 Spikemuth Gym SV 10 169
+2 Spikemuth Gym DRI 169
 1 Secret Box TWM 163
 1 Ultra Ball PAF 91
 2 Night Stretcher SFA 61

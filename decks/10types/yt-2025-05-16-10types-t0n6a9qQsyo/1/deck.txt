@@ -1,16 +1,16 @@
 Pokémon: 8
 3 Munkidori TWM 95
-2 Steven's Metang SV 10 144
+2 Steven's Metang DRI 144
 1 Fezandipiti ex SFA 38
 1 Mew ex MEW 151
-3 Steven's Beldum SV 10 143
+3 Steven's Beldum DRI 143
 1 Lillie's Clefairy ex JTG 56
-1 Steven's Carbink SV 10 86
-2 Steven's Metagross ex SV 10 145
+1 Steven's Carbink DRI 86
+2 Steven's Metagross ex DRI 145
 
 Trainer: 16
 1 Counter Catcher PAR 160
-3 Granite Cave SV 10 166
+3 Granite Cave DRI 166
 1 Prime Catcher TEF 157
 2 Pokégear 3.0 SVI 186
 1 Rescue Board TEF 159

@@ -1,11 +1,11 @@
 Pokémon: 8
 2 Varoom SFA 43
 2 Revavroom ex OBF 156
-2 Steven's Metang SV 10 144
+2 Steven's Metang DRI 144
 1 Fezandipiti ex SFA 38
-2 Steven's Beldum SV 10 143
+2 Steven's Beldum DRI 143
 1 Steven's Beldum PR-SV 207
-2 Steven's Metagross ex SV 10 145
+2 Steven's Metagross ex DRI 145
 1 Lillie's Clefairy ex JTG 56
 
 Trainer: 19
@@ -18,7 +18,7 @@ Trainer: 19
 2 Full Metal Lab TEF 148
 4 Iono PAL 185
 1 Professor Turo's Scenario PAR 171
-1 Energy Recycler SV 10 164
+1 Energy Recycler DRI 164
 2 Lucky Helmet TWM 158
 2 Night Stretcher SFA 61
 2 Technical Machine: Evolution PAR 178

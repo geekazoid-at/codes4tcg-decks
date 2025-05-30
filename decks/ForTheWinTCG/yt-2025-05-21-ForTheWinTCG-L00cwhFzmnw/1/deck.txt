@@ -9,7 +9,7 @@ Pokémon: 6
 Trainer: 10
 2 Buddy-Buddy Poffin TEF 144
 4 Arven OBF 186
-4 Energy Recycler SV 10 164
+4 Energy Recycler DRI 164
 1 Precious Trolley SSP 185
 4 Rare Candy SVI 191
 3 Pokégear 3.0 SVI 186

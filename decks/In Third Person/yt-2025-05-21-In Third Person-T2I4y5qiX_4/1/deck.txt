@@ -1,18 +1,18 @@
 Pokémon: 10
 1 Steven's Beldum PR-SV 207
 2 Munkidori TWM 95
-2 Steven's Metang SV 10 144
+2 Steven's Metang DRI 144
 1 Fezandipiti ex SFA 38
-3 Steven's Beldum SV 10 143
+3 Steven's Beldum DRI 143
 1 Budew PRE 4
 1 Lillie's Clefairy ex JTG 56
-1 Steven's Carbink SV 10 86
-2 Steven's Metagross ex SV 10 145
+1 Steven's Carbink DRI 86
+2 Steven's Metagross ex DRI 145
 1 Tatsugiri TWM 131
 
 Trainer: 18
 1 Counter Catcher PAR 160
-1 Energy Recycler SV 10 164
+1 Energy Recycler DRI 164
 1 Night Stretcher SFA 61
 1 Rescue Board TEF 159
 3 Nest Ball SVI 181

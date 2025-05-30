@@ -1,8 +1,8 @@
 Pokémon: 11
-3 Steven's Metagross ex SV 10 145
-1 Steven's Carbink SV 10 86
-3 Steven's Beldum SV 10 143
-1 Steven's Metang SV 10 144
+3 Steven's Metagross ex DRI 145
+1 Steven's Carbink DRI 86
+3 Steven's Beldum DRI 143
+1 Steven's Metang DRI 144
 2 Pidgeot ex OBF 164
 1 Cleffa OBF 80
 1 Fezandipiti ex SFA 38
@@ -12,7 +12,7 @@ Pokémon: 11
 1 Lillie's Clefairy ex JTG 56
 
 Trainer: 16
-2 Granite Cave SV 10 166
+2 Granite Cave DRI 166
 1 Hero's Cape TEF 152
 4 Arven SVI 166
 4 Rare Candy PAF 89

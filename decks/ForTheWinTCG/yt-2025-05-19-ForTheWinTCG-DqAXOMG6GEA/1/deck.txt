@@ -1,15 +1,15 @@
 Pokémon: 11
 1 Munkidori TWM 95
 3 N's Zorua JTG 97
-1 Steven's Metang SV 10 144
+1 Steven's Metang DRI 144
 1 Fezandipiti ex SFA 38
 1 Mew ex MEW 151
 2 N's Zoroark ex JTG 98
-2 Steven's Beldum SV 10 143
+2 Steven's Beldum DRI 143
 1 Budew PRE 4
 2 Wellspring Mask Ogerpon ex TWM 64
 1 Lillie's Clefairy ex JTG 56
-2 Steven's Metagross ex SV 10 145
+2 Steven's Metagross ex DRI 145
 
 Trainer: 20
 1 Counter Catcher PAR 160

@@ -1,11 +1,11 @@
 Pokémon: 7
 3 Munkidori TWM 95
 2 Froslass TWM 53
-4 Marnie's Impidimp SV 10 134
+4 Marnie's Impidimp DRI 134
 2 Budew PRE 4
-3 Marnie's Grimmsnarl ex SV 10 136
+3 Marnie's Grimmsnarl ex DRI 136
 2 Snorunt TWM 51
-2 Marnie's Morgrem SV 10 135
+2 Marnie's Morgrem DRI 135
 
 Trainer: 18
 1 Ultra Ball SVI 196
@@ -15,7 +15,7 @@ Trainer: 18
 1 Earthen Vessel PAR 163
 2 Buddy-Buddy Poffin TEF 144
 3 Counter Catcher PAR 160
-2 Spikemuth Gym SV 10 169
+2 Spikemuth Gym DRI 169
 4 Iono PAL 185
 1 Technical Machine: Devolution PAR 177
 2 Night Stretcher SFA 61

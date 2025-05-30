@@ -22,7 +22,7 @@ Trainer: 32
 1 Super Rod PAL 188
 1 Counter Catcher PAR 160
 1 Powerglass SFA 63
-3 Team Rocket's Watchtower SV 10 96
+3 Team Rocket's Watchtower DRI 96
 
 Energy: 9
 3 Basic {R} Energy SVE 2
