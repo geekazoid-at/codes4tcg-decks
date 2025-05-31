@@ -1,0 +1,26 @@
+Pokémon: 14
+4 Team Rocket's Porygon SV 10 81
+4 Team Rocket's PORYGON 2 SV 10 82
+4 Team Rocket's Porygon-Z SV 10 83
+1 Team Rocket's Mimikyu SV 10 42
+1 Team Rocket's Articuno SV 10 22
+
+Trainer: 38
+4 Team Rocket's Ariana SV 10 91
+4 Team Rocket's Archer SV 10 92
+4 Team Rocket's Petrel SV 10 94
+4 Team Rocket's Giovanni SV 10 93
+4 Team Rocket's Proton SV 10 95
+4 Team Rocket's Receiver SV 10 90
+4 Ultra Ball PAF 91
+3 Night Stretcher SFA 61
+2 Rare Candy PAF 89
+1 Sacred Ash FLF 96
+1 Secret Box TWM 163
+3 Team Rocket's Factory SV 10 97
+
+Energy: 8
+4 Team Rocket's Energy SV 10 98
+4 Reversal Energy PAL 192
+
+Total Cards: 60

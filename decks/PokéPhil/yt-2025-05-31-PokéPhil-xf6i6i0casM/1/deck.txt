@@ -1,0 +1,27 @@
+Pokémon: 5
+2 Okidogi ex SFA 36
+3 Gulpin SCR 91
+2 Pecharunt ex SFA 39
+1 Fezandipiti ex SFA 38
+3 Swalot SCR 92
+
+Trainer: 12
+3 Salvatore TEF 160
+2 Switch SVI 194
+2 Earthen Vessel SFA 96
+4 Binding Mochi SFA 55 PH
+4 Crushing Hammer SVI 168
+4 Arven PAF 235
+2 Boss's Orders PAL 248
+4 Pokégear 3.0 SVI 186
+3 Buddy-Buddy Poffin TWM 223
+4 Nest Ball SVI 181
+4 Janine's Secret Art SFA 88
+1 Precious Trolley SSP 185
+
+Energy: 3
+4 Basic {D} Energy SVE 15
+6 Basic {D} Energy SFA 98
+2 Reversal Energy PAL 192
+
+Total Cards: 60
