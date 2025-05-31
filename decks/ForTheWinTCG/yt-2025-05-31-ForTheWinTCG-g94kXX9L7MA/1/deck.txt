@@ -1,0 +1,27 @@
+Pokémon: 6
+2 Misty's Lapras DRI 50
+4 Misty's Magikarp DRI 48
+4 Misty's Gyarados DRI 49
+4 Misty's Psyduck DRI 45
+2 Misty's Staryu DRI 46
+4 Misty's Starmie DRI 47
+
+Trainer: 12
+3 Lana's Aid TWM 155 PH
+3 Hassel TWM 151 PH
+1 Ciphermaniac's Codebreaking PRE 104 PH
+3 Super Rod NVI 95 PH
+4 Buddy-Buddy Poffin PRE 101 PH
+3 Pokégear 3.0 UNB 182 PH
+4 Night Stretcher SFA 61 PH
+4 Sacred Ash FLF 96 PH
+1 Boss's Orders PAL 172
+2 Academy at Night SFA 54 PH
+2 Professor's Research PRE 122 PH
+2 Iono PAL 185 PH
+
+Energy: 2
+1 Legacy Energy TWM 167
+7 Basic {W} Energy EVO 93 PH
+
+Total Cards: 60
