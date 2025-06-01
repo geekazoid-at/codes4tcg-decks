@@ -1,0 +1,59 @@
+Pokémon: 18
+1 Hop's Cramorant JTG 138
+1 Maractus JTG 8
+1 Doduo MEW 84
+1 Magearna JTG 107
+1 Xatu PAR 72
+1 Noivern JTG 128
+1 Noibat JTG 127
+1 Dodrio MEW 85
+1 Drakloak PRE 72
+1 Alolan Dugtrio SSP 123
+1 Alolan Diglett SSP 122
+1 Girafarig TWM 83
+1 Munkidori PRE 44
+1 Iron Boulder PRE 46
+1 Farigiraf TWM 84
+1 Dreepy PRE 71
+1 Natu PAR 71
+1 Fan Rotom PRE 85
+
+Trainer: 30
+1 Dusk Ball SSP 175
+1 Surfer SSP 187
+1 Brock's Scouting JTG 146
+1 Team Rocket's Petrel DRI 176
+1 Jacq SVI 175
+1 Counter Catcher CIN 91
+1 Energy Retrieval SVI 171
+1 Night Stretcher SFA 61
+1 Rescue Board TEF 159
+1 Nest Ball SVI 181
+1 Clavell PAL 177
+1 Artazon PAL 171
+1 Boss's Orders PAL 172
+1 Hassel TWM 151
+1 Lana's Aid TWM 155
+1 Iono PAL 185
+1 Arven SVI 166
+1 Lisia's Appeal SSP 179 PH
+1 Great Ball PAL 183
+1 Technical Machine: Evolution PAR 178
+1 Super Rod PAL 188
+1 Colress's Tenacity SFA 57
+1 Tulip PAR 181
+1 Earthen Vessel PRE 106
+1 Crispin PRE 105
+1 Buddy-Buddy Poffin TEF 144
+1 Ciphermaniac's Codebreaking TEF 145
+1 Judge FST 235
+1 Ultra Ball SVI 196
+1 Switch SVI 194
+
+Energy: 4
+1 Basic {R} Energy SVE 10
+1 Luminous Energy PAL 191
+2 Basic {D} Energy SVE 15
+8 Basic {P} Energy SVE 13
+
+Total Cards: 60

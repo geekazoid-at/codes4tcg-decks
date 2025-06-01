@@ -1,0 +1,31 @@
+Pokémon: 10
+1 Iron Hands ex PRE 31
+3 Dunsparce PAL 156
+3 Yanmega ex DRI 3
+3 Dudunsparce PRE 80
+1 Mew ex MEW 151
+1 Regigigas PRE 86
+1 Dudunsparce ex JTG 121
+1 Fezandipiti ex SFA 38
+4 Yanma DRI 2
+1 Bloodmoon Ursaluna ex TWM 141
+
+Trainer: 10
+2 Switch SVI 194
+4 Buddy-Buddy Poffin TEF 144
+4 Iono PAL 185
+4 Ultra Ball SVI 196 PH
+2 Night Stretcher SFA 61
+2 Super Rod PAL 188
+4 Nest Ball SVI 181
+2 Judge PAF 228
+3 Boss's Orders PAL 172
+1 Professor Turo's Scenario PRE 121
+
+Energy: 4
+1 Basic {L} Energy SVE 12
+7 Basic {G} Energy SVE 9
+1 Legacy Energy TWM 167
+4 Jet Energy PAL 190
+
+Total Cards: 60
