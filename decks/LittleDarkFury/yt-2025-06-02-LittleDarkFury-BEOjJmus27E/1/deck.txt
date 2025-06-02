@@ -1,0 +1,40 @@
+Pokémon: 12
+1 Pidgey MEW 16
+3 Team Rocket's Nidoking ex DRI 119
+1 Munkidori TWM 95
+1 Fezandipiti ex SFA 38
+1 Pidgeotto MEW 17
+2 Team Rocket's Nidorino DRI 118
+1 Cleffa OBF 80
+2 Pidgeot ex OBF 164
+1 Budew PRE 4
+1 Pidgey OBF 162
+3 Team Rocket's Nidoran♂ DRI 117
+
+
+Trainer: 19
+1 Boss's Orders PAL 172
+4 Buddy-Buddy Poffin TEF 144
+1 Counter Gain SSP 169
+1 Rescue Board TEF 159
+3 Iono PAL 185
+1 Unfair Stamp TWM 165
+1 Super Rod PAL 188
+4 Rare Candy SVI 191
+1 Nest Ball SVI 181
+3 Perilous Jungle TEF 156
+1 Janine's Secret Art SFA 59
+3 Ultra Ball SVI 196
+1 Night Stretcher SFA 63
+1 Technical Machine: Evolution PAR 178
+1 Team Rocket's Archer DRI 170
+4 Arven SVI 166
+1 Jacq SVI 175
+1 Counter Catcher PAR 160
+1 Team Rocket's Giovanni DRI 174
+
+Energy: 2
+5 Basic {D} Energy BUS 168
+4 Team Rocket's Energy DRI 182
+
+Total Cards: 60

@@ -1,0 +1,26 @@
+Pokémon: 15
+4 Team Rocket's Koffing DRI 125
+4 Team Rocket's Weezing DRI 126
+4 Koffing MEW 109
+3 Weezing MEW 110
+
+Trainer: 34
+4 Professor's Research JTG 155
+3 Janine's Secret Art PRE 112
+2 Judge SVI 176
+2 Boss's Orders PAL 172
+1 Iono PAF 80
+4 Buddy-Buddy Poffin PRE 101
+4 Great Ball PAL 183
+4 Dusk Ball SSP 175
+3 Super Rod PAL 188
+2 Binding Mochi PRE 95
+1 Technical Machine: Turbo Energize PAR 179
+1 Survival Brace TWM 164
+3 Town Store OBF 196
+
+Energy: 11
+8 Basic {D} Energy SVE 7
+3 Jet Energy PAL 190
+
+Total Cards: 60

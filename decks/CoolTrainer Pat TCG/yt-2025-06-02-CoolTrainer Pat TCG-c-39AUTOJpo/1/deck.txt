@@ -1,0 +1,36 @@
+Pokémon: 11
+3 Cynthia's Gible DRI 102
+3 Cynthia's Gabite DRI 103
+2 Cynthia's Garchomp ex DRI 104
+1 Cynthia's Roselia DRI 7
+1 Cynthia's Roserade DRI 8
+3 Torchic DRI 40
+2 Combusken DRI 41
+2 Blaziken ex JTG 24
+1 Blaziken DRI 42
+2 Munkidori SFA 72
+1 Shaymin DRI 10
+
+Trainer: 14
+2 Ultra Ball BRS 186
+3 Buddy-Buddy Poffin TWM 223
+2 Rare Candy SVI 256
+1 Earthen Vessel SFA 96
+2 Night Stretcher SSP 251
+1 Prime Catcher TEF 157
+1 Counter Catcher PAR 264
+2 Cynthia's Power Weight DRI 162
+2 Technical Machine: Evolution PAR 178 PH
+2 Professor's Research CEL 24
+4 Arven PAF 235
+4 Iono PAF 237
+2 Boss's Orders RCL 189
+2 Artazon OBF 229
+
+Energy: 4
+5 Basic {F} Energy SVE 14
+2 Basic {D} Energy SVE 15
+1 Basic {R} Energy SVE 10
+1 Reversal Energy PAR 266
+
+Total Cards: 60
