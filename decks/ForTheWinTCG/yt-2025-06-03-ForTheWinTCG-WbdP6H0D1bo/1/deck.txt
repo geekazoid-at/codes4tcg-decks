@@ -1,0 +1,35 @@
+Pokémon: 9
+2 Cynthia's Garchomp ex DRI 104
+3 Cynthia's Gabite DRI 103
+3 Cynthia's Gible DRI 102
+2 Froslass TWM 53
+2 Snorunt PAR 37
+3 Munkidori TWM 95
+2 Budew PRE 4
+1 Shaymin DRI 10
+1 Ethan's Sudowoodo DRI 93
+
+Trainer: 17
+2 Ultra Ball CRZ 146
+1 Buddy-Buddy Poffin TEF 144
+1 Earthen Vessel PAR 163
+2 Night Stretcher SFA 61
+4 Pokégear 3.0 SVI 186
+3 Counter Catcher PAR 160
+1 Precious Trolley SSP 185
+2 Cynthia's Power Weight DRI 162
+1 Technical Machine: Evolution PAR 178
+1 Technical Machine: Devolution PAR 177
+1 Rescue Board TEF 159
+4 Arven SVI 166
+4 Iono PAF 80
+1 Boss's Orders PAL 172
+3 Crispin PRE 105
+1 Lana's Aid TWM 155
+2 Artazon PAF 76
+
+Energy: 2
+4 Basic {F} Energy SVE 14
+3 Basic {D} Energy SVE 15
+
+Total Cards: 60

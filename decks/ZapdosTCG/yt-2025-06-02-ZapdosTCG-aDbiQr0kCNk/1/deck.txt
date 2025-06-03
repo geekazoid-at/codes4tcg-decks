@@ -1,0 +1,31 @@
+Pokémon: 20
+4 Ethan's Cyndaquil DRI 32
+4 Ethan's Quilava DRI 33
+4 Ethan's Typhlosion DRI 34
+2 Dunsparce PAL 156
+2 Dudunsparce TEF 129
+1 Victini SSP 21
+1 Budew PRE 4
+1 Shaymin DRI 10
+1 Iron Bundle PAR 56
+
+Trainer: 35
+4 Ethan's Adventure DRI 165
+4 Professor's Research JTG 155
+3 Arven OBF 186
+1 Boss's Orders PAL 172
+4 Buddy-Buddy Poffin TEF 144
+4 Ultra Ball SVI 196
+4 Night Stretcher SFA 61
+2 Counter Catcher PAR 160
+1 Rare Candy SVI 191
+1 Redeemable Ticket JTG 156
+2 Defiance Band SVI 169
+1 Maximum Belt TEF 154
+1 Rescue Board TEF 159
+3 Artazon PAL 171
+
+Energy: 5
+5 Basic {R} Energy SVE 2
+
+Total Cards: 60
