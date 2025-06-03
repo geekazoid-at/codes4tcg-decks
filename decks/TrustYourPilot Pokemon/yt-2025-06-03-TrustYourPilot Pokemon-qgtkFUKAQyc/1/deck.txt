@@ -1,0 +1,27 @@
+Pokémon: 15
+4 Brute Bonnet PAR 123
+4 Pecharunt PR-SV 149
+2 Squawkabilly ex PAL 169
+1 Latias ex SSP 76
+1 Volcanion ex JTG 31
+1 Mew ex MEW 151
+1 Pecharunt ex SFA 39
+1 Munkidori TWM 95
+
+Trainer: 41
+4 Carmine TWM 145
+4 Team Rocket's Venture Bomb DRI 179
+4 Delivery Drone PAL 178
+4 Pokégear 3.0 SVI 186
+4 Nest Ball SVI 181
+4 Ultra Ball SVI 196
+4 Dusk Ball SSP 175
+4 Great Ball PAL 183
+1 Secret Box TWM 163
+4 Ancient Booster Energy Capsule PAR 159
+4 Perilous Jungle TEF 156
+
+Energy: 4
+4 Basic {D} Energy SVE 7
+
+Total Cards: 60
