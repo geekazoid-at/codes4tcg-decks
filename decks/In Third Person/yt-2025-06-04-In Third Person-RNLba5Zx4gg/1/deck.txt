@@ -1,0 +1,37 @@
+Pokémon: 11
+2 Ethan's Typhlosion DRI 190
+1 Victini SSP 21 PH
+1 Fezandipiti ex SFA 38
+1 Ethan's Quilava DRI 33 PH
+1 Budew PRE 4
+4 Ethan's Cyndaquil DRI 32
+3 Ethan's Quilava DRI 33
+2 Ethan's Typhlosion DRI 34
+1 Victini SSP 21
+1 Shaymin DRI 10
+1 Tatsugiri TWM 131
+
+Trainer: 18
+1 Counter Catcher PAR 160
+1 Luxurious Cape PAR 166
+1 Maximum Belt TEF 154
+4 Night Stretcher SFA 61
+1 Picnic Basket SVI 184
+1 Rescue Board TEF 159
+2 Artazon PAL 171
+2 Boss's Orders PAL 172
+1 Lana's Aid TWM 155
+1 Iono PAL 185
+3 Arven SVI 166
+1 Redeemable Ticket JTG 156
+3 Professor's Research JTG 155
+1 Defiance Band SVI 169
+4 Buddy-Buddy Poffin TEF 144
+4 Ethan's Adventure DRI 165
+4 Ultra Ball SVI 196
+2 Rare Candy SVI 191
+
+Energy: 1
+5 Basic {R} Energy SVE 10
+
+Total Cards: 60

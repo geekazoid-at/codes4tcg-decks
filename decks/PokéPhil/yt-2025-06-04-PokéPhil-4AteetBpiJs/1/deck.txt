@@ -1,0 +1,33 @@
+Pokémon: 7
+4 Cynthia's Gible DRI 102
+1 Cynthia's Spiritomb DRI 129
+2 Cynthia's Garchomp ex DRI 104
+3 Cynthia's Roserade DRI 8
+2 Munkidori TWM 95
+4 Cynthia's Gabite DRI 103
+3 Cynthia's Roselia DRI 7
+
+Trainer: 16
+2 Ultra Ball SVI 196
+1 Black Belt's Training JTG 145
+1 Earthen Vessel PAR 163
+1 Crispin SCR 133
+4 Buddy-Buddy Poffin TEF 144
+1 Counter Catcher PAR 160
+3 Cynthia's Power Weight DRI 162
+3 Iono PAL 185
+2 Night Stretcher SFA 61
+1 Super Rod PAL 188
+4 Professor's Research JTG 155
+1 Prime Catcher TEF 157
+3 Pokémon League Headquarters OBF 192
+1 Rescue Board TEF 159
+2 Artazon PAL 171
+2 Boss's Orders PAL 172
+
+Energy: 3
+5 Basic {F} Energy SVE 14
+2 Basic {D} Energy SVE 15
+2 Luminous Energy PAL 191
+
+Total Cards: 60
