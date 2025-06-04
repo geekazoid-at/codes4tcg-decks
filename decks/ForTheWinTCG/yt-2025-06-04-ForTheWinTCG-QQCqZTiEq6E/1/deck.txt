@@ -1,0 +1,38 @@
+Pokémon: 10
+2 Team Rocket's Pupitar DRI 95 PH
+1 Bloodmoon Ursaluna ex TWM 141
+4 Team Rocket's Larvitar DRI 94
+3 Team Rocket's Tyranitar DRI 96
+1 Luxray PAL 71
+2 Team Rocket's Ampharos DRI 74 PH
+1 Fezandipiti ex SFA 38
+1 Mew ex MEW 151
+2 Team Rocket's Flaaffy DRI 73 PH
+2 Team Rocket's Mareep DRI 72 PH
+
+Trainer: 17
+2 Iono PAL 254
+2 Ultra Ball DEX 102 PH
+1 Precious Trolley SSP 185
+4 Technical Machine: Devolution PAR 177 PH
+1 Jacq SVI 175
+1 Buddy-Buddy Poffin PRE 101 PH
+2 Team Rocket's Giovanni DRI 174
+3 Pokégear 3.0 SVI 186
+1 Night Stretcher SFA 61 PH
+1 Artazon PAL 171
+4 Rare Candy DEX 100 PH
+1 Switch ROS 91 PH
+2 Technical Machine: Evolution PAR 178
+4 Arven SVI 235
+1 Super Rod PAL 188
+2 Nest Ball PAF 84 PH
+1 Energy Search BCR 128 PH
+
+Energy: 4
+1 Basic {F} Energy GRI 169
+4 Reversal Energy PAL 192
+1 Basic {L} Energy GRI 168
+2 Team Rocket's Energy DRI 182 PH
+
+Total Cards: 60
