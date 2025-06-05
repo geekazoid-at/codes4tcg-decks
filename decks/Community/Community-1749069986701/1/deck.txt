@@ -1,0 +1,41 @@
+Pokémon: 8
+1 Mow Rotom DRI 9
+4 Revavroom ex OBF 224
+1 Heat Rotom DRI 43 PH
+2 Varoom TWM 124 PH
+1 Fezandipiti ex SFA 38
+2 Varoom SFA 43
+1 Wash Rotom DRI 61 PH
+1 Rotom DRI 77
+
+Trainer: 21
+4 Defiance Vest PAR 162
+1 Buddy-Buddy Poffin TWM 223
+2 Counter Catcher PAR 160
+1 Iris's Fighting Spirit JTG 180
+1 Buddy-Buddy Poffin PRE 101 PH
+2 Town Store OBF 196 PH
+1 Hero's Cape TEF 152
+1 Earthen Vessel PRE 106 PH
+2 Rescue Board TEF 159
+1 Nest Ball SVI 181
+4 Defiance Band SVI 169 PH
+1 Boss's Orders PAL 265
+2 Night Stretcher SSP 251
+1 Iono PAL 185
+2 Arven SVI 166
+1 Iono PAL 269
+1 Earthen Vessel PRE 106
+3 Crispin SCR 133
+1 Professor's Research SVI 240
+2 Ultra Ball SVI 196
+2 Switch SVI 194
+
+Energie: 5
+7 Basic {M} Energy SVE 16
+1 Basic {L} Energy SVE 12
+1 Basic {W} Energy SVE 11
+1 Basic {R} Energy SVE 10
+1 Basic {G} Energy SVE 1
+
+Karten insgesamt: 60
