@@ -1,0 +1,31 @@
+Pokémon: 10
+4 Iron Thorns ex TWM 77
+3 Dwebble DRI 11
+3 Crustle DRI 12
+
+Trainer: 36
+4 Arven OBF 186
+4 Iono PAL 185
+4 Boss's Orders PAL 172
+3 Crispin SCR 133
+2 Kofu SCR 138
+2 Colress's Tenacity SFA 57
+4 Pokégear 3.0 SVI 186
+2 Nest Ball SVI 181
+1 Buddy-Buddy Poffin TEF 144
+1 Techno Radar PAR 180
+1 Super Rod PAL 188
+1 Poké Vital A SFA 62
+2 Future Booster Energy Capsule TEF 149
+2 Luxurious Cape PAR 166
+1 Technical Machine: Turbo Energize PAR 179
+2 Team Rocket's Watchtower DRI 180
+
+Energy: 14
+4 Basic {L} Energy SVE 4
+4 Basic {G} Energy SVE 1
+3 Medical Energy PAR 182
+2 Mist Energy TEF 161
+1 Jet Energy PAL 190
+
+Total Cards: 60

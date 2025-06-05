@@ -1,0 +1,29 @@
+Pokémon: 7
+2 Vikavolt V DAA 60
+1 Dedenne-GX SMALT 156
+2 Miraidon ex SVI 244
+3 Regieleki V SIT 175
+1 Tapu Koko {*} TEU 51
+3 Regieleki VMAX SIT 58
+1 Vikavolt V DAA 180
+
+Trainer: 14
+4 Ultra Ball PLF 122
+4 Electric Generator SVI 170
+1 Hisuian Heavy Ball ASR 146
+1 Guzma BUS 143
+3 Marnie PR-SW 121
+4 Quick Ball SSH 216
+2 Air Balloon SSH 213
+1 Raihan EVS 202
+4 Professor's Research SVI 240
+2 Escape Rope BUS 163
+1 Forest Seal Stone SIT 156
+4 Electropower LOT 232
+1 Stormy Mountains EVS 232
+1 Thunder Mountain {*} LOT 191
+
+Energy: 1
+14 Basic {L} Energy GRI 168
+
+Total Cards: 60
