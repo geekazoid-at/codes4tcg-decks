@@ -1,0 +1,35 @@
+Pokémon: 8
+3 Cetitan SSP 54
+4 Cetoddle SVI 59
+2 Munkidori TWM 95
+2 Snorunt TWM 51
+2 Froslass TWM 53
+2 Frigibax PAF 17
+2 Baxcalibur PAL 60
+2 Arctibax PAL 59
+
+Trainer: 18
+2 Counter Catcher PAR 160
+1 Surfer SSP 187
+1 Precious Trolley SSP 185
+4 Pokégear 3.0 SVI 186
+1 Night Stretcher SFA 61
+1 Rescue Board TEF 159
+2 Nest Ball SVI 181
+2 Calamitous Snowy Mountain PAL 174
+1 Boss's Orders PAL 172
+2 Letter of Encouragement OBF 189
+2 Iono PAL 185
+4 Arven SVI 166
+2 Technical Machine: Evolution PAR 178
+1 Superior Energy Retrieval PAL 189
+1 Defiance Band SVI 169
+1 Ultra Ball SVI 196
+2 Professor's Research PRE 122
+2 Earthen Vessel PAR 163
+
+Energy: 2
+2 Basic {D} Energy SVE 15
+7 Basic {W} Energy SVE 11
+
+Total Cards: 60
