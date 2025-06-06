@@ -1,0 +1,36 @@
+Pokémon: 29
+4 Comfey LOR 79
+1 Arceus {*} FLI 96
+2 Latias ex SSP 76
+4 Dunsparce TEF 128
+4 Dudunsparce TEF 129
+1 Diancie {*} FLI 74
+1 Rotom V LOR 58
+1 Jirachi {*} CES 97
+3 Iron Bundle PAR 56
+4 Cramorant LOR 50
+1 Ditto {*} LOT 154
+3 Rotom VSTAR CRZ 46
+3 Rotom V CRZ 45
+1 Lunala {*} UPR 62
+1 Shaymin {*} TEU 10
+1 Victini {*} DRM 7
+1 Solgaleo {*} UPR 89
+2 Fezandipiti ex SFA 38
+2 Pyukumuku FST 77
+4 Trumbeak LOT 165
+1 Darkrai {*} UPR 77
+4 Galarian Meowth RCL 126
+1 Xerneas {*} LOT 144
+1 Volcanion {*} FLI 31
+1 Tapu Koko {*} TEU 51
+4 Manaphy SHF 24
+1 Giratina {*} UPR 58
+1 Latias ex SSP 239
+2 Morpeko TWM 72
+
+Trainer: 0
+
+Energy: 0
+
+Total Cards: 60
