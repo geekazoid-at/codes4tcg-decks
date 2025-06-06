@@ -1,0 +1,33 @@
+Pokémon: 2
+4 Team Rocket's Ekans DRI 112
+4 Team Rocket's Arbok DRI 113
+
+Trainer: 22
+1 Earthen Vessel PRE 106
+1 Super Rod PAL 188
+1 Night Stretcher SFA 61
+4 Team Rocket's Ariana DRI 171
+1 Team Rocket's Giovanni DRI 174
+1 Team Rocket's Proton DRI 177
+4 Technical Machine: Devolution PAR 177
+2 Buddy-Buddy Poffin TEF 144
+3 Technical Machine: Blindside PAR 176
+3 Snorlax Doll PAR 175
+1 Poké Vital A SFA 62
+2 Technical Machine: Evolution PAR 178
+1 Town Store OBF 196
+4 Iono PAF 80
+2 Pokémon League Headquarters OBF 192
+1 Luxurious Cape PAR 166
+1 Boss's Orders PAL 172
+1 Team Rocket's Petrel DRI 226
+4 Team Rocket's Transceiver DRI 178
+1 Team Rocket's Archer DRI 170
+1 Team Rocket's Petrel DRI 176
+3 Arven SVI 166
+
+Energy: 2
+4 Team Rocket's Energy DRI 182
+5 Basic {D} Energy BUS 168
+
+Total Cards: 60

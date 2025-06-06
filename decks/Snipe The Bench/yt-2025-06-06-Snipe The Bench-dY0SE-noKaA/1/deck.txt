@@ -1,0 +1,31 @@
+Pokémon: 8
+4 Clamperl DRI 54
+3 Huntail DRI 55
+3 Gorebyss DRI 56
+3 Dunsparce TEF 128
+3 Dudunsparce TEF 129
+1 Fezandipiti ex SFA 38
+1 Rellor TEF 23
+1 Rabsca TEF 24
+
+Trainer: 15
+1 Counter Catcher PAR 160
+1 Max Rod PRE 116
+2 Jacq SVI 175
+1 Energy Retrieval SVI 171
+2 Ultra Ball PAF 91
+4 Pokégear 3.0 SVI 186
+2 Night Stretcher SFA 61
+2 Clavell PAL 177
+2 Lana's Aid TWM 155
+1 Practice Studio PAL 186
+1 Boss's Orders PAL 172 PH
+1 Redeemable Ticket JTG 156
+4 Buddy-Buddy Poffin PRE 101
+4 Earthen Vessel PRE 106
+1 Professor Turo's Scenario PRE 121
+
+Energy: 1
+12 Basic {W} Energy SVE 11
+
+Total Cards: 60

@@ -1,0 +1,38 @@
+Pokémon: 15
+2 Ethan's Ho-Oh ex DRI 39
+2 Charcadet SSP 32
+1 Charcadet SSP 32 PH
+3 Armarouge SVI 41
+1 Iron Hands ex PAR 248
+1 Wellspring Mask Ogerpon ex TWM 213
+2 Lillie's Clefairy ex JTG 184
+1 Durant ex SSP 215
+1 Durant ex SSP 4
+1 Latias ex SSP 76
+1 Ho-Oh SSP 19
+1 Fezandipiti ex SFA 92
+1 Squawkabilly ex PAL 264
+1 Mew ex MEW 193
+1 Budew PRE 4 PH
+
+Trainer: 11
+4 Nest Ball SVI 181 PH
+4 Ultra Ball BRS 186
+2 Earthen Vessel SFA 96
+2 Night Stretcher SSP 251
+1 Super Rod PAL 276
+1 Counter Catcher PAR 264
+1 Lillie's Pearl JTG 151
+4 Professor's Research CEL 24
+3 Iono PAF 237
+2 Boss's Orders RCL 189
+3 Area Zero Underdepths SCR 174
+
+Energy: 5
+3 Luminous Energy TWM 226
+1 Legacy Energy TWM 167
+7 Basic {R} Energy SVE 10
+1 Basic {W} Energy SVE 11
+1 Basic {P} Energy SVE 13
+
+Total Cards: 60
