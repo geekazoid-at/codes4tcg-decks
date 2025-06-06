@@ -1,0 +1,39 @@
+Pokémon: 12
+3 Swinub JTG 77
+2 Cynthia's Garchomp ex DRI 104
+1 Cornerstone Mask Ogerpon ex TWM 112
+2 Blaziken ex JTG 24
+2 Piloswine JTG 78
+1 Klinklang SCR 101
+3 Mamoswine ex JTG 79
+2 Cynthia's Gible DRI 102
+2 Cynthia's Gabite DRI 103
+2 Torchic DRI 40
+2 Combusken DRI 41
+1 Fezandipiti ex SFA 38
+
+Trainer: 18
+2 Technical Machine: Evolution PAR 178
+1 Jacq SVI 175
+1 Professor Turo's Scenario PAR 171
+2 Earthen Vessel PAR 163
+1 Super Rod PAL 188
+1 Counter Catcher PAR 160
+2 Iono PAL 185
+1 Professor's Research PRE 122
+2 Boss's Orders PAL 172
+2 Ultra Ball SVI 196
+1 Grand Tree SCR 136
+2 Rock Chestplate SVI 192
+2 Rare Candy SVI 191
+1 Rare Candy SVI 256
+2 Buddy-Buddy Poffin PRE 101
+3 Arven SVI 166
+2 Night Stretcher SFA 61
+1 Kieran TWM 154 PH
+
+Energie: 2
+2 Basic {R} Energy SVE 10
+6 Basic {F} Energy SVE 14
+
+Karten insgesamt: 60
