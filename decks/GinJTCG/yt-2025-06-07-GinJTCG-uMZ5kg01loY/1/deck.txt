@@ -1,0 +1,28 @@
+Pokémon: 11
+4 Dondozo ex DRI 66
+4 Munkidori TWM 95
+3 Mimikyu PAF 37
+
+Trainer: 38
+4 Crispin PRE 105
+3 Professor's Research JTG 155
+3 Iono PAL 185
+2 Arven SVI 166
+2 Penny SVI 183
+2 Boss's Orders PAL 172
+4 Nest Ball PAF 84
+3 Switch SVI 194
+2 Earthen Vessel PRE 106
+2 Pokégear 3.0 SVI 186
+2 Night Stretcher SFA 61
+4 Bravery Charm PAL 173
+1 Hero's Cape TEF 152
+1 Technical Machine: Turbo Energize PAR 179
+3 Lively Stadium SSP 180
+
+Energy: 11
+4 Basic {D} Energy SVE 7
+4 Basic {W} Energy SVE 3
+3 Basic {P} Energy SVE 5
+
+Total Cards: 60

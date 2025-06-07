@@ -1,0 +1,37 @@
+Pokémon: 14
+1 Iron Leaves TWM 19
+1 Latias ex SSP 76
+1 Terapagos ex SCR 128
+3 Charcadet SSP 32
+1 Iron Hands ex PAR 70
+1 Volcanion ex JTG 31
+1 Chi-Yu PAR 29
+1 Fezandipiti ex SFA 38
+1 Mew ex MEW 151
+2 Armarouge SVI 41
+1 Regigigas PRE 86
+3 Ethan's Ho-Oh ex DRI 39
+1 Cornerstone Mask Ogerpon ex TWM 112
+1 Hearthflame Mask Ogerpon ex TWM 40
+
+Trainer: 13
+1 Counter Catcher PAR 160
+2 Energy Retrieval SVI 171 PH
+3 Night Stretcher SFA 61
+4 Nest Ball SVI 181
+1 Switch SVI 194 PH
+2 Boss's Orders PAL 172
+1 Jamming Tower TWM 153
+4 Iono PAL 185
+1 Professor Turo's Scenario PAR 171
+4 Professor's Research JTG 155
+2 Area Zero Underdepths SCR 131
+3 Ultra Ball SVI 196
+3 Earthen Vessel PAR 163
+
+Energy: 3
+6 Basic {R} Energy SVE 10
+1 Legacy Energy TWM 167
+3 Luminous Energy PAL 191
+
+Total Cards: 60
