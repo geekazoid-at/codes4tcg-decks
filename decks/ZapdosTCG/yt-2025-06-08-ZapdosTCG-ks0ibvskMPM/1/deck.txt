@@ -1,0 +1,38 @@
+Pokémon: 20
+3 Charcadet SSP 32
+3 Armarouge SVI 41
+3 Ethan's Ho-Oh ex DRI 39
+1 Wellspring Mask Ogerpon ex TWM 64
+1 Iron Hands ex PAR 70
+1 Durant ex SSP 4
+1 Munkidori TWM 95
+1 Latias ex SSP 76
+1 Fezandipiti ex SFA 38
+1 Squawkabilly ex PAL 169
+1 Cleffa OBF 80
+1 Lillie's Clefairy ex JTG 56
+1 Mew ex MEW 151
+1 Hearthflame Mask Ogerpon ex TWM 40
+
+Trainer: 30
+4 Professor's Research JTG 155
+4 Iono PAL 185
+2 Boss's Orders PAL 172
+4 Nest Ball SVI 181
+3 Ultra Ball SVI 196
+3 Earthen Vessel PAR 163
+1 Switch SVI 194
+1 Buddy-Buddy Poffin TEF 144
+1 Counter Catcher PAR 160
+1 Superior Energy Retrieval PAL 189
+1 Super Rod PAL 188
+1 Secret Box TWM 163
+1 Bravery Charm PAL 173
+2 Area Zero Underdepths SCR 131
+1 Gravity Mountain SSP 177
+
+Energy: 10
+7 Basic {R} Energy SVE 2
+3 Luminous Energy PAL 191
+
+Total Cards: 60
