@@ -1,0 +1,30 @@
+Pokémon: 7
+1 Hydreigon ex SSP 119
+1 Zweilous SSP 118
+1 Deino SSP 117
+3 Dudunsparce TEF 129
+3 Dunsparce JTG 120
+2 Fan Rotom SCR 118
+4 Great Tusk TEF 97 PH
+
+Trainer: 14
+4 Counter Catcher PAR 160
+1 Xerosic's Machinations SFA 64
+4 Pokégear 3.0 SVI 186
+2 Night Stretcher SFA 61
+2 Pal Pad SVI 182
+4 Nest Ball SVI 181
+2 Artazon PAL 171
+4 Professor Sada's Vitality PAR 170
+1 Redeemable Ticket JTG 156
+2 Super Rod PAL 188
+4 Explorer's Guidance TEF 147
+2 Ultra Ball SVI 196
+1 Neutralization Zone SFA 60
+3 Earthen Vessel PAR 163
+
+Energy: 2
+2 Jet Energy PAL 190
+7 Basic {D} Energy SVE 15
+
+Total Cards: 60

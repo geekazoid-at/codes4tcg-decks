@@ -1,0 +1,29 @@
+Pokémon: 8
+1 Ethan's Pinsir DRI 1
+4 Ethan's Ho-Oh ex DRI 39
+1 Latias ex SSP 76
+1 Mew ex MEW 151
+3 Ethan's Slugma DRI 35
+3 Ethan's Magcargo DRI 36
+1 Fezandipiti ex SFA 38
+1 Squawkabilly ex PAL 169
+
+Trainer: 13
+3 Ultra Ball SVI 196
+4 Earthen Vessel PAR 163
+1 Counter Catcher PAR 160
+3 Iono PAL 185
+2 Night Stretcher SFA 61
+4 Superior Energy Retrieval PAL 189
+4 Professor's Research JTG 155
+1 Prime Catcher TEF 157
+2 Team Rocket's Watchtower DRI 180
+4 Nest Ball SVI 181
+2 Ethan's Adventure DRI 165
+2 Bravery Charm PAL 173
+2 Boss's Orders PAL 172
+
+Energy: 1
+11 Basic {R} Energy SVE 10
+
+Total Cards: 60
