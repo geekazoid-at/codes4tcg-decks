@@ -1,0 +1,37 @@
+Pokémon: 5
+1 Fezandipiti ex SFA 92
+4 Larvitar PRE 47
+4 Tyranitar JTG 95
+2 Budew PRE 4
+3 Pupitar PRE 48
+
+Trainer: 23
+1 Counter Catcher PAR 160
+2 Luxurious Cape PAR 166
+1 Surfer SSP 187
+1 Brock's Scouting JTG 146
+1 Xerosic's Machinations SFA 64
+2 Pokégear 3.0 SVI 186
+1 Night Stretcher SFA 61
+1 Pal Pad SVI 182
+2 Nest Ball SVI 181
+1 Team Rocket's Watchtower DRI 180 PH
+4 Arven OBF 186
+2 Boss's Orders PAL 172
+1 Black Belt's Training PRE 96
+4 Iono PAL 185
+1 Super Rod PAL 188
+1 Colress's Tenacity SFA 57
+3 Rare Candy PAF 89
+2 Buddy-Buddy Poffin PRE 101
+1 Earthen Vessel PRE 106
+2 Crispin PRE 105
+1 Grand Tree SCR 136
+2 Ultra Ball SVI 196
+1 Switch SVI 194
+
+Energy: 2
+5 Basic {D} Energy SVE 15
+3 Basic {F} Energy SVE 14
+
+Total Cards: 60

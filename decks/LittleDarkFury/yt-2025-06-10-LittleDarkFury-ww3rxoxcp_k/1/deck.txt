@@ -1,0 +1,36 @@
+Pokémon: 6
+3 Crustle DRI 12
+2 Dwebble DRI 11
+3 Okidogi TWM 111
+3 Munkidori TWM 95
+1 Budew PRE 4
+1 Ethan's Sudowoodo DRI 93
+
+Trainer: 18
+2 Boss's Orders PAL 172
+1 Bravery Charm PAL 173
+1 Ultra Ball SVI 196
+2 Colress's Tenacity SFA 57
+3 Crispin PRE 105
+1 Hassel TWM 151
+2 Artazon PAF 76
+3 Iono PAL 185
+1 Earthen Vessel PAR 163
+2 Luxurious Cape PAR 166
+3 Pokégear 3.0 SVI 186
+1 Switch SVI 194
+1 Town Store OBF 196
+1 Super Rod PAL 188
+1 Night Stretcher SFA 61
+4 Nest Ball PAF 84
+1 Professor's Research JTG 155
+3 Arven OBF 186
+
+Energy: 5
+4 Basic {F} Energy GRI 169
+3 Basic {D} Energy BUS 168
+2 Basic {G} Energy GRI 167
+1 Legacy Energy TWM 167
+4 Luminous Energy PAL 191
+
+Total Cards: 60
