@@ -1,0 +1,32 @@
+Pokémon: 5
+3 Arven's Mabosstiff ex DRI 139
+4 Munkidori TWM 95
+1 Fezandipiti ex SFA 38
+4 Arven's Maschiff DRI 138
+1 Bloodmoon Ursaluna ex TWM 141
+
+Trainer: 18
+4 Ultra Ball SVI 196
+1 Exp. Share SVI 174
+1 Earthen Vessel PAR 163
+3 Energy Switch SVI 173
+1 Counter Catcher PAR 160
+4 Iono PAL 185
+1 Kieran TWM 154
+4 Arven's Sandwich DRI 161
+2 Practice Studio PAL 186
+1 Janine's Secret Art SFA 59
+1 Professor Turo's Scenario PAR 171
+3 Night Stretcher SFA 61
+3 Rigid Band MEW 165
+1 Professor's Research PRE 122
+3 Nest Ball SVI 181
+1 Precious Trolley SSP 185
+1 Boss's Orders PAL 172
+4 Arven SVI 166
+
+Energy: 2
+6 Basic {D} Energy SVE 15
+2 Luminous Energy PAL 191
+
+Total Cards: 60
