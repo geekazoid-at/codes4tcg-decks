@@ -1,0 +1,9 @@
+Pokémon: 1
+1 Guzzlord-GX CIN 63
+
+Trainer: 0
+
+Energy: 1
+59 Basic {D} Energy SVE 7
+
+Total Cards: 60
