@@ -1,0 +1,36 @@
+Pokémon: 12
+1 Hawlucha SVI 118
+2 Combee PAL 8
+1 Iron Hands ex PAR 70
+3 Yanmega ex DRI 3
+2 Munkidori TWM 95
+1 Tatsugiri TWM 131
+1 Fezandipiti ex SFA 38
+1 Budew PRE 4
+3 Yanma DRI 2
+1 Bloodmoon Ursaluna ex TWM 141
+1 Lillie's Clefairy ex JTG 56
+2 Vespiquen ex OBF 212
+
+Trainer: 14
+2 Switch SVI 194
+2 Ultra Ball PAF 91
+4 Buddy-Buddy Poffin TEF 144
+1 Counter Catcher PAR 160
+2 Artazon PAF 76
+1 Night Stretcher SFA 61
+2 Super Rod PAL 188
+4 Iono PAF 80
+3 Professor's Research JTG 155
+1 Prime Catcher TEF 157
+2 Nest Ball SVI 181
+2 Rescue Board TEF 159
+1 Surfer SSP 187
+2 Boss's Orders PAL 172
+
+Energy: 3
+7 Basic {G} Energy SVE 1
+2 Luminous Energy PAL 191
+3 Jet Energy PAL 190
+
+Total Cards: 60
