@@ -1,0 +1,36 @@
+Pokémon: 8
+1 Bloodmoon Ursaluna ex TWM 141
+3 Arven's Mabosstiff ex DRI 139
+4 N's Zorua JTG 97
+1 Arven's Maschiff DRI 138 PH
+3 N's Zoroark ex JTG 98
+3 Arven's Maschiff DRI 138
+1 Munkidori PRE 44
+1 N's Reshiram JTG 116
+
+Trainer: 19
+1 Counter Catcher PAR 160
+2 Cyrano SSP 170
+1 Pokémon League Headquarters OBF 192
+1 Poké Vital A SFA 62
+2 Rigid Band MEW 165
+2 Ultra Ball PAF 91
+1 Night Stretcher SFA 61
+4 Arven OBF 186
+2 Boss's Orders PAL 172 PH
+1 Super Potion JTG 158
+4 Arven's Sandwich DRI 161
+1 Super Rod PAL 188
+1 N's Castle JTG 152
+1 N's PP Up JTG 153
+4 Buddy-Buddy Poffin PRE 101
+3 Iono PAF 80
+1 Switch SVI 194
+2 Professor Turo's Scenario PRE 121
+1 Earthen Vessel PAR 163
+
+Energy: 2
+5 Basic {D} Energy BUS 168
+3 Medical Energy PAR 182
+
+Total Cards: 60
