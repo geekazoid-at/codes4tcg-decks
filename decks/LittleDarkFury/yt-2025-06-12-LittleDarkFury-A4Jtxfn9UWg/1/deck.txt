@@ -1,0 +1,32 @@
+Pokémon: 9
+4 Duraludon PRE 69
+1 Iron Bundle PAR 56
+3 Archaludon ex SSP 130
+1 Fezandipiti ex SFA 38
+1 Squawkabilly ex PAF 75
+2 Munkidori PRE 44
+1 Scizor OBF 141
+1 Relicanth TEF 84
+1 Scyther MEW 123
+
+Trainer: 14
+3 Team Rocket's Venture Bomb DRI 179
+4 Nest Ball PAF 84
+1 Hero's Cape TEF 152
+4 Ultra Ball PAF 91
+3 Pokégear 3.0 SVI 186
+4 Night Stretcher SFA 61
+1 Black Belt's Training PRE 96
+1 Jamming Tower TWM 153
+2 Iono PAL 185
+3 Boss's Orders PAL 172 PH
+4 Professor's Research JTG 155
+2 Carmine PRE 103
+1 Professor Turo's Scenario PRE 121
+3 Earthen Vessel PAR 163
+
+Energy: 2
+2 Basic {D} Energy BUS 168
+7 Basic {M} Energy SUM 163
+
+Total Cards: 60
