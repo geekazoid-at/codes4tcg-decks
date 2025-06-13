@@ -1,0 +1,31 @@
+Pokémon: 9
+2 Armarouge SVI 41
+3 Ethan's Ho-Oh ex DRI 39
+1 Mew ex MEW 151
+1 Ceruledge ex SSP 36
+1 Regigigas PRE 86
+1 Armarouge SSP 34
+1 Fezandipiti ex SFA 38
+2 Armarouge ex PAR 27
+4 Charcadet SSP 32
+
+Trainer: 12
+3 Ultra Ball SVI 196
+3 Earthen Vessel PAR 163
+2 Buddy-Buddy Poffin TEF 144
+1 Jamming Tower TWM 153
+3 Iono PAL 185
+1 Lana's Aid TWM 155
+3 Night Stretcher SFA 61
+3 Professor's Research JTG 155
+1 Pal Pad SVI 182
+4 Nest Ball SVI 181
+3 Carmine TWM 145
+1 Boss's Orders PAL 172
+
+Energy: 3
+12 Basic {R} Energy SVE 10
+1 Legacy Energy TWM 167
+3 Jet Energy PAL 190
+
+Total Cards: 60
