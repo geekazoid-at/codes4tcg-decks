@@ -1,0 +1,36 @@
+Pokémon: 10
+2 Dudunsparce TEF 129
+1 Iron Bundle PAR 56
+2 Dunsparce PAL 156
+1 Fezandipiti ex SFA 38
+1 Budew PRE 4
+4 Ethan's Cyndaquil DRI 32
+4 Ethan's Quilava DRI 33
+4 Ethan's Typhlosion DRI 34
+2 Victini SSP 21
+1 Shaymin DRI 10
+
+Trainer: 18
+1 Counter Catcher PAR 160
+2 Artazon PAF 76
+1 Nest Ball PAF 84
+4 Ultra Ball PAF 91
+1 Maximum Belt TEF 154
+2 Night Stretcher SFA 61
+3 Arven OBF 186
+2 Boss's Orders PAL 172
+1 Lana's Aid TWM 155
+1 Technical Machine: Evolution PAR 178
+1 Super Rod PAL 188
+1 Professor's Research JTG 155
+1 Rare Candy PAF 89
+4 Buddy-Buddy Poffin PRE 101
+1 Earthen Vessel PRE 106
+2 Iono PAF 80
+4 Ethan's Adventure DRI 165
+1 Rescue Board PRE 126
+
+Energy: 1
+5 Basic {R} Energy SVE 2
+
+Total Cards: 60
