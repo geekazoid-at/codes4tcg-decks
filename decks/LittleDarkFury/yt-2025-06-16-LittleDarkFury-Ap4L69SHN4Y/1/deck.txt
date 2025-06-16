@@ -1,0 +1,40 @@
+Pokémon: 6
+1 Munkidori TWM 95
+1 Dreepy TWM 128
+1 Fezandipiti ex SFA 38
+1 Drakloak PRE 72
+4 Gimmighoul SSP 97
+4 Gholdengo ex PAR 139
+
+Trainer: 19
+1 Energy Search Pro SSP 176
+1 Counter Catcher PAR 160
+1 Team Rocket's Venture Bomb DRI 179
+3 Team Rocket's Petrel DRI 176
+2 Ultra Ball PAF 91
+2 Night Stretcher SFA 61
+2 Nest Ball SVI 181
+1 Boss's Orders PAL 172
+3 Team Rocket's Factory DRI 173
+3 Team Rocket's Transceiver DRI 178
+1 Professor Turo's Scenario PAR 171
+2 Technical Machine: Evolution PAR 178
+2 Team Rocket's Ariana DRI 171
+4 Superior Energy Retrieval PAL 189
+4 Buddy-Buddy Poffin PRE 101
+1 Earthen Vessel PRE 106
+2 Ciphermaniac's Codebreaking TEF 145
+1 Team Rocket's Petrel DRI 226
+1 Switch SVI 194
+
+Energy: 8
+1 Basic {R} Energy BUS 167
+2 Basic {D} Energy BUS 168
+1 Basic {G} Energy GRI 167
+1 Basic {F} Energy GRI 169
+1 Basic {L} Energy GRI 168
+1 Basic {W} Energy CIN 124
+1 Basic {P} Energy SUM 162
+3 Basic {M} Energy SUM 163
+
+Total Cards: 60
