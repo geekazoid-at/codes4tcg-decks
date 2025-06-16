@@ -1,0 +1,36 @@
+Pokémon: 8
+3 Thwackey TWM 15
+4 Dipplin TWM 18
+3 Grookey TWM 14
+1 Rabsca TEF 24
+1 Hydrapple DRI 18
+4 Applin TWM 17
+1 Rellor TEF 23
+1 Hydrapple DRI 188
+
+Trainer: 20
+1 Hassel TWM 205
+2 Ultra Ball SVI 196
+1 Vitality Band SVI 197
+1 Night Stretcher SFA 61
+1 Max Rod PRE 116
+4 Arven PAF 235
+2 Iono PAF 237
+1 Super Rod PAL 188
+1 Counter Catcher PAR 160
+1 Superior Energy Retrieval PAL 277
+2 Technical Machine: Evolution PAR 178
+2 Festival Grounds PRE 108
+2 Boss's Orders PAL 248
+1 Letter of Encouragement OBF 189
+3 Bug Catching Set PRE 102
+4 Buddy-Buddy Poffin PRE 101
+1 Earthen Vessel PRE 106
+1 Festival Grounds TWM 149
+1 Kieran TWM 206
+1 Lana's Aid TWM 207
+
+Energy: 1
+9 Basic {G} Energy SVE 9 PH
+
+Total Cards: 60
