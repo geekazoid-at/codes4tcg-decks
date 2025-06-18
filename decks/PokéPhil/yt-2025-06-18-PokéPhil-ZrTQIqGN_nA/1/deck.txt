@@ -1,0 +1,24 @@
+Pokémon: 5
+4 Heatran TWM 123
+1 Regigigas PRE 86
+1 Zamazenta DRI 146
+4 Beldum TEF 113
+4 Metang TEF 114
+
+Trainer: 11
+1 Ultra Ball SVI 196
+4 Night Stretcher SFA 61
+1 Buddy-Buddy Poffin TEF 144
+4 Arven OBF 186
+2 Professor's Research JTG 155
+1 Precious Trolley SSP 185
+4 Pokégear 3.0 SVI 186
+2 Brock's Scouting JTG 146
+2 Technical Machine: Evolution PAR 178
+2 Boss's Orders PAL 172
+3 Energy Recycler BST 124
+
+Energy: 1
+20 Basic {M} Energy SVE 16
+
+Total Cards: 60

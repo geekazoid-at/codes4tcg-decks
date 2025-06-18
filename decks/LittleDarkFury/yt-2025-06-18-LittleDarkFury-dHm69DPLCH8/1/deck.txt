@@ -1,0 +1,35 @@
+Pokémon: 10
+1 Bloodmoon Ursaluna ex TWM 141
+3 N's Zorua JTG 97
+1 Fezandipiti ex SFA 38
+3 N's Zoroark ex JTG 98
+1 Cleffa OBF 80
+1 Munkidori PRE 44
+4 Ethan's Cyndaquil DRI 32
+3 Ethan's Quilava DRI 33
+3 Ethan's Typhlosion DRI 34
+1 N's Reshiram JTG 116
+
+Trainer: 16
+2 Counter Catcher PAR 160
+1 Secret Box TWM 163
+1 Jacq SVI 175
+1 Energy Switch SVI 173
+2 Ultra Ball PAF 91
+1 Night Stretcher SFA 61
+2 Arven OBF 186
+2 Boss's Orders PAL 172
+3 Iono PAL 185
+1 Technical Machine: Evolution PAR 178
+2 Super Rod PAL 188
+2 N's Castle JTG 152
+2 N's PP Up JTG 153
+4 Buddy-Buddy Poffin TEF 144
+4 Ethan's Adventure DRI 165
+1 Rare Candy SVI 191
+
+Energy: 2
+4 Basic {R} Energy SVE 2
+4 Basic {D} Energy SVE 7
+
+Total Cards: 60
