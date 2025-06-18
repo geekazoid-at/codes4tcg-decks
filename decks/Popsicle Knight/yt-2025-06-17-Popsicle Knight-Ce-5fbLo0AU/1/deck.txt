@@ -1,0 +1,32 @@
+Pokémon: 8
+1 Shaymin DRI 10
+2 Dunsparce PAL 156
+2 Dudunsparce TEF 129
+1 Fezandipiti ex SFA 38
+4 Clamperl DRI 54
+2 Huntail DRI 55
+3 Gorebyss DRI 56
+1 Cleffa OBF 80
+
+Trainer: 15
+2 Ultra Ball SVI 196
+2 Earthen Vessel PRE 106
+4 Buddy-Buddy Poffin TEF 144
+2 Counter Catcher PAR 160
+2 Kofu SCR 138
+2 Letter of Encouragement OBF 189
+1 Kofu SCR 138 PH
+4 Night Stretcher SFA 61
+1 Superior Energy Retrieval PAL 189
+1 Super Rod PAL 188
+1 Redeemable Ticket JTG 156
+1 Max Rod PRE 116
+1 Emcee's Hype DRI 163
+3 Team Rocket's Factory DRI 173
+3 Team Rocket's Petrel DRI 176
+
+Energy: 2
+11 Basic {W} Energy SVE 11
+3 Reversal Energy PAL 192
+
+Total Cards: 60
