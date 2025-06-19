@@ -1,0 +1,27 @@
+Pokémon: 18
+4 Tatsugiri ex SSP 142
+4 Pidgeot ex OBF 164
+2 Combusken DRI 41
+4 Blaziken ex JTG 24
+3 Blaziken DRI 42
+1 Quaquaval SVI 54
+
+Trainer: 29
+4 Carmine PRE 103
+4 Crispin PRE 105
+2 Iono PAF 80
+2 Boss's Orders PAL 172
+4 Pokégear 3.0 SVI 186
+4 Call Bell SSP 165
+1 Super Rod PAL 188
+2 Big Air Balloon MEW 155
+1 Powerglass SFA 63
+1 Sparkling Crystal PRE 129
+4 Town Store OBF 196
+
+Energy: 13
+7 Basic {R} Energy SVE 2
+3 Basic {D} Energy SVE 7
+3 Basic {W} Energy SVE 3
+
+Total Cards: 60

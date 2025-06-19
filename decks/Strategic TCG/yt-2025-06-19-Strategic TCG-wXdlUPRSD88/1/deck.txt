@@ -1,0 +1,31 @@
+Pokémon: 4
+1 Girafarig LOT 94
+4 Great Tusk PRE 55
+1 Radiant Greninja ASR 46
+3 Mareep LOT 75
+
+Trainer: 17
+1 Brooklet Hill GRI 120
+1 Switch Cart ASR 154
+4 Explorer's Guidance TEF 200
+1 Earthen Vessel SFA 96
+3 Slumbering Forest UNM 207
+1 Hisuian Heavy Ball ASR 146
+2 Adventure Bag LOT 167
+2 Gravity Gemstone SCR 137
+2 U-Turn Board UNM 211
+4 Professor Sada's Vitality PAR 256
+3 Pokégear 3.0 SMALT 154
+3 Quick Ball SSH 216
+4 Pal Pad SVI 182
+4 Counter Catcher PAR 264
+1 Stadium Nav UNM 208
+1 Miracle Headset SSP 183
+4 Nest Ball SVI 255
+
+Energy: 3
+1 Basic {F} Energy CRE 233
+4 Double Colorless Energy GRI 166
+5 Basic {F} Energy GRI 169
+
+Total Cards: 60

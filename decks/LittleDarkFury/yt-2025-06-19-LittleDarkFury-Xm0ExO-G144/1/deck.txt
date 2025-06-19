@@ -1,0 +1,32 @@
+Pokémon: 11
+1 Fezandipiti ex SFA 38
+2 Magnemite PAL 65
+1 Magnezone ex SVI 65
+1 Latias ex SSP 76
+2 Magneton SSP 59
+2 Electivire ex DRI 69
+2 Electabuzz SCR 46
+2 Miraidon ex SVI 81
+1 Iron Hands ex PAR 70
+1 Mew ex MEW 151
+1 Squawkabilly ex PAF 75
+
+Trainer: 13
+1 Rescue Board TEF 159
+2 Iono PAL 185
+1 Super Rod PAL 188
+4 Nest Ball PAF 84
+1 Maximum Belt PRE 117
+4 Electric Generator SVI 170
+1 Switch SVI 194
+3 Ultra Ball PAF 91
+1 Night Stretcher SFA 61
+4 Arven OBF 186
+1 Counter Catcher PAR 160
+2 Professor's Research PRE 122
+3 Boss's Orders PAL 172
+
+Energy: 1
+16 Basic {L} Energy GRI 168
+
+Total Cards: 60
