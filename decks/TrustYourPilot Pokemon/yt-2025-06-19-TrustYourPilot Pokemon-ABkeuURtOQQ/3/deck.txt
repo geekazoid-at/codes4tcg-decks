@@ -1,0 +1,29 @@
+Pokémon: 8
+4 Misty's Psyduck DRI 45
+2 Misty's Staryu DRI 46
+4 Misty's Starmie DRI 47
+2 Misty's Lapras DRI 50
+1 Fezandipiti ex SFA 38
+3 Cleffa OBF 80
+4 Misty's Magikarp DRI 48
+4 Misty's Gyarados DRI 49
+
+Trainer: 13
+3 Ultra Ball SVI 196
+4 Buddy-Buddy Poffin TEF 144
+1 Counter Catcher PAR 160
+2 Hassel TWM 151
+3 Iono PAL 185
+2 Miriam SVI 179
+2 Lucky Helmet TWM 158
+2 Night Stretcher SFA 61
+4 Super Rod PAL 188
+1 Max Rod PRE 116
+1 Rescue Board TEF 159
+4 Sacred Ash DRI 168
+1 Boss's Orders PAL 172
+
+Energy: 1
+6 Basic {W} Energy SVE 11
+
+Total Cards: 60

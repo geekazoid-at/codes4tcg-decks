@@ -1,0 +1,27 @@
+Pokémon: 9
+2 Varoom SFA 43
+4 Misty's Psyduck DRI 45
+2 Misty's Staryu DRI 46
+4 Misty's Starmie DRI 47
+2 Revavroom PAF 65
+2 Misty's Lapras DRI 50
+1 Cleffa OBF 80
+4 Misty's Magikarp DRI 48
+4 Misty's Gyarados DRI 49
+
+Trainer: 9
+2 Ultra Ball SVI 196
+4 Buddy-Buddy Poffin TEF 144
+4 Iono PAL 185
+2 Miriam SVI 179
+3 Night Stretcher SFA 61
+4 Super Rod PAL 188
+3 Professor's Research JTG 155
+4 Sacred Ash DRI 168
+1 Boss's Orders PAL 172
+
+Energy: 2
+7 Basic {W} Energy SVE 11
+1 Legacy Energy TWM 167
+
+Total Cards: 60
