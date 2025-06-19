@@ -1,0 +1,42 @@
+Pokémon: 14
+1 Yanmega ex DRI 228
+1 Combee PAL 8
+1 Munkidori TWM 95
+1 Wo-Chien ex PAL 27
+1 Hawlucha SVI 118
+2 Yanmega ex DRI 3
+1 Fezandipiti ex SFA 38
+1 Froslass TWM 53
+1 Vespiquen ex OBF 212
+1 Lillie's Clefairy ex JTG 56
+1 Snorunt PAR 37
+1 Tatsugiri TWM 131
+3 Yanma DRI 2
+1 Budew PRE 4 PH
+
+Trainer: 19
+1 Counter Catcher PAR 160
+1 Town Store OBF 196
+1 Surfer SSP 187
+1 Precious Trolley SSP 185
+1 Iris's Fighting Spirit JTG 149
+1 Brock's Scouting JTG 146
+3 Ultra Ball PAF 91
+1 Night Stretcher SFA 61
+2 Rescue Board TEF 159
+2 Nest Ball SVI 181
+2 Boss's Orders PAL 172
+2 Iono PAL 185
+4 Arven SVI 166
+1 Lucky Helmet AOR 77 PH
+2 Super Rod NVI 95 PH
+1 Professor's Research JTG 155
+1 Colress's Tenacity SFA 57
+3 Buddy-Buddy Poffin TEF 144
+1 Switch SVI 194
+
+Energy: 2
+4 Luminous Energy PAL 191
+8 Basic {G} Energy SVE 1
+
+Total Cards: 60
