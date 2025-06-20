@@ -1,0 +1,37 @@
+Pokémon: 9
+1 Lillie's Clefairy ex JTG 56
+4 Team Rocket's Drowzee DRI 79
+2 Natu PAF 25
+1 Bloodmoon Ursaluna ex TWM 141
+3 Team Rocket's Hypno DRI 80
+1 Team Rocket's Mimikyu DRI 87
+1 Lillie's Ribombee JTG 67
+1 Lillie's Cutiefly JTG 66
+2 Xatu PAR 72
+
+Trainer: 19
+2 Boss's Orders PAL 172
+4 Nest Ball PAF 84
+3 Ultra Ball PAF 91
+1 Team Rocket's Archer DRI 170
+1 Secret Box TWM 163
+1 Energy Retrieval SVI 171
+2 Buddy-Buddy Poffin PRE 101 PH
+1 Artazon PAL 171
+1 Counter Catcher PAR 160
+1 Lillie's Pearl JTG 151
+1 Super Rod PAL 188
+1 Rescue Board PRE 126
+4 Professor's Research JTG 155
+1 Earthen Vessel PRE 106
+2 Arven OBF 186
+1 Accompanying Flute TWM 142
+1 Switch SVI 194
+4 Iono PAL 185
+2 Night Stretcher SFA 61
+
+Energy: 2
+4 Team Rocket's Energy DRI 182
+6 Basic {P} Energy SUM 162
+
+Total Cards: 60
