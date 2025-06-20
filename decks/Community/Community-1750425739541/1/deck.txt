@@ -1,0 +1,35 @@
+Pokémon: 7
+2 Revavroom ex OBF 224
+2 Revavroom PAF 193
+3 Varoom SFA 43 PH
+3 Mow Rotom DRI 9 PH
+2 Budew PRE 4 PH
+1 Fezandipiti ex SFA 92
+1 Shaymin DRI 185
+
+Trainer: 18
+1 Crispin PRE 171
+1 Treasure Tracker PRE 131
+3 Arven SVI 249
+3 Pokégear 3.0 UNB 233
+1 Boss's Orders PAL 248
+3 Exp. Share BST 180
+1 Bravery Charm SCR 175
+1 Luxurious Cape PAR 265
+2 Handheld Fan TWM 150 PH
+4 Rigid Band MEW 165 PH
+2 Earthen Vessel SFA 96
+1 Rescue Board TWM 225
+4 Ultra Ball PLF 122
+4 Buddy-Buddy Poffin TWM 223
+1 Super Rod PAL 276
+1 Night Stretcher SSP 251
+1 Pal Pad FLF 92 PH
+1 Switch SUM 160
+
+Energy: 3
+4 Jet Energy SSP 252
+4 Basic {G} Energy SVE 18 PH
+3 Basic {M} Energy SVE 34 PH
+
+Total Cards: 60
