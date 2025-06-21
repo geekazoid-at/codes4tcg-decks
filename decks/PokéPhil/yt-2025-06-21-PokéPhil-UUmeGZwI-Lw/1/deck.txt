@@ -1,0 +1,32 @@
+Pokémon: 11
+2 Azumarill SSP 74
+1 Espathra ex PAF 6
+1 Espathra ex PAF 214
+1 Flittle PAR 80
+3 Xatu PAR 72
+1 Fezandipiti ex SFA 38
+1 Mew ex MEW 151
+1 Lillie's Clefairy ex JTG 56
+1 Flittle PAR 80 PH
+2 Marill TEF 64
+3 Natu PAR 71
+
+Trainer: 13
+1 Counter Catcher PAR 160
+2 Pokémon League Headquarters OBF 192
+1 Precious Trolley SSP 185
+4 Night Stretcher SFA 61
+2 Boss's Orders PAL 172
+2 Iono PAL 185
+4 Arven SVI 166
+2 Technical Machine: Evolution PAR 178
+1 Tulip PAR 181
+2 Buddy-Buddy Poffin TEF 144
+3 Ultra Ball SVI 196
+2 Rescue Board PRE 126
+2 Professor's Research PRE 124
+
+Energy: 1
+15 Basic {P} Energy SVE 13
+
+Total Cards: 60

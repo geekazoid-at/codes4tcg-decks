@@ -1,0 +1,25 @@
+Pokémon: 3
+1 Ethan's Pichu DRI 71
+3 Ethan's Pinsir DRI 1
+4 Ethan's Ho-Oh ex DRI 230
+
+Trainer: 14
+4 Pokégear 3.0 UNB 182 PH
+2 Penny SVI 252
+2 Earthen Vessel SFA 96
+4 Switch SLG 67 PH
+4 Bravery Charm PAL 173 PH
+4 Arven PAF 235
+1 Super Rod PAL 276
+2 Superior Energy Retrieval PAL 277
+4 Iono PAL 269
+2 Boss's Orders LOR-TG 24
+4 Professor's Research CEL 24
+1 Maximum Belt TEF 154
+2 Beach Court SVI 167 PH
+4 Ethan's Adventure DRI 236
+
+Energy: 1
+12 Basic {R} Energy SVE 2
+
+Total Cards: 60
