@@ -1,0 +1,31 @@
+Pokémon: 10
+3 Teal Mask Ogerpon ex TWM 25
+1 Cornerstone Mask Ogerpon ex PRE 58
+1 Latias ex SSP 76
+3 Raging Bolt ex TEF 123
+3 Hoothoot SCR 114
+3 Noctowl SCR 115
+1 Fezandipiti ex SFA 38
+2 Fan Rotom SCR 118
+1 Squawkabilly ex PAL 169
+1 Slither Wing PAR 107
+
+Trainer: 13
+4 Ultra Ball SVI 196
+1 Switch SVI 194
+3 Earthen Vessel PAR 163
+2 Area Zero Underdepths SCR 131
+2 Crispin SCR 133
+3 Energy Retrieval SVI 171
+1 Iono PAL 185
+4 Professor Sada's Vitality PAR 170
+2 Night Stretcher SFA 61
+1 Prime Catcher TEF 157
+1 Pal Pad SVI 182
+4 Nest Ball SVI 181
+1 Boss's Orders PAL 172
+
+Energy: 3
+3 Basic {F} Energy SVE 6
+3 Basic {L} Energy SVE 4
+6 Basic {G} Energy SVE 1
