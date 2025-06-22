@@ -1,0 +1,25 @@
+Pokémon: 8
+4 Wattrel PAF 145
+2 Pecharunt ex PRE 163
+2 Squawkabilly ex PAL 264
+4 Dartrix SFA 4 PH
+4 Murkrow PAF 181
+2 Brute Bonnet PAR 207
+4 Flamigo PAF 211
+2 Pecharunt PR-SV 129
+
+Trainer: 9
+4 Ultra Ball SUM 161
+1 Brilliant Blender SSP 164
+4 Carmine TWM 217
+4 Night Stretcher SSP 251
+4 Nest Ball SUM 158
+2 Binding Mochi PRE 95 PH
+4 Ancient Booster Energy Capsule SVALT 47
+3 Professor's Research SVI 240
+4 Perilous Jungle TEF 156 PH
+
+Energy: 1
+6 Basic {D} Energy BUS 168
+
+Total Cards: 60
