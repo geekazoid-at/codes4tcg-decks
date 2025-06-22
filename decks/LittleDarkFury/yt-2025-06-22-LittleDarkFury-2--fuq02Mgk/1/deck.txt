@@ -1,0 +1,33 @@
+Pokémon: 10
+3 Cynthia's Gible DRI 102
+1 Gabite PAR 95
+1 Cynthia's Roserade DRI 8
+1 Munkidori TWM 95
+2 Garchomp ex PAR 38
+2 Cynthia's Gabite DRI 103
+1 Cynthia's Roselia DRI 7
+2 Gible PAR 94
+1 Fezandipiti ex SFA 38
+3 Cynthia's Garchomp ex DRI 104
+
+Trainer: 14
+2 Earthen Vessel PAR 163
+3 Ultra Ball SVI 196
+1 Defiance Band SVI 169
+4 Rare Candy PAF 89
+1 Night Stretcher SFA 61
+4 Arven OBF 186
+3 Cynthia's Power Weight DRI 162
+1 Artazon PAF 76
+3 Professor's Research PRE 122
+4 Buddy-Buddy Poffin PRE 101
+4 Iono PAL 185
+2 Boss's Orders PAL 172
+1 Secret Box TWM 163
+1 Counter Catcher PAR 160
+
+Energy: 2
+2 Basic {D} Energy BUS 168
+7 Basic {F} Energy GRI 169
+
+Total Cards: 60
