@@ -1,0 +1,31 @@
+Pokémon: 7
+3 Iron Crown ex TEF 81
+3 Iron Valiant ex PAR 89
+2 Iron Leaves ex TEF 25
+2 Miraidon TEF 121
+1 Iron Bundle PAR 56
+1 Mew ex MEW 151
+1 Fezandipiti ex SFA 38
+
+Trainer: 14
+4 Arven OBF 186
+4 Iono PAL 185
+2 Professor's Research JTG 155
+2 Surfer SSP 187
+4 Switch SVI 194
+4 Techno Radar PAR 180
+2 Pokémon Catcher SVI 187 PH
+2 Nest Ball SVI 181
+1 Reboot Pod TEF 158
+1 Night Stretcher SFA 61
+1 Earthen Vessel PAR 163
+4 Future Booster Energy Capsule TEF 149
+2 Exp. Share SVI 174
+2 Gravity Mountain SSP 177
+
+Energy: 3
+6 Basic {P} Energy SVE 13
+4 Basic {G} Energy SVE 9
+2 Jet Energy PAL 190
+
+Total Cards: 60
