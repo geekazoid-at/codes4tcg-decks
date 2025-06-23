@@ -1,0 +1,41 @@
+Pokémon: 12
+4 Spidops ex SVI 19
+2 N's Zorua JTG 97
+1 Fezandipiti ex SFA 38
+2 N's Zoroark ex JTG 98
+2 Dedenne SSP 87
+4 Tarountula PAL 16
+1 Feebas SSP 41
+1 Milotic TWM 50
+1 Klefki SVI 96
+1 Genesect SFA 40
+1 Abra TWM 80
+1 Chi-Yu ex PAL 40
+
+Trainer: 20
+2 Defiance Vest PAR 162
+4 Buddy-Buddy Poffin TEF 144
+2 Iono PAF 80
+1 Crushing Hammer SVI 168
+2 Accompanying Flute TWM 142
+1 Team Rocket's Watchtower DRI 180
+1 Miracle Headset SSP 183
+1 Eri TEF 146
+2 Night Stretcher SFA 61
+1 Picnic Basket SVI 184
+1 Professor Turo's Scenario PRE 121
+1 Boss's Orders PAL 172
+1 Erika's Invitation MEW 160
+1 Redeemable Ticket JTG 156
+4 Counter Catcher PAR 160
+1 Penny SVI 183
+2 Brock's Scouting JTG 146
+1 Xerosic's Machinations SFA 64
+3 Cyrano SSP 170
+1 Gravity Gemstone SCR 137
+
+Energy: 2
+3 Basic {R} Energy BUS 167
+3 Jet Energy PAL 190
+
+Total Cards: 60
