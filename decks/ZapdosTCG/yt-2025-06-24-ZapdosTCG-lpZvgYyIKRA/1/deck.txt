@@ -1,0 +1,36 @@
+Pokémon: 19
+4 Dreepy TWM 128
+3 Drakloak TWM 129
+2 Dragapult ex TWM 130
+2 Charmander PAF 7
+1 Charmeleon PAF 8
+2 Charizard ex OBF 125
+1 Munkidori TWM 95
+1 Cleffa OBF 80
+1 Hawlucha SVI 118
+1 Fezandipiti SFA 38
+1 Wellspring Mask Ogerpon ex PRE 27
+
+Trainer: 32
+4 Arven OBF 186
+2 Professor's Research JTG 155
+4 Iono PAL 185
+2 Boss's Orders PAL 172
+1 Brock's Scouting JTG 146
+4 Buddy-Buddy Poffin TEF 144
+4 Ultra Ball SVI 196
+1 Nest Ball SVI 181
+2 Rare Candy SVI 191
+1 Super Rod PAL 188
+1 Night Stretcher SFA 61
+2 Counter Catcher PAR 160
+1 Unfair Stamp TWM 165
+1 Technical Machine: Evolution PAR 178
+1 Air Balloon SSH 156
+1 Team Rocket's Watchtower DRI 180
+
+Energy: 9
+5 Basic {R} Energy SVE 2
+4 Luminous Energy PAL 191
+
+Total Cards: 60

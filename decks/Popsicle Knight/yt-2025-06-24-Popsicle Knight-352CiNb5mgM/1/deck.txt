@@ -1,0 +1,35 @@
+Pokémon: 5
+2 Team Rocket's Ekans DRI 112
+1 Team Rocket's Muk DRI 124
+2 Team Rocket's Grimer DRI 123
+2 Team Rocket's Arbok DRI 113 PH
+2 Team Rocket's Chingling DRI 85
+
+Trainer: 21
+3 Counter Catcher PAR 160
+2 Team Rocket's Watchtower DRI 180
+1 Team Rocket's Archer DRI 170
+2 Team Rocket's Petrel DRI 176
+3 Xerosic's Machinations SFA 64
+1 Team Rocket's Giovanni DRI 174
+4 Night Stretcher SFA 61
+2 Nest Ball SVI 181
+3 Team Rocket's Transceiver DRI 178
+2 Jamming Tower TWM 153
+2 Iono PAL 185
+3 Technical Machine: Devolution PAR 177
+3 Team Rocket's Ariana DRI 171
+1 Colress's Tenacity SFA 57
+3 Team Rocket's Bother-Bot DRI 172 PH
+1 Team Rocket's Proton DRI 177
+2 Gravity Gemstone SCR 137
+2 Ultra Ball SVI 196
+1 Neutralization Zone SFA 60
+3 Switch SVI 194
+1 Earthen Vessel PAR 163
+
+Energy: 2
+2 Basic {D} Energy SVE 15
+4 Team Rocket's Energy DRI 182
+
+Total Cards: 60

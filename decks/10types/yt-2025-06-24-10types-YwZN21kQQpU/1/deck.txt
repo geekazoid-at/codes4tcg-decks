@@ -1,0 +1,29 @@
+Pokémon: 8
+4 Luxray CRZ 44
+2 Manectric CES 52
+1 Tatsugiri ex SSP 142
+3 Blaziken SMALT 108
+1 Rayquaza VMAX CRZ 102
+3 Rayquaza VMAX EVS 111
+4 Pidgeot ex OBF 164
+4 Blaziken ex JTG 24
+
+Trainer: 10
+1 Guzma BUS 115
+4 Snorlax Doll PAR 175
+4 Mysterious Treasure FLI 113
+2 Adventure Bag LOT 167
+4 Town Store OBF 196
+4 Call Bell SSP 165
+4 Crispin SCR 133
+1 Sparkling Crystal PRE 129
+1 Lance {*} DRM 61
+4 Nest Ball PAF 84
+
+Energy: 4
+1 Basic {W} Energy SVE 3
+5 Basic {R} Energy SVE 2
+1 Basic {D} Energy SVE 7
+2 Basic {L} Energy SVE 4
+
+Total Cards: 60
