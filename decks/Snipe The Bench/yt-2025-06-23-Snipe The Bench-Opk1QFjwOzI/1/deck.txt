@@ -1,0 +1,32 @@
+Pokémon: 9
+1 Fezandipiti ex SFA 38
+1 Mew ex MEW 151
+2 Froslass TWM 53
+3 Capsakid SVI 28
+1 Gouging Fire ex TEF 38
+2 Centiskorch SSP 28 PH
+2 Scovillain ex SSP 37
+2 Snorunt PAR 37
+3 Sizzlipede TEF 36
+
+Trainer: 15
+2 Counter Catcher PAR 160
+2 Team Rocket's Watchtower DRI 180
+1 Unfair Stamp TWM 165
+2 Exp. Share SVI 174
+2 Pokégear 3.0 SVI 186
+2 Night Stretcher SFA 61
+4 Nest Ball SVI 181
+2 Boss's Orders PAL 172
+4 Iono PAL 185
+2 Arven SVI 166
+4 Professor's Research JTG 155
+2 Buddy-Buddy Poffin TEF 144
+3 Ultra Ball SVI 196
+2 Switch SVI 194
+1 Earthen Vessel PAR 163
+
+Energy: 1
+8 Basic {R} Energy SVE 10
+
+Total Cards: 60
