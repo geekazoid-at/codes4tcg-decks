@@ -1,0 +1,31 @@
+Pokémon: 7
+3 Roaring Moon ex PAR 124
+1 Fezandipiti ex SFA 38
+1 Mew ex MEW 151
+3 Torchic DRI 40
+2 Combusken DRI 41
+3 Blaziken ex JTG 24
+1 Pecharunt ex SFA 39
+
+Trainer: 16
+1 Counter Catcher PAR 160
+1 Prime Catcher PRE 119
+4 Pokégear 3.0 SVI 186
+2 Night Stretcher SFA 61
+2 Nest Ball SVI 181
+4 Team Rocket's Watchtower DRI 180 PH
+2 Boss's Orders PAL 172
+2 Ancient Booster Energy Capsule TEF 140 PH
+1 Iono PAL 185
+4 Arven SVI 166
+4 Professor Sada's Vitality PAR 170
+2 Technical Machine: Evolution PAR 178
+2 Buddy-Buddy Poffin PRE 101
+2 Earthen Vessel PRE 106
+4 Ultra Ball SVI 196
+2 Rare Candy SVI 191
+
+Energy: 1
+7 Basic {D} Energy SVE 15
+
+Total Cards: 60
