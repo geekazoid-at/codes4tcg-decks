@@ -1,0 +1,40 @@
+Pokémon: 11
+1 Maractus JTG 8
+1 Iron Bundle PAR 56
+2 Smoliv DRI 21
+2 Dolliv DRI 22
+2 Arboliva ex DRI 23
+3 Munkidori TWM 95
+2 Froslass TWM 53
+1 Cleffa OBF 80
+2 Budew PRE 4
+2 Snorunt PAR 37
+1 Shaymin DRI 10
+
+Trainer: 19
+2 Counter Catcher PAR 160
+1 Town Store OBF 196
+2 Bug Catching Set TWM 143
+1 Unfair Stamp TWM 165
+1 Energy Search SVI 172
+2 Night Stretcher SFA 61
+1 Rescue Board TEF 159
+1 Nest Ball SVI 181
+2 Artazon PAL 171
+4 Iono PAL 185
+4 Arven SVI 166
+2 Technical Machine: Devolution PAR 177
+1 Technical Machine: Evolution PAR 178
+1 Super Rod PAL 188
+2 Professor's Research JTG 155
+1 Crispin SCR 133
+3 Buddy-Buddy Poffin TEF 144
+2 Ultra Ball SVI 196
+1 Rare Candy SVI 191
+
+Energy: 3
+1 Luminous Energy PAL 191
+3 Basic {G} Energy SVE 9
+3 Basic {D} Energy SVE 15
+
+Total Cards: 60

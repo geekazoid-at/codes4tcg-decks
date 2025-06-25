@@ -1,0 +1,37 @@
+Pokémon: 9
+1 Tatsugiri SVI 62
+1 Bloodmoon Ursaluna ex TWM 141
+2 Lotad JTG 35
+2 Ludicolo JTG 37
+4 Dondozo ex DRI 66
+1 Fezandipiti ex SFA 38
+2 Rellor TEF 23
+2 Lombre JTG 36
+2 Rabsca TEF 24
+
+Trainer: 19
+1 Counter Catcher PAR 160
+3 Lively Stadium SSP 180
+1 Exp. Share SVI 174
+1 Counter Gain SSP 169
+1 Hero's Cape TEF 152
+1 Night Stretcher SFA 61
+4 Nest Ball SVI 181
+1 Artazon PAL 171
+2 Bravery Charm PAL 173
+2 Boss's Orders PAL 172
+3 Iono PAL 185
+4 Arven SVI 166
+2 Technical Machine: Evolution PAR 178
+1 Buddy-Buddy Poffin PRE 101
+2 Earthen Vessel PRE 106
+1 Crispin PRE 105
+1 Professor's Research PRE 122
+1 Rescue Board PRE 126
+1 Rare Candy SVI 191
+
+Energy: 2
+2 Basic {G} Energy SVE 1
+8 Basic {W} Energy SVE 11
+
+Total Cards: 60

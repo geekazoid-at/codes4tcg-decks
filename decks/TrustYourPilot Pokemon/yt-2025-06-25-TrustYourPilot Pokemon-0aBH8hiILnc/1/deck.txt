@@ -1,0 +1,35 @@
+Pokémon: 12
+2 Dolliv SVI 22
+1 Bloodmoon Ursaluna ex TWM 141
+3 Smoliv DRI 21
+2 Arboliva ex DRI 23
+1 Hawlucha SVI 118
+4 Duskull SFA 18
+1 Fezandipiti ex SFA 38
+1 Mew ex MEW 151
+1 Budew PRE 4
+3 Dusclops SFA 19
+1 Squawkabilly ex PAL 169
+2 Dusknoir SFA 20
+
+Trainer: 15
+1 Counter Catcher PAR 160
+2 Pokégear 3.0 SVI 186
+3 Night Stretcher SFA 61
+3 Nest Ball SVI 181
+1 Jamming Tower TWM 153
+2 Iono PAL 185
+1 Technical Machine: Devolution PAR 177
+1 Super Rod PAL 188
+4 Professor's Research JTG 155
+2 Colress's Tenacity SFA 57
+1 Grand Tree SCR 136
+4 Buddy-Buddy Poffin TEF 144
+4 Ultra Ball SVI 196
+1 Switch SVI 194
+3 Rare Candy SVI 191
+
+Energy: 1
+5 Basic {G} Energy SVE 9
+
+Total Cards: 60
