@@ -1,0 +1,34 @@
+Pokémon: 8
+2 Team Rocket's Mareep DRI 72
+1 Team Rocket's Flaaffy DRI 73
+2 Team Rocket's Ampharos DRI 74
+4 Team Rocket's Larvitar DRI 94
+2 Team Rocket's Pupitar DRI 95
+3 Team Rocket's Tyranitar DRI 96
+1 Team Rocket's Mimikyu DRI 87
+1 Team Rocket's Sneasel DRI 128
+
+Trainer: 15
+4 Rare Candy PAF 89
+4 Ultra Ball PAF 91
+4 Team Rocket's Ariana DRI 171
+2 Team Rocket's Proton DRI 227
+2 Team Rocket's Giovanni DRI 174
+3 Technical Machine: Devolution PAR 177
+1 Night Stretcher SFA 61
+1 Super Rod PAL 188
+2 Iono PAF 80
+3 Team Rocket's Factory DRI 173
+2 Team Rocket's Petrel DRI 176
+1 Neutralization Zone SFA 60
+4 Team Rocket's Transceiver DRI 178
+1 Team Rocket's Archer DRI 170
+1 Team Rocket's Proton DRI 177
+
+Energy: 4
+3 Team Rocket's Energy DRI 182
+4 Reversal Energy PAL 192
+1 Basic {F} Energy GRI 169
+1 Basic {L} Energy GRI 168
+
+Total Cards: 60
