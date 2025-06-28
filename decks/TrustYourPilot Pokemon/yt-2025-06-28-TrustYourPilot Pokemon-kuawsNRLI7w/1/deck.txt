@@ -1,0 +1,36 @@
+Pokémon: 7
+3 Team Rocket's Nidoking ex DRI 119
+2 Team Rocket's Wobbuffet DRI 82
+1 Team Rocket's Mimikyu DRI 87
+1 Team Rocket's Articuno DRI 51
+2 Team Rocket's Nidorino DRI 118
+1 Team Rocket's Sneasel DRI 128
+3 Team Rocket's Nidoran♂ DRI 117
+
+Trainer: 19
+3 Ultra Ball SVI 196
+2 Switch SVI 194
+1 Counter Gain SSP 169
+2 Rare Candy SVI 191
+1 Earthen Vessel PAR 163
+3 Buddy-Buddy Poffin TEF 144
+1 Counter Catcher PAR 160
+4 Team Rocket's Ariana DRI 171
+2 Team Rocket's Giovanni DRI 174
+1 Technical Machine: Devolution PAR 177
+2 Night Stretcher SFA 61
+2 Technical Machine: Turbo Energize PAR 179
+1 Super Rod PAL 188
+1 Hero's Cape TEF 152
+3 Nest Ball SVI 181
+2 Team Rocket's Factory DRI 173
+4 Team Rocket's Transceiver DRI 178
+1 Team Rocket's Archer DRI 170
+2 Team Rocket's Proton DRI 177
+
+Energy: 3
+4 Team Rocket's Energy DRI 182
+4 Basic {D} Energy SVE 15
+1 Basic {P} Energy SVE 13
+
+Total Cards: 60

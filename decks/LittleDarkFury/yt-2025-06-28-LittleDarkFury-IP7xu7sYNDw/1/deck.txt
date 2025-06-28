@@ -1,0 +1,38 @@
+Pokémon: 11
+1 Fezandipiti ex SFA 38
+2 Tinkaton PAL 105
+2 Tinkatink PAL 102
+2 Tinkatink PAR 83
+1 Dunsparce TEF 128
+3 Dudunsparce TEF 129
+3 Tinkaton ex PR-SV 31
+3 Dunsparce PAL 156
+1 Dudunsparce ex JTG 121
+2 Tinkatuff PAF 166
+1 Lillie's Clefairy ex JTG 56
+
+Trainer: 15
+4 Buddy-Buddy Poffin TEF 144
+2 Crispin PRE 105
+1 Counter Gain SSP 169
+1 Super Rod PAL 188
+2 Artazon PAF 76
+2 Morty's Conviction TEF 155
+3 Rare Candy SVI 191
+2 Nest Ball SVI 181
+1 Brassius OBF 187
+1 Night Stretcher SFA 61
+2 Arven SVI 166
+2 Great Ball PAL 183
+2 Technical Machine: Evolution PAR 178
+2 Jacq SVI 175
+2 Boss's Orders PAL 172
+
+Energy: 5
+2 Basic {D} Energy BUS 168
+2 Basic {W} Energy CIN 124
+1 Enriching Energy SSP 191
+2 Reversal Energy PAL 192
+3 Basic {P} Energy SUM 162
+
+Total Cards: 60
