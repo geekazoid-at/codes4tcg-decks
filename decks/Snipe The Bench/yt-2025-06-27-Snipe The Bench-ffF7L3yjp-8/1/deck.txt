@@ -1,0 +1,31 @@
+Pokémon: 10
+2 Grotle TEF 11
+3 Teal Mask Ogerpon ex TWM 25
+3 Toedscool SCR 17
+1 Mew ex MEW 151
+2 Torterra ex TEF 12
+2 Toedscruel ex OBF 22
+1 Fezandipiti ex SFA 38
+2 Turtwig TEF 10
+2 Budew PRE 4
+1 Toedscruel PAR 17
+
+Trainer: 13
+1 Exp. Share SVI 174
+3 Area Zero Underdepths SCR 131
+3 Energy Switch SVI 173
+2 Energy Retrieval SVI 171
+1 Counter Catcher PAR 160
+4 Iono PAL 185
+3 Night Stretcher SFA 61
+4 Nest Ball SVI 181
+1 Unfair Stamp TWM 165
+1 Professor's Research SVI 189
+4 Bug Catching Set TWM 143
+2 Boss's Orders PAL 172
+1 Rare Candy PAF 89
+
+Energy: 1
+11 Basic {G} Energy SVE 9
+
+Total Cards: 60
