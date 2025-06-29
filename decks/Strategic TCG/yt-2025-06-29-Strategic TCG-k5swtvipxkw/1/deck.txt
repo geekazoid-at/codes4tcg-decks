@@ -1,0 +1,32 @@
+Pokémon: 4
+1 Manaphy CRZ-GG 6
+4 Durant BST 10
+1 Ditto MEW 132
+1 Radiant Venusaur PGO 4
+
+Trainer: 19
+3 Cynthia HIF 151
+2 Boss's Orders PAL 265
+3 Rescue Carrier EVS 154
+2 Hisuian Heavy Ball ASR 146
+2 Iono PAF 237
+2 Rescue Stretcher SMALT 187
+3 Net Ball SMALT 139
+2 Guzma & Hala CEC 229
+2 Lucky Egg SSH 167
+2 Iono PAL 254
+4 Counter Catcher PAR 264
+3 Cursed Shovel RCL 157
+1 Neutralization Zone SFA 60
+1 Accompanying Flute TWM 142
+1 Echoing Horn CRE 225
+1 Cynthia UPR 119
+4 Switch MEW 206
+3 Galar Mine RCL 160 PH
+4 Nest Ball SVI 255
+
+Energy: 2
+4 Double Turbo Energy ASR 216
+4 Double Colorless Energy GRI 166
+
+Total Cards: 60
