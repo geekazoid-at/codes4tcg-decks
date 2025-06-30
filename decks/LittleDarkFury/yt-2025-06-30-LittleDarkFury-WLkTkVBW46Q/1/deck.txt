@@ -1,0 +1,33 @@
+Pokémon: 6
+1 Fezandipiti ex SFA 38
+4 Team Rocket's Weezing DRI 126
+2 Weezing MEW 110
+4 Koffing JTG 91
+4 Team Rocket's Koffing DRI 125
+2 Terapagos ex SCR 128
+
+Trainer: 17
+4 Buddy-Buddy Poffin TEF 144
+3 Iono PAL 185
+1 Super Rod PAL 188
+3 Nest Ball SVI 181
+1 Glass Trumpet PRE 110
+1 Maximum Belt PRE 117
+2 Boss's Orders PAL 172
+1 Switch SVI 194
+3 Ultra Ball SVI 196 PH
+1 Night Stretcher SFA 61
+1 Sacred Ash DRI 168
+3 Area Zero Underdepths PRE 94
+1 Bravery Charm PAL 173
+2 Arven SVI 166
+1 Counter Catcher PAR 160
+4 Professor's Research JTG 155
+1 Morty's Conviction TEF 155
+
+Energy: 3
+3 Basic {D} Energy BUS 168
+4 Team Rocket's Energy DRI 182
+3 Reversal Energy PAL 192
+
+Total Cards: 60

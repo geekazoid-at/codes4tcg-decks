@@ -1,0 +1,33 @@
+Pokémon: 16
+4 Dunsparce PAL 156
+4 Dudunsparce TEF 129
+1 Dudunsparce ex JTG 121
+3 Gouging Fire ex TEF 38
+1 Gouging Fire SSP 38
+1 Chi-Yu PAR 29
+1 Koraidon SSP 116
+1 Fan Rotom PRE 85
+
+Trainer: 35
+4 Professor Sada's Vitality PRE 120
+3 Arven OBF 186
+3 Iono PAF 80
+2 Boss's Orders PAL 172
+1 Mela PAR 167
+1 Black Belt's Training PRE 96
+4 Dusk Ball SSP 175
+3 Buddy-Buddy Poffin PRE 101
+2 Nest Ball PAF 84
+2 Counter Catcher PAR 160
+2 Earthen Vessel PRE 106
+1 Secret Box TWM 163
+1 Super Rod PAL 188
+1 Night Stretcher SFA 61
+2 Ancient Booster Energy Capsule PAR 159
+2 Artazon PAF 76
+1 Lively Stadium SSP 180
+
+Energy: 9
+9 Basic {R} Energy SVE 2
+
+Total Cards: 60
