@@ -1,0 +1,34 @@
+Pokémon: 8
+2 Munkidori TWM 95
+3 Marnie's Impidimp DRI 134
+1 Pecharunt ex SFA 39
+1 Fezandipiti ex SFA 38
+2 Brute Bonnet PAR 123
+2 Marnie's Grimmsnarl ex DRI 136
+2 Marnie's Morgrem DRI 135
+1 Pecharunt PR-SV 149
+
+Trainer: 18
+2 Buddy-Buddy Poffin PRE 101
+1 Earthen Vessel PRE 106
+2 Rare Candy PAF 89
+1 Ultra Ball PAF 91
+2 Spikemuth Gym DRI 169
+4 Iono PAL 185
+2 Night Stretcher SFA 61
+2 Technical Machine: Evolution PAR 178
+2 Professor's Research JTG 155
+1 Perilous Jungle TEF 156
+4 Nest Ball SVI 181
+1 Secret Box TWM 163
+2 Binding Mochi SFA 55
+3 Ancient Booster Energy Capsule PAR 159
+4 Arven SVI 166
+2 Boss's Orders PAL 172
+1 Super Rod PAL 188
+1 Janine's Secret Art PRE 112
+
+Energy: 1
+9 Basic {D} Energy SVE 15
+
+Total Cards: 60
