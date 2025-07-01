@@ -1,0 +1,35 @@
+Pokémon: 10
+1 Dunsparce PRE 79
+3 Dudunsparce PRE 80
+2 Dunsparce PAL 156
+3 Yanmega ex DRI 3
+1 Munkidori PRE 44
+2 Scizor OBF 141
+1 Fezandipiti ex SFA 38
+1 Dudunsparce ex JTG 121
+4 Yanma DRI 2
+2 Scyther MEW 123
+
+Trainer: 14
+4 Buddy-Buddy Poffin PRE 101
+3 Iono PAL 185
+2 Boss's Orders PAL 172
+2 Super Rod PAL 188
+2 Artazon PAL 171
+2 Morty's Conviction TEF 155
+2 Nest Ball SVI 181
+1 Energy Recycler DRI 164
+1 Switch SVI 194
+2 Professor's Research PRE 122
+3 Ultra Ball SVI 196
+1 Counter Catcher PAR 160
+1 Professor's Research SVI 240
+1 Rescue Board TEF 159
+
+Energy: 4
+7 Basic {G} Energy GRI 167
+1 Legacy Energy TWM 167
+4 Luminous Energy PAL 191
+1 Basic {M} Energy SUM 163
+
+Total Cards: 60

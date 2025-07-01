@@ -1,0 +1,34 @@
+Pokémon: 3
+4 Dwebble DRI 11
+4 Crustle DRI 12
+3 Munkidori TWM 95
+
+Trainer: 19
+1 Ultra Ball SVI 196
+4 Arven OBF 186
+1 Earthen Vessel PAR 163
+4 Crispin SCR 133
+2 Buddy-Buddy Poffin TEF 144
+3 Luxurious Cape PAR 166
+3 Iono PAL 185
+1 Lana's Aid TWM 155
+1 Practice Studio PAL 186
+1 Colress's Tenacity SFA 57
+1 Poké Vital A SFA 62
+1 Technical Machine: Turbo Energize PAR 179
+1 Technical Machine: Evolution PAR 178
+1 Town Store OBF 196
+4 Pokégear 3.0 SVI 186
+2 Pokémon Catcher SVI 187
+1 Picnic Basket SVI 184
+2 Artazon PAL 171
+2 Boss's Orders PAL 172
+
+Energy: 5
+2 Mist Energy TEF 161
+4 Basic {D} Energy SVE 15
+4 Basic {G} Energy SVE 9
+1 Basic {P} Energy SVE 13
+2 Reversal Energy PAL 192
+
+Total Cards: 60

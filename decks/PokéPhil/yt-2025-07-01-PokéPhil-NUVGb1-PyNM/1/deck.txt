@@ -1,0 +1,31 @@
+Pokémon: 7
+3 Xatu PAR 72
+1 Shaymin DRI 10
+1 Rabsca TEF 24
+3 Team Rocket's Hypno DRI 80
+1 Rellor TEF 23
+3 Natu PAR 71
+3 Team Rocket's Drowzee DRI 79
+
+Trainer: 16
+1 Ultra Ball SVI 196
+2 Earthen Vessel PRE 106
+2 Moonlit Hill PAF 81
+2 Judge SVI 176
+2 Counter Catcher PAR 160
+2 Technical Machine: Evolution PAR 178
+3 Iono PAF 80
+1 Professor's Research JTG 155
+4 Pokégear 3.0 SVI 186
+4 Nest Ball SVI 181
+2 Rescue Board TEF 159
+1 Precious Trolley SSP 185
+2 Tulip PAR 181
+2 Accompanying Flute TWM 142
+4 Arven SVI 166
+1 Boss's Orders PAL 172
+
+Energy: 1
+10 Basic {P} Energy SVE 13
+
+Total Cards: 60
