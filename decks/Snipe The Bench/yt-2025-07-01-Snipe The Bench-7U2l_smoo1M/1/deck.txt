@@ -1,0 +1,28 @@
+Pokémon: 7
+4 Misty's Psyduck DRI 45
+4 Misty's Starmie DRI 47
+4 Misty's Lapras DRI 50
+4 Misty's Magikarp DRI 48
+4 Misty's Gyarados DRI 49
+1 Fezandipiti ex SFA 38
+1 Cleffa OBF 80
+
+Trainer: 12
+2 Academy at Night SFA 54
+4 Buddy-Buddy Poffin TEF 144
+2 Ultra Ball PAF 91
+2 Professor's Research PRE 122
+3 Super Rod PAL 188
+3 Night Stretcher SFA 61
+2 Pal Pad SVI 182
+4 Nest Ball SVI 181
+1 Boss's Orders PAL 172 PH
+4 Iono PAL 185
+4 Sacred Ash DRI 168 PH
+1 Miriam SVI 179
+
+Energy: 2
+5 Basic {W} Energy SVE 11
+1 Legacy Energy TWM 167
+
+Total Cards: 60
