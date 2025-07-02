@@ -1,0 +1,35 @@
+Pokémon: 9
+3 Mow Rotom DRI 9
+2 Revavroom ex OBF 156
+1 Wash Rotom DRI 61
+1 Fezandipiti ex SFA 38
+2 Varoom SFA 43
+1 Cleffa OBF 80
+1 Heat Rotom DRI 43
+1 Tatsugiri TWM 131
+1 Rotom DRI 77
+
+Trainer: 18
+1 Counter Catcher PAR 160
+4 Exp. Share SVI 174
+4 Counter Gain SSP 169
+1 Night Stretcher SFA 61
+4 Rescue Board TEF 159
+1 Treasure Tracker PRE 131
+2 Nest Ball SVI 181
+2 Artazon PAL 171
+2 Boss's Orders PAL 172
+4 Iono PAL 185
+4 Arven SVI 166
+1 Technical Machine: Turbo Energize PAR 179
+1 Super Rod PAL 188
+1 Defiance Band SVI 169
+3 Buddy-Buddy Poffin TEF 144
+2 Ultra Ball SVI 196
+1 Vitality Band SVI 197
+1 Earthen Vessel PAR 163
+
+Energy: 1
+8 Basic {M} Energy SVE 16
+
+Total Cards: 60

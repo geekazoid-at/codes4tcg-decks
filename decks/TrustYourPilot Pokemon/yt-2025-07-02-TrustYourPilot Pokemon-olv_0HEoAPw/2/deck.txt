@@ -1,0 +1,41 @@
+Pokémon: 9
+2 Mow Rotom DRI 9
+1 Wash Rotom DRI 61
+1 Fezandipiti ex SFA 38
+2 Heat Rotom DRI 43
+2 Lillie's Clefairy ex JTG 56
+1 Shaymin DRI 10
+1 Fan Rotom PRE 85
+1 Rotom DRI 77
+3 Farfetch'd TWM 132
+
+Trainer: 20
+1 Counter Catcher PAR 160
+2 Town Store OBF 196
+1 Unfair Stamp TWM 165
+3 Exp. Share SVI 174
+2 Counter Gain SSP 169
+2 Morty's Conviction TEF 155
+1 Night Stretcher SFA 61
+1 Rescue Board TEF 159
+4 Nest Ball SVI 181
+1 Boss's Orders PAL 172
+2 Handheld Fan TWM 150
+4 Iono PAL 185
+2 Lucky Helmet TWM 158
+2 Technical Machine: Turbo Energize PAR 179
+1 Super Rod PAL 188
+2 Lillie's Pearl JTG 151
+2 Crispin SCR 133
+2 Buddy-Buddy Poffin TEF 144
+2 Professor's Research PRE 122
+1 Earthen Vessel PAR 163
+
+Energy: 5
+1 Basic {R} Energy SVE 10
+1 Basic {L} Energy SVE 12
+2 Basic {G} Energy SVE 9
+1 Basic {W} Energy SVE 11
+3 Basic {P} Energy SVE 13
+
+Total Cards: 60

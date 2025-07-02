@@ -1,0 +1,40 @@
+Pokémon: 12
+2 Mow Rotom DRI 9
+1 Terapagos ex SCR 128
+1 Wash Rotom DRI 61
+1 Fezandipiti ex SFA 38
+1 Mew ex MEW 151
+1 Cleffa OBF 80
+1 Heat Rotom DRI 43
+1 Lillie's Clefairy ex JTG 56
+1 Cornerstone Mask Ogerpon ex TWM 112
+1 Genesect SFA 40
+1 Tatsugiri TWM 131
+1 Rotom DRI 77
+
+Trainer: 18
+2 Counter Catcher PAR 160
+2 Mela PAR 167
+3 Exp. Share SVI 174
+3 Counter Gain SSP 169
+1 Night Stretcher SFA 61
+4 Rescue Board TEF 159
+1 Treasure Tracker PRE 131
+4 Nest Ball SVI 181
+2 Bravery Charm PAL 173
+1 Boss's Orders PAL 172
+4 Iono PAL 185
+1 Super Rod PAL 188
+3 Area Zero Underdepths SCR 131
+1 Crispin SCR 133
+2 Buddy-Buddy Poffin TEF 144
+2 Ultra Ball SVI 196
+2 Professor's Research PRE 122
+1 Earthen Vessel PAR 163
+
+Energy: 3
+5 Basic {R} Energy SVE 10
+1 Luminous Energy PAL 191
+2 Basic {P} Energy SVE 13
+
+Total Cards: 60
