@@ -1,0 +1,41 @@
+Pokémon: 12
+3 Blaziken ex JTG 24
+1 Lillie's Clefairy ex JTG 56
+1 Sylveon ex SSP 86
+2 Combusken JTG 23
+2 Eevee MEW 133
+1 Dragapult ex TWM 130
+4 Torchic DRI 40
+2 Munkidori PRE 44
+2 Drakloak TWM 129
+2 Dreepy TWM 128
+1 Leafeon ex PRE 6
+1 Umbreon ex PRE 60
+
+Trainer: 16
+1 Morty's Conviction TEF 155
+2 Earthen Vessel PAR 163
+3 Ultra Ball PAF 91
+2 Rare Candy PAF 89
+4 Iono PAF 80
+1 Night Stretcher SFA 61
+1 Artazon PAL 171
+2 Technical Machine: Evolution PAR 178
+1 Buddy-Buddy Poffin PRE 101
+1 Counter Catcher PAR 160
+2 Boss's Orders PAL 172 PH
+1 Precious Trolley SSP 185
+1 Switch SVI 194
+2 Professor's Research PRE 122
+1 Nest Ball SVI 181 PH
+4 Arven SVI 166
+
+Energy: 6
+2 Basic {D} Energy BUS 168
+2 Basic {P} Energy SUM 162
+1 Basic {L} Energy GRI 168
+2 Basic {W} Energy CIN 124
+1 Basic {G} Energy GRI 167
+1 Basic {R} Energy BUS 167
+
+Total Cards: 60
