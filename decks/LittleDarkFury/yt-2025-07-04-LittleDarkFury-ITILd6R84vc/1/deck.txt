@@ -1,0 +1,28 @@
+Pokémon: 5
+4 Beldum TEF 113
+3 Orthworm ex SCR 110
+4 Metang TEF 114
+1 Munkidori TWM 95
+1 Regigigas PRE 86
+
+Trainer: 14
+2 Super Rod PAL 188
+1 Night Stretcher SFA 61
+1 Artazon PAL 171
+3 Ultra Ball PAF 91
+4 Professor's Research PRE 122
+1 Town Store OBF 196
+2 Heavy Baton TEF 151
+2 Buddy-Buddy Poffin TEF 144
+4 Iono PAL 185
+1 Pokégear 3.0 SVI 186
+1 Prime Catcher PRE 119
+2 Boss's Orders PAL 172
+4 Nest Ball PAF 84
+2 Energy Recycler DRI 164
+
+Energy: 2
+16 Basic {M} Energy SUM 163
+1 Basic {D} Energy BUS 168
+
+Total Cards: 60
