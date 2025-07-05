@@ -1,0 +1,33 @@
+Pokémon: 8
+3 Ceruledge ex SSP 36
+1 Munkidori TWM 95
+3 Charcadet SSP 32
+1 Fezandipiti ex SFA 38
+2 Varoom SFA 43
+2 Revavroom SVI 142
+1 Charcadet SCR 29
+1 Squawkabilly ex PAL 169
+
+Trainer: 15
+2 Counter Catcher PAR 160
+3 Carmine TWM 145
+1 Brilliant Blender SSP 164
+3 Night Stretcher SFA 61
+1 Pal Pad SVI 182
+2 Nest Ball SVI 181
+1 Boss's Orders PAL 172
+1 Jamming Tower TWM 153
+1 Iono PAL 185
+1 Professor Turo's Scenario PAR 171
+4 Professor's Research JTG 155
+1 Briar SCR 132
+1 Buddy-Buddy Poffin TEF 144
+4 Ultra Ball SVI 196
+2 Earthen Vessel PAR 163
+
+Energy: 3
+10 Basic {R} Energy SVE 10
+4 Luminous Energy PAL 191
+4 Jet Energy PAL 190
+
+Total Cards: 60
