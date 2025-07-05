@@ -1,0 +1,30 @@
+Pokémon: 9
+1 Shaymin DRI 10
+1 Rabsca TEF 24
+3 Dunsparce PAL 156
+1 Fezandipiti ex SFA 38
+2 Dudunsparce TEF 129
+1 Rellor TEF 23
+4 Clamperl DRI 54
+2 Huntail DRI 55
+3 Gorebyss DRI 56
+
+Trainer: 12
+4 Buddy-Buddy Poffin PRE 101
+1 Ultra Ball PAF 91
+4 Arven OBF 186
+4 Earthen Vessel PAR 163
+1 Counter Catcher PAR 160
+2 Lana's Aid TWM 155
+2 Night Stretcher SFA 61
+2 Technical Machine: Evolution PAR 178
+1 Max Rod PRE 116
+4 Morty's Conviction TEF 155
+1 Nest Ball SVI 181
+2 Artazon PAL 171
+
+Energy: 2
+12 Basic {W} Energy SVE 11
+2 Reversal Energy PAL 192
+
+Total Cards: 60
