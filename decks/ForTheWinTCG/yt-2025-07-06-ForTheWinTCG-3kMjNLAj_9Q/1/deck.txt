@@ -1,0 +1,30 @@
+Pokémon: 7
+2 Hydrapple ex SCR 14
+3 Teal Mask Ogerpon ex TWM 25
+2 Dipplin TWM 18
+2 Yanmega ex DRI 3
+3 Applin SCR 12
+1 Fezandipiti ex SFA 38
+2 Yanma DRI 2
+
+Trainer: 15
+2 Ultra Ball SVI 196
+2 Buddy-Buddy Poffin PRE 101
+2 Switch SVI 194
+2 Rare Candy SVI 191
+1 Energy Recycler DRI 164
+1 Night Stretcher SFA 61
+1 Super Rod PAL 188
+2 Technical Machine: Evolution PAR 178
+3 Iono PAF 80
+1 Prime Catcher TEF 157
+1 Nest Ball SVI 181
+2 Surfer SSP 187
+4 Bug Catching Set TWM 143
+2 Boss's Orders PAL 172
+4 Arven SVI 166
+
+Energy: 1
+15 Basic {G} Energy SVE 1
+
+Total Cards: 60

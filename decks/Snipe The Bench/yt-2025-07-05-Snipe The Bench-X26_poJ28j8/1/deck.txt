@@ -1,0 +1,34 @@
+Pokémon: 7
+3 Ceruledge ex SSP 36
+1 Munkidori TWM 95
+3 Charcadet SSP 32
+1 Fezandipiti ex SFA 38
+1 Mew ex MEW 151
+1 Charcadet PAR 25
+1 Squawkabilly ex PAL 169
+
+Trainer: 16
+2 Counter Catcher PAR 160
+4 Ultra Ball SVI 196 PH
+2 Nest Ball PAF 84
+1 Hero's Cape TEF 152
+3 Morty's Conviction TEF 155
+3 Night Stretcher SFA 61
+1 Pal Pad SVI 182
+2 Cycling Road MEW 157
+1 Boss's Orders PAL 172
+3 Carmine PRE 103
+1 Briar PRE 100
+2 Earthen Vessel PRE 106
+1 Iono PAF 80
+4 Professor's Research PRE 122
+1 Switch SVI 194
+1 Professor Turo's Scenario PRE 121
+
+Energy: 4
+8 Basic {R} Energy SVE 10
+4 Jet Energy PAL 190
+3 Basic {D} Energy SVE 15
+2 Basic {P} Energy SVE 13
+
+Total Cards: 60
