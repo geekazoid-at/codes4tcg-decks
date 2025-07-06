@@ -1,0 +1,31 @@
+Pokémon: 20
+4 Team Rocket's Tarountula DRI 19
+3 Team Rocket's Spidops DRI 20
+4 Team Rocket's Zubat DRI 120
+3 Team Rocket's Golbat DRI 121
+3 Team Rocket's Crobat ex DRI 122
+1 Team Rocket's Sneasel DRI 128
+1 Team Rocket's Mimikyu DRI 87
+1 Team Rocket's Articuno DRI 51
+
+Trainer: 32
+3 Team Rocket's Giovanni DRI 174
+3 Team Rocket's Ariana DRI 171
+2 Team Rocket's Archer DRI 170
+2 Team Rocket's Proton DRI 177
+4 Team Rocket's Transceiver DRI 178
+4 Ultra Ball SVI 196
+2 Team Rocket's Great Ball DRI 175
+2 Buddy-Buddy Poffin TEF 144
+2 Night Stretcher SFA 61
+2 Earthen Vessel PAR 163
+1 Super Rod PAL 188
+1 Maximum Belt TEF 154
+4 Team Rocket's Factory DRI 173
+
+Energy: 9
+4 Team Rocket's Energy DRI 182
+4 Basic {G} Energy SVE 1
+1 Basic {W} Energy SVE 3
+
+Total Cards: 60
