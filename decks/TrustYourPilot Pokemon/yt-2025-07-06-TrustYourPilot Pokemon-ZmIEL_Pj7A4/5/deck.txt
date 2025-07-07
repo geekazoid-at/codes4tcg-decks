@@ -1,0 +1,36 @@
+Pokémon: 20
+4 Dreepy TWM 128
+4 Drakloak TWM 129
+3 Dragapult ex TWM 130
+2 Budew PRE 4
+1 Archen WHT 50
+2 Archeops WHT 51
+1 Fezandipiti ex SFA 38
+1 Shaymin DRI 10
+1 Hawlucha SVI 118
+1 Bloodmoon Ursaluna ex TWM 141
+
+Trainer: 33
+4 Arven SVI 166
+4 Iono PAL 185
+2 Hilda SV 11W 85
+2 Boss's Orders PAL 172
+1 Briar SCR 132
+1 Crispin SCR 133
+4 Buddy-Buddy Poffin TEF 144
+3 Ultra Ball SVI 196
+2 Antique Plume Fossil WHT 79
+2 Rare Candy SVI 191
+2 Switch SVI 194
+2 Night Stretcher SFA 61
+1 Counter Catcher PAR 160
+1 Earthen Vessel PAR 163
+1 Air Balloon SSH 156
+1 Exp. Share SVI 174
+
+Energy: 7
+3 Basic {R} Energy SVE 2
+3 Basic {P} Energy SVE 5
+1 Neo Upper Energy TEF 162
+
+Total Cards: 60

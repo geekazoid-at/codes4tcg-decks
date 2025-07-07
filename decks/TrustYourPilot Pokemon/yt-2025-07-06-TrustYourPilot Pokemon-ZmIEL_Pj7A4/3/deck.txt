@@ -1,0 +1,41 @@
+Pokémon: 21
+3 Sprigatito PR-SV 1
+1 Floragato PAL 14
+2 Meowscarada ex PAL 15
+1 Meowscarada JTG 18
+2 Pidgey OBF 162
+1 Pidgeotto MEW 17
+2 Pidgeot ex OBF 164
+2 Duskull PRE 35
+1 Dusclops PRE 36
+1 Dusknoir PRE 37
+1 Budew PRE 4
+1 Maractus JTG 8
+1 Fezandipiti ex SFA 38
+1 Munkidori TWM 95
+1 Shaymin DRI 10
+
+Trainer: 29
+4 Arven OBF 186
+4 Iono PAL 185
+2 Hilda WHT 84
+1 Boss's Orders PAL 172
+4 Buddy-Buddy Poffin TEF 144
+3 Rare Candy SVI 191
+2 Night Stretcher SFA 61
+1 Counter Catcher PAR 160
+1 Ultra Ball SVI 196
+1 Earthen Vessel PAR 163
+1 Secret Box TWM 163
+1 Energy Retrieval SVI 171
+1 Technical Machine: Evolution PAR 178
+1 Technical Machine: Devolution PAR 177
+1 Air Balloon SSH 156
+1 Artazon PAL 171
+
+Energy: 10
+4 Basic {G} Energy SVE 1
+4 Ignition Energy WHT 86
+2 Basic {D} Energy SVE 7
+
+Total Cards: 60

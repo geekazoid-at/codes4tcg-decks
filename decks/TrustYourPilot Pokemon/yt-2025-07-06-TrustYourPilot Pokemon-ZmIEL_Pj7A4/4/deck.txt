@@ -1,0 +1,37 @@
+Pokémon: 18
+3 Steven's Beldum DRI 143
+2 Steven's Metang DRI 144
+3 Steven's Metagross ex DRI 145
+2 Yamask SV 11W 36
+1 Cofagrigus SSP 83
+1 Cofagrigus WHT 40
+1 Genesect ex BLK 67
+1 Lillie's Clefairy ex JTG 56
+1 Mew ex MEW 151
+1 Fezandipiti ex SFA 38
+1 Steven's Carbink DRI 86
+1 Cleffa OBF 80
+
+Trainer: 33
+4 Arven SVI 166
+4 Iono PAL 185
+2 Boss's Orders PAL 172
+2 Surfer SSP 187
+4 Buddy-Buddy Poffin TEF 144
+4 Ultra Ball SVI 196
+2 Rare Candy SVI 191
+1 Night Stretcher SFA 61
+1 Super Rod PAL 188
+1 Energy Recycler DRI 164
+1 Nest Ball SVI 181
+2 Air Balloon SSH 156
+1 Technical Machine: Evolution PAR 178
+1 Hero's Cape TEF 152
+2 Granite Cave DRI 166
+1 Jamming Tower TWM 153
+
+Energy: 10
+5 Basic {M} Energy SVE 8
+5 Basic {P} Energy SVE 5
+
+Total Cards: 60
