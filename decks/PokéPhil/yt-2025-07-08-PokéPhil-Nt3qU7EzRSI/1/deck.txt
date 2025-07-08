@@ -1,0 +1,35 @@
+Pokémon: 6
+1 Duraludon SCR 106
+4 Arven's Mabosstiff ex DRI 139
+2 Fidough SVI 97
+1 Fezandipiti ex SFA 38
+2 Dachsbun ex SCR 169
+4 Arven's Maschiff DRI 138
+
+Trainer: 19
+2 Ultra Ball SVI 196
+4 Buddy-Buddy Poffin PRE 101
+1 Vitality Band SVI 197
+3 Earthen Vessel PRE 106
+4 Arven OBF 186
+1 Arven's Sandwich DRI 161
+2 Artazon PAF 76
+2 Night Stretcher SFA 61
+1 Super Rod PAL 188
+2 Iono PAF 80
+3 Rigid Band MEW 165
+4 Pokégear 3.0 SVI 186
+1 Professor's Research PRE 122
+1 Pal Pad SVI 182
+1 Professor Turo's Scenario PRE 121
+1 Rescue Board PRE 126
+1 Nest Ball SVI 181
+1 Unfair Stamp TWM 165
+2 Boss's Orders PAL 172 PH
+
+Energy: 3
+5 Basic {D} Energy SVE 15
+2 Jet Energy PAL 190
+2 Basic {M} Energy SVE 16
+
+Total Cards: 60
