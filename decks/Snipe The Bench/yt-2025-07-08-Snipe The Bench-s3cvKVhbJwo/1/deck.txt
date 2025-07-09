@@ -1,0 +1,29 @@
+Pokémon: 6
+3 Hydreigon ex SSP 119
+3 Deino SSP 117
+3 Lapras ex SCR 32
+3 Hoothoot SCR 114
+3 Noctowl SCR 115
+2 Fan Rotom SCR 118
+
+Trainer: 12
+1 Counter Catcher PAR 160
+1 Tera Orb SSP 189
+4 Nest Ball PAF 84
+1 Boss's Orders PAL 172
+4 Arven SVI 166
+4 Buddy-Buddy Poffin PRE 101
+1 Area Zero Underdepths SCR 131
+2 Crispin SCR 133
+1 Sparkling Crystal PRE 129
+3 Ultra Ball SVI 196
+1 Rescue Board PRE 126
+3 Rare Candy SVI 191
+
+Energy: 4
+4 Basic {D} Energy SVE 15
+4 Basic {W} Energy SVE 11
+4 Basic {P} Energy SVE 13
+5 Basic {M} Energy SVE 16
+
+Total Cards: 60

@@ -1,0 +1,32 @@
+Pokémon: 8
+2 Armarouge PAF 115
+2 Ethan's Ho-Oh ex DRI 209
+1 Latias ex SSP 220
+1 Fezandipiti ex SFA 84
+1 Chi-Yu PAR 29
+2 Armarouge ex PAR 218
+4 Charcadet SSP 32 PH
+1 Mew ex MEW 193
+
+Trainer: 16
+4 Arven SVI 235
+3 Earthen Vessel SFA 96
+2 Night Stretcher SSP 251
+3 Ultra Ball BRS 186
+1 Professor's Research CEL 24
+2 Artazon OBF 229
+4 Buddy-Buddy Poffin TWM 223
+1 Max Rod PRE 116
+3 Iono PAL 254
+2 Rigid Band MEW 165 PH
+1 Counter Catcher PAR 264
+3 Pokégear 3.0 UNB 233
+1 Energy Retrieval AOR 99
+2 Boss's Orders RCL 189
+2 Technical Machine: Evolution PAR 178 PH
+2 Nest Ball SVI 255
+
+Energy: 1
+10 Basic {R} Energy OBF 230
+
+Total Cards: 60
