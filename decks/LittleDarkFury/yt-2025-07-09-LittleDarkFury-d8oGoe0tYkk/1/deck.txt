@@ -1,0 +1,31 @@
+Pokémon: 9
+2 Team Rocket's Zubat DRI 120
+4 Duraludon PRE 69
+1 Iron Bundle PAR 56
+1 Fezandipiti ex SFA 38
+2 Team Rocket's Crobat ex DRI 122
+1 Squawkabilly ex PAL 169
+2 Team Rocket's Golbat DRI 121
+1 Relicanth TEF 84
+4 Archaludon ex SSP 130
+
+Trainer: 13
+1 Artazon PAL 171
+1 Team Rocket's Watchtower DRI 180
+4 Nest Ball SVI 181
+1 Maximum Belt PRE 117
+2 Earthen Vessel PAR 163
+4 Ultra Ball PAF 91
+1 Pokégear 3.0 SVI 186
+4 Night Stretcher SFA 61
+3 Boss's Orders PAL 172 PH
+2 Arven SVI 166
+3 Iono PAL 185
+2 Professor Turo's Scenario PRE 121
+4 Professor's Research JTG 155
+
+Energy: 2
+8 Basic {M} Energy SUM 163
+2 Team Rocket's Energy DRI 182
+
+Total Cards: 60
