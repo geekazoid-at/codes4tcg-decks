@@ -1,0 +1,34 @@
+Pokémon: 7
+4 Chansey MEW 113
+1 Pikachu ex SVALT 98
+1 Mew ex MEW 151
+1 Fezandipiti ex SFA 38
+3 Pikachu ex SSP 57
+3 Blissey ex TWM 201
+1 Genesect SFA 40
+
+Trainer: 17
+4 Ultra Ball SVI 196
+1 Switch SVI 194
+1 Powerglass SFA 63
+1 Earthen Vessel PAR 163
+2 Crispin SCR 133
+1 Counter Catcher PAR 160
+4 Glass Trumpet SCR 135
+4 Iono PAL 185
+2 Gravity Mountain SSP 177
+2 Night Stretcher SFA 61
+1 Prime Catcher PRE 119
+4 Professor's Research PRE 122
+4 Nest Ball SVI 181
+1 Artazon PAL 171
+1 Bravery Charm PAL 173
+2 Arven SVI 166
+2 Boss's Orders PAL 172
+
+Energy: 3
+3 Basic {L} Energy SVE 12
+3 Basic {G} Energy SVE 9
+3 Basic {M} Energy SVE 16
+
+Total Cards: 60
