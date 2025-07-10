@@ -1,0 +1,31 @@
+Pokémon: 17
+4 Chansey TWM 133
+4 Blissey ex TWM 134
+4 Munkidori TWM 95
+2 Girafarig TWM 83
+2 Farigiraf ex TEF 108
+1 Cornerstone Mask Ogerpon ex TWM 112
+
+Trainer: 33
+4 Arven SVI 166
+3 Iono PAL 185
+3 Boss's Orders PAL 172
+4 Pokégear 3.0 SVI 186
+4 Ultra Ball PAF 91
+3 Night Stretcher SFA 61
+2 Nest Ball PAF 84
+1 Precious Trolley SSP 185
+1 Earthen Vessel PAR 163
+1 Switch SVI 194
+2 Technical Machine: Turbo Energize PAR 179
+1 Exp. Share SVI 174
+1 Defiance Vest PAR 162
+1 Rescue Board PRE 126
+2 Town Store OBF 196
+
+Energy: 10
+6 Basic {D} Energy SVE 7
+3 Basic {P} Energy SVE 5
+1 Basic {F} Energy SVE 6
+
+Total Cards: 60

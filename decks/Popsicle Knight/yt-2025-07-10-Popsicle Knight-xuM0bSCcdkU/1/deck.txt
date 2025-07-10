@@ -1,0 +1,39 @@
+Pokémon: 12
+2 Brute Bonnet PAR 123
+3 Mankey DRI 90
+3 Primeape DRI 91
+1 Annihilape DRI 92
+1 Mankey DRI 90 PH
+1 Fezandipiti ex SFA 38
+1 Annihilape SSP 100
+1 Cleffa OBF 80
+1 Annihilape DRI 92 PH
+1 Primeape SVI 108
+2 Relicanth TEF 84
+1 Annihilape SVI 109
+
+Trainer: 18
+1 Counter Catcher PAR 160
+2 Nest Ball PAF 84
+2 Night Stretcher SFA 61
+2 Calamitous Snowy Mountain PAL 174
+2 Ancient Booster Energy Capsule PAR 159
+1 Boss's Orders PAL 172
+3 Arven SVI 166
+2 Super Rod PAL 188
+2 Professor's Research JTG 155
+2 Colress's Tenacity SFA 57
+1 Earthen Vessel PRE 106
+1 Grand Tree SCR 136
+3 Buddy-Buddy Poffin TEF 144
+3 Iono PAF 80
+2 Binding Mochi PRE 95
+2 Ultra Ball SVI 196
+2 Switch SVI 194
+2 Rare Candy SVI 191
+
+Energy: 2
+3 Reversal Energy PAL 192
+4 Basic {F} Energy SVE 14
+
+Total Cards: 60

@@ -1,0 +1,26 @@
+Pokémon: 4
+4 Miraidon TEF 121
+4 Iron Thorns TEF 62
+4 Iron Bundle PAR 56
+4 Iron Crown ex TEF 81
+
+Trainer: 13
+1 Counter Catcher PAR 160
+4 Pokégear 3.0 SVI 186
+1 Reboot Pod TEF 158
+4 Techno Radar PRE 130
+1 Pal Pad SVI 182
+2 Boss's Orders PAL 172
+4 Sacred Ash DRI 168
+4 Arven SVI 166
+2 Super Rod PAL 188
+4 Professor's Research JTG 155
+1 Earthen Vessel PRE 106
+4 Ciphermaniac's Codebreaking TEF 145
+4 Future Booster Energy Capsule TEF 149
+
+Energy: 2
+2 Basic {P} Energy SVE 13 PH
+6 Basic {L} Energy SVE 12
+
+Total Cards: 60

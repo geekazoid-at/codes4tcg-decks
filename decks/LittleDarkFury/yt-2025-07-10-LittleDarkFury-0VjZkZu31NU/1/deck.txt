@@ -1,0 +1,37 @@
+Pokémon: 13
+1 Cynthia's Gible DRI 102
+3 Mamoswine ex JTG 79
+1 Klinklang SCR 101
+1 Cynthia's Garchomp ex DRI 104
+4 Swinub JTG 77
+2 Pidgey PAF 196
+2 Piloswine JTG 78
+1 Cynthia's Gabite DRI 103
+1 Pidgeotto MEW 17
+2 Torchic DRI 40
+1 Combusken DRI 41
+2 Blaziken ex JTG 24
+2 Pidgeot ex OBF 164
+
+Trainer: 15
+1 Counter Catcher PAR 160
+1 Cynthia's Power Weight DRI 162
+1 Big Air Balloon MEW 155
+2 Boss's Orders PAL 172
+3 Iono PAL 185
+4 Arven SVI 166
+2 Technical Machine: Evolution PAR 178
+1 Super Rod PAL 188
+2 Colress's Tenacity SFA 57
+4 Rare Candy PAF 89
+4 Buddy-Buddy Poffin PRE 101
+1 Grand Tree SCR 136
+2 Ultra Ball SVI 196
+1 Rock Chestplate SVI 192
+1 Earthen Vessel PAR 163
+
+Energy: 2
+1 Basic {R} Energy BUS 167
+6 Basic {F} Energy GRI 169
+
+Total Cards: 60
