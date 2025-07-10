@@ -1,0 +1,41 @@
+Pokémon: 22
+4 Sandile BLK 57
+2 Krokorok BLK 58
+3 Krookodile BLK 59
+3 Dunsparce PAL 156
+2 Dudunsparce TEF 129
+1 Fezandipiti ex SFA 38
+1 Pecharunt ex SFA 39
+1 Cleffa OBF 80
+1 Maractus JTG 8
+1 Toedscruel PAR 17
+1 Team Rocket's Chingling DRI 85
+1 Mimikyu PAL 97
+1 Munkidori TWM 95
+
+Trainer: 36
+4 Iono PAL 185
+4 Arven SVI 166
+2 Xerosic's Machinations SFA 64
+2 Janine's Secret Art SFA 59
+4 Buddy-Buddy Poffin TEF 144
+3 Nest Ball SVI 181
+3 Ultra Ball SVI 196
+2 Rare Candy SVI 191
+2 Counter Catcher PAR 160
+1 Super Rod PAL 188
+1 Night Stretcher SFA 61
+1 Earthen Vessel PAR 163
+1 Counter Gain SSP 169
+1 Technical Machine: Evolution PAR 178
+1 Technical Machine: Devolution PAR 177
+1 Handheld Fan TWM 150
+1 Cursed Duster PAR 161
+1 Luxurious Cape PAR 166
+1 Eri TEF 146
+
+Energy: 8
+6 Basic {D} Energy SVE 7
+2 Reversal Energy PAL 192
+
+Total Cards: 60

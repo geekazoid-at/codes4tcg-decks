@@ -1,0 +1,30 @@
+Pokémon: 23
+4 Solosis TEF 70
+3 Duosion BLK 38
+3 Reuniclus BLK 39
+4 Varoom SFA 43
+3 Revavroom SVI 142
+2 Rellor TEF 23
+2 Rabsca TEF 24
+2 Cornerstone Mask Ogerpon ex TWM 112
+
+Trainer: 31
+4 Arven SVI 166
+4 Iono PAL 185
+1 Boss's Orders PAL 172
+1 Lana's Aid TWM 155
+4 Buddy-Buddy Poffin TEF 144
+2 Super Rod PAL 188
+2 Nest Ball SVI 181
+2 Ultra Ball SVI 196
+2 Rare Candy SVI 191
+1 Counter Catcher PAR 160
+1 Earthen Vessel PAR 163
+2 Air Balloon SSH 156
+2 Technical Machine: Evolution PAR 178
+3 Area Zero Underdepths SCR 131
+
+Energy: 6
+6 Basic {F} Energy SVE 6
+
+Total Cards: 60

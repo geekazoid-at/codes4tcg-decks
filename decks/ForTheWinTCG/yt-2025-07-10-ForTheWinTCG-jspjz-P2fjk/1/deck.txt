@@ -1,0 +1,35 @@
+Pokémon: 6
+2 Budew PRE 4 PH
+2 Munkidori SFA 72
+1 Cleffa OBF 202
+2 Chewtle SCR 43 PH
+2 Chewtle SCR 43
+4 Drednaw SCR 44 PH
+
+Trainer: 17
+1 Drayton SSP 232
+1 Drayton SSP 244
+1 Precious Trolley SSP 185
+2 Nest Ball SVI 255
+4 Ultra Ball PAF 91
+3 Luxurious Cape PAR 166 PH
+2 Nest Ball SVI 181
+4 Arven PAF 235
+4 Pokégear 3.0 SVI 186 PH
+1 Professor's Research SVI 189
+1 Switch MEW 206
+2 Boss's Orders PAL 265
+1 Gravity Mountain SSP 250
+2 Night Stretcher SSP 251
+1 Energy Switch SIT 212
+4 Crispin SCR 133
+2 Professor's Research SVI 240
+
+Energy: 5
+1 Basic {P} Energy SVE 5 PH
+1 Basic {L} Energy SVI 257
+5 Basic {D} Energy SFA 98
+3 Basic {P} Energy SVE 13
+1 Reversal Energy PAR 266
+
+Total Cards: 60

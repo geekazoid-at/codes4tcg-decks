@@ -1,0 +1,39 @@
+Pokémon: 19
+3 Dunsparce PAL 156
+3 Dudunsparce TEF 129
+3 Tirtouga BLK 22
+1 Carracosta BLK 23
+3 Rotom SSP 61
+1 Mimikyu PAL 97
+1 Fezandipiti ex SFA 38
+1 Maractus JTG 8
+1 Squawkabilly ex PAL 169
+1 Relicanth TEF 84
+1 Cleffa OBF 80
+
+Trainer: 34
+4 Iono PAL 185
+4 Arven SVI 166
+2 Professor's Research PRE 122
+1 Eri TEF 146
+1 Xerosic's Machinations SFA 64
+1 Boss's Orders PAL 172
+4 Antique Cover Fossil SCR 129
+4 Nest Ball SVI 181
+2 Energy Search SVI 172
+2 Buddy-Buddy Poffin TEF 144
+2 Ultra Ball SVI 196
+1 Night Stretcher SFA 61
+1 Counter Catcher PAR 160
+1 Super Rod PAL 188
+1 Switch SVI 194
+2 Air Balloon SSH 156
+1 Pokémon League Headquarters OBF 192
+
+Energy: 7
+2 Luminous Energy PAL 191
+2 Basic {L} Energy SVE 4
+2 Basic {W} Energy SVE 3
+1 Legacy Energy TWM 167
+
+Total Cards: 60
