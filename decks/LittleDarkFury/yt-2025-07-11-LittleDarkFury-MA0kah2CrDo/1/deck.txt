@@ -1,0 +1,39 @@
+Pokémon: 10
+3 Mow Rotom DRI 9
+1 Fezandipiti ex SFA 38
+2 Revavroom ex OBF 156
+1 Wash Rotom DRI 61
+2 Varoom SFA 43
+1 Heat Rotom DRI 43
+1 Mow Rotom DRI 9 PH
+1 Rotom DRI 77
+1 Farfetch'd TWM 132
+1 Lillie's Clefairy ex JTG 56
+
+Trainer: 17
+4 Buddy-Buddy Poffin PRE 101
+2 Crispin PRE 105
+2 Counter Gain SSP 169
+1 Rescue Board PRE 126
+2 Nest Ball PAF 84
+2 Town Store OBF 196
+3 Iono PAL 185
+3 Exp. Share SVI 174
+2 Ultra Ball PAF 91
+1 Treasure Tracker PRE 131
+2 Night Stretcher SFA 61
+2 Boss's Orders PAL 172
+2 Bravery Charm PAL 173
+4 Lucky Helmet TWM 158
+1 Defiance Band SVI 169
+1 Lillie's Pearl JTG 151
+3 Professor's Research JTG 155
+
+Energy: 5
+1 Basic {R} Energy BUS 167
+2 Basic {L} Energy GRI 168
+2 Basic {W} Energy CIN 124
+2 Basic {P} Energy SUM 162
+2 Basic {M} Energy SUM 163
+
+Total Cards: 60

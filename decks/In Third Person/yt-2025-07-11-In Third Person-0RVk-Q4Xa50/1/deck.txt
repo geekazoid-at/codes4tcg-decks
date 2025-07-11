@@ -1,0 +1,28 @@
+Pokémon: 18
+4 Yanma DRI 2
+4 Yanmega ex DRI 3
+4 Dunsparce TEF 128
+3 Dudunsparce TEF 129
+1 Dudunsparce ex JTG 121
+1 Iron Hands ex PAR 70
+1 Fezandipiti ex SFA 38
+
+Trainer: 30
+4 Morty's Conviction TEF 155
+4 Boss's Orders PAL 172
+3 Iono PAL 185
+1 Professor Turo's Scenario PAR 171
+4 Dusk Ball SSP 175
+4 Ultra Ball SVI 196
+4 Buddy-Buddy Poffin TEF 144
+2 Super Rod PAL 188
+1 Pokémon Catcher SVI 187
+1 Prime Catcher TEF 157
+2 Jamming Tower TWM 153
+
+Energy: 12
+9 Basic {G} Energy SVE 1
+2 Basic {L} Energy SVE 4
+1 Jet Energy PAL 190
+
+Total Cards: 60
