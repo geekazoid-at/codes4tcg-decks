@@ -1,0 +1,38 @@
+Pokémon: 12
+1 Volcanion ex JTG 182
+1 Latias ex SSP 76
+2 Charmander MEW 4
+1 Hop's Cramorant JTG 138
+1 Bloodmoon Ursaluna ex TWM 141
+1 Iron Bundle PAR 56
+1 Fezandipiti ex SFA 38
+2 Charizard ex PAF 234
+2 Charmeleon PAF 8 PH
+1 Mew ex PR-SV 53
+2 Hop's Snorlax JTG 117
+2 Hop's Zacian ex JTG 111
+
+Trainer: 17
+2 Buddy-Buddy Poffin TWM 223
+3 Hop's Choice Band JTG 148
+2 Hop's Bag JTG 147
+1 Super Rod PAL 276
+1 Technical Machine: Devolution PAR 177 PH
+1 Rare Candy SVI 256
+1 Prime Catcher TEF 157
+1 Night Stretcher SFA 61
+3 Nest Ball SVI 181
+4 Arven OBF 186
+2 Boss's Orders PAL 172
+2 Pokégear 3.0 UNB 233
+4 Iono PAL 269
+2 Postwick JTG 154
+1 Professor's Research JTG 155
+2 Ultra Ball SUM 161
+1 Earthen Vessel PAR 163
+
+Energy: 2
+4 Jet Energy PAL 190
+6 Basic {R} Energy OBF 230
+
+Total Cards: 60
