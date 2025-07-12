@@ -1,0 +1,36 @@
+Pokémon: 7
+2 Dolliv SVI 22
+3 Smoliv DRI 21
+2 Arboliva ex DRI 23
+1 Hawlucha SVI 118
+1 Cleffa OBF 80
+3 Dwebble DRI 11
+3 Crustle DRI 12
+
+Trainer: 18
+2 Counter Catcher PAR 160
+1 Luxurious Cape PAR 166
+1 Poppy OBF 193
+3 Ultra Ball PAF 91
+2 Artazon PAL 171
+1 Boss's Orders PAL 172
+3 Iono PAL 185
+2 Arven SVI 166
+1 Technical Machine: Devolution PAR 177
+1 Technical Machine: Evolution PAR 178
+2 Super Rod PAL 188
+3 Professor's Research JTG 155
+3 Colress's Tenacity SFA 57
+2 Rare Candy PAF 89
+3 Buddy-Buddy Poffin PRE 101
+1 Grand Tree SCR 136
+2 Switch SVI 194
+1 Earthen Vessel PAR 163
+
+Energy: 4
+2 Jet Energy PAL 190
+2 Reversal Energy PAL 192
+5 Basic {G} Energy SVE 9
+2 Mist Energy TEF 161
+
+Total Cards: 60
