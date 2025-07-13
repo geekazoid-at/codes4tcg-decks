@@ -1,0 +1,37 @@
+Pokémon: 13
+1 Meloetta ex SV 11B 47
+1 Bunnelby PRC 121
+1 Tapu Koko Prism Star TEU 51
+1 Crobat V SHF 44
+1 Squawkabilly ex PAF 75
+1 Dedenne-GX UNB 57
+4 Unown AOR 30
+3 Exeggcute PLF 4
+
+Trainer: 45
+1 Carmine PRE 103
+1 Iono PAF 80
+4 Battle VIP Pass FST 225
+4 Bicycle PLS 117
+4 Damage Pump LOR 156
+4 Quick Ball FST 237
+4 Rescue Carrier CRZ 142
+4 Trainers' Mail ROS 92
+3 Order Pad UPR 131
+3 Battle Compressor PHF 92
+1 Canceling Cologne ASR 136
+1 Dowsing Machine PLS 128
+1 Escape Rope BST 125
+1 Hisuian Heavy Ball ASR 146
+1 Redeemable Ticket JTG 156
+1 Stadium Nav UNM 208
+2 Technical Machine: Crisis Punch PAF 90
+1 Forest Seal Stone SIT 156
+1 Float Stone BKT 137
+3 Gapejaw Bog ASR 142
+
+Energy: 2
+1 Basic {L} Energy SVE 4
+1 Double Colorless Energy SLG 69
+
+Total Cards: 60
