@@ -1,0 +1,35 @@
+Pokémon: 5
+3 Snorunt PAR 188
+1 Budew PRE 4 PH
+2 Munkidori PRE 44
+4 Team Rocket's Zapdos DRI 70 PH
+2 Froslass TWM 174
+
+Trainer: 20
+4 Arven OBF 186 PH
+2 Earthen Vessel PRE 106
+3 Iono PAF 80 PH
+2 Artazon PAL 171 PH
+1 Professor's Research PRE 122 PH
+2 Rescue Board PRE 126 PH
+1 Gravity Gemstone SCR 137
+2 Handheld Fan TWM 150
+1 Hyper Aroma TWM 152
+1 Ultra Ball SVI 196 PH
+1 Technical Machine: Devolution PAR 177 PH
+2 Colress's Tenacity SFA 57
+1 Town Store OBF 196 PH
+2 Counter Catcher PAR 160 PH
+4 Buddy-Buddy Poffin PRE 101 PH
+1 Boss's Orders PAL 172 PH
+1 Pal Pad SVI 182 PH
+1 Night Stretcher SFA 61 PH
+4 Crushing Hammer SVI 168 PH
+1 Technical Machine: Evolution PAR 178 PH
+
+Energy: 3
+4 Basic {L} Energy SVALT 115
+4 Team Rocket's Energy DRI 182
+3 Basic {D} Energy SVE 15
+
+Total Cards: 60
