@@ -1,0 +1,32 @@
+Pokémon: 8
+3 Team Rocket's Nidoqueen DRI 116
+4 Team Rocket's Nidoran♀ DRI 114
+2 Team Rocket's Nidorino DRI 118
+1 Team Rocket's Wobbuffet DRI 82
+1 Team Rocket's Mimikyu DRI 87
+3 Team Rocket's Nidoran♂ DRI 117
+1 Team Rocket's Nidorina DRI 115
+3 Team Rocket's Nidoking ex DRI 119
+
+Trainer: 15
+3 Iono PAL 185
+3 Team Rocket's Giovanni DRI 174
+1 Super Rod PAL 188
+4 Rare Candy PAF 89
+2 Team Rocket's Proton DRI 177
+4 Team Rocket's Ariana DRI 171
+3 Ultra Ball SVI 196
+1 Maximum Belt TEF 154
+1 Night Stretcher SFA 61
+2 Team Rocket's Factory DRI 173
+4 Team Rocket's Transceiver DRI 178
+1 Counter Catcher PAR 160
+1 Professor's Research PRE 122
+1 Team Rocket's Petrel DRI 176
+2 Buddy-Buddy Poffin PRE 101
+
+Energy: 2
+5 Basic {D} Energy BUS 168
+4 Team Rocket's Energy DRI 182
+
+Total Cards: 60

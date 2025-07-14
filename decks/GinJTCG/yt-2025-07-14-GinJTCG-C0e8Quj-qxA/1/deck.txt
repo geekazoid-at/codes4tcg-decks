@@ -1,0 +1,35 @@
+Pokémon: 17
+3 Steven's Beldum DRI 143
+2 Steven's Metang DRI 144
+3 Steven's Metagross ex DRI 145
+2 Scyther MEW 123
+2 Scizor OBF 141
+1 Scizor ex TEF 111
+1 Fezandipiti ex SFA 38
+1 Lillie's Clefairy ex JTG 56
+1 Mew ex MEW 151
+1 Genesect SFA 40
+
+Trainer: 33
+4 Arven OBF 186
+3 Iono PAL 185
+3 Professor's Research PRE 122
+2 Boss's Orders PAL 172
+3 Nest Ball PAF 84
+3 Ultra Ball PAF 91
+3 Buddy-Buddy Poffin TEF 144
+2 Super Rod PAL 188
+2 Counter Catcher PAR 160
+1 Rare Candy SVI 191
+1 Earthen Vessel PAR 163
+1 Rescue Board TEF 159
+1 Technical Machine: Evolution PAR 178
+1 Maximum Belt TEF 154
+1 Lillie's Pearl JTG 151
+2 Artazon PAL 171
+
+Energy: 10
+5 Basic {P} Energy SVE 5
+5 Basic {M} Energy SVE 8
+
+Total Cards: 60
