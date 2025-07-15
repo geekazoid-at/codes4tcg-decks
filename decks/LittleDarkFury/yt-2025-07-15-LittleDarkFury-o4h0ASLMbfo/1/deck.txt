@@ -1,0 +1,38 @@
+Pokémon: 10
+1 Frigibax PAL 57
+2 Revavroom PAF 65
+1 Iron Hands ex PAR 70
+3 Chien-Pao ex PAL 61
+2 Varoom SFA 43
+1 Regigigas PRE 86
+1 Arctibax PAL 59
+2 Baxcalibur PAL 60
+2 Frigibax PAF 17
+1 Wellspring Mask Ogerpon ex PRE 27
+
+Trainer: 18
+2 Buddy-Buddy Poffin TEF 144
+2 Super Rod PAL 188
+1 Precious Trolley SSP 185
+4 Superior Energy Retrieval PAL 189
+1 Morty's Conviction TEF 155
+2 Rare Candy SVI 191
+1 Nest Ball PAF 84
+1 Switch SVI 194 PH
+2 Ultra Ball PAF 91
+1 Night Stretcher SFA 61
+3 Team Rocket's Factory DRI 173
+2 Team Rocket's Transceiver DRI 178
+2 Iono PAL 185
+2 Boss's Orders PAL 172
+2 Arven SVI 166
+1 Technical Machine: Evolution PAR 178
+4 Team Rocket's Petrel DRI 176
+1 Surfer SSP 187
+
+Energy: 3
+1 Basic {L} Energy GRI 168
+8 Basic {W} Energy CIN 124
+1 Jet Energy PAL 190
+
+Total Cards: 60
