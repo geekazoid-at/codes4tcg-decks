@@ -1,0 +1,24 @@
+Pokémon: 15
+4 Ethan's Slugma DRI 35
+4 Ethan's Magcargo DRI 36
+3 Ethan's Ho-Oh ex DRI 39
+2 Ethan's Pinsir DRI 1
+1 Fezandipiti ex SFA 38
+1 Mew ex MEW 151
+
+Trainer: 32
+4 Ethan's Adventure DRI 165
+4 Iono PAL 185
+4 Boss's Orders PAL 172
+4 Professor's Research JTG 155
+4 Nest Ball SVI 181
+4 Switch SVI 194
+3 Earthen Vessel PAR 163
+2 Superior Energy Retrieval PAL 189
+2 Ultra Ball SVI 196
+1 Max Rod PRE 116
+
+Energy: 13
+13 Basic {R} Energy SVE 2
+
+Total Cards: 60

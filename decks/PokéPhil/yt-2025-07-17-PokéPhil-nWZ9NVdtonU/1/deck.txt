@@ -1,0 +1,29 @@
+Pokémon: 7
+3 Team Rocket's Ekans DRI 112 PH
+4 Team Rocket's Meowth DRI 149
+1 Team Rocket's Articuno DRI 51
+1 Team Rocket's Mimikyu DRI 87
+3 Team Rocket's Arbok DRI 113
+1 Team Rocket's Sneasel DRI 128
+4 Team Rocket's Persian ex DRI 150
+
+Trainer: 13
+4 Ultra Ball SVI 196
+2 Earthen Vessel PRE 106
+4 Team Rocket's Ariana DRI 171
+2 Team Rocket's Giovanni DRI 174
+2 Night Stretcher SFA 61
+4 Rigid Band MEW 165
+4 Team Rocket's Factory DRI 173
+1 Unfair Stamp TWM 165
+1 Team Rocket's Petrel DRI 176
+4 Team Rocket's Transceiver DRI 178
+2 Team Rocket's Archer DRI 170
+1 Boss's Orders PAL 172
+4 Team Rocket's Proton DRI 177
+
+Energy: 2
+4 Team Rocket's Energy DRI 182
+4 Basic {D} Energy SVE 15
+
+Total Cards: 60
