@@ -1,0 +1,32 @@
+Pokémon: 12
+1 Zeraora DRI 78
+1 Fezandipiti ex SFA 38
+2 Eelektrik BLK 31
+2 Squawkabilly ex PAF 75
+1 Pikachu ex SSP 57
+1 Latias ex SSP 76
+2 Iron Hands ex PAR 70
+1 Iron Thorns ex TWM 77
+2 Miraidon ex SVI 81
+1 Mew ex MEW 151
+2 Tynamo BLK 30
+1 Zekrom ex BLK 166
+
+Trainer: 12
+4 Iono PAL 185
+2 Area Zero Underdepths PRE 94
+1 Air Balloon BLK 79
+3 Night Stretcher SFA 61
+1 Professor Turo's Scenario PAR 171
+4 Electric Generator PAF 79
+4 Professor's Research PRE 122
+1 Future Booster Energy Capsule TEF 149
+3 Boss's Orders PAL 172
+2 Nest Ball SVI 181
+4 Ultra Ball PAF 91
+1 Prime Catcher PRE 119
+
+Energy: 1
+13 Basic {L} Energy SVE 12
+
+Total Cards: 60
