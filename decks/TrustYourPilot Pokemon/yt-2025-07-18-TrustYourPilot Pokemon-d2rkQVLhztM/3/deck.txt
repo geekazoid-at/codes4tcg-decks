@@ -1,0 +1,33 @@
+Pokémon: 12
+2 Miraidon ex SVI 81
+2 Iron Hands ex PAR 70
+1 Zekrom ex BLK 34
+1 Latias ex SSP 76
+2 Eelektrik BLK 31
+1 Mew ex MEW 151
+1 Fezandipiti ex SFA 38
+1 Pikachu ex SSP 57
+1 Iron Bundle PAR 56
+1 Squawkabilly ex PAL 169
+2 Tynamo BLK 30
+1 Zeraora DRI 78
+
+Trainer: 13
+3 Ultra Ball SVI 196
+2 Area Zero Underdepths SCR 131
+4 Electric Generator SVI 170
+1 Future Booster Energy Capsule PAR 164
+2 Iono PAL 185
+1 Super Rod PAL 188
+1 Air Balloon SSH 156
+4 Professor's Research PRE 122
+1 Prime Catcher TEF 157
+4 Nest Ball SVI 181
+1 Bravery Charm PAL 173
+4 Arven SVI 166
+2 Boss's Orders PAL 172
+
+Energy: 1
+14 Basic {L} Energy SVE 12
+
+Total Cards: 60
