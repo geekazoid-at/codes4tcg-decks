@@ -1,0 +1,32 @@
+Pokémon: 11
+2 Squawkabilly ex PAF 75
+2 Miraidon ex SVI 81
+2 Iron Hands ex PAR 70
+1 Iron Bundle PAR 56
+1 Mew ex MEW 151
+1 Bloodmoon Ursaluna ex TWM 141
+1 Fezandipiti ex SFA 38
+1 Latias ex SSP 76
+1 Zekrom ex BLK 34
+2 Eelektrik BLK 31
+2 Tynamo BLK 30
+
+Trainer: 13
+3 Professor's Research PRE 122
+1 Iono PAF 80
+4 Carmine TWM 145
+1 Bravery Charm PAL 173
+1 Prime Catcher PRE 119
+1 Super Rod PAL 188
+1 Night Stretcher SFA 61
+1 Pokégear 3.0 SVI 186
+4 Electric Generator SVI 170
+4 Ultra Ball SVI 196
+4 Nest Ball PAF 84
+3 Boss's Orders PAL 172
+2 Air Balloon SSH 156
+
+Energy: 1
+14 Basic {L} Energy SVE 4
+
+Total Cards: 60

@@ -1,0 +1,29 @@
+Pokémon: 6
+3 Wugtrio SVI 57
+1 Wugtrio SVI 57 PH
+4 Wiglett SVI 56
+1 Shaymin DRI 10
+3 Dreepy TWM 128
+3 Drakloak TWM 129
+
+Trainer: 14
+2 Air Balloon BLK 79
+4 Nest Ball SVI 181
+4 Counter Catcher PAR 160
+4 Iono PAL 185
+4 Ultra Ball SVI 196
+4 Buddy-Buddy Poffin TEF 144
+4 Crushing Hammer SVI 168
+1 Megaton Blower SSP 182
+3 Harlequin WHT 83
+1 Lucian TWM 157
+1 Enhanced Hammer TWM 148
+2 Professor's Research BLK 85
+2 Gravity Gemstone SCR 137
+1 Sacred Ash FLF 96
+
+Energy: 2
+4 Reversal Energy PAL 192
+4 Ignition Energy WHT 86
+
+Total Cards: 60

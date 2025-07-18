@@ -1,0 +1,38 @@
+Pokémon: 10
+1 Koraidon ex PAF 245
+2 Munkidori SFA 72
+1 Mimikyu PAL 97 PH
+2 Snorunt TWM 51
+3 Drilbur TEF 85
+1 Hawlucha SVI 118 PH
+2 Froslass TWM 174
+2 Hitmonlee MEW 106
+1 Mimikyu PR-SV 75
+3 Excadrill ex BLK 46
+
+Trainer: 18
+2 Boss's Orders RCL 189
+2 Buddy-Buddy Poffin TWM 223
+3 Nest Ball SVI 255
+1 Earthen Vessel SFA 96
+1 Calamitous Wasteland PAL 175 PH
+2 Night Stretcher SFA 61
+4 Arven PAF 235
+2 Iono PAF 237
+1 Lana's Aid TWM 219
+2 Night Stretcher SSP 251
+2 Crispin PRE 171
+1 Technical Machine: Evolution PAR 178
+2 Ultra Ball BRS 186
+2 Counter Catcher PAR 264
+2 Professor's Research CEL 24
+1 Gravity Gemstone SCR 137
+1 Air Balloon BLK 79
+1 Unfair Stamp TWM 165
+
+Energy: 3
+1 Luminous Energy TWM 226
+2 Basic {D} Energy SVE 15
+7 Basic {F} Energy SVE 14
+
+Total Cards: 60

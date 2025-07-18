@@ -1,0 +1,33 @@
+Pokémon: 15
+4 Snivy SV 11B 1
+1 Servine SV 11B 2
+3 Serperior ex SV 11B 3
+2 Yanma DRI 2
+2 Yanmega ex DRI 3
+1 Shaymin DRI 10
+1 Fezandipiti ex SFA 38
+1 Tapu Bulu SFA 6
+
+Trainer: 32
+4 Arven OBF 186
+4 Iono PAL 185
+2 Boss's Orders PAL 172
+2 Hilda SV 11W 85
+4 Buddy-Buddy Poffin TEF 144
+3 Ultra Ball SVI 196
+3 Rare Candy PAF 89
+1 Nest Ball SVI 181
+1 Counter Catcher PAR 160
+1 Night Stretcher SFA 61
+1 Energy Recycler DRI 164
+1 Prime Catcher TEF 157
+2 Air Balloon SSH 156
+1 Technical Machine: Evolution PAR 178
+2 Artazon PAL 171
+
+Energy: 13
+9 Basic {G} Energy SVE 1
+3 Jet Energy PAL 190
+1 Ignition Energy SV 11W 86
+
+Total Cards: 60
