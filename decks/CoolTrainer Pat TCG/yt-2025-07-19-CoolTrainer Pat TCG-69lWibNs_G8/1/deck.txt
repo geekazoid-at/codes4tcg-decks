@@ -1,0 +1,34 @@
+Pokémon: 7
+1 Fezandipiti ex SFA 92
+2 Yanmega ex DRI 3
+1 Shaymin DRI 185
+3 Yanma DRI 2
+4 Snivy BLK 1
+1 Servine BLK 2
+3 Serperior ex BLK 3
+
+Trainer: 17
+2 Boss's Orders RCL 189
+4 Buddy-Buddy Poffin TWM 223
+2 Artazon OBF 229
+1 Nest Ball SVI 255
+2 Rare Candy SVI 256
+1 Prime Catcher TEF 157
+1 Energy Recycler DRI 164
+1 Technical Machine: Evolution PAR 178 PH
+4 Arven PAF 235
+3 Iono PAF 237
+1 Night Stretcher SSP 251
+3 Ultra Ball BRS 186
+1 Counter Catcher PAR 264
+1 Rare Candy PAF 89
+2 Professor's Research CEL 24
+2 Air Balloon BLK 79
+1 Hilda WHT 84
+
+Energy: 3
+3 Jet Energy PAL 190
+9 Basic {G} Energy SVE 9
+1 Ignition Energy WHT 86
+
+Total Cards: 60
