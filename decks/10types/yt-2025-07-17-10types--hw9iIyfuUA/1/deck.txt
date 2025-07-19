@@ -1,0 +1,26 @@
+Pokémon: 6
+2 Meloetta ex BLK 44
+1 Latias ex SSP 76
+2 Brute Bonnet PAR 123
+3 Iron Valiant ex PAR 89
+2 Squawkabilly ex PAL 169
+2 Volcanion ex JTG 31
+
+Trainer: 12
+4 Ultra Ball SVI 196
+3 Earthen Vessel PRE 106
+4 Great Ball PAL 183
+4 Binding Mochi PRE 95
+4 Switch BLW 104
+2 Air Balloon SSH 156
+4 Pokégear 3.0 SVI 186
+4 Perilous Jungle TEF 156
+4 Nest Ball SVI 181
+1 Secret Box TWM 163
+4 Ancient Booster Energy Capsule PAR 159
+4 Carmine TWM 145
+
+Energy: 1
+6 Basic {P} Energy SVE 13
+
+Total Cards: 60
