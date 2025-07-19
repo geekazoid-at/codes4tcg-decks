@@ -1,0 +1,35 @@
+Pokémon: 13
+3 Swinub JTG 77
+2 Snivy BLK 1
+1 Servine BLK 2
+2 Serperior ex BLK 3
+2 Pidgeotto MEW 17
+2 Pidgeot ex OBF 164
+2 Piloswine JTG 78
+2 Pidgey OBF 162
+1 Fezandipiti ex SFA 38
+1 Naclstack PAR 103
+1 Nacli PAR 102
+1 Garganacl PAR 104
+3 Mamoswine ex JTG 79
+
+Trainer: 12
+4 Ultra Ball SVI 196
+4 Rare Candy SVI 191
+1 Earthen Vessel PAR 163
+4 Buddy-Buddy Poffin TEF 144
+1 Counter Catcher PAR 160
+2 Iono PAL 185
+2 Night Stretcher SFA 61
+1 Prime Catcher PRE 119
+2 Technical Machine: Evolution PAR 178
+2 Nest Ball SVI 181
+4 Arven SVI 166
+2 Boss's Orders PAL 172
+
+Energy: 3
+6 Basic {F} Energy SVE 14
+1 Ignition Energy WHT 86
+1 Basic {G} Energy SVE 9
+
+Total Cards: 60
