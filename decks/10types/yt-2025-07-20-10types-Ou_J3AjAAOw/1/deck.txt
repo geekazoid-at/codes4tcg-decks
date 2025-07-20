@@ -1,0 +1,30 @@
+Pokémon: 9
+3 Snorlax V SSH 141
+3 Snorlax VMAX SSH 142
+1 Inteleon SSH 58
+2 Giratina LOT 97
+4 Drizzile SSH 56
+4 Sobble CRE 41
+1 Latias ex SSP 76
+2 Cornerstone Mask Ogerpon ex TWM 112
+2 Inteleon CRE 43
+
+Trainer: 12
+2 Devolution Spray Z UNB 166
+4 Area Zero Underdepths SCR 131
+2 Guzma BUS 115
+1 Hisuian Heavy Ball ASR 146
+4 Iono PAL 185
+1 Colress's Tenacity SFA 57
+3 Professor's Research JTG 155
+4 Ultra Ball BRS 150
+3 Evolution Incense SSH 163
+4 Nest Ball PAF 84
+1 Hilda WHT 84
+1 Scoop Up Cyclone PLB 95
+
+Energy: 2
+4 Ignition Energy WHT 86
+4 Triple Acceleration Energy UNB 190
+
+Total Cards: 60

@@ -1,0 +1,36 @@
+Pokémon: 13
+1 Bloodmoon Ursaluna ex TWM 141
+2 Terapagos ex SCR 128
+1 Fezandipiti ex SFA 38
+2 Brute Bonnet PAR 123
+2 Pecharunt PR-SV 149
+2 Meloetta ex BLK 44
+1 Squawkabilly ex PAL 169
+1 Iron Valiant ex PAR 89
+1 Mew ex MEW 151
+1 Budew PRE 4
+2 Ditto MEW 132
+1 Latias ex SSP 76
+1 Volcanion ex JTG 31
+
+Trainer: 14
+4 Carmine PRE 103
+4 Nest Ball SVI 181
+3 Boss's Orders PAL 172
+1 Secret Box TWM 163
+2 Team Rocket's Venture Bomb DRI 179
+1 Glass Trumpet PRE 110
+2 Switch SVI 194
+2 Perilous Jungle TEF 156
+4 Ultra Ball SVI 196 PH
+3 Ancient Booster Energy Capsule PAR 159
+3 Area Zero Underdepths SCR 131
+3 Binding Mochi SFA 55
+1 Professor's Research JTG 155
+2 Surfer SSP 187
+
+Energy: 2
+3 Basic {P} Energy SUM 162
+4 Luminous Energy PAL 191
+
+Total Cards: 60
