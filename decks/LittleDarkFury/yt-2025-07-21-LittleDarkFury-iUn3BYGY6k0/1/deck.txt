@@ -1,0 +1,31 @@
+Pokémon: 7
+1 Koraidon SSP 116
+4 Roaring Moon TEF 109
+1 Dunsparce PRE 79
+4 Dudunsparce TEF 129
+2 Dunsparce PAL 156
+1 Great Tusk TEF 97
+3 Flutter Mane PRE 43
+
+Trainer: 16
+1 Super Rod PAL 188
+1 Boss's Orders PAL 172
+1 Secret Box TWM 163
+2 Artazon PAL 171
+3 Buddy-Buddy Poffin TEF 144
+2 Pokégear 3.0 SVI 186
+4 Professor Sada's Vitality PRE 120
+4 Explorer's Guidance TEF 147
+4 Earthen Vessel PRE 106
+3 Ultra Ball PAF 91
+1 Pal Pad SVI 182
+1 Gravity Mountain SSP 177
+2 Night Stretcher SFA 61
+2 Counter Catcher PAR 160
+4 Ancient Booster Energy Capsule TEF 140
+2 Brave Bangle WHT 80
+
+Energy: 1
+7 Basic {D} Energy BUS 168
+
+Total Cards: 60
