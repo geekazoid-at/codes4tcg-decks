@@ -1,0 +1,31 @@
+Pokémon: 8
+2 Genesect ex BLK 67
+1 Toedscool SVI 25
+1 Fezandipiti ex SFA 38
+4 Gimmighoul SSP 97
+1 Scizor OBF 141
+1 Toedscruel PAR 17
+4 Gholdengo ex PAR 139
+1 Scyther MEW 123
+
+Trainer: 14
+1 Counter Catcher PAR 160
+2 Ciphermaniac's Codebreaking TEF 198
+1 Max Rod PRE 116
+2 Night Stretcher SFA 61
+1 Pal Pad SVI 182
+4 Nest Ball SVI 181
+2 Boss's Orders PAL 172
+2 Air Balloon BLK 79
+4 Arven SVI 166
+1 Professor Turo's Scenario PAR 171
+4 Superior Energy Retrieval PAL 189
+2 Levincia JTG 150
+4 Buddy-Buddy Poffin TEF 144
+4 Earthen Vessel PAR 163
+
+Energy: 2
+4 Basic {L} Energy SVE 12
+7 Basic {M} Energy SVE 16
+
+Total Cards: 60
