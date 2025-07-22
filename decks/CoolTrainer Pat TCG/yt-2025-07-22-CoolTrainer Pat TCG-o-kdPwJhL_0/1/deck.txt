@@ -1,0 +1,42 @@
+Pokémon: 11
+1 Munkidori PRE 44 PH
+2 Munkidori SFA 72
+1 Cleffa OBF 202
+1 Kyurem ex BLK 28
+1 Budew PRE 4 PH
+1 Budew PRE 4 PH
+1 Froslass TWM 53 PH
+2 Froslass TWM 174
+3 Snorunt PAR 37
+1 Maractus JTG 8 PH
+1 Kyurem ex BLK 157
+
+Trainer: 21
+3 Buddy-Buddy Poffin TWM 223
+1 Counter Catcher PAR 160 PH
+1 Unfair Stamp TWM 165
+1 Tool Scrapper WHT 85
+1 Super Rod PAL 276
+1 Artazon OBF 229
+1 Counter Gain SSP 169
+3 Nest Ball SVI 255
+1 Earthen Vessel SFA 96
+2 Pokégear 3.0 SVI 186
+4 Arven PAF 235
+4 Iono PAF 237
+1 Bravery Charm PAL 173
+1 Air Balloon BLK 79
+2 Night Stretcher SSP 251
+2 Crispin PRE 171
+1 Technical Machine: Devolution PAR 177
+1 Technical Machine: Evolution PAR 178
+2 Ultra Ball BRS 186
+2 Counter Catcher PAR 264
+1 Professor's Research CEL 24
+
+Energy: 3
+1 Luminous Energy TWM 226
+4 Basic {D} Energy SVE 15
+4 Basic {W} Energy SVE 11
+
+Total Cards: 60
