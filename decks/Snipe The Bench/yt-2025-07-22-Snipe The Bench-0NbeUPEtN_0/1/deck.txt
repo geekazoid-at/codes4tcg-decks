@@ -1,0 +1,32 @@
+Pokémon: 10
+3 Eelektrik BLK 31
+1 Iono's Kilowattrel JTG 55
+4 Tadbulb PAL 78
+1 Fezandipiti ex SFA 38
+1 Bellibolt PR-SV 94
+1 Mew ex MEW 151
+2 Rotom SSP 61
+1 Iono's Wattrel JTG 54
+3 Tynamo BLK 30
+3 Bellibolt ex PAL 79
+
+Trainer: 14
+1 Counter Catcher PAR 160
+1 Prime Catcher TEF 157
+2 Night Stretcher SFA 61
+2 Nest Ball SVI 181
+2 Arven OBF 186
+2 Boss's Orders PAL 172
+1 Air Balloon BLK 79
+2 Powerglass SFA 63
+1 Earthen Vessel PRE 106
+4 Buddy-Buddy Poffin TEF 144
+4 Iono PAF 80
+4 Ultra Ball SVI 196
+4 Professor's Research PRE 122
+1 Switch SVI 194
+
+Energy: 1
+9 Basic {L} Energy SVE 12
+
+Total Cards: 60
