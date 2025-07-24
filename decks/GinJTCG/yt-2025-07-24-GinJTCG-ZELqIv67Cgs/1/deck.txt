@@ -1,0 +1,36 @@
+Pokémon: 15
+3 Joltik SCR 50
+3 Galvantula SFA 2
+2 Cottonee PRE 7
+2 Whimsicott ex WHT 5
+1 Iron Hands ex PAR 70
+1 Fezandipiti ex SFA 38
+1 Genesect SFA 40
+1 Cornerstone Mask Ogerpon ex TWM 112
+1 Zekrom ex BLK 34
+
+Trainer: 33
+4 Arven OBF 186
+3 Boss's Orders PAL 172
+2 Team Rocket's Petrel DRI 176
+2 Crispin SCR 133
+4 Pokégear 3.0 SVI 186
+3 Nest Ball SVI 181
+3 Ultra Ball SVI 196
+2 Buddy-Buddy Poffin PRE 101
+1 Prime Catcher TEF 157
+1 Night Stretcher SFA 61
+1 Earthen Vessel PAR 163
+1 Super Rod PAL 188
+2 Air Balloon BLK 79
+1 Bravery Charm PAL 173
+1 Future Booster Energy Capsule TEF 149
+1 Town Store OBF 196
+1 Artazon PAL 171
+
+Energy: 12
+7 Basic {G} Energy SVE 1
+4 Basic {L} Energy SVE 4
+1 Basic {F} Energy SVE 6
+
+Total Cards: 60

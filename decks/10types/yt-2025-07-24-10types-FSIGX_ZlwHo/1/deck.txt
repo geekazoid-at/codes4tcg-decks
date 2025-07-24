@@ -1,0 +1,31 @@
+Pokémon: 10
+4 Dwebble BLK 51
+4 Crustle DRI 12
+2 Relicanth TEF 84
+
+Trainer: 35
+4 Iono PAL 185
+4 Colress's Tenacity SFA 57
+4 Arven OBF 186
+4 Hilda WHT 84
+2 Pokégear 3.0 SVI 186
+2 Buddy-Buddy Poffin TEF 144
+2 Night Stretcher SFA 61
+2 Super Potion JTG 158
+1 Poké Vital A SFA 62
+1 Nest Ball SVI 181
+3 Luxurious Cape PAR 166
+2 Technical Machine: Evolution PAR 178
+2 Town Store OBF 196
+2 Artazon PAL 171
+
+Energy: 15
+4 Spiky Energy JTG 159
+3 Medical Energy PAR 182
+2 Mist Energy TEF 161
+2 Jet Energy PAL 190
+2 Therapeutic Energy PAL 193
+2 Basic {G} Energy SVE 1
+Link to list: https://play.limitlesstcg.com/tournament/6846500e27d8bc24cf2514d3/player/vincent/decklist
+
+Total Cards: 60
