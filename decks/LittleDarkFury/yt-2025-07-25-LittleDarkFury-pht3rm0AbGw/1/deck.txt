@@ -1,0 +1,34 @@
+Pokémon: 9
+2 Timburr BLK 47
+3 Voltorb CES 47
+1 Dedenne-GX UNB 195
+1 Crobat V PR-SW 98
+1 Rotom V LOR 177
+2 Conkeldurr BLK 49
+2 Squawkabilly ex PAL 264
+1 Lumineon V BRS 156
+2 Electrode-GX CES 155
+
+Trainer: 15
+2 Rescue Stretcher BUS 165
+4 Iono PAL 254
+2 Guzma BUS 143
+2 Forest Seal Stone SIT 156
+3 Rare Candy PLB 105
+1 Brilliant Blender SSP 164
+4 Ultra Ball PLF 122
+1 Trekking Shoes ASR 215
+1 Counter Catcher PAR 264
+4 Acro Bike CES 178
+2 Luxurious Cape PAR 265
+2 Professor's Research SVI 240
+4 Quick Ball SSH 216
+1 Irida ASR 186
+2 Air Balloon SSH 213
+
+Energy: 3
+2 Basic {F} Energy GRI 169
+4 Counter Energy CIN 122
+4 Reversal Energy PAR 266
+
+Total Cards: 60
