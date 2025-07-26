@@ -1,0 +1,39 @@
+Pokémon: 10
+1 Miraidon ex TEF 122
+1 Iron Valiant ex PR-SV 68
+2 Teal Mask Ogerpon ex TWM 25
+2 Iron Leaves ex TEF 25
+1 Iron Hands ex PAR 70
+1 Mew ex PAF 216
+1 Iron Bundle PAR 56 PH
+4 Iron Crown ex TEF 81
+1 Lillie's Clefairy ex JTG 56
+2 Miraidon SVALT 123
+
+Trainer: 19
+1 Future Booster Energy Capsule PAR 164 PH
+3 Future Booster Energy Capsule PAR 164
+1 Switch CRZ 144
+4 Techno Radar PAR 180 PH
+1 Crispin PRE 105 PH
+2 Energy Switch CRZ 129
+1 Night Stretcher SFA 61
+1 Reboot Pod TEF 158
+1 Switch CRZ 144 PH
+1 Pokégear 3.0 SVI 186 PH
+1 Boss's Orders PAL 172
+4 Arven SVI 166
+1 Boss's Orders PAL 172 PH
+1 Super Rod PAL 188
+1 Earthen Vessel PRE 106
+2 Area Zero Underdepths SCR 131
+3 Nest Ball PAF 84 PH
+3 Professor's Research PRE 122
+1 Iono SVALT 75
+
+Energy: 3
+6 Basic {G} Energy SVE 1
+3 Basic {P} Energy SVE 5
+2 Basic {L} Energy SVE 4
+
+Total Cards: 60
