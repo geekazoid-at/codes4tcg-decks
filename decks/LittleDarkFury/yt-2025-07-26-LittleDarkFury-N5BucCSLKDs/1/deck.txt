@@ -1,0 +1,31 @@
+Pokémon: 8
+4 Thwackey TWM 15
+1 Goldeen PRE 20
+4 Applin TWM 17
+4 Dipplin TWM 18
+4 Grookey TWM 14
+1 Rellor TEF 23
+1 Seaking PRE 21
+1 Rabsca TEF 24
+
+Trainer: 15
+2 Boss's Orders PAL 172
+1 Lana's Aid TWM 155
+4 Buddy-Buddy Poffin PRE 101
+3 Iono PAL 185
+2 Super Rod PAL 188
+4 Bug Catching Set TWM 143
+1 Ultra Ball SVI 196
+1 Maximum Belt TEF 154
+4 Arven SVI 166
+1 Counter Catcher PAR 160
+4 Festival Grounds PRE 108
+2 Professor's Research JTG 155
+1 Air Balloon BLK 79
+2 Brave Bangle WHT 80
+2 Kieran PRE 113
+
+Energy: 1
+6 Basic {G} Energy GRI 167
+
+Total Cards: 60
