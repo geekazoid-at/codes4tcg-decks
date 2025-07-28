@@ -1,0 +1,39 @@
+Pokémon: 8
+4 Wiglett TEF 47 PH
+1 Fezandipiti ex SFA 92
+2 Altaria OBF 160 PH
+3 Swablu SSP 148
+3 Wugtrio SVI 57 PH
+1 Shaymin DRI 185
+1 Maractus JTG 8 PH
+1 Tatsugiri TWM 131
+
+Trainer: 19
+3 Buddy-Buddy Poffin TWM 223
+2 Counter Catcher PAR 160
+1 Iris's Fighting Spirit JTG 180
+1 Artazon OBF 229
+2 Pokégear 3.0 SVI 186
+1 Enhanced Hammer GRI 124
+4 Arven PAF 235
+2 Iono PAF 237
+1 Lana's Aid TWM 219
+1 Night Stretcher SSP 251
+1 Crispin PRE 171
+1 Ultra Ball BRS 186
+2 Counter Catcher PAR 264
+1 Professor's Research CEL 24
+1 Xerosic's Machinations SFA 89
+1 Gravity Gemstone SCR 137
+1 Neutralization Zone SFA 60
+2 Air Balloon BLK 79
+3 Hilda WHT 84
+
+Energy: 5
+2 Reversal Energy PAL 192
+3 Basic {W} Energy SVE 11
+2 Reversal Energy PAR 266
+3 Basic {M} Energy SVE 16
+3 Ignition Energy WHT 86
+
+Total Cards: 60
