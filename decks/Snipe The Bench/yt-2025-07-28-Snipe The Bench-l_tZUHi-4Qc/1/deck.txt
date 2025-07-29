@@ -1,0 +1,35 @@
+Pokémon: 10
+2 Jellicent ex WHT 45
+2 Drakloak TWM 129
+2 Dreepy TWM 128
+1 Fezandipiti ex SFA 38
+2 Flygon ex SSP 106
+2 Vibrava SSP 105
+3 Trapinch SSP 104
+2 Frillish WHT 44
+1 Budew PRE 4
+1 Cornerstone Mask Ogerpon ex TWM 112
+
+Trainer: 14
+1 Counter Catcher PAR 160
+1 Pokémon League Headquarters OBF 192
+1 Prime Catcher TEF 157
+1 Night Stretcher SFA 61
+2 Nest Ball SVI 181
+4 Arven OBF 186
+1 Boss's Orders PAL 172
+2 Air Balloon BLK 79
+4 Iono PAL 185
+1 Crispin PRE 105
+4 Buddy-Buddy Poffin TEF 144
+4 Ultra Ball SVI 196
+4 Switch SVI 194
+2 Rare Candy SVI 191
+
+Energy: 4
+1 Basic {W} Energy SVE 11
+2 Basic {P} Energy SVE 13
+6 Basic {F} Energy SVE 14
+1 Basic {M} Energy SVE 16
+
+Total Cards: 60
