@@ -1,0 +1,30 @@
+Pokémon: 16
+4 Tynamo BLK 30
+4 Eelektrik BLK 31
+3 Snorlax ex PRE 76
+1 Joltik SCR 50
+1 Latias ex SSP 76
+1 Mew ex MEW 151
+1 Fezandipiti ex SFA 38
+1 Iron Hands ex PAR 70
+
+Trainer: 32
+4 Iono PAL 185
+4 Professor's Research BLK 85
+3 Professor Turo's Scenario PAR 171
+1 Boss's Orders PAL 172
+4 Nest Ball SVI 181
+4 Ultra Ball SVI 196
+4 Buddy-Buddy Poffin TEF 144
+1 Night Stretcher SFA 61
+1 Super Rod PAL 188
+1 Pal Pad SVI 182
+3 Bravery Charm PAL 173
+2 Lively Stadium SSP 180
+
+Energy: 12
+8 Basic {L} Energy SVE 4
+3 Basic {G} Energy SVE 1
+1 Enriching Energy SSP 191
+
+Total Cards: 60
