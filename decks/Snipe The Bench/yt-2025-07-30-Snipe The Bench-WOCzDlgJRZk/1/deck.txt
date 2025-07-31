@@ -1,0 +1,35 @@
+Pokémon: 9
+2 Doduo MEW 84
+2 Cottonee WHT 4
+2 Whimsicott ex WHT 5
+2 Dodrio MEW 85
+2 Budew PRE 4
+2 Rellor TEF 23
+2 Lileep SCR 5
+1 Cradily SCR 6
+2 Rabsca TEF 24
+
+Trainer: 17
+2 Counter Catcher PAR 160
+4 Bug Catching Set TWM 143
+2 Artazon PAF 76
+3 Morty's Conviction TEF 155
+2 Night Stretcher SFA 61
+1 Rescue Board TEF 159
+2 Nest Ball SVI 181
+2 Boss's Orders PAL 265
+1 Iono PAL 185
+4 Arven SVI 166
+1 Super Rod PAL 188
+2 Professor's Research JTG 155
+4 Buddy-Buddy Poffin PRE 101
+1 Earthen Vessel PRE 106
+2 Antique Root Fossil SCR 130
+1 Brave Bangle WHT 80
+2 Ultra Ball SVI 196
+
+Energy: 2
+1 Legacy Energy TWM 167
+6 Basic {G} Energy SVE 9
+
+Total Cards: 60
