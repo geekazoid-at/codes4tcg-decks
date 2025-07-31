@@ -1,0 +1,37 @@
+Pokémon: 18
+1 Dewott WHT 22
+3 Samurott WHT 23
+3 Oshawott WHT 21
+3 Frigibax PAF 17
+1 Arctibax PAL 59
+2 Baxcalibur PAL 60
+1 Wellspring Mask Ogerpon ex PRE 27
+1 Fezandipiti ex SFA 38
+1 Varoom SFA 43
+2 Revavroom PAF 65
+
+Trainer: 32
+3 Buddy-Buddy Poffin PRE 101
+3 Earthen Vessel PRE 106
+1 Nest Ball PAF 84
+3 Rare Candy PAF 89
+1 Secret Box TWM 163
+1 Super Rod PAL 188
+2 Superior Energy Retrieval PAL 189
+1 Switch SVI 194
+3 Ultra Ball PAF 91
+1 Artazon PAF 76
+4 Arven SVI 166
+2 Boss's Orders PAL 172
+1 Hilda WHT 84
+2 Iono PAL 185
+1 Air Balloon BLK 79
+1 Brave Bangle WHT 80
+2 Technical Machine: Evolution PAR 178
+
+Energy: 10
+2 Ignition Energy WHT 86
+2 Reversal Energy PAL 192
+6 Basic {W} Energy SVE 3
+
+Total Cards: 60

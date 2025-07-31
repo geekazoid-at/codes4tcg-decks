@@ -1,0 +1,43 @@
+Pokémon: 16
+1 Hydreigon ex SSP 119
+3 Deino SSP 117
+1 Hydreigon ex SSP 240
+1 Sandile BLK 57
+1 Cleffa OBF 202
+1 Pecharunt ex PRE 163
+1 Fezandipiti ex SFA 92
+1 Sandile BLK 135
+1 Krookodile BLK 137
+1 Krokorok BLK 136
+1 Budew PRE 4 PH
+1 Krookodile BLK 59
+1 Zweilous SSP 118 PH
+1 Team Rocket's Chingling DRI 85
+1 Meloetta ex BLK 159
+1 Morpeko PAR 206
+
+Trainer: 17
+4 Buddy-Buddy Poffin TWM 223
+1 Team Rocket's Watchtower DRI 180
+2 Judge PAF 228
+1 Unfair Stamp TWM 165
+2 Super Rod PAL 276
+1 Exp. Share SVI 174
+1 Town Store OBF 196 PH
+3 Nest Ball SVI 255
+1 Earthen Vessel SFA 96
+3 Rare Candy SVI 256
+4 Iono PAF 237
+1 Boss's Orders PAL 265
+2 Crispin PRE 171
+1 Technical Machine: Turbo Energize PAR 179
+1 Technical Machine: Evolution PAR 178
+3 Ultra Ball BRS 186
+1 Counter Catcher PAR 264
+
+Energy: 3
+6 Basic {D} Energy SVE 15
+2 Basic {P} Energy SVE 13
+2 Basic {M} Energy SVE 16
+
+Total Cards: 60

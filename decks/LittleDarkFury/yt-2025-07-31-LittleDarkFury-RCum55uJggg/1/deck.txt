@@ -1,0 +1,33 @@
+Pokémon: 7
+4 Gholdengo ex PAR 139
+1 Fezandipiti ex SFA 38
+4 Gimmighoul SSP 97
+2 Ethan's Cyndaquil DRI 32
+2 Ethan's Quilava DRI 33
+2 Ethan's Typhlosion DRI 34
+1 Genesect ex BLK 67
+
+Trainer: 17
+4 Buddy-Buddy Poffin PRE 101
+1 Iono PAF 80
+1 Super Rod PAL 188
+4 Superior Energy Retrieval PAL 189
+1 Prime Catcher PRE 119
+3 Nest Ball SVI 181
+2 Earthen Vessel PRE 106
+1 Ultra Ball PAF 91
+1 Night Stretcher SFA 61
+1 Boss's Orders PAL 172
+1 Professor Turo's Scenario PRE 121
+1 Technical Machine: Evolution PAR 178
+1 Counter Catcher PAR 160
+4 Arven SVI 166
+4 Ethan's Adventure DRI 165
+2 Air Balloon BLK 79
+1 Picnic Basket SVI 184
+
+Energy: 2
+7 Basic {R} Energy BUS 167
+4 Basic {M} Energy SUM 163
+
+Total Cards: 60
