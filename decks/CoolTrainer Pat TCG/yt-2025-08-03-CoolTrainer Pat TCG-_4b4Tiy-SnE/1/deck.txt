@@ -1,0 +1,40 @@
+Pokémon: 9
+1 Budew PRE 4 PH
+2 Slaking ex SSP 147
+1 Farfetch'd TWM 132 PH
+3 Vigoroth SSP 146
+1 Fezandipiti ex SFA 92
+2 Fan Rotom SCR 118
+1 Iron Bundle PAR 56 PH
+3 Slakoth PAL 160
+1 Slaking PAL 162
+
+Trainer: 20
+1 Rare Candy SVI 256
+4 Iono PAF 237
+2 Night Stretcher SSP 251
+3 Ultra Ball BRS 186
+1 Defiance Vest PAR 162 PH
+1 Morty's Conviction TEF 211
+1 Technical Machine: Evolution PAR 178
+3 Professor's Research CEL 24
+3 Buddy-Buddy Poffin TWM 223
+1 Maximum Belt TEF 154
+2 Team Rocket's Watchtower DRI 180
+1 Counter Catcher PAR 264
+1 Picnic Basket SVI 184 PH
+2 Boss's Orders RCL 189
+1 Switch MEW 206
+2 Black Belt's Training PRE 99
+3 Nest Ball SVI 255
+1 Air Balloon BLK 79
+3 Hilda WHT 84
+1 Pokégear 3.0 SVI 186
+
+Energy: 4
+1 Mist Energy TEF 161
+1 Jet Energy SSP 252
+2 Boomerang Energy TWM 166 PH
+4 Ignition Energy WHT 86
+
+Total Cards: 60
