@@ -1,0 +1,34 @@
+Pokémon: 10
+3 Team Rocket's Ekans DRI 112
+1 Fezandipiti ex SFA 38
+3 Team Rocket's Arbok DRI 113
+1 Cornerstone Mask Ogerpon ex TWM 112
+3 Flygon ex SSP 106
+1 Munkidori PRE 44
+1 Vibrava SSP 105
+3 Trapinch SSP 104
+1 Bloodmoon Ursaluna ex TWM 141
+1 Mimikyu PAL 97
+
+Trainer: 15
+4 Ultra Ball SVI 196
+4 Buddy-Buddy Poffin PRE 101
+3 Rare Candy SVI 191
+3 Arven OBF 186
+4 Air Balloon BLK 79
+1 Technical Machine: Devolution PAR 177
+1 Night Stretcher SFA 61
+1 Super Rod PAL 188
+1 Technical Machine: Evolution PAR 178
+4 Iono PAF 80
+4 Professor's Research PRE 122
+1 Pokémon League Headquarters OBF 192
+1 Nest Ball SVI 181
+1 Secret Box TWM 163
+2 Boss's Orders PAL 172
+
+Energy: 2
+3 Luminous Energy PAL 191
+4 Basic {F} Energy GRI 169
+
+Total Cards: 60
