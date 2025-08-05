@@ -1,0 +1,27 @@
+Pokémon: 5
+4 Petilil BLK 6
+4 Lilligant BLK 7
+2 Munkidori TWM 95
+3 Snorunt TWM 51
+3 Froslass TWM 53
+
+Trainer: 13
+2 Counter Catcher PAR 160
+4 Bug Catching Set TWM 143
+2 Perilous Jungle TEF 156
+2 Boss's Orders PAL 265
+2 Sacred Ash DRI 168 PH
+4 Iono PAL 185
+4 Arven SVI 166
+1 Technical Machine: Devolution PAR 177
+2 Technical Machine: Evolution PAR 178
+2 Gravity Gemstone SCR 137
+4 Buddy-Buddy Poffin TEF 144
+1 Neutralization Zone SFA 60
+4 Professor's Research PRE 122
+
+Energy: 2
+4 Luminous Energy PAL 191
+6 Basic {G} Energy SVE 9
+
+Total Cards: 60
