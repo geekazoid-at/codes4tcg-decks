@@ -1,0 +1,37 @@
+Pokémon: 12
+1 Pignite WHT 12
+1 Gouging Fire ex TEF 38
+1 Fezandipiti ex SFA 38
+3 Tepig WHT 11
+2 Revavroom SVI 142
+1 Chi-Yu PAR 29
+2 Emboar WHT 13
+1 Iron Hands ex PRE 31
+1 Hearthflame Mask Ogerpon ex PRE 17
+2 Varoom SFA 43
+1 Regigigas PRE 86
+1 Reshiram ex WHT 20
+
+Trainer: 15
+3 Buddy-Buddy Poffin TEF 144
+2 Iono PAL 185
+1 Super Rod PAL 188
+4 Superior Energy Retrieval PAL 189
+1 Morty's Conviction TEF 155
+2 Rare Candy SVI 191
+4 Nest Ball SVI 181
+2 Earthen Vessel PRE 106 PH
+3 Ultra Ball PAF 91
+1 Maximum Belt TEF 154
+1 Night Stretcher SFA 61
+4 Arven SVI 166
+2 Boss's Orders PAL 172
+2 Technical Machine: Evolution PAR 178
+1 Air Balloon BLK 79
+
+Energy: 3
+8 Basic {R} Energy BUS 167
+1 Basic {L} Energy GRI 168
+1 Jet Energy PAL 190
+
+Total Cards: 60
