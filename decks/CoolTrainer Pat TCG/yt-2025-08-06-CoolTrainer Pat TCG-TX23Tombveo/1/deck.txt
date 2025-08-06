@@ -1,0 +1,33 @@
+Pokémon: 3
+4 Rotom SSP 61
+3 Tirtouga BLK 22
+1 Fezandipiti ex SFA 92
+
+Trainer: 19
+1 Xerosic's Machinations SFA 64
+2 Earthen Vessel SFA 96
+1 Ciphermaniac's Codebreaking TEF 198
+4 Arven PAF 235
+2 Night Stretcher SSP 251
+1 Lucky Helmet TWM 158
+1 Technical Machine: Devolution PAR 177
+2 Brave Bangle WHT 80
+4 Ultra Ball BRS 186
+1 Xerosic's Machinations SFA 64 PH
+3 Professor's Research CEL 24
+1 Xerosic's Machinations SFA 89
+4 Pokégear 3.0 SVI 186
+3 Team Rocket's Watchtower DRI 180
+4 Antique Cover Fossil BLK 80
+2 Counter Catcher PAR 264
+2 Boss's Orders RCL 189
+3 Meddling Memo SSP 181
+2 Hilda WHT 84
+
+Energy: 4
+2 Basic {W} Energy SVE 11
+2 Basic {L} Energy SVE 12
+1 Legacy Energy TWM 167
+4 Luminous Energy PAL 191
+
+Total Cards: 60

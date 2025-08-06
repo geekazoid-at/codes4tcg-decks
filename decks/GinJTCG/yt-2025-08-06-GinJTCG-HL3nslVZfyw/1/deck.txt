@@ -1,0 +1,35 @@
+Pokémon: 19
+4 Cynthia's Gible DRI 102
+4 Cynthia's Gabite DRI 103
+3 Cynthia's Garchomp ex DRI 104
+2 Cynthia's Roselia DRI 7
+2 Cynthia's Roserade DRI 8
+2 Munkidori TWM 95
+1 Cynthia's Spiritomb DRI 129
+1 Budew PRE 4
+
+Trainer: 31
+4 Iono PAL 185
+3 Boss's Orders PAL 172
+2 Arven OBF 186
+2 Hilda WHT 84
+2 Crispin SCR 133
+4 Buddy-Buddy Poffin TEF 144
+1 Counter Catcher PAR 160
+1 Ultra Ball SVI 196
+1 Night Stretcher SFA 61
+1 Super Rod PAL 188
+1 Earthen Vessel PAR 163
+1 Rare Candy SVI 191
+4 Cynthia's Power Weight DRI 162
+2 Technical Machine: Evolution PAR 178
+1 Town Store OBF 196
+1 Artazon PAL 171
+
+Energy: 10
+4 Basic {F} Energy SVE 6
+3 Basic {D} Energy SVE 7
+2 Luminous Energy PAL 191
+1 Neo Upper Energy TEF 162
+
+Total Cards: 60
