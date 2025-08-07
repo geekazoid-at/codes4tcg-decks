@@ -1,0 +1,42 @@
+Pokémon: 13
+1 Raboot SCR 27
+1 Cornerstone Mask Ogerpon ex TWM 112
+1 Bloodmoon Ursaluna ex PR-SV 177
+2 Pidgeot ex OBF 164
+1 Munkidori TWM 95
+3 Scorbunny SCR 26
+1 Pidgey PAF 196
+1 Fezandipiti ex SFA 38
+1 Pidgeotto MEW 17
+1 Cleffa OBF 80
+1 Budew PRE 4
+1 Pidgey OBF 162
+3 Cinderace ex SCR 28
+
+Trainer: 18
+1 Crispin PRE 105 PH
+3 Iono PAL 185
+2 Hilda WHT 84
+1 Super Rod PAL 188 PH
+1 Artazon PAF 76
+3 Rare Candy SVI 191
+1 Nest Ball PAF 84 PH
+3 Ultra Ball PAF 91
+1 Maximum Belt TEF 154
+1 Picnic Basket SVI 184
+1 Mela PAR 167
+4 Arven OBF 186
+4 Buddy-Buddy Poffin PRE 101
+1 Switch SVI 194 PH
+1 Counter Catcher PAR 160 PH
+1 Air Balloon BLK 79 PH
+2 Boss's Orders PAL 172 PH
+1 Technical Machine: Evolution PAR 178
+
+Energy: 4
+4 Basic {R} Energy BUS 167
+2 Basic {D} Energy BUS 168
+1 Basic {F} Energy GRI 169
+3 Ignition Energy WHT 86
+
+Total Cards: 60

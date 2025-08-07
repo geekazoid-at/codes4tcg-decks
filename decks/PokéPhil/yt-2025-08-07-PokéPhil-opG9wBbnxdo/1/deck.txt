@@ -1,0 +1,30 @@
+Pokémon: 7
+1 Munkidori TWM 95
+2 Snorunt TWM 51
+1 Fezandipiti ex SFA 38
+2 Froslass TWM 53
+4 Capsakid SVI 28
+2 Ethan's Ho-Oh ex DRI 39
+4 Scovillain ex SSP 37
+
+Trainer: 14
+2 Counter Catcher PAR 160
+2 Nest Ball PAF 84
+3 Energy Switch SVI 173
+3 Ultra Ball PAF 91
+1 Prime Catcher TEF 157
+2 Pokégear 3.0 SVI 186
+1 Night Stretcher SFA 61
+4 Arven OBF 186
+2 Boss's Orders PAL 172
+2 Air Balloon BLK 79
+2 Technical Machine: Evolution PAR 178
+4 Buddy-Buddy Poffin TEF 144
+3 Iono PAF 80
+4 Earthen Vessel PAR 163
+
+Energy: 2
+8 Basic {R} Energy SVE 2
+1 Basic {D} Energy SVE 15
+
+Total Cards: 60
