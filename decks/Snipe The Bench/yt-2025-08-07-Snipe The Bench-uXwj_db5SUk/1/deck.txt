@@ -1,0 +1,26 @@
+Pokémon: 6
+3 Ceruledge ex SSP 36
+2 Ethan's Cyndaquil DRI 32
+2 Ethan's Quilava DRI 33
+2 Ethan's Typhlosion DRI 34
+2 Squawkabilly ex PAL 169
+3 Charcadet SSP 32
+
+Trainer: 11
+4 Carmine PRE 103
+2 Earthen Vessel PRE 106
+1 Brilliant Blender SSP 164
+4 Ultra Ball SVI 196 PH
+3 Night Stretcher SFA 61
+1 Iono PAF 80
+3 Professor's Research PRE 122
+2 Pal Pad SVI 182
+2 Nest Ball PAF 84
+4 Ethan's Adventure DRI 165
+1 Boss's Orders PAL 172
+
+Energy: 2
+15 Basic {R} Energy SVE 10
+4 Jet Energy PAL 190
+
+Total Cards: 60
