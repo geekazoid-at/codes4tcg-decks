@@ -1,0 +1,34 @@
+Pokémon: 10
+3 N's Zorua JTG 97
+1 N's Reshiram JTG 116
+1 Fezandipiti ex SFA 38
+2 Umbreon ex PRE 60
+3 N's Zoroark ex JTG 98
+1 Zorua WHT 61
+1 Zoroark WHT 62
+4 Scraggy WHT 57
+3 Scrafty WHT 58
+2 Eevee ex PRE 75
+
+Trainer: 15
+2 Ultra Ball SVI 196 PH
+2 Super Rod PAL 188
+4 Iono PAL 185
+1 Cyrano SSP 170
+2 Air Balloon BLK 79
+2 Buddy-Buddy Poffin PRE 101
+2 N's PP Up JTG 153
+2 Buddy-Buddy Poffin TWM 223
+2 Janine's Secret Art PRE 112 PH
+3 Area Zero Underdepths PRE 94 PH
+1 Secret Box TWM 163
+1 Counter Catcher PAR 160
+2 Boss's Orders PAL 172 PH
+1 Energy Switch SVI 173
+3 Professor's Research JTG 155
+
+Energy: 2
+2 Reversal Energy PAL 192
+7 Basic {D} Energy BUS 168
+
+Total Cards: 60
