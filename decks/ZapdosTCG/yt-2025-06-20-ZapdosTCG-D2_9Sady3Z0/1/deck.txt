@@ -6,7 +6,7 @@ Pokémon:
 4 Gholdengo ex PAR 139
 1 Munkidori TWM 95
 2 Scyther MEW 123
-2 Genesect ex
+2 Genesect ex BLK 67
 
 Trainer:
 1 Energy Search Pro SSP 176
