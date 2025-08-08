@@ -1,0 +1,36 @@
+Pokémon: 8
+1 Bloodmoon Ursaluna ex TWM 141
+4 Zorua WHT 61
+1 Fezandipiti ex SFA 38
+1 Alomomola BLK 24
+1 Cleffa OBF 80
+1 Shaymin DRI 10
+2 Zoroark WHT 62
+2 Zoroark SFA 32
+
+Trainer: 18
+2 Counter Catcher PAR 160
+2 Accompanying Flute TWM 142
+2 Night Stretcher SFA 61
+2 Nest Ball SVI 181
+1 Boss's Orders PAL 172
+1 Air Balloon BLK 79
+4 Iono PAL 185
+3 Arven SVI 166
+2 Hilda WHT 84
+2 Super Rod PAL 188
+1 Colress's Tenacity SFA 57
+2 Area Zero Underdepths SCR 131
+2 Gravity Gemstone SCR 137
+4 Buddy-Buddy Poffin TEF 144
+2 Brave Bangle WHT 80
+3 Ultra Ball SVI 196
+1 Neutralization Zone SFA 60
+1 Earthen Vessel PAR 163
+
+Energy: 3
+2 Reversal Energy PAL 192
+4 Basic {D} Energy SVE 15
+4 Ignition Energy WHT 86
+
+Total Cards: 60
