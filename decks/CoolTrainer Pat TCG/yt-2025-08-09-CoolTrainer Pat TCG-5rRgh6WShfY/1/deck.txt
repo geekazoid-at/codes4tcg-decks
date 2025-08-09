@@ -1,0 +1,36 @@
+Pokémon: 11
+1 Munkidori SFA 72
+1 Fezandipiti ex SFA 92
+1 Bouffalant ex WHT 162
+1 Bouffalant ex WHT 77
+1 Terapagos ex PRE 92
+1 Bloodmoon Ursaluna ex TWM 216
+2 Terapagos ex SCR 170
+3 Hoothoot SCR 114
+3 Noctowl SCR 115
+4 Bouffalant SCR 119
+2 Fan Rotom PRE 85
+
+Trainer: 13
+2 Boss's Orders RCL 189
+4 Buddy-Buddy Poffin TWM 223
+1 Super Rod PAL 276
+1 Professor Turo's Scenario PAR 257
+4 Nest Ball SVI 255
+1 Iono PAF 237
+1 Switch MEW 206
+1 Air Balloon BLK 79
+2 Crispin PRE 171
+3 Area Zero Underdepths SCR 174
+3 Ultra Ball BRS 186
+4 Glass Trumpet SCR 135
+2 Professor's Research CEL 24
+
+Energy: 5
+1 Legacy Energy TWM 167
+2 Basic {G} Energy SVE 1 PH
+4 Basic {D} Energy SVE 7 PH
+2 Basic {W} Energy SVE 3 PH
+2 Basic {L} Energy SVE 4 PH
+
+Total Cards: 60
