@@ -1,0 +1,35 @@
+Pokémon: 11
+4 Flamigo PAL 170
+4 Murkrow PAL 131
+4 Dartrix SFA 4
+2 Rowlet SFA 3
+1 N's Zorua JTG 97
+2 Squawkabilly ex PAF 75
+1 N's Zoroark ex JTG 98
+1 Alomomola BLK 24
+4 Wattrel PAL 80
+1 Shaymin DRI 10
+1 Fezandipiti ex SFA 38
+
+Trainer: 16
+2 Buddy-Buddy Poffin TEF 144 PH
+1 Iono PAF 80 PH
+1 Artazon PAL 171
+2 Morty's Conviction TEF 155
+1 Nest Ball PAF 84
+1 Earthen Vessel PRE 106 PH
+4 Ultra Ball PAF 91
+1 Brilliant Blender SSP 164
+2 Night Stretcher SFA 61
+1 Professor Turo's Scenario PRE 121
+2 Great Ball PAL 183
+1 Counter Catcher PAR 160 PH
+4 Professor's Research SVALT 12
+2 Boss's Orders PAL 172
+2 Air Balloon BLK 79 PH
+2 Brave Bangle WHT 80
+
+Energy: 1
+6 Basic {D} Energy BUS 168
+
+Total Cards: 60

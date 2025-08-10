@@ -1,0 +1,28 @@
+Pokémon: 17
+4 Applin PRE 9
+3 Dipplin PRE 10
+3 Hydrapple ex PRE 11
+4 Teal Mask Ogerpon ex TWM 25
+1 Budew PRE 4
+1 Fezandipiti ex SFA 38
+1 Zarude SSP 11
+
+Trainer: 30
+4 Professor's Research PRE 122
+4 Iono PAL 185
+2 Boss's Orders PAL 172
+1 Kieran PRE 113
+4 Bug Catching Set PRE 102
+4 Nest Ball PAF 84
+2 Rare Candy PAF 89
+2 Super Rod PAL 188
+1 Night Stretcher SFA 61
+1 Superior Energy Retrieval PAL 189
+1 Secret Box TWM 163
+1 Brave Bangle WHT 80
+3 Festival Grounds PRE 108
+
+Energy: 13
+13 Basic {G} Energy SVE 1
+
+Total Cards: 60
