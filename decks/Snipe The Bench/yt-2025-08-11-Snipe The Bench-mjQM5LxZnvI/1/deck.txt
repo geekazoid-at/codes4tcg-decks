@@ -1,0 +1,31 @@
+Pokémon: 6
+2 Team Rocket's Crobat ex DRI 122
+1 Fezandipiti ex SFA 92
+4 Team Rocket's Zubat DRI 120
+3 Team Rocket's Sneasel DRI 128
+2 Budew PRE 4
+3 Team Rocket's Golbat DRI 121
+
+Trainer: 16
+2 Counter Catcher PAR 160
+1 Unfair Stamp TWM 165
+2 Nest Ball PAF 84
+3 Jacq SVI 175
+1 Exp. Share SVI 174 PH
+2 Night Stretcher SFA 61
+1 Switch SVI 194 PH
+2 Artazon PAL 171
+2 Boss's Orders PAL 172
+4 Iono PAL 185
+4 Arven SVI 166
+1 Technical Machine: Devolution PAR 177
+1 Super Rod PAL 188
+4 Buddy-Buddy Poffin PRE 101
+1 Earthen Vessel PRE 106
+4 Ultra Ball SVI 196
+
+Energy: 2
+6 Basic {D} Energy SVE 15
+4 Team Rocket's Energy DRI 182
+
+Total Cards: 60
