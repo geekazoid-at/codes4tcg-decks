@@ -1,0 +1,32 @@
+Pokémon: 7
+1 Lilligant JTG 7
+4 Petilil BLK 6
+3 Lilligant BLK 7
+2 Munkidori TWM 95
+2 Snorunt TWM 51
+2 Froslass TWM 53
+1 Cleffa OBF 80
+
+Trainer: 15
+2 Counter Catcher PAR 160 PH
+1 Precious Trolley SSP 185
+2 Air Balloon BLK 79 PH
+2 Night Stretcher SFA 61
+2 Artazon PAL 171
+1 Boss's Orders PAL 172
+4 Arven SVI 166
+2 Super Rod PAL 188
+3 Professor's Research JTG 155
+1 Earthen Vessel PRE 106
+2 Gravity Gemstone SCR 137
+4 Buddy-Buddy Poffin TEF 144
+2 Brave Bangle WHT 80
+4 Iono PAF 80
+3 Ultra Ball SVI 196
+
+Energy: 3
+4 Luminous Energy PAL 191
+4 Basic {G} Energy SVE 9
+2 Basic {D} Energy SVE 15
+
+Total Cards: 60
