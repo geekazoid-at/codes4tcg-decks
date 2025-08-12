@@ -1,0 +1,37 @@
+Pokémon: 10
+3 Zorua WHT 61
+3 Drakloak TWM 129
+3 Dreepy TWM 128
+1 Fezandipiti ex SFA 38
+1 Cleffa OBF 80
+2 Scizor OBF 141
+1 Centiskorch SSP 28
+1 Sizzlipede TEF 36
+2 Scyther MEW 123
+3 Zoroark WHT 62
+
+Trainer: 15
+1 Counter Catcher PAR 160 PH
+1 Accompanying Flute TWM 142
+1 Secret Box TWM 163
+1 Air Balloon BLK 79 PH
+2 Morty's Conviction TEF 155
+2 Artazon PAL 171
+4 Iono PAL 185
+2 Boss's Orders PAL 172 PH
+2 Hilda WHT 84
+1 Technical Machine: Evolution PAR 178
+2 Super Rod PAL 188
+2 Professor's Research JTG 155
+4 Buddy-Buddy Poffin TEF 144
+2 Brave Bangle WHT 80
+2 Ultra Ball SVI 196
+
+Energy: 5
+2 Basic {D} Energy BUS 168
+3 Luminous Energy PAL 191
+1 Reversal Energy PAL 192
+4 Ignition Energy WHT 86
+1 Basic {M} Energy SUM 163
+
+Total Cards: 60
