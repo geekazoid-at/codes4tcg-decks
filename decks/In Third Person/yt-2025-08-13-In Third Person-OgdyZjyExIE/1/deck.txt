@@ -1,0 +1,36 @@
+Pokémon: 19
+4 Ethan's Cyndaquil DRI 32
+4 Ethan's Typhlosion DRI 34
+4 Ethan's Quilava DRI 33
+2 Pidgey MEW 16
+1 Pidgeotto MEW 17
+2 Pidgeot ex OBF 164
+1 Fezandipiti ex SFA 38
+1 Victini SSP 21
+
+Trainer: 35
+4 Arven OBF 186
+4 Ethan's Adventure DRI 165
+2 Boss's Orders PAL 172
+2 Iono PAL 185
+4 Buddy-Buddy Poffin TEF 144
+3 Ultra Ball SVI 196
+1 Counter Catcher PAR 160
+1 Secret Box TWM 163
+1 Night Stretcher SFA 61
+1 Nest Ball SVI 181
+1 Redeemable Ticket JTG 156
+1 Super Rod PAL 188
+1 Picnic Basket SVI 184
+1 Rare Candy SVI 191
+1 Earthen Vessel PAR 163
+2 Technical Machine: Evolution PAR 178
+2 Brave Bangle WHT 80
+1 Air Balloon BLK 79
+1 Artazon PAL 171
+1 Gravity Mountain SSP 177
+
+Energy: 6
+6 Basic {R} Energy SVE 2
+
+Total Cards: 60
