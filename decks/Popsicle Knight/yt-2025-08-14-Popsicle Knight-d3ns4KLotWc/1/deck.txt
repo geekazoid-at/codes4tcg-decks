@@ -1,0 +1,35 @@
+Pokémon: 11
+2 Vanillite WHT 27
+2 Chien-Pao ex PAL 61
+2 Vanillish WHT 28
+1 Fezandipiti ex SFA 38
+1 Cleffa OBF 80
+2 Frigibax PAF 17
+1 Wellspring Mask Ogerpon ex TWM 64
+1 Vanilluxe WHT 29
+2 Baxcalibur PAL 60
+1 Vanilluxe WHT 29 PH
+1 Arctibax PAL 59
+
+Trainer: 14
+2 Counter Catcher PAR 160
+3 Nest Ball SVI 181
+2 Artazon PAL 171
+3 Arven OBF 186
+1 Boss's Orders PAL 172
+2 Air Balloon BLK 79
+3 Iono PAL 185
+2 Superior Energy Retrieval PAL 189
+2 Super Rod PAL 188
+3 Buddy-Buddy Poffin TEF 144
+3 Ultra Ball SVI 196
+1 Neutralization Zone SFA 60
+3 Rare Candy SVI 191
+2 Earthen Vessel PAR 163
+
+Energy: 3
+3 Reversal Energy PAL 192
+7 Basic {W} Energy SVE 11
+2 Mist Energy TEF 161
+
+Total Cards: 60
