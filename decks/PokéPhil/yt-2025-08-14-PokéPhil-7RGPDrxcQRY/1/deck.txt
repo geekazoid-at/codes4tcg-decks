@@ -1,0 +1,36 @@
+Pokémon: 10
+2 Varoom SFA 43
+2 Revavroom SVI 142
+2 Hearthflame Mask Ogerpon ex TWM 40
+1 Reshiram ex WHT 20
+2 Emboar WHT 13
+1 Ho-Oh SSP 19
+1 Fezandipiti ex SFA 38
+2 Gouging Fire ex TEF 38
+3 Tepig WHT 11
+1 Pignite WHT 12
+
+Trainer: 17
+3 Buddy-Buddy Poffin PRE 101
+1 Switch SVI 194
+2 Earthen Vessel PRE 106
+3 Rare Candy PAF 89
+4 Ultra Ball PAF 91
+1 Ancient Booster Energy Capsule TEF 140
+4 Arven OBF 186
+1 Brave Bangle WHT 80
+1 Night Stretcher SFA 61
+2 Superior Energy Retrieval PAL 189
+1 Prime Catcher PRE 119
+1 Super Rod PAL 188
+3 Iono PAF 80
+1 Area Zero Underdepths PRE 94
+4 Nest Ball PAF 84
+1 Boss's Orders PAL 172
+1 Hilda WHT 84
+
+Energy: 2
+8 Basic {R} Energy SVE 2
+1 Jet Energy PAL 190
+
+Total Cards: 60
