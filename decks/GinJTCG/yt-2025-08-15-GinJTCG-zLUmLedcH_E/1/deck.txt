@@ -1,0 +1,31 @@
+Pokémon: 14
+3 Teal Mask Ogerpon ex TWM 25
+2 Wellspring Mask Ogerpon ex TWM 64
+2 Cornerstone Mask Ogerpon ex TWM 112
+1 Lillie's Clefairy ex JTG 56
+1 Fezandipiti ex SFA 38
+1 Iron Bundle PAR 56
+1 Bloodmoon Ursaluna ex TWM 141
+1 Squawkabilly ex PAL 169
+1 Mew ex MEW 151
+1 Latias ex SSP 76
+
+Trainer: 33
+4 Professor's Research JTG 155
+3 Boss's Orders PAL 172
+3 Iono PAL 185
+1 Penny SVI 183
+4 Energy Switch SVI 173
+4 Nest Ball SVI 181
+4 Ultra Ball SVI 196
+3 Earthen Vessel PAR 163
+3 Ogre's Mask TWM 159
+2 Tera Orb SSP 189
+2 Night Stretcher SFA 61
+
+Energy: 13
+8 Basic {G} Energy SVE 1
+4 Prism Energy BLK 86
+1 Legacy Energy TWM 167
+
+Total Cards: 60
