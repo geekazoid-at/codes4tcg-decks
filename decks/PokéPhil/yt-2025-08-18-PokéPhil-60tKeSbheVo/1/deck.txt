@@ -1,0 +1,35 @@
+Pokémon: 7
+3 Thwackey TWM 15
+2 Fuecoco PAL 34
+3 Grookey TWM 14
+1 Crocalor PAL 36
+4 Goldeen TWM 44
+3 Seaking PRE 21
+2 Skeledirge ex PAR 137
+
+Trainer: 20
+1 Counter Catcher PAR 160
+4 Festival Grounds TWM 149
+1 Black Belt's Training JTG 145
+1 Maximum Belt TEF 154
+1 Night Stretcher SFA 61
+1 Pal Pad SVI 182
+1 Nest Ball SVI 181
+1 Big Air Balloon MEW 155
+4 Arven OBF 186
+2 Boss's Orders PAL 172
+2 Air Balloon BLK 79
+1 Lana's Aid TWM 155
+2 Iono PAL 185
+1 Super Rod PAL 188
+1 Professor's Research JTG 155
+4 Buddy-Buddy Poffin TEF 144
+2 Brave Bangle WHT 80
+4 Ultra Ball SVI 196
+1 Rare Candy SVI 191
+1 Earthen Vessel PAR 163
+
+Energy: 1
+6 Basic {R} Energy SVE 10
+
+Total Cards: 60
