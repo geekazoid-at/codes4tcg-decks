@@ -1,0 +1,35 @@
+Pokémon: 12
+2 Munkidori TWM 95
+1 Minccino JTG 125 PH
+2 Snorunt TWM 51
+2 Minccino JTG 125
+1 Alomomola BLK 24
+2 Froslass TWM 53
+1 Cleffa OBF 80
+3 Cinccino BLK 76
+2 Hoothoot SCR 114
+2 Noctowl SCR 115
+1 Fan Rotom SCR 118
+2 Cornerstone Mask Ogerpon ex TWM 112
+
+Trainer: 14
+2 Counter Catcher PAR 160
+1 Precious Trolley SSP 185
+2 Night Stretcher SFA 61
+2 Nest Ball SVI 181
+1 Boss's Orders PAL 172
+1 Air Balloon BLK 79
+4 Iono PAL 185
+4 Arven SVI 166
+2 Super Rod PAL 188
+4 Area Zero Underdepths SCR 131
+2 Buddy-Buddy Poffin TEF 144
+2 Brave Bangle WHT 80
+3 Ultra Ball SVI 196
+1 Earthen Vessel PAR 163
+
+Energy: 2
+2 Luminous Energy PAL 191
+6 Basic {D} Energy SVE 15
+
+Total Cards: 60
