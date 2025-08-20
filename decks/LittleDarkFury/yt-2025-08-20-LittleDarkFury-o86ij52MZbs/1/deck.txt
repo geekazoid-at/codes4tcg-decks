@@ -1,0 +1,33 @@
+Pokémon: 16
+3 Raging Bolt ex TEF 123
+3 Teal Mask Ogerpon ex TWM 25
+2 Iron Hands ex PAR 70
+2 Joltik SCR 50
+1 Slither Wing PAR 107
+1 Mew ex MEW 151
+1 Fezandipiti ex SFA 38
+1 Latias ex SSP 76
+1 Miraidon ex SVI 81
+1 Squawkabilly ex PAL 169
+
+Trainer: 31
+4 Professor Sada's Vitality PAR 170
+2 Boss's Orders PAL 172
+2 Crispin SCR 133
+1 Professor Turo's Scenario PAR 171
+4 Nest Ball SVI 181
+4 Ultra Ball SVI 196
+3 Pokégear 3.0 SVI 186
+2 Night Stretcher SFA 61
+2 Earthen Vessel PAR 163
+2 Pokémon Catcher SVI 187
+1 Superior Energy Retrieval PAL 189
+1 Prime Catcher TEF 157
+3 Area Zero Underdepths SCR 131
+
+Energy: 13
+6 Basic {G} Energy SVE 1
+4 Basic {L} Energy SVE 4
+3 Basic {F} Energy SVE 6
+
+Total Cards: 60
