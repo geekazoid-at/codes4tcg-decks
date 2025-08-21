@@ -1,0 +1,44 @@
+Pokémon: 15
+1 Eevee ex PRE 75
+3 Sylveon ex SSP 86
+1 Latias ex SSP 76
+1 Shellos SSP 46
+2 Maractus JTG 8
+2 Eevee SSP 143
+2 Drakloak TWM 129
+2 Dreepy TWM 128
+1 Fezandipiti ex SFA 38
+1 Gastrodon SSP 107
+1 Budew PRE 4
+1 Lillie's Clefairy ex JTG 56
+1 Shaymin DRI 10
+1 Klefki SVI 96
+1 Dragapult ex TWM 130
+
+Trainer: 18
+1 Counter Catcher PAR 160
+2 Pokémon League Headquarters OBF 192
+1 Tera Orb SSP 189
+1 Pokégear 3.0 SVI 186
+2 Nest Ball SVI 181
+2 Arven OBF 186
+2 Boss's Orders PAL 172
+1 Air Balloon BLK 79
+3 Iono PAL 185
+1 Technical Machine: Devolution PAR 177
+1 Technical Machine: Evolution PAR 178
+2 Super Rod PAL 188
+3 Crispin SCR 133
+3 Buddy-Buddy Poffin TEF 144
+2 Ultra Ball SVI 196
+1 Switch SVI 194
+1 Sparkling Crystal SCR 142
+2 Earthen Vessel PAR 163
+
+Energy: 4
+1 Basic {R} Energy SVE 10
+2 Basic {L} Energy SVE 12
+2 Basic {W} Energy SVE 11
+3 Basic {P} Energy SVE 13
+
+Total Cards: 60

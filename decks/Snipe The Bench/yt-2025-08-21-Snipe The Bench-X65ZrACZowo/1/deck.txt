@@ -1,0 +1,33 @@
+Pokémon: 10
+1 Lillie's Clefairy ex JTG 184
+2 Jellicent ex WHT 45
+2 Genesect ex BLK 67
+2 Steven's Metang DRI 144
+1 Fezandipiti ex SFA 38
+1 Mew ex MEW 151
+3 Steven's Beldum DRI 143
+3 Frillish WHT 44
+1 Steven's Carbink DRI 86
+2 Steven's Metagross ex DRI 145
+
+Trainer: 14
+1 Counter Catcher PAR 160
+2 Rigid Band MEW 165
+2 Granite Cave DRI 166
+1 Hero's Cape TEF 152
+1 Ultra Ball PAF 91
+1 Night Stretcher SFA 61
+4 Nest Ball SVI 181
+4 Arven OBF 186
+2 Boss's Orders PAL 172 PH
+1 Super Rod PAL 188
+4 Buddy-Buddy Poffin PRE 101
+4 Iono PAF 80
+2 Professor's Research PRE 122
+3 Rare Candy SVI 191
+
+Energy: 2
+4 Basic {P} Energy SVE 13
+6 Basic {M} Energy SVE 16
+
+Total Cards: 60
