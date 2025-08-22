@@ -1,0 +1,33 @@
+Pokémon: 8
+3 Steelix PAR 125
+2 Boldore WHT 47
+3 Gigalith WHT 48
+4 Onix PAR 90
+4 Roggenrola WHT 46
+1 Centiskorch SSP 28
+1 Sizzlipede TEF 36
+1 Fezandipiti ex SFA 38
+
+Trainer: 15
+1 Super Rod PAL 188
+1 Secret Box TWM 163
+2 Boss's Orders PAL 172
+3 Artazon PAF 76
+1 Morty's Conviction TEF 155 PH
+3 Rare Candy PAF 89
+4 Nest Ball PAF 84 PH
+1 Earthen Vessel PRE 106 PH
+2 Switch SVI 194
+4 Ultra Ball PAF 91 PH
+1 Night Stretcher SFA 61
+1 Counter Catcher PAR 160
+4 Iono PAL 185
+4 Professor's Research JTG 155
+1 Brave Bangle WHT 80
+
+Energy: 3
+2 Basic {F} Energy GRI 169
+4 Luminous Energy PAL 191
+2 Basic {M} Energy SUM 163
+
+Total Cards: 60
