@@ -1,0 +1,38 @@
+Pokémon: 11
+2 Pidgey MEW 16
+2 Frogadier SVALT 110
+2 Greninja ex TWM 106
+2 Duskull SFA 18
+1 Fezandipiti ex SFA 38
+1 Pidgeotto MEW 17
+3 Froakie SVALT 109
+2 Pidgeot ex OBF 164
+1 Dusclops SFA 19
+1 Shaymin DRI 10
+2 Dusknoir SFA 20
+
+Trainer: 18
+1 Counter Catcher PAR 160
+1 Unfair Stamp TWM 165
+1 Nest Ball PAF 84
+1 Night Stretcher SFA 61
+1 Artazon PAL 171
+2 Boss's Orders PAL 172
+1 Air Balloon BLK 79
+3 Iono PAL 185
+4 Arven SVI 166
+1 Technical Machine: Devolution PAR 177
+1 Professor's Research PAF 87 PH
+1 Hilda WHT 84
+1 Technical Machine: Evolution PAR 178
+1 Super Rod PAL 188
+4 Buddy-Buddy Poffin PRE 101
+1 Earthen Vessel PRE 106
+4 Ultra Ball SVI 196
+4 Rare Candy SVI 191
+
+Energy: 2
+6 Basic {W} Energy SVE 3
+2 Ignition Energy WHT 86
+
+Total Cards: 60

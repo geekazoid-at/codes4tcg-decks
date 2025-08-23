@@ -1,0 +1,35 @@
+Pokémon: 9
+2 N's Zorua JTG 97
+3 Spidops ex SVI 19
+3 Bellsprout MEW 69
+3 Victreebel MEW 71
+2 N's Zoroark ex JTG 98
+3 Tarountula PAL 16
+1 Fezandipiti ex SFA 38
+1 Bloodmoon Ursaluna ex TWM 141
+1 Weepinbell MEW 70
+
+Trainer: 17
+1 Ultra Ball PAF 91
+3 Rare Candy SVI 191
+1 Counter Gain SSP 169
+1 Eri TEF 146
+1 Ultra Ball PLF 122
+4 Buddy-Buddy Poffin TEF 144
+3 Counter Catcher PAR 160
+1 Gravity Gemstone SCR 137
+4 Iono PAL 185
+3 Air Balloon BLK 79
+3 Cyrano SSP 170
+1 Super Rod PAL 188
+2 Professor's Research PRE 122
+1 Secret Box TWM 163
+1 Nest Ball PAF 84
+1 Artazon PAL 171
+2 Boss's Orders PAL 172
+
+Energy: 2
+4 Basic {G} Energy GRI 167
+4 Reversal Energy PAL 192
+
+Total Cards: 60
