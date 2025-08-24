@@ -54,6 +54,10 @@ const main = async (
     pageCount
   );
 
+  if (!channelName) {
+    return;
+  }
+
   for (const video of allVideos) {
     const videoData = await processVideo(video, channelName);
 
