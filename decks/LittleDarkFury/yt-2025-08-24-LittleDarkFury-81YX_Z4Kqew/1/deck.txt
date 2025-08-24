@@ -1,0 +1,39 @@
+Pokémon: 11
+3 Azumarill SSP 74
+1 Fezandipiti ex SFA 38
+1 Hoothoot PRE 77
+3 Marill SCR 33
+2 Teal Mask Ogerpon ex TWM 25
+1 Latias ex SSP 76
+3 Hoothoot SCR 114
+3 Noctowl SCR 115
+1 Fan Rotom SCR 118
+1 Lillie's Clefairy ex JTG 56
+1 Terapagos ex PRE 92
+
+Trainer: 19
+3 Buddy-Buddy Poffin PRE 101
+1 Super Rod PAL 188
+3 Nest Ball SVI 181
+1 Earthen Vessel PAR 163 PH
+3 Ultra Ball PAF 91
+1 Maximum Belt TEF 154
+1 Night Stretcher SFA 61
+1 Black Belt's Training PRE 96
+2 Iono PAL 185
+3 Area Zero Underdepths PRE 94
+1 Counter Catcher PAR 160
+2 Professor's Research PRE 124
+1 Energy Switch SVI 173
+1 Brave Bangle WHT 80
+2 Boss's Orders PAL 172
+1 Lillie's Pearl JTG 151
+1 Briar PRE 100
+1 Brock's Scouting JTG 146
+1 Glass Trumpet PRE 110
+
+Energy: 2
+6 Basic {G} Energy GRI 167
+4 Basic {P} Energy SUM 162
+
+Total Cards: 60
