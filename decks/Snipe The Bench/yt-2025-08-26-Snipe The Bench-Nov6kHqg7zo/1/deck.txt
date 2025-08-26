@@ -1,0 +1,31 @@
+Pokémon: 9
+4 Dunsparce PAL 156
+1 Togetic OBF 84
+4 Dudunsparce PRE 80
+4 Charmander PAF 7
+1 Fezandipiti ex SFA 92
+2 Charmeleon PAF 8
+2 Togepi OBF 83
+2 Togekiss SSP 72
+3 Charizard ex OBF 125
+
+Trainer: 13
+1 Briar PRE 100
+2 Ultra Ball SVI 196
+4 Rare Candy SVI 191
+4 Arven OBF 186
+4 Jacq SVI 175
+1 Buddy-Buddy Poffin TEF 144
+2 Counter Catcher PAR 160
+2 Iono PAL 185
+1 Super Rod PAL 188
+2 Technical Machine: Evolution PAR 178
+1 Precious Trolley SSP 185
+1 Artazon PAL 171
+2 Boss's Orders PAL 172
+
+Energy: 2
+6 Basic {R} Energy SVE 10
+4 Jet Energy PAL 190
+
+Total Cards: 60
