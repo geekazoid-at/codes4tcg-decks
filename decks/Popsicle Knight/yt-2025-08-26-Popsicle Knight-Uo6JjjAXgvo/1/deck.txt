@@ -1,0 +1,35 @@
+Pokémon: 8
+2 Kyurem ex BLK 28
+1 Munkidori TWM 95
+4 Duskull SFA 18
+1 Fezandipiti ex SFA 38
+1 Cleffa OBF 80
+1 Budew PRE 4
+4 Dusclops SFA 19
+4 Dusknoir SFA 20
+
+Trainer: 18
+2 Counter Catcher PAR 160
+1 Secret Box TWM 163
+2 Artazon PAF 76
+1 Tool Scrapper WHT 85
+1 Jacq SVI 175
+2 Counter Gain SSP 169
+2 Night Stretcher SFA 61
+1 Nest Ball SVI 181
+4 Arven OBF 186
+1 Technical Machine: Devolution PAR 177
+2 Technical Machine: Evolution PAR 178
+1 Super Rod PAL 188
+4 Buddy-Buddy Poffin PRE 101
+1 Earthen Vessel PRE 106
+1 Crispin SCR 133
+4 Iono PAF 80
+3 Ultra Ball SVI 196
+2 Rare Candy SVI 191
+
+Energy: 2
+2 Basic {D} Energy SVE 15
+5 Basic {W} Energy SVE 11
+
+Total Cards: 60
