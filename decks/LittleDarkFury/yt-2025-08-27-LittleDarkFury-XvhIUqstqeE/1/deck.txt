@@ -1,0 +1,36 @@
+Pokémon: 9
+1 Latias ex SSP 76
+1 Hop's Cramorant JTG 138
+1 Bloodmoon Ursaluna ex TWM 141
+2 Munkidori TWM 95
+2 Zorua WHT 61
+1 Fezandipiti ex SFA 38
+2 Hop's Snorlax JTG 117
+3 Hop's Zacian ex JTG 111
+2 Zoroark WHT 62
+
+Trainer: 17
+1 Counter Catcher PAR 160 PH
+3 Hop's Choice Band JTG 148
+2 Hop's Bag JTG 147
+1 Ultra Ball PAF 91
+1 Prime Catcher TEF 157
+1 Morty's Conviction TEF 155
+1 Pokégear 3.0 SVI 186
+3 Night Stretcher SFA 61
+4 Nest Ball SVI 181
+3 Arven SVI 166 PH
+1 Buddy-Buddy Poffin TEF 144 PH
+2 Boss's Orders PAL 172
+2 Iono PAL 185
+1 Technical Machine: Devolution PAR 177
+1 Earthen Vessel PAR 163 PH
+3 Postwick JTG 154
+4 Professor's Research PRE 123
+
+Energy: 3
+5 Basic {D} Energy BUS 168
+3 Jet Energy PAL 190
+3 Ignition Energy WHT 86
+
+Total Cards: 60
