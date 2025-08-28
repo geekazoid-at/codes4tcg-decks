@@ -1,0 +1,35 @@
+Pokémon: 9
+2 Cubchoo BLK 25
+1 Maractus JTG 8
+1 Bloodmoon Ursaluna ex TWM 141
+3 Snorunt TWM 51
+3 Froslass TWM 53
+2 Budew PRE 4
+2 Beartic BLK 26
+1 Relicanth TEF 84
+3 Munkidori PRE 44
+
+Trainer: 16
+1 Super Rod PAL 188
+1 Unfair Stamp TWM 165
+2 Artazon PAF 76
+1 Nest Ball PAF 84
+1 Earthen Vessel PRE 106 PH
+1 Ultra Ball SVI 196
+1 Bravery Charm PAL 173
+2 Night Stretcher SFA 61
+1 Technical Machine: Devolution PAR 177
+4 Iono PAF 80
+4 Arven OBF 186
+4 Counter Catcher PAR 160
+4 Professor's Research PRE 122
+4 Buddy-Buddy Poffin TEF 144
+1 Air Balloon BLK 79
+1 Gravity Gemstone SCR 137
+
+Energy: 3
+2 Reversal Energy PAL 192
+4 Basic {D} Energy BUS 168
+3 Basic {W} Energy CIN 124
+
+Total Cards: 60

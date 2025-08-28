@@ -1,0 +1,26 @@
+Pokémon: 5
+4 Dunsparce PAL 156
+4 Komala JTG 129
+4 Dudunsparce TEF 129
+1 Fezandipiti ex SFA 92
+1 Bloodmoon Ursaluna ex TWM 141
+
+Trainer: 11
+4 Ultra Ball SVI 196
+3 Buddy-Buddy Poffin PRE 101
+2 Counter Catcher PAR 160
+3 Jamming Tower TWM 153
+4 Iono PAL 185
+1 Professor Turo's Scenario PAR 171
+4 Night Stretcher SFA 61
+4 Nest Ball PAF 84
+4 Judge PAF 228
+1 Neutralization Zone SFA 60
+4 Boss's Orders PAL 172
+
+Energy: 3
+4 Spiky Energy JTG 159
+4 Jet Energy PAL 190
+4 Therapeutic Energy PAL 193
+
+Total Cards: 60
