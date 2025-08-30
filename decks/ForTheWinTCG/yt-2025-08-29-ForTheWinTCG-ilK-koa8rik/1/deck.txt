@@ -1,0 +1,35 @@
+Pokémon: 12
+1 Latias ex SSP 76
+1 Bloodmoon Ursaluna ex TWM 141
+1 Fezandipiti ex SFA 92
+2 Togekiss SSP 72
+2 Togepi OBF 83
+4 Drakloak TWM 129
+4 Dreepy TWM 128
+1 Togetic OBF 84
+1 Hawlucha SVI 118
+2 Budew PRE 4
+1 Dragapult ex TWM 130
+1 Dragapult ex TWM 200
+
+Trainer: 12
+4 Buddy-Buddy Poffin TWM 223
+2 Rare Candy GRI 165
+1 Jamming Tower DRI 243
+2 Nest Ball SVI 255
+4 Iono PAF 237
+2 Boss's Orders PAL 265
+4 Night Stretcher SSP 251
+1 Hilda WHT 171
+1 Hilda WHT 84
+4 Ultra Ball BRS 186
+3 Counter Catcher PAR 264
+4 Professor's Research SVI 241
+
+Energy: 4
+3 Luminous Energy TWM 226
+1 Basic {R} Energy SVE 18 PH
+2 Basic {P} Energy SVE 21 PH
+1 Neo Upper Energy TEF 162
+
+Total Cards: 60
