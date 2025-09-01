@@ -1,0 +1,38 @@
+Pokémon: 11
+1 Fezandipiti ex SFA 38
+1 Dragapult ex PRE 73
+3 Bronzong TEF 69
+1 Munkidori TWM 95
+2 Archeops WHT 51
+3 Drakloak TWM 129
+3 Dreepy TWM 128
+1 Budew PRE 4
+3 Bronzor PRE 66
+1 Archen WHT 50
+1 Bloodmoon Ursaluna ex TWM 141
+
+Trainer: 16
+4 Buddy-Buddy Poffin TEF 144
+3 Iono PAF 80
+1 Boss's Orders PAL 172
+1 Iono PAL 254
+1 Pokémon League Headquarters OBF 192
+2 Rare Candy PAF 89
+1 Nest Ball PAF 84
+2 Switch SVI 194
+3 Ultra Ball SVI 196
+1 Night Stretcher SFA 61
+3 Arven SVI 166
+2 Antique Plume Fossil WHT 79
+1 Counter Catcher PAR 160
+3 Professor's Research PRE 122
+2 Air Balloon BLK 79
+1 Super Rod PAL 188
+
+Energy: 4
+1 Basic {D} Energy BUS 168
+4 Luminous Energy PAL 191
+1 Neo Upper Energy TEF 162
+3 Basic {P} Energy SUM 162
+
+Total Cards: 60

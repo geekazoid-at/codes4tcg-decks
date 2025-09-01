@@ -1,0 +1,33 @@
+Pokémon: 7
+3 Munkidori SFA 72
+1 Jellicent ex WHT 160
+2 Jellicent ex WHT 168
+3 Frillish WHT 126
+1 Latias ex SSP 239
+1 Relicanth TEF 173
+1 Frillish WHT 44 PH
+
+Trainer: 16
+1 Precious Trolley SSP 185
+4 Crushing Hammer UPR 166
+1 Technical Machine: Devolution PAR 177 PH
+4 Nest Ball SVI 255
+2 Earthen Vessel SFA 96
+2 Rigid Band MEW 165 PH
+4 Arven PAF 235
+4 Iono PAF 237
+1 Switch MEW 206
+4 Pokégear 3.0 UNB 233
+3 Boss's Orders PAL 265
+1 Night Stretcher SSP 251
+1 Hilda WHT 171
+4 Ultra Ball BRS 186
+1 Counter Catcher PAR 264
+1 Super Rod PAL 276
+
+Energy: 3
+5 Basic {P} Energy SVE 21 PH
+2 Ignition Energy WHT 86 PH
+3 Basic {D} Energy SVE 23 PH
+
+Total Cards: 60
