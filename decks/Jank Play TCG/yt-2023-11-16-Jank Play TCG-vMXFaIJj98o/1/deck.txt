@@ -1,0 +1,30 @@
+Pokémon: 9
+2 Altaria EVS 106
+4 Garbodor PAR 117
+1 Snorlax PR-SV 51
+1 Snorlax SVALT 34
+1 Skwovet SVI 151
+2 Swablu OBF 169
+1 Radiant Venusaur PGO 4
+4 Trubbish PAR 116 PH
+1 Snorlax MEW 143
+
+Trainer: 12
+4 Ultra Ball SVI 196
+4 Bruno BST 121
+4 Spirit Mask EVS 160
+2 Tool Box LOR 168
+2 Patrol Cap OBF 191 PH
+4 Brandon SIT 151
+2 Super Rod PAL 188
+4 Leftovers MEW 163
+1 Town Store OBF 196 PH
+2 Town Store OBF 196
+1 Boss's Orders SHF 58
+4 Nest Ball SVI 181
+
+Energy: 2
+7 Basic {D} Energy SVE 7
+2 Jet Energy PAL 190
+
+Total Cards: 60

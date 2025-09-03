@@ -1,0 +1,34 @@
+Pokémon: 21
+4 Torchic DRI 40
+2 Combusken DRI 41
+3 Blaziken ex JTG 24
+2 Reshiram ex WHT 20
+3 Pidgey MEW 16
+2 Pidgeotto MEW 17
+2 Pidgeot ex OBF 164
+2 Munkidori TWM 95
+1 Fezandipiti ex SFA 38
+
+Trainer: 31
+4 Buddy-Buddy Poffin TEF 144
+3 Ultra Ball SVI 196
+2 Nest Ball SVI 181
+2 Rare Candy SVI 191
+1 Night Stretcher SFA 61
+1 Counter Catcher PAR 160
+1 Tool Scrapper WHT 85
+2 Earthen Vessel PAR 163
+1 Pokégear 3.0 SVI 186
+1 Unfair Stamp TWM 165
+2 Technical Machine: Evolution PAR 178
+1 Vitality Band SVI 197
+4 Arven SVI 166
+2 Professor's Research JTG 155
+2 Iono PAL 185
+2 Boss's Orders PAL 172
+
+Energy: 8
+5 Basic {R} Energy SVE 2
+3 Basic {D} Energy SVE 7
+
+Total Cards: 60

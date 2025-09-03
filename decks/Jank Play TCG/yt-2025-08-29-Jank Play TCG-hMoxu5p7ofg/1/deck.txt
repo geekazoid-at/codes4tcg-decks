@@ -1,0 +1,26 @@
+Pokémon: 2
+4 Tirtouga BLK 22
+4 Great Tusk PRE 55
+
+Trainer: 16
+1 Tool Scrapper RCL 168
+2 Earthen Vessel PRE 106
+4 Antique Cover Fossil SCR 129
+4 Explorer's Guidance TEF 147
+2 Counter Catcher PAR 160
+2 Jamming Tower TWM 153
+4 Professor Sada's Vitality PAR 170
+2 Jamming Tower TWM 153 PH
+3 Super Rod PAL 188
+1 Ultra Ball PAF 91
+4 Pokégear 3.0 SVI 186
+4 Pal Pad SVI 182
+2 Hand Trimmer TEF 150
+3 Nest Ball PAF 84
+2 Enhanced Hammer TWM 148
+2 Hand Trimmer TEF 150 PH
+
+Energy: 1
+10 Basic {W} Energy SVE 11
+
+Total Cards: 60

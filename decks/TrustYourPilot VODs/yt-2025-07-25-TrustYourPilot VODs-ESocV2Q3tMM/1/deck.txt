@@ -1,0 +1,30 @@
+Pokémon: 6
+4 Wugtrio SVI 57
+4 Dunsparce PAL 156
+1 Fezandipiti ex SFA 38
+3 Dudunsparce TEF 129
+1 Fan Rotom SCR 118
+4 Wiglett SVI 56
+
+Trainer: 15
+4 Ultra Ball SVI 196
+1 Xerosic's Machinations SFA 64
+4 Buddy-Buddy Poffin TEF 144
+4 Counter Catcher PAR 160
+3 Gravity Gemstone SCR 137
+4 Iono PAL 185
+1 Air Balloon BLK 79
+2 Artazon PAF 76
+2 Great Ball PAL 183
+1 Colress's Tenacity SFA 57
+1 Morty's Conviction TEF 155
+2 Sacred Ash DRI 168
+1 Neutralization Zone SFA 60
+2 Arven SVI 166
+3 Hilda WHT 84
+
+Energy: 2
+4 Ignition Energy WHT 86
+4 Reversal Energy PAL 192
+
+Total Cards: 60

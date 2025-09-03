@@ -1,0 +1,36 @@
+Pokémon: 7
+2 Ting-Lu ex PAL 127
+4 Munkidori TWM 95
+3 Froslass TWM 53
+1 Maractus JTG 8
+2 Budew PRE 4
+3 Snorunt PAR 37
+1 Bloodmoon Ursaluna ex TWM 141
+
+Trainer: 20
+1 Ultra Ball SVI 196
+1 Earthen Vessel PRE 106
+1 Switch SVI 194
+1 Brock's Scouting JTG 146
+4 Arven OBF 186
+2 Buddy-Buddy Poffin TEF 144
+3 Counter Catcher PAR 160
+4 Iono PAL 185
+1 Lana's Aid TWM 155
+2 Artazon PAF 76
+1 Technical Machine: Devolution PAR 177
+2 Night Stretcher SFA 61
+4 Pokégear 3.0 SVI 186
+2 Professor's Research PRE 122
+1 Penny SVI 183
+3 Nest Ball SVI 181
+1 Rescue Board TEF 159
+1 Unfair Stamp TWM 165
+2 Bravery Charm PAL 173
+1 Counter Gain LOT 170
+
+Energy: 2
+5 Basic {D} Energy SVE 15
+1 Luminous Energy PAL 191
+
+Total Cards: 60

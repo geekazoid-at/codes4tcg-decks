@@ -1,0 +1,42 @@
+Pokémon: 9
+1 Fezandipiti ex SFA 84
+1 Cornerstone Mask Ogerpon ex TWM 215
+1 Latias ex SSP 76
+1 Radiant Hisuian Sneasler LOR 123
+2 Brute Bonnet PAR 123
+3 Flygon ex SSP 106
+2 Pecharunt PR-SV 129
+1 Vibrava SSP 105
+4 Trapinch SSP 104
+
+Trainer: 24
+1 Rare Candy CRZ 141 PH
+2 Rare Candy SVI 256
+1 Switch Cart ASR 154
+1 Nest Ball PAF 84 PH
+1 Earthen Vessel PAR 163
+4 Arven PAF 235
+2 Iono PAF 237
+1 Boss's Orders LOR-TG 24
+2 Night Stretcher SFA 61
+2 Buddy-Buddy Poffin TWM 223
+1 Colress's Tenacity SFA 87
+2 Nest Ball SVI 181
+1 Rescue Board TEF 159
+1 Hisuian Heavy Ball ASR 146 PH
+2 Tera Orb SSP 189
+2 Perilous Jungle TEF 156 PH
+1 Precious Trolley SSP 185
+1 Boss's Orders RCL 189
+1 Night Stretcher SFA 61 PH
+2 Ancient Booster Energy Capsule PAR 159
+2 Switch MEW 206
+2 Atticus PAF 77
+1 Nest Ball SVI 255
+2 Binding Mochi SFA 55
+
+Energy: 2
+5 Basic {F} Energy SVE 14
+1 Basic {F} Energy SVE 6
+
+Total Cards: 60

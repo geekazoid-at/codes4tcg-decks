@@ -1,0 +1,36 @@
+Pokémon: 13
+2 Pidgey MEW 16
+1 Quaxly PAL 50 PH
+2 Quaquaval SSP 52
+1 Quaquaval ex PAL 235
+1 Quaquaval ex PR-SV 84
+1 Mew ex MEW 151
+1 Pidgeotto MEW 17
+1 Quaquaval ex PAL 260
+1 Quaxly PR-SV 82
+3 Quaxwell SSP 51
+2 Pidgeot ex OBF 164
+2 Quaquaval SVI 54
+2 Quaxly PAL 50
+
+Trainer: 15
+1 Hisuian Heavy Ball ASR 146
+1 Patrol Cap OBF 191
+1 Arezu LOR 153
+2 Irida ASR 147
+2 Big Air Balloon MEW 155
+2 Boss's Orders PAL 265
+4 Arven SVI 166
+4 Snorlax Doll PAR 175
+2 Technical Machine: Evolution PAR 178
+2 Super Rod PAL 188
+1 Grand Tree SCR 136
+3 Buddy-Buddy Poffin TEF 144
+3 Ultra Ball SVI 196
+3 Rare Candy SVI 191
+3 Earthen Vessel PAR 163
+
+Energy: 1
+6 Basic {W} Energy SVE 11
+
+Total Cards: 60

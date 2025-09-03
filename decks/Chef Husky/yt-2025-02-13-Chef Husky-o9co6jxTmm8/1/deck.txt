@@ -1,0 +1,42 @@
+Pokémon: 14
+4 Toxel OBF 71
+1 Budew PRE 4 PH
+1 Cleffa OBF 202
+1 Manaphy CRZ-GG 6
+1 Bonsly OBF 110
+1 Bombirdier ex PAR 156
+4 Toxtricity OBF 72
+1 Bombirdier SVI 219
+1 Pikachu ex SSP 57
+1 Magby PAR 186
+1 Cornerstone Mask Ogerpon ex TWM 112
+1 Radiant Jirachi SIT 120
+1 Tatsugiri TWM 186
+1 Tatsugiri TWM 131
+
+Trainer: 19
+2 Counter Catcher PAR 160
+1 Crispin SCR 164
+2 Vengeful Punch OBF 197
+1 Switch CRZ 144
+1 Precious Trolley SSP 185
+1 Counter Gain SSP 169
+2 Night Stretcher SFA 61
+2 Nest Ball SVI 181
+4 Arven PAF 235
+1 Bravery Charm PAL 173
+2 Hassel TWM 151
+1 Black Belt's Training PRE 96
+4 Area Zero Underdepths SCR 174
+1 Super Rod PAL 188
+1 Colress's Tenacity SFA 57
+3 Buddy-Buddy Poffin TEF 144
+3 Iono PAF 80
+1 Ultra Ball SVI 196
+1 Hisuian Heavy Ball ASR 146
+
+Energy: 2
+5 Basic {L} Energy SVE 12
+1 Basic {F} Energy SVE 6
+
+Total Cards: 60

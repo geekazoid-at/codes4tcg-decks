@@ -1,0 +1,31 @@
+Pokémon: 18
+3 Teal Mask Ogerpon ex TWM 25
+2 Lillie's Clefairy ex JTG 56
+3 Fan Rotom PRE 85
+4 Hoothoot SCR 114
+3 Noctowl SCR 115
+1 Latias ex SSP 76
+1 Fezandipiti ex SFA 38
+1 Bloodmoon Ursaluna ex TWM 141
+
+Trainer: 32
+4 Energy Switch SVI 173
+4 Nest Ball SVI 181
+3 Ultra Ball SVI 196
+2 Earthen Vessel PAR 163
+1 Counter Catcher PAR 160
+1 Energy Retrieval SVI 171
+3 Night Stretcher SFA 61
+1 Prime Catcher TEF 157
+2 Lillie's Pearl JTG 151
+2 Professor's Research PRE 122
+2 Boss's Orders PAL 172
+2 Black Belt's Training PRE 96
+2 Iono PAL 185
+3 Area Zero Underdepths SCR 131
+
+Energy: 10
+6 Basic {G} Energy SVE 1
+4 Basic {P} Energy SVE 5
+
+Total Cards: 60

@@ -1,0 +1,26 @@
+Pokémon: 5
+4 Weezing JTG 92 PH
+1 Shaymin DRI 10
+4 Koffing MEW 109
+4 Team Rocket's Weezing DRI 126
+4 Team Rocket's Koffing DRI 125 PH
+
+Trainer: 12
+3 Buddy-Buddy Poffin PRE 101
+2 Earthen Vessel PRE 106
+2 Brock's Scouting JTG 146
+4 Team Rocket's Transceiver DRI 178 PH
+4 Team Rocket's Factory DRI 173 PH
+2 Team Rocket's Giovanni DRI 174
+2 Super Rod PAL 188
+2 Energy Sticker MEW 159
+4 Team Rocket's Petrel DRI 176
+4 Team Rocket's Great Ball DRI 175
+3 Team Rocket's Archer DRI 170 PH
+2 Team Rocket's Proton DRI 177
+
+Energy: 2
+4 Team Rocket's Energy DRI 182
+5 Basic {D} Energy SVE 15
+
+Total Cards: 60

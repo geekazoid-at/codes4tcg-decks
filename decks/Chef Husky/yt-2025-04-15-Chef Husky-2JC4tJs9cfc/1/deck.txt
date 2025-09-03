@@ -1,0 +1,43 @@
+Pokémon: 14
+1 Latias ex SSP 76
+1 Maractus JTG 8
+2 Teal Mask Ogerpon ex TWM 25
+1 Pecharunt PR-SV 149
+1 Fezandipiti ex SFA 38
+2 Accelgor JTG 13
+1 Mimikyu PAF 37
+1 Lillie's Clefairy ex JTG 56
+1 Cornerstone Mask Ogerpon ex TWM 112
+1 Accelgor JTG 13 PH
+1 Klefki SVI 96
+1 Shelmet JTG 12 PH
+1 Squawkabilly ex PAL 169
+2 Shelmet JTG 12
+
+Trainer: 19
+1 Bug Catching Set TWM 143
+1 Precious Trolley SSP 185
+4 Energy Switch SVI 173
+1 Counter Gain SSP 169
+3 Nest Ball SVI 181
+2 Boss's Orders PAL 172
+2 Area Zero Underdepths PRE 94
+2 Iono PAL 185
+3 Arven SVI 166
+1 Professor Turo's Scenario PAR 171
+1 Technical Machine: Devolution PAR 177
+2 Perilous Jungle TEF 156 PH
+1 Redeemable Ticket JTG 156
+2 Super Rod PAL 188
+1 Lillie's Pearl JTG 151
+2 Buddy-Buddy Poffin TEF 144
+2 Ultra Ball SVI 196
+1 Switch SVI 194
+2 Earthen Vessel PAR 163
+
+Energy: 3
+2 Jet Energy PAL 190
+5 Basic {G} Energy SVE 1
+2 Basic {P} Energy SVE 5
+
+Total Cards: 60

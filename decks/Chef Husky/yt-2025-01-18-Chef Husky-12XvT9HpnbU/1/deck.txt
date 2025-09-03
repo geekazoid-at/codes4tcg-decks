@@ -1,0 +1,40 @@
+Pokémon: 11
+1 Oranguru V ASR 133
+1 Revavroom ex OBF 224
+2 Bronzong PRE 67
+1 Duraludon SCR 106
+1 Archaludon ex SSP 130
+1 Revavroom ex OBF 156
+4 Varoom SFA 43
+1 Revavroom ex OBF 216
+1 Revavroom SVI 142
+2 Bronzor OBF 144
+1 Radiant Greninja ASR 46
+
+Trainer: 21
+1 Hisuian Heavy Ball ASR 146
+1 Roseanne's Backup BRS 148
+2 Rigid Band MEW 165
+1 Forest Seal Stone SIT 156
+2 Jacq SVI 175
+1 Counter Gain SSP 169
+1 Night Stretcher SFA 61
+1 Treasure Tracker PRE 131
+2 Nest Ball SVI 181
+2 Rigid Band MEW 165 PH
+1 Boss's Orders PAL 172
+1 Leftovers MEW 163
+2 Iono PAL 185
+4 Arven SVI 166
+1 Defiance Band SVI 169
+3 Buddy-Buddy Poffin PRE 101
+1 Earthen Vessel PRE 106
+2 Full Metal Lab TEF 148
+2 Ultra Ball SVI 196
+2 Switch SVI 194
+2 Exp. Share SVI 174
+
+Energy: 1
+9 Basic {M} Energy SVE 16
+
+Total Cards: 60

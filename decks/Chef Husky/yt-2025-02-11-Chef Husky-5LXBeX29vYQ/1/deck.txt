@@ -1,0 +1,35 @@
+Pokémon: 8
+1 Finizen TWM 59
+3 Palafin PAF 225
+1 Latias ex SSP 76
+1 Palafin ex TWM 61
+3 Finizen OBF 60
+4 Iron Valiant ex PAR 89
+1 Radiant Greninja ASR 46
+1 Palafin TWM 60
+
+Trainer: 19
+1 Hisuian Heavy Ball ASR 146
+2 Switch Cart ASR 154
+3 Surfer SSP 187
+1 Kieran PRE 113
+2 Energy Search SVI 172
+4 Irida ASR 147
+1 Prime Catcher TEF 157
+2 Night Stretcher SFA 61
+3 Nest Ball SVI 181
+2 Boss's Orders PAL 172
+2 Iono PAL 185
+2 Arven SVI 166
+1 Technical Machine: Devolution PAR 177
+1 Lost Vacuum CRZ 135
+1 Defiance Band SVI 169
+2 Techno Radar PAR 180
+2 Buddy-Buddy Poffin TEF 144
+1 Future Booster Energy Capsule TEF 149
+4 Switch SVI 194
+
+Energy: 1
+8 Basic {W} Energy SVE 3
+
+Total Cards: 60

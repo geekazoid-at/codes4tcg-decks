@@ -1,0 +1,35 @@
+Pokémon: 11
+1 Doduo MEW 84
+1 Xatu PAR 72
+1 Absol PAR 113
+1 Poltchageist TWM 20
+1 Tatsugiri TWM 131
+4 Enamorus TWM 93
+1 Natu PAF 25
+1 Iron Bundle PAR 56
+1 Emolga TWM 69 PH
+1 Dodrio MEW 85
+3 Bloodmoon Ursaluna SFA 25
+
+Trainer: 15
+1 Switch SVI 194
+2 Exp. Share SVI 174
+3 Earthen Vessel PAR 163
+4 Buddy-Buddy Poffin TEF 144
+2 Crispin SCR 133
+2 Energy Retrieval SVI 171
+1 Lana's Aid TWM 155
+4 Night Stretcher SFA 61
+1 Super Rod PAL 188
+4 Paldean Student PAF 85
+3 Heavy Baton TEF 151
+1 Pal Pad SVI 182
+3 Professor's Research SVI 189
+4 Carmine TWM 145
+1 Boss's Orders PAL 172
+
+Energy: 2
+4 Basic {F} Energy SVE 6
+4 Basic {P} Energy SVE 5
+
+Total Cards: 60

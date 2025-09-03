@@ -1,0 +1,35 @@
+Pokémon: 8
+1 Shaymin DRI 10
+1 Pidgeotto MEW 17
+2 Pidgeot ex OBF 164
+4 Ethan's Cyndaquil DRI 32
+2 Pidgey OBF 162
+4 Ethan's Quilava DRI 33
+3 Ethan's Typhlosion DRI 34
+1 Fezandipiti ex SFA 38
+
+Trainer: 19
+3 Ultra Ball SVI 196
+2 Rare Candy SVI 191
+4 Arven OBF 186
+1 Earthen Vessel PAR 163
+4 Buddy-Buddy Poffin TEF 144
+1 Counter Catcher PAR 160
+1 Luxurious Cape PAR 166
+2 Iono PAL 185
+3 Night Stretcher SFA 61
+1 Black Belt's Training PRE 96
+1 Super Rod PAL 188
+2 Technical Machine: Evolution PAR 178
+1 Redeemable Ticket JTG 156
+1 Professor's Research JTG 155
+1 Maximum Belt TEF 154
+1 Rescue Board TEF 159
+4 Ethan's Adventure DRI 165
+2 Artazon PAL 171
+2 Boss's Orders PAL 172
+
+Energy: 1
+5 Basic {R} Energy SVE 10
+
+Total Cards: 60

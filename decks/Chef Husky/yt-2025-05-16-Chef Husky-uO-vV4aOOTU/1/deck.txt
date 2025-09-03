@@ -1,0 +1,37 @@
+Pokémon: 9
+1 Oricorio PAF 113
+2 Steven's Beldum PR-SV 207
+1 Fezandipiti ex SFA 84
+2 Steven's Metang SV 10 144
+1 Oricorio PAL 33
+2 Steven's Beldum SV 10 143
+1 Lillie's Clefairy ex JTG 56
+2 Steven's Carbink SV 10 86
+3 Steven's Metagross ex SV 10 145
+
+Trainer: 19
+2 Switch CRZ 144
+1 Precious Trolley SSP 185
+1 Leftovers MEW 163
+3 Granite Cave SV 10 166
+2 Ultra Ball CRZ 146
+1 Haban Berry PRE 111
+1 Pokégear 3.0 SVI 186
+2 Night Stretcher SFA 61
+3 Nest Ball SVI 181
+2 Boss's Orders PAL 172
+2 Black Belt's Training PRE 96
+4 Arven SVI 166
+1 Lucky Helmet TWM 158
+2 Technical Machine: Evolution PAR 178
+1 Super Rod PAL 188
+1 Ultra Ball BRS 186
+2 Buddy-Buddy Poffin PRE 101
+2 Iono PAF 80
+3 Rare Candy SVI 191
+
+Energy: 2
+4 Basic {P} Energy SVE 13
+5 Basic {M} Energy SVE 16
+
+Total Cards: 60

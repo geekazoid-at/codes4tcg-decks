@@ -1,0 +1,33 @@
+Pokémon: 17
+4 Frillish WHT 44
+3 Jellicent ex WHT 45
+3 Abra TWM 80
+2 Kadabra TWM 81
+2 Alakazam ex PR-SV 50
+1 Fezandipiti ex SFA 38
+1 Lillie's Clefairy ex JTG 56
+1 Mew ex MEW 151
+
+Trainer: 32
+4 Arven SVI 166
+4 Iono PAL 185
+2 Hilda WHT 84
+2 Boss's Orders PAL 172
+4 Nest Ball SVI 181
+4 Ultra Ball SVI 196
+2 Rare Candy SVI 191
+1 Earthen Vessel PAR 163
+1 Counter Catcher PAR 160
+1 Super Rod PAL 188
+1 Night Stretcher SFA 61
+2 Technical Machine: Evolution PAR 178
+1 Air Balloon BLK 79
+1 Technical Machine: Devolution PAR 177
+2 Artazon PAL 171
+
+Energy: 11
+7 Basic {P} Energy SVE 5
+3 Ignition Energy WHT 86
+1 Neo Upper Energy TEF 162
+
+Total Cards: 60

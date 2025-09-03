@@ -1,0 +1,33 @@
+Pokémon: 7
+2 Bibarel BRS 121
+2 Skwovet SVI 151
+2 Bouffalant OBF 174
+1 Fan Rotom SCR 118
+1 Bouffalant SCR 119
+2 Bidoof CRZ 111
+1 Bouffalant OBF 174 PH
+
+Trainer: 16
+4 Pot Helmet BRS 146
+2 Ultra Ball SVI 196
+4 Lake Acuity LOR 160
+3 Crushing Hammer SVI 168
+3 Crispin SCR 133
+2 Buddy-Buddy Poffin TEF 144
+1 Hisuian Heavy Ball ASR 146
+2 Iono PAL 185
+3 Night Stretcher SFA 61
+1 Colress's Tenacity SFA 57
+2 Super Rod PAL 188
+3 Pokégear 3.0 SVI 186
+3 Nest Ball SVI 181
+1 Neutralization Zone SFA 60
+3 Arven SVI 166
+2 Boss's Orders PAL 172
+
+Energy: 3
+2 Double Turbo Energy BRS 151
+4 Basic {F} Energy SVE 6
+4 Basic {W} Energy SVE 3
+
+Total Cards: 60

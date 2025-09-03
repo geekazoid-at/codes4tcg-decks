@@ -1,0 +1,27 @@
+Pokémon: 7
+2 Persian MEW 53
+2 Chesnaught V SIT 171
+2 Eldegoss EVS 16
+2 Chesnaught V SIT 15
+2 Meowth MEW 52
+1 Radiant Greninja ASR 46
+2 Gossifleur SHF 14
+
+Trainer: 12
+3 Ultra Ball SVI 196
+1 Hisuian Heavy Ball ASR 146
+4 Battle VIP Pass FST 225
+4 Iono PAL 185
+4 Professor's Research CEL 23
+2 Super Rod PAL 188
+3 Giovanni's Charisma MEW 161
+3 Protective Goggles MEW 164
+4 Energy Sticker MEW 159
+2 Pal Pad SVI 182
+4 Nest Ball SVI 181
+2 Boss's Orders RCL 154
+
+Energy: 1
+11 Basic {G} Energy SVE 1
+
+Total Cards: 60

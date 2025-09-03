@@ -1,0 +1,39 @@
+Pokémon: 13
+1 Budew PRE 4 PH
+1 Dunsparce TEF 128
+3 Dudunsparce TEF 129
+2 Dunsparce PAL 156
+3 Froslass TWM 53
+1 Hisuian Braviary ASR 132
+2 Uxie SSP 78
+1 Rufflet SSP 152 PH
+1 Snorunt PAR 188
+2 Rufflet SSP 152
+2 Snorunt PAR 37 PH
+1 Radiant Alakazam SIT 59
+3 Hisuian Braviary SIT 149
+
+Trainer: 18
+1 Hisuian Heavy Ball ASR 146
+2 Counter Catcher PAR 160
+2 Switch CRZ 144
+1 Accompanying Flute TWM 142
+2 Energy Search SVI 172
+2 Night Stretcher SFA 61
+1 Rescue Board TEF 159
+1 Iscan LOR 158
+2 Artazon PAL 171
+1 Boss's Orders PAL 172
+1 Hyper Aroma TWM 152
+4 Arven SVI 166
+2 Cynthia's Ambition BRS 138
+4 Buddy-Buddy Poffin TEF 144
+2 Gravity Gemstone SCR 137
+2 Iono PAF 80
+2 Ultra Ball SVI 196
+1 Technical Machine: Devolution PAR 177
+
+Energy: 1
+4 Basic {P} Energy SVE 5
+
+Total Cards: 60

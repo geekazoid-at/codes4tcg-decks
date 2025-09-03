@@ -1,0 +1,66 @@
+Pokémon: 9
+2 Ralts PAF 27
+2 Ribombee TEF 76
+2 Kirlia SIT 68
+1 Steenee OBF 17
+4 Bounsweet PAR 8
+2 Tsareena OBF 18 PH
+2 Cutiefly TEF 75
+2 Tsareena OBF 18
+2 Steenee OBF 17 PH
+
+Trainer: 13
+3 Rare Candy PAF 89
+2 Switch SVI 194
+4 Buddy-Buddy Poffin TEF 144
+4 Youngster SVI 198
+1 Hisuian Heavy Ball ASR 146
+2 Super Rod PAL 188
+2 Big Air Balloon MEW 155
+3 Technical Machine: Evolution PAR 178
+3 Gardenia's Vigor ASR 143
+2 Pokégear 3.0 SVI 186
+1 Roxanne ASR 150
+4 Ultra Ball CRZ 146
+2 Arven SVI 166
+
+Energy: 1
+8 Basic {G} Energy SVE 1
+
+Total Cards: 6
+
+Calico Deck
+Pokémon: 6
+1 Beheeyem SIT 80 PH
+3 Beheeyem TEF 74 PH
+4 Kirlia PR-SW 271
+4 Elgyem TEF 73 PH
+4 Ralts SIT 67 PH
+1 Gardevoir SIT-TG 5
+
+Trainer: 19
+2 Falkner PAL 180 PH
+1 Arven SVI 249
+3 Pokémon League Headquarters OBF 192 PH
+4 Buddy-Buddy Poffin TEF 144 PH
+1 Moonlit Hill PAF 81 PH
+1 Trekking Shoes CRZ 145 PH
+1 Jacq SVI 250
+3 Nest Ball SVI 255
+1 Counter Catcher CIN 91 PH
+2 Tulip PAR 259
+1 Hisuian Heavy Ball ASR 146 PH
+1 Earthen Vessel PAR 163 PH
+3 Ultra Ball SVI 196 PH
+3 Iono PAF 80 PH
+2 Colress's Experiment LOR 155 PH
+1 Trekking Shoes ASR 215
+2 Trekking Shoes ASR 156 PH
+1 Morty's Conviction TEF 155 PH
+1 Artazon OBF 229
+
+Energy: 2
+7 Basic {P} Energy SVE 5
+2 Jet Energy PAL 190 PH
+
+Total Cards: 60

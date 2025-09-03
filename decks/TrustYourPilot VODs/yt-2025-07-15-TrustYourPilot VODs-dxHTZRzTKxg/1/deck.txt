@@ -1,0 +1,28 @@
+Pokémon: 8
+3 Cetoddle SSP 53
+3 Ethan's Sudowoodo DRI 93
+3 Barboach OBF 108
+4 Dunsparce PAL 156
+2 Whiscash OBF 109
+3 Cetitan ex DRI 65
+4 Dudunsparce TEF 129
+1 Cleffa OBF 80
+
+Trainer: 11
+1 Xerosic's Machinations SFA 64
+2 Judge SVI 176
+3 Buddy-Buddy Poffin TEF 144
+3 Counter Catcher PAR 160
+4 Iono PAL 185
+2 Night Stretcher SFA 61
+2 Super Rod PAL 188
+1 Pal Pad SVI 182
+3 Nest Ball SVI 181
+1 Scramble Switch SSP 186
+2 Artazon PAL 171
+
+Energy: 2
+9 Basic {F} Energy SVE 14
+4 Reversal Energy PAL 192
+
+Total Cards: 60

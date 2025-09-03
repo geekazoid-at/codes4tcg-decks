@@ -1,0 +1,42 @@
+Pokémon: 12
+1 Enamorus V LOR-TG 18
+1 Bloodmoon Ursaluna ex TWM 141
+1 Iron Bundle PAR 56
+1 Milotic ex SSP 42
+1 Tatsugiri TWM 131 PH
+1 Okidogi TWM 111 PH
+3 Okidogi TWM 111
+1 Feebas SIT 39
+1 Cornerstone Mask Ogerpon ex TWM 112
+1 Milotic ex SSP 217
+1 Radiant Greninja ASR 46
+1 Tatsugiri TWM 186
+
+Trainer: 18
+1 Hisuian Heavy Ball ASR 146
+2 Counter Catcher PAR 160
+2 Exp. Share SVI 174
+1 Irida ASR 147
+2 Night Stretcher SFA 61
+1 Rescue Board TEF 159
+4 Nest Ball SVI 181
+1 Artazon PAL 171
+1 Bravery Charm PAL 173
+1 Boss's Orders PAL 172
+2 Iono PAL 185
+2 Arven SVI 166
+2 Colress's Tenacity SFA 57
+1 Cynthia's Ambition BRS 138
+1 Lost Vacuum LOR 162
+4 Crispin SCR 133
+2 Switch SVI 194
+2 Earthen Vessel PAR 163
+
+Energy: 5
+1 Legacy Energy TWM 167
+4 Luminous Energy PAL 191
+1 Basic {D} Energy SVE 7
+5 Basic {F} Energy SVE 6
+3 Basic {W} Energy SVE 3
+
+Total Cards: 60

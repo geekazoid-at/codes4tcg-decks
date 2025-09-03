@@ -1,0 +1,36 @@
+Pokémon: 9
+2 Xatu PAR 72
+2 Natu PAF 25
+4 Team Rocket's Hypno DRI 80
+1 Fezandipiti ex SFA 38
+1 Budew PRE 4
+1 Cleffa OBF 80
+1 Bloodmoon Ursaluna ex TWM 141
+1 Lillie's Clefairy ex JTG 56
+4 Team Rocket's Drowzee DRI 79
+
+Trainer: 18
+2 Ultra Ball SVI 196
+1 Switch SVI 194
+4 Arven OBF 186
+1 Earthen Vessel PAR 163
+1 Energy Retrieval SVI 171
+1 Counter Catcher PAR 160
+4 Iono PAL 185
+2 Artazon PAF 76
+3 Great Ball PAL 183
+2 Night Stretcher SFA 61
+1 Super Rod PAL 188
+2 Technical Machine: Evolution PAR 178
+1 Rescue Board PRE 126
+2 Nest Ball SVI 181
+1 Precious Trolley SSP 185
+1 Tulip PAR 181
+2 Accompanying Flute TWM 142
+2 Boss's Orders PAL 172
+
+Energy: 2
+4 Team Rocket's Energy DRI 182
+6 Basic {P} Energy SVE 13
+
+Total Cards: 60

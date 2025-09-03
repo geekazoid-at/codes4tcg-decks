@@ -1,0 +1,35 @@
+Pokémon: 9
+2 Froslass TWM 53
+1 Maractus JTG 8
+1 Zoroark SFA 32
+1 Budew PRE 4
+2 Snorunt PAR 37
+2 Cleffa OBF 80
+1 Bloodmoon Ursaluna ex TWM 141
+4 Zorua WHT 61
+3 Zoroark WHT 62
+
+Trainer: 16
+3 Ultra Ball SVI 196
+1 Exp. Share SVI 174
+1 Earthen Vessel PAR 163
+3 Buddy-Buddy Poffin TEF 144
+3 Counter Catcher PAR 160
+4 Iono PAL 185
+2 Air Balloon BLK 79
+2 Super Rod PAL 188
+2 Technical Machine: Evolution PAR 178
+2 Pokégear 3.0 SVI 186
+2 Nest Ball SVI 181
+2 Accompanying Flute TWM 142
+1 Neutralization Zone SFA 60
+1 Artazon PAL 171
+4 Arven SVI 166
+1 Hilda WHT 84
+
+Energy: 3
+5 Basic {D} Energy SVE 15
+2 Ignition Energy WHT 86
+2 Reversal Energy PAL 192
+
+Total Cards: 60

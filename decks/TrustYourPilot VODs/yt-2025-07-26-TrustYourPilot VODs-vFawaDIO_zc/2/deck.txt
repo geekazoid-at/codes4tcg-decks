@@ -1,0 +1,32 @@
+Pokémon: 3
+3 Jellicent ex WHT 45
+3 Tirtouga BLK 22
+3 Frillish WHT 44
+
+Trainer: 18
+4 Ultra Ball SVI 196
+3 Xerosic's Machinations SFA 64
+4 Antique Cover Fossil SCR 129
+1 Earthen Vessel PAR 163
+2 Crispin SCR 133
+1 Practice Studio PAL 186
+1 Professor Turo's Scenario PAR 171
+2 Lucky Helmet TWM 158
+1 Technical Machine: Devolution PAR 177
+2 Brave Bangle WHT 80
+2 Night Stretcher SFA 61
+4 Pokégear 3.0 SVI 186
+3 Professor's Research PRE 122
+1 Pokémon League Headquarters OBF 192
+1 Nest Ball SVI 181
+2 Boss's Orders PAL 172
+4 Arven SVI 166
+2 Hilda WHT 84
+
+Energy: 4
+4 Basic {W} Energy SVE 11
+2 Ignition Energy WHT 86
+4 Basic {P} Energy SVE 13
+1 Legacy Energy TWM 167
+
+Total Cards: 60

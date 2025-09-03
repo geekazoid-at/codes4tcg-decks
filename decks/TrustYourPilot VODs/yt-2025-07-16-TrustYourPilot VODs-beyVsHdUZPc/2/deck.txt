@@ -1,0 +1,36 @@
+Pokémon: 9
+2 Uxie SSP 78
+3 Hippopotas PRE 52
+3 Dunsparce PAL 156
+3 Froslass TWM 53
+2 Dudunsparce TEF 129
+2 Hippowdon DRI 106
+1 Budew PRE 4
+3 Snorunt PAR 37
+1 Cleffa OBF 80
+
+Trainer: 18
+2 Ultra Ball SVI 196
+1 Switch SVI 194
+2 Rocky Helmet SVI 193
+1 Energy Search SVI 172
+4 Buddy-Buddy Poffin TEF 144
+2 Counter Catcher PAR 160
+4 Iono PAL 185
+2 Technical Machine: Devolution PAR 177
+1 Night Stretcher SFA 61
+1 Colress's Tenacity SFA 57
+1 Super Rod PAL 188
+1 Technical Machine: Evolution PAR 178
+2 Vengeful Punch OBF 197
+2 Nest Ball SVI 181
+1 Rescue Board TEF 159
+1 Unfair Stamp TWM 165
+2 Artazon PAL 171
+4 Arven SVI 166
+
+Energy: 2
+3 Basic {P} Energy SVE 13
+3 Reversal Energy PAL 192
+
+Total Cards: 60

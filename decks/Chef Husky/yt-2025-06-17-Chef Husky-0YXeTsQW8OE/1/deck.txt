@@ -1,0 +1,33 @@
+Pokémon: 8
+1 Ethan's Sudowoodo DRI 93
+4 Cynthia's Gible DRI 102
+2 Cynthia's Spiritomb DRI 129
+3 Cynthia's Garchomp ex DRI 104
+3 Cynthia's Roserade DRI 8
+1 Tatsugiri TWM 186
+4 Cynthia's Gabite DRI 103
+3 Cynthia's Roselia DRI 7
+
+Trainer: 17
+2 Ultra Ball SVI 196
+1 Earthen Vessel PRE 106
+1 Rare Candy SVI 191
+2 Buddy-Buddy Poffin TEF 144
+1 Counter Catcher PAR 160
+3 Cynthia's Power Weight DRI 162
+2 Night Stretcher SFA 61
+1 Super Rod PAL 188
+2 Technical Machine: Evolution PAR 178
+4 Iono PAF 80
+1 Professor Turo's Scenario PRE 121
+1 Pal Pad SVI 182
+1 Rescue Board PRE 126
+2 Team Rocket's Watchtower DRI 180
+1 Secret Box TWM 163
+4 Arven SVI 166
+3 Boss's Orders PAL 172
+
+Energy: 1
+7 Basic {F} Energy SVE 14
+
+Total Cards: 60

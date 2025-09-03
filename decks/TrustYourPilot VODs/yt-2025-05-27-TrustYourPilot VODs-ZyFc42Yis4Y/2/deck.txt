@@ -1,0 +1,33 @@
+Pokémon: 9
+2 Marnie's Scraggy SV 10 132
+3 Marnie's Grimmsnarl ex DRI 136
+1 Munkidori TWM 95
+4 Marnie's Impidimp DRI 134
+1 Fezandipiti ex SFA 38
+1 Toedscool JTG 88
+1 Budew PRE 4
+1 Toedscruel PAR 17
+2 Marnie's Morgrem DRI 135
+
+Trainer: 16
+2 Counter Catcher PAR 160
+3 Spikemuth Gym DRI 169
+1 Unfair Stamp TWM 165
+1 Judge SVI 176
+1 Energy Recycler DRI 164
+1 Night Stretcher SFA 61
+4 Arven OBF 186
+1 Boss's Orders PAL 172
+2 Handheld Fan TWM 150
+1 Technical Machine: Evolution PAR 178
+1 Super Rod PAL 188
+3 Crushing Hammer SVI 168
+3 Buddy-Buddy Poffin PRE 101
+4 Iono PAF 80
+2 Professor's Research PRE 122
+3 Rare Candy SVI 191
+
+Energy: 1
+11 Basic {D} Energy SVE 15
+
+Total Cards: 60

@@ -1,0 +1,30 @@
+Pokémon: 19
+4 Smoliv DRI 21
+3 Dolliv DRI 22
+3 Arboliva ex DRI 23
+2 Snorunt TWM 51
+2 Snorunt PAR 37
+3 Froslass TWM 53
+2 Munkidori PRE 44
+
+Trainer: 34
+4 Buddy-Buddy Poffin TEF 144
+4 Bug Catching Set TWM 143
+2 Earthen Vessel PAR 163
+3 Night Stretcher SFA 61
+4 Pokégear 3.0 SVI 186
+2 Ultra Ball SVI 196
+2 Rare Candy SVI 191
+1 Unfair Stamp TWM 165
+4 Arven SVI 166
+2 Iono PAL 185
+2 Professor's Research PRE 122
+1 Rescue Board TEF 159
+2 Technical Machine: Evolution PAR 178
+1 Technical Machine: Devolution PAR 177
+
+Energy: 7
+5 Basic {G} Energy SVE 1
+2 Basic {D} Energy SVE 7
+
+Total Cards: 60

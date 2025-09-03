@@ -1,0 +1,37 @@
+Pokémon: 11
+1 Pignite WHT 12
+1 Dunsparce TEF 128
+3 Dudunsparce TEF 129
+2 Charcadet SSP 32
+2 Tepig WHT 11
+2 Dunsparce PAL 156
+1 Magearna JTG 107
+2 Emboar WHT 13
+1 Armarouge ex PAR 218
+2 Armarouge ex PAR 27
+1 Charcadet SSP 32 PH
+
+Trainer: 16
+1 Counter Catcher PAR 160
+1 Rigid Band MEW 165
+2 Night Stretcher SFA 61
+2 Artazon PAL 171
+1 Boss's Orders PAL 172
+1 Air Balloon BLK 79
+1 Iono PAL 185
+3 Arven SVI 166
+1 Hilda WHT 171
+2 Hilda WHT 84
+1 Technical Machine: Evolution PAR 178
+2 Superior Energy Retrieval PAL 189
+4 Buddy-Buddy Poffin PRE 101
+2 Ultra Ball SVI 196
+2 Rare Candy SVI 191
+2 Earthen Vessel PAR 163
+
+Energy: 3
+11 Basic {R} Energy SVE 10
+2 Jet Energy PAL 190
+1 Enriching Energy SSP 191
+
+Total Cards: 60

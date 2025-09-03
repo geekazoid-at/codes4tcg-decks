@@ -1,0 +1,30 @@
+Pokémon: 7
+2 Heat Rotom DRI 43
+2 Dreepy PRE 71
+2 Rotom DRI 77
+2 Drakloak PRE 72
+2 Snorlax PR-SV 51
+2 Wash Rotom DRI 61
+2 Mow Rotom DRI 9
+
+Trainer: 12
+2 Ultra Ball SVI 196
+2 Switch SVI 194
+3 Crispin PRE 105
+3 Exp. Share SVI 174
+3 Iono PAL 185
+3 Night Stretcher SFA 61
+1 Super Rod PAL 188
+4 Leftovers MEW 163
+3 Town Store OBF 196
+3 Vengeful Punch OBF 197
+4 Nest Ball SVI 181
+3 Arven SVI 166
+
+Energy: 4
+3 Basic {W} Energy SVE 11
+3 Basic {L} Energy SVE 12
+3 Basic {R} Energy SVE 10
+3 Basic {G} Energy SVE 9
+
+Total Cards: 60

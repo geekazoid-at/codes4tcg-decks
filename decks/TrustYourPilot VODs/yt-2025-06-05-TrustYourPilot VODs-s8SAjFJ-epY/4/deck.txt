@@ -1,0 +1,36 @@
+Pokémon: 10
+2 Drakloak TWM 129
+2 Dreepy TWM 128
+1 Fezandipiti ex SFA 38
+1 Budew PRE 4
+4 Ethan's Cyndaquil DRI 32
+4 Ethan's Quilava DRI 33
+3 Ethan's Typhlosion DRI 34
+1 Victini SSP 21
+1 Shaymin DRI 10
+1 Dragapult ex TWM 130
+
+Trainer: 17
+2 Counter Catcher PAR 160
+1 Secret Box TWM 163
+2 Night Stretcher SFA 61
+1 Rescue Board TEF 159
+2 Arven OBF 186
+2 Boss's Orders PAL 172
+2 Iono PAL 185
+1 Technical Machine: Evolution PAR 178
+1 Redeemable Ticket JTG 156
+1 Super Rod PAL 188
+4 Buddy-Buddy Poffin TEF 144
+4 Ethan's Adventure DRI 165
+4 Ultra Ball SVI 196
+2 Professor's Research PRE 122
+2 Rare Candy SVI 191
+1 Earthen Vessel PAR 163
+2 Gravity Mountain SSP 177
+
+Energy: 2
+5 Basic {R} Energy SVE 10
+1 Basic {P} Energy SVE 13
+
+Total Cards: 60

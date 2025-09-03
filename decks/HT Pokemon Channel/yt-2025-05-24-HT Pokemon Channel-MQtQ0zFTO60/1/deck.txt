@@ -1,0 +1,38 @@
+Pokémon: 21
+3 Froakie OBF 56
+1 Frogadier TWM 57
+2 Greninja ex TWM 106
+1 Charmander PAF 7
+2 Charmander OBF 26
+1 Charmeleon PAF 8
+2 Charizard ex PAF 54
+3 Pidgey MEW 16
+1 Pidgeotto MEW 17
+2 Pidgeot ex OBF 164
+1 Budew PRE 4
+1 Fezandipiti ex SFA 38
+1 Squawkabilly ex PAF 75
+
+Trainer: 30
+4 Buddy-Buddy Poffin TEF 144
+1 Nest Ball SVI 181
+3 Ultra Ball SVI 196
+4 Rare Candy SVI 191
+1 Energy Search SVI 172
+1 Night Stretcher SFA 61
+1 Super Rod PAL 188
+1 Switch SVI 194
+1 Rescue Board TEF 159
+1 Technical Machine: Evolution PAR 178
+1 Sparkling Crystal SCR 142
+4 Arven SVI 166
+2 Boss's Orders PAL 172
+2 Iono PAL 185
+2 Jacq SVI 175
+1 Professor's Research JTG 155
+
+Energy: 9
+6 Basic {R} Energy SVE 2
+3 Basic {W} Energy SVE 3
+
+Total Cards: 60

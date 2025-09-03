@@ -1,0 +1,32 @@
+Pokémon: 9
+3 Dusknoir PRE 37
+2 Steven's Metang SV 10 144
+1 Mew ex MEW 151
+3 Duskull PRE 35
+2 Dusclops PRE 36
+1 Fezandipiti ex SFA 38
+3 Steven's Beldum SV 10 143
+3 Steven's Metagross ex SV 10 145
+1 Lillie's Clefairy ex JTG 56
+
+Trainer: 14
+3 Ultra Ball SVI 196
+1 Vitality Band SVI 197
+4 Rare Candy SVI 191
+4 Arven OBF 186
+4 Buddy-Buddy Poffin TEF 144
+1 Counter Catcher PAR 160
+2 Iono PAL 185
+2 Night Stretcher SFA 61
+1 Super Rod PAL 188
+2 Technical Machine: Evolution PAR 178
+2 Professor's Research JTG 155
+2 Nest Ball SVI 181
+1 Unfair Stamp TWM 165
+2 Boss's Orders PAL 172
+
+Energy: 2
+4 Basic {P} Energy SVE 13
+6 Basic {M} Energy SVE 16
+
+Total Cards: 60

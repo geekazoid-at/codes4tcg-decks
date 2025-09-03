@@ -1,0 +1,30 @@
+Pokémon: 7
+2 Hydrapple DRI 18
+1 Tatsugiri TWM 131
+1 Dedenne SSP 87
+1 Fezandipiti ex SFA 38
+3 Dipplin SCR 13
+1 Cleffa OBF 80
+4 Applin TWM 17
+
+Trainer: 15
+2 Rare Candy SVI 191
+4 Buddy-Buddy Poffin TEF 144
+2 Energy Retrieval SVI 171
+2 Iono PAL 185
+1 Energy Recycler DRI 164
+2 Lucky Helmet TWM 158
+4 Drasna SSP 173
+1 Night Stretcher SFA 61
+3 Superior Energy Retrieval PAL 189
+2 Super Rod PAL 188
+1 Max Rod PRE 116
+4 Morty's Conviction TEF 155
+1 Rescue Board TEF 159
+4 Bug Catching Set TWM 143
+1 Boss's Orders PAL 172
+
+Energy: 1
+13 Basic {G} Energy SVE 9
+
+Total Cards: 60

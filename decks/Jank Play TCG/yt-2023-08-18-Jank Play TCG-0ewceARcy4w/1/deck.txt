@@ -1,0 +1,28 @@
+Pokémon: 8
+3 Kingambit OBF 150
+4 Bisharp ASR 116
+2 Spinda SIT 141
+2 Pidgeot ex OBF 164
+2 Pidgey OBF 162
+4 Pawniard ASR 115
+1 Radiant Alakazam SIT 59
+2 Mimikyu PAL 97
+
+Trainer: 11
+2 Ultra Ball SVI 196
+4 Rare Candy SVI 191
+2 Klara CRE 145
+4 Gapejaw Bog ASR 142 PH
+1 Super Rod PAL 188
+4 Vengeful Punch OBF 197
+2 Pal Pad SVI 182
+4 Nest Ball SVI 181
+3 Capturing Aroma SIT 153
+4 Professor's Research SVI 189
+2 Arven SVI 166
+
+Energy: 2
+4 Basic {M} Energy SVE 8
+4 Luminous Energy PAL 191
+
+Total Cards: 60

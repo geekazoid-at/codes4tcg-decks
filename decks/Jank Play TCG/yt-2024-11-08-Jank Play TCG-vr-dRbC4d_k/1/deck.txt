@@ -1,0 +1,29 @@
+Pokémon: 6
+2 Farigiraf TWM 84 PH
+4 Drakloak TWM 129
+4 Dreepy TWM 128
+2 Tatsugiri TWM 131
+4 Girafarig CRZ 61
+2 Farigiraf TWM 84
+
+Trainer: 14
+4 Energy Loto GRI 122
+3 Buddy-Buddy Poffin TEF 144
+4 Youngster SVI 198
+2 Practice Studio PAL 186
+4 Great Ball PAL 183
+1 Super Rod PAL 188
+2 Iono PAF 80
+2 Rigid Band MEW 165
+2 Arezu LOR 153
+3 Nest Ball SVI 181
+2 Rescue Board TEF 159
+2 Rigid Band MEW 165 PH
+2 Roseanne's Backup BRS 148
+4 Arven SVI 166
+
+Energy: 2
+4 Double Turbo Energy BRS 151
+1 Reversal Energy PAL 192
+
+Total Cards: 60

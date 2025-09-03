@@ -1,0 +1,28 @@
+Pokémon: 6
+4 Iron Valiant TEF 79
+1 Iron Bundle PR-SV 66
+2 Iron Jugulis TEF 139 PH
+1 Iron Bundle SVALT 41
+2 Iron Jugulis TEF 139
+1 Iron Bundle PR-SV 58
+
+Trainer: 12
+3 Energy Loto GRI 122
+2 Ciphermaniac's Codebreaking TEF 145
+4 Youngster SVI 198
+3 Future Booster Energy Capsule PAR 164
+2 Super Rod PAL 188
+3 Giovanni's Charisma MEW 161
+2 Counter Catcher PAR 160 PH
+2 Town Store OBF 196
+4 Energy Sticker MEW 159
+4 Vengeful Punch OBF 197
+4 Techno Radar PAR 180
+2 Arven SVI 166
+
+Energy: 3
+3 Basic {W} Energy SVE 3
+7 Basic {P} Energy SVE 5
+4 Double Turbo Energy BRS 151
+
+Total Cards: 60

@@ -1,0 +1,37 @@
+Pokémon: 10
+2 Steven's Metang SV 10 144
+1 Mew ex MEW 151
+2 Fezandipiti PRE 45
+1 Fezandipiti ex SFA 38
+3 Steven's Beldum SV 10 143
+1 Budew PRE 4
+3 Steven's Metagross ex SV 10 145
+1 Munkidori PRE 44
+1 Squawkabilly ex PAL 169
+1 Lillie's Clefairy ex JTG 56
+
+Trainer: 16
+3 Ultra Ball SVI 196
+1 Switch SVI 194
+2 Rare Candy SVI 191
+4 Arven OBF 186
+1 Earthen Vessel PAR 163
+2 Buddy-Buddy Poffin TEF 144
+1 Counter Catcher PAR 160
+4 Iono PAL 185
+2 Artazon PAF 76
+1 Night Stretcher SFA 61
+3 Super Rod PAL 188
+1 Technical Machine: Evolution PAR 178
+1 Lillie's Pearl JTG 151
+2 Nest Ball SVI 181
+1 Rescue Board TEF 159
+2 Boss's Orders PAL 172
+
+Energy: 4
+2 Basic {D} Energy SVE 15
+5 Basic {P} Energy SVE 13
+1 Legacy Energy TWM 167
+5 Basic {M} Energy SVE 16
+
+Total Cards: 60

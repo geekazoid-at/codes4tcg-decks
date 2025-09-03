@@ -1,0 +1,37 @@
+Pokémon: 10
+2 Litwick TWM 36 PH
+1 Maractus JTG 8
+1 Dunsparce TEF 128
+3 Dudunsparce TEF 129
+2 Lampent TWM 37
+2 Dunsparce PAL 156
+1 Dudunsparce ex JTG 121
+4 Chandelure TWM 38
+2 Litwick TWM 36
+1 Shaymin DRI 10
+
+Trainer: 19
+4 Buddy-Buddy Poffin TWM 223
+2 Ultra Ball BRS 150 PH
+2 Super Rod PAL 276
+1 Artazon OBF 229
+1 Earthen Vessel SFA 96
+2 Rare Candy SVI 256
+3 Arven PAF 235
+2 Switch MEW 206
+1 Artazon PAL 171
+2 Boss's Orders PAL 265
+2 Lucian TWM 157
+2 Night Stretcher SSP 251
+1 Tyme SSP 190
+1 Ultra Ball BRS 186
+1 Defiance Band SVI 169
+1 Counter Catcher PAR 264
+2 Rare Candy PAF 89
+4 Ciphermaniac's Codebreaking TEF 145
+1 Neutralization Zone SFA 60
+
+Energy: 1
+6 Basic {R} Energy OBF 230
+
+Total Cards: 60

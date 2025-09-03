@@ -1,0 +1,42 @@
+Pokémon: 14
+1 Tinkaton PAL 105
+1 Tinkatuff PAL 103
+3 Tinkatink PAR 83
+3 Tinkaton ex PR-SV 31
+1 Dunsparce TEF 128
+3 Dudunsparce TEF 129
+2 Dunsparce PAL 156
+2 Xatu PAR 72
+1 Meloetta ex BLK 44
+1 Fezandipiti ex SFA 38
+1 Dudunsparce ex JTG 121
+1 Lillie's Clefairy ex JTG 56
+2 Natu PAR 71
+1 Tinkatink PAR 83 PH
+
+Trainer: 17
+3 Buddy-Buddy Poffin TWM 223
+2 Ultra Ball BRS 150 PH
+1 Super Rod PAL 276
+2 Artazon OBF 229
+2 Team Rocket's Petrel DRI 176
+2 Rare Candy SVI 256
+2 Nest Ball SVI 181
+1 Switch MEW 206
+2 Boss's Orders PAL 265
+1 Night Stretcher SSP 251
+1 Hilda WHT 171
+2 Hilda WHT 84
+2 Technical Machine: Evolution PAR 178
+1 Ultra Ball BRS 186
+1 Rare Candy PAF 89
+1 Counter Catcher PAR 264
+1 Earthen Vessel PAR 163
+
+Energy: 4
+2 Jet Energy PAL 190
+6 Basic {P} Energy SVE 5
+1 Enriching Energy SSP 191
+1 Mist Energy TEF 161
+
+Total Cards: 60

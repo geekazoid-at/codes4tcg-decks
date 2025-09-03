@@ -1,0 +1,45 @@
+Pokémon: 16
+1 Feebas SIT 39
+1 Black Kyurem ex SSP 48
+3 Gible PAR 94 PH
+1 Garchomp ex PAR 38
+1 Gabite PAR 95
+1 Pidgeotto MEW 17
+2 Pidgeot ex OBF 164
+1 Regigigas PRE 86
+1 Pidgey OBF 162
+1 Radiant Greninja ASR 46
+1 Garchomp ex PAR 260
+1 Milotic ex SSP 217
+1 Bloodmoon Ursaluna ex TWM 141
+1 Gible PAR 94
+1 Garchomp ex PAR 219
+1 Aerodactyl MEW 142
+
+Trainer: 19
+1 Ultra Ball SVI 196
+3 Buddy-Buddy Poffin PRE 101
+1 Earthen Vessel PRE 106
+4 Irida ASR 147
+3 Rare Candy SVI 191
+1 Counter Gain SSP 169
+4 Feather Ball ASR 141
+1 Lost Vacuum LOR 162
+1 Counter Catcher PAR 160
+1 Hisuian Heavy Ball ASR 146
+2 Iono PAL 185
+1 Technical Machine: Devolution PAR 177
+2 Night Stretcher SFA 61
+1 Prime Catcher PRE 119
+1 Antique Old Amber MEW 154
+1 Professor's Research PRE 122
+2 Penny SVI 183
+1 Arven SVI 166
+1 Boss's Orders PAL 172
+
+Energy: 3
+7 Basic {F} Energy SVE 6
+1 Basic {W} Energy SVE 3
+1 Boomerang Energy TWM 166
+
+Total Cards: 60

@@ -20,6 +20,11 @@ const channelIdPat = "UCLryZvbuOJNmRCp_OI-VoTg"; // CoolTrainerPat
 const channelId10t = "UCGt88fXOvxhyXZrj5MDKQwQ"; // 10 types gaming
 const channelIdSTCG = "UCSmwbnSsbzy53z6AnSkGYkg"; // Strategic TCG
 const channelIdPokeScout = "UC8LFaLCY2hvA0D7jZFwIk0Q"; // PokeScout
+const channelIdPokemonJake = "UCfn5pUHA_hnm4Zu4qJ9Xp_Q";
+const channelIdPokemonJank = "UCE0GMTv2wR_ptzp-SIFfU-w";
+const channelIdPokemonChefHusky = "UC7F8wMsuAbB1pW-ZitU_L1Q";
+const channelIdPokemonTypPlays = "UCMDJzyOorBMpqOJvLNzzslw";
+const channelIdPokemonTypHtc = "UCp7EwD-oB-cNa8lD9pWZdjg";
 
 const allChannelIds: string[] = [
   channelIdTyp,
@@ -108,7 +113,7 @@ enum RunType {
   UPDATE = "UPDATE",
 }
 
-const importChannelId = channelIdPp;
+const importChannelId = channelIdPokemonTypPlays;
 const RUNTYPE: RunType = RunType.UPDATE;
 
 async function runBot() {

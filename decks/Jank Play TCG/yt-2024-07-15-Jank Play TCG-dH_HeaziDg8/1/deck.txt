@@ -1,0 +1,34 @@
+Pokémon: 10
+1 Volbeat TWM 9 PH
+1 Pinsir TWM 3
+1 Pinsir TWM 3 PH
+1 Spinarak TWM 4
+2 Ariados TWM 5
+1 Illumise TWM 10
+2 Tatsugiri TWM 131
+1 Spinarak TWM 4 PH
+1 Radiant Greninja ASR 46
+2 Pinsir TWM 168
+
+Trainer: 15
+2 Switch SVI 194
+3 Energy Retrieval CRZ 127
+3 Iono PAL 185
+2 Super Rod PAL 188
+2 Giovanni's Charisma MEW 161
+1 Boss's Orders SHF 58
+1 Prime Catcher TEF 157
+1 Pal Pad SVI 182
+4 Nest Ball SVI 181
+3 Rescue Board TEF 159
+3 Cynthia's Ambition BRS 138
+3 Bug Catching Set TWM 143
+2 Arven SVI 166
+1 Bug Catching Set TWM 143 PH
+4 Enhanced Hammer GRI 124
+
+Energy: 2
+8 Basic {G} Energy SVE 1
+4 Boomerang Energy TWM 166
+
+Total Cards: 60

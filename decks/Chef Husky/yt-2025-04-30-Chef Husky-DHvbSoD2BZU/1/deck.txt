@@ -1,0 +1,42 @@
+Pokémon: 8
+1 Fezandipiti PRE 45
+1 Munkidori SFA 72
+1 Munkidori TWM 95
+1 Fezandipiti ex SFA 38
+2 Froslass ex PAR 3
+2 Froslass TWM 53
+1 Lillie's Clefairy ex JTG 56
+4 Snorunt PAR 37
+
+Trainer: 22
+2 Artazon PAF 76
+2 Brock's Scouting JTG 146
+1 Nest Ball PAF 84
+1 Morty's Conviction TEF 155
+1 Pokégear 3.0 SVI 186
+2 Night Stretcher SFA 61
+1 Rescue Board TEF 159
+1 Nest Ball SVI 181
+1 Arven OBF 186
+2 Boss's Orders PAL 172
+2 Hassel TWM 151
+2 Arven SVI 166
+1 Technical Machine: Devolution PAR 177
+1 Super Rod PAL 188
+1 Colress's Tenacity SFA 57
+1 Lillie's Pearl JTG 151
+2 Earthen Vessel PRE 106
+2 Crispin PRE 105
+3 Buddy-Buddy Poffin TEF 144
+3 Iono PAF 80
+3 Ultra Ball SVI 196
+1 Switch SVI 194
+
+Energy: 5
+1 Legacy Energy TWM 167
+4 Luminous Energy PAL 191
+1 Basic {D} Energy SVE 15
+3 Basic {W} Energy SVE 11
+2 Basic {P} Energy SVE 13
+
+Total Cards: 60

@@ -1,0 +1,26 @@
+Pokémon: 6
+4 Dunsparce PRE 79
+1 Shaymin DRI 10
+4 Yanmega ex DRI 3
+4 Yanma DRI 2 PH
+2 Dudunsparce ex JTG 121
+2 Dudunsparce TEF 129
+
+Trainer: 11
+2 Carmine PRE 103
+4 Ultra Ball SVI 196
+3 Buddy-Buddy Poffin TEF 144
+2 Carmine PRE 103 PH
+4 Energy Recycler DRI 164
+2 Colress's Tenacity SFA 57
+2 Iono PAF 80
+4 Professor's Research PRE 122
+1 Scoop Up Cyclone TWM 162
+3 Artazon PAL 171
+1 Boss's Orders PAL 172
+
+Energy: 2
+11 Basic {G} Energy SVE 1
+4 Jet Energy PAL 190
+
+Total Cards: 60

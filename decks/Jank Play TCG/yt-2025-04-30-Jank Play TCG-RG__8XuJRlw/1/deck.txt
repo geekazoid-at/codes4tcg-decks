@@ -1,0 +1,44 @@
+Pokémon: 10
+2 Munkidori SFA 72
+1 Fezandipiti ex SFA 92
+2 Rockruff TEF 89 PH
+1 Lycanroc JTG 85
+3 Iron Boulder ex TEF 99
+2 Lycanroc JTG 166
+1 Budew PRE 4 PH
+2 Rockruff JTG 84 PH
+1 Mew ex MEW 193
+
+Trainer: 24
+1 Kieran TWM 206
+2 Boss's Orders RCL 189
+1 Buddy-Buddy Poffin TWM 223
+2 Crispin SCR 164
+1 Rescue Board TWM 225
+1 Professor's Research PR-SW 152
+2 Iono PAL 254
+1 Super Rod PAL 276
+1 Technical Machine: Devolution PAR 177 PH
+1 Artazon OBF 229
+1 Morty's Conviction TEF 201
+2 Nest Ball SVI 255
+1 Earthen Vessel SFA 96
+1 Reboot Pod TEF 158
+3 Arven PAF 235
+3 Future Booster Energy Capsule SVALT 48
+1 Pokégear 3.0 UNB 233
+1 Penny PAF 239
+2 Night Stretcher SSP 251
+1 Techno Radar PRE 130 PH
+1 Lively Stadium SSP 180 PH
+1 Professor's Research CEL 24
+1 Ultra Ball SUM 161
+1 Pal Pad UPR 132 PH
+
+Energy: 4
+5 Basic {F} Energy SVE 6 PH
+3 Basic {D} Energy SFA 98
+2 Spiky Energy JTG 159
+2 Spiky Energy JTG 159 PH
+
+Total Cards: 60

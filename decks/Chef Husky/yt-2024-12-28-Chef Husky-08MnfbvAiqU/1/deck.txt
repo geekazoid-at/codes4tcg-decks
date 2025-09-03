@@ -1,0 +1,36 @@
+Pokémon: 10
+2 Omastar V SIT 174
+2 Brute Bonnet PAR 123
+1 Milotic ex SSP 42
+2 Hisuian Typhlosion ASR 52
+2 Cyndaquil ASR 23
+1 Quilava ASR 24
+1 Feebas SIT 39
+3 Lileep SCR 5
+4 Cradily SCR 6
+1 Tatsugiri TWM 186
+
+Trainer: 16
+1 Hisuian Heavy Ball ASR 146
+1 Irida ASR 147
+3 Night Stretcher SFA 61
+1 Dangerous Laser SFA 58
+4 Nest Ball SVI 181
+1 Professor's Research SVI 189
+2 Ancient Booster Energy Capsule PAR 159
+2 Boss's Orders PAL 172
+2 Iono PAL 185
+2 Arven SVI 166
+1 Ultra Ball BRS 186
+4 Antique Root Fossil SCR 130
+2 Crispin SCR 133
+2 Switch SVI 194
+4 Rare Candy SVI 191
+2 Earthen Vessel PAR 163
+
+Energy: 3
+4 Basic {G} Energy SVE 1
+1 Basic {W} Energy SVE 11
+2 Basic {P} Energy SVE 13
+
+Total Cards: 60

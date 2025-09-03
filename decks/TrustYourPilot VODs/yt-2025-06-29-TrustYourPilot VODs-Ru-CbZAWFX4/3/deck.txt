@@ -1,0 +1,34 @@
+Pokémon: 7
+3 Team Rocket's Larvitar DRI 94
+3 Team Rocket's Pupitar DRI 95
+3 Team Rocket's Tyranitar DRI 96
+2 Froslass TWM 53
+1 Budew PRE 4
+2 Snorunt PAR 37
+1 Cleffa OBF 80
+
+Trainer: 18
+3 Ultra Ball SVI 196
+2 Counter Gain SSP 169
+2 Rare Candy SVI 191
+2 Crushing Hammer SVI 168
+4 Buddy-Buddy Poffin TEF 144
+2 Counter Catcher PAR 160
+4 Iono PAL 185
+3 Technical Machine: Devolution PAR 177
+2 Night Stretcher SFA 61
+2 Super Rod PAL 188
+1 Technical Machine: Evolution PAR 178
+1 Professor's Research PRE 122
+2 Pokémon League Headquarters OBF 192
+1 Morty's Conviction TEF 155
+1 Rescue Board TEF 159
+2 Accompanying Flute TWM 142
+1 Neutralization Zone SFA 60
+4 Arven SVI 166
+
+Energy: 2
+2 Basic {W} Energy SVE 11
+4 Reversal Energy PAL 192
+
+Total Cards: 60

@@ -1,0 +1,43 @@
+Pokémon: 10
+1 Fezandipiti ex SFA 92
+1 Fuecoco PAL 35 PH
+1 Entei V CRZ-GG 36
+3 Dreepy TWM 128 PH
+1 Chi-Yu PAR 29 PH
+3 Drakloak TWM 129 PH
+1 Fuecoco PAL 201
+1 Radiant Greninja ASR 46
+2 Skeledirge ex PAR 137
+2 Dragapult ex TWM 200
+
+Trainer: 22
+1 Buddy-Buddy Poffin TWM 223
+1 Crispin SCR 164
+1 Rescue Board TWM 225
+1 Rare Candy GRI 165
+1 Super Rod PAL 276
+1 Artazon OBF 229
+2 Switch SUM 132 PH
+1 Forest Seal Stone SIT 156
+1 Mela PAR 254
+2 Boss's Orders LOR-TG 24
+2 Nest Ball SVI 255
+2 Earthen Vessel SFA 96
+3 Arven PAF 235
+2 Iono PAF 237
+1 Defiance Band SVI 169 PH
+2 Pokégear 3.0 UNB 233
+1 Magma Basin BRS 185
+1 Colress's Tenacity SFA 87
+3 Rare Candy SUM 129 PH
+1 Energy Retrieval AOR 99
+2 Ultra Ball SUM 161
+1 Pal Pad UPR 132 PH
+
+Energy: 4
+1 Basic {P} Energy SVE 5 PH
+1 Basic {P} Energy MEW 207
+8 Basic {R} Energy OBF 230
+1 Neo Upper Energy TEF 162
+
+Total Cards: 60

@@ -1,0 +1,27 @@
+Pokémon: 18
+4 Team Rocket's Zubat DRI 120
+3 Team Rocket's Golbat DRI 121
+3 Team Rocket's Crobat ex DRI 122
+4 Team Rocket's Ekans DRI 112
+3 Team Rocket's Arbok DRI 113
+1 Team Rocket's Chingling DRI 85
+
+Trainer: 32
+4 Buddy-Buddy Poffin TEF 144
+4 Ultra Ball SVI 196
+2 Team Rocket's Great Ball DRI 175
+4 Team Rocket's Transceiver DRI 178
+1 Hyper Aroma TWM 152
+4 Team Rocket's Ariana DRI 171
+3 Team Rocket's Giovanni DRI 174
+2 Team Rocket's Proton DRI 177
+2 Team Rocket's Petrel DRI 176
+1 Team Rocket's Archer DRI 170
+3 Team Rocket's Factory DRI 173
+2 Technical Machine: Devolution PAR 177
+
+Energy: 10
+6 Basic {D} Energy SVE 7
+4 Team Rocket's Energy DRI 182
+
+Total Cards: 60

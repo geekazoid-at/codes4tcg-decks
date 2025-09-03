@@ -1,0 +1,35 @@
+Pokémon: 8
+1 Revavroom SVI 142
+3 Miraidon TEF 121
+3 Iron Treads TEF 118 PH
+2 Varoom TWM 124 PH
+1 Revavroom ex OBF 216
+1 Revavroom ex OBF 224
+1 Revavroom ex OBF 156
+2 Varoom TWM 124
+
+Trainer: 19
+1 Adaman ASR 135
+3 Nest Ball PAF 84 PH
+1 Ultra Ball BRS 186
+1 Full Metal Lab TEF 148 PH
+4 Arven PAF 235
+2 Super Rod PAL 276
+2 Iono PAF 237
+3 Future Booster Energy Capsule PAR 164
+1 Artazon OBF 229
+1 Rigid Band MEW 165
+1 Hero's Cape TEF 152
+1 Pal Pad UPR 132 PH
+1 Energy Retrieval EVO 77
+2 Rescue Board TEF 159
+2 Rigid Band MEW 165 PH
+2 Vitality Band SVI 197
+1 Boss's Orders RCL 189
+2 Town Store OBF 196
+1 Tool Box LOR 168
+
+Energy: 1
+14 Basic {M} Energy SVE 16
+
+Total Cards: 60

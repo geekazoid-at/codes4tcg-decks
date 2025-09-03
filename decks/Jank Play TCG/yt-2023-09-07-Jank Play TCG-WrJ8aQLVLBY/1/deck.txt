@@ -1,0 +1,26 @@
+Pokémon: 4
+1 Eiscue ex OBF 210
+1 Eiscue ex OBF 222
+2 Eiscue ex OBF 42
+3 Mimikyu PAL 97
+
+Trainer: 13
+4 Switch Cart ASR 154
+4 Exp. Share SVI 174
+4 Blanche PGO 64
+2 Lost Vacuum LOR 162
+4 Geeta OBF 188
+3 Iono PAL 185
+4 Professor's Research CEL 23
+1 Boss's Orders PR-SW 251
+3 Pokégear 3.0 SVI 186
+3 Jubilife Village ASR 148
+4 Nest Ball SVI 181
+4 Crushing Hammer SUM 115
+1 Boss's Orders RCL 189
+
+Energy: 2
+8 Basic {W} Energy SVE 3
+4 Luminous Energy PAL 191
+
+Total Cards: 60

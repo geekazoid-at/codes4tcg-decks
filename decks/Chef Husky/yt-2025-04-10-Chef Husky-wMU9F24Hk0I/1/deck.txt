@@ -1,0 +1,48 @@
+Pokémon: 13
+2 Maractus JTG 8
+1 Munkidori SFA 72
+1 Azelf SSP 80
+1 Azelf SSP 80 PH
+1 Uxie SSP 78 PH
+1 Fezandipiti ex SFA 84
+1 Froslass TWM 53
+1 Munkidori TWM 95 PH
+1 Lillie's Clefairy ex JTG 56
+2 Froslass TWM 174
+2 Uxie SSP 78
+2 Snorunt PAR 37
+1 Snorunt PAR 188
+
+Trainer: 25
+1 Crispin SCR 164
+1 Vengeful Punch OBF 197
+1 Artazon PAF 76
+2 Brock's Scouting JTG 146
+1 Nest Ball PAF 84
+1 Artazon OBF 229
+1 Counter Gain SSP 169
+1 Nest Ball SVI 255
+2 Ultra Ball PAF 91
+2 Night Stretcher SFA 61
+1 Rescue Board TEF 159
+3 Arven PAF 235
+1 Iono PAF 237
+2 Switch MEW 206
+1 Boss's Orders PAL 172
+2 Hassel TWM 151
+2 Technical Machine: Devolution PAR 177
+1 Ultra Ball BRS 186
+1 Colress's Tenacity SFA 57
+1 Counter Catcher PAR 264
+3 Buddy-Buddy Poffin TEF 144
+1 Crispin SCR 133 PH
+1 Bravery Charm PAL 173 PH
+1 Neutralization Zone SFA 60
+1 Earthen Vessel PAR 163
+
+Energy: 3
+2 Luminous Energy TWM 226
+2 Basic {D} Energy SFA 98
+4 Basic {P} Energy SVE 13
+
+Total Cards: 60

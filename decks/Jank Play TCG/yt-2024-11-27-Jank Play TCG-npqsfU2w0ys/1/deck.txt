@@ -1,0 +1,36 @@
+Pokémon: 10
+4 Thwackey TWM 15
+2 Dipplin TWM 18
+2 Venonat SIT 1
+2 Venomoth MEW 49
+1 Seedot TEF 3
+1 Manaphy BRS 41
+1 Shiftry TEF 5
+4 Grookey TWM 14
+1 Goldeen TWM 44
+2 Applin TWM 17
+
+Trainer: 18
+1 Rare Candy PAF 89
+1 Xerosic's Machinations SFA 64
+2 Eri TEF 146
+4 Buddy-Buddy Poffin TEF 144
+3 Ultra Ball SLG 68
+4 Iono PAL 185
+1 Counter Catcher CIN 91
+2 Switch BLW 104
+2 Super Rod PAL 188
+1 Technical Machine: Evolution PAR 178
+1 Miss Fortune Sisters LOR 164
+1 Pokémon League Headquarters OBF 192
+1 Pal Pad SVI 182
+1 Rescue Board TEF 159
+4 Bug Catching Set TWM 143
+1 Neutralization Zone SFA 60
+4 Arven SVI 166
+1 Festival Grounds TWM 149
+
+Energy: 1
+5 Basic {G} Energy SVE 1
+
+Total Cards: 60

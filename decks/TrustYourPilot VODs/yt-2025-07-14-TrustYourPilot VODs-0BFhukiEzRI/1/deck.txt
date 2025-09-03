@@ -1,0 +1,33 @@
+Pokémon: 5
+4 Team Rocket's Meowth DRI 149
+1 Team Rocket's Wobbuffet DRI 82
+1 Team Rocket's Chingling DRI 85
+1 Team Rocket's Mimikyu DRI 87
+3 Team Rocket's Persian ex DRI 150
+
+Trainer: 19
+3 Ultra Ball SVI 196
+2 Switch SVI 194
+1 Counter Gain SSP 169
+2 Buddy-Buddy Poffin TEF 144
+4 Team Rocket's Ariana DRI 171
+2 Team Rocket's Giovanni DRI 174
+2 Night Stretcher SFA 61
+1 Hero's Cape TEF 152
+4 Grabber MEW 162
+1 Rigid Band MEW 165
+3 Pokégear 3.0 SVI 186
+1 Pokémon League Headquarters OBF 192
+2 Nest Ball SVI 181
+2 Team Rocket's Factory DRI 173
+4 Team Rocket's Transceiver DRI 178
+2 Meddling Memo SSP 181
+2 Team Rocket's Archer DRI 170
+2 Judge DRI 167
+2 Team Rocket's Proton DRI 177
+
+Energy: 2
+4 Team Rocket's Energy DRI 182
+4 Basic {P} Energy SVE 13
+
+Total Cards: 60

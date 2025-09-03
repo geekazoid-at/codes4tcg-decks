@@ -1,0 +1,29 @@
+Pokémon: 9
+2 Galarian Weezing RCL 113
+1 Pecharunt ex SFA 39
+3 Eternatus VMAX DAA 117
+3 Eternatus V DAA 116
+1 Fezandipiti ex SFA 38
+2 Koffing SHF 41
+3 Scraggy UNM 137
+4 Crobat V DAA 104
+3 Scrafty WHT 58
+
+Trainer: 12
+4 Ultra Ball SVI 196
+3 Glimwood Tangle DAA 162
+4 Dark Patch ASR 139
+2 Iono PAL 185
+1 Super Rod PAL 188
+4 Quick Ball SSH 179
+1 Forest Seal Stone SIT 156
+4 Marnie SSH 169
+1 Precious Trolley SSP 185
+2 Binding Mochi SFA 55
+3 Boss's Orders PAL 172
+2 Judge DRI 167
+
+Energy: 1
+7 Basic {D} Energy SVE 15
+
+Total Cards: 60

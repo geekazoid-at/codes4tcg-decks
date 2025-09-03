@@ -1,0 +1,40 @@
+Pokémon: 12
+1 Doublade PAR 132 PH
+1 Honedge PAR 130 PH
+2 Bibarel BRS 121
+1 Noibat PAL 152
+1 Aegislash ex PAR 230
+1 Doublade PAR 133 PH
+1 Rabsca TEF 24 PH
+1 Rellor PAL 26
+1 Noivern SIT 133
+2 Bidoof CRZ 111
+3 Honedge PAR 130
+3 Aegislash PAR 134
+
+Trainer: 17
+3 Ultra Ball SVI 196
+1 Miriam SVI 251
+3 Switch SVI 194
+1 Boss's Orders PAL 265
+4 Rare Candy SVI 191
+3 Jacq SVI 175
+1 Buddy-Buddy Poffin TEF 144 PH
+3 Buddy-Buddy Poffin TEF 144
+2 Ciphermaniac's Codebreaking TEF 198
+1 Super Rod PAL 276
+2 Full Metal Lab TEF 148
+1 Hero's Cape TEF 152
+1 Hand Trimmer TEF 150
+1 Pal Pad SVI 182
+2 Colress's Experiment LOR 155
+1 Roseanne's Backup BRS 148
+2 Arven SVI 166
+
+Energy: 4
+2 Mist Energy TEF 161
+1 Reversal Energy PAL 192 PH
+5 Basic {M} Energy SVE 8
+2 Reversal Energy PAR 266
+
+Total Cards: 60

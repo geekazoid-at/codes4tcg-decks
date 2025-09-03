@@ -1,0 +1,38 @@
+Pokémon: 12
+2 Unown V SIT 65
+2 Unown VSTAR SIT 66
+2 Dachsbun ex SCR 67
+2 Fidough SCR 66
+1 Tatsugiri TWM 131
+2 Clefable TWM 79
+2 Clefairy TWM 78
+1 Smoochum SSP 75
+2 Ralts ASR 60
+2 Kirlia SIT 68
+1 Gallade ASR 62
+1 Gardevoir ex PAF 29
+
+Trainer: 17
+1 Leafy Camo Poncho SIT 160
+1 Survival Brace TWM 164
+1 Lost Vacuum CRZ 135
+1 Rescue Board TEF 159
+4 Buddy-Buddy Poffin TEF 144
+4 Arven SVI 166
+1 Counter Catcher PAR 160
+1 Boss's Orders PAL 172
+1 Roseanne's Backup BRS 148
+1 Town Store OBF 196
+4 Nest Ball SVI 181
+4 Ultra Ball SVI 196
+4 Iono PAF 80
+1 Rare Candy SVI 191
+1 Earthen Vessel PAR 163
+1 Switch BLW 104
+1 Technical Machine: Evolution PAR 178
+
+Energy: 2
+6 Basic {P} Energy SVE 5
+2 Double Turbo Energy BRS 151
+
+Total Cards: 60

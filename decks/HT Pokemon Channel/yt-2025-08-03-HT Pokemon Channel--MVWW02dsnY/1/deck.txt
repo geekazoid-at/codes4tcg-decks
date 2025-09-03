@@ -1,0 +1,35 @@
+Pokémon: 19
+2 Meditite DRI 99
+2 Medicham ex SCR 80
+3 Volcanion ex JTG 31
+3 Magmar MEW 126
+3 Magmortar JTG 21
+2 Budew PRE 4
+2 Latias ex SSP 76
+1 Fezandipiti ex SFA 38
+1 Bloodmoon Ursaluna ex TWM 141
+
+Trainer: 31
+2 Nest Ball SVI 181
+2 Ultra Ball SVI 196
+2 Switch SVI 194
+2 Night Stretcher SFA 61
+1 Counter Catcher PAR 160
+3 Pokégear 3.0 SVI 186
+1 Precious Trolley SSP 185
+4 Arven SVI 166
+4 Iono PAL 185
+2 Boss's Orders PAL 172
+2 Hilda WHT 84
+1 Counter Gain SSP 169
+1 Air Balloon BLK 79
+2 Technical Machine: Evolution PAR 178
+1 Bravery Charm PAL 173
+1 Town Store OBF 196
+
+Energy: 10
+4 Jet Energy PAL 190
+3 Ignition Energy WHT 86
+3 Basic {F} Energy SVE 6
+
+Total Cards: 60

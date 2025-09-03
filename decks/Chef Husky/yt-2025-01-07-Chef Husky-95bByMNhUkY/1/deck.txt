@@ -1,0 +1,35 @@
+Pokémon: 11
+3 Pawniard PR-SV 111
+1 Bisharp SVI 133
+3 Kingambit OBF 150
+1 Kingambit SVI 134
+3 Snorunt PAR 37
+3 Froslass TWM 53
+1 Munkidori TWM 95
+1 Radiant Charizard PGO 11
+1 Bloodmoon Ursaluna ex TWM 141
+1 Fezandipiti ex SFA 38
+1 Rotom V CRZ 45
+
+Trainer: 14
+4 Buddy-Buddy Poffin TEF 144
+4 Nest Ball SVI 181
+2 Ultra Ball SVI 196
+3 Night Stretcher SFA 61
+1 Forest Seal Stone SIT 156
+4 Pokémon Catcher SVI 187
+2 Boss's Orders PAL 172
+3 Rare Candy PAF 89
+4 Arven SVI 166
+1 Rescue Board TEF 159
+2 Iono PAF 80
+2 Energy Loto ASR 140
+1 Counter Gain SSP 169
+1 Technical Machine: Evolution PAR 178
+
+Energy: 3
+4 Luminous Energy PAL 191
+2 Basic {D} Energy SVE 7
+1 Legacy Energy TWM 167
+
+Total Cards: 60

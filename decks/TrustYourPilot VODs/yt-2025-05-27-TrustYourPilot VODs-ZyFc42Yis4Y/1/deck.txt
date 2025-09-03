@@ -1,0 +1,35 @@
+Pokémon: 10
+3 Chansey MEW 113
+2 Munkidori TWM 95
+3 Marnie's Impidimp DRI 134
+3 Blissey ex TWM 134
+1 Mew ex MEW 151
+1 Regigigas PRE 86
+1 Fezandipiti ex SFA 38
+3 Marnie's Grimmsnarl ex DRI 136
+1 Roaring Moon ex PAR 124
+2 Marnie's Morgrem DRI 135
+
+Trainer: 17
+2 Ultra Ball SVI 196
+1 Counter Gain SSP 169
+2 Rare Candy SVI 191
+2 Exp. Share SVI 174
+4 Arven OBF 186
+1 Defiance Band SVI 169
+1 Counter Catcher PAR 160
+2 Spikemuth Gym DRI 169
+2 Night Stretcher SFA 61
+1 Super Rod PAL 188
+2 Technical Machine: Evolution PAR 178
+4 Iono PAF 80
+2 Nest Ball SVI 181
+1 Rescue Board TEF 159
+1 Surfer SSP 187
+1 Precious Trolley SSP 185
+1 Boss's Orders PAL 172
+
+Energy: 1
+10 Basic {D} Energy SVE 15
+
+Total Cards: 60

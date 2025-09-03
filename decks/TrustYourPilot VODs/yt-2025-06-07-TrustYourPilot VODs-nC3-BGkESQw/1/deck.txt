@@ -1,0 +1,30 @@
+Pokémon: 8
+1 Shaymin DRI 10
+3 Dunsparce PAL 156
+3 Dudunsparce TEF 129
+1 Fezandipiti ex SFA 38
+4 Clamperl DRI 54
+2 Huntail DRI 55
+3 Gorebyss DRI 56
+1 Cleffa OBF 80
+
+Trainer: 14
+2 Ultra Ball SVI 196
+1 Earthen Vessel PAR 163
+4 Buddy-Buddy Poffin TEF 144
+1 Counter Catcher PAR 160
+1 Letter of Encouragement OBF 189
+4 Night Stretcher SFA 61
+1 Technical Machine: Evolution PAR 178
+1 Redeemable Ticket JTG 156
+1 Max Rod PRE 116
+4 Morty's Conviction TEF 155
+1 Rescue Board TEF 159
+2 Artazon PAL 171
+1 Boss's Orders PAL 172
+4 Arven SVI 166
+
+Energy: 1
+14 Basic {W} Energy SVE 11
+
+Total Cards: 60

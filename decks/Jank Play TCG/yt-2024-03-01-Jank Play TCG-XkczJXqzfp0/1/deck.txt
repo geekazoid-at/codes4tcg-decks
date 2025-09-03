@@ -1,0 +1,32 @@
+Pokémon: 11
+2 Pansage PAR 4 PH
+4 Carbink LOR 108
+2 Simipour PAR 42
+1 Pansage PAR 4
+1 Pansear PAR 20
+1 Pyukumuku FST 77
+2 Simisage PAR 5
+2 Pansear PAR 20 PH
+2 Panpour PAR 41 PH
+1 Panpour PAR 41
+2 Simisear PAR 21 PH
+
+Trainer: 10
+4 Ultra Ball SVI 196
+3 Raihan EVS 152
+2 Avery CRE 130
+4 Youngster SVI 198
+1 Hisuian Heavy Ball ASR 146
+4 Great Ball PAL 183
+4 Artazon PAF 76
+3 Super Rod PAL 188
+3 Pokégear 3.0 SVI 186
+2 Energy Search CRZ 128
+
+Energy: 4
+2 Basic {G} Energy SVE 1
+2 Basic {W} Energy SVE 3
+2 Basic {R} Energy SVE 2
+4 Luminous Energy PAL 191
+
+Total Cards: 60

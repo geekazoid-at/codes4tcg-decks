@@ -1,0 +1,38 @@
+Pokémon: 8
+2 Feebas SIT 39
+1 Shaymin V BRS 13
+2 Milotic ex SSP 237
+1 Radiant Greninja ASR 46
+1 Iron Bundle PAR 56
+2 Tatsugiri TWM 131 PH
+3 Okidogi TWM 111
+1 Cornerstone Mask Ogerpon ex TWM 112
+
+Trainer: 18
+2 Exp. Share SVI 174
+1 Earthen Vessel PAR 163
+4 Crispin SCR 133
+1 Lost Vacuum LOR 162
+1 Lisia's Appeal SSP 179
+2 Iono PAL 185
+1 Night Stretcher SFA 61
+1 Super Rod PAL 188
+2 Switch BCR 135
+1 Technical Machine: Evolution PAR 178
+4 Energy Loto ASR 140
+1 Prime Catcher TEF 157
+4 Nest Ball SVI 181
+1 Rescue Board TEF 159
+2 Artazon PAL 171
+1 Bravery Charm PAL 173
+1 Boss's Orders PAL 172
+3 Arven SVI 166
+
+Energy: 5
+1 Basic {G} Energy SVE 1
+2 Basic {D} Energy SVE 7
+4 Basic {F} Energy SVE 6
+3 Basic {W} Energy SVE 3
+4 Luminous Energy PAL 191
+
+Total Cards: 60

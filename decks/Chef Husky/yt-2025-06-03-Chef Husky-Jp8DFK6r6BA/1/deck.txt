@@ -1,0 +1,39 @@
+Pokémon: 10
+1 Bramblin TEF 20
+2 Lilligant JTG 7
+2 Petilil JTG 6
+3 Yanmega ex DRI 3
+1 Brambleghast TEF 21
+1 Iron Leaves ex PRE 176
+3 Budew PRE 4
+1 Tatsugiri TWM 186
+1 Wo-Chien PAR 18
+3 Yanma DRI 2
+
+Trainer: 20
+1 Counter Catcher PAR 160
+2 Bug Catching Set TWM 143
+1 Artazon PAF 76
+1 Energy Recycler BST 124
+1 Rigid Band MEW 165
+2 Night Stretcher SFA 61
+1 Rescue Board TEF 159
+2 Boss's Orders PAL 172
+1 Hyper Aroma TWM 152
+3 Iono PAL 185
+4 Arven SVI 166
+1 Professor Turo's Scenario PAR 171
+1 Practice Studio PAL 186
+1 Technical Machine: Evolution PAR 178
+1 Super Rod PAL 188
+1 Colress's Tenacity SFA 57
+1 Bug Catching Set PRE 102
+2 Buddy-Buddy Poffin PRE 101
+2 Ultra Ball SVI 196
+1 Switch SVI 194
+
+Energy: 2
+4 Jet Energy PAL 190
+8 Basic {G} Energy SVE 1
+
+Total Cards: 60

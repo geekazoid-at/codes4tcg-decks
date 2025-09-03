@@ -1,0 +1,44 @@
+Pokémon: 12
+1 Munkidori SFA 72
+2 Munkidori TWM 95
+1 Maractus JTG 160
+1 Froslass TWM 53
+1 Budew PRE 4
+1 Lillie's Clefairy ex JTG 56
+2 Froslass TWM 174
+3 Uxie SSP 78
+2 Snorunt PAR 37
+1 Team Rocket's Mimikyu DRI 87
+1 Snorunt PAR 188
+1 Shaymin DRI 10
+
+Trainer: 22
+3 Buddy-Buddy Poffin TWM 223
+1 Secret Box TWM 163
+1 Brock's Scouting JTG 146
+1 Counter Gain SSP 169
+1 Nest Ball SVI 255
+1 Earthen Vessel SFA 96
+2 Ultra Ball PAF 91
+3 Night Stretcher SFA 61
+1 Nest Ball SVI 181
+2 Arven PAF 235
+1 Artazon PAL 171
+2 Arven OBF 186
+1 Bravery Charm PAL 173
+1 Boss's Orders PAL 172
+2 Hassel TWM 151
+2 Iono PAL 185
+2 Technical Machine: Devolution PAR 177
+1 Technical Machine: Evolution PAR 178
+2 Counter Catcher PAR 264
+2 Crispin PRE 105
+1 Switch SVI 194
+1 Rescue Board PRE 126
+
+Energy: 3
+3 Luminous Energy PAL 191
+3 Basic {D} Energy SVE 15
+3 Basic {P} Energy SVE 13
+
+Total Cards: 60

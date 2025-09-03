@@ -1,0 +1,32 @@
+Pokémon: 5
+3 Arven's Mabosstiff ex DRI 139
+3 Munkidori TWM 95
+2 Pecharunt ex SFA 39
+1 Fezandipiti ex SFA 38
+4 Arven's Maschiff DRI 138
+
+Trainer: 18
+4 Ultra Ball SVI 196
+1 Buddy-Buddy Poffin PRE 101
+1 Earthen Vessel PAR 163
+2 Energy Switch SVI 173
+2 Counter Catcher PAR 160
+3 Iono PAL 185
+2 Arven's Sandwich DRI 161
+3 Janine's Secret Art SFA 59
+1 Technical Machine: Devolution PAR 177
+3 Night Stretcher SFA 61
+1 Technical Machine: Evolution PAR 178
+3 Professor's Research PRE 122
+3 Nest Ball SVI 181
+1 Unfair Stamp TWM 165
+2 Binding Mochi SFA 55
+2 Artazon PAL 171
+1 Boss's Orders PAL 172
+4 Arven SVI 166
+
+Energy: 2
+7 Basic {D} Energy SVE 15
+1 Luminous Energy PAL 191
+
+Total Cards: 60

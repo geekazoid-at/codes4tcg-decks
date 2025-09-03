@@ -1,0 +1,39 @@
+Pokémon: 9
+1 Bloodmoon Ursaluna ex TWM 141
+2 Litwick TWM 36 PH
+1 Dunsparce TEF 128
+3 Dudunsparce TEF 129
+2 Lampent TWM 37
+2 Dunsparce PAL 156
+4 Chandelure TWM 38
+1 Budew PRE 4
+2 Litwick TWM 36
+
+Trainer: 21
+4 Buddy-Buddy Poffin TWM 223
+3 Ultra Ball BRS 150 PH
+1 Giovanni's Charisma MEW 161
+2 Super Rod PAL 276
+1 Artazon OBF 229
+1 Earthen Vessel SFA 96
+2 Rare Candy SVI 256
+3 Arven PAF 235
+2 Switch MEW 206
+1 Artazon PAL 171
+1 Hassel TWM 151
+2 Boss's Orders PAL 265
+2 Night Stretcher SSP 251
+2 Lucian TWM 157
+1 Technical Machine: Evolution PAR 178
+1 Giovanni's Charisma MEW 197
+1 Ultra Ball BRS 186
+1 Defiance Band SVI 169
+1 Counter Catcher PAR 264
+2 Rare Candy PAF 89
+1 Tyme PRE 143
+
+Energy: 2
+1 Enriching Energy SSP 191
+6 Basic {R} Energy OBF 230
+
+Total Cards: 60

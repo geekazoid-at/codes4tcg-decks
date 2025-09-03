@@ -1,0 +1,32 @@
+Pokémon: 8
+2 Munkidori TWM 95
+4 Marnie's Impidimp DRI 134
+1 Pecharunt ex SFA 39
+1 Fezandipiti ex SFA 38
+1 Iron Bundle PAR 56
+1 Budew PRE 4
+3 Marnie's Grimmsnarl ex DRI 136
+2 Marnie's Morgrem DRI 135
+
+Trainer: 16
+1 Ultra Ball SVI 196
+3 Rare Candy SVI 191
+4 Arven OBF 186
+2 Energy Switch SVI 173
+2 Buddy-Buddy Poffin TEF 144
+1 Counter Catcher PAR 160
+3 Spikemuth Gym DRI 169
+4 Iono PAL 185
+1 Artazon PAF 76
+2 Super Rod PAL 188
+1 Professor Turo's Scenario PRE 121
+4 Nest Ball SVI 181
+1 Unfair Stamp TWM 165
+2 Professor's Research SVI 189
+2 Binding Mochi SFA 55
+2 Boss's Orders PAL 172
+
+Energy: 1
+10 Basic {D} Energy SVE 15
+
+Total Cards: 60

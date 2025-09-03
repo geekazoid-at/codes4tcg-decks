@@ -1,0 +1,27 @@
+Pokémon: 16
+2 Gimmighoul PAR 87
+2 Gimmighoul SSP 97
+3 Gholdengo ex PAR 139
+4 Ethan's Cyndaquil DRI 32
+3 Ethan's Quilava DRI 33
+2 Ethan's Typhlosion DRI 34
+
+Trainer: 32
+4 Buddy-Buddy Poffin TEF 144
+3 Ultra Ball SVI 196
+2 Earthen Vessel PAR 163
+2 Night Stretcher SFA 61
+4 Superior Energy Retrieval PAL 189
+2 Pokégear 3.0 SVI 186
+4 Arven SVI 166
+4 Ethan's Adventure DRI 165
+3 Boss's Orders PAL 172
+1 Lana's Aid TWM 155
+1 Maximum Belt TEF 154
+2 Technical Machine: Evolution PAR 178
+
+Energy: 12
+7 Basic {R} Energy SVE 2
+5 Basic {M} Energy SVE 8
+
+Total Cards: 60

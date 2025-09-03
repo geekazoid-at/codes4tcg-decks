@@ -1,0 +1,26 @@
+Pokémon: 19
+3 Meltan OBF 152
+3 Melmetal ex OBF 153
+3 Beldum TEF 113
+3 Metang TEF 114
+3 Scyther MEW 123
+2 Scizor OBF 141
+2 Genesect ex BLK 67
+
+Trainer: 26
+4 Buddy-Buddy Poffin TEF 144
+2 Nest Ball SVI 181
+2 Night Stretcher SFA 61
+1 Energy Recycler DRI 164
+1 Maximum Belt PRE 117
+2 Air Balloon BLK 79
+4 Arven SVI 166
+3 Boss's Orders PAL 172
+3 Iono PAL 185
+2 Brock's Scouting JTG 146
+2 Full Metal Lab TEF 148
+
+Energy: 15
+15 Basic {M} Energy SVE 8
+
+Total Cards: 60

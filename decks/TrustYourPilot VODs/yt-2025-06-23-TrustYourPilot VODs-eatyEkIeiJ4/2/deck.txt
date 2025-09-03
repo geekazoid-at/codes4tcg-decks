@@ -1,0 +1,30 @@
+Pokémon: 8
+2 Varoom SFA 43
+2 Revavroom SVI 142
+3 Yanmega ex DRI 3
+1 Mew ex MEW 151
+1 Regigigas PRE 86
+1 Fezandipiti ex SFA 38
+4 Yanma DRI 2
+1 Bloodmoon Ursaluna ex TWM 141
+
+Trainer: 13
+4 Ultra Ball SVI 196
+2 Switch SVI 194
+4 Buddy-Buddy Poffin TEF 144
+1 Counter Catcher PAR 160
+4 Iono PAL 185
+1 Artazon PAF 76
+3 Super Rod PAL 188
+2 Rigid Band MEW 165
+2 Professor's Research JTG 155
+1 Prime Catcher TEF 157
+4 Morty's Conviction TEF 155
+2 Accompanying Flute TWM 142
+3 Boss's Orders PAL 172
+
+Energy: 2
+10 Basic {G} Energy SVE 9
+2 Jet Energy PAL 190
+
+Total Cards: 60

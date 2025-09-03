@@ -1,0 +1,27 @@
+Pokémon: 5
+4 Whismur CES 116
+4 Tympole BLK 19
+4 Seismitoad BLK 21
+4 Loudred VIV 136
+3 Palpitoad BLK 20
+
+Trainer: 13
+2 Rare Candy SVI 191
+4 Buddy-Buddy Poffin TEF 144
+2 Guzma BUS 115
+1 Counter Catcher PAR 160
+2 Sky Pillar CES 144
+4 Iono PAL 185
+2 Lucky Egg SSH 167
+1 Pokégear 3.0 SVI 186
+4 Evolution Incense SSH 163
+3 Cynthia's Ambition BRS 138
+1 Precious Trolley SSP 185
+3 Rescue Stretcher GRI 130
+4 Cynthia UPR 119
+
+Energy: 2
+4 Ignition Energy WHT 86
+4 Reversal Energy PAL 192
+
+Total Cards: 60

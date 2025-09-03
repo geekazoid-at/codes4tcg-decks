@@ -1,0 +1,24 @@
+Pokémon: 8
+3 Zarude CRE 19
+2 Cherrim BST 8
+2 Hisuian Basculegion LOR 45
+2 Eldegoss EVS 16
+2 Gossifleur SHF 14 PH
+3 Hisuian Basculin ASR 43
+1 Radiant Greninja ASR 46
+2 Cherubi BRS 12
+
+Trainer: 8
+4 Lady FLI 109
+4 Ultra Ball SVI 196
+3 Letter of Encouragement OBF 189
+2 Klara CRE 145
+4 Level Ball BST 181
+2 Peonia CRE 149
+2 Pokémon League Headquarters OBF 192
+4 Cynthia's Ambition BRS 138
+
+Energy: 1
+18 Basic {G} Energy SVE 1
+
+Total Cards: 60

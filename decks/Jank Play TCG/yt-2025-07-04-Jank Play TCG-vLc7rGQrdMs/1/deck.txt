@@ -1,0 +1,29 @@
+Pokémon: 8
+2 Misty's Starmie DRI 47 PH
+2 Misty's Staryu DRI 46
+2 Misty's Starmie DRI 47
+2 Drakloak TWM 129
+2 Dreepy TWM 128
+3 Tatsugiri TWM 131
+2 Misty's Staryu DRI 46 PH
+2 Hop's Cramorant JTG 138
+
+Trainer: 13
+3 Ultra Ball SVI 196
+3 Buddy-Buddy Poffin PRE 101
+2 Brock's Scouting JTG 146
+3 Earthen Vessel PAR 163
+2 Counter Catcher PAR 160
+3 Luxurious Cape PAR 166
+3 Night Stretcher SFA 61
+2 Super Rod PAL 188
+2 Technical Machine: Evolution PAR 178
+4 Professor Turo's Scenario PRE 121
+3 Pal Pad SVI 182
+2 Rescue Board PRE 126
+4 Arven SVI 166
+
+Energy: 1
+7 Basic {W} Energy SVE 11
+
+Total Cards: 60

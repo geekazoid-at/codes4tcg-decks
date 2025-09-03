@@ -1,0 +1,30 @@
+Pokémon: 9
+2 Team Rocket's Crobat ex DRI 122
+4 Team Rocket's Zubat DRI 120 PH
+2 Dunsparce PRE 79
+2 Dudunsparce PRE 80
+4 Team Rocket's Golbat DRI 121 PH
+1 Team Rocket's Crobat ex DRI 217
+1 Shaymin DRI 185
+1 Team Rocket's Crobat ex DRI 234
+2 Mimikyu PR-SV 75
+
+Trainer: 12
+3 Buddy-Buddy Poffin TWM 223
+2 Rescue Board TWM 225
+3 Drayton SSP 244
+2 Super Rod PAL 276
+1 Max Rod PRE 116
+3 Mesagoza SVI 178
+4 Pokégear 3.0 SVI 186
+4 Arven PAF 235
+4 Iono PAF 237
+1 Colress's Tenacity SFA 57
+1 Colress's Tenacity SFA 87
+4 Team Rocket's Great Ball DRI 175
+
+Energy: 2
+5 Basic {D} Energy SFA 98
+4 Team Rocket's Energy DRI 182
+
+Total Cards: 60

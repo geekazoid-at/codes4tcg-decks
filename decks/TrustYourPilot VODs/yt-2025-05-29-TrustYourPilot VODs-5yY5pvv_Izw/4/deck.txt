@@ -1,0 +1,33 @@
+Pokémon: 11
+2 Wo-Chien SSP 15
+4 Teal Mask Ogerpon ex TWM 25
+3 Noctowl PRE 78
+1 Abra TWM 80
+2 Squawkabilly ex PAF 75
+1 Latias ex SSP 76
+2 Fan Rotom PRE 85
+1 Mew ex MEW 151
+3 Hoothoot SCR 114
+1 Bloodmoon Ursaluna ex PR-SV 177
+1 Lillie's Clefairy ex JTG 56
+
+Trainer: 13
+2 Earthen Vessel PRE 106
+1 Counter Gain SSP 169
+1 Exp. Share SVI 174
+2 Area Zero Underdepths SCR 131
+4 Energy Switch SVI 173
+2 Artazon PAF 76
+2 Night Stretcher SFA 61
+3 Iono PAF 80
+4 Professor's Research JTG 155
+2 Boss's Orders SHF 58
+1 Pal Pad SVI 182
+4 Nest Ball PAF 84
+1 Precious Trolley SSP 185
+
+Energy: 2
+8 Basic {G} Energy SVE 9
+2 Basic {P} Energy SVE 13
+
+Total Cards: 60

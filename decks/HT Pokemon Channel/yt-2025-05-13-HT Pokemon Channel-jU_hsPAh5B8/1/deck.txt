@@ -1,0 +1,34 @@
+Pokémon: 17
+4 Squirtle MEW 7
+2 Wartortle MEW 8
+3 Blastoise ex MEW 9
+2 Pidgey MEW 16
+1 Pidgeotto MEW 17
+2 Pidgeot ex OBF 164
+1 Budew PRE 4
+1 Fezandipiti ex SFA 38
+1 Squawkabilly ex PAF 75
+
+Trainer: 34
+3 Buddy-Buddy Poffin TEF 144
+3 Earthen Vessel PAR 163
+4 Energy Retrieval SVI 171
+4 Rare Candy SVI 191
+3 Nest Ball SVI 181
+3 Ultra Ball SVI 196
+1 Super Rod PAL 188
+1 Switch SVI 194
+1 Technical Machine: Evolution PAR 178
+1 Hero's Cape TEF 152
+3 Arven SVI 166
+2 Iono PAL 185
+1 Professor's Research PAF 87
+1 Boss's Orders PAL 172
+1 Black Belt's Training PRE 96
+1 Kieran TWM 154
+1 Jacq SVI 175
+
+Energy: 9
+9 Basic {W} Energy SVE 3
+
+Total Cards: 60

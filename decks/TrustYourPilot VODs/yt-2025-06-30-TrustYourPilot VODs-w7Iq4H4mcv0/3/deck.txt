@@ -1,0 +1,30 @@
+Pokémon: 8
+3 Hydrapple DRI 18
+2 Poltchageist TWM 20
+1 Sinistcha ex TWM 23
+1 Dedenne SSP 87
+1 Fezandipiti ex SFA 38
+2 Dipplin SCR 13
+1 Budew PRE 4
+4 Applin TWM 17
+
+Trainer: 14
+2 Ultra Ball SVI 196
+2 Rare Candy SVI 191
+4 Buddy-Buddy Poffin TEF 144
+2 Energy Retrieval SVI 171
+2 Iono PAL 185
+2 Superior Energy Retrieval PAL 189
+2 Super Rod PAL 188
+1 Technical Machine: Evolution PAR 178
+1 Max Rod PRE 116
+4 Morty's Conviction TEF 155
+1 Rescue Board TEF 159
+3 Bug Catching Set TWM 143
+4 Arven SVI 166
+1 Boss's Orders PAL 172
+
+Energy: 1
+14 Basic {G} Energy SVE 9
+
+Total Cards: 60

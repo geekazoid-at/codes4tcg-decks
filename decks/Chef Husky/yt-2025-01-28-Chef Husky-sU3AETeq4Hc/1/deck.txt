@@ -1,0 +1,48 @@
+Pokémon: 16
+1 Azelf SSP 80 PH
+1 Fezandipiti ex SFA 84
+1 Uxie SSP 78 PH
+2 Froslass TWM 174
+2 Uxie SSP 78
+1 Froslass TWM 53
+1 Radiant Alakazam SIT 59
+1 Budew PRE 4 PH
+1 Munkidori SFA 72
+1 Snorunt PAR 188
+2 Snorunt PAR 37
+1 Munkidori TWM 95 PH
+1 Budew PRE 4 PH
+1 Bloodmoon Ursaluna ex TWM 202
+1 Manaphy CRZ-GG 6
+1 Azelf SSP 80
+
+Trainer: 21
+2 Technical Machine: Devolution PAR 177
+1 Artazon OBF 229
+1 Lost Vacuum LOR 217
+2 Switch MEW 206
+1 Bravery Charm PAL 173 PH
+1 Counter Catcher PAR 264
+1 Ultra Ball PAF 91
+2 Earthen Vessel PAR 163
+1 Hisuian Heavy Ball ASR 146 PH
+2 Irida ASR 147
+1 Nest Ball SVI 255
+2 Night Stretcher SFA 61
+2 Counter Gain SSP 169
+3 Buddy-Buddy Poffin TEF 144
+1 Crispin SCR 133 PH
+1 Ultra Ball BRS 186
+3 Arven PAF 235
+1 Iono PAF 237
+1 Rescue Board TEF 159
+2 Cynthia's Ambition BRS 138
+1 Crispin SCR 164
+
+Energy: 4
+4 Basic {P} Energy SVE 13
+1 Legacy Energy TWM 167
+2 Luminous Energy TWM 226
+2 Basic {D} Energy SFA 98
+
+Total Cards: 60

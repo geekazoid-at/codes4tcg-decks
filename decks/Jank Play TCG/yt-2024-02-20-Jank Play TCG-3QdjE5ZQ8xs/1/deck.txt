@@ -1,0 +1,30 @@
+Pokémon: 10
+4 Comfey LOR 79
+1 Sableye LOR 70
+1 Iron Bundle PR-SV 66
+1 Iron Bundle SVALT 41
+1 Manaphy BRS 41
+1 Radiant Greninja ASR 46
+1 Iron Bundle PAR 56 PH
+1 Jirachi PAR 126
+2 Cramorant LOR 50
+1 Iron Bundle PR-SV 58
+
+Trainer: 11
+2 Switch SVI 194
+4 Switch Cart ASR 154
+1 Lost Vacuum CRZ 135
+4 Future Booster Energy Capsule PAR 164
+4 Battle VIP Pass FST 225
+2 Super Rod PAL 188
+3 Brassius OBF 187 PH
+4 Mirage Gate LOR 163
+4 Nest Ball SVI 181
+4 Colress's Experiment LOR 155
+3 Beach Court SVI 167
+
+Energy: 2
+9 Basic {W} Energy SVE 3
+2 Basic {P} Energy SVE 5
+
+Total Cards: 60

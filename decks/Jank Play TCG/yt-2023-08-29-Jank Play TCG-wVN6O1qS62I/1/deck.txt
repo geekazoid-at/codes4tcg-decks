@@ -1,0 +1,31 @@
+Pokémon: 9
+2 Bibarel BRS 121
+1 Jigglypuff PAL 83
+1 Manaphy BRS 41
+2 Skwovet SVI 151
+1 Dunsparce FST 207
+2 Skwovet SVI 151 PH
+2 Bidoof CRZ 111
+1 Wigglytuff PAL 84
+3 Greedent ex OBF 179
+
+Trainer: 12
+3 Ultra Ball SVI 196
+4 Switch SVI 194
+4 Judge SVI 176
+1 Hisuian Heavy Ball ASR 146
+3 Path to the Peak CRE 148
+4 Professor's Research PR-SW 178
+3 Full Face Guard EVS 148
+2 Pal Pad SVI 182
+3 Nest Ball SVI 181
+4 Cheren's Care BRS 134
+2 Arven SVI 166
+2 Boss's Orders PAL 172
+
+Energy: 3
+4 Therapeutic Energy PAL 193 PH
+2 V Guard Energy SIT 169
+4 Double Turbo Energy BRS 151
+
+Total Cards: 60

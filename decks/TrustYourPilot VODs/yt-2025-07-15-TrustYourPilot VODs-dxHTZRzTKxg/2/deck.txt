@@ -1,0 +1,34 @@
+Pokémon: 6
+4 Cynthia's Spiritomb DRI 129
+4 Cynthia's Roserade DRI 8
+2 Froslass TWM 53
+2 Snorunt PAR 37
+1 Cleffa OBF 80
+4 Cynthia's Roselia DRI 7
+
+Trainer: 18
+2 Ultra Ball SVI 196
+4 Arven OBF 186
+1 Energy Search SVI 172
+1 Buddy-Buddy Poffin TEF 144
+2 Counter Catcher PAR 160
+4 Cynthia's Power Weight DRI 162
+4 Iono PAL 185
+2 Great Ball PAL 183
+2 Night Stretcher SFA 61
+1 Super Rod PAL 188
+1 Technical Machine: Evolution PAR 178
+1 Professor's Research JTG 155
+2 Pokégear 3.0 SVI 186
+1 Morty's Conviction TEF 155
+2 Rescue Board TEF 159
+1 Precious Trolley SSP 185
+1 Artazon PAL 171
+2 Boss's Orders PAL 172
+
+Energy: 3
+2 Basic {D} Energy SVE 15
+3 Jet Energy PAL 190
+4 Reversal Energy PAL 192
+
+Total Cards: 60

@@ -1,0 +1,32 @@
+Pokémon: 18
+4 Larvitar PRE 47
+2 Pupitar PRE 48
+3 Tyranitar ex OBF 66
+4 Doduo MEW 84
+3 Dodrio MEW 85
+2 Munkidori TWM 95
+
+Trainer: 32
+4 Buddy-Buddy Poffin TEF 144
+2 Earthen Vessel PAR 163
+1 Nest Ball SVI 181
+3 Ultra Ball SVI 196
+3 Rare Candy SVI 191
+2 Night Stretcher SFA 61
+2 Pokégear 3.0 SVI 186
+1 Sparkling Crystal SCR 142
+2 Technical Machine: Evolution PAR 178
+4 Arven SVI 166
+2 Boss's Orders PAL 172
+1 Crispin SCR 133
+1 Jacq SVI 175
+1 Drayton SSP 174
+1 Iono PAL 185
+2 Professor's Research JTG 155
+
+Energy: 10
+6 Basic {F} Energy SVE 6
+3 Basic {D} Energy SVE 7
+1 Basic {P} Energy SVE 5
+
+Total Cards: 60

@@ -1,0 +1,41 @@
+Pokémon: 9
+1 Cornerstone Mask Ogerpon ex TWM 215
+1 Tatsugiri TWM 186
+1 Regigigas PRE 86
+1 Fezandipiti ex SFA 38
+2 Galvantula ex SCR 168
+1 Black Kyurem ex SSP 218
+4 Joltik SCR 50
+1 Iron Thorns ex TWM 196
+1 Iron Hands ex PAR 248
+
+Trainer: 22
+2 Switch CRZ 144
+1 Canceling Cologne ASR 136
+2 Buddy-Buddy Poffin TEF 144
+2 Bravery Charm PAL 173 PH
+4 Arven PAF 235
+1 Hisuian Heavy Ball ASR 146
+2 Iono PAF 237
+2 Night Stretcher SFA 61
+1 Black Belt's Training PRE 96
+2 Super Rod PAL 188
+1 Crispin SCR 164
+1 Rescue Board PRE 126
+1 Penny SVI 183
+1 Crispin PRE 171
+4 Nest Ball SVI 181
+1 Crispin PRE 105 PH
+1 Counter Catcher PAR 264
+2 Capturing Aroma SIT 153
+1 Survival Brace TWM 164
+1 Counter Gain SSP 249
+2 Tera Orb SSP 189
+2 Boss's Orders PAL 172
+
+Energy: 3
+4 Basic {G} Energy SVE 1
+1 Basic {F} Energy SVE 6
+5 Basic {L} Energy SVE 4
+
+Total Cards: 60

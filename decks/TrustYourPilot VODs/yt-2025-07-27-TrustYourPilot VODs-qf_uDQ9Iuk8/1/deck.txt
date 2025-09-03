@@ -1,0 +1,37 @@
+Pokémon: 16
+1 Latias ex SSP 76
+1 Iron Bundle PAR 56
+1 Terapagos ex SCR 128
+3 Charcadet SSP 32
+1 Iron Hands ex PAR 70
+1 Durant ex SSP 4
+1 Fezandipiti ex SFA 38
+1 Mew ex MEW 151
+2 Armarouge SVI 41
+1 Regigigas PRE 86
+2 Ethan's Ho-Oh ex DRI 39
+1 Budew PRE 4
+1 Wellspring Mask Ogerpon ex TWM 64
+1 Lillie's Clefairy ex JTG 56
+1 Reshiram ex WHT 20
+1 Squawkabilly ex PAL 169
+
+Trainer: 11
+1 Energy Retrieval SVI 171
+2 Night Stretcher SFA 61
+4 Nest Ball SVI 181
+3 Boss's Orders PAL 172
+1 Air Balloon BLK 79
+4 Iono PAL 185
+1 Super Rod PAL 188
+3 Area Zero Underdepths SCR 131
+3 Ultra Ball SVI 196
+4 Professor's Research PRE 122
+2 Earthen Vessel PAR 163
+
+Energy: 3
+7 Basic {R} Energy SVE 10
+1 Legacy Energy TWM 167
+4 Prism Energy BLK 86
+
+Total Cards: 60

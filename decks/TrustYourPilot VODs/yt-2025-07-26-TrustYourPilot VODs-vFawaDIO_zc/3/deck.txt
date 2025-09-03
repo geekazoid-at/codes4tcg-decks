@@ -1,0 +1,32 @@
+Pokémon: 6
+3 Jellicent ex WHT 45
+4 Duskull SFA 18
+1 Fezandipiti ex SFA 38
+4 Frillish WHT 44
+3 Dusclops SFA 19
+2 Dusknoir SFA 20
+
+Trainer: 16
+2 Counter Catcher PAR 160
+1 Precious Trolley SSP 185
+1 Counter Gain SSP 169
+4 Pokégear 3.0 SVI 186
+4 Night Stretcher SFA 61
+2 Nest Ball SVI 181
+1 Artazon PAL 171
+1 Boss's Orders PAL 172
+1 Air Balloon BLK 79
+4 Iono PAL 185
+4 Arven SVI 166
+3 Technical Machine: Devolution PAR 177
+1 Judge DRI 167
+2 Ultra Ball SVI 196
+1 Switch SVI 194
+2 Earthen Vessel PAR 163
+
+Energy: 3
+1 Jet Energy PAL 190
+7 Basic {P} Energy SVE 13
+1 Ignition Energy WHT 86
+
+Total Cards: 60

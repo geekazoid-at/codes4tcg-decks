@@ -1,0 +1,32 @@
+Pokémon: 21
+4 Arven's Maschiff DRI 138
+3 Arven's Mabosstiff ex DRI 139
+4 Dunsparce TEF 128
+2 Dudunsparce TEF 129
+2 Dudunsparce ex JTG 121
+2 Rockruff JTG 84
+2 Lycanroc JTG 85
+1 Shaymin DRI 10
+1 Fezandipiti ex SFA 38
+
+Trainer: 26
+4 Buddy-Buddy Poffin TEF 144
+2 Nest Ball SVI 181
+3 Ultra Ball SVI 196
+2 Night Stretcher SFA 61
+2 Pokégear 3.0 SVI 186
+1 Prime Catcher TEF 157
+2 Rocky Helmet SVI 193
+3 Hilda WHT 84
+2 Boss's Orders PAL 172
+2 Arven SVI 166
+1 Iono PAL 185
+2 Artazon PAL 171
+
+Energy: 13
+4 Jet Energy PAL 190
+4 Spiky Energy JTG 159
+3 Ignition Energy WHT 86
+2 Mist Energy TEF 161
+
+Total Cards: 60

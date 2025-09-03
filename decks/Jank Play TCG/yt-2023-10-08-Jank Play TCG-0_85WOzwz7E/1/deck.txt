@@ -1,0 +1,29 @@
+Pokémon: 7
+2 Lucario SVI 114
+2 Riolu SVI 113
+1 Marowak MEW 105
+4 Cubone MEW 104
+1 Radiant Gardevoir LOR 69
+2 Marowak MEW 105 PH
+1 Mew ex MEW 205
+
+Trainer: 14
+3 Ultra Ball SVI 196
+3 Lake Acuity LOR 160
+4 Rock Chestplate SVI 192
+1 Grant ASR 144
+2 Escape Rope BST 125
+4 Trekking Shoes ASR 156
+1 Hisuian Heavy Ball ASR 146
+3 Iono PAL 185
+4 Professor's Research SHF 60
+2 Klara CRE 145
+2 Pal Pad SVI 182
+4 Gutsy Pickaxe ASR 145
+4 Nest Ball SVI 181
+2 Boss's Orders SWSHALT 127
+
+Energy: 1
+8 Basic {F} Energy SVE 6
+
+Total Cards: 60

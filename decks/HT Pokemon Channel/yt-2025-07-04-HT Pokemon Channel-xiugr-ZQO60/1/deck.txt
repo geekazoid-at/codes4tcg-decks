@@ -1,0 +1,34 @@
+Pokémon: 17
+3 Charmander MEW 4
+1 Charmander OBF 26
+2 Charmeleon PAF 8
+2 Charizard ex MEW 6
+2 Charizard ex OBF 125
+2 Charcadet SSP 32
+2 Armarouge SVI 41
+2 Ethan's Ho-Oh ex DRI 39
+1 Fezandipiti ex SFA 38
+
+Trainer: 35
+4 Rare Candy SVI 191
+3 Buddy-Buddy Poffin TEF 144
+2 Nest Ball SVI 181
+3 Ultra Ball SVI 196
+1 Earthen Vessel PAR 163
+1 Energy Retrieval SVI 171
+2 Night Stretcher SFA 61
+2 Pokégear 3.0 SVI 186
+2 Switch SVI 194
+1 Unfair Stamp TWM 165
+3 Arven SVI 166
+2 Boss's Orders PAL 172
+2 Drayton SSP 174
+2 Iono PAL 185
+3 Professor's Research PRE 122
+1 Powerglass SFA 63
+1 Technical Machine: Evolution PAR 178
+
+Energy: 8
+8 Basic {R} Energy SVE 2
+
+Total Cards: 60

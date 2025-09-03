@@ -1,0 +1,33 @@
+Pokémon: 6
+2 Cyclizar ex SSP 228
+2 Noctowl PRE 78
+2 Hoothoot SCR 114
+2 Fan Rotom SCR 118
+3 Bouffalant SCR 119
+1 Cyclizar ex SSP 159
+
+Trainer: 17
+1 Briar PRE 100
+1 Black Belt's Training PRE 97
+2 Earthen Vessel PRE 106
+1 Switch SVI 194
+2 Ultra Ball PAF 91
+4 Crispin SCR 133
+2 Glass Trumpet SCR 135
+2 Super Rod PAL 188
+4 Iono PAF 80
+2 Protective Goggles MEW 164
+3 Pokégear 3.0 SVI 186
+1 Sparkling Crystal SCR 142
+4 Nest Ball SVI 181
+2 Bravery Charm PAL 173
+3 Lively Stadium SSP 180
+3 Arven SVI 166
+2 Boss's Orders PAL 172
+
+Energy: 3
+3 Basic {R} Energy SVE 10
+3 Basic {G} Energy SVE 9
+3 Basic {P} Energy SVE 13
+
+Total Cards: 60

@@ -1,0 +1,37 @@
+Pokémon: 13
+1 Emolga TWM 69
+1 Bloodmoon Ursaluna ex TWM 141
+3 Combee PAL 8
+1 Hawlucha SVI 118
+2 Vespiquen ex OBF 96
+3 Yanmega ex DRI 3
+1 Fezandipiti ex SFA 38
+1 Froslass TWM 53
+1 Budew PRE 4
+1 Lillie's Clefairy ex JTG 56
+1 Snorunt PAR 37
+3 Yanma DRI 2
+1 Mr. Mime MEW 122
+
+Trainer: 14
+1 Counter Catcher PAR 160
+4 Team Rocket's Venture Bomb DRI 179
+1 Prime Catcher TEF 157
+2 Nest Ball SVI 181
+1 Boss's Orders PAL 172
+4 Iono PAL 185
+4 Arven SVI 166
+1 Technical Machine: Devolution PAR 177
+1 Technical Machine: Evolution PAR 178
+2 Super Rod PAL 188
+3 Buddy-Buddy Poffin TEF 144
+2 Ultra Ball SVI 196
+2 Professor's Research PRE 122
+1 Earthen Vessel PAR 163
+
+Energy: 3
+1 Luminous Energy PAL 191
+2 Jet Energy PAL 190
+8 Basic {G} Energy SVE 9
+
+Total Cards: 60

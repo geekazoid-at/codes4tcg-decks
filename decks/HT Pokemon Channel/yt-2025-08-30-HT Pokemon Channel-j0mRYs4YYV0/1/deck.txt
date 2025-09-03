@@ -1,0 +1,33 @@
+Pokémon: 15
+3 Foongus BLK 10
+2 Amoonguss BLK 11
+2 Brute Bonnet PAR 123
+2 Pecharunt PR-SV 149
+2 Squawkabilly ex PAL 169
+1 Fezandipiti ex SFA 38
+1 Bloodmoon Ursaluna ex TWM 141
+1 Latias ex SSP 76
+1 Meloetta ex BLK 44
+
+Trainer: 37
+4 Nest Ball SVI 181
+4 Ultra Ball SVI 196
+3 Night Stretcher SFA 61
+2 Pokégear 3.0 SVI 186
+1 Earthen Vessel PAR 163
+1 Pal Pad SVI 182
+1 Secret Box TWM 163
+4 Ancient Booster Energy Capsule PAR 159
+3 Binding Mochi SFA 55
+4 Carmine TWM 145
+3 Boss's Orders PAL 172
+2 Professor's Research JTG 155
+2 Iono PAL 185
+3 Perilous Jungle TEF 156
+
+Energy: 8
+3 Jet Energy PAL 190
+3 Basic {D} Energy SVE 7
+2 Basic {P} Energy SVE 5
+
+Total Cards: 60

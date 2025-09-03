@@ -1,0 +1,24 @@
+Pokémon: 6
+3 Golbat BST 90
+4 Palafin OBF 62
+3 Cleffa OBF 80 PH
+4 Finizen OBF 60
+3 Zubat SIT 103
+3 Crobat BST 91
+
+Trainer: 10
+3 Raihan EVS 152
+3 Escape Rope BST 125
+2 Iono PAL 185
+4 Great Ball PAL 183
+3 Super Rod PAL 188
+4 Vengeful Punch OBF 197
+2 Boss's Orders SHF 58
+4 Nest Ball SVI 181
+4 Professor's Research SVI 189
+3 Collapsed Stadium BRS 137
+
+Energy: 1
+8 Basic {W} Energy SVE 3
+
+Total Cards: 60

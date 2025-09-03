@@ -1,0 +1,40 @@
+Pokémon: 15
+2 Swinub JTG 77
+1 Rabsca TEF 24
+2 Reuniclus BLK 39
+1 Pidgeotto MEW 17
+2 Pidgeot ex OBF 164
+1 Piloswine JTG 78
+1 Duosion BLK 38
+1 Fezandipiti ex SFA 38
+2 Solosis TEF 70
+1 Rellor TEF 23
+1 Naclstack PAR 103
+2 Nacli PAR 102
+2 Pidgey MEW 16
+2 Garganacl PAR 104
+2 Mamoswine ex JTG 79
+
+Trainer: 17
+1 Ultra Ball SVI 196
+1 Rock Chestplate SVI 192
+1 Brock's Scouting JTG 146
+4 Rare Candy SVI 191
+4 Arven OBF 186
+1 Earthen Vessel PAR 163
+3 Buddy-Buddy Poffin TEF 144
+1 Counter Catcher PAR 160
+1 Jamming Tower TWM 153
+4 Iono PAL 185
+1 Super Rod PAL 188
+2 Technical Machine: Evolution PAR 178
+1 Big Air Balloon MEW 155
+2 Pokégear 3.0 SVI 186
+1 Pokémon League Headquarters OBF 192
+1 Precious Trolley SSP 185
+2 Boss's Orders PAL 172
+
+Energy: 1
+6 Basic {F} Energy SVE 14
+
+Total Cards: 60

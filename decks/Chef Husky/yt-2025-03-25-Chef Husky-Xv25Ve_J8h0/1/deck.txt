@@ -1,0 +1,40 @@
+Pokémon: 13
+1 Budew PRE 4 PH
+4 Turtwig TEF 10
+1 Hisuian Lilligant VSTAR ASR 18
+2 Torterra ex TEF 12
+2 Grotle BRS 7
+1 Hisuian Lilligant V ASR 17
+3 Teal Mask Ogerpon ex TWM 25
+1 Budew PRE 4
+1 Torterra ex TEF 185
+1 Rellor TEF 23
+1 Radiant Tsareena SIT 16
+1 Rabsca TEF 24
+1 Grotle BRS 7 PH
+
+Trainer: 19
+1 Hisuian Heavy Ball ASR 146
+3 Bug Catching Set TWM 143
+1 Secret Box TWM 163
+2 Energy Switch SVI 173
+2 Night Stretcher SFA 61
+4 Nest Ball SVI 181
+1 Big Air Balloon MEW 155
+2 Boss's Orders PAL 172
+1 Area Zero Underdepths PRE 94
+3 Arven SVI 166
+1 Super Rod PAL 188
+1 Bug Catching Set PRE 102
+1 Earthen Vessel PRE 106
+2 Area Zero Underdepths SCR 131
+2 Iono PAF 80
+2 Ultra Ball SVI 196
+1 Professor's Research PRE 122
+2 Switch SVI 194
+2 Rare Candy SVI 191
+
+Energy: 1
+6 Basic {G} Energy SVE 1
+
+Total Cards: 60
