@@ -1,0 +1,35 @@
+Pokémon: 7
+2 Munkidori TWM 95
+2 Unfezant BLK 73
+1 Fezandipiti ex SFA 38
+2 Cleffa OBF 80
+4 Pidove TEF 133
+2 Unfezant TEF 135
+1 Shaymin DRI 10
+
+Trainer: 17
+2 Counter Catcher PAR 160
+2 Luxurious Cape PAR 166
+2 Night Stretcher SFA 61
+2 Nest Ball SVI 181
+4 Calamitous Snowy Mountain PAL 174
+1 Boss's Orders PAL 172
+1 Air Balloon BLK 79
+4 Iono PAL 185
+3 Arven SVI 166
+1 Technical Machine: Devolution PAR 177
+2 Super Rod PAL 188
+3 Colress's Tenacity SFA 57
+2 Crispin PRE 105
+3 Buddy-Buddy Poffin TEF 144
+1 Neutralization Zone SFA 60
+1 Rare Candy SVI 191
+1 Earthen Vessel PAR 163
+
+Energy: 4
+2 Reversal Energy PAL 192
+4 Basic {D} Energy SVE 15
+3 Basic {P} Energy SVE 13
+2 Ignition Energy WHT 86
+
+Total Cards: 60
