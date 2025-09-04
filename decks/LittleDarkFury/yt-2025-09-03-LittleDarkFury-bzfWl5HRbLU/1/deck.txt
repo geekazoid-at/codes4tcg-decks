@@ -1,0 +1,36 @@
+Pokémon: 10
+2 Munkidori TWM 95
+1 Fezandipiti ex SFA 38
+2 Jellicent ex WHT 45
+3 Frillish WHT 44
+1 Steven's Metang DRI 144
+2 Genesect ex BLK 67
+3 Steven's Beldum DRI 143
+1 Mew ex MEW 151
+2 Steven's Metagross ex DRI 145
+1 Lillie's Clefairy ex JTG 56
+
+Trainer: 16
+2 Buddy-Buddy Poffin TEF 144 PH
+1 Super Rod PAL 188
+2 Artazon PAL 171
+3 Rare Candy PAF 89
+4 Nest Ball PAF 84
+1 Earthen Vessel PAR 163 PH
+1 Energy Recycler DRI 164
+3 Ultra Ball SVI 196
+1 Night Stretcher SFA 61
+2 Boss's Orders PAL 172
+4 Iono PAL 185
+1 Technical Machine: Devolution PAR 177
+2 Arven SVI 166 PH
+1 Counter Catcher PAR 160 PH
+3 Professor's Research PRE 124
+1 Air Balloon BLK 79 PH
+
+Energy: 3
+2 Basic {D} Energy BUS 168
+5 Basic {P} Energy SUM 162
+3 Basic {M} Energy SUM 163
+
+Total Cards: 60
