@@ -1,0 +1,31 @@
+Pokémon: 7
+3 Munkidori TWM 95
+1 Fezandipiti ex SFA 38
+3 Froslass TWM 53
+2 Excadrill ex BLK 46
+2 Budew PRE 4
+3 Snorunt PAR 37
+3 Drilbur BLK 45
+
+Trainer: 15
+3 Counter Catcher PAR 160
+1 Secret Box TWM 163
+1 Artazon PAF 76
+2 Nest Ball PAF 84
+1 Night Stretcher SFA 61
+4 Iono PAL 185
+4 Arven SVI 166
+1 Technical Machine: Devolution PAR 177
+2 Boss's Orders PAL 172 PH
+1 Super Rod PAL 188
+4 Buddy-Buddy Poffin PRE 101
+1 Earthen Vessel PRE 106
+3 Crispin PRE 105
+4 Ultra Ball SVI 196
+2 Professor's Research PRE 122
+
+Energy: 2
+3 Basic {D} Energy SVE 15
+6 Basic {F} Energy SVE 14
+
+Total Cards: 60
