@@ -1,0 +1,36 @@
+Pokémon: 11
+1 Marshadow-GX SMP 59
+1 Bronzong PR-SW 91
+3 Bronzor TEU 100
+1 Latias ex SSP 239
+1 Dedenne-GX SMALT 156
+2 Arceus & Dialga & Palkia-GX CEC 221
+1 Squawkabilly ex PAF 223
+1 Zacian VSTAR CRZ 96
+2 Bronzong CRE 223
+1 Crobat V LOR-TG 20
+2 Zacian V SSH 195
+
+Trainer: 16
+2 Boss's Orders PAL 265
+1 Great Catcher CEC 192
+1 Chaotic Swell CEC 187 PH
+1 Rusted Sword SHF 62 PH
+2 Guzma BUS 143
+1 Penny PAF 239
+4 Quick Ball SSH 216
+4 Metal Saucer SSH 214
+1 Guzma & Hala CEC 229
+1 Air Balloon SSH 213
+4 Energy Switch SIT 212
+2 Escape Rope BUS 163
+1 Hisuian Heavy Ball ASR 146 PH
+1 Survival Brace TWM 164
+2 Cherish Ball UNM 250
+4 Professor's Research SSH 201
+
+Energy: 2
+8 Basic {M} Energy EVS 237
+4 Aurora Energy SSH 186
+
+Total Cards: 60
