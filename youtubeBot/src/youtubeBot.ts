@@ -115,7 +115,7 @@ enum RunType {
 }
 
 const importChannelId = channelIdPokemonTypBruceBuilds;
-const RUNTYPE: RunType = RunType.IMPORT;
+const RUNTYPE: RunType = RunType.UPDATE;
 
 async function runBot() {
   if (RUNTYPE === (RunType.IMPORT as RunType)) {
