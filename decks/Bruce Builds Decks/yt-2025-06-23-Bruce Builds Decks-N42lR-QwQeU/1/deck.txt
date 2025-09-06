@@ -1,0 +1,35 @@
+Pokémon: 16
+1 Terapagos ex SCR 128
+2 Teal Mask Ogerpon ex TWM 25
+1 Hearthflame Mask Ogerpon ex TWM 40
+2 Latias ex SSP 76
+3 Toxtricity OBF 72
+1 Fezandipiti ex SFA 38
+3 Toxel PAR 69
+1 Bloodmoon Ursaluna ex PR-SV 177
+1 Cornerstone Mask Ogerpon ex TWM 112
+1 Wellspring Mask Ogerpon ex TWM 64
+
+Trainer: 30
+2 Ultra Ball SVI 196
+2 Earthen Vessel PRE 106
+3 Crispin PRE 105
+3 Energy Switch SVI 173
+2 Counter Catcher PAR 160
+1 Glass Trumpet SCR 135
+2 Iono PAL 185
+2 Colress's Tenacity SFA 57
+2 Superior Energy Retrieval PAL 189
+2 Cyrano SSP 170
+3 Area Zero Underdepths PRE 94
+1 Sparkling Crystal SCR 142
+4 Nest Ball SVI 181
+1 Boss's Orders PAL 172
+
+Energy: 14
+5 Basic {G} Energy SVE 1
+5 Basic {L} Energy SVE 4
+1 Basic {W} Energy SVE 3
+3 Basic {R} Energy SVE 2
+
+Total Cards: 60

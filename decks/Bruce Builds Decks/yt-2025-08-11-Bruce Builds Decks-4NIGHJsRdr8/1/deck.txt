@@ -1,0 +1,37 @@
+Pokémon: 19
+2 Uxie SSP 78
+3 Bounsweet PAR 8
+2 Steenee PAR 9
+2 Shuckle OBF 5
+1 Fezandipiti ex SFA 38
+3 Tsareena ex PAR 46
+1 Budew PRE 4
+3 Ting-Lu TWM 110
+2 Munkidori PRE 44
+
+Trainer: 32
+1 Briar PRE 100
+1 Earthen Vessel PRE 106
+2 Rare Candy SVI 191
+2 Counter Catcher PAR 160
+2 Gravity Mountain SSP 177
+2 Colress's Tenacity SFA 57
+1 Technical Machine: Evolution PAR 178
+3 Iono PAF 80
+2 Air Balloon SSH 156
+1 Professor's Research JTG 155
+1 Town Store OBF 196
+1 Pokégear 3.0 SVI 186
+2 Boss's Orders SHF 58
+1 Team Rocket's Watchtower DRI 180
+2 Tera Orb SSP 189
+1 Precious Trolley SSP 185
+1 Artazon PAL 171
+4 Arven SVI 166
+2 Hilda WHT 84
+
+Energy: 9
+5 Basic {G} Energy SVE 1
+4 Prism Energy BLK 86
+
+Total Cards: 60

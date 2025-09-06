@@ -1,0 +1,27 @@
+Pokémon: 22
+3 Snivy BLK 1
+4 Dipplin TWM 18
+2 Servine BLK 2
+3 Serperior ex BLK 3
+3 Grookey TWM 14
+4 Applin TWM 17
+3 Thwackey TWM 15
+
+Trainer: 30
+2 Rare Candy SVI 191
+3 Arven OBF 186
+3 Buddy-Buddy Poffin TEF 144
+1 Counter Catcher PAR 160
+4 Iono PAL 185
+1 Hyper Aroma TWM 152
+3 Brave Bangle WHT 80
+2 Super Rod PAL 188
+1 Air Balloon SSH 156
+4 Bug Catching Set TWM 143
+2 Boss's Orders PAL 172
+4 Festival Grounds TWM 149
+
+Energy: 8
+8 Basic {G} Energy SVE 1
+
+Total Cards: 60

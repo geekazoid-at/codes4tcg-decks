@@ -1,0 +1,34 @@
+Pokémon: 17
+2 Eevee ex PRE 75
+1 Togekiss SSP 72
+2 Roaring Moon ex PAR 124
+2 Togepi OBF 83
+3 Chansey MEW 113
+3 Umbreon ex PRE 60
+2 Togetic OBF 84
+2 Togekiss OBF 85
+
+Trainer: 32
+2 Night Stretcher SFA 61
+3 Nest Ball SVI 181
+2 Energy Sticker MEW 159
+2 Powerglass SFA 63
+2 Arven SVI 166
+2 Redeemable Ticket JTG 156
+2 Super Rod PAL 188
+2 Janine's Secret Art SFA 59
+3 Crispin SCR 133
+2 Ciphermaniac's Codebreaking TEF 145
+1 Sparkling Crystal PRE 129
+2 Iono PAF 80
+2 Ultra Ball SVI 196
+2 Professor's Research PRE 122
+3 Earthen Vessel PAR 163
+
+Energy: 11
+1 Jet Energy PAL 190
+6 Basic {D} Energy SVE 7
+2 Basic {P} Energy SVE 5
+2 Basic {L} Energy SVE 4
+
+Total Cards: 60

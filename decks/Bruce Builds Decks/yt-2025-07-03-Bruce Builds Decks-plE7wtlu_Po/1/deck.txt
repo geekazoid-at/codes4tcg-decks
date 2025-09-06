@@ -1,0 +1,28 @@
+Pokémon: 21
+2 Huntail DRI 55
+2 Gorebyss DRI 56
+3 Kingler MEW 99
+1 Fezandipiti ex SFA 38
+2 Wailmer JTG 40
+3 Krabby MEW 98
+3 Lapras ex SCR 32
+2 Wailord JTG 41
+3 Clamperl DRI 54
+
+Trainer: 19
+3 Ultra Ball SVI 196
+2 Switch SVI 194
+4 Crispin SCR 133
+2 Surfer SSP 187
+2 Artazon PAL 171
+2 Luxurious Cape PAR 166
+1 Penny SVI 183
+2 Nest Ball SVI 181
+1 Neutralization Zone SFA 60
+
+Energy: 20
+3 Basic {M} Energy SVE 8
+3 Basic {P} Energy SVE 5
+14 Basic {W} Energy SVE 3
+
+Total Cards: 60

@@ -1,0 +1,39 @@
+Pokémon: 18
+2 Quaxly PAL 49
+1 Quaxly SSP 50
+3 Chewtle SCR 43
+3 Drednaw SCR 44
+2 Lumineon SCR 36
+1 Fezandipiti ex SFA 38
+1 Quaxwell SSP 51
+1 Quaquaval SVI 54
+2 Quaquaval ex PAL 52
+2 Finneon SCR 35
+
+Trainer: 31
+2 Luxurious Cape PAR 166
+2 Brock's Scouting JTG 146
+2 Counter Gain SSP 169
+1 Prime Catcher TEF 157
+1 Night Stretcher SFA 61
+1 Calamitous Snowy Mountain PAL 174
+2 Artazon PAL 171
+2 Boss's Orders PAL 172
+1 Powerglass SFA 63
+3 Iono PAL 185
+2 Arven SVI 166
+1 Technical Machine: Evolution PAR 178
+2 Professor's Research JTG 155
+2 Crispin SCR 133
+2 Buddy-Buddy Poffin TEF 144
+3 Ultra Ball SVI 196
+1 Rare Candy SVI 191
+1 Earthen Vessel PAR 163
+
+Energy: 11
+1 Basic {F} Energy SVE 6
+1 Basic {P} Energy SVE 5
+1 Basic {L} Energy SVE 4
+8 Basic {W} Energy SVE 3
+
+Total Cards: 60

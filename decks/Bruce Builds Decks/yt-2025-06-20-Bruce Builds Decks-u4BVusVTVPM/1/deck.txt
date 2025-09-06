@@ -1,0 +1,34 @@
+Pokémon: 7
+3 Cetoddle PAL 53
+2 Munkidori TWM 95
+3 Cetitan ex DRI 65
+2 Wellspring Mask Ogerpon DRI 67
+3 Dunsparce JTG 120
+1 Dudunsparce ex JTG 121
+3 Dudunsparce TEF 129
+
+Trainer: 17
+2 Ultra Ball SVI 196
+2 Crispin SCR 133
+1 Counter Catcher PAR 160
+2 Iono PAL 185
+2 Night Stretcher SFA 61
+2 Colress's Tenacity SFA 57
+2 Technical Machine: Turbo Energize PAR 179
+1 Pokémon League Headquarters OBF 192 PH
+2 Heavy Baton TEF 151
+2 Pokégear 3.0 SVI 186
+2 Picnic Basket SVI 184
+1 Nest Ball SVI 181
+2 Calamitous Snowy Mountain PAL 174
+2 Artazon PAL 171
+3 Arven SVI 166
+2 Boss's Orders PAL 172
+1 Beach Court SVI 167
+
+Energy: 3
+3 Basic {D} Energy SVE 15
+8 Basic {W} Energy SVE 3
+1 Legacy Energy TWM 167
+
+Total Cards: 60

@@ -1,0 +1,29 @@
+Pokémon: 21
+2 Bronzong PRE 67
+1 Fezandipiti ex SFA 38
+2 Varoom SFA 43
+2 Metang TEF 114
+2 Revavroom SVI 142
+2 Beldum TEF 113
+2 Bronzor OBF 144
+4 Probopass OBF 146
+4 Nosepass OBF 107
+
+Trainer: 26
+2 Defiance Vest PAR 162
+2 Rigid Band MEW 165
+2 Nest Ball SVI 181
+1 Hyper Aroma TWM 152
+3 Iono PAL 185
+3 Arven SVI 166
+2 Super Rod PAL 188
+2 Bianca's Devotion TEF 142
+2 Buddy-Buddy Poffin TEF 144
+3 Full Metal Lab TEF 148
+1 Ultra Ball SVI 196
+3 Jasmine's Gaze SSP 178
+
+Energy: 13
+13 Basic {M} Energy SVE 8
+
+Total Cards: 60
