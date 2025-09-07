@@ -1,0 +1,36 @@
+Pokémon: 10
+1 Luxray PAF 137
+1 Tinkatuff PAL 217
+3 Dunsparce PRE 79 PH
+4 Tinkatink PAL 102 PH
+1 Fan Rotom PRE 85 PH
+1 Fezandipiti ex SFA 84
+1 Budew PRE 4 PH
+3 Tinkaton ex PAL 240
+3 Dudunsparce PRE 80 PH
+2 Tinkaton PAF 167
+
+Trainer: 16
+4 Buddy-Buddy Poffin TWM 223
+4 Rare Candy GRI 165
+1 Super Rod PAL 276
+3 Artazon OBF 229
+2 Iono PR-SV 124
+1 Morty's Conviction TEF 201
+1 Boss's Orders PR-SW 251
+2 Nest Ball SVI 255
+1 Exp. Share BST 180
+1 Pal Pad SVI 182 PH
+1 Technical Machine: Evolution PAR 178 PH
+1 Switch MEW 206
+2 Night Stretcher SSP 251
+3 Arven SVI 235
+3 Jacq SVI 236
+2 Counter Catcher PAR 264
+
+Energy: 3
+6 Basic {P} Energy MEW 207
+1 Enriching Energy SSP 191
+1 Reversal Energy PAR 266
+
+Total Cards: 60
