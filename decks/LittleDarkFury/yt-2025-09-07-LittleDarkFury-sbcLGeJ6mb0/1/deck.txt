@@ -1,0 +1,33 @@
+Pokémon: 19
+4 Zorua WHT 61
+2 Zoroark WHT 62
+2 Zoroark SFA 32
+3 Froakie OBF 56
+2 Frogadier TWM 57
+2 Greninja ex TWM 106
+2 Varoom SFA 43
+2 Revavroom SVI 142
+
+Trainer: 32
+4 Arven OBF 186
+3 Iono PAL 185
+3 Professor's Research JTG 155
+3 Hilda WHT 84
+2 Boss's Orders PAL 172
+4 Buddy-Buddy Poffin TEF 144
+3 Night Stretcher SFA 61
+2 Rare Candy SVI 191
+1 Counter Catcher PAR 160
+1 Ultra Ball SVI 196
+1 Earthen Vessel PAR 163
+1 Brave Bangle WHT 80
+1 Air Balloon BLK 79
+1 Sparkling Crystal SCR 142
+2 Team Rocket's Watchtower DRI 180
+
+Energy: 9
+4 Ignition Energy WHT 86
+3 Basic {W} Energy SVE 3
+2 Basic {D} Energy SVE 7
+
+Total Cards: 60
