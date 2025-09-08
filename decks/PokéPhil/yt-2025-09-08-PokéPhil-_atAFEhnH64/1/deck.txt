@@ -1,0 +1,39 @@
+Pokémon: 11
+1 Steenee OBF 17
+3 Munkidori SFA 72
+3 Tsareena ex PAR 46
+1 Snorunt TWM 51
+2 Bounsweet PAR 8
+2 Vanilluxe PAR 45
+1 Vanillite WHT 111
+1 Vanillish WHT 112
+1 Froslass TWM 174
+1 Vanillite WHT 27 PH
+1 Mimikyu PR-SV 75
+
+Trainer: 19
+2 Buddy-Buddy Poffin TWM 223
+1 Pokémon League Headquarters OBF 192
+1 Tera Orb SSP 189
+2 Rare Candy GRI 165
+1 Precious Trolley SSP 185
+2 Hilda WHT 164
+2 Super Rod PAL 276
+3 Nest Ball SVI 255
+1 Earthen Vessel SFA 96
+2 Rare Candy SVI 256
+2 Arven PAF 235
+2 Iono PAF 237
+2 Boss's Orders PAL 265
+2 Night Stretcher SSP 251
+2 Iono PAL 269
+1 Technical Machine: Evolution PAR 178
+2 Ultra Ball BRS 186
+3 Crushing Hammer SVI 168
+2 Air Balloon SSH 213
+
+Energy: 2
+5 Basic {G} Energy SVE 1
+3 Luminous Energy PAL 191 PH
+
+Total Cards: 60
