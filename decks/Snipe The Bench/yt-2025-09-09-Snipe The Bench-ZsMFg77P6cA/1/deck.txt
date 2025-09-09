@@ -1,0 +1,32 @@
+Pokémon: 7
+1 Arbok ex MEW 24
+4 Scraggy WHT 57
+2 Weezing MEW 110
+4 Scrafty WHT 58
+1 Ekans MEW 23
+1 Fezandipiti ex SFA 38
+2 Koffing MEW 109
+
+Trainer: 17
+2 Boss's Orders RCL 189
+2 Counter Catcher PAR 160
+2 Town Store OBF 196
+2 Janine's Secret Art PRE 112
+2 Judge SVI 176
+2 Exp. Share SVI 174
+4 Ultra Ball PAF 91
+1 Pal Pad SVI 182
+1 Nest Ball SVI 181
+2 Air Balloon BLK 79
+1 Sacred Ash DRI 168
+1 Lana's Aid TWM 155
+4 Arven SVI 166
+1 Super Rod PAL 188
+4 Buddy-Buddy Poffin PRE 101
+4 Iono PAF 80
+1 Neutralization Zone SFA 60
+
+Energy: 1
+9 Basic {D} Energy SVE 15
+
+Total Cards: 60
