@@ -1,0 +1,43 @@
+Pokémon: 13
+1 Magmar MEW 126
+3 Litten TEF 32
+1 Pidgeotto MEW 17
+1 Munkidori TWM 95
+1 Fezandipiti ex SFA 38
+1 Magmortar JTG 21
+1 Chi-Yu PAR 29
+2 Pidgeot ex OBF 164
+2 Incineroar ex TEF 34
+1 Pidgey MEW 16
+1 Torracat TEF 33
+1 Pidgey OBF 162
+1 Cleffa OBF 80
+
+Trainer: 20
+4 Buddy-Buddy Poffin PRE 101
+1 Super Rod PAL 188
+1 Accompanying Flute TWM 142
+1 Secret Box TWM 163
+1 Artazon PAF 76
+1 Mela PAR 167 PH
+4 Rare Candy PAF 89
+2 Nest Ball PAF 84 PH
+3 Ultra Ball PAF 91
+2 Boss's Orders PAL 172
+1 Night Stretcher SFA 61
+1 Hilda WHT 84 PH
+3 Iono PAL 185
+1 Technical Machine: Evolution PAR 178
+4 Arven OBF 186
+1 Counter Catcher PAR 160
+1 Defiance Band SVI 169
+1 Brock's Scouting JTG 146
+1 Professor's Research JTG 155
+1 Air Balloon BLK 79 PH
+
+Energy: 3
+4 Basic {R} Energy BUS 167
+1 Basic {D} Energy BUS 168
+3 Ignition Energy WHT 86
+
+Total Cards: 60
