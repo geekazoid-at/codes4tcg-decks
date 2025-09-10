@@ -1,0 +1,29 @@
+Pokémon: 20
+2 Deino SSP 117
+2 Deino WHT 65
+1 Zweilous WHT 66
+3 Hydreigon ex SSP 119
+3 Hoothoot TEF 126
+3 Noctowl SCR 115
+3 Teal Mask Ogerpon ex TWM 25
+2 Fan Rotom SCR 118
+1 Chien-Pao SSP 56
+
+Trainer: 29
+4 Carmine TWM 145
+3 Hilda WHT 84
+4 Buddy-Buddy Poffin TEF 144
+4 Earthen Vessel PAR 163
+3 Nest Ball SVI 181
+3 Rare Candy SVI 191
+3 Ultra Ball SVI 196
+2 Tera Orb SSP 189
+2 Energy Switch SVI 173
+1 Air Balloon BLK 79
+
+Energy: 11
+6 Basic {D} Energy SVE 7
+4 Basic {G} Energy SVE 1
+1 Neo Upper Energy TEF 162
+
+Total Cards: 60

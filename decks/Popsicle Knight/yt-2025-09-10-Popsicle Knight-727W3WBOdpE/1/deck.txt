@@ -1,0 +1,37 @@
+Pokémon: 10
+2 Archen WHT 50
+1 Noivern ex PAL 153
+2 Munkidori TWM 95
+1 Noibat PAL 152
+2 Froslass TWM 53
+1 Maractus JTG 8
+1 Fezandipiti ex SFA 38
+2 Snorunt TWM 51
+2 Cleffa OBF 80
+3 Archeops WHT 51
+
+Trainer: 16
+3 Ultra Ball SVI 196
+1 Switch SVI 194
+2 Rare Candy SVI 191
+3 Arven OBF 186
+1 Earthen Vessel PAR 163
+2 Buddy-Buddy Poffin TEF 144
+2 Crispin SCR 133
+3 Iono PAL 185
+2 Air Balloon BLK 79
+2 Technical Machine: Devolution PAR 177
+2 Super Rod PAL 188
+1 Technical Machine: Evolution PAR 178
+2 Professor's Research JTG 155
+2 Nest Ball PAF 84
+4 Antique Plume Fossil WHT 79
+1 Neutralization Zone SFA 60
+
+Energy: 4
+2 Basic {F} Energy SVE 14
+3 Basic {D} Energy SVE 15
+2 Jet Energy PAL 190
+3 Reversal Energy PAL 192
+
+Total Cards: 60

@@ -1,0 +1,32 @@
+Pokémon: 10
+2 Arboliva ex DRI 23
+2 Dusknoir PRE 37
+1 Mew ex MEW 151
+2 Dolliv SVI 22
+3 Duskull PRE 35
+3 Dusclops PRE 36
+1 Fezandipiti ex SFA 38
+2 Budew PRE 4
+1 Bloodmoon Ursaluna ex TWM 141
+3 Smoliv DRI 21
+
+Trainer: 14
+4 Ultra Ball SVI 196
+1 Switch SVI 194
+3 Rare Candy SVI 191
+4 Buddy-Buddy Poffin TEF 144
+3 Counter Catcher PAR 160
+1 Grand Tree SCR 136
+1 Jamming Tower TWM 153
+4 Iono PAL 185
+3 Night Stretcher SFA 61
+4 Colress's Tenacity SFA 57
+1 Super Rod PAL 188
+2 Professor's Research JTG 155
+2 Nest Ball SVI 181
+1 Boss's Orders PAL 172 PH
+
+Energy: 1
+6 Basic {G} Energy SVE 9
+
+Total Cards: 60
