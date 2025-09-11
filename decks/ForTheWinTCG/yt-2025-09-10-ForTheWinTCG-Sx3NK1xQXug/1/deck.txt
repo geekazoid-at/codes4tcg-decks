@@ -1,0 +1,38 @@
+Pokémon: 5
+3 Dwebble DRI 11
+3 Crustle DRI 12
+2 Munkidori TWM 95
+2 Cornerstone Mask Ogerpon ex TWM 112
+1 Ethan's Sudowoodo DRI 93
+
+Trainer: 21
+4 Boss's Orders PAL 172
+4 Arven OBF 186
+4 Crispin SCR 133
+2 Iono PAL 185
+2 Colress's Tenacity SFA 57
+3 Pokégear 3.0 SVI 186
+2 Nest Ball SVI 181
+1 Counter Catcher PAR 160
+1 Secret Box TWM 163
+1 Night Stretcher SFA 61
+1 Super Rod PAL 188
+1 Earthen Vessel PAR 163
+1 Buddy-Buddy Poffin TEF 144
+2 Luxurious Cape PAR 166
+1 Defiance Vest PAR 162
+1 Air Balloon BLK 79
+1 Technical Machine: Turbo Energize PAR 179
+1 Team Rocket's Watchtower DRI 180
+1 Festival Grounds TWM 149
+1 Artazon PAL 171
+1 Town Store OBF 196
+
+Energy: 5
+3 Basic {G} Energy SVE 9
+3 Basic {D} Energy SVE 15
+3 Basic {F} Energy SVE 14
+3 Mist Energy TEF 161
+1 Jet Energy PAL 190
+
+Total Cards: 60
