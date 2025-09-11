@@ -1,0 +1,31 @@
+Pokémon: 7
+1 Fezandipiti ex SFA 84
+2 Latias ex SSP 76
+3 Espathra ex PAF 6
+3 Magmar JTG 20 PH
+4 Flittle SVI 100 PH
+2 Volcanion ex JTG 31
+3 Magmortar JTG 21
+
+Trainer: 15
+3 Ultra Ball PAF 91
+3 Crispin SCR 133
+1 Counter Catcher PAR 160
+1 Super Rod PAL 276
+2 Jamming Tower TWM 153
+2 Switch SVI 194 PH
+4 Iono PAL 185
+2 Judge DRI 222
+1 Air Balloon BLK 79
+1 Night Stretcher SFA 61
+2 Technical Machine: Evolution PAR 178
+3 Pokégear 3.0 SVI 186
+2 Nest Ball SVI 181
+1 Precious Trolley SSP 185
+4 Arven SVI 166
+
+Energy: 2
+5 Basic {R} Energy SVE 10
+5 Basic {P} Energy SVE 13
+
+Total Cards: 60

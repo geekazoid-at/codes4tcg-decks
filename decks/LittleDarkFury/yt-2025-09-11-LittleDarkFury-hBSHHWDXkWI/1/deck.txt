@@ -1,0 +1,38 @@
+Pokémon: 9
+3 Croconaw TEF 40
+1 Shaymin DRI 10
+4 Totodile TEF 39
+2 Torchic DRI 40
+2 Combusken DRI 41
+3 Feraligatr TEF 41
+2 Blaziken ex JTG 24
+1 Relicanth TEF 84
+2 Munkidori PRE 44
+
+Trainer: 19
+2 Buddy-Buddy Poffin TEF 144 PH
+1 Super Rod PAL 188
+1 Secret Box TWM 163
+2 Artazon PAF 76
+1 Morty's Conviction TEF 155
+1 Rare Candy PAF 89
+2 Earthen Vessel PRE 106 PH
+2 Ultra Ball SVI 196
+1 Pokégear 3.0 BLK 84 PH
+1 Night Stretcher SFA 61
+4 Iono PAF 80
+1 Technical Machine: Devolution PAR 177
+2 Counter Catcher PAR 160
+2 Technical Machine: Evolution PAR 178
+1 Luxurious Cape PAR 166
+2 Professor's Research PRE 122
+1 Boss's Orders PAL 172
+4 Arven OBF 186
+1 Air Balloon BLK 79
+
+Energy: 3
+1 Basic {R} Energy BUS 167
+3 Basic {D} Energy BUS 168
+4 Basic {W} Energy CIN 124
+
+Total Cards: 60
