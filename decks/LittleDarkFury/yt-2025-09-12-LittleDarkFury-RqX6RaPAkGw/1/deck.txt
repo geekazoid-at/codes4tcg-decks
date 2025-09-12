@@ -1,0 +1,33 @@
+Pokémon: 7
+4 Machop MEW 66
+1 Dunsparce PRE 79
+4 Dudunsparce PRE 80
+3 Machamp MEW 68
+2 Dunsparce PAL 156
+2 Machoke MEW 67
+1 Cleffa OBF 80
+
+Trainer: 17
+2 Buddy-Buddy Poffin PRE 101
+2 Buddy-Buddy Poffin TWM 223
+2 Artazon PAL 171
+1 Morty's Conviction TEF 155
+3 Ultra Ball PAF 91
+3 Rare Candy SVI 191
+1 Exp. Share SVI 174
+4 Iono PAF 80
+4 Arven OBF 186
+2 Technical Machine: Evolution PAR 178
+2 Counter Catcher PAR 160
+1 Luxurious Cape PAR 166
+1 Earthen Vessel PRE 106
+1 Boss's Orders PAL 172
+1 Neutralization Zone SFA 60
+2 Hilda WHT 84 PH
+2 Super Rod PAL 188
+
+Energy: 2
+5 Basic {F} Energy GRI 169
+4 Reversal Energy PAL 192
+
+Total Cards: 60

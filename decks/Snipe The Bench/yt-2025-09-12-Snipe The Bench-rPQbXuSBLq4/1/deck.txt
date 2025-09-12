@@ -1,0 +1,35 @@
+Pokémon: 11
+3 Drakloak PRE 72
+3 Dreepy TWM 128
+1 Dragapult ex TWM 130
+3 Charmander PAF 7
+1 Togetic SSP 71
+1 Fezandipiti ex SFA 92
+2 Chi-Yu PAR 29
+2 Charmeleon PAF 8
+1 Togepi OBF 83
+1 Togekiss SSP 72
+3 Charizard ex OBF 125
+
+Trainer: 14
+2 Ultra Ball SVI 196
+3 Rare Candy SVI 191
+4 Arven OBF 186
+2 Jacq SVI 175
+2 Buddy-Buddy Poffin TEF 144
+1 Counter Catcher PAR 160
+3 Iono PAL 185
+1 Air Balloon BLK 79
+2 Super Rod PAL 188
+2 Technical Machine: Evolution PAR 178
+3 Pokégear 3.0 SVI 186
+1 Precious Trolley SSP 185
+1 Artazon PAL 171
+3 Boss's Orders PAL 172
+
+Energy: 3
+6 Basic {R} Energy SVE 10
+2 Luminous Energy PAL 191
+1 Jet Energy PAL 190
+
+Total Cards: 60

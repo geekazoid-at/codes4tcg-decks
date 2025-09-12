@@ -1,0 +1,34 @@
+Pokémon: 6
+4 Wugtrio PAF 224
+4 Wiglett SVI 56
+1 Victini GRI 10 PH
+1 Fezandipiti ex SFA 92
+1 Manaphy CRZ-GG 6
+2 Budew PRE 4 PH
+
+Trainer: 19
+2 Lana's Fishing Rod CEC 266
+4 Crushing Hammer UPR 166
+2 Adventure Bag LOT 228
+1 Field Blower SMALT 44
+2 Iono PAL 269
+4 Glimwood Tangle DAA 162
+3 Pokégear 3.0 SMALT 154
+2 Arven PAF 235
+1 Stadium Nav UNM 208
+1 Survival Brace TWM 164
+3 Buddy-Buddy Poffin TWM 223
+1 Rescue Carrier CRZ 142
+3 Counter Catcher PAR 264
+1 Xerosic's Machinations SFA 89
+2 Nest Ball SUM 158
+1 Redeemable Ticket JTG 156 PH
+3 Hilda WHT 164
+1 Air Balloon SSH 213
+2 Cursed Shovel RCL 157
+
+Energy: 2
+4 Reversal Energy PAR 266
+4 Triple Acceleration Energy UNB 234
+
+Total Cards: 60
