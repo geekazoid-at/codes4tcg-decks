@@ -1,0 +1,33 @@
+Pokémon: 9
+3 Sandile BLK 57
+2 Krokorok BLK 58
+2 Morelull SSP 8
+2 Shiinotic SSP 9
+2 Luxio TWM 67
+1 Fezandipiti ex SFA 38
+2 Luxray ex TWM 68
+1 Krookodile BLK 59
+2 Shinx PAL 69
+
+Trainer: 16
+2 Counter Catcher PAR 160
+1 Town Store OBF 196
+1 Unfair Stamp TWM 165
+1 Xerosic's Machinations SFA 64
+4 Judge SVI 176
+2 Exp. Share SVI 174
+2 Nest Ball SVI 181
+4 Arven OBF 186
+2 Air Balloon BLK 79
+1 Sacred Ash DRI 168
+4 Iono PAL 185
+1 Boss's Orders PAL 172 PH
+1 Super Rod PAL 188
+2 Rare Candy PAF 89
+4 Buddy-Buddy Poffin PRE 101
+2 Ultra Ball SVI 196
+
+Energy: 1
+9 Basic {D} Energy SVE 15
+
+Total Cards: 60

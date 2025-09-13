@@ -1,0 +1,42 @@
+Pokémon: 11
+1 Bloodmoon Ursaluna ex PRE 168
+2 Pansage PAR 4 PH
+1 Pansage BLK 89
+2 Pansear PAR 20 PH
+2 Simipour PAR 42 PH
+2 Panpour PAR 41 PH
+2 Simisage PAR 5 PH
+1 Panpour BLK 101
+1 Shaymin DRI 185
+2 Simisear PAR 21 PH
+1 Pansear WHT 99
+
+Trainer: 20
+1 Jacq SVI 250
+2 Professor's Research BLK 85 PH
+2 Earthen Vessel SFA 96
+1 Boss's Orders PAL 265
+2 Arven PAF 235
+1 Super Rod PAL 276
+4 Iono PAL 269
+1 Night Stretcher SSP 251
+1 Redeemable Ticket JTG 156 PH
+1 Professor Turo's Scenario PAR 257
+4 Ultra Ball BRS 186
+1 Air Balloon SSH 213
+1 Hilda WHT 171
+1 Artazon OBF 229
+2 Arven SVI 249
+2 Counter Catcher PAR 264
+1 Brave Bangle WHT 80 PH
+4 Pokégear 3.0 UNB 233
+1 Precious Trolley SSP 185
+2 Technical Machine: Evolution PAR 178 PH
+
+Energy: 4
+3 Basic {R} Energy SVE 18 PH
+1 Basic {W} Energy PAL 279
+3 Basic {G} Energy SVE 17 PH
+1 Luminous Energy TWM 226
+
+Total Cards: 60

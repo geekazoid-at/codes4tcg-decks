@@ -1,0 +1,32 @@
+Pokémon: 8
+1 Bloodmoon Ursaluna ex TWM 141
+1 Maractus JTG 8
+2 Flamigo PAR 106
+3 Munkidori TWM 95
+3 Snorunt TWM 51
+2 Flamigo OBF 185
+3 Froslass TWM 53
+2 Budew PRE 4
+
+Trainer: 15
+3 Counter Catcher PAR 160 PH
+2 Counter Gain SSP 169 PH
+1 Unfair Stamp TWM 165
+2 Artazon PAF 76
+1 Ultra Ball PAF 91
+3 Pokégear 3.0 SVI 186
+2 Night Stretcher SFA 61
+4 Arven OBF 186
+1 Air Balloon BLK 79
+2 Technical Machine: Devolution PAR 177
+4 Buddy-Buddy Poffin PRE 101
+1 Crispin SCR 133
+1 Nest Ball PAF 84 PH
+4 Iono PAF 80
+4 Professor's Research PRE 122
+
+Energy: 2
+5 Basic {D} Energy BUS 168
+3 Basic {F} Energy GRI 169
+
+Total Cards: 60

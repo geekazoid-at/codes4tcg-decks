@@ -1,0 +1,47 @@
+Pokémon: 13
+1 Pansage PAR 4 PH
+1 Bloodmoon Ursaluna ex PRE 168
+1 Fezandipiti ex SFA 92
+2 Simisear PAR 21 PH
+2 Pansear PAR 20 PH
+1 Budew PRE 4 PH
+1 Pansage BLK 89
+1 Panpour BLK 101
+1 Pansear WHT 99
+2 Simisage PAR 5 PH
+1 Panpour PAR 41 PH
+1 Shaymin DRI 185
+2 Simipour PAR 42 PH
+
+Trainer: 22
+1 Buddy-Buddy Poffin TWM 223
+1 Artazon OBF 229
+1 Precious Trolley SSP 185
+1 Super Rod PAL 276
+1 Professor Turo's Scenario PAR 257
+3 Earthen Vessel SFA 96
+1 Jacq SVI 250
+2 Professor's Research BLK 85 PH
+1 Brave Bangle WHT 80 PH
+1 Fennel BLK 162
+2 Technical Machine: Evolution PAR 178 PH
+2 Arven PAF 235
+2 Pokégear 3.0 UNB 233
+2 Boss's Orders PAL 265
+1 Nest Ball SUM 158
+1 Sacred Ash DRI 168 PH
+2 Hilda WHT 171
+2 Iono PAL 269
+2 Ultra Ball BRS 186
+2 Counter Catcher PAR 264
+2 Arven SVI 249
+1 Air Balloon SSH 213
+
+Energy: 5
+1 Luminous Energy TWM 226
+2 Basic {G} Energy SVE 17 PH
+3 Basic {R} Energy SVE 18 PH
+2 Ignition Energy WHT 86 PH
+1 Reversal Energy PAL 192 PH
+
+Total Cards: 60
