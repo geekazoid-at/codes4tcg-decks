@@ -1,0 +1,39 @@
+Pokémon: 9
+4 Crabrawler SCR 87
+1 Pidgey MEW 16
+1 Pidgeotto MEW 17
+2 Pidgeot ex OBF 164
+1 Cleffa OBF 80
+3 Crabominable SCR 42
+1 Pidgey OBF 162
+2 Veluza SCR 45
+1 Fezandipiti ex SFA 38
+
+Trainer: 21
+4 Kofu SCR 138
+1 Super Rod PAL 188
+2 Artazon PAF 76
+2 Rare Candy PAF 89 PH
+4 Nest Ball PAF 84
+1 Earthen Vessel PAR 163 PH
+3 Ultra Ball PAF 91
+1 Brilliant Blender SSP 164
+2 Iono PAL 185
+1 Gravity Mountain SSP 177
+1 Black Belt's Training PRE 96
+1 Night Stretcher SFA 61
+1 Counter Catcher PAR 160
+1 Redeemable Ticket JTG 156
+1 Professor's Research PRE 123
+2 Buddy-Buddy Poffin TEF 144
+4 Arven OBF 186
+2 Brave Bangle WHT 80
+1 Technical Machine: Crisis Punch PAF 90
+1 Air Balloon BLK 79 PH
+2 Boss's Orders PAL 172 PH
+
+Energy: 2
+4 Basic {W} Energy CIN 124
+2 Reversal Energy PAL 192
+
+Total Cards: 60

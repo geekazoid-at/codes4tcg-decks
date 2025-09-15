@@ -1,0 +1,35 @@
+Pokémon: 10
+3 Teal Mask Ogerpon ex TWM 25
+1 Munkidori TWM 95
+2 Duskull SFA 18
+1 Fezandipiti ex SFA 38
+3 Hoothoot SCR 114
+3 Noctowl SCR 115
+2 Fan Rotom SCR 118
+3 Sprigatito ex PR-SV 87
+1 Dusclops SFA 19
+1 Dusknoir SFA 20
+
+Trainer: 16
+1 Counter Catcher PAR 160
+2 Nest Ball PAF 84
+1 Air Balloon BLK 79 PH
+3 Energy Switch SVI 173
+1 Maximum Belt TEF 154
+1 Night Stretcher SFA 61
+1 Bravery Charm PAL 173
+2 Boss's Orders PAL 172
+3 Iono PAL 185
+4 Arven SVI 166
+1 Professor's Research JTG 155
+1 Earthen Vessel PRE 106
+3 Area Zero Underdepths SCR 131
+4 Buddy-Buddy Poffin TEF 144
+1 Rare Candy SVI 191
+1 Ultra Ball SVI 196
+
+Energy: 2
+6 Basic {G} Energy SVE 1
+4 Prism Energy BLK 86
+
+Total Cards: 60

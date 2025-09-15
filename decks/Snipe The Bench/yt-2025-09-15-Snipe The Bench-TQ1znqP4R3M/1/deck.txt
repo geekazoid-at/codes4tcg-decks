@@ -1,0 +1,31 @@
+Pokémon: 8
+4 Dunsparce PAL 156
+4 Conkeldurr TWM 105
+2 Fan Rotom PRE 85
+2 Gurdurr BLK 48
+4 Timburr BLK 47
+4 Dudunsparce TEF 129
+3 Brute Bonnet PAR 123
+1 Bloodmoon Ursaluna ex TWM 141
+
+Trainer: 14
+3 Ultra Ball SVI 196
+4 Buddy-Buddy Poffin PRE 101
+4 Rare Candy PAF 89
+1 Boss's Orders PAL 265
+1 Iono PAL 185
+2 Gravity Mountain SSP 177
+2 Colress's Tenacity SFA 57
+1 Town Store OBF 196
+1 Perilous Jungle TEF 156
+1 Sacred Ash DRI 168
+2 Binding Mochi SFA 55
+2 Artazon PAL 171
+4 Ancient Booster Energy Capsule PAR 159
+4 Hilda WHT 84
+
+Energy: 2
+1 Enriching Energy SSP 191
+3 Jet Energy PAL 190
+
+Total Cards: 60
