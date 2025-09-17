@@ -1,0 +1,33 @@
+Pokémon: 10
+1 Bloodmoon Ursaluna ex PRE 168
+1 Munkidori PRE 44 PH
+2 Pecharunt ex SFA 39
+1 Mew ex MEW 151
+2 Roaring Moon PRE 65
+1 Fezandipiti ex SFA 38
+2 Brute Bonnet PAR 123
+2 Roaring Moon ex PAR 124
+1 Squawkabilly ex PAL 169
+2 Pecharunt PR-SV 149
+
+Trainer: 15
+4 Ultra Ball SVI 196
+4 Ancient Booster Energy Capsule TEF 140
+3 Earthen Vessel PAR 163
+3 Energy Switch SVI 173
+1 Super Rod PAL 276
+1 Iono PAL 185
+4 Professor Sada's Vitality PAR 170
+1 Night Stretcher SFA 61
+1 Pokégear 3.0 SVI 186
+3 Perilous Jungle TEF 156
+1 Pal Pad SVI 182
+4 Nest Ball SVI 181
+1 Secret Box TWM 163
+4 Carmine TWM 145
+3 Boss's Orders PAL 172
+
+Energy: 1
+7 Basic {D} Energy SVE 15
+
+Total Cards: 60
