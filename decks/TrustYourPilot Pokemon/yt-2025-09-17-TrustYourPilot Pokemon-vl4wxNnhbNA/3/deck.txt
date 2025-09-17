@@ -1,0 +1,30 @@
+Pokémon: 20
+4 Teal Mask Ogerpon ex TWM 25
+3 Bulbasaur MEG 1
+3 Ivysaur MEG 2
+2 Chikorita MEG 8
+2 Bayleef MEG 9
+2 Meganium MEG 10
+2 Mega Venusaur ex MEG 3
+1 Fezandipiti ex SFA 38
+1 Mew ex MEW 151
+
+Trainer: 30
+4 Lillie's Determination MEG 119
+4 Iono PAL 185
+2 Boss's Orders PAL 172
+1 Professor Turo's Scenario PAR 171
+4 Bug Catching Set TWM 143
+4 Nest Ball SVI 181
+2 Ultra Ball SVI 196
+1 Night Stretcher SFA 61
+1 Counter Catcher PAR 160
+1 Earthen Vessel PAR 163
+1 Superior Energy Retrieval PAL 189
+1 Max Rod PRE 116
+4 Forest of Vitality MEG 117
+
+Energy: 10
+10 Basic {G} Energy SVE 1
+
+Total Cards: 60

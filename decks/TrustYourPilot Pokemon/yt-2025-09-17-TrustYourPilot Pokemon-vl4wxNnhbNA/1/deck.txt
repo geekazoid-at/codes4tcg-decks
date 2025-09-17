@@ -1,0 +1,33 @@
+Pokémon: 17
+4 Ralts MEG 58
+3 Kirlia MEG 59
+2 Gardevoir ex PAF 29
+3 Munkidori TWM 95
+1 Mega Gardevoir ex MEG 60
+1 Scream Tail PRE 42
+1 Lillie's Clefairy ex JTG 56
+1 Mew ex MEW 151
+1 Drifloon SVI 89
+
+Trainer: 32
+4 Lillie's Determination MEG 119
+3 Professor's Research PRE 122
+3 Iono PAL 185
+4 Ultra Ball SVI 196
+3 Buddy-Buddy Poffin TEF 144
+2 Counter Catcher PAR 160
+2 Night Stretcher SFA 61
+2 Earthen Vessel PAR 163
+2 Nest Ball SVI 181
+1 Rare Candy SVI 191
+1 Secret Box TWM 163
+1 Super Rod PAL 188
+1 Bravery Charm PAL 173
+2 Mystery Garden MEG 122
+1 Artazon PAL 171
+
+Energy: 11
+8 Basic {P} Energy SVE 5
+3 Basic {D} Energy SVE 7
+
+Total Cards: 60
