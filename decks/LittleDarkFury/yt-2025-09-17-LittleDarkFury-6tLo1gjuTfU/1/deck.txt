@@ -1,0 +1,29 @@
+Pokémon: 4
+4 Iron Thorns ex TWM 77
+
+Trainer: 45
+4 Arven OBF 186
+4 Crispin SCR 133
+4 Boss's Orders PAL 172
+3 Professor's Research JTG 155
+3 Judge DRI 167
+2 Penny SVI 183
+1 Giovanni's Charisma MEW 161
+4 Crushing Hammer SVI 168
+4 Pokémon Catcher SVI 187
+4 Pokégear 3.0 SVI 186
+2 Techno Radar PAR 180
+1 Energy Search SVI 172
+1 Prime Catcher TEF 157
+3 Future Booster Energy Capsule TEF 149
+1 Technical Machine: Devolution PAR 177
+1 Technical Machine: Turbo Energize PAR 179
+3 Team Rocket's Watchtower DRI 180
+
+Energy: 11
+6 Basic {L} Energy SVE 4
+2 Basic {R} Energy SVE 2
+2 Basic {G} Energy SVE 1
+1 Basic {D} Energy SVE 7
+
+Total Cards: 60
