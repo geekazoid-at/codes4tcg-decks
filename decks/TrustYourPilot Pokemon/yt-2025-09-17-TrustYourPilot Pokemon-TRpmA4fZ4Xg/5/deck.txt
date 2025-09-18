@@ -1,0 +1,31 @@
+Pokémon: 19
+4 Nincada MEG 16
+4 Shedinja MEG 61
+4 Uxie SSP 78
+1 Rellor TEF 23
+1 Rabsca TEF 24
+1 Vullaby WHT 63
+1 Mandibuzz WHT 64
+1 Budew PRE 4
+1 Cleffa OBF 80
+1 Psyduck MEP 7
+
+Trainer: 34
+4 Lillie's Determination MEG 119
+4 Iono PAL 185
+4 Buddy-Buddy Poffin TEF 144
+3 Accompanying Flute TWM 142
+2 Night Stretcher SFA 61
+2 Earthen Vessel PAR 163
+2 Counter Catcher PAR 160
+4 Vengeful Punch OBF 197
+2 Technical Machine: Devolution PAR 177
+2 Air Balloon BLK 79
+1 Gravity Gemstone SCR 137
+3 Risky Ruins MEG 127
+1 Neutralization Zone SFA 60
+
+Energy: 7
+7 Basic {P} Energy SVE 5
+
+Total Cards: 60

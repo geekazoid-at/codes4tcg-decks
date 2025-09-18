@@ -1,0 +1,37 @@
+Pokémon: 19
+4 Tinkatink PR-SV 25
+4 Tinkatuff MEG 97
+3 Tinkaton MEG 98
+2 Elgyem BLK 40
+1 Toedscool JTG 88
+1 Toedscruel PAR 17
+1 Budew PRE 4
+1 Cleffa OBF 80
+1 Bloodmoon Ursaluna ex TWM 141
+1 Fezandipiti ex SFA 38
+
+Trainer: 36
+4 Lillie's Determination MEG 119
+4 Iono PAL 185
+2 Boss's Orders PAL 172
+4 Crushing Hammer SVI 168
+4 Buddy-Buddy Poffin TEF 144
+2 Rare Candy SVI 191
+2 Energy Search SVI 172
+2 Counter Catcher PAR 160
+1 Enhanced Hammer TWM 148
+1 Super Rod PAL 188
+1 Night Stretcher SFA 61
+4 Handheld Fan TWM 150
+1 Air Balloon BLK 79
+1 Artazon PAL 171
+1 Brave Bangle WHT 80
+1 Pokémon League Headquarters OBF 192
+1 Eri TEF 146
+
+Energy: 8
+4 Luminous Energy PAL 191
+2 Basic {P} Energy SVE 5
+2 Basic {M} Energy SVE 8
+
+Total Cards: 60
