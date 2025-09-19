@@ -1,0 +1,35 @@
+Pokémon: 10
+1 Shaymin DRI 10
+3 Drakloak TWM 129
+3 Munkidori TWM 95
+3 Dreepy TWM 128
+2 Froslass TWM 53
+1 Maractus JTG 8
+2 Dragapult ex TWM 130
+2 Budew PRE 4
+2 Snorunt PAR 37
+1 Bloodmoon Ursaluna ex TWM 141
+
+Trainer: 14
+1 Ultra Ball SVI 196
+2 Arven OBF 186
+1 Jacq SVI 175
+1 Crispin SCR 133
+4 Buddy-Buddy Poffin TEF 144
+4 Counter Catcher PAR 160
+4 Iono PAL 185
+2 Air Balloon BLK 79
+1 Technical Machine: Devolution PAR 177
+3 Night Stretcher SFA 61
+1 Technical Machine: Evolution PAR 178
+2 Professor's Research JTG 155
+1 Unfair Stamp TWM 165
+3 Artazon PAL 171
+
+Energy: 4
+3 Basic {D} Energy SVE 23
+2 Basic {R} Energy SVE 18
+3 Luminous Energy PAL 191
+2 Basic {P} Energy SVE 21
+
+Total Cards: 60
