@@ -1,0 +1,32 @@
+Pokémon: 23
+3 Applin TWM 17
+3 Dipplin TWM 18
+2 Hydrapple ex SCR 14
+3 Chikorita MEG 8
+3 Bayleef MEG 9
+2 Meganium MEG 10
+3 Teal Mask Ogerpon ex TWM 25
+1 Toedscool SCR 17
+1 Toedscruel PAR 17
+1 Budew PRE 4
+1 Fezandipiti ex SFA 38
+
+Trainer: 28
+4 Iono PAL 185
+4 Lillie's Determination MEG 119
+2 Boss's Orders PAL 172
+4 Bug Catching Set TWM 143
+2 Nest Ball SVI 181
+2 Ultra Ball SVI 196
+2 Buddy-Buddy Poffin TEF 144
+1 Night Stretcher SFA 61
+1 Superior Energy Retrieval PAL 189
+1 Counter Catcher PAR 160
+1 Max Rod PRE 116
+1 Super Rod PAL 188
+3 Forest of Vitality MEG 117
+
+Energy: 9
+9 Basic {G} Energy SVE 1
+
+Total Cards: 60
