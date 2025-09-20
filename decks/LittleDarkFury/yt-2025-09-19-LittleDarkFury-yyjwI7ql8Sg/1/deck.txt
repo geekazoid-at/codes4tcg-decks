@@ -1,0 +1,35 @@
+Pokémon: 11
+2 Wartortle MEW 8
+1 Frigibax PAF 17
+1 Dunsparce PRE 79
+2 Baxcalibur PAL 60
+2 Dunsparce PAL 156
+1 Fezandipiti ex SFA 38
+3 Dudunsparce PRE 80
+2 Blastoise ex MEW 9
+1 Frigibax PAL 57
+3 Squirtle PR-SV 48
+1 Arctibax PAL 59
+
+Trainer: 15
+2 Earthen Vessel PRE 106
+2 Rare Candy PAF 89 PH
+3 Superior Energy Retrieval PAL 189
+1 Night Stretcher SFA 61
+1 Air Balloon BLK 79
+3 Great Ball PAL 183
+1 Black Belt's Training PRE 96
+2 Artazon PAF 76
+1 Technical Machine: Evolution PAR 178
+4 Buddy-Buddy Poffin PRE 101
+1 Boss's Orders PAL 172 PH
+1 Pal Pad SVI 182
+4 Arven OBF 186
+4 Hilda WHT 84
+1 Nest Ball SVI 181
+
+Energy: 2
+1 Enriching Energy SSP 191
+9 Basic {W} Energy CIN 124
+
+Total Cards: 60
