@@ -1,0 +1,35 @@
+Pokémon: 7
+2 Hydreigon ex SSP 119
+4 Deino SSP 117
+2 Morpeko PAR 121
+2 Hydreigon ex WHT 67
+1 Fezandipiti ex SFA 38
+3 Zweilous WHT 66
+1 Hydreigon PAL 140
+
+Trainer: 19
+1 Counter Catcher PAR 160
+1 Nest Ball PAF 84
+2 Academy at Night SFA 54
+1 Exp. Share SVI 174
+2 Counter Gain SSP 169
+1 Energy Retrieval SVI 171
+4 Pokégear 3.0 SVI 186
+2 Boss's Orders PAL 172
+4 Iono PAL 185
+4 Arven SVI 166
+2 Technical Machine: Evolution PAR 178
+1 Super Rod PAL 188
+1 Professor's Research JTG 155
+2 Earthen Vessel PRE 106
+4 Buddy-Buddy Poffin TEF 144
+1 Technical Machine: Crisis Punch PAF 90
+1 Ultra Ball SVI 196
+1 Switch SVI 194
+2 Rare Candy SVI 191
+
+Energy: 2
+7 Basic {D} Energy SVE 15
+1 Neo Upper Energy TEF 162
+
+Total Cards: 60

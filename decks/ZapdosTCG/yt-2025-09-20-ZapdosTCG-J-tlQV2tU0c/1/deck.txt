@@ -1,0 +1,32 @@
+Pokémon: 11
+4 Okidogi TWM 111
+3 Munkidori TWM 95
+2 Cornerstone Mask Ogerpon ex TWM 112
+1 Maractus JTG 8
+1 Mimikyu PAL 97
+
+Trainer: 35
+4 Boss's Orders PAL 172
+3 Crispin SCR 133
+3 Colress's Tenacity SFA 57
+2 Professor's Research JTG 155
+2 Lana's Aid TWM 155
+2 Morty's Conviction TEF 155
+4 Nest Ball SVI 181
+4 Pokégear 3.0 SVI 186
+2 Night Stretcher SFA 61
+2 Bravery Charm PAL 173
+2 Air Balloon BLK 79
+1 Luxurious Cape PAR 166
+1 Technical Machine: Devolution PAR 177
+2 Artazon PAL 171
+1 Town Store OBF 196
+
+Energy: 14
+5 Basic {F} Energy SVE 6
+4 Prism Energy BLK 86
+3 Basic {D} Energy SVE 7
+1 Legacy Energy TWM 167
+1 Basic {P} Energy SVE 5
+
+Total Cards: 60
