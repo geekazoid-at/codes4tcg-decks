@@ -1,0 +1,39 @@
+Pokémon: 18
+3 Froakie OBF 56
+1 Frogadier TWM 57
+2 Greninja ex TWM 106
+2 Duskull PRE 35
+1 Dusclops PRE 36
+2 Dusknoir PRE 37
+2 Pidgey MEW 16
+1 Pidgeotto MEW 17
+2 Pidgeot ex OBF 164
+1 Budew PRE 4
+1 Fezandipiti ex SFA 38
+
+Trainer: 35
+3 Arven OBF 186
+2 Boss's Orders PAL 172
+2 Colress's Tenacity SFA 57
+2 Hilda WHT 84
+1 Iono PAL 185
+4 Buddy-Buddy Poffin TEF 144
+4 Rare Candy SVI 191
+4 Ultra Ball SVI 196
+2 Night Stretcher SFA 61
+2 Super Rod PAL 188
+1 Counter Catcher PAR 160
+1 Pal Pad SVI 182
+1 Switch SVI 194
+1 Tool Scrapper WHT 85
+1 Energy Search SVI 172
+1 Nest Ball SVI 181
+1 Air Balloon BLK 79
+1 Grand Tree SCR 136
+1 Jamming Tower TWM 153
+
+Energy: 7
+4 Basic {W} Energy SVE 3
+3 Ignition Energy WHT 86
+
+Total Cards: 60
