@@ -1,0 +1,36 @@
+Pokémon: 11
+1 Munkidori PRE 44
+2 Combee PAL 8
+1 Bloodmoon Ursaluna ex TWM 141
+1 Fezandipiti ex SFA 38
+1 Iron Hands ex PAR 70
+1 Hawlucha SVI 118
+2 Vespiquen ex OBF 96
+1 Lillie's Clefairy ex JTG 56
+1 Tatsugiri TWM 131
+3 Yanma DRI 2
+3 Yanmega ex DRI 3
+
+Trainer: 15
+4 Buddy-Buddy Poffin TEF 144
+1 Hilda WHT 84 PH
+2 Super Rod PAL 188
+1 Artazon PAF 76
+1 Prime Catcher PRE 119
+2 Nest Ball SVI 181
+2 Switch SVI 194
+3 Ultra Ball PAF 91
+1 Counter Catcher PAR 160 PH
+4 Iono PAF 80
+2 Boss's Orders PAL 172
+1 Night Stretcher SFA 61
+4 Professor's Research PRE 123
+2 Air Balloon BLK 79 PH
+1 Surfer SSP 187
+
+Energy: 3
+2 Jet Energy PAL 190
+8 Basic {G} Energy GRI 167
+2 Luminous Energy PAL 191
+
+Total Cards: 60

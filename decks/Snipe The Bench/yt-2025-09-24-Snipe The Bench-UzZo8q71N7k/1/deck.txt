@@ -1,0 +1,38 @@
+Pokémon: 8
+1 Farigiraf ex TEF 108
+4 Munkidori TWM 95
+4 Chansey MEW 113
+1 Eevee SSP 143
+1 Girafarig TWM 83
+1 Leafeon ex PRE 6
+2 Cornerstone Mask Ogerpon ex TWM 112
+3 Blissey ex TWM 134
+
+Trainer: 19
+1 Counter Catcher PAR 160
+2 Town Store OBF 196
+1 Precious Trolley SSP 185
+1 Rigid Band MEW 165
+1 Exp. Share SVI 174
+3 Pokégear 3.0 SVI 186
+2 Night Stretcher SFA 61
+1 Nest Ball SVI 181
+4 Arven OBF 186
+3 Boss's Orders PAL 172
+1 Air Balloon BLK 79
+4 Iono PAL 185
+1 Professor Turo's Scenario PAR 171
+2 Technical Machine: Turbo Energize PAR 179
+1 Technical Machine: Evolution PAR 178
+1 Professor's Research JTG 155
+3 Ultra Ball SVI 196
+1 Switch SVI 194
+1 Earthen Vessel PAR 163
+
+Energy: 4
+2 Basic {F} Energy SVE 22
+1 Basic {G} Energy SVE 17
+2 Basic {P} Energy SVE 21
+4 Basic {D} Energy SVE 23
+
+Total Cards: 60
