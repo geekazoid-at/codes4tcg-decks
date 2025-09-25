@@ -1,0 +1,38 @@
+Pokémon: 12
+2 Jellicent ex WHT 45
+2 Xatu PAR 72
+2 Natu PAF 25
+1 Fezandipiti ex SFA 38
+3 Frillish WHT 44
+2 Abra MEW 63
+1 Kadabra MEW 64
+1 Mimikyu PAL 97
+1 Abra TWM 80
+3 Alakazam ex MEW 65
+1 Cornerstone Mask Ogerpon ex TWM 112
+1 Lillie's Clefairy ex JTG 56
+
+Trainer: 17
+3 Buddy-Buddy Poffin TEF 144 PH
+4 Iono PAF 80 PH
+2 Boss's Orders PAL 172
+1 Morty's Conviction TEF 155
+1 Secret Box TWM 163
+1 Hilda WHT 84
+1 Artazon PAF 76
+3 Nest Ball SVI 181
+1 Earthen Vessel PRE 106 PH
+3 Ultra Ball PAF 91
+2 Rare Candy PAF 89
+1 Night Stretcher SFA 61
+4 Arven OBF 186
+1 Technical Machine: Devolution PAR 177
+1 Technical Machine: Evolution PAR 178
+1 Professor's Research PRE 124
+1 Air Balloon BLK 79 PH
+
+Energy: 2
+8 Basic {P} Energy SUM 162
+1 Luminous Energy PAL 191
+
+Total Cards: 60
