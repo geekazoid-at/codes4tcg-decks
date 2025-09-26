@@ -1,0 +1,36 @@
+Pokémon: 11
+2 Alakazam MEP 9
+1 Alakazam MEG 56
+4 Kadabra MEG 55
+3 Abra MEG 54
+3 Dudunsparce TEF 129
+4 Dunsparce PAL 156
+1 Fezandipiti ex SFA 92
+1 Shaymin DRI 10
+1 Togepi OBF 83
+1 Abra TWM 80
+1 Togekiss SSP 72
+
+Trainer: 16
+2 Exp. Share BST 180
+2 Boss's Orders RCL 189
+4 Hilda WHT 164
+4 Buddy-Buddy Poffin TWM 223
+1 Lillie's Determination MEG 169
+3 Lillie's Determination MEG 119
+1 Counter Catcher PAR 264
+2 Tulip PAR 259
+2 Artazon OBF 229
+1 Bill's Transfer MEW 194
+3 Great Ball PAL 183
+3 Rare Candy PLB 105
+1 Night Stretcher SSP 251
+1 Sacred Ash DRI 168 PH
+1 Nest Ball SVI 255
+1 Lt. Surge's Bargain MEG 170
+
+Energy: 2
+5 Basic {P} Energy SUM 162
+1 Enriching Energy SSP 191
+
+Total Cards: 60

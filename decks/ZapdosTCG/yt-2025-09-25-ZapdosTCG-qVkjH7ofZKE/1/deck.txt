@@ -1,0 +1,32 @@
+Pokémon: 15
+3 Riolu MEG 76
+1 Lucario SVI 114
+2 Mega Lucario ex MEG 77
+3 Makuhita MEG 72
+2 Hariyama MEG 73
+2 Solrock MEG 75
+2 Lunatone MEG 74
+
+Trainer: 35
+4 Lillie's Determination MEG 119
+3 Professor's Research JTG 155
+2 Iono PAL 185
+2 Professor Turo's Scenario PAR 171
+1 Boss's Orders PAL 172
+4 Fight Gong MEG 116
+4 Premium Power Pro MEG 124
+3 Ultra Ball SVI 196
+3 Night Stretcher SFA 61
+1 Nest Ball SVI 181
+2 Air Balloon BLK 79
+1 Maximum Belt TEF 154
+1 Exp. Share SVI 174
+2 Artazon PAL 171
+1 Town Store OBF 196
+1 Gravity Mountain SSP 177
+
+Energy: 10
+9 Basic {F} Energy SVE 6
+1 Reversal Energy PAL 192
+
+Total Cards: 60
