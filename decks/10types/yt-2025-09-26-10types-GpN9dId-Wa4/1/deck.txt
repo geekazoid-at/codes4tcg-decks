@@ -1,0 +1,27 @@
+Pokémon: 7
+4 Hydreigon ex SSP 119
+4 Togekiss SSP 72
+1 Tatsugiri ex SSP 142
+4 Cinderace MEG 28
+1 Zweilous PAL 139
+4 Hydreigon PAL 140
+4 Dusknoir SFA 20
+
+Trainer: 7
+4 Town Store OBF 196
+3 Tera Orb SSP 189
+4 Call Bell SSP 165
+4 Nest Ball SVI 181
+4 Snorlax Doll PAR 175
+4 Crispin SCR 133
+1 Sparkling Crystal PRE 129
+
+Energy: 6
+1 Basic {R} Energy SVE 10
+4 Luminous Energy PAL 191
+3 Basic {D} Energy SVE 15
+2 Basic {W} Energy SVE 11
+2 Basic {P} Energy SVE 13
+2 Basic {M} Energy SVE 16
+
+Total Cards: 60
