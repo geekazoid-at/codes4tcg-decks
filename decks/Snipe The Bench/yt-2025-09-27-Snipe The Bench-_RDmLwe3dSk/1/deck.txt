@@ -1,0 +1,27 @@
+Pokémon: 3
+2 Pineco PAL 4
+2 Forretress ex PAL 5
+4 Mega Kangaskhan ex MEG 104
+
+Trainer: 16
+4 Ultra Ball SVI 196
+4 Ciphermaniac's Codebreaking PRE 104
+4 Counter Catcher PAR 160
+3 Acerola's Mischief MEG 113
+2 Boss's Orders MEG 114
+2 Forest of Vitality MEG 117
+2 Night Stretcher SFA 61
+1 Poké Vital A SFA 62
+3 Super Potion JTG 158
+4 Iono PAF 80
+1 Protective Goggles MEW 164
+4 Pokégear 3.0 SVI 186
+4 Picnic Basket SVI 184
+1 Pal Pad SVI 182
+4 Nest Ball PAF 84
+1 Bravery Charm PAL 173
+
+Energy: 1
+8 Basic {G} Energy SVE 9
+
+Total Cards: 60
