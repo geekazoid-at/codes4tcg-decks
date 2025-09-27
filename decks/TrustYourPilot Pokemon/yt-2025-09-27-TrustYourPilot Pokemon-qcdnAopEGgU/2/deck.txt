@@ -1,0 +1,30 @@
+Pokémon: 10
+1 Toedscool PAR 16
+4 Teal Mask Ogerpon ex TWM 25
+2 Meganium MEG 10
+1 Mew ex MEW 151
+2 Bayleef MEG 9
+2 Chikorita MEG 8
+3 Bulbasaur MEG 1
+2 Mega Venusaur ex MEG 3
+2 Ivysaur MEG 2
+1 Toedscruel PAR 17
+
+Trainer: 12
+3 Forest of Vitality MEG 117
+1 Counter Catcher PAR 160
+4 Bug Catching Set TWM 143
+1 Max Rod PRE 116
+2 Night Stretcher SFA 61
+3 Nest Ball SVI 181
+2 Boss's Orders PAL 172
+4 Iono PAL 185
+1 Professor Turo's Scenario PAR 171
+1 Superior Energy Retrieval PAL 189
+4 Lillie's Determination MEG 119
+3 Ultra Ball SVI 196
+
+Energy: 1
+11 Basic {G} Energy SVE 1
+
+Total Cards: 60

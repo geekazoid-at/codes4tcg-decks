@@ -1,0 +1,37 @@
+Pokémon: 15
+1 Bloodmoon Ursaluna ex PRE 168
+2 Miraidon ex SVI 253
+1 Eelektrik BLK 31 PH
+2 Iron Hands ex PRE 154
+1 Squawkabilly ex PAL 247
+1 Tapu Koko ex PAR 68
+1 Latias ex SSP 239
+1 Zekrom ex BLK 172
+1 Tynamo BLK 30 PH
+1 Mew ex MEW 151
+1 Magneton PR-SV 159
+1 Magnemite PAL 65 PH
+1 Fezandipiti ex SFA 92
+1 Maractus JTG 8 PH
+1 Zapdos ex MEW 145
+
+Trainer: 14
+4 Ultra Ball PLF 122
+4 Carmine TWM 217
+4 Electric Generator PAF 79 PH
+1 Super Rod PAL 276
+2 Iono PAL 269
+1 Air Balloon SSH 213
+2 Professor's Research SVI 240
+1 Prime Catcher TEF 157
+1 Academy at Night SFA 54 PH
+1 Counter Catcher PAR 264
+1 Counter Gain SSP 249
+1 Pokégear 3.0 UNB 233
+2 Boss's Orders RCL 189
+4 Nest Ball SVI 255
+
+Energy: 1
+14 Basic {L} Energy EVO 94
+
+Total Cards: 60

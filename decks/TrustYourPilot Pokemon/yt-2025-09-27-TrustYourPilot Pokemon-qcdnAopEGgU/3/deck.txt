@@ -1,0 +1,31 @@
+Pokémon: 8
+3 Bulbasaur MEG 1
+3 Mega Venusaur ex MEG 3
+3 Ivysaur MEG 2
+4 Teal Mask Ogerpon ex TWM 25
+1 Toedscruel ex OBF 22
+2 Toedscool PAR 16
+1 Fezandipiti ex SFA 38
+1 Toedscruel PAR 17
+
+Trainer: 15
+2 Ultra Ball SVI 196
+1 Area Zero Underdepths SCR 131
+4 Lillie's Determination MEG 119
+1 Counter Catcher PAR 160
+4 Iono PAL 185
+1 Air Balloon BLK 79
+1 Professor Turo's Scenario PAR 171
+3 Forest of Vitality MEG 117
+2 Night Stretcher SFA 61
+1 Superior Energy Retrieval PAL 189
+1 Picnic Basket SVI 184
+2 Nest Ball SVI 181
+1 Secret Box TWM 163
+4 Bug Catching Set TWM 143
+2 Boss's Orders PAL 172
+
+Energy: 1
+12 Basic {G} Energy SVE 9
+
+Total Cards: 60
