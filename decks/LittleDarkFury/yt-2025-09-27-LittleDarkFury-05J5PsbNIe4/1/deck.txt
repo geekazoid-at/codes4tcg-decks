@@ -1,0 +1,33 @@
+Pokémon: 7
+2 Magmar MEW 126
+4 Numel OBF 31
+2 Volcarona BLK 16
+2 Magmortar JTG 21
+3 Larvesta JTG 28
+3 Mega Camerupt ex MEG 22
+1 Fezandipiti ex SFA 38
+
+Trainer: 17
+1 Night Stretcher SFA 61 PH
+4 Lillie's Determination MEG 119
+1 Precious Trolley SSP 185
+2 Artazon PAL 171
+2 Hilda WHT 84
+1 Rigid Band MEW 165
+2 Nest Ball SVI 181
+1 Switch SVI 194
+4 Ultra Ball PAF 91
+2 Pokégear 3.0 BLK 84 PH
+1 Wally's Compassion MEG 132
+2 Iono PAL 185
+4 Arven SVI 166
+1 Technical Machine: Evolution PAR 178
+2 Boss's Orders MEG 114 PH
+1 Energy Retrieval SVI 171
+2 Air Balloon BLK 79 PH
+
+Energy: 2
+8 Basic {R} Energy BUS 167
+2 Ignition Energy WHT 86
+
+Total Cards: 60
