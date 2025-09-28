@@ -1,0 +1,37 @@
+Pokémon: 14
+1 Girafarig LOT 94
+1 Squawkabilly ex PAL 264
+1 Trumbeak LOT 165
+1 Eldegoss V PR-SW 84
+1 Latias ex SSP 239
+2 Dedenne-GX SMALT 156
+2 Zoroark-GX SMALT 51
+1 Crobat V PR-SW 110
+2 Honchkrow-GX UNB 109
+1 Marshadow UNB 81
+2 Terapagos ex SCR 170
+2 Mewtwo & Mew-GX SMP 191
+2 Zorua EVS 102
+1 Lumineon V CRZ-GG 39
+
+Trainer: 15
+2 Battle VIP Pass FST 225 PH
+4 Ultra Ball SUM 161
+4 Quick Ball SSH 216
+2 Air Balloon SSH 213
+2 Xerosic's Machinations SFA 89
+3 Rescue Stretcher BUS 165
+2 Pal Pad FLF 92 PH
+1 Guzma HIF 153
+1 Escape Rope BUS 163
+2 Forest Seal Stone SIT 156
+1 Secret Box TWM 163
+2 Hisuian Heavy Ball ASR 146 PH
+4 Area Zero Underdepths SCR 174
+4 Cherish Ball UNM 250
+2 Hiker HIF 154
+
+Energy: 1
+4 Double Colorless Energy GRI 166
+
+Total Cards: 60
