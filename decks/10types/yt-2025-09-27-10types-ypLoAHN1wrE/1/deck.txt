@@ -1,0 +1,31 @@
+Pokémon: 7
+2 Pheromosa-GX SMP 66
+2 Marshadow-GX BUS 80
+1 Diancie {*} FLI 74
+1 Latias ex SSP 76
+2 Dedenne-GX UNB 57
+2 Squawkabilly ex PAL 169
+1 Crobat V DAA 104
+
+Trainer: 16
+1 Choice Band GRI 121
+4 Ultra Ball SVI 196
+4 Quick Ball FST 237
+4 Order Pad UPR 131
+4 Trekking Shoes ASR 156
+4 Cram-o-matic FST 229
+2 Hisuian Heavy Ball ASR 146
+4 Battle VIP Pass FST 225
+2 Net Ball LOT 187
+4 Team Rocket's Venture Bomb DRI 179
+2 PokéStop PGO 68
+1 Air Balloon SSH 156
+4 Acro Bike CES 123
+1 Choice Belt BRS 135
+2 Carmine TWM 145
+4 Premium Power Pro MEG 124
+
+Energy: 1
+2 Basic {G} Energy SVE 1
+
+Total Cards: 60
