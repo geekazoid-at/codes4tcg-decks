@@ -5,7 +5,7 @@ Pokémon: 20
 2 Pidgey MEW 16
 2 Pidgeot ex OBF 164
 2 Brute Bonnet PAR 123
-1 Psyduck MEP 7
+1 Psyduck MEG 7
 1 Latias ex SSP 76
 1 Fezandipiti ex SFA 38
 1 Budew PRE 4

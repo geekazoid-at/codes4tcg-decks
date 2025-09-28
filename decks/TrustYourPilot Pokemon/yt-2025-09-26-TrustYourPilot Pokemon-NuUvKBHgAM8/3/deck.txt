@@ -1,6 +1,6 @@
 Pokémon: 8
 3 Riolu MEG 76
-1 Psyduck MEP 7
+1 Psyduck MEG 7
 2 Lunatone MEG 74
 2 Makuhita MEG 72
 1 Lucario SVI 114
