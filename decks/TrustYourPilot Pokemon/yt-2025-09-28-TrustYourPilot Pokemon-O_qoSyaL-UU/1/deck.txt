@@ -1,0 +1,33 @@
+Pokémon: 9
+4 Alakazam MEG 56
+1 Psyduck MEP 7
+4 Dudunsparce TEF 129
+2 Abra MEG 54
+4 Dunsparce PAL 156
+1 Fezandipiti ex SFA 38
+4 Kadabra MEG 55
+1 Budew PRE 4
+2 Abra TWM 80
+
+Trainer: 16
+1 Counter Catcher PAR 160
+1 Jacq SVI 175
+1 Strange Timepiece MEG 128
+2 Morty's Conviction TEF 155
+1 Night Stretcher SFA 61
+1 Pal Pad SVI 182
+4 Nest Ball SVI 181
+2 Bill's Transfer MEW 156
+2 Artazon PAL 171
+1 Boss's Orders PAL 172
+1 Hyper Aroma TWM 152
+3 Great Ball PAL 183
+1 Tulip PAR 181
+4 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+2 Rare Candy SVI 191
+
+Energy: 1
+6 Basic {P} Energy SVE 5
+
+Total Cards: 60
