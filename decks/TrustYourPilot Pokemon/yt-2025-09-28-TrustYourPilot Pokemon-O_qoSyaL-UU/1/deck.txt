@@ -1,6 +1,6 @@
 Pokémon: 9
 4 Alakazam MEG 56
-1 Psyduck MEG 7
+1 Psyduck MEP 7
 4 Dudunsparce TEF 129
 2 Abra MEG 54
 4 Dunsparce PAL 156

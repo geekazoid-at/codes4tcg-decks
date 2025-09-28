@@ -7,7 +7,7 @@ Pokémon: 16
 1 Iron Bundle PAR 56
 1 Fezandipiti ex SFA 38
 1 Squawkabilly ex PAL 169
-1 Psyduck MEG 7
+1 Psyduck MEP 7
 
 Trainer: 35
 4 Professor's Research PRE 122

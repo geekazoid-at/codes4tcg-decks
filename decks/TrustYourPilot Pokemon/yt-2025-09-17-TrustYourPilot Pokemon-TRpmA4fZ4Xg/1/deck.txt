@@ -8,7 +8,7 @@ Pokémon: 24
 1 Budew PRE 4
 1 Shaymin DRI 10
 1 Fezandipiti ex SFA 38
-1 Psyduck MEG 7
+1 Psyduck MEP 7
 
 Trainer: 30
 3 Lillie's Determination MEG 119
