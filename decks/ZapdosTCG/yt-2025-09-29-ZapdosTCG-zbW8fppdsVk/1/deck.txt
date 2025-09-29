@@ -1,0 +1,30 @@
+Pokémon: 8
+4 Mega Kangaskhan ex MEG 104
+2 Pineco PAL 4
+2 Forretress ex PAL 5
+
+Trainer: 44
+4 Iono PAL 185
+4 Acerola's Mischief MEG 113
+4 Ciphermaniac's Codebreaking TEF 145
+2 Boss's Orders MEG 114
+4 Counter Catcher PAR 160
+4 Picnic Basket SVI 184
+4 Pokégear 3.0 SVI 186
+3 Nest Ball SVI 181
+3 Ultra Ball MEG 131
+2 Pal Pad SVI 182
+1 Super Potion JTG 158
+1 Night Stretcher MEG 173
+1 Miracle Headset SSP 183
+1 Bravery Charm PAL 173
+1 Vitality Band SVI 197
+1 Protective Goggles MEW 164
+2 Team Rocket's Watchtower DRI 180
+1 Forest of Vitality MEG 117
+1 Festival Grounds TWM 149
+
+Energy: 8
+8 Basic {G} Energy SVE 1
+
+Total Cards: 60

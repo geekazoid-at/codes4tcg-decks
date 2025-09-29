@@ -1,0 +1,35 @@
+Pokémon: 10
+1 Hop's Cramorant JTG 138
+4 Munkidori TWM 95
+3 Froslass TWM 53
+1 Cubchoo BLK 25
+1 Cleffa OBF 80
+1 Yveltal SFA 35
+2 Budew PRE 4
+3 Snorunt PAR 37
+1 Yveltal MEG 88
+1 Bloodmoon Ursaluna ex TWM 141
+
+Trainer: 16
+2 Artazon PAL 171
+2 Buddy-Buddy Poffin PRE 101
+1 Unfair Stamp TWM 165
+4 Lillie's Determination MEG 119
+1 Air Balloon BLK 79 PH
+1 Nest Ball SVI 181 PH
+1 Earthen Vessel PRE 106 PH
+1 Ultra Ball PAF 91
+2 Pokégear 3.0 BLK 84 PH
+3 Night Stretcher SFA 61
+1 Bravery Charm PAL 173
+2 Technical Machine: Devolution PAR 177
+4 Iono PAL 185
+4 Counter Catcher PAR 160
+1 Enhanced Hammer TWM 148
+4 Arven SVI 166
+
+Energy: 2
+4 Luminous Energy PAL 191
+4 Basic {D} Energy BUS 168
+
+Total Cards: 60
