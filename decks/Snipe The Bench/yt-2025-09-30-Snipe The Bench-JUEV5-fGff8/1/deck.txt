@@ -1,0 +1,26 @@
+Pokémon: 7
+4 Tinkatink PAL 102
+4 Dudunsparce TEF 129
+4 Dunsparce PAL 156
+2 Tinkatuff MEG 97
+1 Fezandipiti ex SFA 38
+1 Dudunsparce ex JTG 121
+2 Tinkaton ex PAL 240
+
+Trainer: 11
+2 Counter Catcher PAR 160
+4 Exp. Share SVI 174
+2 Night Stretcher SFA 61
+4 Lt. Surge's Bargain MEG 120
+4 Nest Ball SVI 181
+2 Artazon PAL 171
+2 Boss's Orders PAL 172
+4 Great Ball PAL 183
+4 Buddy-Buddy Poffin TEF 144
+2 Switch SVI 194
+3 Rare Candy SVI 191
+
+Energy: 1
+9 Basic {P} Energy SVE 13
+
+Total Cards: 60

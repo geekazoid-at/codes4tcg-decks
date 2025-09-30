@@ -1,0 +1,26 @@
+Pokémon: 3
+4 Cinderace MEG 28
+3 Riolu MEG 76
+3 Mega Lucario ex MEG 179
+
+Trainer: 15
+4 Fighting Gong MEG 168
+3 Ultra Ball BRS 186
+1 Ultra Ball MEG 131
+4 Premium Power Pro MEG 124
+2 Earthen Vessel PRE 106
+2 Night Stretcher SFA 61
+4 Pokégear 3.0 SVI 186
+1 Counter Catcher PAR 160
+1 Maximum Belt TEF 154
+2 Luxurious Cape PAR 166
+4 Lillie's Determination MEG 119
+4 Professor's Research JTG 155
+4 Arven SVI 166
+1 Artazon PAL 171
+1 Town Store OBF 196
+
+Energy: 1
+12 Basic {F} Energy MEE 6
+
+Total Cards: 60

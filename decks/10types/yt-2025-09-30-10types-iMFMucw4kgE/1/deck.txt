@@ -1,0 +1,25 @@
+Pokémon: 6
+4 Kadabra MEG 55
+4 Dunsparce PAL 156
+4 Abra MEG 54
+4 Alakazam MEG 56
+1 Fezandipiti ex SFA 38
+4 Dudunsparce TEF 129
+
+Trainer: 11
+4 TM Machine DRI 181
+3 Rare Candy SVI 191
+4 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+3 Great Ball PAL 183
+4 Technical Machine: Devolution PAR 177
+1 Night Stretcher SFA 61
+4 Technical Machine: Evolution PAR 178
+3 Bill's Transfer MEW 156
+1 Precious Trolley SSP 185
+2 Tulip PAR 181
+
+Energy: 1
+6 Basic {P} Energy SVE 21
+
+Total Cards: 60
