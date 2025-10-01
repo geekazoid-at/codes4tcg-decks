@@ -1,0 +1,22 @@
+Pokémon: 3
+1 Kyogre MEG 34
+3 Mega Abomasnow ex MEG 36
+4 Snover MEG 35
+
+Trainer: 10
+4 Arven OBF 186
+4 Pokégear 3.0 BLK 84
+3 Cyrano SSP 170
+1 Night Stretcher SFA 61
+2 Technical Machine: Turbo Energize PAR 179
+1 Nest Ball SVI 181
+1 Secret Box TWM 163
+3 Boss's Orders PAL 172 PH
+3 Surfing Beach MEG 129
+1 Artazon PAL 171
+
+Energy: 2
+28 Basic {W} Energy CIN 124
+1 Basic {W} Energy CRE 231
+
+Total Cards: 60

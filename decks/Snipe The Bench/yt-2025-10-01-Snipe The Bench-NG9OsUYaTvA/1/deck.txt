@@ -1,0 +1,29 @@
+Pokémon: 5
+2 Mega Absol ex MEG 86
+4 Munkidori TWM 95
+2 Budew PRE 4
+3 Yamask WHT 39
+3 Cofagrigus SSP 83
+
+Trainer: 14
+1 Counter Catcher PAR 160
+1 Unfair Stamp TWM 165
+4 Nest Ball PAF 84
+2 Xerosic's Machinations SFA 64
+2 Pokégear 3.0 SVI 186
+1 Night Stretcher SFA 61
+4 Bravery Charm PAL 173
+1 Air Balloon BLK 79
+4 Arven SVI 166
+1 Super Rod PAL 188
+3 Crispin SCR 133
+3 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+3 Boss's Orders MEG 114
+
+Energy: 3
+4 Luminous Energy PAL 191
+5 Basic {D} Energy SVE 15
+3 Basic {P} Energy SVE 13
+
+Total Cards: 60
