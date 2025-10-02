@@ -1,0 +1,32 @@
+Pokémon: 7
+1 Psyduck MEP 7
+2 Lunatone MEG 74
+1 Ethan's Sudowoodo DRI 93
+4 Great Tusk TEF 97
+2 Solrock MEG 75
+1 Flutter Mane TEF 78
+1 Abra TWM 80
+
+Trainer: 16
+4 Fighting Gong MEG 116
+4 Counter Catcher PAR 160
+3 Accompanying Flute TWM 142
+1 Tool Scrapper WHT 85
+1 Xerosic's Machinations SFA 64
+1 Pal Pad SVI 182
+3 Nest Ball SVI 181
+1 Calamitous Wasteland PAL 175
+2 Artazon PAL 171
+1 Air Balloon BLK 79
+4 Professor Sada's Vitality PAR 170
+2 Super Rod PAL 188
+3 Explorer's Guidance TEF 147
+2 Gravity Gemstone SCR 137
+1 Neutralization Zone SFA 60
+2 Earthen Vessel PAR 163
+
+Energy: 2
+9 Basic {F} Energy SVE 22
+4 Jet Energy PAL 190
+
+Total Cards: 60

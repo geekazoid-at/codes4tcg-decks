@@ -1,0 +1,36 @@
+Pokémon: 9
+1 Bloodmoon Ursaluna ex TWM 141
+1 Fezandipiti ex SFA 38
+3 Floragato PAL 14
+1 Munkidori TWM 95
+1 Budew PRE 4
+1 Toedscool PAR 16
+4 Sprigatito SVI 13
+3 Meowscarada ex PAL 15
+1 Toedscruel PAR 17
+
+Trainer: 16
+3 Forest of Vitality MEG 117
+1 Counter Gain SSP 169 PH
+1 Professor's Research PRE 123
+4 Lillie's Determination MEG 119
+1 Super Rod PAL 188
+1 Earthen Vessel PAR 163 PH
+1 Technical Machine: Devolution PAR 177
+4 Ultra Ball PAF 91
+2 Boss's Orders PAL 172 PH
+2 Night Stretcher SFA 61
+1 Counter Catcher PAR 160
+3 Iono PAF 80
+1 Energy Retrieval SVI 171 PH
+4 Buddy-Buddy Poffin PRE 101 PH
+1 Air Balloon BLK 79 PH
+3 Arven SVI 166 PH
+
+Energy: 4
+5 Basic {G} Energy GRI 167
+1 Basic {D} Energy BUS 168
+4 Ignition Energy WHT 86
+1 Neo Upper Energy TEF 162
+
+Total Cards: 60

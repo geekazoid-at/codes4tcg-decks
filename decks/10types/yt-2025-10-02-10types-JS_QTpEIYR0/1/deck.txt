@@ -1,0 +1,32 @@
+Pokémon: 6
+1 Munkidori TWM 95
+1 Carracosta BLK 23
+1 Fezandipiti TWM 96
+1 Okidogi TWM 111
+4 Tirtouga BLK 22
+4 Cinderace MEG 28
+
+Trainer: 13
+2 Counter Catcher PAR 160
+2 Boss's Orders SHF 58
+4 Antique Cover Fossil SCR 129
+2 Night Stretcher SFA 61
+4 Nest Ball SVI 181
+1 Air Balloon BLK 79
+4 Arven SVI 166
+2 Snorlax Doll PAR 175
+2 Technical Machine: Turbo Energize PAR 179
+1 Super Rod PAL 188
+4 Lillie's Determination MEG 119
+4 Iono PAF 80
+3 Ultra Ball SVI 196
+
+Energy: 6
+1 Legacy Energy TWM 167
+4 Luminous Energy PAL 191
+2 Basic {D} Energy SVE 15
+2 Basic {W} Energy SVE 11
+2 Basic {P} Energy SVE 13
+2 Basic {F} Energy SVE 14
+
+Total Cards: 60

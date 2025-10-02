@@ -1,0 +1,29 @@
+Pokémon: 8
+3 Scovillain ex TEF 22
+4 Capsakid SSP 12
+2 Meganium MEG 10
+3 Drakloak TWM 129
+3 Dreepy TWM 128
+1 Fezandipiti ex SFA 38
+2 Bayleef MEG 9
+2 Chikorita MEG 8
+
+Trainer: 13
+3 Forest of Vitality MEG 117
+4 Bug Catching Set TWM 143
+1 Unfair Stamp TWM 165
+2 Xerosic's Machinations SFA 64
+2 Judge SVI 176
+2 Pokégear 3.0 SVI 186
+2 Super Rod PAL 188
+4 Buddy-Buddy Poffin PRE 101
+4 Lillie's Determination MEG 119
+4 Ultra Ball MEG 131
+2 Air Balloon SSH 213
+1 Switch SVI 194
+2 Boss's Orders MEG 114
+
+Energy: 1
+7 Basic {G} Energy SVE 9
+
+Total Cards: 60
