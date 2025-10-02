@@ -1,0 +1,29 @@
+Pokémon: 16
+2 Iron Hands ex PRE 154
+2 Zekrom ex BLK 158
+2 Magnemite PAL 65
+2 Magneton SSP 59
+1 Bloodmoon Ursaluna ex TWM 222
+1 Miraidon ex PAF 243
+1 Iron Bundle PAR 56
+2 Squawkabilly ex PAF 75
+1 Fezandipiti ex SFA 38
+1 Mew ex MEW 151
+1 Latias ex SSP 220
+
+Trainer: 29
+1 Prime Catcher PRE 119
+1 Super Rod PAL 188
+1 Counter Gain SSP 249
+4 Carmine TWM 204
+4 Professor's Research PR-SW 152
+2 Boss's Orders PAL 248
+4 Electric Generator PAF 79
+4 Pokémon Catcher SVI 187
+4 Nest Ball PAF 84
+4 Ultra Ball MEG 131
+
+Energy: 15
+15 Basic {L} Energy SVE 4
+
+Total Cards: 60
