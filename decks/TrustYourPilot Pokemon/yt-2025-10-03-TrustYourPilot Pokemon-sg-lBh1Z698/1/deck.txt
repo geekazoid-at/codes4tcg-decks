@@ -1,0 +1,24 @@
+Pokémon: 3
+1 Kyogre MEG 34
+4 Mega Abomasnow ex MEG 36
+4 Snover MEG 35
+
+Trainer: 13
+3 Ultra Ball SVI 196
+2 Exp. Share SVI 174
+2 Pokégear 3.0 BLK 84
+1 Cyrano SSP 170
+2 Technical Machine: Turbo Energize PAR 179
+2 Professor's Research JTG 155
+2 Larry's Skill PRE 115
+4 Nest Ball SVI 181
+1 Secret Box TWM 163
+1 Surfing Beach MEG 129
+1 Artazon PAL 171
+2 Boss's Orders PAL 172
+4 Arven SVI 166
+
+Energy: 1
+24 Basic {W} Energy SVE 3
+
+Total Cards: 60

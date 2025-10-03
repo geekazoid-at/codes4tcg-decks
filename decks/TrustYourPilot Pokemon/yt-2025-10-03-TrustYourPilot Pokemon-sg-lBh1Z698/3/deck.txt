@@ -1,0 +1,23 @@
+Pokémon: 5
+1 Squawkabilly ex PAF 75
+2 Kyogre MEG 34
+4 Mega Abomasnow ex MEG 36
+1 Fezandipiti ex SFA 38
+4 Snover MEG 35
+
+Trainer: 10
+4 Ultra Ball SVI 196
+2 Academy at Night SFA 54
+1 Exp. Share SVI 174
+1 Air Balloon BLK 79
+2 Technical Machine: Turbo Energize PAR 179
+1 Hero's Cape TEF 152
+4 Professor's Research JTG 155
+4 Nest Ball SVI 181
+1 Boss's Orders PAL 172
+4 Arven SVI 166
+
+Energy: 1
+24 Basic {W} Energy SVE 3
+
+Total Cards: 60
