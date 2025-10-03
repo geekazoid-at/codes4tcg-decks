@@ -1,0 +1,30 @@
+Pokémon: 10
+2 Espathra ex PAF 6
+4 Teal Mask Ogerpon ex TWM 25
+2 Flittle SCR 68
+2 Bulbasaur MEW 1 PH
+2 Chikorita MEG 8 PH
+2 Meganium MEG 10 PH
+1 Fezandipiti ex SFA 38
+2 Bayleef MEG 9 PH
+2 Mega Venusaur ex MEG 3
+2 Ivysaur MEG 2
+
+Trainer: 11
+2 Forest of Vitality MEG 117
+1 Counter Catcher PAR 160
+2 Ultra Ball SVI 196 PH
+4 Bug Catching Set TWM 143
+2 Pokégear 3.0 SVI 186
+4 Nest Ball SVI 181
+2 Boss's Orders PAL 265
+4 Iono PAL 185
+2 Super Rod PAL 188
+2 Buddy-Buddy Poffin PRE 101
+4 Lillie's Determination MEG 119
+
+Energy: 2
+4 Luminous Energy PAL 191
+6 Basic {G} Energy SVE 9
+
+Total Cards: 60
