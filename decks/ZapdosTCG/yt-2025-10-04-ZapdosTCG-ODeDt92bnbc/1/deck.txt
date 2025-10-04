@@ -1,0 +1,35 @@
+Pokémon: 23
+2 Abra TWM 80
+2 Abra MEG 54
+4 Kadabra MEG 55
+3 Alakazam MEG 56
+3 Dunsparce PAL 156
+3 Dudunsparce TEF 129
+1 Dudunsparce ex JTG 121
+1 Fezandipiti ex SFA 38
+1 Fan Rotom SCR 118
+1 Budew PRE 4
+1 Shaymin DRI 10
+1 Psyduck MEP 7
+
+Trainer: 31
+4 Lillie's Determination MEG 119
+3 Hilda WHT 84
+3 Boss's Orders MEG 114
+2 Bill's Transfer MEW 156
+1 Professor Turo's Scenario PAR 171
+1 Tulip PAR 181
+4 Buddy-Buddy Poffin MEG 167
+3 Great Ball PAL 183
+2 Nest Ball SVI 181
+2 Night Stretcher MEG 173
+2 Rare Candy MEG 125
+1 Counter Catcher PAR 160
+2 Artazon PAL 171
+1 Jamming Tower TWM 153
+
+Energy: 6
+5 Basic {P} Energy SVE 5
+1 Enriching Energy SSP 191
+
+Total Cards: 60
