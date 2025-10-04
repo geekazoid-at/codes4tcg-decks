@@ -1,0 +1,35 @@
+Pokémon: 9
+2 Hop's Zacian ex JTG 176
+2 Hop's Snorlax PR-SV 184
+2 Munkidori TWM 95
+1 Maractus JTG 8
+1 Latias ex SSP 76
+2 Hop's Cramorant JTG 138
+1 Fezandipiti ex SFA 38
+1 Iron Bundle PAR 56
+1 Bloodmoon Ursaluna ex TWM 141
+
+Trainer: 17
+2 Risky Ruins MEG 127
+2 Earthen Vessel PRE 106
+4 Hop's Choice Band JTG 148
+2 Hop's Bag JTG 147
+4 Arven OBF 186
+2 Energy Switch SVI 173
+1 Counter Catcher PAR 160
+3 Professor's Research CEL 24
+2 Team Rocket's Venture Bomb DRI 179
+2 Iono PAL 185
+1 Technical Machine: Devolution PAR 177
+3 Night Stretcher SFA 61
+2 Postwick JTG 154
+4 Nest Ball SVI 181
+1 Secret Box TWM 163
+2 Pokégear 3.0 UNB 233
+3 Boss's Orders PAL 172
+
+Energy: 2
+5 Basic {D} Energy SVE 7
+2 Jet Energy PAL 190
+
+Total Cards: 60
