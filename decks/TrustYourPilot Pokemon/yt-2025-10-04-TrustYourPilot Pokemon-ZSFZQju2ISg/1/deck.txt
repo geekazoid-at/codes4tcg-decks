@@ -1,0 +1,31 @@
+Pokémon: 9
+4 Duraludon SCR 106
+1 Mega Mawile ex MEG 94
+1 Relicanth TEF 84
+2 Munkidori TWM 95
+1 Fezandipiti ex SFA 38
+1 Iron Bundle PAR 56
+1 Psyduck MEP 7
+1 Squawkabilly ex PAL 169
+4 Archaludon ex SSP 130
+
+Trainer: 13
+3 Risky Ruins MEG 127
+4 Ultra Ball SVI 196
+3 Earthen Vessel PAR 163
+3 Pokégear 3.0 BLK 84
+2 Iono PAL 185
+1 Professor Turo's Scenario PAR 171
+4 Night Stretcher SFA 61
+1 Hero's Cape TEF 152
+4 Professor's Research PRE 122
+1 Pal Pad SVI 182
+4 Nest Ball SVI 181
+3 Carmine TWM 145
+2 Boss's Orders PAL 172
+
+Energy: 2
+2 Basic {D} Energy SVE 7
+7 Basic {M} Energy SVE 8
+
+Total Cards: 60
