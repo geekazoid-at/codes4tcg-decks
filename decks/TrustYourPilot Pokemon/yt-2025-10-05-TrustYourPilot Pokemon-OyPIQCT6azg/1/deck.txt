@@ -1,0 +1,33 @@
+Pokémon: 8
+3 Magmortar JTG 21
+3 Mega Camerupt ex MEG 22
+1 Fezandipiti ex SFA 38
+3 Magmar MEW 126
+1 Psyduck MEP 7
+1 Latias ex SSP 76
+3 Numel MEG 21
+2 Volcanion ex JTG 31
+
+Trainer: 16
+3 Iono PAL 185
+3 Ultra Ball SVI 196
+4 Switch SVI 194
+1 Professor Turo's Scenario PAR 171
+2 Rigid Band MEW 165
+1 Precious Trolley SSP 185
+1 Earthen Vessel PAR 163
+2 Pokégear 3.0 SVI 186
+1 Super Rod PAL 188
+2 Counter Catcher PAR 160
+2 Technical Machine: Evolution PAR 178
+1 Boss's Orders PAL 172
+2 Nest Ball SVI 181
+4 Lillie's Determination MEG 119
+4 Arven SVI 166
+1 Town Store OBF 196
+
+Energy: 2
+7 Basic {R} Energy SVE 2
+2 Jet Energy PAL 190
+
+Total Cards: 60

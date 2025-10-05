@@ -1,0 +1,24 @@
+Pokémon: 6
+4 Misty's Psyduck DRI 45
+4 Teal Mask Ogerpon ex TWM 25
+1 Latias ex SSP 76
+4 Wo-Chien SSP 15 PH
+1 Fezandipiti ex SFA 38
+1 Squawkabilly ex PAL 169
+
+Trainer: 10
+4 Bug Catching Set PRE 102
+4 Buddy-Buddy Poffin PRE 101
+4 Earthen Vessel PRE 106
+4 Energy Switch SVI 173
+4 Ultra Ball MEG 131
+2 Cycling Road MEW 157
+4 Professor's Research PRE 123
+4 Nest Ball SVI 181
+1 Precious Trolley SSP 185
+2 Carmine TWM 145
+
+Energy: 1
+12 Basic {G} Energy MEE 1
+
+Total Cards: 60
