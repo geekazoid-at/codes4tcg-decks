@@ -1,0 +1,36 @@
+Pokémon: 9
+4 N's Zorua JTG 97
+2 N's Reshiram JTG 116
+1 Fezandipiti ex SFA 38
+1 Munkidori TWM 95
+1 Mega Lucario ex MEG 77
+1 Mega Lucario ex MEG 160
+4 N's Zoroark ex JTG 98
+1 Cornerstone Mask Ogerpon ex PRE 58
+2 Riolu PRE 50
+
+Trainer: 18
+1 Ultra Ball PAF 91 PH
+1 Super Rod PAL 188
+2 Premium Power Pro MEG 124
+3 Iono PAL 185
+1 Night Stretcher SFA 61
+3 Cyrano SSP 170
+2 Artazon PAF 76
+2 N's PP Up JTG 153
+1 Counter Catcher PAR 160
+1 Maximum Belt TEF 154
+2 Professor Turo's Scenario PAR 171
+2 Boss's Orders PAL 172
+4 Lillie's Determination MEG 119
+1 Nest Ball PAF 84
+2 Air Balloon BLK 79 PH
+1 Energy Switch SVI 173
+1 Pal Pad SVI 182
+4 Buddy-Buddy Poffin PRE 101
+
+Energy: 2
+4 Basic {D} Energy BUS 168
+5 Basic {F} Energy GRI 169
+
+Total Cards: 60

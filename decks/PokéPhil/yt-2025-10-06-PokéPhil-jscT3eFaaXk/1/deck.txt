@@ -1,0 +1,30 @@
+Pokémon: 9
+4 Kadabra MEG 55
+4 Abra MEW 63
+4 Dunsparce PAL 156
+3 Alakazam MEG 56
+3 Dudunsparce TEF 129
+1 Fezandipiti ex SFA 38
+1 Fan Rotom SCR 118
+1 Iron Bundle PAR 56
+1 Psyduck MEP 7
+
+Trainer: 12
+2 Moonlit Hill PAF 81
+2 Rare Candy SVI 191
+2 Jacq SVI 175
+4 Buddy-Buddy Poffin TEF 144
+4 Great Ball PAL 183
+4 Night Stretcher SFA 61
+1 Colress's Tenacity SFA 57
+1 Picnic Basket SVI 184
+1 Tulip PAR 181
+3 Artazon PAL 171
+3 Boss's Orders PAL 172
+4 Hilda WHT 84
+
+Energy: 2
+1 Enriching Energy SSP 191
+6 Basic {P} Energy SVE 21
+
+Total Cards: 60

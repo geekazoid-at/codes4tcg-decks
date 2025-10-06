@@ -1,0 +1,27 @@
+Pokémon: 7
+3 Magnemite MEG 45
+1 Zekrom ex BLK 34
+2 Eelektrik BLK 31
+4 Rotom SSP 61
+3 Magnezone ex SVI 65
+2 Magneton SSP 59
+2 Tynamo BLK 30
+
+Trainer: 12
+2 Rare Candy PAF 89
+4 Arven OBF 186
+4 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+2 Counter Catcher PAR 160
+4 Iono PAL 185
+2 Air Balloon BLK 79
+3 Boss's Orders MEG 114
+2 Night Stretcher SFA 61
+3 Ultra Ball MEG 131
+4 Nest Ball SVI 181
+1 Unfair Stamp TWM 165
+
+Energy: 1
+8 Basic {L} Energy SVE 20
+
+Total Cards: 60
