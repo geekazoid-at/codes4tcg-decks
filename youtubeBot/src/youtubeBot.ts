@@ -44,6 +44,13 @@ const allChannelIds: string[] = [
   channelId10t,
   channelIdSTCG,
   channelIdPokeScout,
+  channelIdPokemonJake,
+  channelIdPokemonJank,
+  channelIdPokemonChefHusky,
+  channelIdPokemonTypPlays,
+  channelIdPokemonTypHtc,
+  channelIdPokemonTypBruceBuilds,
+  channelIdAzulGG,
 ];
 
 const main = async (
