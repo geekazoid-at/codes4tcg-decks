@@ -1,0 +1,35 @@
+Pokémon: 9
+2 Armarouge SVI 41
+1 Gouging Fire SSP 38
+1 Hearthflame Mask Ogerpon ex TWM 40
+1 Reshiram ex WHT 20
+2 Latias ex SSP 76
+1 Fezandipiti ex SFA 38
+3 Gouging Fire ex TEF 38
+2 Brute Bonnet PAR 123
+3 Charcadet SSP 32
+
+Trainer: 18
+1 Switch SVI 194
+2 Ancient Booster Energy Capsule TEF 140
+2 Earthen Vessel PAR 163
+1 Buddy-Buddy Poffin TEF 144
+1 Counter Catcher PAR 160
+1 Gravity Mountain SSP 177
+1 Boss's Orders MEG 114
+2 Night Stretcher SFA 61
+4 Ultra Ball MEG 131
+4 Professor's Research JTG 155
+4 Professor Sada's Vitality PRE 120
+2 Pal Pad SVI 182
+1 Team Rocket's Watchtower DRI 180
+1 Secret Box TWM 163
+4 Nest Ball PAF 84
+3 Binding Mochi SFA 55
+1 Carmine TWM 145
+2 Arven SVI 166
+
+Energy: 1
+7 Basic {R} Energy SVE 2
+
+Total Cards: 60

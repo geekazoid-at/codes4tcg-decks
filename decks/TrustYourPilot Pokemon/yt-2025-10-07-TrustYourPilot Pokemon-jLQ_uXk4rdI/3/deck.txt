@@ -1,0 +1,34 @@
+Pokémon: 6
+2 Mega Absol ex MEG 86
+1 Iron Bundle PAR 56
+2 Munkidori TWM 95
+1 Fezandipiti ex SFA 38
+2 Pecharunt ex SFA 39
+3 Yveltal MEG 88
+
+Trainer: 19
+1 Counter Catcher PAR 160
+1 Town Store OBF 196
+1 Precious Trolley SSP 185
+1 Exp. Share SVI 174
+2 Energy Search SVI 172
+2 Energy Switch SVI 173
+1 Counter Gain SSP 169
+4 Pokémon Catcher SVI 187
+2 Night Stretcher SFA 61
+2 Nest Ball SVI 181
+2 Calamitous Snowy Mountain PAL 174
+2 Bravery Charm PAL 173
+1 Boss's Orders PAL 172
+4 Binding Mochi SFA 55
+3 Iono PAL 185
+4 Arven SVI 166
+1 Super Rod PAL 188
+2 Janine's Secret Art SFA 59
+4 Lillie's Determination MEG 119
+
+Energy: 2
+1 Luminous Energy PAL 191
+8 Basic {D} Energy SVE 7
+
+Total Cards: 60

@@ -1,0 +1,35 @@
+Pokémon: 8
+3 Team Rocket's Crobat ex DRI 122
+2 Mega Absol ex MEG 86
+4 Team Rocket's Zubat DRI 120
+2 Munkidori TWM 95
+1 Fezandipiti ex SFA 38
+4 Team Rocket's Golbat DRI 121
+1 Pecharunt ex SFA 39
+1 Yveltal MEG 88
+
+Trainer: 18
+2 Counter Catcher PAR 160
+1 Precious Trolley SSP 185
+1 Exp. Share SVI 174
+3 Energy Switch SVI 173
+1 Counter Gain SSP 169
+1 Pokémon Catcher SVI 187
+2 Night Stretcher SFA 61
+2 Nest Ball SVI 181
+2 Calamitous Snowy Mountain PAL 174
+4 Arven OBF 186
+1 Bravery Charm PAL 173
+3 Iono PAL 185
+1 Technical Machine: Turbo Energize PAR 179
+1 Super Rod PAL 188
+2 Janine's Secret Art SFA 59
+4 Lillie's Determination MEG 119
+2 Ultra Ball SVI 196
+1 Boss's Orders MEG 114
+
+Energy: 2
+1 Luminous Energy PAL 191
+7 Basic {D} Energy SVE 7
+
+Total Cards: 60
