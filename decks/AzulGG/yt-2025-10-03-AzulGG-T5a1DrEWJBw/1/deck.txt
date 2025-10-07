@@ -1,0 +1,33 @@
+Pokémon: 16
+4 Numel MEG 21
+3 Mega Camerupt ex MEG 22
+2 Magmar PAF 9
+2 Magmortar JTG 21
+2 Latias ex SSP 76
+2 Volcanion ex JTG 31
+1 Fezandipiti ex SFA 38
+
+Trainer: 38
+4 Iono PAF 80
+4 Lillie's Determination MEG 119
+2 Arven SVI 166
+2 Boss's Orders MEG 114
+2 Colress's Tenacity SFA 57
+4 Nest Ball SVI 181
+4 Switch SVI 194
+4 Ultra Ball MEG 131
+2 Energy Search SVI 172
+2 Night Stretcher SFA 61
+1 Counter Catcher PAR 160
+1 Secret Box TWM 163
+1 Tool Scrapper WHT 85
+1 Technical Machine: Evolution PAR 178
+1 Vitality Band SVI 197
+2 Gravity Mountain SSP 177
+1 Artazon PAF 76
+
+Energy: 6
+4 Basic {R} Energy SVE 2
+2 Ignition Energy WHT 86
+
+Total Cards: 60

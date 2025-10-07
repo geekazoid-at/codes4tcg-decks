@@ -26,6 +26,7 @@ const channelIdPokemonChefHusky = "UC7F8wMsuAbB1pW-ZitU_L1Q";
 const channelIdPokemonTypPlays = "UCMDJzyOorBMpqOJvLNzzslw";
 const channelIdPokemonTypHtc = "UCp7EwD-oB-cNa8lD9pWZdjg";
 const channelIdPokemonTypBruceBuilds = "UCpp-g-RJVmEToLOh_seBVwg";
+const channelIdAzulGG = "UCEZlNLKMWQ7FV33gr9lpX9A";
 
 const allChannelIds: string[] = [
   channelIdTyp,
@@ -121,7 +122,7 @@ enum RunType {
   UPDATE = "UPDATE",
 }
 
-const importChannelId = channelIdPokemonTypBruceBuilds;
+const importChannelId = channelIdAzulGG;
 const RUNTYPE: RunType = RunType.UPDATE;
 
 async function runBot() {
