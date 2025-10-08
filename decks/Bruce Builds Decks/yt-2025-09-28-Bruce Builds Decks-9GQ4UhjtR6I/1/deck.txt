@@ -1,0 +1,38 @@
+Pokémon: 19
+2 Simipour PAR 42
+1 Fezandipiti ex SFA 38
+1 Bloodmoon Ursaluna ex PR-SV 177
+2 Pansage PAR 4
+2 Simisage PAR 5
+4 Pansear WHT 14
+1 Budew PRE 4
+4 Simisear PAR 21
+2 Panpour PAR 41
+
+Trainer: 33
+2 Counter Catcher PAR 160
+2 Mela PAR 167
+1 Team Rocket's Watchtower DRI 180
+2 Ultra Ball PAF 91
+1 Mesagoza SVI 178
+2 Night Stretcher SFA 61
+1 Artazon PAL 171
+2 Boss's Orders PAL 172
+1 Air Balloon BLK 79
+1 Hyper Aroma TWM 152
+3 Arven SVI 166
+1 Lucky Helmet TWM 158
+2 Hilda WHT 84
+1 Super Rod PAL 188
+4 Buddy-Buddy Poffin PRE 101
+2 Earthen Vessel PRE 106
+1 Brave Bangle WHT 80
+2 Lillie's Determination MEG 119
+2 Iono PAF 80
+
+Energy: 8
+5 Basic {R} Energy SVE 2
+2 Basic {G} Energy SVE 1
+1 Ignition Energy WHT 86
+
+Total Cards: 60

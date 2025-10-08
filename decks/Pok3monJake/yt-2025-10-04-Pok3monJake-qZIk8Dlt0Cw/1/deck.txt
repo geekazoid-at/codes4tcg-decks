@@ -1,0 +1,30 @@
+Pokémon: 7
+4 Klefki SVI 96
+3 Mega Mawile ex MEG 94
+
+Trainer: 41
+4 Arven SVI 166
+3 Colress's Tenacity SFA 57
+3 Iono PAL 185
+2 Acerola's Mischief MEG 113
+2 Boss's Orders MEG 114
+1 Penny SVI 183
+4 Pokégear 3.0 SVI 186
+4 Iron Defender MEG 118
+4 Nest Ball SVI 181
+3 Counter Catcher PAR 160
+1 Earthen Vessel PAR 163
+1 Night Stretcher SFA 61
+2 Technical Machine: Turbo Energize PAR 179
+1 Air Balloon BLK 79
+1 Bravery Charm PAL 173
+1 Hero's Cape TEF 152
+2 Full Metal Lab TEF 148
+2 Town Store OBF 196
+
+Energy: 12
+9 Basic {M} Energy SVE 8
+2 Jet Energy PAL 190
+1 Mist Energy TEF 161
+
+Total Cards: 60

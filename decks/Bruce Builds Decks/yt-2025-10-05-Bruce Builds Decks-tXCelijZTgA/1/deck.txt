@@ -1,0 +1,27 @@
+Pokémon: 18
+4 Teal Mask Ogerpon ex TWM 25
+1 Fezandipiti ex SFA 38
+4 Spidops ex SVI 223
+1 Budew PRE 4
+2 Flittle SCR 68
+4 Tarountula SVI 18
+2 Espathra ex PAF 6
+
+Trainer: 30
+2 Area Zero Underdepths PRE 94
+4 Crushing Hammer SVI 168
+1 Super Rod PAL 188
+1 Counter Catcher PAR 160
+4 Lillie's Determination MEG 119
+2 Air Balloon SSH 156
+4 Bug Catching Set PRE 102
+4 Energy Switch SVI 173
+2 Buddy-Buddy Poffin PRE 101
+3 Arven SVI 166
+3 Boss's Orders MEG 114
+
+Energy: 12
+9 Basic {G} Energy SVE 1
+3 Basic {P} Energy SVE 5
+
+Total Cards: 60

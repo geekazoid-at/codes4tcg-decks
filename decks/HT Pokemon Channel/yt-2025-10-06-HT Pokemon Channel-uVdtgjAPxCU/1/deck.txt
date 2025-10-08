@@ -1,0 +1,29 @@
+Pokémon: 20
+4 Finizen TWM 59
+3 Palafin TWM 60
+4 Palafin ex TWM 61
+1 Palafin TEF 49
+3 Staryu MEW 120
+3 Starmie MEW 121
+2 Alomomola BLK 24
+
+Trainer: 33
+4 Buddy-Buddy Poffin TEF 144
+3 Ultra Ball SVI 196
+2 Night Stretcher SFA 61
+1 Earthen Vessel PAR 163
+1 Super Rod PAL 188
+2 Air Balloon BLK 79
+1 Technical Machine: Evolution PAR 178
+1 Maximum Belt PRE 117
+4 Arven SVI 166
+4 Lillie's Determination MEG 119
+3 Boss's Orders PAL 172
+2 Iono PAL 185
+1 Jacq SVI 175
+4 Surfing Beach MEG 129
+
+Energy: 7
+7 Basic {W} Energy SVE 3
+
+Total Cards: 60
