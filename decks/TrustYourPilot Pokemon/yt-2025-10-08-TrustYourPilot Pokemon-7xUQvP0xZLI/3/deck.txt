@@ -1,0 +1,26 @@
+Pokémon: 5
+3 Magnemite MEG 45
+1 Iron Hands ex PAR 70
+3 Electrike MEG 49
+3 Magneton SSP 59
+3 Mega Manectric ex MEG 50
+
+Trainer: 13
+4 Ultra Ball SVI 196
+4 Electric Generator SVI 170
+4 Buddy-Buddy Poffin TEF 144
+3 Counter Catcher PAR 160
+3 Iono PAL 185
+1 Gravity Mountain SSP 177
+2 Night Stretcher SFA 61
+1 Rigid Band MEW 165
+2 Pokégear 3.0 SVI 186
+4 Professor's Research PRE 122
+1 Prime Catcher TEF 157
+4 Carmine TWM 145
+2 Boss's Orders PAL 172
+
+Energy: 1
+12 Basic {L} Energy SVE 4
+
+Total Cards: 60
