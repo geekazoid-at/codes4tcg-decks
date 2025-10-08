@@ -1,0 +1,29 @@
+Pokémon: 8
+2 Mega Camerupt ex MEG 22
+3 Magmar MEW 126
+1 Latias ex SSP 76
+2 Numel MEG 21
+1 Fezandipiti ex SFA 38
+2 Budew PRE 4
+2 Volcanion ex JTG 31
+3 Magmortar JTG 21
+
+Trainer: 13
+4 Switch SVI 194
+4 Ultra Ball PAF 91
+4 Arven OBF 186
+4 Lillie's Determination MEG 119
+2 Counter Catcher PAR 160
+4 Iono PAL 185
+3 Boss's Orders MEG 114
+2 Night Stretcher SFA 61
+2 Air Balloon SSH 213
+1 Hero's Cape TEF 152
+1 Rigid Band MEW 165
+2 Pokégear 3.0 SVI 186
+4 Nest Ball PAF 84
+
+Energy: 1
+7 Basic {R} Energy SVE 10
+
+Total Cards: 60
