@@ -1,0 +1,27 @@
+Pokémon: 18
+4 Ralts MEG 58
+3 Kirlia MEG 59
+3 Mega Gardevoir ex MEG 60
+4 Natu PAR 71
+4 Xatu PAR 72
+
+Trainer: 28
+4 Pokégear 3.0 SVI 186
+3 Ultra Ball SVI 196
+2 Counter Catcher PAR 160
+2 Letter of Encouragement OBF 189
+1 Buddy-Buddy Poffin TEF 144
+1 Precious Trolley SSP 185
+2 Technical Machine: Evolution PAR 178
+4 Arven SVI 166
+4 Lillie's Determination MEG 119
+2 Iono PAL 185
+1 Boss's Orders PAL 172
+1 Lana's Aid TWM 155
+1 Jacq SVI 175
+
+Energy: 14
+2 Reversal Energy PAL 192
+12 Basic {P} Energy SVE 5
+
+Total Cards: 60
