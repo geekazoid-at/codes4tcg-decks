@@ -1,0 +1,36 @@
+Pokémon: 21
+4 Applin TWM 17
+3 Dipplin TWM 18
+3 Grookey TWM 14
+3 Thwackey TWM 15
+1 Rillaboom TWM 16
+2 Goldeen TWM 44
+2 Seaking PRE 21
+1 Rellor PAL 26
+1 Rabsca TEF 24
+1 Psyduck MEP 7
+
+Trainer: 33
+4 Arven OBF 186
+3 Lillie's Determination MEG 119
+2 Boss's Orders MEG 114
+2 Black Belt's Training JTG 145
+1 Iono PAL 185
+1 Lana's Aid TWM 155
+3 Bug Catching Set TWM 143
+3 Pokégear 3.0 SVI 186
+1 Night Stretcher SFA 61
+1 Counter Catcher PAR 160
+1 Buddy-Buddy Poffin TEF 144
+1 Pal Pad SVI 182
+1 Precious Trolley SSP 185
+2 Brave Bangle WHT 80
+1 Air Balloon BLK 79
+1 Vitality Band SVI 197
+1 Technical Machine: Evolution PAR 178
+4 Festival Grounds TWM 149
+
+Energy: 6
+6 Basic {G} Energy SVE 1
+
+Total Cards: 60
