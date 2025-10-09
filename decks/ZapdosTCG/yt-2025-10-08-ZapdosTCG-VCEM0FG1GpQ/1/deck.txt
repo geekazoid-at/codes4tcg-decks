@@ -1,0 +1,33 @@
+Pokémon: 23
+4 Teal Mask Ogerpon ex TWM 25
+3 Chikorita MEG 8
+3 Bayleef MEG 9
+2 Meganium MEG 10
+3 Applin TWM 17
+3 Dipplin SCR 13
+3 Hydrapple ex SCR 14
+1 Fezandipiti ex SFA 38
+1 Mew ex MEW 151
+
+Trainer: 28
+3 Iris's Fighting Spirit JTG 149
+3 Professor's Research JTG 155
+2 Iono PAL 185
+1 Lillie's Determination MEG 119
+1 Lt. Surge's Bargain MEG 120
+1 Boss's Orders MEG 114
+4 Bug Catching Set TWM 143
+2 Buddy-Buddy Poffin TEF 144
+1 Super Rod PAL 188
+1 Earthen Vessel PAR 163
+1 Prime Catcher TEF 157
+1 Night Stretcher SFA 61
+1 Superior Energy Retrieval PAL 189
+1 Ultra Ball MEG 131
+1 Air Balloon BLK 79
+4 Forest of Vitality MEG 117
+
+Energy: 9
+9 Basic {G} Energy SVE 1
+
+Total Cards: 60

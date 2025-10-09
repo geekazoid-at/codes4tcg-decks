@@ -1,0 +1,33 @@
+Pokémon: 9
+1 Psyduck MEP 7
+1 Dunsparce TEF 128
+4 Dudunsparce TEF 129
+2 Lampent TWM 37
+2 Dunsparce PAL 156
+1 Dudunsparce ex JTG 121
+4 Chandelure TWM 38
+4 Litwick TWM 36
+1 Dunsparce PAL 156 PH
+
+Trainer: 16
+2 Counter Catcher PAR 160
+3 Artazon PAF 76
+2 Brave Bangle WHT 80
+2 Jacq SVI 175
+2 Night Stretcher SFA 61
+1 Lt. Surge's Bargain MEG 120
+2 Lucian TWM 157
+2 Arven SVI 166
+1 Neutralization Zone SFA 60
+1 Tyme SSP 190
+3 Hilda WHT 84
+1 Super Rod PAL 188
+4 Buddy-Buddy Poffin TEF 144
+3 Ultra Ball MEG 131
+2 Boss's Orders MEG 114
+4 Rare Candy SVI 191
+
+Energy: 1
+5 Basic {R} Energy SVE 18
+
+Total Cards: 60
