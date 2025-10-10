@@ -1,0 +1,45 @@
+Pokémon: 17
+1 Pidgey OBF 162
+1 Pidgey MEW 16
+2 Pidgeotto MEW 17
+2 Pidgeot ex OBF 164
+2 Elgyem BLK 40
+2 Ethan's Sudowoodo DRI 93
+1 Latias ex SSP 76
+1 Chi-Yu ex PAL 40
+1 Fezandipiti ex SFA 38
+1 Frillish WHT 44
+1 Psyduck MEP 7
+1 Fan Rotom SCR 118
+1 Dedenne SSP 87
+
+Trainer: 38
+4 Team Rocket's Petrel DRI 176
+2 Penny SVI 183
+2 Boss's Orders MEG 114
+2 Colress's Tenacity SFA 57
+1 Lillie's Determination MEG 119
+1 Lana's Aid TWM 155
+1 Xerosic's Machinations SFA 64
+1 Erika's Invitation MEW 160
+1 Ruffian JTG 157
+4 Nest Ball SVI 181
+2 Counter Catcher PAR 160
+2 Accompanying Flute TWM 142
+2 Pal Pad SVI 182
+2 Team Rocket's Transceiver DRI 178
+1 Night Stretcher MEG 173
+1 Rare Candy MEG 125
+1 Redeemable Ticket JTG 156
+1 Ultra Ball MEG 131
+2 Handheld Fan TWM 150
+2 Artazon PAL 171
+2 Lively Stadium SSP 180
+1 Grand Tree SCR 136
+
+Energy: 5
+3 Prism Energy BLK 86
+1 Basic {P} Energy SVE 5
+1 Basic {F} Energy SVE 6
+
+Total Cards: 60
