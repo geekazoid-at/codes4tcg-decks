@@ -1,0 +1,33 @@
+Pokémon: 17
+4 Corphish MEG 33
+3 Crawdaunt MEG 85
+2 Munkidori TWM 95
+1 Pecharunt ex SFA 39
+1 Bloodmoon Ursaluna ex TWM 141
+1 Fezandipiti ex SFA 38
+1 Budew PRE 4
+1 Yveltal MEG 88
+1 Iron Bundle PAR 56
+1 Shaymin DRI 10
+1 Psyduck MEP 7
+
+Trainer: 36
+4 Lillie's Determination MEG 119
+4 Iono PAL 185
+2 Arven SVI 166
+2 Boss's Orders MEG 114
+4 Nest Ball SVI 181
+4 Ultra Ball MEG 131
+4 Night Stretcher SFA 61
+2 Counter Catcher PAR 160
+1 Earthen Vessel PAR 163
+1 Secret Box TWM 163
+2 Binding Mochi SFA 55
+1 Exp. Share SVI 174
+1 Bravery Charm PAL 173
+4 Risky Ruins MEG 127
+
+Energy: 7
+7 Basic {D} Energy SVE 7
+
+Total Cards: 60
