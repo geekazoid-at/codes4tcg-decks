@@ -1,0 +1,41 @@
+Pokémon: 10
+1 Latias ex SSP 76
+1 Ethan's Sudowoodo DRI 93
+3 Lugia ex PRE 82
+1 Toedscool JTG 88
+2 Budew PRE 4
+2 Elgyem BLK 40
+2 Pidgeot ex OBF 164
+2 Pidgey OBF 162
+1 Pidgeotto OBF 163
+1 Toedscruel PAR 17
+
+Trainer: 21
+1 Counter Catcher PAR 160
+1 Megaton Blower SSP 182
+1 Artazon PAF 76
+1 Exp. Share SVI 174
+1 Pal Pad SVI 182
+1 Nest Ball SVI 181
+1 Night Stretcher SFA 61 PH
+2 Air Balloon BLK 79
+4 Arven SVI 166
+1 Hilda WHT 84
+4 Crushing Hammer SVI 168
+1 Earthen Vessel PRE 106
+2 Crispin SCR 133
+4 Buddy-Buddy Poffin TEF 144
+3 Lillie's Determination MEG 119
+1 Iono PAF 80
+1 Ultra Ball MEG 131
+1 Professor's Research PRE 122
+1 Switch SVI 194
+1 Rare Candy SVI 191
+1 Boss's Orders MEG 114
+
+Energy: 3
+4 Prism Energy NXD 93 PH
+3 Basic {P} Energy MEE 5
+3 Basic {F} Energy MEE 6
+
+Total Cards: 60
