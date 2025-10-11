@@ -1,0 +1,32 @@
+Pokémon: 6
+1 Mega Kangaskhan ex MEG 104
+1 Mimikyu PAF 37
+1 Wellspring Mask Ogerpon ex TWM 64
+1 Rotom SSP 61
+4 Tirtouga BLK 22
+4 Cinderace MEG 28
+
+Trainer: 14
+2 Counter Catcher PAR 160
+2 Boss's Orders SHF 58
+2 Nest Ball PAF 84
+4 Antique Cover Fossil SCR 129
+2 Pokégear 3.0 SVI 186
+2 Night Stretcher SFA 61
+4 Arven SVI 166
+2 Snorlax Doll PAR 175
+2 Technical Machine: Turbo Energize PAR 179
+1 Super Rod PAL 188
+4 Lillie's Determination MEG 119
+4 Iono PAF 80
+2 Switch MEG 130
+4 Ultra Ball SVI 196
+
+Energy: 5
+2 Basic {L} Energy SVE 12
+1 Legacy Energy TWM 167
+4 Luminous Energy PAL 191
+2 Basic {W} Energy SVE 11
+2 Basic {P} Energy MEE 5
+
+Total Cards: 60

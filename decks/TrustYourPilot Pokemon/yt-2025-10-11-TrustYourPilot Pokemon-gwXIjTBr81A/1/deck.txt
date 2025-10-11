@@ -1,0 +1,32 @@
+Pokémon: 11
+1 Psyduck MEP 7
+2 Dipplin SCR 13
+2 Dipplin PRE 10
+1 Meganium MEG 10
+4 Applin TWM 17
+3 Hydrapple ex SCR 14
+2 Yanmega ex DRI 3
+1 Fezandipiti ex SFA 38
+1 Bayleef MEG 9
+1 Chikorita MEG 8
+2 Yanma DRI 2
+
+Trainer: 13
+3 Forest of Vitality MEG 117
+4 Bug Catching Set TWM 143
+1 Prime Catcher TEF 157
+2 Nest Ball SVI 181
+2 Boss's Orders PAL 172
+1 Air Balloon BLK 79
+3 Iono PAL 185
+2 Super Rod PAL 188
+3 Professor's Research JTG 155
+2 Buddy-Buddy Poffin TEF 144
+3 Lillie's Determination MEG 119
+2 Switch MEG 130
+1 Ultra Ball SVI 196
+
+Energy: 1
+11 Basic {G} Energy SVE 1
+
+Total Cards: 60
