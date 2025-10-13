@@ -1,0 +1,36 @@
+Pokémon: 17
+3 Munkidori TWM 95
+2 Mega Absol ex MEG 86
+2 Mega Kangaskhan ex MEG 104
+2 Cornerstone Mask Ogerpon ex TWM 112
+2 Yveltal MEG 88
+1 Bloodmoon Ursaluna ex TWM 141
+1 Latias ex SSP 76
+1 Pecharunt ex SFA 39
+1 Fezandipiti ex SFA 38
+1 Psyduck MEP 7
+1 Tatsugiri TWM 131
+
+Trainer: 34
+4 Arven OBF 186
+3 Lillie's Determination MEG 119
+3 Boss's Orders MEG 114
+3 Penny SVI 183
+2 Iono PAL 185
+3 Pokégear 3.0 SVI 186
+2 Nest Ball SVI 181
+2 Earthen Vessel PAR 163
+2 Night Stretcher SFA 61
+2 Counter Catcher PAR 160
+1 Energy Switch MEG 115
+1 Precious Trolley SSP 185
+2 Bravery Charm PAL 173
+2 Technical Machine: Turbo Energize PAR 179
+2 Lively Stadium SSP 180
+
+Energy: 9
+6 Basic {D} Energy SVE 7
+2 Mist Energy TEF 161
+1 Basic {F} Energy SVE 6
+
+Total Cards: 60
