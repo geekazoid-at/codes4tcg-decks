@@ -1,0 +1,37 @@
+Pokémon: 11
+1 Latias ex SSP 76
+1 Bloodmoon Ursaluna ex TWM 141
+2 Brute Bonnet PAR 123
+1 Munkidori PRE 44 PH
+2 Pecharunt PR-SV 149
+2 Mega Latias ex MEG 100
+1 Fezandipiti ex SFA 38
+1 Mew ex MEW 151
+1 Mimikyu PAF 37
+1 Yveltal MEG 88
+2 Squawkabilly ex PAL 169
+
+Trainer: 14
+1 Crispin SCR 164
+4 Carmine TWM 145
+1 Secret Box TWM 163
+2 Iono PR-SV 124
+4 Perilous Jungle TEF 156
+2 Night Stretcher SFA 61
+4 Nest Ball SVI 181
+2 Boss's Orders PAL 172
+1 Penny PAF 239
+1 Bravery Charm SCR 175
+4 Ancient Booster Energy Capsule TEF 140
+3 Lillie's Determination MEG 119
+2 Binding Mochi PRE 95
+4 Ultra Ball SVI 196
+
+Energy: 5
+2 Jet Energy PAL 190
+1 Basic {D} Energy SFA 98
+2 Basic {P} Energy SVE 21
+4 Prism Energy BLK 86
+1 Basic {R} Energy OBF 230
+
+Total Cards: 60
