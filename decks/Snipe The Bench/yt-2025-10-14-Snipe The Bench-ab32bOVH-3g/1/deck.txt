@@ -1,0 +1,27 @@
+Pokémon: 4
+3 Xatu PAF 26
+4 Mega Kangaskhan ex MEG 104
+3 Natu PAF 25
+3 Bouffalant SCR 119
+
+Trainer: 15
+1 Counter Catcher PAR 160
+1 Scramble Switch SSP 186
+2 Lively Stadium SSP 180
+4 Nest Ball PAF 84
+2 Bravery Charm PAL 173
+2 Air Balloon BLK 79
+2 Iono PAL 185
+4 Arven SVI 166
+2 Super Rod PAL 188
+2 Eri TEF 146
+4 Lillie's Determination MEG 119
+3 Ultra Ball MEG 131
+3 Wally's Compassion MEG 132
+2 Acerola's Mischief MEG 113
+2 Boss's Orders MEG 114
+
+Energy: 1
+11 Basic {P} Energy SVE 13
+
+Total Cards: 60
