@@ -1,0 +1,35 @@
+Pokémon: 8
+4 Nincada MEG 16
+2 Munkidori TWM 95
+1 Mimikyu PAL 97
+1 Fezandipiti ex SFA 38
+1 Cleffa OBF 80
+4 Ninjask MEG 17 PH
+3 Shedinja MEG 61 PH
+1 Shaymin DRI 10
+
+Trainer: 16
+3 Forest of Vitality MEG 117
+1 Counter Catcher PAR 160
+2 Luxurious Cape PAR 166
+2 Nest Ball SVI 181
+1 Risky Ruins MEG 127
+1 Boss's Orders PAL 172
+1 Air Balloon BLK 79
+3 Iono PAL 185
+2 Super Rod PAL 188
+1 Earthen Vessel PRE 106
+2 Crispin SCR 133
+4 Buddy-Buddy Poffin TEF 144
+1 Technical Machine: Crisis Punch PAF 90
+3 Lillie's Determination MEG 119
+3 Ultra Ball SVI 196
+1 Neutralization Zone SFA 60
+
+Energy: 4
+2 Reversal Energy PAL 192
+4 Basic {G} Energy SVE 9
+2 Basic {D} Energy SVE 15
+4 Basic {P} Energy SVE 13
+
+Total Cards: 60

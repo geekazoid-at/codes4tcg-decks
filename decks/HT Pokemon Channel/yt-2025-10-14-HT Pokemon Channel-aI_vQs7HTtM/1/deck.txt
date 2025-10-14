@@ -1,0 +1,31 @@
+Pokémon: 23
+4 Swinub JTG 77
+2 Piloswine JTG 78
+3 Mamoswine ex JTG 79
+3 Nacli PAR 102
+2 Naclstack MEG 83
+1 Garganacl MEG 84
+1 Garganacl PAR 104
+3 Pidgey MEW 16
+2 Pidgeotto MEW 17
+2 Pidgeot ex OBF 164
+
+Trainer: 31
+4 Fighting Gong MEG 116
+4 Rare Candy SVI 191
+4 Buddy-Buddy Poffin TEF 144
+3 Ultra Ball SVI 196
+2 Premium Power Pro MEG 124
+1 Night Stretcher SFA 61
+1 Big Air Balloon MEW 155
+1 Technical Machine: Evolution PAR 178
+4 Lillie's Determination MEG 119
+3 Boss's Orders PAL 172
+2 Arven SVI 166
+2 Iono PAL 185
+
+Energy: 6
+1 Neo Upper Energy TEF 162
+5 Basic {F} Energy SVE 6
+
+Total Cards: 60
