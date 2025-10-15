@@ -1,5 +1,3 @@
-import fs from "fs";
-
 import { DeckMeta, Video, VideoMeta } from "./types";
 import { germanToEnglish, transformDeck } from "./utils/deckTransformer";
 
@@ -9,7 +7,7 @@ export async function processVideo(
   video: Video,
   channelName: string
 ): Promise<{ meta: VideoMeta; decks: DeckResult[] } | null> {
-  const videoName = video.title;
+  const videoName = fixLongWords(video.title);
   const publishedAtDate = new Date(video.publishedAt);
 
   const formattedDate = `${publishedAtDate.getFullYear()}-${
