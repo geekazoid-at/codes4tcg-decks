@@ -194,3 +194,52 @@ export function processDescription(
 
   return decks;
 }
+
+const maxLength = 22;
+const replacements = ["+", "/", "-"];
+
+export function fixLongWords(name?: string): string | undefined {
+  if (!name) return;
+
+  let words = name.split(" ");
+
+  words.forEach((word, index) => {
+    if (word.length > maxLength) {
+      console.log("LONG!", word);
+      let newWord = spaceLongWord(word);
+
+      newWord.split(" ").forEach((part) => {
+        if (part.length > maxLength) {
+          console.log("  PART LONG!", part);
+          newWord = ellsisLongWord(newWord);
+        }
+      });
+
+      words[index] = newWord;
+    }
+  });
+
+  return words.join(" ");
+}
+
+function spaceLongWord(word: string): string {
+  let newWord = word;
+
+  if (word.length > maxLength) {
+    replacements.forEach((r) => {
+      if (newWord.includes(r)) {
+        newWord = newWord.replaceAll(r, ` ${r} `);
+      }
+    });
+  }
+
+  return newWord;
+}
+
+function ellsisLongWord(word: string): string {
+  const ellipsisCut = 14;
+  if (word.length > maxLength) {
+    return `${word.substring(0, ellipsisCut).trim()}...`;
+  }
+  return word;
+}
