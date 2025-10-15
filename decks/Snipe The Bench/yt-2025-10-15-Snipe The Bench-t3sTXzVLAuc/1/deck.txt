@@ -1,0 +1,24 @@
+Pokémon: 4
+3 Solrock MEG 75
+3 Lunatone MEG 74
+4 Clobbopus PAF 51
+4 Grapploct PAF 52
+
+Trainer: 12
+4 Buddy-Buddy Poffin PRE 101
+2 Eri TEF 146
+4 Lillie's Determination MEG 119
+3 Jamming Tower TWM 153
+4 Iono PAL 185
+2 Boss's Orders MEG 114
+4 Fighting Gong MEG 116
+4 Pokémon Catcher SVI 187 PH
+2 Super Rod PAL 188
+4 Pokégear 3.0 SVI 186
+1 Sacred Ash DRI 168
+1 Neutralization Zone SFA 60
+
+Energy: 1
+11 Basic {F} Energy SVE 14
+
+Total Cards: 60
