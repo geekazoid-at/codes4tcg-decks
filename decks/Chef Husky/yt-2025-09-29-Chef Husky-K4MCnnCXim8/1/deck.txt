@@ -1,0 +1,37 @@
+Pokémon: 13
+3 Alakazam MEG 56
+2 Abra TWM 80 PH
+1 Psyduck MEP 7
+1 Dunsparce TEF 128
+4 Dudunsparce TEF 129
+2 Dunsparce PAL 156
+1 Alakazam MEG 56 PH
+1 Dudunsparce ex JTG 121
+2 Kadabra MEG 55
+1 Kadabra MEG 55 PH
+1 Dunsparce PAL 156 PH
+1 Fan Rotom SCR 118
+2 Abra TWM 80
+
+Trainer: 15
+1 Counter Catcher PAR 160
+1 Enhanced Hammer TWM 148
+3 Artazon PAF 76
+2 Jacq SVI 175
+3 Night Stretcher SFA 61
+1 Lt. Surge's Bargain MEG 120
+1 Bill's Transfer MEW 156
+1 Arven SVI 166
+4 Great Ball PAL 183
+2 Hilda WHT 84
+1 Super Rod PAL 188
+2 Lucky Helmet TWM 158 PH
+4 Buddy-Buddy Poffin TEF 144
+3 Rare Candy SVI 191
+3 Boss's Orders MEG 114
+
+Energy: 2
+1 Legacy Energy TWM 167
+5 Basic {P} Energy SVE 13
+
+Total Cards: 60

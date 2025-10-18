@@ -1,0 +1,32 @@
+Pokémon: 13
+4 Houndour OBF 131
+3 Houndoom ex OBF 134
+2 Munkidori TWM 95
+1 Fezandipiti ex SFA 38
+1 Pecharunt ex SFA 39
+1 Mew ex MEW 151
+1 Team Rocket's Sneasel DRI 128
+
+Trainer: 35
+4 Arven SVI 166
+3 Janine's Secret Art PRE 112
+3 Iono PAL 185
+2 Professor's Research BLK 85
+2 Boss's Orders PAL 172
+4 Ultra Ball SVI 196
+3 Buddy-Buddy Poffin PRE 101
+2 Nest Ball SVI 181
+2 Energy Switch SVI 173
+1 Earthen Vessel PRE 106
+1 Counter Catcher PAR 160
+1 Super Rod PAL 188
+1 Night Stretcher SFA 61
+1 Secret Box TWM 163
+2 Binding Mochi SFA 55
+1 Air Balloon BLK 79
+2 Artazon PAL 171
+
+Energy: 12
+12 Basic {D} Energy SVE 7
+
+Total Cards: 60

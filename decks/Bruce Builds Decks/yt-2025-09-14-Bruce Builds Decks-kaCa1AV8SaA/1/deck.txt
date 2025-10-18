@@ -1,0 +1,32 @@
+Pokémon: 21
+2 Quaquaval SVI 54
+2 Frosmoth TEF 46
+4 Quaxly SVI 52
+4 Cloyster MEW 91
+2 Snom TEF 45
+1 Quaxwell PAL 207
+4 Shellder MEW 90
+2 Quaquaval SSP 52
+
+Trainer: 29
+2 Ultra Ball SVI 196
+3 Buddy-Buddy Poffin PRE 101
+2 Earthen Vessel PRE 106
+4 Rare Candy SVI 191
+1 Counter Catcher PAR 160
+1 Iono PAL 185
+2 Great Ball PAL 183
+1 Brave Bangle WHT 80
+2 Colress's Tenacity SFA 57
+1 Super Rod PAL 188
+2 Rigid Band MEW 165
+1 Neutralization Zone SFA 60
+1 Artazon PAL 171
+3 Arven SVI 166
+1 Boss's Orders PAL 172
+2 Hilda WHT 84
+
+Energy: 10
+10 Basic {W} Energy SVE 3
+
+Total Cards: 60
