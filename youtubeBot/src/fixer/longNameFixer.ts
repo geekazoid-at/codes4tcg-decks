@@ -25,9 +25,6 @@ async function main() {
       const meta: VideoMeta = JSON.parse(fs.readFileSync(metaPath, "utf-8"));
       const fixedName = fixLongWords(meta.name);
 
-      if (meta.name?.includes("Mamoswine/Garganacl"))
-        console.log(meta.name, fixedName);
-
       if (fixedName !== meta.name) {
         console.log(
           `Fixing long name for ${creator} / ${video}: ${meta.name} -> ${fixedName}`
