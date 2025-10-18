@@ -1,0 +1,32 @@
+Pokémon: 9
+1 Latias ex SSP 76
+3 Dusknoir PRE 37
+1 Fezandipiti ex SFA 38
+3 Jellicent ex WHT 45
+1 Bloodmoon Ursaluna ex TWM 141
+2 Dusclops SFA 19
+3 Duskull PRE 35
+1 Lillie's Clefairy ex JTG 56
+3 Frillish WHT 44
+
+Trainer: 14
+2 Lillie's Determination MEG 119
+1 Powerglass SFA 63
+1 Precious Trolley SSP 185
+3 Rare Candy MEG 125
+2 Nest Ball PAF 84 PH
+1 Earthen Vessel PAR 163 PH
+3 Ultra Ball MEG 131 PH
+4 Mystery Garden MEG 122
+3 Night Stretcher SFA 61
+4 Iono PAL 185
+4 Arven OBF 186
+2 Boss's Orders MEG 114
+1 Technical Machine: Devolution PAR 177
+1 Team Rocket's Petrel DRI 176
+
+Energy: 2
+2 Ignition Energy WHT 86
+8 Basic {P} Energy SUM 162
+
+Total Cards: 60
