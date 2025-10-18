@@ -1,0 +1,33 @@
+Pokémon: 15
+4 Gimmighoul SSP 97
+4 Gholdengo ex PAR 139
+2 Lunatone MEG 74
+2 Solrock MEG 75
+1 Fezandipiti ex SFA 38
+1 Genesect ex BLK 67
+1 Iron Bundle PAR 56
+
+Trainer: 34
+4 Arven SVI 166
+3 Boss's Orders MEG 114
+2 Ciphermaniac's Codebreaking PRE 104
+2 Professor Turo's Scenario PRE 121
+1 Iono PAF 80
+4 Superior Energy Retrieval PAL 189
+3 Earthen Vessel PRE 106
+3 Fighting Gong MEG 116
+3 Nest Ball SVI 181
+1 Buddy-Buddy Poffin TEF 144
+1 Counter Catcher PAR 160
+1 Super Rod PAL 188
+1 Ultra Ball MEG 131
+2 Air Balloon BLK 79
+1 Vitality Band SVI 197
+2 Artazon PAL 171
+
+Energy: 11
+7 Basic {F} Energy SVE 6
+3 Basic {M} Energy SVE 8
+1 Legacy Energy TWM 167
+
+Total Cards: 60

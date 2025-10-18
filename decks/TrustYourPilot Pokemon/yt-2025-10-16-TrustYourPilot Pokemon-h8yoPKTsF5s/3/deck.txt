@@ -1,0 +1,31 @@
+Pokémon: 6
+4 Cynthia's Gible DRI 102
+1 Cynthia's Spiritomb DRI 129
+3 Cynthia's Roserade DRI 8
+3 Cynthia's Garchomp ex DRI 104
+4 Cynthia's Gabite DRI 103
+3 Cynthia's Roselia DRI 7
+
+Trainer: 17
+2 Ultra Ball SVI 196
+3 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+1 Counter Catcher PAR 160
+1 Cynthia's Power Weight DRI 162
+3 Iono PAL 185
+1 Air Balloon BLK 79
+1 Acerola's Mischief MEG 113
+2 Fighting Gong MEG 116
+2 Forest of Vitality MEG 117
+2 Night Stretcher SFA 61
+1 Super Rod PAL 188
+2 Technical Machine: Evolution PAR 178
+1 Maximum Belt TEF 154
+2 Boss's Orders PAL 172
+4 Arven SVI 166
+4 Premium Power Pro MEG 124
+
+Energy: 1
+6 Basic {F} Energy SVE 6
+
+Total Cards: 60

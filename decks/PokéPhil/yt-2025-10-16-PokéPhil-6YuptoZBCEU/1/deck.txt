@@ -1,0 +1,33 @@
+Pokémon: 7
+2 Volcanion ex JTG 182
+1 Fezandipiti ex SFA 92
+3 Magmar PAF 9
+3 Magmortar JTG 21
+3 Mega Camerupt ex MEG 156
+4 Numel MEG 21
+1 Latias ex SSP 239
+
+Trainer: 17
+1 Counter Catcher PAR 160
+1 Precious Trolley SSP 185
+1 Air Balloon BLK 79 PH
+4 Nest Ball SVI 181
+2 Artazon PAL 171
+4 Arven SVI 166
+2 Hilda WHT 84
+2 Technical Machine: Evolution PAR 178
+1 Colress's Tenacity SFA 57
+1 Earthen Vessel PRE 106
+4 Lillie's Determination MEG 119
+1 Iono PAF 80
+2 Ultra Ball MEG 131
+1 Vitality Band SVI 197
+4 Switch SVI 194
+1 Boss's Orders MEG 114
+1 Gravity Mountain SSP 177
+
+Energy: 2
+8 Basic {R} Energy SVE 10
+2 Ignition Energy WHT 86
+
+Total Cards: 60

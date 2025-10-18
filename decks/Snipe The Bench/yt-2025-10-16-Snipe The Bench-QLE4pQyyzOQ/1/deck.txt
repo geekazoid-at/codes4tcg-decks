@@ -1,0 +1,29 @@
+Pokémon: 8
+2 Hydrapple DRI 18
+2 Varoom SFA 43
+2 Revavroom SVI 142
+1 Poltchageist TWM 20
+1 Sinistcha ex TWM 23
+2 Dipplin SCR 13
+2 Budew PRE 4
+2 Applin TWM 17
+
+Trainer: 13
+4 Bug Catching Set PRE 102
+4 Buddy-Buddy Poffin PRE 101
+4 Lillie's Determination MEG 119
+1 Counter Catcher PAR 160
+4 Iono PAL 185
+2 Air Balloon BLK 79
+1 Boss's Orders MEG 114
+4 Forest of Vitality MEG 117
+1 Night Stretcher SFA 61
+2 Ultra Ball MEG 131
+3 Superior Energy Retrieval PAL 189
+1 Super Rod PAL 188
+1 Max Rod PRE 116
+
+Energy: 1
+14 Basic {G} Energy SVE 9
+
+Total Cards: 60

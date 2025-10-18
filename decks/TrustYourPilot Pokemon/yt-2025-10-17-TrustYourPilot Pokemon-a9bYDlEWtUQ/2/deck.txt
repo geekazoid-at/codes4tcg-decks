@@ -1,0 +1,35 @@
+Pokémon: 10
+3 Finizen TWM 59
+3 Palafin ex TWM 61
+1 Fezandipiti ex SFA 38
+1 Alomomola BLK 24
+1 Finizen OBF 60
+1 Palafin OBF 62
+1 Cleffa OBF 80
+3 Palafin TWM 60
+2 Starmie MEW 121
+3 Staryu MEW 120
+
+Trainer: 17
+1 Counter Catcher PAR 160
+1 Energy Search SVI 172
+3 Surfing Beach MEG 129
+1 Prime Catcher TEF 157
+1 Night Stretcher SFA 61
+2 Boss's Orders PAL 172
+2 Air Balloon BLK 79
+4 Iono PAL 185
+2 Arven SVI 166
+1 Technical Machine: Evolution PAR 178
+2 Super Rod PAL 188
+1 Defiance Band SVI 169
+4 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+4 Ultra Ball SVI 196
+1 Vitality Band SVI 197
+1 Switch SVI 194
+
+Energy: 1
+6 Basic {W} Energy SVE 19
+
+Total Cards: 60
