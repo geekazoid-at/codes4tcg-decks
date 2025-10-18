@@ -1,6 +1,6 @@
 import fs from "fs";
 import { fixLongWords } from "../processVideo";
-import { DeckMeta } from "../types";
+import { VideoMeta } from "../types";
 
 async function main() {
   // iterate over decks
@@ -22,7 +22,7 @@ async function main() {
       if (!fs.existsSync(metaPath)) {
         return;
       }
-      const meta: DeckMeta = JSON.parse(fs.readFileSync(metaPath, "utf-8"));
+      const meta: VideoMeta = JSON.parse(fs.readFileSync(metaPath, "utf-8"));
       const fixedName = fixLongWords(meta.name);
 
       if (meta.name?.includes("Mamoswine/Garganacl"))

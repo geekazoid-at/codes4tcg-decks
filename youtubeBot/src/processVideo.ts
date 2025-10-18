@@ -196,9 +196,7 @@ export function processDescription(
 const maxLength = 22;
 const replacements = ["+", "/", "-"];
 
-export function fixLongWords(name?: string): string | undefined {
-  if (!name) return;
-
+export function fixLongWords(name: string): string {
   let words = name.split(" ");
 
   words.forEach((word, index) => {
