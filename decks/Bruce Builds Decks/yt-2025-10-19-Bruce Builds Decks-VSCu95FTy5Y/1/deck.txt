@@ -1,7 +1,7 @@
 Pokémon: 19
 2 Liepard PAR 115
 3 Purrloin WHT 55
-2 Mega Absol ex MEG 867
+2 Mega Absol ex MEG 86
 2 Golbat MEW 42
 1 Pecharunt ex SFA 39
 2 Crobat SFA 29
