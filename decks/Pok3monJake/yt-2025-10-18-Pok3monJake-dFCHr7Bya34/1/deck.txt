@@ -1,0 +1,31 @@
+Pokémon: 20
+4 Nincada MEG 16
+4 Ninjask MEG 17
+3 Shedinja MEG 61
+2 Chikorita MEG 8
+2 Bayleef MEG 9
+2 Meganium MEG 10
+1 Illumise TWM 10
+1 Volbeat TWM 9
+1 Fezandipiti ex SFA 38
+
+Trainer: 33
+4 Lillie's Determination MEG 119
+4 Iono PAL 185
+2 Lana's Aid TWM 155
+4 Buddy-Buddy Poffin TEF 144
+4 Bug Catching Set TWM 143
+3 Ultra Ball MEG 131
+2 Super Rod PAL 188
+2 Counter Catcher PAR 160
+1 Earthen Vessel PAR 163
+1 Max Rod PRE 116
+2 Brave Bangle WHT 80
+1 Air Balloon BLK 79
+3 Forest of Vitality MEG 117
+
+Energy: 7
+5 Basic {G} Energy SVE 1
+2 Basic {P} Energy SVE 5
+
+Total Cards: 60
