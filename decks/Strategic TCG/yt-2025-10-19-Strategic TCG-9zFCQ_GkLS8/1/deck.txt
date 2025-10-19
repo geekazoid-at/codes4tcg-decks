@@ -1,0 +1,34 @@
+Pokémon: 11
+2 Flaaffy SIT-TG 3
+1 Latias ex SSP 239
+1 Dedenne-GX SMALT 156
+1 Crobat V PR-SW 110
+4 Electrike MEG 49
+1 Miraidon ex SVI 244
+1 Tapu Koko {*} TEU 51
+2 Mega Manectric ex MEG 158
+2 Mareep EVS 54
+1 Mega Manectric ex MEG 50
+1 Lumineon V CRZ-GG 39
+
+Trainer: 14
+2 Cynthia HIF 151
+4 Salvatore TEF 202
+3 Ultra Ball PLF 122
+4 Electric Generator SVI 170
+1 Hisuian Heavy Ball ASR 146
+4 Electropower SMALT 137
+1 Volkner UPR 156
+1 Rescue Stretcher SMALT 187
+4 Quick Ball SSH 216
+1 Aether Paradise Conservation Area HIF 156
+3 Guzma HIF 153
+1 Forest Seal Stone SIT 156
+1 Secret Box TWM 163
+1 Thunder Mountain {*} LOT 191
+
+Energy: 2
+2 Speed {L} Energy RCL 173
+10 Basic {L} Energy GRI 168
+
+Total Cards: 60
