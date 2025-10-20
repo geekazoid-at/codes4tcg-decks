@@ -1,0 +1,33 @@
+Pokémon: 8
+1 Maractus JTG 8
+4 Drakloak TWM 129
+2 Lampent TWM 37
+4 Dreepy TWM 128
+4 Chandelure TWM 38
+1 Budew PRE 4
+4 Litwick TWM 36
+1 Shaymin DRI 10
+
+Trainer: 16
+1 Counter Catcher PAR 160
+3 Artazon PAF 76
+2 Jacq SVI 175
+2 Night Stretcher SFA 61
+1 Lt. Surge's Bargain MEG 120
+1 Lana's Aid TWM 155
+2 Lucian TWM 157
+3 Arven SVI 166
+1 Tyme SSP 190
+2 Hilda WHT 84
+1 Super Rod PAL 188
+4 Buddy-Buddy Poffin TEF 144
+2 Brave Bangle WHT 80
+3 Ultra Ball MEG 131
+2 Boss's Orders MEG 114
+4 Rare Candy SVI 191
+
+Energy: 2
+1 Legacy Energy TWM 167
+4 Basic {R} Energy SVE 18
+
+Total Cards: 60
