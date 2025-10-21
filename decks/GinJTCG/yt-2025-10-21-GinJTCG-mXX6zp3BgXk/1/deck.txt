@@ -1,0 +1,38 @@
+Pokémon: 12
+3 Dwebble DRI 11
+3 Crustle DRI 12
+3 Munkidori TWM 95
+1 Psyduck MEP 7
+1 Ethan's Sudowoodo DRI 93
+1 Cornerstone Mask Ogerpon ex TWM 112
+
+Trainer: 35
+4 Lillie's Determination MEG 119
+4 Arven OBF 186
+4 Boss's Orders MEG 114
+3 Crispin SCR 133
+1 Lana's Aid TWM 155
+1 Colress's Tenacity SFA 57
+1 Iono PAL 185
+1 Xerosic's Machinations SFA 64
+3 Pokégear 3.0 SVI 186
+2 Nest Ball SVI 181
+1 Buddy-Buddy Poffin TEF 144
+1 Counter Catcher PAR 160
+1 Earthen Vessel PAR 163
+1 Super Potion JTG 158
+1 Poké Vital A SFA 62
+2 Luxurious Cape PAR 166
+1 Rock Chestplate SVI 192
+1 Air Balloon BLK 79
+1 Town Store OBF 196
+1 Artazon PAL 171
+
+Energy: 13
+4 Basic {G} Energy SVE 1
+3 Basic {D} Energy SVE 7
+2 Basic {F} Energy SVE 6
+3 Mist Energy TEF 161
+1 Jet Energy PAL 190
+
+Total Cards: 60
