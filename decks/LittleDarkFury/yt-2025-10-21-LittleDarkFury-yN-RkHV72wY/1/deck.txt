@@ -1,0 +1,38 @@
+Pokémon: 10
+1 Fezandipiti ex SFA 38
+2 Miraidon TEF 121
+2 Iron Leaves ex TEF 25
+1 Iron Boulder ex TEF 99
+4 Iron Crown ex TEF 81
+1 Iron Valiant ex PAR 89
+1 Iron Hands ex PRE 31
+1 Mew ex MEW 151
+1 Iron Moth PAR 28
+1 Lillie's Clefairy ex JTG 56
+
+Trainer: 15
+2 Crispin PRE 105
+2 Nest Ball PAF 84
+2 Exp. Share SVI 174
+1 Earthen Vessel PRE 106 PH
+2 Switch SVI 194
+1 Reboot Pod TEF 158
+4 Techno Radar PRE 130
+2 Night Stretcher SFA 61
+2 Boss's Orders MEG 114
+2 Energy Switch SVI 173
+1 Iono PAL 185
+1 Counter Catcher PAR 160 PH
+3 Arven SVI 166 PH
+4 Future Booster Energy Capsule TEF 149
+4 Lillie's Determination MEG 119
+
+Energy: 6
+2 Basic {R} Energy BUS 167
+2 Basic {G} Energy GRI 167
+1 Basic {F} Energy GRI 169
+2 Basic {L} Energy GRI 168
+4 Basic {P} Energy SUM 162
+1 Prism Energy BLK 86
+
+Total Cards: 60
