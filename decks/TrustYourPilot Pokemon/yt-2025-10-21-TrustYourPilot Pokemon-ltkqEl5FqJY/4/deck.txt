@@ -1,0 +1,32 @@
+Pokémon: 19
+4 Toxel PFL 67
+4 Toxtricity PFL 68
+3 Seviper PFL 62
+2 Munkidori TWM 95
+2 Mega Absol ex MEG 86
+1 Cleffa OBF 80
+1 Budew PRE 4
+1 Fezandipiti ex SFA 38
+1 Pecharunt ex SFA 39
+
+Trainer: 31
+4 Lillie's Determination MEG 119
+4 Arven SVI 166
+3 Iono PAL 185
+2 Boss's Orders PAL 172
+3 Ultra Ball SVI 196
+2 Nest Ball SVI 181
+2 Counter Catcher PAR 160
+2 Super Rod PAL 188
+1 Precious Trolley SSP 185
+1 Buddy-Buddy Poffin TEF 144
+1 Earthen Vessel PAR 163
+2 Binding Mochi SFA 55
+1 Bravery Charm PAL 173
+1 Technical Machine: Evolution PAR 178
+2 Artazon PAL 171
+
+Energy: 10
+10 Basic {D} Energy SVE 7
+
+Total Cards: 60

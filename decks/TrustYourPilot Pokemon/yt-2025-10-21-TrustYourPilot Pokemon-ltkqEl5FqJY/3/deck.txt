@@ -1,0 +1,31 @@
+Pokémon: 17
+3 Lotad PFL 5
+3 Lombre PFL 6
+2 Ludicolo PFL 7
+1 Ludicolo JTG 37
+3 Mega Heracross ex PFL 4
+3 Teal Mask Ogerpon ex TWM 25
+1 Toedscool PAR 16
+1 Toedscruel PAR 17
+
+Trainer: 33
+4 Lillie's Determination MEG 119
+2 Iono PAL 185
+2 Boss's Orders PAL 172
+2 Professor's Research PRE 122
+4 Bug Catching Set TWM 143
+4 Nest Ball SVI 181
+3 Energy Switch SVI 173
+2 Night Stretcher SFA 61
+2 Big Ice Cream PFL 85
+1 Super Rod PAL 188
+1 Bravery Charm PAL 173
+1 Hero's Cape TEF 152
+1 Protective Goggles MEW 164
+1 Air Balloon BLK 79
+3 Forest of Vitality MEG 117
+
+Energy: 10
+10 Basic {G} Energy SVE 1
+
+Total Cards: 60

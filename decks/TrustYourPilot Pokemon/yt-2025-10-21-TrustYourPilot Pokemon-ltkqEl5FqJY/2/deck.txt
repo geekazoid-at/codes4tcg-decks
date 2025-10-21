@@ -1,0 +1,25 @@
+Pokémon: 17
+4 Charcadet PFL 19
+4 Ceruledge PFL 20
+2 Varoom PAF 64
+2 Revavroom SVI 142
+2 Moltres PFL 14
+2 Victini SSP 21
+1 Fezandipiti ex SFA 38
+
+Trainer: 31
+4 Lillie's Determination MEG 119
+4 Iono PAL 185
+2 Boss's Orders PAL 172
+4 Buddy-Buddy Poffin TEF 144
+4 Ultra Ball SVI 196
+4 Superior Energy Retrieval PAL 189
+4 Super Rod PAL 188
+1 Max Rod PRE 116
+2 Brave Bangle WHT 80
+2 Air Balloon BLK 79
+
+Energy: 12
+12 Basic {R} Energy SVE 2
+
+Total Cards: 60

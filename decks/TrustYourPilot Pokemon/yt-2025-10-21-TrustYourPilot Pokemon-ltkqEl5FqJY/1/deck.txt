@@ -1,0 +1,30 @@
+Pokémon: 10
+4 Paldean Tauros PFL 48
+4 Tauros DRI 152
+1 Emolga TWM 69
+1 Tatsugiri TWM 131
+
+Trainer: 43
+4 Arven SVI 166
+3 Iono PAL 185
+2 Lillie's Determination MEG 119
+2 Boss's Orders PAL 172
+2 Professor's Research PRE 122
+1 Penny SVI 183
+4 Fighting Gong MEG 116
+4 Premium Power Pro MEG 124
+4 Nest Ball SVI 181
+3 Night Stretcher SFA 61
+2 Team Rocket's Venture Bomb DRI 179
+1 Counter Catcher PAR 160
+1 Secret Box TWM 163
+1 Energy Search SVI 172
+1 Super Rod PAL 188
+2 Brave Bangle WHT 80
+2 Air Balloon BLK 79
+4 Risky Ruins MEG 127
+
+Energy: 7
+7 Basic {F} Energy SVE 6
+
+Total Cards: 60

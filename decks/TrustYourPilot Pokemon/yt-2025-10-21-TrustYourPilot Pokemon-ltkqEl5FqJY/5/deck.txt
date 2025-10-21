@@ -1,0 +1,32 @@
+Pokémon: 20
+4 Sneasel MEP 20
+4 Weavile MEP 21
+3 Toxel PFL 67
+3 Toxtricity PFL 68
+1 Rellor TEF 23
+1 Rabsca TEF 24
+1 Psyduck MEP 7
+1 Pecharunt ex SFA 39
+1 Fezandipiti ex SFA 38
+1 Yveltal MEG 88
+
+Trainer: 32
+4 Arven SVI 166
+4 Lillie's Determination MEG 119
+3 Iono PAL 185
+2 Boss's Orders PAL 172
+4 Ultra Ball SVI 196
+2 Buddy-Buddy Poffin TEF 144
+2 Nest Ball SVI 181
+1 Counter Catcher PAR 160
+1 Super Rod PAL 188
+1 Precious Trolley SSP 185
+1 Earthen Vessel PAR 163
+2 Binding Mochi SFA 55
+2 Technical Machine: Evolution PAR 178
+3 Combat Cage PFL 87
+
+Energy: 8
+8 Basic {D} Energy SVE 7
+
+Total Cards: 60
