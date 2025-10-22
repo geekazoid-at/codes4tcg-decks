@@ -1,0 +1,36 @@
+Pokémon: 8
+4 Seaking PRE 21
+1 Shaymin DRI 10
+4 Thwackey TWM 15
+1 Rillaboom TWM 16
+4 Grookey TWM 14
+1 Psyduck MEP 7
+4 Goldeen TWM 44
+1 Bloodmoon Ursaluna ex TWM 141
+
+Trainer: 18
+1 Vitality Band SVI 197
+2 Black Belt's Training JTG 145
+4 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+1 Counter Catcher PAR 160
+1 Iono PAL 185
+2 Boss's Orders MEG 114
+1 Brave Bangle WHT 80
+1 Night Stretcher SFA 61
+4 Ultra Ball MEG 131
+1 Colress's Tenacity SFA 57
+1 Tool Scrapper WHT 85
+1 Maximum Belt TEF 154
+1 Pal Pad SVI 182
+1 Nest Ball SVI 181
+1 Sacred Ash DRI 168
+4 Festival Grounds TWM 149
+1 Hilda WHT 84
+
+Energy: 3
+2 Spiky Energy JTG 159
+2 Basic {G} Energy SVE 9
+4 Jet Energy PAL 190
+
+Total Cards: 60
