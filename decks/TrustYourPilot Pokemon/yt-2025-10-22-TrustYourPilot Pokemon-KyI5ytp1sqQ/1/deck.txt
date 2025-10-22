@@ -1,0 +1,28 @@
+Pokémon: 6
+3 Kadabra MEG 55
+3 Abra TWM 80
+2 Alakazam MEG 56
+4 Gimmighoul SSP 97
+1 Fezandipiti ex SFA 38
+4 Gholdengo ex PAR 139
+
+Trainer: 13
+2 Ultra Ball SVI 196
+4 Arven OBF 186
+2 Earthen Vessel PAR 163
+4 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+2 Counter Catcher PAR 160
+2 Air Balloon BLK 79
+1 Night Stretcher SFA 61
+4 Superior Energy Retrieval PAL 189
+1 Technical Machine: Evolution PAR 178
+2 Nest Ball SVI 181
+1 Unfair Stamp TWM 165
+2 Boss's Orders PAL 172
+
+Energy: 2
+6 Basic {M} Energy SVE 24
+6 Basic {P} Energy SVE 21
+
+Total Cards: 60

@@ -1,0 +1,35 @@
+Pokémon: 8
+2 Alakazam MEG 56
+2 Lunatone MEG 74
+1 Fezandipiti ex SFA 38
+2 Kadabra MEG 55
+2 Solrock MEG 75
+4 Gimmighoul SSP 97
+4 Gholdengo ex PAR 139
+2 Abra TWM 80
+
+Trainer: 16
+2 Fighting Gong MEG 116
+1 Counter Catcher PAR 160
+1 Morty's Conviction TEF 155
+1 Night Stretcher SFA 61
+2 Nest Ball SVI 181
+1 Artazon PAL 171
+3 Boss's Orders PAL 172
+2 Air Balloon BLK 79
+1 Iono PAL 185
+1 Professor Turo's Scenario PAR 171
+1 Technical Machine: Evolution PAR 178
+4 Superior Energy Retrieval PAL 189
+2 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+2 Ultra Ball SVI 196
+1 Earthen Vessel PAR 163
+
+Energy: 4
+6 Basic {F} Energy SVE 22
+1 Legacy Energy TWM 167
+2 Basic {P} Energy SVE 21
+3 Basic {M} Energy SVE 24
+
+Total Cards: 60
