@@ -1,0 +1,28 @@
+Pokémon: 18
+4 Magikarp MEW 129
+3 Gyarados ex SVI 45
+3 Oddish OBF 1
+3 Gloom MEW 44
+3 Vileplume MEW 45
+1 Munkidori TWM 95
+1 Fezandipiti ex SFA 38
+
+Trainer: 28
+4 Lillie's Determination MEG 119
+4 Iono PAL 185
+1 Arven SVI 166
+1 Professor Turo's Scenario PAR 171
+4 Ultra Ball MEG 131
+3 Buddy-Buddy Poffin TEF 144
+3 Team Rocket's Venture Bomb DRI 179
+2 Energy Recycler DRI 164
+1 Night Stretcher SFA 61
+1 Secret Box TWM 163
+1 Heavy Baton TEF 151
+3 Forest of Vitality MEG 117
+
+Energy: 14
+12 Basic {W} Energy SVE 3
+2 Basic {D} Energy SVE 7
+
+Total Cards: 60
