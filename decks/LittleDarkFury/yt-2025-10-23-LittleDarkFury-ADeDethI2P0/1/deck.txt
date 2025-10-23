@@ -1,0 +1,44 @@
+Pokémon: 14
+3 Deino SSP 117
+2 Hydreigon ex SSP 119
+1 Pecharunt ex SFA 39
+1 Fezandipiti ex SFA 38
+1 Psyduck MEP 7
+1 Pidgey MEW 16
+1 Munkidori TWM 95
+2 Pidgeot ex OBF 164
+1 Shaymin DRI 10
+2 Zweilous PAL 139
+1 Pidgey OBF 162
+1 Pidgeotto OBF 163
+1 Bloodmoon Ursaluna ex TWM 141
+1 Yveltal MEG 88
+
+Trainer: 18
+1 Counter Gain SSP 169 PH
+4 Lillie's Determination MEG 119
+1 Town Store OBF 196
+1 Super Rod PAL 188
+1 Artazon PAF 76
+1 Air Balloon BLK 79
+4 Buddy-Buddy Poffin PRE 101 PH
+2 Rare Candy SVI 191 PH
+1 Nest Ball PAF 84 PH
+3 Ultra Ball PAF 91
+1 Eri TEF 146 PH
+1 Night Stretcher SFA 61
+2 Boss's Orders MEG 114 PH
+2 Iono PAF 80
+2 Counter Catcher PAR 160 PH
+2 Technical Machine: Evolution PAR 178
+1 Crispin SCR 133 PH
+2 Arven SVI 166 PH
+
+Energy: 5
+5 Basic {D} Energy BUS 168
+1 Neo Upper Energy TEF 162
+1 Mist Energy TEF 161
+1 Basic {P} Energy SUM 162
+1 Basic {M} Energy SUM 163
+
+Total Cards: 60
