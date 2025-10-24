@@ -1,0 +1,32 @@
+Pokémon: 8
+3 Mega Absol ex MEG 86
+2 Budew PRE 4
+2 Munkidori TWM 95
+1 Pecharunt ex SFA 39
+1 Fezandipiti ex SFA 38
+3 Toxtricity PFL 68
+3 Toxel PFL 67
+1 Seviper PFL 62
+
+Trainer: 16
+4 Iono PAL 185
+4 Arven OBF 186
+4 Lillie's Determination MEG 119
+1 Penny SVI 183
+4 Nest Ball SVI 181
+4 Ultra Ball MEG 131
+2 Super Rod PAL 188
+2 Counter Catcher PAR 160
+1 Unfair Stamp TWM 165
+1 Buddy-Buddy Poffin TEF 144
+2 Air Balloon BLK 79
+1 Bravery Charm PAL 173
+1 Boss's Orders MEG 114
+1 Lively Stadium SSP 180
+1 Night Stretcher SFA 61
+1 Xerosic's Machinations SFA 64
+
+Energy: 1
+10 Basic {D} Energy SVE 23
+
+Total Cards: 60
