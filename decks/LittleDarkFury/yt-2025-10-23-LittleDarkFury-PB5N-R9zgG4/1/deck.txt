@@ -1,0 +1,33 @@
+Pokémon: 9
+3 Mega Gengar ex PFL 56
+2 Haunter PFL 55
+4 Gastly PFL 54
+2 Toxtricity PFL 68
+2 Toxel PFL 67
+2 Munkidori TWM 95
+1 Mega Absol ex MEG 86
+1 Pecharunt ex SFA 39
+1 Fezandipiti ex SFA 38
+
+Trainer: 16
+1 Dawn PFL 87
+2 Air Balloon BLK 79
+2 Boss's Orders PAL 172 PH
+4 Buddy-Buddy Poffin TEF 144 PH
+1 Counter Catcher PAR 160 PH
+3 Iono PAF 80 PH
+2 Arven SVI 166
+3 Ultra Ball SVI 196
+1 Town Store OBF 196
+1 Grimsley's Move PFL 90
+2 Technical Machine: Evolution PAR 178
+4 Lillie's Determination MEG 119
+2 Nest Ball SVI 181
+2 Rare Candy PAF 89 PH
+2 Super Rod PAL 188
+1 Secret Box TWM 163
+
+Energy: 1
+9 Basic {D} Energy BUS 168
+
+Total Cards: 60
