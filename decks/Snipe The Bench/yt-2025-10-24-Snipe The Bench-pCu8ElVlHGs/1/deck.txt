@@ -1,0 +1,30 @@
+Pokémon: 7
+2 Crabrawler SCR 87
+3 Weavile SFA 14
+2 Torchic DRI 40
+3 Sneasel SFA 13
+1 Combusken DRI 41
+2 Crabominable SCR 42
+2 Blaziken ex JTG 24
+
+Trainer: 15
+1 Counter Catcher PAR 160
+2 Nest Ball PAF 84
+1 Surfing Beach MEG 129
+1 Night Stretcher SFA 61
+2 Air Balloon BLK 79
+2 Powerglass SFA 63
+1 Sacred Ash DRI 168
+4 Iono PAL 185
+4 Arven SVI 166
+4 Buddy-Buddy Poffin PRE 101
+1 Grand Tree SCR 136
+4 Kofu SCR 138
+4 Lillie's Determination MEG 119
+4 Ultra Ball MEG 131
+3 Boss's Orders MEG 114
+
+Energy: 1
+7 Basic {W} Energy SVE 11
+
+Total Cards: 60

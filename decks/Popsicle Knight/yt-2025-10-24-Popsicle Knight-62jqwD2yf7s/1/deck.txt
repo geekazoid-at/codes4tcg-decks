@@ -1,0 +1,25 @@
+Pokémon: 4
+1 Kyogre MEG 34
+3 Mega Abomasnow ex MEG 36
+1 Mega Abomasnow ex MEG 157
+4 Snover MEG 35
+
+Trainer: 13
+2 Boss's Orders MEG 114
+1 Energy Recycler DRI 164
+1 Technical Machine: Turbo Energize PAR 179
+1 Iono PAF 80
+1 Rigid Band MEW 165
+3 Pokégear 3.0 SVI 186
+3 Larry's Skill PRE 115
+1 Secret Box TWM 163
+2 Nest Ball PAF 84
+1 Surfing Beach MEG 129
+2 Artazon PAL 171
+1 Mega Signal MEG 121
+4 Arven SVI 166
+
+Energy: 1
+28 Basic {W} Energy MEE 3
+
+Total Cards: 60
