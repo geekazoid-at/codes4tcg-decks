@@ -1,0 +1,37 @@
+Pokémon: 14
+3 Munkidori TWM 95
+2 Mega Absol ex MEG 86
+2 Mega Kangaskhan ex MEG 104
+1 Bloodmoon Ursaluna ex TWM 141
+1 Fezandipiti ex SFA 38
+1 Latias ex SSP 76
+1 Pecharunt ex SFA 39
+1 Psyduck MEP 7
+1 Tatsugiri TWM 131
+1 Yveltal MEG 88
+
+Trainer: 36
+4 Lillie's Determination MEG 119
+3 Boss's Orders MEG 114
+2 Arven OBF 186
+2 Ciphermaniac's Codebreaking TEF 145
+2 Penny SVI 183
+1 Iono PAL 185
+4 Nest Ball SVI 181
+2 Counter Catcher PAR 160
+2 Energy Switch MEG 115
+2 Mega Signal MEG 121
+1 Enhanced Hammer TWM 148
+1 Night Stretcher SFA 61
+1 Pokégear 3.0 SVI 186
+1 Unfair Stamp TWM 165
+3 Technical Machine: Turbo Energize PAR 179
+2 Bravery Charm PAL 173
+1 Counter Gain SSP 169
+2 Town Store OBF 196
+
+Energy: 10
+7 Basic {D} Energy SVE 7
+3 Mist Energy TEF 161
+
+Total Cards: 60

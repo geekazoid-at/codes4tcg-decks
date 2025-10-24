@@ -1,0 +1,31 @@
+Pokémon: 8
+4 Gastly PFL 54
+4 Mega Gengar ex PFL 56
+2 Liepard PAR 115
+3 Tatsugiri TWM 131
+2 Purrloin WHT 55
+2 Pecharunt ex SFA 39
+4 Haunter PFL 55
+1 Fezandipiti ex SFA 38
+
+Trainer: 15
+2 Ultra Ball SVI 196
+2 Rare Candy SVI 191
+1 Earthen Vessel PAR 163
+2 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+3 Iono PAL 185
+1 Air Balloon BLK 79
+1 Technical Machine: Turbo Energize PAR 179
+2 Super Rod PAL 188
+2 Technical Machine: Evolution PAR 178
+1 Prime Catcher TEF 157
+3 Nest Ball SVI 181
+1 Artazon PAL 171
+4 Arven SVI 166
+2 Boss's Orders PAL 172
+
+Energy: 1
+7 Basic {D} Energy SVE 7
+
+Total Cards: 60
