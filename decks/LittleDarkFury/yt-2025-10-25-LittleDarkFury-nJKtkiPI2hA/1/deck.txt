@@ -1,0 +1,34 @@
+Pokémon: 8
+2 Mega Diancie ex PFL 41
+4 Chansey TWM 133
+4 Blissey ex TWM 134
+1 Farigiraf ex TEF 108
+2 Munkidori PRE 44
+1 Lillie's Clefairy ex JTG 56
+1 Girafarig TWM 83
+1 Cornerstone Mask Ogerpon ex PRE 58
+
+Trainer: 16
+4 Arven SVI 166
+4 Wondrous Patch PFL 94
+2 Boss's Orders PAL 172
+2 Bravery Charm PAL 173
+2 Pokégear 3.0 SVI 186
+3 Ultra Ball MEG 131
+2 Technical Machine: Turbo Energize PAR 179
+2 Town Store OBF 196
+1 Precious Trolley SSP 185
+1 Glass Trumpet SCR 135
+2 Nest Ball PAF 84 PH
+3 Lillie's Determination MEG 119
+1 Switch SVI 194
+3 Iono PAL 185
+1 Penny SVI 183
+1 Night Stretcher SFA 61
+
+Energy: 3
+6 Basic {P} Energy SUM 162
+1 Basic {F} Energy GRI 169
+3 Basic {D} Energy BUS 168
+
+Total Cards: 60
