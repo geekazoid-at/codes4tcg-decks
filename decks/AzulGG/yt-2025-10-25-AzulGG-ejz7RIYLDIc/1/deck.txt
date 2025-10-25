@@ -1,0 +1,37 @@
+Pokémon: 13
+3 Munkidori TWM 95
+2 Bloodmoon Ursaluna PRE 54
+2 Lunatone MEG 74
+2 Solrock MEG 75
+1 Bloodmoon Ursaluna ex TWM 141
+1 Fezandipiti ex SFA 38
+1 Iron Bundle PAR 56
+1 Koraidon ex OBF 124
+
+Trainer: 36
+4 Arven OBF 186
+4 Lillie's Determination MEG 119
+4 Fighting Gong MEG 116
+4 Night Stretcher SFA 61
+3 Nest Ball PAF 84
+1 Energy Retrieval WHT 82
+1 Counter Catcher PAR 160
+1 Earthen Vessel PRE 106
+1 Energy Switch MEG 115
+1 Pokégear 3.0 BLK 84
+1 Secret Box TWM 163
+1 Switch MEG 130
+1 Superior Energy Retrieval PAL 189
+1 Air Balloon BLK 79
+1 Counter Gain SSP 169
+1 Exp. Share SVI 174
+1 Technical Machine: Turbo Energize PAR 179
+1 Vengeful Punch OBF 197
+3 Calamitous Snowy Mountain PAL 174
+1 Artazon PAF 76
+
+Energy: 11
+7 Basic {F} Energy SVE 6
+4 Basic {D} Energy SVE 7
+
+Total Cards: 60

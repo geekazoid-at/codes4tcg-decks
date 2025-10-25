@@ -1,0 +1,35 @@
+Pokémon: 9
+1 Drifloon SVI 89
+1 Scream Tail PAR 86
+3 Munkidori TWM 95
+2 Kirlia MEG 59
+1 Fezandipiti ex SFA 38
+1 Mew ex MEW 151
+1 Mega Diancie ex PFL 41
+2 Gardevoir ex SVI 86
+3 Ralts MEG 58
+
+Trainer: 17
+2 Counter Catcher PAR 160
+1 Secret Box TWM 163
+3 Night Stretcher SFA 61
+1 Mystery Garden MEG 122
+2 Nest Ball SVI 181
+2 Rare Candy MEG 125
+1 Artazon PAL 171
+2 Arven OBF 186
+2 Bravery Charm PAL 173
+4 Iono PAL 185
+1 Technical Machine: Evolution PAR 178
+2 Professor's Research JTG 155
+1 Buddy-Buddy Poffin TEF 144
+3 Lillie's Determination MEG 119
+4 Ultra Ball MEG 131
+3 Earthen Vessel PAR 163
+1 Energy Switch MEG 115
+
+Energy: 2
+7 Basic {P} Energy SVE 21
+3 Basic {D} Energy SVE 23
+
+Total Cards: 60
