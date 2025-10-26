@@ -1,0 +1,31 @@
+Pokémon: 11
+4 Garbodor PAR 117
+1 Fezandipiti ex SFA 38
+2 Brute Bonnet PAR 123
+4 Trubbish WHT 59
+
+Trainer: 42
+2 Buddy-Buddy Poffin PRE 101
+1 Earthen Vessel PRE 106
+2 Brock's Scouting JTG 146
+4 Ancient Booster Energy Capsule TEF 140
+1 Treasure Tracker PRE 131
+4 Lillie's Determination MEG 119
+2 Air Balloon BLK 79
+2 Technical Machine: Devolution PAR 177
+2 Binding Mochi PRE 95
+1 Technical Machine: Turbo Energize PAR 179
+4 Technical Machine: Evolution PAR 178
+3 Technical Machine: Crisis Punch PAF 90
+1 Town Store OBF 196
+1 Perilous Jungle TEF 156
+2 Sacred Ash DRI 168
+2 Arven SVI 166
+4 Technical Machine: Blindside PAR 176
+4 TM Machine DRI 181
+
+Energy: 7
+6 Basic {D} Energy SVE 7
+1 Ignition Energy WHT 86
+
+Total Cards: 60
