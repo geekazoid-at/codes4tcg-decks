@@ -1,0 +1,33 @@
+Pokémon: 4
+1 Budew PRE 4 PH
+4 Lilligant JTG 7
+4 Petilil BLK 6
+3 Budew PRE 4
+
+Trainer: 21
+4 Forest of Vitality MEG 117
+2 Counter Catcher PAR 160
+2 Air Balloon SSH 156
+1 Bug Catching Set TWM 143
+1 Secret Box TWM 163
+1 Enhanced Hammer TWM 148
+4 Night Stretcher SFA 61
+1 Enhanced Hammer GRI 124
+1 Sacred Ash DRI 168
+3 Iono PAL 185
+4 Arven SVI 166
+2 Grusha PAL 184
+1 Giacomo PAL 182
+1 Grusha PAL 184 PH
+2 Defiance Band SVI 169
+3 Bug Catching Set PRE 102
+3 Buddy-Buddy Poffin PRE 101
+4 Lillie's Determination MEG 119
+1 Switch MEG 130
+4 Ultra Ball MEG 131
+2 Boss's Orders MEG 114
+
+Energy: 1
+1 Reversal Energy PAL 192
+
+Total Cards: 60
