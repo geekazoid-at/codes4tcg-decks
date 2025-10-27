@@ -1,0 +1,30 @@
+Pokémon: 6
+2 Latios MEG 101 PH
+1 Squawkabilly ex PAL 264
+1 Latias ex SSP 239
+1 Fezandipiti ex SFA 92
+3 Ethan's Ho-Oh ex DRI 230
+3 Mega Latias ex MEG 100
+
+Trainer: 14
+3 Energy Retrieval WHT 82 PH
+4 Earthen Vessel SFA 96
+2 Gravity Mountain SSP 250
+3 Iono PAL 269
+3 Night Stretcher SSP 251
+4 Nest Ball SUM 158
+4 Ultra Ball BRS 186
+1 Pal Pad FLF 92 PH
+4 Professor's Research SVI 240
+1 Maximum Belt TEF 154
+2 Iris's Fighting Spirit JTG 180
+2 Bravery Charm SCR 175
+2 Boss's Orders RCL 189
+2 Switch MEW 206
+
+Energy: 3
+1 Basic {W} Energy PAL 279
+8 Basic {R} Energy OBF 230
+3 Basic {P} Energy MEW 207
+
+Total Cards: 60
