@@ -1,0 +1,33 @@
+Pokémon: 11
+2 Hop's Snorlax PR-SV 184
+1 Mega Mawile ex MEG 162
+3 Metang TEF 114 PH
+1 Genesect SFA 40 PH
+1 Iron Bundle PR-SV 66
+1 Fezandipiti ex SFA 38
+1 Metagross TEF 178
+1 Genesect ex BLK 161
+3 Beldum TEF 113 PH
+1 Mew ex MEW 193
+2 Hop's Zacian ex JTG 176
+
+Trainer: 14
+1 Precious Trolley SSP 185
+1 Super Rod PAL 276
+3 Lillie's Determination MEG 119 PH
+4 Nest Ball SVI 255
+3 Hop's Choice Band JTG 148 PH
+4 Arven PAF 235
+2 Iono PAF 237
+2 Ultra Ball PLF 122
+2 Boss's Orders PAL 265
+1 Counter Catcher PAR 264
+1 Vitality Band SVI 197 PH
+3 Postwick JTG 154 PH
+1 Switch SUM 160
+2 Air Balloon SSH 213
+
+Energy: 1
+13 Basic {M} Energy EVS 237
+
+Total Cards: 60
