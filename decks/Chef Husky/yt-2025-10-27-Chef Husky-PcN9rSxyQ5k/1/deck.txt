@@ -1,0 +1,32 @@
+Pokémon: 8
+2 Toxel PFL 67
+2 Munkidori TWM 95
+3 Okidogi ex SFA 36
+1 Fezandipiti ex SFA 38
+2 Toxtricity PFL 68
+2 Pecharunt ex SFA 39
+2 Mega Gengar ex PFL 56
+1 Munkidori ex SFA 37
+
+Trainer: 16
+1 Counter Catcher PAR 160
+3 Grimsley's Move PFL 90
+1 Secret Box TWM 163
+2 Academy at Night SFA 54
+4 Janine's Secret Art PRE 112
+1 Energy Search SVI 172
+1 Energy Recycler DRI 164
+3 Night Stretcher SFA 61
+1 Mega Signal MEG 121
+4 Nest Ball SVI 181
+3 Binding Mochi SFA 55
+2 Arven SVI 166
+3 Lillie's Determination MEG 119
+2 Iono PAF 80
+3 Ultra Ball MEG 131
+2 Boss's Orders MEG 114
+
+Energy: 1
+9 Basic {D} Energy SVE 7
+
+Total Cards: 60

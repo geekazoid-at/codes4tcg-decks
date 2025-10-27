@@ -1,0 +1,38 @@
+Pokémon: 9
+1 Pecharunt ex SFA 39
+1 Fezandipiti ex SFA 38
+1 Psyduck MEP 7
+2 Munkidori TWM 95
+4 N's Zorua JTG 97
+4 N's Zoroark ex JTG 98
+1 Mega Gengar ex PFL 56
+1 N's Reshiram JTG 116
+1 Hydreigon ex SSP 119
+
+Trainer: 20
+2 Hilda WHT 84 PH
+2 Grimsley's Move PFL 90
+2 Boss's Orders MEG 114 PH
+2 Lillie's Determination MEG 119
+1 Super Rod PAL 188
+1 Artazon PAF 76
+2 Air Balloon BLK 79
+1 Academy at Night SFA 54
+4 Buddy-Buddy Poffin TEF 144 PH
+1 Nest Ball SVI 181 PH
+1 Ultra Ball MEG 131
+1 Pal Pad SVI 182
+1 Night Stretcher SFA 61
+2 Energy Switch SVI 173
+3 Iono PAL 185
+2 Professor Turo's Scenario PRE 121 PH
+2 Counter Catcher PAR 160 PH
+2 N's PP Up JTG 153
+3 Cyrano SSP 170
+1 Binding Mochi PRE 95
+
+Energy: 2
+7 Basic {D} Energy BUS 168
+1 Neo Upper Energy TEF 162
+
+Total Cards: 60
