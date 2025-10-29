@@ -1,0 +1,29 @@
+Pokémon: 11
+4 Xatu PAR 72
+4 Houndstone ex OBF 102
+1 Mew ex MEW 151
+4 Houndstone PAF 43
+1 Fezandipiti ex SFA 38
+1 Team Rocket's Mimikyu DRI 87
+4 Natu PAR 71
+4 Cleffa OBF 80
+1 Frillish WHT 44
+1 Lillie's Clefairy ex JTG 56
+4 Greavard PAF 42
+
+Trainer: 10
+4 Ultra Ball SVI 196
+1 Academy at Night SFA 54
+1 Brilliant Blender SSP 164
+1 Air Balloon BLK 79
+2 Super Rod PAL 188
+4 Professor's Research PRE 122
+4 Wondrous Patch PFL 94
+4 Carmine TWM 145
+1 Artazon PAL 171
+1 Boss's Orders PAL 172
+
+Energy: 1
+8 Basic {P} Energy SVE 5
+
+Total Cards: 60

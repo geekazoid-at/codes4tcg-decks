@@ -1,0 +1,53 @@
+Pokémon: 8
+2 Dragapult ex TWM 130
+3 Drakloak TWM 129
+4 Dreepy TWM 128
+1 Fezandipiti ex SFA 38
+1 Munkidori TWM 95
+2 Duskull PRE 35
+1 Dusclops PRE 36
+1 Dusknoir PRE 37
+
+Trainer: 33
+1 Amulet of Hope SSP 162
+1 Awakening Drum TEF 141
+1 Brilliant Blender SSP 164
+1 Dangerous Laser SFA 58
+1 Deluxe Bomb SCR 134
+1 Energy Search Pro SSP 176
+1 Grand Tree SCR 136
+1 Hero's Cape TEF 152
+1 Hyper Aroma TWM 152
+1 Master Ball TEF 153
+1 Max Rod PRE 116
+1 Maximum Belt TEF 154
+1 Megaton Blower SSP 182
+1 Miracle Headset SSP 183
+1 Neutralization Zone SFA 60
+1 Poké Vital A SFA 62
+1 Precious Trolley SSP 185
+1 Prime Catcher TEF 157
+1 Reboot Pod TEF 158
+1 Scoop Up Cyclone TWM 162
+1 Scramble Switch SSP 186
+1 Secret Box TWM 163
+1 Sparkling Crystal PRE 129
+1 Survival Brace TWM 164
+1 Treasure Tracker PRE 131
+1 Unfair Stamp TWM 165
+4 Rare Candy MEG 125
+4 Switch SVI 194
+1 Buddy-Buddy Poffin PRE 101
+1 Iono PAF 80
+1 Ultra Ball MEG 131
+1 Boss's Orders MEG 114
+2 Lillie's Determination MEG 119
+
+Energy: 5
+1 Enriching Energy SSP 191
+1 Legacy Energy TWM 167
+1 Neo Upper Energy TEF 162
+1 Basic {R} Energy SVE 10
+1 Basic {P} Energy SVE 13
+
+Total Cards: 60
