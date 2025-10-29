@@ -1,0 +1,37 @@
+Pokémon: 8
+1 Koraidon SSP 116
+3 Munkidori TWM 95
+1 Fezandipiti ex SFA 38
+1 Froslass TWM 53
+1 Budew PRE 4
+1 Snorunt PAR 37
+4 Brute Bonnet TWM 118
+1 Shaymin DRI 10
+
+Trainer: 21
+2 Counter Catcher PAR 160
+1 Precious Trolley SSP 185
+1 Janine's Secret Art PRE 112
+4 Professor Sada's Vitality PAR 256
+1 Boss's Orders PR-SW 251
+3 Exp. Share SVI 174
+1 Pokégear 3.0 SVI 186
+3 Night Stretcher SFA 61
+1 Pal Pad SVI 182
+1 Penny SVI 183
+2 Nest Ball SVI 181
+2 Risky Ruins MEG 127
+4 Arven PAF 235
+1 Calamitous Snowy Mountain PAL 174
+2 Ancient Booster Energy Capsule PAR 159
+1 Iono PAL 185
+1 Technical Machine: Turbo Energize PAR 179
+2 Earthen Vessel PRE 106
+3 Ultra Ball SVI 196
+2 Professor's Research PRE 122
+1 Switch SVI 194
+
+Energy: 1
+8 Basic {D} Energy SVE 7
+
+Total Cards: 60

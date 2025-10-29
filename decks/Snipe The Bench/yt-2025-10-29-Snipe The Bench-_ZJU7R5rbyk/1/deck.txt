@@ -1,0 +1,32 @@
+Pokémon: 5
+3 Aerodactyl MEW 142
+1 Alolan Exeggutor ex SSP 242
+2 Alolan Exeggutor ex SSP 133
+4 Exeggcute SSP 1
+1 Fezandipiti ex SFA 38
+
+Trainer: 17
+1 Counter Catcher PAR 160
+2 Pokégear 3.0 SVI 186
+1 Night Stretcher SFA 61
+4 Antique Old Amber MEW 154
+3 Boss's Orders PAL 172
+4 Iono PAL 185
+2 Arven SVI 166
+1 Professor Turo's Scenario PAR 171
+1 Technical Machine: Devolution PAR 177
+1 Superior Energy Retrieval PAL 189
+1 Super Rod PAL 188
+3 Crispin SCR 133
+3 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+4 Ultra Ball SVI 196
+2 Switch SVI 194
+1 Sparkling Crystal SCR 142
+
+Energy: 3
+4 Basic {G} Energy SVE 1
+4 Basic {W} Energy SVE 11
+3 Basic {F} Energy SVE 14
+
+Total Cards: 60

@@ -1,0 +1,31 @@
+Pokémon: 8
+4 Weezing MEW 110
+2 Gastly PFL 54
+3 Mega Gengar ex PFL 56
+1 Haunter MEP 27
+1 Fezandipiti ex SFA 38
+2 Team Rocket's Weezing DRI 126
+2 Team Rocket's Koffing DRI 125
+4 Koffing JTG 91
+
+Trainer: 15
+2 Arven OBF 186
+3 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+1 Grimsley's Move PFL 90
+2 Boss's Orders MEG 114
+2 Night Stretcher SFA 61
+2 Switch MEG 130
+3 Ultra Ball MEG 131
+2 Super Rod PAL 188
+1 Iono PAF 80
+1 Hero's Cape TEF 152
+1 Janine's Secret Art PRE 112
+2 Nest Ball PAF 84
+2 Artazon PAL 171
+2 Rare Candy MEG 125
+
+Energy: 1
+11 Basic {D} Energy MEE 7
+
+Total Cards: 60
