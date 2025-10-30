@@ -1,0 +1,30 @@
+Pokémon: 11
+1 Klefki SVI 96
+1 Shaymin DRI 10
+4 Dusknoir PRE 37
+1 Latias ex SSP 76
+1 Pidgeot ex OBF 164
+4 Duskull PRE 35
+1 Pidgey OBF 162
+4 Dusclops PRE 36
+1 Fezandipiti ex SFA 38
+2 Budew PRE 4
+2 Bloodmoon Ursaluna ex TWM 141
+
+Trainer: 11
+4 Ultra Ball SVI 196
+4 Rare Candy SVI 191
+2 Defiance Band SVI 169
+4 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+3 Counter Catcher PAR 160
+4 Iono PAL 185
+3 Night Stretcher SFA 61
+2 Professor's Research JTG 155
+3 Nest Ball SVI 181
+1 Unfair Stamp TWM 165
+
+Energy: 1
+4 Jet Energy PAL 190
+
+Total Cards: 60

@@ -1,0 +1,36 @@
+Pokémon: 8
+4 Palafin TWM 60
+1 Dedenne-GX SMALT 156
+1 Munkidori SFA 72
+4 Finizen TWM 59
+1 Tapu Lele-GX SMALT 38
+3 Palafin ex TWM 193
+1 Crobat V LOR-TG 20
+1 Lumineon V CRZ-GG 39
+
+Trainer: 18
+1 Hisuian Heavy Ball ASR 146
+1 Leon VIV 182
+4 Night Stretcher MEG 173
+1 Field Blower SMALT 44
+4 Quick Ball SSH 216
+1 Raihan EVS 202
+1 Air Balloon MEG 166
+3 Buddy-Buddy Poffin MEG 167
+1 Hilda WHT 171
+1 Choice Belt ASR 211
+3 Guzma HIF 153
+3 Evolution Incense SSH 163
+1 Choice Band BUS 162
+1 Forest Seal Stone SIT 156
+1 Secret Box TWM 163
+4 Surfing Beach MEG 129
+3 Lillie's Determination MEG 184
+2 Max Potion SMALT 45
+
+Energy: 3
+2 Wash {W} Energy VIV 165
+4 Basic {W} Energy CIN 124
+2 Luminous Energy TWM 226
+
+Total Cards: 60
