@@ -1,0 +1,27 @@
+Pokémon: 16
+4 Beldum TEF 113
+4 Metang TEF 114
+2 Wellspring Mask Ogerpon ex TWM 64
+1 Mega Mawile ex MEG 94
+1 Mew ex MEW 151
+1 Fezandipiti ex SFA 38
+1 Budew PRE 4
+1 Mega Kangaskhan ex MEG 104
+1 Lillie's Clefairy ex JTG 56
+
+Trainer: 28
+4 Lillie's Determination MEG 119
+3 Iono PAL 185
+3 Boss's Orders MEG 114
+3 Professor's Research JTG 155
+4 Ultra Ball MEG 131
+4 Super Rod PAL 188
+4 Nest Ball SVI 181
+2 Buddy-Buddy Poffin TEF 144
+1 Prime Catcher TEF 157
+
+Energy: 16
+12 Basic {M} Energy SVE 8
+4 Prism Energy BLK 86
+
+Total Cards: 60
