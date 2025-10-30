@@ -1,0 +1,41 @@
+Pokémon: 23
+4 Hoothoot SCR 114
+4 Noctowl SCR 115
+2 Fan Rotom SCR 118
+2 Wellspring Mask Ogerpon ex TWM 64
+1 Pikachu ex SSP 57
+1 Teal Mask Ogerpon ex TWM 25
+1 Terapagos ex SCR 128
+1 Lillie's Clefairy ex JTG 56
+1 Mega Mawile ex MEG 94
+1 Iron Leaves ex TEF 25
+1 Latias ex SSP 76
+1 Mew ex MEW 151
+1 Fezandipiti ex SFA 38
+1 Iron Bundle PAR 56
+1 Ditto MEW 132
+
+Trainer: 27
+4 Crispin SCR 133
+2 Boss's Orders MEG 114
+1 Professor Turo's Scenario PAR 171
+1 Lillie's Determination MEG 119
+4 Nest Ball SVI 181
+4 Ultra Ball MEG 131
+2 Energy Switch MEG 115
+1 Night Stretcher SFA 61
+1 Buddy-Buddy Poffin TEF 144
+1 Super Rod PAL 188
+1 Earthen Vessel PAR 163
+1 Sparkling Crystal SCR 142
+1 Air Balloon BLK 79
+3 Area Zero Underdepths SCR 131
+
+Energy: 10
+4 Basic {G} Energy SVE 1
+3 Basic {M} Energy SVE 8
+1 Basic {W} Energy SVE 3
+1 Basic {L} Energy SVE 4
+1 Basic {P} Energy SVE 5
+
+Total Cards: 60

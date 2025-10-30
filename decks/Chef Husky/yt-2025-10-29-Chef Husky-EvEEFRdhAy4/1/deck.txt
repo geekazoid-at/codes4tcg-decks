@@ -1,0 +1,37 @@
+Pokémon: 11
+2 Finizen TWM 59
+1 Psyduck MEP 7
+1 Munkidori TWM 95
+3 Palafin ex TWM 61
+1 Fezandipiti ex SFA 38
+1 Alomomola BLK 24
+2 Finizen OBF 60
+1 Palafin OBF 62
+3 Palafin TWM 60
+2 Starmie MEW 121
+2 Staryu MEW 120
+
+Trainer: 17
+1 Nest Ball PAF 84
+1 Energy Search SVI 172
+3 Surfing Beach MEG 129
+1 Maximum Belt TEF 154
+1 Night Stretcher SFA 61
+2 Arven OBF 186
+2 Boss's Orders PAL 172
+3 Air Balloon BLK 79
+1 Kieran TWM 154
+4 Iono PAL 185
+1 Surfing Beach MEG 129 PH
+1 Super Rod PAL 188
+2 Colress's Tenacity SFA 57
+4 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+3 Ultra Ball SVI 196
+1 Switch SVI 194
+
+Energy: 2
+3 Luminous Energy PAL 191
+3 Basic {W} Energy SVE 19
+
+Total Cards: 60
