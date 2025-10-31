@@ -1,0 +1,32 @@
+Pokémon: 24
+4 Abra MEG 54
+4 Kadabra MEG 55
+4 Alakazam MEG 56
+3 Dunsparce PAL 156
+4 Dudunsparce TEF 129
+1 Psyduck MEP 7
+1 Golduck MEP 8
+1 Iron Bundle PAR 56
+1 Shaymin DRI 10
+1 Fezandipiti ex SFA 38
+
+Trainer: 30
+4 Dawn M 2 77
+2 Tulip PAR 181
+2 Bill's Transfer MEW 156
+2 Lillie's Determination MEG 119
+1 Boss's Orders MEG 114
+4 Buddy-Buddy Poffin PRE 101
+4 Great Ball PAL 183
+2 Enhanced Hammer TWM 148
+2 Counter Catcher PAR 160
+2 Sacred Ash DRI 168
+2 Rare Candy SVI 191
+3 Artazon PAF 76
+
+Energy: 6
+4 Basic {P} Energy SVE 5
+1 Legacy Energy TWM 167
+1 Jet Energy PAL 190
+
+Total Cards: 60
