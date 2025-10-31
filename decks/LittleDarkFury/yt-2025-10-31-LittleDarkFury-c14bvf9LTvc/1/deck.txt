@@ -1,0 +1,34 @@
+Pokémon: 7
+4 Drifblim SCR 61
+1 Tatsugiri TWM 131
+1 Fezandipiti ex SFA 38
+4 Drifloon SVI 89
+1 Lillie's Clefairy ex JTG 56
+1 Relicanth TEF 84
+2 Munkidori TWM 95
+
+Trainer: 18
+4 Lillie's Determination MEG 119
+2 Super Rod PAL 188
+2 Artazon PAF 76
+2 Air Balloon BLK 79
+4 Buddy-Buddy Poffin PRE 101 PH
+2 Tulip PAR 181
+1 Max Rod PRE 116
+1 Earthen Vessel PRE 106
+3 Ultra Ball SVI 196
+1 Night Stretcher SFA 61
+2 Bravery Charm PAL 173
+2 Iono PAL 185
+1 Counter Catcher PAR 160 PH
+2 Professor's Research JTG 155 PH
+3 Wondrous Patch PFL 94
+3 Arven SVI 166 PH
+1 Brave Bangle WHT 80
+2 Boss's Orders MEG 114
+
+Energy: 2
+6 Basic {P} Energy SUM 162
+2 Basic {D} Energy BUS 168
+
+Total Cards: 60
