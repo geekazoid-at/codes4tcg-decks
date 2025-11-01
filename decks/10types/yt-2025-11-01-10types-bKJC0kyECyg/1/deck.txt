@@ -1,0 +1,29 @@
+Pokémon: 10
+4 Kadabra MEG 55
+2 Feebas DAA 38
+2 Milotic EVS 38
+1 Unown LOT 91
+4 Dunsparce PAL 156
+4 Abra MEG 54
+3 Alakazam MEG 56
+4 Dudunsparce TEF 129
+1 Fezandipiti ex SFA 38
+2 Budew PRE 4
+
+Trainer: 11
+1 Gladion CIN 95
+4 Switch SVI 194
+4 Buddy-Buddy Poffin TEF 144
+2 Counter Catcher PAR 160
+3 Great Ball PAL 183
+2 Billy & O'Nare JTG 142 PH
+2 Rescue Stretcher GRI 130
+4 Scoop Up Net RCL 165
+2 Artazon PAL 171
+4 Hilda WHT 84
+4 Rare Candy MEG 125
+
+Energy: 1
+1 Enriching Energy SSP 191
+
+Total Cards: 60
