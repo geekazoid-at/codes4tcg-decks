@@ -1,0 +1,34 @@
+Pokémon: 22
+4 Dreepy TWM 128
+4 Drakloak TWM 129
+2 Dragapult ex TWM 130
+2 Duskull PRE 35
+2 Dusclops SFA 19
+1 Dusknoir SFA 20
+2 Budew PRE 4
+1 Fezandipiti ex SFA 38
+1 Latias ex SSP 76
+1 Bloodmoon Ursaluna ex TWM 141
+1 Hawlucha SVI 118
+1 Munkidori TWM 95
+
+Trainer: 30
+4 Iono PAF 80
+4 Dawn M 2 77
+2 Lillie's Determination MEG 119
+2 Boss's Orders MEG 114
+1 Professor Turo's Scenario PRE 121
+4 Buddy-Buddy Poffin PRE 101
+4 Ultra Ball MEG 131
+3 Counter Catcher PAR 160
+2 Night Stretcher SFA 61
+2 Nest Ball SVI 181
+2 Jamming Tower TWM 153
+
+Energy: 8
+3 Luminous Energy PAL 191
+2 Basic {R} Energy SVE 2
+2 Basic {P} Energy SVE 5
+1 Neo Upper Energy TEF 162
+
+Total Cards: 60
