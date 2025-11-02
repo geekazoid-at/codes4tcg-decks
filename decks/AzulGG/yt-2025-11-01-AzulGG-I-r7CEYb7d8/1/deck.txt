@@ -1,0 +1,30 @@
+Pokémon: 19
+2 Bulbasaur MEG 1
+2 Ivysaur MEG 2
+2 Mega Venusaur ex MEG 3
+2 Chikorita MEG 8
+2 Bayleef MEG 9
+2 Meganium MEG 10
+2 Teal Mask Ogerpon ex TWM 25
+2 Celebi MEG 12
+1 Wo-Chien ex PAL 27
+1 Fezandipiti ex SFA 38
+1 Regigigas PRE 86
+
+Trainer: 32
+4 Iono PAL 185
+4 Lillie's Determination MEG 119
+3 Dawn M 2 77
+2 Boss's Orders MEG 114
+2 Professor Turo's Scenario PAR 171
+4 Bug Catching Set TWM 143
+4 Nest Ball SVI 181
+3 Ultra Ball MEG 131
+1 Max Rod PRE 116
+1 Super Rod PAL 188
+4 Forest of Vitality MEG 117
+
+Energy: 9
+9 Basic {G} Energy SVE 1
+
+Total Cards: 60
