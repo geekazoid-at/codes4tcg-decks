@@ -1,0 +1,28 @@
+Pokémon: 14
+3 Mega Absol ex MEG 86
+2 Toxel M 2 56
+2 Toxtricity M 2 57
+2 Munkidori TWM 95
+2 Pecharunt ex SFA 39
+2 Squawkabilly ex PAL 169
+1 Fezandipiti ex SFA 38
+
+Trainer: 36
+4 Boss's Orders MEG 114
+4 Carmine PRE 103
+3 Judge SVI 176
+2 Iono PAF 80
+2 Lillie's Determination MEG 119
+4 Nest Ball SVI 181
+4 Pokégear 3.0 SVI 186
+4 Ultra Ball MEG 131
+2 Super Rod PAL 188
+1 Pal Pad SVI 182
+3 Bravery Charm PAL 173
+3 Lively Stadium SSP 180
+
+Energy: 10
+9 Basic {D} Energy SVE 7
+1 Legacy Energy TWM 167
+
+Total Cards: 60
