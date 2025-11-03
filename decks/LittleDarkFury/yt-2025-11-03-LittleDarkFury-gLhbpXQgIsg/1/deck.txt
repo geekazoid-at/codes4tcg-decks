@@ -1,0 +1,36 @@
+Pokémon: 13
+2 Pidgeot ex OBF 164
+4 Cinderace MEG 28
+1 Scorbunny SCR 26
+4 Swinub JTG 77
+1 Blaziken ex JTG 24
+1 Combusken DRI 41
+2 Piloswine JTG 78
+2 Pidgey PAF 196
+1 Luxray PAL 71
+1 Klinklang SCR 101
+1 Pidgeotto OBF 163
+1 Torchic DRI 40
+3 Mamoswine ex JTG 79
+
+Trainer: 15
+1 Artazon PAF 76
+2 Boss's Orders MEG 114 PH
+1 Buddy-Buddy Poffin TEF 144 PH
+1 Counter Catcher PAR 160 PH
+1 Premium Power Pro MEG 124
+1 Dawn PFL 87
+4 Rare Candy MEG 125
+1 Big Air Balloon MEW 155
+3 Ultra Ball PAF 91
+1 Precious Trolley SSP 185
+2 Technical Machine: Evolution PAR 178
+4 Lillie's Determination MEG 119
+2 Iono PAF 80
+4 Arven SVI 166 PH
+1 Super Rod PAL 188
+
+Energy: 1
+7 Basic {F} Energy GRI 169
+
+Total Cards: 60
