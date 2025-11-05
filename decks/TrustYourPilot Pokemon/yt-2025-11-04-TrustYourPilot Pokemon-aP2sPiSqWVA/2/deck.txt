@@ -1,0 +1,35 @@
+Pokémon: 13
+3 Kadabra MEG 55
+1 Shaymin DRI 10
+2 Tinkatuff MEG 97
+2 Tinkaton PAL 105
+3 Abra TWM 80
+3 Tinkatink PAL 102
+1 Tinkaton ex PR-SV 31
+3 Alakazam MEG 56
+3 Dunsparce TEF 128
+1 Fezandipiti ex SFA 38
+2 Dudunsparce TEF 129
+1 Cleffa OBF 80
+1 Psyduck MEP 7
+
+Trainer: 11
+3 Ultra Ball SVI 196
+3 Rare Candy SVI 191
+4 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+2 Air Balloon BLK 79
+2 Night Stretcher SFA 61
+2 Bill's Transfer MEW 156
+2 Wondrous Patch PFL 94
+1 Tulip PAR 181
+2 Boss's Orders PAL 172
+1 Hilda WHT 84
+
+Energy: 4
+1 Enriching Energy SSP 191
+5 Basic {P} Energy SVE 5
+1 Ignition Energy WHT 86
+1 Jet Energy PAL 190
+
+Total Cards: 60

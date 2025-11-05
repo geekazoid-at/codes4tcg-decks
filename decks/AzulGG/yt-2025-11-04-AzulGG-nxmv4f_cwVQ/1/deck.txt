@@ -1,0 +1,40 @@
+Pokémon: 21
+3 Charmander PAF 7
+1 Charmeleon MEW 5
+1 Charmeleon PAF 8
+2 Charizard ex OBF 125
+2 Dunsparce PAL 156
+2 Dudunsparce PRE 80
+1 Pidgey MEW 16
+1 Pidgeotto MEW 17
+1 Pidgeot ex OBF 164
+1 Psyduck MEP 7
+1 Chi-Yu PAR 29
+1 Fezandipiti ex SFA 38
+1 Gouging Fire ex TEF 38
+1 Munkidori PRE 44
+1 Shaymin DRI 10
+1 Tatsugiri TWM 131
+
+Trainer: 30
+4 Dawn M 2 77
+2 Iono PAF 80
+2 Boss's Orders MEG 114
+1 Arven SVI 166
+1 Briar PRE 100
+1 Professor Turo's Scenario PRE 121
+4 Rare Candy MEG 125
+4 Buddy-Buddy Poffin PRE 101
+4 Ultra Ball MEG 131
+2 Counter Catcher PAR 160
+2 Super Rod PAL 188
+1 Maximum Belt PRE 117
+2 Artazon PAL 171
+
+Energy: 9
+5 Basic {R} Energy SVE 2
+2 Mist Energy TEF 161
+1 Jet Energy PAL 190
+1 Luminous Energy PAL 191
+
+Total Cards: 60
