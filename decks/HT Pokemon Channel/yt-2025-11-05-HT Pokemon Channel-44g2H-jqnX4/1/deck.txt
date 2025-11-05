@@ -1,0 +1,30 @@
+Pokémon: 14
+2 Mega Diancie ex MBD 5
+3 Togepi OBF 83
+2 Togetic SSP 71
+3 Togekiss SSP 72
+1 Latias ex SSP 76
+1 Lillie's Clefairy ex JTG 56
+1 Bloodmoon Ursaluna ex TWM 141
+1 Squawkabilly ex PAL 169
+
+Trainer: 38
+4 Nest Ball SVI 181
+3 Ultra Ball SVI 196
+3 Night Stretcher SFA 61
+3 Rare Candy SVI 191
+3 Wonder Patch MBD 15
+2 Earthen Vessel PAR 163
+1 Buddy-Buddy Poffin TEF 144
+1 Prime Catcher TEF 157
+2 Powerglass SFA 63
+2 Mystery Garden MEG 122
+4 Lillie's Determination MEG 119
+4 Arven SVI 166
+4 Boss's Orders PAL 172
+2 Iono PAL 185
+
+Energy: 8
+8 Basic {P} Energy SVE 5
+
+Total Cards: 60
