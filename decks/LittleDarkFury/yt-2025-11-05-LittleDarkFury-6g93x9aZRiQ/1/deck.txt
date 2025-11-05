@@ -1,0 +1,38 @@
+Pokémon: 16
+3 Teal Mask Ogerpon ex TWM 25
+2 Wellspring Mask Ogerpon ex TWM 64
+1 Pikachu ex SSP 57
+1 Iron Hands ex PAR 70
+1 Lillie's Clefairy ex JTG 56
+1 Mew ex MEW 151
+1 Fezandipiti ex SFA 38
+1 Squawkabilly ex PAL 169
+1 Latias ex SSP 76
+1 Pecharunt ex SFA 39
+1 Budew PRE 4
+1 Iron Bundle PAR 56
+1 Passimian SSP 111
+
+Trainer: 33
+4 Lillie's Determination MEG 119
+3 Crispin SCR 133
+3 Boss's Orders MEG 114
+1 Judge DRI 167
+4 Nest Ball SVI 181
+4 Ultra Ball MEG 131
+4 Energy Switch MEG 115
+3 Earthen Vessel PAR 163
+2 Night Stretcher SFA 61
+1 Super Rod PAL 188
+1 Sparkling Crystal SCR 142
+3 Area Zero Underdepths SCR 131
+
+Energy: 11
+5 Basic {G} Energy SVE 1
+2 Basic {L} Energy SVE 4
+1 Basic {F} Energy SVE 6
+1 Basic {W} Energy SVE 3
+1 Basic {P} Energy SVE 5
+1 Basic {M} Energy SVE 8
+
+Total Cards: 60
