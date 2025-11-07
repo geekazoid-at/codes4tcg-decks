@@ -1,0 +1,32 @@
+Pokémon: 7
+4 Zweilous SSP 118
+4 Deino SSP 117
+2 Haunter PFL 55
+1 Fezandipiti ex SFA 38
+2 Mega Gengar ex PFL 56
+2 Gastly PFL 54
+1 Hydreigon ex SSP 119
+
+Trainer: 17
+2 Hassel TWM 151
+4 Lillie's Determination MEG 119
+1 Lana's Aid TWM 155
+2 Super Rod PAL 188
+2 Artazon PAF 76
+2 Air Balloon BLK 79
+4 Buddy-Buddy Poffin PRE 101 PH
+1 Rare Candy SVI 191 PH
+1 Earthen Vessel PRE 106 PH
+3 Ultra Ball MEG 131 PH
+1 Iono PAF 80
+4 Counter Catcher PAR 160 PH
+2 Technical Machine: Evolution PAR 178
+1 Eri TEF 146 PH
+4 Arven SVI 166
+3 Gravity Gemstone SCR 137
+1 Neutralization Zone SFA 60
+
+Energy: 1
+6 Basic {D} Energy BUS 168
+
+Total Cards: 60
