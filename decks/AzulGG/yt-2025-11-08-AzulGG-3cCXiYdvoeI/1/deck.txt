@@ -1,0 +1,32 @@
+Pokémon: 20
+2 Slowpoke SVI 42
+2 Slowpoke SCR 57
+3 Slowking SCR 58
+3 Yungoos MEG 109
+2 Gumshoos MEG 110
+2 Kyurem SFA 47
+1 Cleffa OBF 80
+1 Fezandipiti ex SFA 38
+1 Haxorus BLK 70
+1 Regigigas PRE 86
+1 Tatsugiri TWM 131
+1 Conkeldurr TWM 105
+
+Trainer: 30
+4 Lillie's Determination MEG 119
+3 Professor's Research PRE 122
+2 Iono PAF 80
+1 Professor Turo's Scenario PRE 121
+4 Buddy-Buddy Poffin TEF 144
+4 Night Stretcher SFA 61
+4 Wonder Patch MBD 15
+3 Ultra Ball MEG 131
+1 Max Rod PRE 116
+2 Air Balloon BLK 79
+2 Mesagoza SVI 178
+
+Energy: 10
+6 Basic {P} Energy SVE 5
+4 Jet Energy PAL 190
+
+Total Cards: 60

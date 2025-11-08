@@ -1,0 +1,29 @@
+Pokémon: 15
+4 Yamask SCR 62
+3 Cofagrigus ex PAR 76
+2 Iron Valiant ex PAR 89
+1 Frillish WHT 44
+1 Latias ex SSP 76
+1 Lillie's Clefairy ex JTG 56
+1 Mega Diancie ex MBD 5
+1 Bloodmoon Ursaluna ex TWM 141
+1 Squawkabilly ex PAL 169
+
+Trainer: 36
+4 Nest Ball SVI 181
+4 Ultra Ball SVI 196
+4 Switch SVI 194
+4 Wonder Patch MBD 15
+3 Pokégear 3.0 SVI 186
+2 Night Stretcher SFA 61
+2 Earthen Vessel PAR 163
+1 Prime Catcher TEF 157
+3 Mystery Garden MEG 122
+4 Lillie's Determination MEG 119
+3 Boss's Orders PAL 172
+2 Iono PAL 185
+
+Energy: 9
+9 Basic {P} Energy SVE 5
+
+Total Cards: 60
