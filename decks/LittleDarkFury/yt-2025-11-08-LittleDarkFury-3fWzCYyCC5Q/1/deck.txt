@@ -1,0 +1,35 @@
+Pokémon: 7
+1 Psyduck MEP 7
+2 Lunatone MEG 74
+3 Lycanroc JTG 85
+2 Solrock MEG 75
+4 Rockruff JTG 84
+1 Shaymin DRI 10
+1 Bloodmoon Ursaluna ex TWM 141
+
+Trainer: 19
+2 Lana's Aid TWM 155
+1 Hassel TWM 151
+3 Fighting Gong MEG 116
+2 Vengeful Punch OBF 197
+1 Secret Box TWM 163
+1 Superior Energy Retrieval PAL 189
+4 Lillie's Determination MEG 119
+2 Artazon PAF 76
+2 Buddy-Buddy Poffin PRE 101
+2 Nest Ball PAF 84 PH
+2 Earthen Vessel PAR 163 PH
+1 Air Balloon BLK 79 PH
+3 Ultra Ball MEG 131
+2 Night Stretcher SFA 61
+1 Boss's Orders MEG 114 PH
+2 Iono PAL 185
+1 Hilda WHT 84 PH
+1 Counter Catcher PAR 160
+1 Premium Power Pro MEG 124
+
+Energy: 2
+4 Spiky Energy JTG 159
+8 Basic {F} Energy GRI 169
+
+Total Cards: 60
