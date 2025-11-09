@@ -1,0 +1,30 @@
+Pokémon: 8
+1 Manaphy CRZ-GG 6
+4 Diancie CRZ-GG 13
+2 Sizzlipede SSH 37 PH
+2 Centiskorch PR-SW 48
+2 Blastoise PGO 17
+2 Squirtle PGO 15
+2 Charizard PGO 10
+2 Charmander MEW 4
+
+Trainer: 13
+1 Irida ASR 186
+1 Rescue Carrier CRZ 142
+3 Arven PAF 235
+4 Rare Candy MEG 175
+1 Magma Basin BRS 185
+4 Level Ball BST 181
+2 Air Balloon MEG 166
+2 Buddy-Buddy Poffin MEG 167
+3 Cynthia's Ambition CRZ-GG 60
+3 Evolution Incense SSH 163
+1 Pokémon Communication TEU 196
+1 Bruno BST 158
+1 Precious Trolley SSP 185
+
+Energy: 2
+12 Basic {R} Energy BUS 167
+4 Reversal Energy PAR 266
+
+Total Cards: 60
