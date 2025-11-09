@@ -1,0 +1,34 @@
+Pokémon: 8
+1 Psyduck MEP 7
+2 Terapagos ex SCR 128
+2 Xatu PAR 72
+1 Fezandipiti ex SFA 38
+1 Mew ex MEW 151
+4 Lillie's Clefairy ex JTG 56
+1 Team Rocket's Mimikyu DRI 87
+2 Natu PAR 71
+
+Trainer: 18
+1 Counter Catcher PAR 160
+1 Accompanying Flute TWM 142
+1 Prime Catcher TEF 157
+2 Night Stretcher SFA 61
+1 Picnic Basket SVI 184
+4 Nest Ball SVI 181
+2 Boss's Orders PAL 172
+1 Air Balloon BLK 79
+2 Iono PAL 185
+1 Super Rod PAL 188
+4 Lillie's Pearl JTG 151
+3 Area Zero Underdepths SCR 131
+3 Wondrous Patch PFL 94
+2 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+2 Ultra Ball SVI 196
+2 Professor's Research PRE 122
+2 Earthen Vessel PAR 163
+
+Energy: 1
+8 Basic {P} Energy SVE 5
+
+Total Cards: 60

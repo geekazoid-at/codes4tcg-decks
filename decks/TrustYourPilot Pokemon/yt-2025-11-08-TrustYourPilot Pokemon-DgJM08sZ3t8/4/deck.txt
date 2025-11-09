@@ -1,0 +1,35 @@
+Pokémon: 10
+1 Psyduck MEP 7
+2 Azelf SSP 80
+2 Xatu PAR 72
+1 Fezandipiti ex SFA 38
+1 Mew ex MEW 151
+1 Cleffa OBF 80
+2 Lillie's Clefairy ex JTG 56
+2 Uxie SSP 78
+1 Team Rocket's Mimikyu DRI 87
+2 Natu PAR 71
+
+Trainer: 16
+1 Counter Catcher PAR 160
+2 Vengeful Punch OBF 197
+2 Night Stretcher SFA 61
+3 Mystery Garden MEG 122
+4 Nest Ball SVI 181
+2 Boss's Orders PAL 172
+2 Air Balloon BLK 79
+3 Iono PAL 185
+1 Super Rod PAL 188
+2 Lillie's Pearl JTG 151
+1 Buddy-Buddy Poffin PRE 101
+3 Wondrous Patch PFL 94
+4 Lillie's Determination MEG 119
+2 Ultra Ball SVI 196
+3 Professor's Research PRE 122
+2 Earthen Vessel PAR 163
+
+Energy: 2
+1 Legacy Energy TWM 167
+7 Basic {P} Energy SVE 5
+
+Total Cards: 60
