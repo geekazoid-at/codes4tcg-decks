@@ -1,0 +1,36 @@
+Pokémon: 10
+2 Marnie's Grimmsnarl ex DRI 136
+3 Marnie's Impidimp DRI 134
+2 Marnie's Morgrem DRI 135
+2 Mega Gengar ex PFL 56
+2 Gastly PFL 54
+1 Pecharunt ex SFA 39
+3 Munkidori TWM 95
+1 Fezandipiti ex SFA 38
+1 Yveltal MEG 88
+1 Haunter PFL 55
+
+Trainer: 18
+1 Air Balloon BLK 79
+1 Artazon PAF 76
+3 Arven SVI 166
+3 Boss's Orders MEG 114 PH
+2 Buddy-Buddy Poffin PRE 101 PH
+1 Counter Catcher PAR 160 PH
+1 Energy Switch SVI 173 PH
+3 Iono PAL 185
+2 Night Stretcher SFA 61
+1 Nest Ball PAF 84
+2 Rare Candy MEG 125 PH
+1 Super Rod PAL 188
+1 Secret Box TWM 163
+4 Lillie's Determination MEG 119
+2 Spikemuth Gym DRI 169
+2 Technical Machine: Evolution PAR 178
+1 Technical Machine: Devolution PAR 177
+2 Ultra Ball MEG 131
+
+Energy: 1
+9 Basic {D} Energy BUS 168
+
+Total Cards: 60
