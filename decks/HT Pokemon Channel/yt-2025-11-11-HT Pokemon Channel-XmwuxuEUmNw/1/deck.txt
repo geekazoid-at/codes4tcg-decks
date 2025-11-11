@@ -1,0 +1,27 @@
+Pokémon: 16
+3 Chien-Pao ex PAL 61
+2 Wellspring Mask Ogerpon ex TWM 64
+4 Frigibax PAF 17
+2 Arctibax PAL 59
+4 Baxcalibur PAL 60
+1 Veluza PAR 54
+
+Trainer: 35
+4 Nest Ball SVI 181
+3 Ultra Ball SVI 196
+4 Superior Energy Retrieval PAL 189
+4 Rare Candy SVI 191
+1 Night Stretcher SFA 61
+1 Prime Catcher TEF 157
+1 Air Balloon BLK 79
+4 Arven SVI 166
+4 Lillie's Determination MEG 119
+2 Boss's Orders PAL 172
+2 Iono PAL 185
+2 Drayton SSP 174
+3 Surfing Beach MEG 129
+
+Energy: 9
+9 Basic {W} Energy SVE 3
+
+Total Cards: 60
