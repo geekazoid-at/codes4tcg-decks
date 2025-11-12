@@ -1,0 +1,35 @@
+Pokémon: 9
+1 Bloodmoon Ursaluna ex TWM 141
+3 Numel OBF 31
+1 Fezandipiti ex SFA 38
+1 Mew ex MEW 151
+2 Squawkabilly ex PAF 75
+3 Mega Camerupt ex MEG 22
+2 Volcanion ex JTG 31
+1 Budew PRE 4
+1 Latias ex SSP 76
+
+Trainer: 17
+2 Lillie's Determination MEG 119
+1 Maximum Belt TEF 154
+1 Gravity Mountain SSP 177
+1 Salvatore TEF 160
+4 Nest Ball SVI 181
+1 Earthen Vessel PRE 106 PH
+3 Call Bell SSP 165
+2 Arven OBF 186 PH
+4 Switch SVI 194
+4 Ultra Ball SVI 196 PH
+1 Pokégear 3.0 BLK 84 PH
+2 Night Stretcher SFA 61
+1 Iono PAL 185
+2 Professor Turo's Scenario PAR 171 PH
+4 Professor's Research JTG 155 PH
+1 Surfer SSP 187
+2 Boss's Orders MEG 114
+
+Energy: 2
+6 Basic {R} Energy BUS 167
+3 Ignition Energy WHT 86
+
+Total Cards: 60
