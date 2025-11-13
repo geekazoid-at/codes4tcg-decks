@@ -1,0 +1,31 @@
+Pokémon: 11
+1 Latias ex SSP 239
+2 Brute Bonnet PAR 207
+3 Mega Lucario ex MEG 160
+1 Pecharunt ex SFA 39
+1 Mew ex MEW 151
+1 Fezandipiti ex SFA 38
+1 Klawf PAR 105 PH
+1 Bloodmoon Ursaluna ex TWM 202
+2 Pecharunt PR-SV 129
+2 Squawkabilly ex PAL 169
+3 Riolu SVI 113 PH
+
+Trainer: 12
+3 Boss's Orders PAL 265
+4 Ancient Booster Energy Capsule TEF 140 PH
+4 Carmine TWM 217
+2 Fighting Gong MEG 168
+2 Iono PAL 269
+3 Night Stretcher SSP 251
+4 Ultra Ball BRS 186
+2 Binding Mochi PRE 95 PH
+1 Secret Box TWM 163
+4 Perilous Jungle TEF 156 PH
+3 Pokégear 3.0 UNB 233
+4 Nest Ball SVI 255
+
+Energy: 1
+6 Basic {F} Energy SVI 258
+
+Total Cards: 60
