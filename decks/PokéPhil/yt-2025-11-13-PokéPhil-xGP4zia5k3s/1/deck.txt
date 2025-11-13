@@ -1,0 +1,39 @@
+Pokémon: 11
+1 Latias ex SSP 76
+1 Psyduck MEP 7
+2 Ethan's Sudowoodo DRI 93
+1 Mantyke PAR 39
+2 Cleffa OBF 80
+1 Cubchoo BLK 109
+2 Elgyem BLK 40
+1 Cornerstone Mask Ogerpon ex TWM 112
+2 Shuckle MEG 11
+1 Genesect SFA 40
+1 Abra TWM 80
+
+Trainer: 17
+3 Defiance Vest PAR 162
+4 Counter Catcher PAR 160
+1 Accompanying Flute TWM 142
+1 Secret Box TWM 163
+1 Energy Search SVI 172
+2 Night Stretcher SFA 61
+1 Penny SVI 183
+2 Nest Ball SVI 181
+4 Artazon PAL 171
+4 Arven OBF 186
+1 Bravery Charm PAL 173
+3 Boss's Orders PAL 172
+1 Air Balloon BLK 79
+3 Iono PAL 185
+1 Redeemable Ticket JTG 156
+4 Lillie's Determination MEG 119
+1 Ultra Ball SVI 196
+
+Energy: 4
+1 Basic {F} Energy SVE 22
+2 Luminous Energy PAL 191
+1 Basic {P} Energy SVE 21
+4 Prism Energy BLK 86
+
+Total Cards: 60
