@@ -1,0 +1,37 @@
+Pokémon: 11
+1 Bloodmoon Ursaluna ex TWM 141
+1 Munkidori TWM 95
+4 Dreepy TWM 128
+1 Hawlucha SVI 118
+1 Fezandipiti ex SFA 38
+4 Drakloak PRE 72
+1 Budew PRE 4
+1 Shaymin DRI 10
+1 Tatsugiri TWM 131
+2 Dragapult ex TWM 130
+1 Genesect SFA 40
+
+Trainer: 16
+3 Counter Catcher PAR 160
+2 Town Store OBF 196
+1 Tool Scrapper WHT 85
+1 Exp. Share SVI 174
+2 Night Stretcher SFA 61
+1 Nest Ball SVI 181
+1 Air Balloon BLK 79
+1 Technical Machine: Evolution PAR 178
+4 Buddy-Buddy Poffin PRE 101
+1 Sparkling Crystal PRE 129
+4 Lillie's Determination MEG 119
+4 Iono PAF 80
+4 Ultra Ball MEG 131
+1 Professor Turo's Scenario PRE 121
+3 Boss's Orders MEG 114
+2 Rare Candy SVI 191
+
+Energy: 3
+3 Luminous Energy PAL 191
+2 Basic {P} Energy SVE 5
+2 Basic {R} Energy SVE 2
+
+Total Cards: 60
