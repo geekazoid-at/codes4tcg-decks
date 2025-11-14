@@ -1,0 +1,37 @@
+Pokémon: 8
+2 Mow Rotom DRI 9
+2 Rotom ex PFL 29
+1 Ethan's Sudowoodo DRI 93
+1 Fezandipiti ex SFA 38
+1 Heat Rotom DRI 43
+1 Rotom SSP 61
+1 Mow Rotom SCR 8
+1 Rotom SVI 70
+
+Trainer: 19
+3 Counter Catcher PAR 160
+1 Town Store OBF 196
+3 Exp. Share SVI 174
+4 Counter Gain SSP 169
+2 Night Stretcher SFA 61
+1 Treasure Tracker PRE 131
+4 Nest Ball SVI 181
+4 Arven OBF 186
+3 Bravery Charm PAL 173
+1 Air Balloon BLK 79
+1 Technical Machine: Turbo Energize PAR 179
+1 Earthen Vessel PRE 106
+1 Blowtorch PFL 86
+2 Gravity Gemstone SCR 137
+2 Brave Bangle WHT 80
+4 Lillie's Determination MEG 119
+4 Iono PAF 80
+2 Professor's Research BLK 85
+1 Boss's Orders MEG 114
+
+Energy: 3
+2 Basic {R} Energy SVE 2
+2 Basic {F} Energy SVE 6
+2 Basic {L} Energy SVE 4
+
+Total Cards: 60

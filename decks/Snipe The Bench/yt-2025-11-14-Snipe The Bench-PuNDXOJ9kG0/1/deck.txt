@@ -1,0 +1,30 @@
+Pokémon: 8
+1 Toedscool SCR 17
+3 Carvanha PFL 60
+1 Psyduck MEP 7
+2 Toxel PFL 67
+3 Mega Sharpedo ex PFL 61
+2 Toxtricity PFL 68
+1 Toedscruel PAR 17
+2 Pecharunt ex SFA 39
+
+Trainer: 14
+2 Battle Cage PFL 85
+1 Hero's Cape TEF 152
+1 Night Stretcher SFA 61
+1 Mega Signal MEG 121
+4 Nest Ball SVI 181
+4 Iono PAL 185
+2 Arven SVI 166
+3 Professor Turo's Scenario PAR 171
+1 Super Rod PAL 188
+4 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+4 Ultra Ball MEG 131
+3 Boss's Orders MEG 114
+2 Gravity Mountain SSP 177
+
+Energy: 1
+9 Basic {D} Energy SVE 15
+
+Total Cards: 60
