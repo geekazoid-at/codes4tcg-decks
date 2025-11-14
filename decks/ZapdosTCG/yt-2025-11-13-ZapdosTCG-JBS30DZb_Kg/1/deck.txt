@@ -1,0 +1,33 @@
+Pokémon: 8
+4 Dusknoir PRE 37
+2 Dusclops PRE 36
+1 Budew PRE 4
+1 Klefki SVI 96
+1 Tatsugiri TWM 131
+4 Duskull PRE 35
+3 Mega Lopunny ex PFL 84
+3 Buneary PFL 83
+
+Trainer: 16
+2 Night Stretcher SFA 61
+3 Nest Ball SVI 181
+4 Rare Candy MEG 125
+1 Air Balloon BLK 79
+1 Jamming Tower TWM 153
+2 Iono PAL 185
+1 Beach Court SVI 167
+2 Hilda WHT 84
+4 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+2 Switch MEG 130
+4 Ultra Ball MEG 131
+1 Wally's Compassion MEG 132
+1 Vitality Band SVI 197
+2 Boss's Orders MEG 114
+2 Dawn PFL 87
+
+Energy: 2
+4 Jet Energy PAL 190
+1 Enriching Energy SSP 191
+
+Total Cards: 60
