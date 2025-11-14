@@ -1,0 +1,31 @@
+Pokémon: 19
+2 Lampent WHT 17
+1 Litwick OBF 36
+2 Chandelure TWM 38
+2 Rapidash DRI 30
+2 Ponyta MEW 77
+3 Capsakid SVI 28
+2 Sizzlipede SSP 27
+3 Scovillain ex SSP 37
+2 Centiskorch SSP 28
+
+Trainer: 31
+2 Ultra Ball SVI 196
+2 Earthen Vessel PRE 106
+3 Arven OBF 186
+3 Buddy-Buddy Poffin TEF 144
+3 Mela PAR 167
+4 Team Rocket's Venture Bomb DRI 179
+1 Technical Machine: Evolution PAR 178
+1 Hero's Cape TEF 152
+2 Air Balloon SSH 156
+1 Professor's Research JTG 155
+3 Nest Ball SVI 181
+1 Lucky Helmet TWM 158
+2 Artazon PAL 171
+3 Hilda WHT 84
+
+Energy: 10
+10 Basic {R} Energy SVE 2
+
+Total Cards: 60
