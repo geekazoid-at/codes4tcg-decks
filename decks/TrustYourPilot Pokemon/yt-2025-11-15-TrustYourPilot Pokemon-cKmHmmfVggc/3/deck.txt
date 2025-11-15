@@ -1,0 +1,35 @@
+Pokémon: 12
+3 Charmander MEW 4
+2 Pidgey MEW 16
+2 Charmeleon PFL 12
+1 Psyduck MEP 7
+1 Fezandipiti ex SFA 38
+1 Pidgeotto MEW 17
+1 Charmander PFL 11
+2 Mega Charizard X ex PFL 13
+2 Oricorio ex PFL 18
+2 Pidgeot ex OBF 164
+1 Moltres PFL 14
+1 Charizard ex OBF 125
+
+Trainer: 15
+1 Max Rod PRE 116
+1 Battle Cage PFL 85
+1 Night Stretcher SFA 61
+2 Boss's Orders PAL 172
+1 Air Balloon BLK 79
+2 Iono PAL 185
+4 Arven SVI 166
+2 Technical Machine: Evolution PAR 178
+1 Superior Energy Retrieval PAL 189
+1 Super Rod PAL 188
+4 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+4 Ultra Ball SVI 196
+3 Rare Candy SVI 191
+2 Earthen Vessel PAR 163
+
+Energy: 1
+8 Basic {R} Energy SVE 2
+
+Total Cards: 60

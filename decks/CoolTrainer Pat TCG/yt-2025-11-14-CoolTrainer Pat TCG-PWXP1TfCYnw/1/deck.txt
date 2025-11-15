@@ -1,0 +1,37 @@
+Pokémon: 11
+4 Charmander MEW 4
+2 Pidgey OBF 207
+2 Pidgeot ex OBF 225
+1 Fezandipiti ex SFA 92
+2 Charmeleon PAF 8
+1 Mega Charizard X ex PFL 13
+1 Chi-Yu PAR 29
+2 Charizard ex PAF 234
+2 Pidgeotto MEW 17
+1 Moltres PFL 14
+1 Tatsugiri TWM 186
+
+Trainer: 17
+2 Boss's Orders RCL 189
+4 Buddy-Buddy Poffin TWM 223
+1 Town Store OBF 196
+4 Lillie's Determination MEG 184
+2 Dawn PFL 87
+2 Super Rod PAL 276
+1 Professor Turo's Scenario PAR 257
+3 Rare Candy SVI 256
+1 Maximum Belt TEF 154
+1 Pal Pad SVI 182
+2 Technical Machine: Evolution PAR 178 PH
+2 Arven PAF 235
+2 Iono PAF 237
+3 Ultra Ball BRS 186
+2 Counter Catcher PAR 264
+1 Tool Scrapper RCL 208
+1 Air Balloon SSH 213
+
+Energy: 2
+6 Basic {R} Energy SVE 10
+1 Jet Energy SSP 252
+
+Total Cards: 60

@@ -1,0 +1,36 @@
+Pokémon: 15
+1 Klefki SVI 96
+3 Dusknoir PRE 37
+2 Buneary PFL 83
+1 Mega Kangaskhan ex MEP 25
+1 Latias ex SSP 76
+1 Pidgeot ex OBF 164
+1 Mew ex MEW 151
+4 Duskull PRE 35
+1 Pidgey OBF 162
+2 Dusclops PRE 36
+1 Fezandipiti ex SFA 38
+1 Ditto MEW 132
+1 Budew PRE 4
+1 Bloodmoon Ursaluna ex PR-SV 177
+2 Mega Lopunny ex PFL 84
+
+Trainer: 12
+4 Buddy-Buddy Poffin PRE 101
+2 Switch SVI 194
+4 Rare Candy PAF 89
+4 Lillie's Determination MEG 119
+1 Counter Catcher PAR 160
+1 Jamming Tower TWM 153
+2 Boss's Orders MEG 114
+2 Night Stretcher SFA 61
+4 Ultra Ball MEG 131
+2 Iono PAF 80
+3 Nest Ball SVI 181
+3 Hilda WHT 84
+
+Energy: 2
+1 Enriching Energy SSP 191
+4 Jet Energy PAL 190
+
+Total Cards: 60
