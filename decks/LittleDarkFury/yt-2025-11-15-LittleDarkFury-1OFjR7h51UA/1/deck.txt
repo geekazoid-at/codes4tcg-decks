@@ -1,0 +1,36 @@
+Pokémon: 12
+1 Seviper PFL 62
+3 Carvanha PFL 60
+1 Psyduck MEP 7
+1 Fezandipiti ex SFA 92
+3 Toxel PFL 67
+1 Mega Sharpedo ex PFL 127
+2 Toxtricity PFL 103
+2 Mega Sharpedo ex PFL 61
+1 Pecharunt ex SFA 93
+2 Munkidori PRE 44
+1 Toxtricity PFL 68
+1 Tatsugiri TWM 186
+
+Trainer: 16
+2 Boss's Orders RCL 189
+4 Lillie's Determination MEG 169
+1 Super Rod PAL 276
+1 Artazon OBF 229
+2 Air Balloon MEG 166
+4 Buddy-Buddy Poffin MEG 167
+2 Nest Ball SVI 255
+1 Hero's Cape TEF 152
+4 Ultra Ball PLF 122
+1 Night Stretcher MEG 173
+2 Gravity Mountain SSP 250
+3 Iono PAL 269
+1 Professor Turo's Scenario PAR 240
+1 Counter Catcher PAR 264
+1 Binding Mochi PRE 95
+2 Arven SVI 249
+
+Energy: 1
+9 Basic {D} Energy BUS 168
+
+Total Cards: 60

@@ -1,0 +1,33 @@
+Pokémon: 11
+4 Teal Mask Ogerpon ex TWM 25
+2 Chikorita MEG 8
+2 Bayleef MEG 9
+2 Meganium MEG 10
+1 Fezandipiti ex SFA 38
+1 Mew ex MEW 151
+1 Regigigas PRE 86
+1 Squawkabilly ex PAL 169
+1 Wo-Chien SSP 15
+1 Wo-Chien ex PAL 27
+1 Genesect PFL 8
+
+Trainer: 14
+4 Professor's Research JTG 155
+2 Boss's Orders MEG 114
+1 Lillie's Determination MEG 119
+1 Iono PAF 80
+4 Bug Catching Set TWM 143
+4 Energy Switch MEG 115
+4 Nest Ball SVI 181
+4 Ultra Ball MEG 131
+1 Pokégear 3.0 SVI 186
+1 Max Rod PRE 116
+1 Pal Pad SVI 182
+1 Super Rod PAL 188
+3 Forest of Vitality MEG 117
+1 Briar PRE 100
+
+Energy: 1
+11 Basic {G} Energy SVE 1
+
+Total Cards: 60
