@@ -1,0 +1,28 @@
+Pokémon: 2
+4 Dracozolt V EVS 178
+3 Dracozolt VMAX EVS 59
+
+Trainer: 17
+3 Kabu LOR-TG 26
+2 Rocky Helmet SVI 193
+4 Crushing Hammer UPR 166
+4 Ultra Ball PLF 122
+4 Path to the Peak ASR 213
+4 Electropower SMALT 137
+1 Field Blower SMALT 44
+4 Green's Exploration UNB 209
+3 Boost Shake EVS 142
+1 Poké Vital A SFA 62
+2 Energy Loto ASR 140
+1 Escape Rope BUS 163
+4 Cheryl BST 159
+1 Energy Retrieval AOR 99
+4 Max Potion SMALT 45
+1 Boss's Orders RCL 189
+1 Thunder Mountain {*} LOT 191
+
+Energy: 2
+4 Speed {L} Energy RCL 173
+5 Basic {L} Energy GRI 168
+
+Total Cards: 60

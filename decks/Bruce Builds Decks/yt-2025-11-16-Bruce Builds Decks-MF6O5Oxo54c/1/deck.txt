@@ -1,0 +1,27 @@
+Pokémon: 22
+2 Bayleef MEG 9
+2 Oddish MEW 43
+2 Chikorita MEG 8
+2 Gloom MEW 44
+3 Hydrapple ex SCR 14
+2 Vileplume MEW 45
+3 Dipplin TWM 18
+1 Fezandipiti ex SFA 38
+3 Applin TWM 17
+2 Meganium MEG 10
+
+Trainer: 24
+4 Bug Catching Set PRE 102
+3 Buddy-Buddy Poffin PRE 101
+4 Lillie's Determination MEG 119
+2 Forest of Vitality MEG 117
+2 Ultra Ball MEG 131
+2 Super Rod PAL 188
+2 Professor Turo's Scenario PRE 121
+1 Secret Box TWM 163
+4 Dawn PFL 87
+
+Energy: 14
+14 Basic {G} Energy SVE 1
+
+Total Cards: 60

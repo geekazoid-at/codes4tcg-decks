@@ -1,0 +1,33 @@
+Pokémon: 8
+2 Ceruledge PFL 20
+1 Psyduck MEP 7
+1 Fezandipiti ex SFA 92
+2 Charcadet SSP 32
+1 Genesect ex BLK 169
+4 Gholdengo ex PAR 231
+3 Gimmighoul SSP 97
+1 Gimmighoul PAR 87
+
+Trainer: 15
+3 Boss's Orders RCL 189
+2 Firebreather PFL 89
+1 Super Rod PAL 276
+4 Superior Energy Retrieval PAL 277
+2 Ciphermaniac's Codebreaking TEF 198
+3 Air Balloon MEG 166
+4 Buddy-Buddy Poffin MEG 167
+3 Nest Ball SVI 255
+1 Earthen Vessel SFA 96
+1 Picnic Basket SVI 184
+1 Ultra Ball PLF 122
+2 Pokégear 3.0 UNB 233
+1 Professor Turo's Scenario PAR 240
+1 Blowtorch PFL 86
+3 Arven SVI 249
+
+Energy: 3
+9 Basic {R} Energy BUS 167
+1 Legacy Energy TWM 167
+3 Basic {M} Energy SUM 163
+
+Total Cards: 60
