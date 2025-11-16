@@ -1,0 +1,31 @@
+Pokémon: 18
+3 Charmander MEW 4
+3 Charmeleon PFL 12
+2 Mega Charizard X ex PFL 13
+2 N's Zorua JTG 97
+2 N's Zoroark ex JTG 98
+2 Oricorio ex PFL 18
+1 Fezandipiti ex SFA 38
+1 Moltres MEW 146
+1 Psyduck MEP 7
+1 Reshiram PFL 17
+
+Trainer: 32
+4 Iono PAF 80
+4 Lillie's Determination MEG 119
+3 Boss's Orders MEG 114
+2 Firebreather PFL 89
+1 Professor Turo's Scenario PAR 171
+4 Buddy-Buddy Poffin PRE 101
+4 Ultra Ball MEG 131
+2 Superior Energy Retrieval PAL 189
+1 Secret Box TWM 163
+1 Super Rod PAL 188
+2 Air Balloon BLK 79
+2 Technical Machine: Evolution PAR 178
+2 Town Store OBF 196
+
+Energy: 10
+10 Basic {R} Energy SVE 2
+
+Total Cards: 60
