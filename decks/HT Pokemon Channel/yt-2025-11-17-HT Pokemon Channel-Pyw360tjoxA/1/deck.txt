@@ -1,0 +1,35 @@
+Pokémon: 19
+3 Piplup PFL 27
+2 Prinplup PFL 28
+2 Empoleon ex PFL 70
+3 Steven's Beldum DRI 143
+2 Steven's Metang DRI 144
+2 Steven's Metagross ex DRI 145
+2 Genesect ex BLK 67
+1 Lillie's Clefairy ex JTG 56
+1 Mew ex MEW 151
+1 Munkidori TWM 95
+
+Trainer: 30
+3 Buddy-Buddy Poffin TEF 144
+2 Nest Ball SVI 181
+2 Ultra Ball SVI 196
+2 Rare Candy SVI 191
+2 Super Rod PAL 188
+1 Earthen Vessel PAR 163
+1 Jumbo Ice Cream PFL 91
+1 Hero's Cape TEF 152
+2 Technical Machine: Evolution PAR 178
+2 Air Balloon BLK 79
+2 Full Metal Lab TEF 148
+4 Arven SVI 166
+3 Lillie's Determination MEG 119
+2 Boss's Orders PAL 172
+1 Professor Turo's Scenario PAR 171
+
+Energy: 11
+5 Basic {M} Energy SVE 8
+4 Basic {P} Energy SVE 5
+2 Basic {D} Energy SVE 7
+
+Total Cards: 60
