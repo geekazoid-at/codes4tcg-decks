@@ -1,0 +1,32 @@
+Pokémon: 10
+3 Mega Sharpedo ex PFL 61
+3 Carvanha PFL 60
+2 Toxel PFL 67
+2 Toxtricity PFL 68 PH
+2 Munkidori TWM 95
+1 Fezandipiti ex SFA 38
+2 Purrloin WHT 55
+1 Liepard PAR 115
+1 Psyduck MEP 7
+1 Pecharunt ex SFA 39
+
+Trainer: 14
+4 Lillie's Determination MEG 119
+4 Buddy-Buddy Poffin PRE 101
+4 Ultra Ball MEG 131
+2 Gravity Mountain SSP 177
+1 Hero's Cape TEF 152
+4 Iono PAF 80
+1 Super Rod PAL 188
+1 Professor Turo's Scenario PRE 121
+4 Boss's Orders MEG 114
+2 Air Balloon BLK 79
+1 Town Store OBF 196
+1 Binding Mochi PRE 95
+3 Professor's Research PRE 122
+1 Nest Ball SVI 181
+
+Energy: 1
+9 Basic {D} Energy SVE 7
+
+Total Cards: 60
