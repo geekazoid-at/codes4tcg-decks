@@ -1,0 +1,32 @@
+Pokémon: 7
+3 Teal Mask Ogerpon ex TWM 25
+2 Meganium MEG 10
+1 Mega Heracross ex PFL 108
+2 Mega Heracross ex PFL 4
+2 Bayleef MEG 9
+2 Chikorita MEG 8
+1 Fezandipiti ex SFA 38
+
+Trainer: 17
+2 Forest of Vitality MEG 117
+1 Counter Catcher PAR 160
+4 Bug Catching Set TWM 143
+2 Lively Stadium SSP 180
+1 Dawn PFL 87
+4 Energy Switch SVI 173
+1 Hero's Cape TEF 152
+2 Nest Ball SVI 181
+4 Jumbo Ice Cream PFL 91
+1 Sacred Ash DRI 168
+4 Iono PAL 185
+1 Super Rod PAL 188
+4 Lillie's Determination MEG 119
+2 Ultra Ball MEG 131
+1 Professor Turo's Scenario PRE 121
+2 Acerola's Mischief MEG 113
+1 Boss's Orders MEG 114
+
+Energy: 1
+10 Basic {G} Energy SVE 9
+
+Total Cards: 60
