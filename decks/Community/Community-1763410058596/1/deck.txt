@@ -1,0 +1,39 @@
+Pokémon: 11
+1 Okidogi ex SFA 36
+1 Roaring Moon ex PR-SV 67
+1 Latias ex SSP 76
+1 Pecharunt ex SFA 39
+2 Brute Bonnet PAR 123
+1 Whirlipede BLK 133
+2 Venipede TWM 115
+2 Scolipede TWM 117
+1 Squawkabilly ex PAL 169
+1 Whirlipede BLK 55
+2 Pecharunt PR-SV 149
+
+Trainer: 19
+1 Earthen Vessel PRE 106
+1 Switch SVI 194
+2 Pokégear 3.0 BLK 84
+1 Counter Catcher PAR 160
+1 Lillie's Determination MEG 169
+1 Rare Candy MEG 175
+1 Iono PAL 185
+1 Boss's Orders MEG 114
+1 Ultra Ball MEG 131
+2 Super Rod PAL 188
+3 Janine's Secret Art PRE 112
+2 Pokégear 3.0 SVI 186
+2 Perilous Jungle TEF 156
+4 Nest Ball SVI 181
+1 Secret Box TWM 163
+2 Binding Mochi SFA 55
+4 Carmine TWM 145
+4 Ancient Booster Energy Capsule PAR 159
+2 Atticus PAF 77
+
+Energy: 2
+6 Basic {D} Energy SVE 23 PH
+3 Basic {D} Energy BUS 168
+
+Total Cards: 60
