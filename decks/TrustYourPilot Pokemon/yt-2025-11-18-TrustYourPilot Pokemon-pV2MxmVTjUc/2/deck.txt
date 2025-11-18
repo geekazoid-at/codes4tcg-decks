@@ -1,0 +1,36 @@
+Pokémon: 8
+1 Psyduck MEP 7
+1 Toedscool PAR 16
+2 Meganium MEG 10
+3 Mega Heracross ex PFL 4
+1 Budew PRE 4
+2 Bayleef MEG 9
+2 Chikorita MEG 8
+1 Toedscruel PAR 17
+
+Trainer: 19
+2 Forest of Vitality MEG 117
+1 Counter Catcher PAR 160
+4 Bug Catching Set TWM 143
+2 Lively Stadium SSP 180
+1 Hero's Cape TEF 152
+1 Night Stretcher SFA 61
+3 Pokégear 3.0 BLK 84
+1 Penny SVI 183
+4 Nest Ball SVI 181
+2 Jumbo Ice Cream PFL 91
+1 Bravery Charm PAL 173
+1 Boss's Orders PAL 172
+2 Air Balloon BLK 79
+3 Iono PAL 185
+2 Arven SVI 166
+1 Super Rod PAL 188
+4 Lillie's Determination MEG 119
+2 Wally's Compassion MEG 132
+1 Ultra Ball SVI 196
+
+Energy: 2
+8 Basic {G} Energy SVE 1
+1 Mist Energy TEF 161
+
+Total Cards: 60
