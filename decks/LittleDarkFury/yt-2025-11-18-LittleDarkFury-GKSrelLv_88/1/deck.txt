@@ -1,0 +1,33 @@
+Pokémon: 8
+3 Empoleon ex PFL 70
+3 Piplup PFL 27
+1 Mega Mawile ex MEG 162
+2 Wellspring Mask Ogerpon ex PRE 152
+1 Genesect ex BLK 169
+3 Beldum TEF 113
+3 Metang TEF 114
+2 Prinplup PFL 28
+
+Trainer: 16
+2 Boss's Orders RCL 189
+4 Lillie's Determination MEG 169
+1 Super Rod PAL 276
+1 Air Balloon MEG 166
+3 Buddy-Buddy Poffin MEG 167
+2 Rare Candy PLB 105
+2 Nest Ball SVI 255
+1 Hero's Cape TEF 152
+1 Energy Search BLW 93
+2 Iono PAL 269
+1 Technical Machine: Evolution PAR 178
+1 Counter Catcher PAR 264
+1 Professor's Research SVI 240
+2 Full Metal Lab TEF 148
+4 Arven SVI 249
+1 Battle Cage PFL 116
+
+Energy: 2
+2 Basic {W} Energy CIN 124
+11 Basic {M} Energy SUM 163
+
+Total Cards: 60
