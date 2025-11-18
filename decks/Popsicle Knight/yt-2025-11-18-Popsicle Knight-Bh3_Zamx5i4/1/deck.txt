@@ -1,0 +1,38 @@
+Pokémon: 13
+1 Genesect ex BLK 67
+3 Empoleon ex PFL 70
+1 Psyduck MEP 7
+1 Piplup PFL 27
+1 Zamazenta DRI 146
+1 Munkidori TWM 95
+1 Fezandipiti ex SFA 38
+2 Beldum TEF 113
+1 Cleffa OBF 80
+2 Metang TEF 114
+1 Piplup PFL 98
+1 Piplup PFL 27 PH
+1 Prinplup PFL 28 PH
+
+Trainer: 16
+1 Defiance Vest PAR 162
+1 Counter Catcher PAR 160
+1 Hero's Cape TEF 152
+2 Nest Ball SVI 181
+3 Arven OBF 186
+2 Air Balloon BLK 79
+2 Iono PAL 185
+1 Super Rod PAL 188
+3 Rare Candy PAF 89
+1 Crispin SCR 133
+3 Buddy-Buddy Poffin TEF 144
+2 Iron Defender MEG 118
+4 Lillie's Determination MEG 119
+3 Full Metal Lab TEF 148
+2 Ultra Ball MEG 131
+1 Boss's Orders MEG 114
+
+Energy: 2
+2 Basic {D} Energy SVE 15
+9 Basic {M} Energy SVE 16
+
+Total Cards: 60

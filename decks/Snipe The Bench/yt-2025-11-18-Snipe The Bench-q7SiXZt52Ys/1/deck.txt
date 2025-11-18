@@ -1,0 +1,31 @@
+Pokémon: 10
+1 Seviper PFL 62
+1 Roaring Moon ex PAR 124
+2 Toxel PFL 67
+2 Haunter PFL 55
+1 Fezandipiti ex SFA 38
+2 Toxtricity PFL 68
+2 Munkidori ex SFA 37
+2 Pecharunt ex SFA 39
+2 Mega Gengar ex PFL 56
+2 Gastly PFL 54
+
+Trainer: 13
+1 Counter Catcher PAR 160
+2 Punk Helmet PFL 92
+1 Unfair Stamp TWM 165
+3 Battle Cage PFL 85
+4 Pokégear 3.0 SVI 186
+2 Night Stretcher SFA 61
+4 Nest Ball SVI 181
+2 Super Rod PAL 188
+4 Lillie's Determination MEG 119
+4 Iono PAF 80
+3 Ultra Ball MEG 131
+2 Boss's Orders MEG 114
+2 Rare Candy SVI 191
+
+Energy: 1
+9 Basic {D} Energy SVE 15
+
+Total Cards: 60
