@@ -1,0 +1,33 @@
+Pokémon: 16
+4 Charmander PFL 11
+3 Charmeleon MEW 5
+2 Charizard ex OBF 125
+2 Mega Charizard X ex PFL 13
+2 Oricorio ex PFL 18
+1 Fezandipiti ex SFA 38
+1 Chi-Yu PAR 29
+1 Tatsugiri TWM 131
+
+Trainer: 34
+4 Arven SVI 166
+4 Lillie's Determination MEG 119
+2 Boss's Orders MEG 114
+2 Firebreather PFL 89
+2 Iono PAL 185
+4 Ultra Ball SVI 196
+2 Rare Candy MEG 125
+2 Superior Energy Retrieval PAL 189
+1 Super Rod PAL 188
+1 Night Stretcher SFA 61
+1 Nest Ball SVI 181
+1 Earthen Vessel PAR 163
+1 Counter Catcher PAR 160
+1 Precious Trolley SSP 185
+2 Air Balloon BLK 79
+2 Technical Machine: Evolution PAR 178
+2 Battle Cage PFL 85
+
+Energy: 10
+10 Basic {R} Energy SVE 2
+
+Total Cards: 60

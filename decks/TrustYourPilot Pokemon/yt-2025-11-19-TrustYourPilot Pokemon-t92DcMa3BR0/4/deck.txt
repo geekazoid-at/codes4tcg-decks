@@ -1,0 +1,28 @@
+Pokémon: 5
+4 Tauros MEW 128
+2 Dunsparce PAL 156
+4 Paldean Tauros PFL 48
+2 Dudunsparce TEF 129
+1 Psyduck MEP 7
+
+Trainer: 15
+4 Risky Ruins MEG 127
+2 Arven OBF 186
+4 Lillie's Determination MEG 119
+2 Iono PAL 185
+1 Lana's Aid TWM 155
+1 Air Balloon BLK 79
+3 Boss's Orders MEG 114
+4 Fighting Gong MEG 116
+2 Brave Bangle WHT 80
+3 Night Stretcher SFA 61
+4 Nest Ball SVI 181
+1 Secret Box TWM 163
+2 Team Rocket's Petrel DRI 176
+3 Calamitous Snowy Mountain PAL 174
+3 Premium Power Pro MEG 124
+
+Energy: 1
+8 Basic {F} Energy SVE 22
+
+Total Cards: 60

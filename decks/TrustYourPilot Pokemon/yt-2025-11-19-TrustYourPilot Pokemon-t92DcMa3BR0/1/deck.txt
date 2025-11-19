@@ -1,0 +1,27 @@
+Pokémon: 3
+2 Emolga TWM 69
+4 Tauros DRI 152
+4 Paldean Tauros PFL 48
+
+Trainer: 16
+4 Fighting Gong MEG 116
+1 Counter Catcher PAR 160
+1 Precious Trolley SSP 185
+3 Night Stretcher SFA 61
+1 Penny SVI 183
+4 Premium Power Pro MEG 124
+4 Nest Ball SVI 181
+4 Risky Ruins MEG 127
+2 Boss's Orders PAL 172
+3 Air Balloon BLK 79
+3 Iono PAL 185
+4 Arven SVI 166
+2 Lucky Helmet TWM 158
+1 Super Rod PAL 188
+2 Brave Bangle WHT 80
+4 Lillie's Determination MEG 119
+
+Energy: 1
+7 Basic {F} Energy SVE 6
+
+Total Cards: 60
