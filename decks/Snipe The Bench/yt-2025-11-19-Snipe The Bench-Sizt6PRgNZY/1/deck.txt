@@ -1,0 +1,33 @@
+Pokémon: 9
+1 Buneary PFL 83
+3 Charmander PAF 7
+1 Pidgeotto MEW 17
+2 Pidgeot ex OBF 164
+1 Fezandipiti ex SFA 38
+2 Charmeleon PAF 8
+1 Mega Lopunny ex PFL 84
+2 Pidgey MEW 16
+2 Charizard ex OBF 125
+
+Trainer: 15
+4 Arven OBF 186
+4 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+1 Counter Catcher PAR 160
+4 Iono PAL 185
+1 Air Balloon BLK 79
+2 Battle Cage PFL 85
+3 Boss's Orders MEG 114
+3 Ultra Ball MEG 131
+2 Super Rod PAL 188
+2 Technical Machine: Evolution PAR 178
+1 Maximum Belt TEF 154
+2 Nest Ball SVI 181
+2 Dawn PFL 87
+2 Rare Candy MEG 125
+
+Energy: 2
+6 Basic {R} Energy SVE 18
+2 Jet Energy PAL 190
+
+Total Cards: 60

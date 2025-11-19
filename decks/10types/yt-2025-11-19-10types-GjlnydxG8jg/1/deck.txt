@@ -1,0 +1,67 @@
+Pokémon: 23
+1 Noctowl PRE 78
+1 Tatsugiri TWM 131
+1 Varoom SFA 43
+1 Wellspring Mask Ogerpon ex PRE 27
+1 Pidgeotto MEW 17
+1 Squawkabilly ex PAF 75
+1 Revavroom PAF 65
+1 Pidgey MEW 16
+1 Ceruledge ex SSP 36
+1 Terapagos ex PRE 92
+1 Abra TWM 80
+1 Mega Kangaskhan ex MEG 104
+1 Alakazam MEG 56
+1 Oricorio PAR 67
+1 Gimmighoul PAR 87
+1 Pidgeot ex OBF 164
+1 Charcadet PFL 19
+1 Kadabra MEG 55
+1 Dudunsparce PRE 80
+1 Dunsparce TEF 128
+1 Hoothoot SCR 114
+1 Fezandipiti ex SFA 38
+1 Gholdengo ex PAR 139
+
+Trainer: 28
+1 Energy Retrieval WHT 82
+1 Technical Machine: Evolution PAR 178
+1 Miriam SVI 179
+1 Lisia's Appeal SSP 179
+1 Superior Energy Retrieval PAL 189
+1 Dusk Ball SSP 175
+1 Ultra Ball MEG 131
+1 Super Rod PAL 188
+1 Judge DRI 167
+1 Lt. Surge's Bargain MEG 120
+1 Poké Ball SVI 185
+1 Lillie's Determination MEG 119
+1 Boss's Orders MEG 114
+1 Counter Catcher PAR 160
+1 Hilda WHT 84
+1 Hassel TWM 151
+1 Iono PAF 80
+1 Night Stretcher SFA 61
+1 Crushing Hammer SVI 168
+1 Arven OBF 186
+1 Ryme OBF 194
+1 Team Rocket's Petrel DRI 176
+1 Kieran PRE 113
+1 Carmine PRE 103
+1 Buddy-Buddy Poffin PRE 101
+1 Earthen Vessel PRE 106
+1 Crispin PRE 105
+1 Nest Ball PAF 84
+
+Energy: 9
+1 Jet Energy PAL 190
+1 Basic {W} Energy SVE 3
+1 Basic {R} Energy SVE 2
+1 Basic {G} Energy SVE 1
+1 Basic {F} Energy SVE 6
+1 Basic {L} Energy SVE 4
+1 Basic {M} Energy SVE 8
+1 Prism Energy BLK 86
+1 Legacy Energy TWM 167
+
+Total Cards: 60
