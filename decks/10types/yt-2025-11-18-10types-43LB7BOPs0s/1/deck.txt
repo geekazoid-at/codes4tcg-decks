@@ -1,0 +1,37 @@
+Pokémon: 7
+1 Mow Rotom DRI 9
+2 Rotom ex PFL 29
+1 Wash Rotom DRI 61
+2 Fezandipiti ex SFA 38
+1 Heat Rotom DRI 43
+1 Budew PRE 4
+1 Rotom DRI 77
+
+Trainer: 20
+2 Counter Catcher PAR 160
+2 Town Store OBF 196
+1 Prime Catcher PRE 119
+3 Exp. Share SVI 174
+2 Battle Cage PFL 85
+4 Counter Gain SSP 169
+2 Pokégear 3.0 SVI 186
+4 Night Stretcher SFA 61
+4 Nest Ball SVI 181
+4 Arven OBF 186
+2 Bravery Charm PAL 173
+2 Air Balloon BLK 79
+1 Lucky Helmet TWM 158
+1 Earthen Vessel PRE 106
+1 Buddy-Buddy Poffin TEF 144
+3 Brave Bangle WHT 80
+4 Lillie's Determination MEG 119
+4 Iono PAF 80
+1 Ultra Ball MEG 131
+1 Boss's Orders MEG 114
+
+Energy: 3
+1 Basic {R} Energy SVE 10
+1 Basic {G} Energy SVE 1
+1 Basic {L} Energy SVE 4
+
+Total Cards: 60
