@@ -1,0 +1,38 @@
+Pokémon: 10
+1 Psyduck MEP 7
+2 Teal Mask Ogerpon ex TWM 25
+2 Meganium MEG 10
+1 Mega Heracross ex PFL 108
+1 Fezandipiti ex SFA 38
+1 Mega Heracross ex PFL 4
+1 Cleffa OBF 80
+2 Bayleef MEG 9
+2 Chikorita MEG 8
+1 Shaymin DRI 10
+
+Trainer: 20
+2 Forest of Vitality MEG 117
+1 Counter Catcher PAR 160
+1 Dawn PFL 87
+2 Nest Ball PAF 84
+2 Xerosic's Machinations SFA 64
+1 Exp. Share SVI 174
+3 Energy Switch SVI 173
+1 Battle Cage PFL 85
+1 Hero's Cape TEF 152
+3 Night Stretcher SFA 61
+2 Bravery Charm PAL 173
+3 Arven SVI 166
+1 Super Rod PAL 188
+3 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+2 Ultra Ball MEG 131
+1 Wally's Compassion MEG 132
+1 Rare Candy SVI 191
+1 Boss's Orders MEG 114
+1 Earthen Vessel PAR 163
+
+Energy: 1
+10 Basic {G} Energy MEE 1
+
+Total Cards: 60
