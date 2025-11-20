@@ -1,0 +1,28 @@
+Pokémon: 23
+3 Bulbasaur M 1L 1
+3 Ivysaur M 1L 2
+3 Mega Venusaur ex M 1L 3
+3 Chikorita M 1S 3
+3 Bayleef M 1S 4
+3 Meganium M 1S 5
+3 Teal Mask Ogerpon ex TWM 25
+1 Shuckle M 1S 6
+1 Fezandipiti ex SFA 38
+
+Trainer: 27
+4 Bug Catching Set TWM 143
+4 Nest Ball SVI 181
+2 Ultra Ball SVI 196
+1 Earthen Vessel PAR 163
+1 Energy Retrieval SVI 171
+1 Prime Catcher TEF 157
+4 Lillie's Determination M 1L 62
+3 Iono PAL 185
+2 Boss's Orders PAL 172
+1 Kieran TWM 154
+4 Forest of Vitality M 1S 61
+
+Energy: 10
+10 Basic {G} Energy SVE 1
+
+Total Cards: 60
