@@ -1,0 +1,35 @@
+Pokémon: 9
+1 Bloodmoon Ursaluna ex PRE 168
+3 Mismagius ex PFL 36
+2 Bramblin PFL 46
+2 Munkidori TWM 95
+4 Misdreavus PFL 35
+1 Lillie's Clefairy ex JTG 184
+1 Budew PRE 4
+1 Psyduck MEP 7
+2 Brambleghast PFL 47
+
+Trainer: 17
+1 Earthen Vessel SFA 96
+3 Ultra Ball PLF 122
+1 Night Stretcher MEG 173
+4 Lillie's Determination MEG 169
+2 Iono PAL 269
+2 Judge DRI 222
+2 Dizzying Valley PFL 88
+1 Air Balloon MEG 166
+4 Buddy-Buddy Poffin MEG 167
+1 Hero's Cape TEF 152
+2 Arven SVI 249
+1 Counter Catcher PAR 264
+2 Strange Timepiece MEG 128
+2 Wondrous Patch PFL 94
+2 Boss's Orders RCL 189
+2 Nest Ball SVI 255
+1 Defiance Band SVI 169
+
+Energy: 2
+8 Basic {P} Energy SUM 162
+2 Basic {D} Energy BUS 168
+
+Total Cards: 60
