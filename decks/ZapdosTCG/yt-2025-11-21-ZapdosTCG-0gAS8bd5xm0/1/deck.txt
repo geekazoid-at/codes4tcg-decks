@@ -1,0 +1,36 @@
+Pokémon: 8
+1 Fezandipiti ex SFA 38
+3 Toxel PFL 67
+2 Pecharunt ex SFA 39
+2 Munkidori TWM 95
+1 Psyduck MEP 7
+2 Toxtricity PFL 68
+3 Carvanha PFL 60
+3 Mega Sharpedo ex PFL 61
+
+Trainer: 20
+2 Iono PAL 185
+1 Mega Signal MEG 121
+1 Pokémon League Headquarters OBF 192
+1 Tool Scrapper WHT 85
+1 Night Stretcher SFA 61
+3 Buddy-Buddy Poffin TEF 144
+4 Arven OBF 186
+2 Binding Mochi PRE 95
+1 Risky Ruins MEG 127
+2 Ultra Ball MEG 131
+2 Wally's Compassion MEG 132
+1 Counter Catcher PAR 160
+1 Super Rod PAL 188
+1 Technical Machine: Evolution PAR 178
+1 Gravity Mountain SSP 177
+4 Lillie's Determination MEG 119
+2 Nest Ball SVI 181
+1 Hero's Cape TEF 152
+2 Boss's Orders MEG 114
+2 Energy Switch MEG 115
+
+Energy: 1
+8 Basic {D} Energy MEE 7
+
+Total Cards: 60
