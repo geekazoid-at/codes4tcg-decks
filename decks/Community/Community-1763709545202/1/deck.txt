@@ -1,0 +1,36 @@
+Pokémon: 9
+3 Munkidori TWM 95
+2 Froslass TWM 53
+3 Marnie's Impidimp DRI 134
+1 Mega Absol ex MEG 161
+1 Pecharunt ex SFA 39
+1 Iron Bundle PAR 56
+3 Marnie's Grimmsnarl ex DRI 136
+2 Snorunt PAR 37
+2 Marnie's Morgrem DRI 135
+
+Trainer: 19
+2 Risky Ruins MEG 127
+2 Boss's Orders PAL 265
+3 Arven PAF 235
+1 Super Rod PAL 276
+3 Iono PAL 269
+2 Night Stretcher SSP 251
+1 Penny PAF 239
+2 Nest Ball SUM 158
+1 Ultra Ball BRS 186
+1 Artazon OBF 229
+3 Lillie's Determination MEG 119 PH
+1 Switch PFL 123
+2 Energy Search SVI 172 PH
+2 Buddy-Buddy Poffin TWM 223
+1 Maximum Belt TEF 154
+2 Rare Candy GRI 165
+1 Counter Catcher PAR 264
+2 Spikemuth Gym DRI 169 PH
+1 Technical Machine: Evolution PAR 178 PH
+
+Energy: 1
+9 Basic {D} Energy SVE 7
+
+Total Cards: 60
