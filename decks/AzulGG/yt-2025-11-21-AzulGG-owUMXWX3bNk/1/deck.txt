@@ -1,0 +1,36 @@
+Pokémon: 19
+4 Dreepy TWM 128
+4 Drakloak PRE 72
+2 Dragapult ex TWM 130
+2 Budew PRE 4
+1 Bloodmoon Ursaluna ex TWM 141
+1 Fezandipiti ex SFA 38
+1 Hawlucha SVI 118
+1 Moltres PFL 14
+1 Munkidori TWM 95
+1 Psyduck MEP 7
+1 Tatsugiri TWM 131
+
+Trainer: 34
+4 Iono PAF 80
+4 Lillie's Determination MEG 119
+3 Boss's Orders MEG 114
+1 Professor Turo's Scenario PRE 121
+4 Buddy-Buddy Poffin PRE 101
+4 Ultra Ball MEG 131
+3 Counter Catcher PAR 160
+2 Night Stretcher SFA 61
+2 Rare Candy SVI 191
+1 Nest Ball SVI 181
+1 Air Balloon BLK 79
+1 Defiance Band SVI 169
+1 Exp. Share SVI 174
+1 Sparkling Crystal PRE 129
+2 Town Store OBF 196
+
+Energy: 7
+3 Luminous Energy PAL 191
+2 Basic {P} Energy SVE 5
+2 Basic {R} Energy SVE 2
+
+Total Cards: 60
