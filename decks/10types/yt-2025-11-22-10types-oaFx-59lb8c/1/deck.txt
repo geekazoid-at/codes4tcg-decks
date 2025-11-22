@@ -1,0 +1,33 @@
+Pokémon: 18
+3 Carvanha PFL 60
+3 Mega Sharpedo ex PFL 61
+2 Purrloin WHT 55
+1 Liepard PAR 115
+2 Toxel PFL 67
+2 Toxtricity PFL 68
+2 Munkidori TWM 95
+1 Pecharunt ex SFA 39
+1 Psyduck MEP 7
+1 Fezandipiti ex SFA 38
+
+Trainer: 33
+4 Lillie's Determination MEG 119
+4 Boss's Orders MEG 114
+4 Iono PAL 185
+3 Professor's Research JTG 155
+1 Professor Turo's Scenario PAR 171
+4 Buddy-Buddy Poffin TEF 144
+4 Ultra Ball MEG 131
+1 Super Rod PAL 188
+1 Nest Ball SVI 181
+2 Air Balloon BLK 79
+1 Binding Mochi PRE 95
+1 Hero's Cape TEF 152
+2 Gravity Mountain SSP 177
+1 Town Store OBF 196
+
+Energy: 9
+9 Basic {D} Energy SVE 7
+Link to list: https://play.limitlesstcg.com/tournament/691c8d12b11d3f5498bc19e2/player/biofufuu/decklist
+
+Total Cards: 60

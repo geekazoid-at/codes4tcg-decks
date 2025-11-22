@@ -1,0 +1,39 @@
+Pokémon: 9
+2 Bloodmoon Ursaluna PRE 54
+1 Moltres PFL 14
+2 Solrock MEG 75
+2 Lunatone MEG 74
+3 Munkidori PRE 44
+1 Hop's Cramorant JTG 138
+1 Tatsugiri TWM 186
+1 Fezandipiti ex SFA 92
+1 Bloodmoon Ursaluna ex PRE 168
+
+Trainer: 19
+3 Night Stretcher MEG 173
+1 Air Balloon MEG 166
+2 Boss's Orders RCL 189
+1 Brave Bangle WHT 80
+4 Nest Ball SVI 255
+3 Lillie's Determination MEG 169
+1 Crispin SCR 164
+1 Counter Catcher PAR 264
+3 Calamitous Snowy Mountain PAL 174
+1 Exp. Share BST 180
+1 Artazon OBF 229
+1 Lana's Aid TWM 207
+2 Energy Retrieval AOR 99
+1 Vengeful Punch OBF 197
+1 Max Rod PRE 116
+1 Iono PAL 269
+3 Arven SVI 249
+4 Fighting Gong MEG 168
+1 Switch PFL 123
+
+Energy: 4
+1 Basic {R} Energy BUS 167
+7 Basic {F} Energy GRI 169
+1 Prism Energy BLK 86
+2 Basic {D} Energy BUS 168
+
+Total Cards: 60
