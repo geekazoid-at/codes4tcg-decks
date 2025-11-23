@@ -1,0 +1,36 @@
+Pokémon: 11
+1 Varoom SFA 43
+2 Beldum TEF 113
+2 Metang TEF 114
+1 Revavroom SVI 142
+1 Mega Mawile ex MEG 94
+2 Prinplup PFL 28
+3 Empoleon ex PFL 70
+1 Genesect ex BLK 67
+1 Toedscool OBF 118
+1 Toedscruel PAR 17
+3 Piplup PFL 27
+
+Trainer: 17
+2 Ultra Ball SVI 196
+4 Arven OBF 186
+1 Earthen Vessel PAR 163
+1 Buddy-Buddy Poffin TEF 144
+3 Lillie's Determination MEG 119
+1 Counter Catcher PAR 160
+2 Full Metal Lab TEF 148
+2 Iono PAL 185
+1 Air Balloon BLK 79
+1 Professor Turo's Scenario PAR 171
+2 Boss's Orders MEG 114
+2 Super Rod PAL 188
+2 Technical Machine: Evolution PAR 178
+2 Pokégear 3.0 SVI 186
+1 Nest Ball SVI 181
+1 Precious Trolley SSP 185
+2 Rare Candy MEG 125
+
+Energy: 1
+12 Basic {M} Energy SVE 8
+
+Total Cards: 60

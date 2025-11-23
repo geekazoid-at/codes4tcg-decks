@@ -1,0 +1,32 @@
+Pokémon: 7
+3 Beldum TEF 113
+3 Metang TEF 114
+2 Prinplup PFL 28
+3 Empoleon ex PFL 70
+2 Genesect ex BLK 67
+2 Wellspring Mask Ogerpon ex TWM 64
+3 Piplup PFL 27
+
+Trainer: 16
+4 Arven OBF 186
+1 Earthen Vessel PAR 163
+2 Crispin SCR 133
+3 Buddy-Buddy Poffin TEF 144
+2 Lillie's Determination MEG 119
+1 Counter Catcher PAR 160
+2 Full Metal Lab TEF 148
+2 Air Balloon BLK 79
+1 Kieran TWM 154
+2 Boss's Orders MEG 114
+1 Super Rod PAL 188
+1 Technical Machine: Evolution PAR 178
+1 Hero's Cape TEF 152
+2 Pokégear 3.0 SVI 186
+3 Nest Ball SVI 181
+2 Rare Candy MEG 125
+
+Energy: 2
+2 Basic {W} Energy SVE 19
+10 Basic {M} Energy SVE 24
+
+Total Cards: 60
