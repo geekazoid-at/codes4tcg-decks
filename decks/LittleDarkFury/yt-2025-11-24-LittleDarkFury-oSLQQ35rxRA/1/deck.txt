@@ -1,0 +1,35 @@
+Pokémon: 10
+1 Varoom SFA 43
+1 Tatsugiri TWM 131
+2 Numel OBF 31
+1 Fezandipiti ex SFA 38
+3 Armarouge ex PAR 27
+1 Revavroom PAF 65
+2 Oricorio ex PFL 18
+2 Mega Camerupt ex MEG 22
+1 Moltres PFL 14
+3 Charcadet SSP 32
+
+Trainer: 17
+2 Earthen Vessel PAR 163
+3 Ultra Ball SVI 196
+1 Super Rod PAL 188
+3 Superior Energy Retrieval PAL 189
+2 Iono PAL 185
+4 Lillie's Determination MEG 119
+2 Air Balloon BLK 79
+2 Buddy-Buddy Poffin TEF 144 PH
+2 Artazon PAF 76
+2 Arven SVI 166
+1 Max Rod PRE 116
+1 Professor Turo's Scenario PAR 171
+2 Boss's Orders PAL 172
+1 Firebreather PFL 89
+3 Nest Ball SVI 181
+1 Blowtorch PFL 86
+1 Switch MEG 130
+
+Energy: 1
+10 Basic {R} Energy BUS 167
+
+Total Cards: 60
