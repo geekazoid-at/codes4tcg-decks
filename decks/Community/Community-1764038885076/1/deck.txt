@@ -1,0 +1,33 @@
+Pokémon: 9
+1 Bloodmoon Ursaluna ex TWM 141
+1 Psyduck MEP 7
+2 Budew PRE 4
+4 Poliwag TWM 41
+1 Fezandipiti ex SFA 38
+3 Poliwrath TWM 43
+3 Chewtle SCR 43
+2 Poliwhirl TWM 42
+3 Drednaw SCR 44
+
+Treinador: 15
+2 Colress's Tenacity SFA 57
+2 Dawn PFL 87
+2 Xerosic's Machinations SFA 64
+2 Night Stretcher SFA 61
+3 Rare Candy MEG 125
+1 Battle Cage PFL 85
+3 Team Rocket's Petrel DRI 176
+2 Surfing Beach MEG 129
+3 Hilda WHT 84
+1 Professor Turo's Scenario PAR 240
+3 Buddy-Buddy Poffin PRE 101
+2 Switch SVI 194
+2 Brave Bangle WHT 80
+4 Lillie's Determination MEG 119
+3 Boss's Orders MEG 114
+
+Energia: 2
+4 Ignition Energy WHT 86
+1 Enriching Energy SSP 191
+
+Total de cartas: 60
