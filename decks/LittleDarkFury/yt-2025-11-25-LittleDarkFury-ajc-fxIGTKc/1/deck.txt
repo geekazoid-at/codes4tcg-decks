@@ -1,0 +1,35 @@
+Pokémon: 8
+1 Fezandipiti ex SFA 92
+3 Seismitoad BLK 21
+2 Wigglytuff PFL 77
+1 Cleffa PAF 150
+4 Tympole BLK 19
+2 Jigglypuff MEW 39
+3 Palpitoad BLK 20
+1 Shaymin DRI 10
+
+Trainer: 18
+2 Boss's Orders RCL 189
+2 Hassel TWM 205
+1 Secret Box TWM 163
+2 Hilda WHT 164
+4 Lillie's Determination MEG 169
+2 Artazon OBF 229
+1 Air Balloon MEG 166
+4 Buddy-Buddy Poffin MEG 167
+3 Rare Candy PLB 105
+1 Nest Ball SVI 255
+2 Dawn PFL 129
+3 Ultra Ball PLF 122
+1 Sacred Ash DRI 168
+2 Night Stretcher MEG 173
+2 Iono PAL 269
+1 Counter Catcher PAR 264
+1 Brave Bangle WHT 80
+1 Battle Cage PFL 116
+
+Energy: 2
+4 Ignition Energy PFL 124
+4 Reversal Energy PAR 266
+
+Total Cards: 60
