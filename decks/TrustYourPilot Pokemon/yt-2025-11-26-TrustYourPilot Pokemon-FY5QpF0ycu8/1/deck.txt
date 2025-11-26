@@ -1,0 +1,34 @@
+Pokémon: 9
+4 Bronzong PFL 72
+1 Genesect ex BLK 67
+1 Psyduck MEP 7
+2 Varoom SCR 108
+2 Revavroom ex OBF 156
+1 Fezandipiti ex SFA 38
+1 Cleffa OBF 80
+4 Bronzor PFL 71
+1 Tatsugiri TWM 131
+
+Trainer: 16
+1 Counter Catcher PAR 160
+1 Precious Trolley SSP 185
+4 Rigid Band MEW 165
+1 Battle Cage PFL 85
+1 Night Stretcher SFA 61
+1 Nest Ball SVI 181
+2 Boss's Orders PAL 172
+4 Air Balloon BLK 79
+1 Sacred Ash DRI 168
+2 Iono PAL 185
+4 Arven SVI 166
+3 Lucky Helmet TWM 158
+1 Hilda WHT 84
+4 Brave Bangle WHT 80
+1 Technical Machine: Crisis Punch PAF 90
+4 Lillie's Determination MEG 119
+
+Energy: 2
+4 Reversal Energy PAL 192
+4 Ignition Energy WHT 86
+
+Total Cards: 60

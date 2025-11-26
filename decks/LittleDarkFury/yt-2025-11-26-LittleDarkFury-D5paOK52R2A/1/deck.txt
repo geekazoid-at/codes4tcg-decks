@@ -1,0 +1,38 @@
+Pokémon: 20
+3 Froakie OBF 56
+1 Frogadier TWM 57
+2 Greninja ex TWM 106
+2 Pidgey OBF 162
+1 Pidgeotto MEW 17
+2 Pidgeot ex OBF 164
+2 Duskull PRE 35
+1 Dusclops PRE 36
+1 Dusknoir PRE 37
+1 Zorua WHT 61
+1 Zorua SFA 31
+2 Zoroark WHT 62
+1 Fezandipiti ex SFA 38
+
+Trainer: 32
+3 Lillie's Determination MEG 119
+3 Colress's Tenacity SFA 57
+3 Iono PAF 80
+2 Hilda WHT 84
+1 Arven OBF 186
+1 Boss's Orders MEG 114
+4 Ultra Ball MEG 131
+4 Rare Candy MEG 125
+4 Buddy-Buddy Poffin PRE 101
+1 Nest Ball PAF 84
+1 Counter Catcher PAR 160
+1 Night Stretcher SFA 61
+1 Air Balloon BLK 79
+1 Exp. Share SVI 174
+1 Grand Tree SCR 136
+1 Artazon PAF 76
+
+Energy: 8
+5 Basic {W} Energy SVE 3
+3 Ignition Energy WHT 86
+
+Total Cards: 60
