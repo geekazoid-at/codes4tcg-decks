@@ -1,0 +1,33 @@
+Pokémon: 18
+3 Yanma DRI 2
+3 Yanmega ex DRI 3
+3 Dunsparce PAL 156
+3 Dudunsparce TEF 129
+1 Toedscool SCR 17
+1 Toedscruel PAR 17
+1 Fezandipiti ex SFA 38
+1 Iron Hands ex PAR 70
+1 Regigigas PRE 86
+1 Psyduck MEP 7
+
+Trainer: 30
+4 Lillie's Determination MEG 119
+4 Iono PAL 185
+2 Boss's Orders MEG 114
+1 Jacq SVI 175
+1 Professor Turo's Scenario PAR 171
+4 Buddy-Buddy Poffin TEF 144
+4 Ultra Ball SVI 196
+2 Nest Ball SVI 181
+2 Super Rod PAL 188
+1 Night Stretcher SFA 61
+1 Prime Catcher TEF 157
+1 Bravery Charm PAL 173
+3 Forest of Vitality MEG 117
+
+Energy: 12
+8 Basic {G} Energy SVE 1
+2 Basic {L} Energy SVE 4
+2 Jet Energy PAL 190
+
+Total Cards: 60

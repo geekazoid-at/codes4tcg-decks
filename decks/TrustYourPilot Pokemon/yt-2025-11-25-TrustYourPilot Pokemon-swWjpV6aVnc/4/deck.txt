@@ -1,0 +1,35 @@
+Pokémon: 9
+1 Ceruledge ex SSP 36
+1 Ceruledge PFL 20
+1 Genesect ex BLK 67
+2 Charcadet SSP 32
+1 Fezandipiti ex SFA 38
+1 Cleffa OBF 80
+4 Gimmighoul SSP 97
+4 Gholdengo ex PAR 139
+1 Moltres PFL 14
+
+Trainer: 17
+1 Firebreather PFL 89
+1 Max Rod PRE 116
+1 Battle Cage PFL 85
+3 Nest Ball SVI 181
+4 Arven OBF 186
+2 Air Balloon BLK 79
+1 Professor Turo's Scenario PAR 171
+4 Superior Energy Retrieval PAL 189
+1 Super Rod PAL 188
+4 Buddy-Buddy Poffin TEF 144
+1 Ciphermaniac's Codebreaking TEF 145
+1 Lillie's Determination MEG 119
+1 Iono PAF 80
+1 Ultra Ball MEG 131
+1 Vitality Band SVI 197
+3 Boss's Orders MEG 114
+2 Earthen Vessel PAR 163
+
+Energy: 2
+9 Basic {R} Energy SVE 18
+3 Basic {M} Energy SVE 24
+
+Total Cards: 60

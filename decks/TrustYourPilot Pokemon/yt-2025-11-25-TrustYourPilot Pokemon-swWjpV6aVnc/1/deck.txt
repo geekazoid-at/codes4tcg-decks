@@ -1,0 +1,30 @@
+Pokémon: 9
+2 Revavroom SVI 142
+1 Tatsugiri TWM 131
+2 Ceruledge PFL 20
+1 Ceruledge ex SSP 36
+2 Varoom PAF 64
+1 Fezandipiti ex SFA 38
+1 Psyduck MEP 7
+2 Moltres PFL 14
+4 Charcadet SSP 32
+
+Trainer: 13
+4 Ultra Ball SVI 196
+4 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+4 Iono PAL 185
+2 Air Balloon BLK 79
+1 Battle Cage PFL 85
+2 Brave Bangle WHT 80
+4 Superior Energy Retrieval PAL 189
+2 Super Rod PAL 188
+1 Max Rod PRE 116
+1 Morty's Conviction TEF 155
+1 Firebreather PFL 89
+2 Boss's Orders PAL 172
+
+Energy: 1
+12 Basic {R} Energy SVE 2
+
+Total Cards: 60
