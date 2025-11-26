@@ -1,0 +1,29 @@
+Pokémon: 17
+4 Team Rocket's Ekans DRI 112
+4 Team Rocket's Arbok DRI 113
+4 Toxel PFL 67
+3 Toxtricity PFL 68
+2 Munkidori TWM 95
+
+Trainer: 33
+4 Buddy-Buddy Poffin TEF 144
+2 Nest Ball SVI 181
+3 Ultra Ball SVI 196
+1 Earthen Vessel PAR 163
+1 Super Rod PAL 188
+1 Night Stretcher SFA 61
+1 Unfair Stamp TWM 165
+2 Air Balloon BLK 79
+2 Technical Machine: Evolution PAR 178
+2 Technical Machine: Devolution PAR 177
+3 Town Store OBF 196
+4 Arven SVI 166
+4 Lillie's Determination MEG 119
+2 Iono PAL 185
+1 Boss's Orders PAL 172
+
+Energy: 10
+4 Team Rocket's Energy DRI 182
+6 Basic {D} Energy SVE 7
+
+Total Cards: 60
