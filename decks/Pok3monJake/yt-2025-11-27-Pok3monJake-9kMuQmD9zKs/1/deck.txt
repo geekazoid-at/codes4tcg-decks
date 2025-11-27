@@ -1,0 +1,33 @@
+Pokémon: 20
+4 Doduo MEW 84
+4 Dodrio MEW 85
+2 Lotad PFL 5
+2 Lombre PFL 6
+2 Ludicolo JTG 37
+2 Fan Rotom SCR 118
+1 Psyduck MEP 7
+1 Golduck MEP 8
+1 Shaymin DRI 10
+1 Mimikyu PAL 97
+
+Trainer: 33
+4 Lillie's Determination MEG 119
+4 Iono PAL 185
+2 Arven SVI 166
+2 Professor Turo's Scenario PAR 171
+4 Buddy-Buddy Poffin TEF 144
+4 Ultra Ball SVI 196
+2 Counter Catcher PAR 160
+2 Night Stretcher SFA 61
+1 Super Rod PAL 188
+2 Luxurious Cape PAR 166
+1 Air Balloon BLK 79
+1 Technical Machine: Evolution PAR 178
+3 Battle Cage PFL 85
+1 Neutralization Zone SFA 60
+
+Energy: 7
+4 Mist Energy TEF 161
+3 Basic {P} Energy SVE 5
+
+Total Cards: 60
