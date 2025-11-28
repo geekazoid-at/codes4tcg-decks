@@ -1,0 +1,36 @@
+Pokémon: 8
+1 Bloodmoon Ursaluna ex PRE 168
+3 Gliscor PFL 50
+3 Munkidori TWM 95
+3 Froslass TWM 53
+1 Budew PRE 4
+1 Ting-Lu TWM 110
+3 Snorunt PAR 37
+3 Gligar PAR 91
+
+Trainer: 18
+4 Lillie's Determination MEG 184
+1 Secret Box TWM 163
+1 Hilda WHT 164
+1 Fighting Gong MEG 168
+1 Super Rod PAL 276
+1 Artazon OBF 229
+1 Air Balloon MEG 166
+3 Buddy-Buddy Poffin MEG 167
+2 Nest Ball SVI 255
+1 Earthen Vessel SFA 96
+2 Perilous Jungle TEF 156
+1 Ultra Ball PLF 122
+1 Pokégear 3.0 UNB 233
+2 Night Stretcher MEG 173
+1 Technical Machine: Devolution PAR 177
+3 Iono PAL 269
+4 Counter Catcher PAR 264
+3 Arven SVI 249
+
+Energy: 3
+3 Luminous Energy TWM 226
+3 Basic {D} Energy BUS 168
+3 Basic {F} Energy GRI 169
+
+Total Cards: 60

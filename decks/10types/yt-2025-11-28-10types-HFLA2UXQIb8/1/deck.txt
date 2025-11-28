@@ -1,0 +1,61 @@
+Pokémon: 10
+1 Hitmontop UNB 101
+1 Hitmonchan TEU 74
+1 Lunatone MEG 74
+1 Hawlucha SVI 118
+1 Tyrogue UNB 100
+1 Bloodmoon Ursaluna PRE 54
+1 Solrock MEG 75
+1 Hitmonlee TEU 73
+1 Okidogi TWM 111
+1 Ting-Lu TWM 110
+
+Trainer: 40
+1 Fighting Gong MEG 116
+1 Bird Keeper DAA 159
+1 Hisuian Heavy Ball ASR 146
+1 Cynthia UPR 119
+1 U-Turn Board UNM 211
+1 Mallow & Lana CEC 198
+1 Escape Rope BST 125
+1 Artazon PAF 76
+1 Level Ball BST 129
+1 Rosa CEC 204
+1 Pokégear 3.0 SVI 186
+1 Night Stretcher SFA 61
+1 Cynthia & Caitlin CEC 189
+1 Field Blower GRI 125
+1 Pal Pad SVI 182
+1 Jubilife Village ASR 148
+1 Premium Power Pro MEG 124
+1 Nest Ball SVI 181
+1 Brooklet Hill GRI 120
+1 Scoop Up Net RCL 165
+1 Tag Call CEC 206
+1 Arven OBF 186
+1 Bravery Charm PAL 173
+1 Air Balloon BLK 79
+1 Training Court RCL 169
+1 Klara CRE 145
+1 Iono PAL 185
+1 Technical Machine: Devolution PAR 177
+1 Reset Stamp UNM 206
+1 Super Rod PAL 188
+1 Colress's Tenacity SFA 57
+1 Marnie SSH 169
+1 Guzma & Hala CEC 193
+1 Earthen Vessel PRE 106
+1 Rescue Stretcher GRI 130
+1 Guzma BUS 115
+1 Quick Ball FST 237
+1 Lillie's Determination MEG 119
+1 Ultra Ball MEG 131
+1 Boss's Orders MEG 114
+
+Energy: 4
+7 Basic {F} Energy SVE 22
+1 Aurora Energy SSH 186
+1 Unit Energy {F}{D}{Y} FLI 118
+1 Prism Energy BLK 86
+
+Total Cards: 60
