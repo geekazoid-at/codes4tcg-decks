@@ -1,0 +1,33 @@
+Pokémon: 10
+1 Latias ex SSP 76
+1 Bloodmoon Ursaluna ex TWM 141
+3 Brambleghast PFL 47
+4 Misdreavus PFL 35
+1 Fezandipiti ex SFA 38
+1 Budew PRE 4
+1 Lillie's Clefairy ex JTG 56
+3 Mismagius ex PFL 36
+3 Bramblin PFL 46
+1 Tatsugiri TWM 131
+
+Trainer: 15
+1 Secret Box TWM 163
+2 Strange Timepiece MEG 128
+3 Nest Ball SVI 181
+2 Arven OBF 186
+2 Boss's Orders PAL 172
+1 Air Balloon BLK 79
+1 Iono PAL 185
+3 Dizzying Valley PFL 88
+1 Defiance Band SVI 169
+2 Wondrous Patch PFL 94
+3 Judge DRI 167
+3 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+4 Ultra Ball SVI 196
+1 Earthen Vessel PAR 163
+
+Energy: 1
+8 Basic {P} Energy MEE 5
+
+Total Cards: 60
