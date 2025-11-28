@@ -1,0 +1,35 @@
+Pokémon: 11
+4 Kadabra MEG 55
+2 Pidgey MEW 16
+2 Dunsparce PAL 156
+3 Abra MEG 54
+4 Alakazam MEG 56
+2 Dudunsparce TEF 129
+1 Fezandipiti ex SFA 38
+1 Fan Rotom SCR 118
+1 Pidgeotto MEW 17
+1 Psyduck MEP 7
+2 Pidgeot ex OBF 164
+
+Trainer: 15
+4 Hilda WHT 84 PH
+2 Buddy-Buddy Poffin TEF 144
+1 Counter Catcher PAR 160
+1 Tulip PAR 259
+1 Dusk Ball SSP 175
+3 Battle Cage PFL 85
+3 Boss's Orders MEG 114
+2 Night Stretcher SFA 61
+1 Nest Ball SVI 181
+3 Dawn PFL 87
+2 Wondrous Patch PFL 94
+2 Lillie's Determination MEG 119
+1 Artazon PAL 171
+4 Rare Candy MEG 125
+1 Air Balloon BLK 79
+
+Energy: 2
+1 Enriching Energy SSP 191
+5 Basic {P} Energy SVE 5
+
+Total Cards: 60
