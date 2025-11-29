@@ -1,0 +1,31 @@
+Pokémon: 9
+1 Klefki SVI 96
+4 Dusknoir PRE 37
+3 Buneary PFL 83
+1 Latias ex SSP 76
+4 Duskull PRE 35
+2 Dusclops PRE 36
+2 Ditto MEW 132
+3 Mega Lopunny ex PFL 84
+2 Mega Kangaskhan ex MEG 104
+
+Trainer: 13
+1 Vitality Band SVI 197
+4 Buddy-Buddy Poffin TEF 144
+2 Ciphermaniac's Codebreaking TEF 145
+1 Counter Catcher PAR 160
+1 Iono PAL 185
+1 Boss's Orders MEG 114
+2 Night Stretcher SFA 61
+4 Switch MEG 130
+3 Ultra Ball MEG 131
+4 Nest Ball SVI 181
+2 Artazon PAL 171
+4 Hilda WHT 84
+4 Rare Candy MEG 125
+
+Energy: 2
+1 Enriching Energy SSP 191
+4 Jet Energy PAL 190
+
+Total Cards: 60
