@@ -1,0 +1,38 @@
+Pokémon: 20
+2 Charmander MEW 4
+1 Charmander OBF 26
+1 Charmeleon PAF 8
+2 Charizard ex PAF 54
+2 Wellspring Mask Ogerpon ex TWM 64
+3 Hoothoot SCR 114
+3 Noctowl SCR 115
+2 Fan Rotom SCR 118
+1 Pidgey MEW 16
+1 Pidgeot ex OBF 164
+1 Latias ex SSP 76
+1 Bloodmoon Ursaluna ex TWM 141
+
+Trainer: 31
+4 Buddy-Buddy Poffin TEF 144
+3 Rare Candy SVI 191
+3 Nest Ball SVI 181
+2 Ultra Ball SVI 196
+1 Tera Orb SSP 189
+1 Night Stretcher SFA 61
+1 Energy Search SVI 172
+1 Super Rod PAL 188
+1 Sparkling Crystal SCR 142
+1 Air Balloon BLK 79
+2 Dawn PFL 87
+2 Lillie's Determination MEG 119
+2 Boss's Orders PAL 172
+2 Iono PAL 185
+2 Crispin SCR 133
+1 Briar SCR 132
+2 Area Zero Underdepths SCR 131
+
+Energy: 9
+6 Basic {R} Energy SVE 2
+3 Basic {W} Energy SVE 3
+
+Total Cards: 60
