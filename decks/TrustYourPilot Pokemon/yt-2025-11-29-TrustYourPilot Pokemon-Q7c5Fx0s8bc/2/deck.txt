@@ -1,0 +1,32 @@
+Pokémon: 8
+2 Jigglypuff MEW 39
+4 Tympole BLK 19
+3 Seismitoad BLK 21
+1 Fezandipiti ex SFA 38
+1 Cleffa OBF 80
+1 Psyduck MEP 7
+3 Palpitoad BLK 20
+2 Wigglytuff PFL 77
+
+Trainer: 15
+4 Ultra Ball SVI 196
+3 Rare Candy SVI 191
+4 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+2 Counter Catcher PAR 160
+2 Hassel TWM 151
+4 Iono PAL 185
+2 Air Balloon BLK 79
+2 Lucky Helmet TWM 158
+1 Prime Catcher TEF 157
+1 Dawn PFL 87
+2 Sacred Ash DRI 168
+2 Artazon PAL 171
+1 Boss's Orders PAL 172
+1 Hilda WHT 84
+
+Energy: 2
+4 Ignition Energy WHT 86
+4 Reversal Energy PAL 192
+
+Total Cards: 60
