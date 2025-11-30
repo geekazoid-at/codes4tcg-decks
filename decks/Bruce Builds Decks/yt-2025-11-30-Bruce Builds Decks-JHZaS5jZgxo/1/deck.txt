@@ -1,0 +1,33 @@
+Pokémon: 18
+3 Iron Valiant TEF 80
+2 Mega Gardevoir ex MEG 60
+2 Kirlia MEG 59
+2 Wingull PAL 158
+2 Frillish WHT 44
+3 Iron Crown ex TEF 81
+2 Pelipper PAF 204
+2 Ralts MEG 58
+
+Trainer: 33
+1 Counter Catcher PAR 160
+4 Future Booster Energy Capsule PAR 164
+1 Battle Cage PFL 85
+2 Night Stretcher SFA 61
+1 Reboot Pod TEF 158
+2 Techno Radar PRE 130
+2 Nest Ball SVI 181
+1 Artazon PAL 171
+3 Arven SVI 166
+1 Technical Machine: Turbo Energize PAR 179
+1 Earthen Vessel PRE 106
+4 Wondrous Patch PFL 94
+1 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+2 Professor Turo's Scenario PRE 121
+1 Acerola's Mischief MEG 113
+2 Boss's Orders MEG 114
+
+Energy: 9
+9 Basic {P} Energy SVE 5
+
+Total Cards: 60

@@ -1,0 +1,42 @@
+Pokémon: 16
+1 Tatsugiri PR-SV 118
+3 Charmander MEW 4
+1 Pidgey MEW 16
+2 Charmeleon PFL 12
+1 Psyduck MEP 7
+1 Charizard ex OBF 228
+1 Munkidori TWM 95
+1 Charizard ex PR-SV 56
+1 Buneary PFL 83
+1 Chi-Yu PAR 29
+1 Mega Lopunny ex PFL 128
+1 Fezandipiti ex SFA 92
+1 Pidgey OBF 162
+2 Pidgeotto OBF 163
+1 Shaymin DRI 10
+2 Pidgeot ex OBF 217
+
+Trainer: 15
+1 Town Store OBF 196
+1 Artazon PAF 76
+1 Eri TEF 199
+1 Maximum Belt TEF 154
+1 Battle Cage PFL 116
+4 Lillie's Determination MEG 169
+2 Technical Machine: Evolution PAR 178
+2 Super Rod PAL 188
+2 Arven SVI 249
+2 Rare Candy PLB 105
+2 Iono PAL 269
+3 Boss's Orders RCL 189
+1 Counter Catcher PAR 264
+4 Buddy-Buddy Poffin MEG 167
+3 Ultra Ball PLF 122
+
+Energy: 4
+5 Basic {R} Energy BUS 167
+1 Jet Energy SSP 252
+1 Basic {D} Energy BUS 168
+2 Mist Energy TEF 161
+
+Total Cards: 60
