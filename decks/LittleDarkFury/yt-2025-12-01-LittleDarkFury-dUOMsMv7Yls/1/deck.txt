@@ -1,0 +1,35 @@
+Pokémon: 14
+2 Pidgey PAF 196
+1 Mega Charizard X ex MEP 23
+2 Pidgeotto MEW 17
+2 Charizard ex OBF 228
+2 Charmeleon PFL 12
+1 Pidgey MEW 16
+2 Pidgeot ex OBF 217
+1 Oricorio ex MEP 24
+3 Charmander MEW 4
+2 Buneary PFL 83
+2 Mega Lopunny ex PFL 128
+1 Psyduck MEP 7
+1 Tatsugiri TWM 186
+1 Fezandipiti ex SFA 92
+
+Trainer: 12
+3 Boss's Orders RCL 189
+4 Buddy-Buddy Poffin MEG 167
+1 Counter Catcher PAR 264
+3 Dawn PFL 129
+2 Iono PAL 269
+3 Lillie's Determination MEG 169
+3 Rare Candy PLB 105
+1 Super Rod PAL 276
+1 Superior Energy Retrieval PAL 277
+3 Ultra Ball PLF 122
+1 Unfair Stamp TWM 165
+2 Professor Turo's Scenario PAR 240
+
+Energy: 2
+4 Jet Energy SSP 252
+6 Basic {R} Energy BUS 167
+
+Total Cards: 60
