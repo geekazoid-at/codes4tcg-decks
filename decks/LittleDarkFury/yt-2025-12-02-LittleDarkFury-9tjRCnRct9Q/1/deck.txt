@@ -1,0 +1,41 @@
+Pokémon: 12
+2 Scizor OBF 141
+1 Psyduck MEP 7
+2 Zorua WHT 61
+1 Tatsugiri TWM 131
+1 Hawlucha SVI 118
+1 Ambipom PFL 79
+1 Aipom PFL 78
+1 Shaymin DRI 10
+1 Moltres PFL 14
+2 Scyther MEW 123
+2 Zoroark WHT 62
+1 Bloodmoon Ursaluna ex TWM 141
+
+Trainer: 17
+2 Hilda WHT 84 PH
+1 Secret Box TWM 163
+4 Lillie's Determination MEG 119
+2 Super Rod PAL 188
+1 Artazon PAF 76
+2 Air Balloon BLK 79 PH
+4 Buddy-Buddy Poffin PRE 101 PH
+2 Ultra Ball SVI 196
+1 Ultra Ball PLF 122
+2 Iono PAF 80
+1 Counter Catcher PAR 160 PH
+2 Professor's Research PRE 123
+2 Boss's Orders MEG 114
+2 Arven OBF 186 PH
+2 Brave Bangle WHT 80
+1 Battle Cage PFL 85
+1 Night Stretcher SFA 61
+
+Energy: 5
+4 Ignition Energy WHT 86
+1 Basic {D} Energy BUS 168
+2 Reversal Energy PAL 192
+4 Luminous Energy PAL 191
+1 Basic {M} Energy SUM 163
+
+Total Cards: 60

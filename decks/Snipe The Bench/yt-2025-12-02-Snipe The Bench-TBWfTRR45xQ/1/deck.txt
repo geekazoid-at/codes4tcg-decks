@@ -1,0 +1,25 @@
+Pokémon: 5
+2 Pecharunt ex SFA 39
+3 Toxtricity PFL 68
+1 Fezandipiti ex SFA 38
+3 Roaring Moon ex PAR 124
+3 Toxel PFL 67
+
+Trainer: 12
+3 Risky Ruins MEG 127
+3 Arven OBF 186
+4 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+3 Boss's Orders MEG 114
+3 Ultra Ball MEG 131
+2 Super Rod PAL 188
+4 Iono PAF 80
+4 Pokégear 3.0 SVI 186
+1 Prime Catcher TEF 157
+4 Nest Ball SVI 181
+4 Ancient Booster Energy Capsule PAR 159
+
+Energy: 1
+9 Basic {D} Energy SVE 15
+
+Total Cards: 60
