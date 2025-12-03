@@ -1,0 +1,40 @@
+Pokémon: 9
+2 Pawmi PFL 32
+1 Maractus JTG 8
+3 Munkidori TWM 95
+2 Snorunt TWM 51
+1 Pawmo PFL 33
+2 Froslass TWM 53
+1 Cleffa OBF 80
+1 Budew PRE 4
+2 Pawmot PFL 34
+
+Trainer: 20
+3 Counter Catcher PAR 160
+1 Exp. Share SVI 174
+1 Counter Gain SSP 169
+2 Night Stretcher SFA 61
+2 Nest Ball SVI 181
+1 Artazon PAL 171
+1 Boss's Orders PAL 172
+1 Air Balloon BLK 79
+4 Iono PAL 185
+4 Arven SVI 166
+1 Technical Machine: Devolution PAR 177
+1 Hilda WHT 84
+1 Technical Machine: Evolution PAR 178
+1 Super Rod PAL 188
+1 Crispin SCR 133
+3 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+2 Ultra Ball SVI 196
+2 Rare Candy SVI 191
+1 Earthen Vessel PAR 163
+
+Energy: 4
+1 Luminous Energy PAL 191
+3 Basic {L} Energy MEE 4
+3 Basic {D} Energy MEE 7
+1 Neo Upper Energy TEF 162
+
+Total Cards: 60
