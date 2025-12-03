@@ -1,0 +1,28 @@
+Pokémon: 19
+2 Genesect PFL 8
+3 Yanma DRI 2
+3 Yanmega ex DRI 3
+3 Chikorita MEG 8
+3 Bayleef MEG 9
+3 Meganium MEG 10
+1 Latias ex SSP 76
+1 Bloodmoon Ursaluna ex TWM 141
+
+Trainer: 27
+4 Buddy-Buddy Poffin TEF 144
+1 Nest Ball SVI 181
+3 Ultra Ball SVI 196
+2 Super Rod PAL 188
+1 Survival Brace TWM 164
+3 Forest of Vitality MEG 117
+1 Town Store OBF 196
+4 Lillie's Determination MEG 119
+4 Dawn PFL 87
+2 Boss's Orders PAL 172
+2 Iono PAL 185
+
+Energy: 14
+4 Jet Energy PAL 190
+10 Basic {G} Energy SVE 1
+
+Total Cards: 60
