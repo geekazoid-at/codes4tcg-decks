@@ -1,0 +1,35 @@
+Pokémon: 10
+4 Tinkatink PAL 102
+1 Psyduck MEP 7
+1 Dunsparce TEF 128
+3 Dudunsparce TEF 129
+3 Tinkaton ex PR-SV 31
+2 Dunsparce PAL 156
+2 Tinkatuff MEG 97
+2 Tinkaton PAL 105
+1 Shaymin DRI 10
+1 Fezandipiti ex SFA 38
+
+Trainer: 15
+2 Hilda WHT 84 PH
+1 Super Rod PAL 188 PH
+2 Morty's Conviction TEF 155
+4 Buddy-Buddy Poffin TEF 144
+1 Artazon PAF 76
+1 Air Balloon BLK 79
+3 Rare Candy SVI 191 PH
+3 Dawn PFL 87
+2 Boss's Orders MEG 114
+1 Night Stretcher SFA 61 PH
+1 Counter Catcher PAR 160
+2 Lucky Helmet TWM 158
+3 Firebreather PFL 89
+1 Battle Cage PFL 85
+1 Ultra Ball MEG 131 PH
+
+Energy: 3
+7 Basic {R} Energy BUS 167
+1 Neo Upper Energy TEF 162
+4 Ignition Energy WHT 86
+
+Total Cards: 60
