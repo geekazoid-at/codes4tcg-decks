@@ -1,0 +1,48 @@
+Pokémon: 16
+1 Latias ex SSP 76
+2 Pidgey MEW 16
+1 Bloodmoon Ursaluna ex TWM 141
+2 Garganacl PAL 123
+2 Nacli PAR 102
+1 Turtonator SSP 137
+1 Fezandipiti ex SFA 38
+1 Pidgeotto MEW 17
+1 Cleffa OBF 80
+1 Budew PRE 4
+1 Feebas SSP 41
+2 Pidgeot ex OBF 164
+1 Milotic TWM 50
+1 Relicanth TEF 84
+1 Genesect SFA 40
+1 Tatsugiri TWM 131
+
+Trainer: 21
+2 Defiance Vest PAR 162
+2 Counter Catcher PAR 160
+1 Luxurious Cape PAR 166
+1 Team Star Grunt OBF 195
+2 Accompanying Flute TWM 142
+1 Precious Trolley SSP 185
+1 Erika's Invitation MEW 160
+4 Brock's Scouting JTG 146
+1 Xerosic's Machinations SFA 64
+1 Night Stretcher SFA 61
+2 Pal Pad SVI 182
+1 Penny SVI 183
+1 Nest Ball SVI 181
+4 Arven OBF 186
+2 Boss's Orders PAL 172
+1 Lana's Aid TWM 155
+1 Iono PAL 185
+2 Redeemable Ticket JTG 156
+1 Ruffian JTG 157
+1 Ultra Ball SVI 196
+3 Rare Candy SVI 191
+
+Energy: 4
+1 Luminous Energy PAL 191
+1 Basic {R} Energy SVE 2
+2 Basic {F} Energy SVE 6
+1 Mist Energy TEF 161
+
+Total Cards: 60
