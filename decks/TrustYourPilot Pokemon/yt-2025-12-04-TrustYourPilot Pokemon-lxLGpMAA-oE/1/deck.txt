@@ -1,0 +1,35 @@
+Pokémon: 12
+3 Nymble JTG 19
+1 Shaymin DRI 10
+3 Dunsparce PAL 156
+3 Lokix PFL 10
+1 Dudunsparce ex JTG 121
+2 Dudunsparce TEF 129
+1 Fezandipiti ex SFA 38
+2 Brute Bonnet PAR 123
+1 Cleffa OBF 80
+1 Psyduck MEP 7
+2 Mimikyu PAL 97
+2 Pecharunt PR-SV 149
+
+Trainer: 15
+1 Switch SVI 194
+4 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+2 Counter Catcher PAR 160
+4 Iono PAL 185
+2 Air Balloon BLK 79
+2 Battle Cage PFL 85
+1 Binding Mochi PRE 95
+1 Forest of Vitality MEG 117
+2 Ultra Ball MEG 131
+1 Prime Catcher TEF 157
+2 Nest Ball SVI 181
+1 Sacred Ash DRI 168
+3 Ancient Booster Energy Capsule PAR 159
+4 Hilda WHT 84
+
+Energy: 1
+4 Ignition Energy WHT 86
+
+Total Cards: 60

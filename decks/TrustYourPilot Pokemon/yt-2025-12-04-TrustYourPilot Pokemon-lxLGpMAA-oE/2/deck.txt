@@ -1,0 +1,39 @@
+Pokémon: 13
+3 Nymble JTG 19
+1 Klefki SVI 96
+1 Shaymin DRI 10
+4 Dunsparce PAL 156
+3 Lokix PFL 10
+1 Dudunsparce ex JTG 121
+3 Dudunsparce TEF 129
+1 Cleffa OBF 80
+1 Psyduck MEP 7
+1 Cornerstone Mask Ogerpon ex TWM 112
+1 Bloodmoon Ursaluna ex TWM 141
+1 Kecleon SSP 150
+2 Mimikyu PAL 97
+
+Trainer: 18
+1 Switch SVI 194
+1 Xerosic's Machinations SFA 64
+4 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+1 Counter Catcher PAR 160
+4 Iono PAL 185
+2 Air Balloon BLK 79
+1 Kieran TWM 154
+2 Battle Cage PFL 85
+1 Boss's Orders MEG 114
+4 Great Ball PAL 183
+1 Technical Machine: Devolution PAR 177
+1 Forest of Vitality MEG 117
+1 Brave Bangle WHT 80
+1 Prime Catcher TEF 157
+1 Pal Pad SVI 182
+1 Sacred Ash DRI 168
+2 Hilda WHT 84
+
+Energy: 1
+4 Ignition Energy WHT 86
+
+Total Cards: 60
