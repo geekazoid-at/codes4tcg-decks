@@ -1,0 +1,39 @@
+Pokémon: 12
+3 Bouffalant SCR 119
+3 Munkidori TWM 95
+2 Mega Kangaskhan ex MEG 104
+1 Psyduck MEP 7
+1 Golduck MEP 8
+1 Frillish WHT 44
+1 Shaymin DRI 10
+
+Trainer: 38
+4 Arven OBF 186
+4 Boss's Orders PAL 172
+2 Crispin SCR 133
+2 Penny SVI 183
+1 Ciphermaniac's Codebreaking PRE 104
+4 Jumbo Ice Cream PFL 91
+4 Pokégear 3.0 SVI 186
+2 Energy Switch MEG 115
+1 Counter Catcher PAR 160
+1 Earthen Vessel PAR 163
+1 Nest Ball SVI 181
+1 Night Stretcher SFA 61
+1 Precious Trolley SSP 185
+1 Super Rod PAL 188
+1 Ultra Ball MEG 131
+1 Blowtorch PFL 86
+2 Bravery Charm PAL 173
+2 Technical Machine: Turbo Energize PAR 179
+1 Air Balloon BLK 79
+1 Calamitous Snowy Mountain PAL 174
+1 Festival Grounds TWM 149
+
+Energy: 10
+4 Basic {D} Energy SVE 7
+2 Basic {P} Energy SVE 5
+2 Mist Energy TEF 161
+2 Basic {R} Energy SVE 2
+
+Total Cards: 60
