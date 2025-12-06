@@ -1,0 +1,33 @@
+Pokémon: 7
+2 N's Zorua JTG 97
+3 Tarountula SVI 16
+3 Spidops ex SVI 19
+4 Wugtrio SVI 57
+1 Maractus JTG 8
+2 N's Zoroark ex JTG 98
+4 Wiglett SVI 56
+
+Trainer: 14
+2 Ultra Ball SVI 196
+1 Jacq SVI 175
+1 Energy Search SVI 172
+4 Buddy-Buddy Poffin TEF 144
+3 Counter Catcher PAR 160
+2 Lillie's Determination MEG 119
+2 Gravity Gemstone SCR 137
+3 Iono PAL 185
+2 Super Rod PAL 188
+1 Tool Scrapper WHT 85
+2 Technical Machine: Evolution PAR 178
+1 Precious Trolley SSP 185
+2 Hilda WHT 164
+4 Arven SVI 166
+
+Energy: 5
+1 Ignition Energy WHT 86 PH
+3 Ignition Energy WHT 86
+1 Basic {W} Energy SVE 3
+2 Jet Energy PAL 190
+4 Reversal Energy PAL 192
+
+Total Cards: 60
