@@ -1,0 +1,32 @@
+Pokémon: 11
+1 Pidgey MEW 16
+3 Chien-Pao ex PAL 61
+1 Fezandipiti ex SFA 38
+1 Regigigas PRE 86
+3 Frigibax PAF 17
+1 Wellspring Mask Ogerpon ex TWM 64
+1 Pidgeot ex OBF 164
+1 Pidgeotto OBF 163
+2 Baxcalibur PAL 60
+1 Shaymin DRI 10
+2 Arctibax PAL 59
+
+Trainer: 13
+1 Counter Catcher PAR 160
+1 Unfair Stamp TWM 165
+3 Surfing Beach MEG 129
+2 Night Stretcher SFA 61
+1 Nest Ball SVI 181
+2 Rare Candy MEG 125
+4 Arven OBF 186
+2 Technical Machine: Evolution PAR 178
+4 Superior Energy Retrieval PAL 189
+4 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+4 Ultra Ball MEG 131
+2 Boss's Orders MEG 114
+
+Energy: 1
+9 Basic {W} Energy SVE 19
+
+Total Cards: 60
