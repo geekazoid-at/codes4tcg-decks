@@ -1,0 +1,30 @@
+Pokémon: 24
+3 Dusknoir PRE 37
+3 Houndstone ex OBF 102
+4 Greavard OBF 99
+4 Meloetta ex BLK 44
+1 Tatsugiri TWM 131
+1 Latias ex SSP 76
+3 Duskull PRE 35
+3 Dusclops PRE 36
+1 Squawkabilly ex PAL 169
+1 Mime Jr. PAF 31
+
+Trainer: 28
+4 Carmine PRE 103
+1 Buddy-Buddy Poffin PRE 101
+2 Earthen Vessel PRE 106
+1 Brilliant Blender SSP 164
+1 Air Balloon BLK 79
+4 Night Stretcher SFA 61
+4 Ultra Ball MEG 131
+1 Technical Machine: Evolution PAR 178
+4 Professor's Research PRE 122
+1 Penny SVI 183
+4 Wondrous Patch PFL 94
+1 Artazon PAL 171
+
+Energy: 8
+8 Basic {P} Energy SVE 5
+
+Total Cards: 60
