@@ -1,0 +1,33 @@
+Pokémon: 14
+3 Mega Kangaskhan ex MEG 104
+3 Bouffalant SCR 119
+2 Munkidori TWM 95
+2 Cornerstone Mask Ogerpon ex TWM 112
+2 Joltik SCR 50
+1 Latias ex SSP 76
+1 Shaymin DRI 10
+
+Trainer: 34
+4 Arven OBF 186
+3 Boss's Orders MEG 114
+2 Penny SVI 183
+2 Crispin SCR 133
+2 Lillie's Determination MEG 119
+4 Jumbo Ice Cream PFL 91
+4 Pokégear 3.0 SVI 186
+2 Switch MEG 130
+2 Night Stretcher SFA 61
+2 Nest Ball SVI 181
+1 Precious Trolley SSP 185
+1 Earthen Vessel PAR 163
+2 Bravery Charm PAL 173
+1 Air Balloon BLK 79
+2 Festival Grounds TWM 149
+
+Energy: 12
+4 Basic {G} Energy SVE 1
+4 Basic {L} Energy SVE 4
+2 Basic {D} Energy SVE 7
+2 Basic {F} Energy SVE 6
+
+Total Cards: 60
