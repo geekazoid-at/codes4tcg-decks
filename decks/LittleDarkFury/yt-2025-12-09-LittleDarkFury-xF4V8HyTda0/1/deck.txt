@@ -1,0 +1,36 @@
+Pokémon: 9
+4 Cynthia's Gible DRI 102
+1 Toedscool SCR 17
+1 Cynthia's Spiritomb DRI 129
+2 Munkidori TWM 95
+3 Cynthia's Garchomp ex DRI 104
+3 Cynthia's Gabite DRI 103
+2 Cynthia's Roserade DRI 8
+2 Cynthia's Roselia DRI 7
+1 Toedscruel PAR 17
+
+Trainer: 17
+2 Fighting Gong MEG 116
+1 Counter Catcher PAR 160
+3 Cynthia's Power Weight DRI 162
+2 Crispin PRE 105 PH
+2 Team Rocket's Watchtower DRI 180
+1 Artazon PAF 76
+1 Air Balloon BLK 79 PH
+2 Boss's Orders MEG 114 PH
+1 Premium Power Pro MEG 124
+4 Arven OBF 186
+1 Ultra Ball PAF 91 PH
+2 Iono PAL 185
+2 Technical Machine: Evolution PAR 178
+1 Super Rod PAL 188
+3 Buddy-Buddy Poffin TEF 144
+3 Lillie's Determination MEG 119
+1 Switch MEG 130
+
+Energy: 3
+2 Basic {D} Energy BUS 168
+6 Basic {F} Energy GRI 169
+1 Neo Upper Energy TEF 162
+
+Total Cards: 60

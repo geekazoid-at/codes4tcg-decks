@@ -1,0 +1,36 @@
+Pokémon: 7
+1 Psyduck MEP 7
+4 Ethan's Cyndaquil DRI 32
+4 Ethan's Quilava DRI 33
+4 Ethan's Typhlosion DRI 34
+2 Victini SSP 21
+1 Shaymin DRI 10
+2 Tatsugiri TWM 131
+
+Trainer: 21
+1 Counter Catcher PAR 160
+1 Secret Box TWM 163
+1 Night Stretcher SFA 61
+2 Rare Candy MEG 125
+2 Artazon PAL 171
+4 Arven OBF 186
+1 Air Balloon BLK 79
+1 Lana's Aid TWM 155
+1 Kieran TWM 154
+1 Iono PAL 185
+1 Technical Machine: Evolution PAR 178
+1 Redeemable Ticket JTG 156
+1 Super Rod PAL 188
+2 Professor's Research JTG 155
+4 Buddy-Buddy Poffin TEF 144
+2 Brave Bangle WHT 80
+4 Ethan's Adventure DRI 165
+3 Ultra Ball MEG 131
+2 Boss's Orders MEG 114
+1 Earthen Vessel PAR 163
+1 Gravity Mountain SSP 177
+
+Energy: 1
+5 Basic {R} Energy SVE 18
+
+Total Cards: 60
