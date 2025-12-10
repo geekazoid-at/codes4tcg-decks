@@ -1,0 +1,35 @@
+Pokémon: 24
+4 Buneary PFL 83
+3 Mega Lopunny ex PFL 84
+3 Zigzagoon PFL 81
+2 Linoone PFL 82
+4 Dunsparce PAL 156
+3 Dudunsparce TEF 129
+1 Dudunsparce ex JTG 121
+2 Fan Rotom SCR 118
+1 Toedscool JTG 88
+1 Toedscruel PAR 17
+
+Trainer: 28
+4 Buddy-Buddy Poffin TEF 144
+2 Ultra Ball SVI 196
+1 Night Stretcher SFA 61
+1 Counter Catcher PAR 160
+2 Air Balloon BLK 79
+1 Rigid Band MEW 165
+1 Technical Machine: Evolution PAR 178
+1 Maximum Belt TEF 154
+2 Battle Cage PFL 85
+1 Practice Studio PAL 186
+3 Arven SVI 166
+3 Lillie's Determination MEG 119
+2 Wally's Compassion MEG 132
+2 Boss's Orders PAL 172
+1 Hilda WHT 84
+1 Jacq SVI 175
+
+Energy: 8
+4 Jet Energy PAL 190
+4 Mist Energy TEF 161
+
+Total Cards: 60
