@@ -1,0 +1,39 @@
+Pokémon: 19
+3 Dreepy TWM 128
+3 Drakloak TWM 129
+2 Dragapult ex TWM 130
+3 Torchic DRI 40
+2 Combusken DRI 41
+2 Blaziken ex JTG 24
+1 Blaziken DRI 42
+1 Fezandipiti ex SFA 38
+1 Munkidori TWM 95
+1 Shaymin DRI 10
+
+Trainer: 34
+4 Iono PAL 185
+4 Lillie's Determination MEG 119
+2 Boss's Orders MEG 114
+1 Arven SVI 166
+1 Professor Turo's Scenario PAR 171
+4 Ultra Ball MEG 131
+3 Buddy-Buddy Poffin TEF 144
+2 Counter Catcher PAR 160
+2 Rare Candy MEG 125
+1 Earthen Vessel PAR 163
+1 Night Stretcher SFA 61
+1 Secret Box TWM 163
+1 Super Rod PAL 188
+2 Technical Machine: Evolution PAR 178
+1 Air Balloon BLK 79
+1 Counter Gain SSP 169
+1 Vitality Band SVI 197
+1 Artazon PAF 76
+1 Town Store OBF 196
+
+Energy: 7
+3 Basic {P} Energy SVE 5
+3 Basic {R} Energy SVE 2
+1 Basic {D} Energy SVE 7
+
+Total Cards: 60
