@@ -1,0 +1,33 @@
+Pokémon: 5
+3 Mow Rotom DRI 9
+1 Heat Rotom DRI 43 PH
+2 Rotom ex PFL 126
+1 Wash Rotom DRI 61 PH
+1 Rotom DRI 197
+
+Trainer: 19
+1 Boss's Orders RCL 189
+4 Buddy-Buddy Poffin TWM 223
+1 Air Balloon SSH 156
+1 Counter Gain SSP 249
+4 Lillie's Determination MEG 184
+1 Boss's Orders LOR-TG 24
+2 Exp. Share SVI 174
+2 Battle Cage PFL 85
+1 Counter Gain SSP 169
+2 Night Stretcher SFA 61
+4 Brave Bangle WHT 80 PH
+1 Treasure Tracker PRE 131
+2 Nest Ball SVI 181
+4 Arven PAF 235
+3 Iono PAF 237
+4 Bravery Charm PAL 173
+1 Lana's Aid TWM 219
+3 Crispin PRE 171
+1 Super Rod PAL 188
+
+Energy: 2
+5 Basic {L} Energy SVE 12
+5 Basic {G} Energy SVE 1
+
+Total Cards: 60

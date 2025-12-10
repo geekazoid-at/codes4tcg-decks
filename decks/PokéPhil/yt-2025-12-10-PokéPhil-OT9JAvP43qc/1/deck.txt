@@ -1,0 +1,37 @@
+Pokémon: 7
+4 Team Rocket's Porygon-Z DRI 155
+1 Team Rocket's Chingling DRI 85 PH
+2 Team Rocket's PORYGON 2 DRI 154
+1 Team Rocket's Articuno DRI 51 PH
+4 Team Rocket's Porygon DRI 153
+2 Team Rocket's PORYGON 2 DRI 154 PH
+1 Team Rocket's Mimikyu DRI 87
+
+Trainer: 21
+4 Team Rocket's Petrel DRI 226
+2 Team Rocket's Proton DRI 177 PH
+2 Team Rocket's Ariana DRI 171 PH
+1 Team Rocket's Archer DRI 170 PH
+1 Team Rocket's Archer DRI 223
+2 Team Rocket's Proton DRI 227
+1 Rare Candy SVI 256
+2 Team Rocket's Ariana DRI 237
+2 Team Rocket's Archer DRI 170
+1 Buddy-Buddy Poffin TWM 223
+2 Sacred Ash DRI 168
+2 Team Rocket's Giovanni DRI 174
+3 Team Rocket's Transceiver DRI 178
+1 Team Rocket's Giovanni DRI 174 PH
+4 Ultra Ball BRS 186
+1 Team Rocket's Factory DRI 173
+1 Professor's Research SVI 241
+1 Team Rocket's Giovanni DRI 238
+1 Team Rocket's Transceiver DRI 178 PH
+2 Team Rocket's Factory DRI 173 PH
+1 Brilliant Blender SSP 164
+
+Energy: 2
+4 Team Rocket's Energy DRI 182
+4 Ignition Energy WHT 86 PH
+
+Total Cards: 60
