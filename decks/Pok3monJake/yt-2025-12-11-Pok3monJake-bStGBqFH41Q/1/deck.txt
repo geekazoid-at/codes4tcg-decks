@@ -1,0 +1,33 @@
+Pokémon: 18
+3 Panpour PAR 41
+3 Simipour PAR 42
+3 Pansage PAR 4
+3 Simisage PAR 5
+3 Pansear PAR 20
+3 Simisear PAR 21
+
+Trainer: 33
+4 Arven SVI 166
+4 Lillie's Determination MEG 119
+3 Iono PAL 185
+2 Lana's Aid TWM 155
+4 Pokégear 3.0 SVI 186
+3 Counter Catcher PAR 160
+2 Night Stretcher SFA 61
+1 Buddy-Buddy Poffin TEF 144
+1 Ultra Ball SVI 196
+1 Earthen Vessel PAR 163
+1 Precious Trolley SSP 185
+2 Technical Machine: Evolution PAR 178
+1 Brave Bangle WHT 80
+1 Technical Machine: Crisis Punch PAF 90
+2 Artazon PAL 171
+1 Battle Cage PFL 85
+
+Energy: 9
+4 Luminous Energy PAL 191
+3 Basic {R} Energy SVE 2
+1 Basic {G} Energy SVE 1
+1 Basic {W} Energy SVE 3
+
+Total Cards: 60
