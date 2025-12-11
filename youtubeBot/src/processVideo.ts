@@ -193,7 +193,7 @@ export function processDescription(
   return decks;
 }
 
-const maxLength = 22;
+const maxLength = 20;
 const replacements = ["+", "/", "-"];
 
 export function fixLongWords(name: string): string {
