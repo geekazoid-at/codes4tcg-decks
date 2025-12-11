@@ -1,0 +1,38 @@
+Pokémon: 11
+1 Latias ex SSP 76
+1 Psyduck MEP 7
+2 Mega Camerupt ex MEG 22
+1 Volcanion ex JTG 31
+1 Fezandipiti ex SFA 38
+2 Oricorio ex PFL 18
+2 Victini SSP 21
+4 Numel MEG 21
+1 Reshiram ex WHT 20
+1 Moltres PFL 14
+1 Tatsugiri TWM 131
+
+Trainer: 17
+1 Counter Catcher PAR 160
+1 Firebreather PFL 89
+1 Rigid Band MEW 165
+1 Night Stretcher SFA 61
+1 Mega Signal MEG 121
+4 Nest Ball SVI 181
+3 Arven OBF 186
+1 Air Balloon BLK 79
+1 Superior Energy Retrieval PAL 189
+1 Defiance Band SVI 169
+4 Lillie's Determination MEG 119
+3 Iono PAF 80
+2 Switch MEG 130
+2 Ultra Ball MEG 131
+2 Boss's Orders MEG 114
+1 Earthen Vessel PAR 163
+2 Gravity Mountain SSP 177
+
+Energy: 3
+2 Jet Energy PAL 190
+8 Basic {R} Energy MEE 2
+2 Ignition Energy WHT 86
+
+Total Cards: 60

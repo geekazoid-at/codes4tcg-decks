@@ -1,0 +1,37 @@
+Pokémon: 10
+1 Psyduck MEP 7
+1 Reshiram PFL 17
+2 Mega Camerupt ex MEG 22
+1 Torkoal SVI 35
+1 Chi-Yu PAR 29
+1 Fezandipiti ex SFA 38
+2 Oricorio ex PFL 18
+3 Numel MEG 21
+1 Reshiram ex WHT 20
+1 Moltres PFL 14
+
+Trainer: 18
+1 Counter Catcher PAR 160
+1 Artazon PAF 76
+1 Maximum Belt TEF 154
+2 Night Stretcher SFA 61
+1 Mega Signal MEG 121
+4 Nest Ball SVI 181
+3 Arven OBF 186
+1 Air Balloon BLK 79
+1 Professor Turo's Scenario PAR 171
+2 Superior Energy Retrieval PAL 189
+1 Brave Bangle WHT 80
+4 Lillie's Determination MEG 119
+3 Iono PAF 80
+2 Switch MEG 130
+2 Ultra Ball MEG 131
+2 Boss's Orders MEG 114
+2 Earthen Vessel PAR 163
+1 Gravity Mountain SSP 177
+
+Energy: 2
+1 Jet Energy PAL 190
+11 Basic {R} Energy MEE 2
+
+Total Cards: 60
