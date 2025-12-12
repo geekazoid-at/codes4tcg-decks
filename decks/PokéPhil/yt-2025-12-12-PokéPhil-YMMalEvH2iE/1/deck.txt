@@ -1,0 +1,36 @@
+Pokémon: 14
+2 Xatu PAR 72
+1 Slowpoke PAL 85
+3 Slowpoke SCR 57
+1 Tatsugiri TWM 131
+1 Conkeldurr TWM 105
+1 Regigigas PRE 86
+2 Kyurem SFA 47
+1 Fezandipiti ex SFA 38
+2 Natu PAR 71
+3 Slowking SCR 58
+1 Psyduck MEP 7
+1 Squawkabilly ex PAL 169
+1 Annihilape SSP 100
+1 Lillie's Clefairy ex JTG 56
+
+Trainer: 13
+4 Academy at Night SFA 54
+1 Counter Gain SSP 169
+4 Arven OBF 186
+1 Earthen Vessel PAR 163
+4 Lillie's Determination MEG 119
+1 Ciphermaniac's Codebreaking TEF 145
+2 Lana's Aid TWM 155
+1 Air Balloon BLK 79
+1 Technical Machine: Devolution PAR 177
+4 Night Stretcher SFA 61
+4 Ultra Ball MEG 131
+1 Technical Machine: Evolution PAR 178
+1 Precious Trolley SSP 185
+
+Energy: 2
+4 Jet Energy PAL 190
+6 Basic {P} Energy SVE 21
+
+Total Cards: 60

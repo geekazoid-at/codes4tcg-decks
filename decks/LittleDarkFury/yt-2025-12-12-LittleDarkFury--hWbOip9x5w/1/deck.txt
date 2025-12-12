@@ -1,0 +1,34 @@
+Pokémon: 7
+1 Golduck MEP 8
+1 Psyduck MEP 7
+4 Drakloak TWM 129
+4 Dreepy TWM 128
+4 Wugtrio SVI 57
+4 Wiglett SVI 56
+1 Shaymin DRI 10
+
+Trainer: 18
+3 Counter Catcher PAR 160 PH
+4 Buddy-Buddy Poffin PRE 101 PH
+1 Eri TEF 146 PH
+1 Xerosic's Machinations SFA 64
+2 Battle Cage PFL 85
+1 Miriam SVI 179
+1 Night Stretcher SFA 61
+2 Arven SVI 166 PH
+1 Air Balloon BLK 79
+2 Hassel TWM 151
+1 Nest Ball SVI 181 PH
+2 Hilda WHT 84 PH
+2 Super Rod PAL 188
+2 Gravity Gemstone SCR 137
+4 Lillie's Determination MEG 119
+2 Ultra Ball SVI 196
+1 Neutralization Zone SFA 60
+1 Iono PAF 80 PH
+
+Energy: 2
+4 Reversal Energy PAL 192
+4 Ignition Energy WHT 86
+
+Total Cards: 60
