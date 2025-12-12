@@ -1,0 +1,29 @@
+Pokémon: 18
+2 Charmander MEW 4
+2 Charmander OBF 26
+2 Charmeleon PFL 12
+3 Mega Charizard X ex PFL 13
+4 Team Rocket's Tarountula DRI 19
+4 Team Rocket's Spidops DRI 20
+1 Tatsugiri TWM 131
+
+Trainer: 32
+4 Ultra Ball SVI 196
+4 Energy Switch MEG 115
+3 Earthen Vessel PAR 163
+2 Rare Candy SVI 191
+1 Buddy-Buddy Poffin TEF 144
+1 Precious Trolley SSP 185
+2 Air Balloon BLK 79
+2 Technical Machine: Evolution PAR 178
+1 Powerglass SFA 63
+1 Battle Cage PFL 85
+4 Arven SVI 166
+4 Lillie's Determination MEG 119
+3 Boss's Orders PAL 172
+
+Energy: 10
+2 Basic {G} Energy SVE 1
+8 Basic {R} Energy SVE 2
+
+Total Cards: 60
