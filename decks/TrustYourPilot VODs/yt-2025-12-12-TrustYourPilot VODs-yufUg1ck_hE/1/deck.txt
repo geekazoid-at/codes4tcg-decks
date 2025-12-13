@@ -1,0 +1,34 @@
+Pokémon: 10
+2 Latias ex SSP 76
+1 Bloodmoon Ursaluna ex TWM 141
+2 Brute Bonnet PAR 123
+2 Pecharunt PR-SV 149
+2 Mega Latias ex MEG 100
+2 Latios MEG 101
+1 Fezandipiti ex SFA 38
+1 Mew ex MEW 151
+1 Moltres PFL 14
+1 Squawkabilly ex PAL 169
+
+Trainer: 15
+4 Carmine TWM 145
+1 Secret Box TWM 163
+3 Perilous Jungle TEF 156
+2 Night Stretcher SFA 61
+4 Nest Ball SVI 181
+2 Iono PAL 185
+1 Super Rod PAL 188
+2 Professor's Research JTG 155
+4 Wondrous Patch PFL 94
+3 Ancient Booster Energy Capsule TEF 140
+2 Binding Mochi PRE 95
+3 Ultra Ball MEG 131
+1 Switch SVI 194
+3 Boss's Orders MEG 114
+2 Earthen Vessel PAR 163
+
+Energy: 2
+3 Basic {R} Energy SVE 2
+5 Basic {P} Energy SVE 5
+
+Total Cards: 60

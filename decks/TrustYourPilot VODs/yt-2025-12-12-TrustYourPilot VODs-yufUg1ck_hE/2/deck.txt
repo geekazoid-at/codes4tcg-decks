@@ -1,0 +1,37 @@
+Pokémon: 9
+1 Psyduck MEP 7
+3 Team Rocket's Spidops DRI 20
+2 Mega Latias ex MEG 100
+2 Latios MEG 101
+1 Fezandipiti ex SFA 38
+1 Cleffa OBF 80
+1 Budew PRE 4
+3 Team Rocket's Tarountula DRI 19
+1 Moltres PFL 14
+
+Trainer: 18
+1 Counter Catcher PAR 160
+1 Iris's Fighting Spirit JTG 149
+1 Maximum Belt PRE 117
+1 Battle Cage PFL 85
+1 Morty's Conviction TEF 155
+3 Night Stretcher SFA 61
+4 Nest Ball SVI 181
+1 Bravery Charm PAL 173
+2 Boss's Orders PAL 172
+1 Air Balloon BLK 79
+3 Iono PAL 185
+1 Professor Turo's Scenario PAR 171
+3 Earthen Vessel PRE 106
+1 Brave Bangle WHT 80
+4 Lillie's Determination MEG 119
+3 Ultra Ball MEG 131
+3 Switch SVI 194
+1 Gravity Mountain SSP 177
+
+Energy: 3
+5 Basic {R} Energy SVE 2
+1 Basic {G} Energy SVE 1
+4 Basic {P} Energy SVE 5
+
+Total Cards: 60
