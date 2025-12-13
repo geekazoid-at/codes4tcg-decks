@@ -1,0 +1,40 @@
+Pokémon: 13
+1 Eevee ex PRE 75
+1 Latias ex SSP 76
+1 Bloodmoon Ursaluna ex TWM 141
+1 Hoothoot PRE 77
+1 Munkidori TWM 95
+2 Umbreon ex PRE 60
+3 Eevee SSP 143
+1 Ditto MEW 132
+1 Fezandipiti ex SFA 38
+1 Umbreon OBF 130
+2 Hoothoot SCR 114
+2 Fan Rotom SCR 118
+3 Noctowl PRE 78
+
+Trainer: 17
+1 Counter Catcher PAR 160 PH
+1 Tera Orb SSP 189
+1 Energy Switch SVI 173
+2 Night Stretcher SFA 61
+2 Nest Ball SVI 181
+2 Area Zero Underdepths PRE 94
+1 Iono PAL 185
+4 Arven SVI 166
+1 Dizzying Valley PFL 88
+1 Technical Machine: Devolution PAR 177
+4 Buddy-Buddy Poffin PRE 101
+1 Earthen Vessel PRE 106
+2 Crispin PRE 105
+1 Sparkling Crystal PRE 129
+4 Lillie's Determination MEG 119
+1 Ultra Ball MEG 131
+2 Boss's Orders MEG 114
+
+Energy: 3
+1 Basic {L} Energy SVE 12 PH
+5 Basic {D} Energy SVE 15
+3 Basic {P} Energy SVE 13
+
+Total Cards: 60

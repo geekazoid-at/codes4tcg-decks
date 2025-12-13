@@ -1,0 +1,35 @@
+Pokémon: 12
+2 Eternatus VMAX DAA 117
+2 Eternatus V DAA 116
+1 Umbreon & Darkrai-GX UNM 125
+1 Darkrai-GX BUS 88
+1 Fezandipiti ex SFA 38
+1 Guzzlord CEC 136
+2 Crobat V DAA 104
+2 Weavile-GX UNM 132
+2 Sneasel UPR 73
+1 Pecharunt ex SFA 39
+2 Marnie's Morpeko DRI 137
+2 Kecleon CRE 122
+
+Trainer: 15
+1 Hisuian Heavy Ball ASR 146
+1 Secret Box TWM 163
+4 Quick Ball SSH 179
+1 Black Market {*} TEU 134
+2 Forest Seal Stone SIT 156
+1 Field Blower GRI 125
+1 Battle VIP Pass FST 225
+4 Acro Bike CES 123
+4 Ultra Ball SUM 135
+4 Professor's Research SHF 60
+1 Trekking Shoes CRZ 145
+3 Rescue Stretcher GRI 130
+2 Guzma BUS 115
+1 Lillie's Determination MEG 119
+1 Iono PAF 80
+
+Energy: 1
+10 Basic {D} Energy SVE 7
+
+Total Cards: 60
