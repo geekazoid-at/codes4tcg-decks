@@ -1,0 +1,38 @@
+Pokémon: 13
+3 Blaziken ex JTG 24
+1 Blaziken DRI 42
+4 Torchic DRI 40
+3 Combusken DRI 41
+2 Pidgey MEW 16
+1 Pidgeotto OBF 163
+2 Pidgeot ex OBF 164
+1 Munkidori TWM 95
+1 Fezandipiti ex SFA 38
+1 Mega Absol ex MEG 86
+1 Reshiram ex WHT 20
+1 Shaymin DRI 10
+1 Psyduck MEP 7
+
+Trainer: 16
+3 Rare Candy MEG 125
+1 Super Rod PAL 188
+1 Vitality Band SVI 197
+1 Night Stretcher SFA 61
+1 Air Balloon BLK 79
+4 Lillie's Determination MEG 119
+2 Technical Machine: Evolution PAR 178
+1 Town Store OBF 196
+3 Iono PAL 185
+1 Professor Turo's Scenario PRE 121
+3 Buddy-Buddy Poffin PRE 101
+4 Ultra Ball MEG 131
+2 Counter Catcher PAR 160
+2 Boss's Orders MEG 114
+1 Secret Box TWM 163
+1 Artazon PAF 76
+
+Energy: 2
+4 Basic {R} Energy SVE 2
+3 Basic {D} Energy SVE 7
+
+Total Cards: 60
