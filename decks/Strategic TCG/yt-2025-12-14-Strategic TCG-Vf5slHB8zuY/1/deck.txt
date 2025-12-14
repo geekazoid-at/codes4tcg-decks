@@ -1,0 +1,33 @@
+Pokémon: 11
+1 Squawkabilly ex PR-SV 160
+2 Bronzong CRE 223
+1 Lumineon V CRZ-GG 39
+1 Crobat V PR-SW 110
+2 Origin Forme Dialga V ASR 177
+2 Dedenne-GX SMALT 156
+2 Terapagos ex SCR 170
+1 Dialga-GX FLI 125
+2 Origin Forme Dialga VSTAR ASR 210
+2 Bronzor TEU 100
+1 Latias ex SSP 239
+
+Trainer: 13
+1 Hisuian Heavy Ball ASR 146
+1 Stadium Nav UNM 208
+2 Guzma BUS 143
+1 Forest Seal Stone SIT 156
+1 Rescue Stretcher SMALT 187
+1 Brilliant Blender SSP 164
+3 Professor's Research SSH 201
+3 Battle VIP Pass FST 225
+4 Area Zero Underdepths SCR 174
+4 Glass Trumpet SCR 135
+4 Quick Ball SSH 216
+4 Metal Saucer SSH 214
+3 Ultra Ball SUM 161
+
+Energy: 2
+10 Basic {M} Energy EVS 237
+1 Basic {M} Energy SFA 99
+
+Total Cards: 60

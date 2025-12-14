@@ -1,0 +1,32 @@
+Pokémon: 7
+1 Fezandipiti ex SFA 38
+2 Lunatone MEG 74
+3 Ceruledge ex SSP 36
+3 Charcadet SSP 32
+1 Charcadet OBF 43
+2 Solrock MEG 75
+1 Squawkabilly ex PAL 169
+
+Trainer: 14
+1 Iono PAL 185
+2 Fighting Gong MEG 116
+2 Night Stretcher SFA 61
+1 Briar SCR 132
+1 Professor Turo's Scenario PAR 171
+1 Professor's Research JTG 155
+2 Earthen Vessel PAR 163
+4 Ultra Ball MEG 131
+1 Super Rod PAL 188
+1 Jamming Tower TWM 153
+1 Pal Pad SVI 182
+4 Nest Ball SVI 181
+4 Carmine TWM 145
+3 Boss's Orders MEG 114
+
+Energy: 4
+9 Basic {F} Energy SVE 22
+1 Legacy Energy TWM 167
+7 Basic {R} Energy SVE 18
+2 Jet Energy PAL 190
+
+Total Cards: 60

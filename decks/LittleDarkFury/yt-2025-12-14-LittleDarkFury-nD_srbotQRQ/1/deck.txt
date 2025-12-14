@@ -1,0 +1,31 @@
+Pokémon: 7
+3 Bronzong TEF 69
+3 Froslass TWM 53
+4 Bronzor PRE 66
+2 Budew PRE 4
+3 Snorunt PAR 37
+3 Munkidori PRE 44
+1 Bloodmoon Ursaluna ex TWM 141
+
+Trainer: 15
+1 Earthen Vessel PRE 106
+1 Ultra Ball MEG 131
+2 Night Stretcher SFA 61
+4 Lillie's Determination MEG 119
+4 Iono PAL 185
+1 Air Balloon BLK 79 PH
+2 Technical Machine: Devolution PAR 177
+4 Buddy-Buddy Poffin PRE 101 PH
+3 Arven SVI 166
+3 Counter Catcher PAR 160 PH
+1 Secret Box TWM 163
+1 Pokégear 3.0 BLK 84
+1 Switch SVI 194
+2 Jamming Tower TWM 153
+2 Nest Ball PAF 84
+
+Energy: 2
+5 Basic {P} Energy SUM 162
+4 Basic {D} Energy BUS 168
+
+Total Cards: 60
