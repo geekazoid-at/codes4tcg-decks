@@ -1,0 +1,33 @@
+Pokémon: 11
+1 Latias ex SSP 76
+1 Bloodmoon Ursaluna ex TWM 141
+2 Dusknoir PRE 37
+4 Drakloak TWM 129
+4 Dreepy TWM 128
+1 Hawlucha SVI 118
+1 Fezandipiti ex SFA 38
+1 Dusclops PRE 36
+2 Budew PRE 4
+3 Dragapult ex TWM 130
+2 Duskull PRE 35
+
+Trainer: 11
+3 Counter Catcher PAR 160
+2 Dawn PFL 87
+2 Night Stretcher SFA 61
+3 Rare Candy MEG 125
+2 Jamming Tower TWM 153
+4 Iono PAL 185
+1 Hilda WHT 84
+4 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+4 Ultra Ball MEG 131
+2 Boss's Orders MEG 114
+
+Energy: 4
+2 Luminous Energy PAL 191
+2 Basic {P} Energy MEE 5
+2 Basic {R} Energy MEE 2
+1 Neo Upper Energy TEF 162
+
+Total Cards: 60

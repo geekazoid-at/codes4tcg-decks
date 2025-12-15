@@ -1,0 +1,35 @@
+Pokémon: 9
+1 Mega Mawile ex MEG 94
+3 Piplup PFL 27
+1 Genesect ex BLK 67
+2 Munkidori TWM 95
+2 Steven's Metang DRI 144
+2 Steven's Beldum DRI 143
+2 Prinplup PFL 28
+2 Steven's Metagross ex DRI 145
+2 Empoleon ex PFL 70
+
+Trainer: 16
+4 Lillie's Determination MEG 119
+2 Super Rod PAL 188
+1 Artazon PAF 76
+1 Air Balloon BLK 79
+3 Buddy-Buddy Poffin TEF 144 PH
+2 Rare Candy MEG 125 PH
+3 Nest Ball SVI 181 PH
+1 Earthen Vessel PRE 106 PH
+1 Hero's Cape TEF 152
+1 Ultra Ball MEG 131 PH
+3 Iono PAL 185
+2 Boss's Orders MEG 114 PH
+1 Counter Catcher PAR 160 PH
+2 Technical Machine: Evolution PAR 178
+4 Arven SVI 166 PH
+1 Full Metal Lab TEF 148
+
+Energy: 3
+2 Basic {D} Energy BUS 168
+4 Basic {P} Energy SUM 162
+5 Basic {M} Energy SUM 163
+
+Total Cards: 60
