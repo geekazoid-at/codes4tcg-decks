@@ -1,0 +1,28 @@
+Pokémon: 18
+4 Hop's Zacian ex JTG 111
+2 Mega Absol ex MEG 86
+4 Toxel PFL 67
+3 Toxtricity PFL 68
+3 Munkidori TWM 95
+1 Yveltal MEG 88
+1 Pecharunt ex SFA 39
+
+Trainer: 32
+4 Nest Ball SVI 181
+3 Ultra Ball SVI 196
+4 Energy Switch MEG 115
+1 Picnic Basket SVI 184
+1 Super Rod PAL 188
+1 Unfair Stamp TWM 165
+2 Hop's Choice Band JTG 148
+2 Bravery Charm PAL 173
+3 Postwick JTG 154
+4 Arven SVI 166
+4 Lillie's Determination MEG 119
+3 Boss's Orders PAL 172
+
+Energy: 10
+3 Jet Energy PAL 190
+7 Basic {D} Energy SVE 7
+
+Total Cards: 60
