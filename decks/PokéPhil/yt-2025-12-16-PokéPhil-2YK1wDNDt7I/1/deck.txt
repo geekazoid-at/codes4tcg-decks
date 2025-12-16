@@ -1,0 +1,37 @@
+Pokémon: 11
+1 Latias ex SSP 76
+2 Hop's Cramorant JTG 138
+1 Bloodmoon Ursaluna ex TWM 141
+1 Mega Mawile ex MEG 94
+2 Duraludon PRE 69
+1 Iron Bundle PAR 56
+2 Archaludon ex SSP 130
+1 Munkidori TWM 95
+1 Fezandipiti ex SFA 38
+2 Hop's Snorlax JTG 117
+2 Hop's Zacian ex JTG 111
+
+Trainer: 16
+1 Counter Catcher PAR 160
+4 Hop's Choice Band JTG 148
+1 Hop's Bag JTG 147
+1 Prime Catcher PRE 119
+1 Kieran PRE 113
+3 Pokégear 3.0 SVI 186
+2 Night Stretcher SFA 61
+4 Nest Ball SVI 181
+4 Arven SVI 166
+3 Postwick JTG 154
+2 Earthen Vessel PRE 106
+4 Lillie's Determination MEG 119
+1 Iono PAF 80
+2 Ultra Ball MEG 131
+1 Professor Turo's Scenario PRE 121
+2 Boss's Orders MEG 114
+
+Energy: 3
+1 Jet Energy PAL 190
+1 Basic {D} Energy SVE 15
+6 Basic {M} Energy SVE 16
+
+Total Cards: 60
