@@ -1,0 +1,39 @@
+Pokémon: 22
+3 Slakoth PAL 160
+1 Vigoroth PAL 161
+2 Slaking ex SSP 147
+2 Duskull PRE 35
+1 Dusclops PRE 36
+1 Dusknoir PRE 37
+1 Pidgey OBF 162
+1 Pidgey MEW 16
+2 Pidgeotto MEW 17
+2 Pidgeot ex OBF 164
+2 Fan Rotom SCR 118
+1 Buneary MEG 107
+1 Mega Lopunny ex PFL 84
+1 Fezandipiti ex SFA 38
+1 Bloodmoon Ursaluna ex TWM 141
+
+Trainer: 29
+3 Boss's Orders MEG 114
+3 Colress's Tenacity SFA 57
+2 Hilda WHT 84
+2 Lillie's Determination MEG 119
+2 Iono PAL 185
+1 Black Belt's Training JTG 145
+4 Buddy-Buddy Poffin TEF 144
+4 Ultra Ball MEG 131
+3 Rare Candy MEG 125
+1 Sacred Ash DRI 168
+1 Counter Catcher PAR 160
+1 Team Rocket's Watchtower DRI 180
+1 Artazon PAL 171
+1 Grand Tree SCR 136
+
+Energy: 9
+4 Jet Energy PAL 190
+3 Ignition Energy WHT 86
+2 Boomerang Energy TWM 166
+
+Total Cards: 60
