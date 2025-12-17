@@ -1,0 +1,35 @@
+Pokémon: 9
+4 Kadabra MEG 55
+3 Doduo MEW 84
+1 Shaymin DRI 10
+4 Abra TWM 80
+4 Alakazam MEG 56
+1 Fezandipiti ex SFA 38
+2 Fan Rotom SCR 118
+1 Psyduck MEP 7
+3 Dodrio MEW 85
+
+Trainer: 16
+1 Switch SVI 194
+2 Rare Candy SVI 191
+4 Buddy-Buddy Poffin TEF 144
+3 Lillie's Determination MEG 119
+1 Counter Catcher PAR 160
+1 Air Balloon BLK 79
+2 Battle Cage PFL 85
+4 Great Ball PAL 183
+2 Lucky Helmet TWM 158
+1 Super Rod PAL 188
+2 Morty's Conviction TEF 155
+2 Dawn PFL 87
+1 Tulip PAR 181
+2 Sacred Ash DRI 168
+1 Artazon PAL 171
+2 Boss's Orders PAL 172
+
+Energy: 3
+4 Basic {P} Energy SVE 5
+1 Legacy Energy TWM 167
+1 Jet Energy PAL 190
+
+Total Cards: 60
