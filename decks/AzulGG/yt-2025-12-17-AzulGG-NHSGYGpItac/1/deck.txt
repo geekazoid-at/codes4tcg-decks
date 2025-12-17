@@ -1,0 +1,35 @@
+Pokémon: 16
+2 Joltik SCR 50
+1 Galvantula SFA 2
+2 Iron Hands ex PAR 70
+2 Mew ex MEW 151
+1 Bloodmoon Ursaluna ex PR-SV 177
+1 Fezandipiti ex SFA 38
+1 Iron Bundle PAR 56
+1 Iron Leaves ex TEF 25
+1 Latias ex SSP 76
+1 Mega Mawile ex MEG 94
+1 Miraidon ex SVI 81
+1 Pikachu ex SSP 57
+1 Psyduck MEP 7
+
+Trainer: 30
+4 Arven OBF 186
+4 Boss's Orders PAL 172
+4 Crispin SCR 133
+4 Nest Ball SVI 181
+4 Pokégear 3.0 SVI 186
+4 Ultra Ball SVI 196
+1 Earthen Vessel PAR 163
+1 Energy Switch MEG 115
+1 Prime Catcher TEF 157
+1 Air Balloon BLK 79
+1 Bravery Charm PAL 173
+1 Exp. Share SVI 174
+
+Energy: 14
+5 Basic {G} Energy SVE 1
+5 Basic {L} Energy SVE 4
+4 Basic {M} Energy SVE 8
+
+Total Cards: 60
