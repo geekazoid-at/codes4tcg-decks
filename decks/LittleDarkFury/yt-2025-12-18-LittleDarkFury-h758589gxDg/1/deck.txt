@@ -1,0 +1,38 @@
+Pokémon: 12
+1 Pecharunt ex SFA 39
+3 Carvanha PFL 60
+1 Fezandipiti ex SFA 38
+1 Pidgey MEW 16
+2 Toxel PFL 67
+2 Munkidori TWM 95
+2 Mega Sharpedo ex PFL 61
+2 Toxtricity PFL 68
+2 Pidgeot ex OBF 164
+1 Bloodmoon Ursaluna ex TWM 141
+1 Pidgey OBF 162
+1 Pidgeotto OBF 163
+
+Trainer: 18
+4 Lillie's Determination MEG 119
+1 Town Store OBF 196
+1 Super Rod PAL 188
+1 Artazon PAL 171
+1 Gravity Mountain SSP 177
+1 Air Balloon BLK 79
+4 Buddy-Buddy Poffin PRE 101
+2 Rare Candy SVI 191
+3 Ultra Ball SVI 196
+1 Rigid Band MEW 165
+1 Maximum Belt TEF 154
+2 Iono PAL 185
+3 Boss's Orders MEG 114
+1 Professor Turo's Scenario PRE 121
+2 Technical Machine: Evolution PAR 178
+1 Counter Catcher PAR 160
+3 Arven SVI 166
+1 Dawn PFL 87
+
+Energy: 1
+8 Basic {D} Energy BUS 168
+
+Total Cards: 60
