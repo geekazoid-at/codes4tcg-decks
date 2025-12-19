@@ -1,0 +1,41 @@
+Pokémon: 18
+3 Hoothoot SCR 114
+3 Noctowl SCR 115
+1 Charmander PAF 7
+2 Charmander PFL 11
+1 Charmeleon PFL 12
+2 Charizard ex OBF 125
+1 Wellspring Mask Ogerpon ex TWM 64
+1 Dusknoir PRE 37
+1 Duskull PRE 35
+1 Dusclops PRE 36
+2 Fan Rotom SCR 118
+2 Pidgey MEW 16
+2 Pidgeot ex OBF 164
+1 Ditto MEW 132
+1 Fezandipiti ex SFA 38
+1 Latias ex SSP 76
+1 Terapagos ex SCR 128
+1 Pidgeotto OBF 163
+
+Trainer: 14
+4 Dawn PFL 87
+2 Boss's Orders MEG 114
+1 Iono PAL 185
+1 Crispin SCR 133
+1 Briar SCR 132
+4 Buddy-Buddy Poffin TEF 144
+3 Nest Ball SVI 181
+4 Rare Candy MEG 125
+1 Ultra Ball MEG 131
+1 Counter Catcher PAR 160
+1 Super Rod PAL 188
+1 Air Balloon BLK 79
+1 Sparkling Crystal SCR 142
+2 Area Zero Underdepths SCR 131
+
+Energy: 2
+5 Basic {R} Energy SVE 2
+1 Basic {W} Energy SVE 3
+
+Total Cards: 60
