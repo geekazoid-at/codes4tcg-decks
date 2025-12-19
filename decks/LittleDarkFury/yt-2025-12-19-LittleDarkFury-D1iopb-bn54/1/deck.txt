@@ -1,0 +1,37 @@
+Pokémon: 11
+4 Kadabra MEG 55
+1 Lampent WHT 17
+1 Shaymin DRI 10
+2 Dunsparce PAL 156
+2 Chandelure TWM 38
+4 Abra MEG 54
+3 Alakazam MEG 56
+2 Dudunsparce TEF 129
+2 Litwick TWM 36
+1 Psyduck MEP 7
+1 Fezandipiti ex SFA 38
+
+Trainer: 15
+3 Rare Candy PAF 89
+2 Night Stretcher SFA 61
+4 Lillie's Determination MEG 119
+3 Dawn PFL 87
+1 Great Ball PAL 183
+4 Buddy-Buddy Poffin TEF 144
+1 Ruffian JTG 157
+3 Battle Cage PFL 85
+1 Pal Pad SVI 182
+1 Counter Catcher PAR 160
+2 Boss's Orders PAL 172
+2 Wondrous Patch PFL 94
+1 Tulip PAR 181
+2 Hilda WHT 84
+1 Nest Ball PAF 84
+
+Energy: 4
+3 Basic {P} Energy SUM 162
+1 Enriching Energy SSP 191
+1 Basic {R} Energy BUS 167
+1 Luminous Energy PAL 191
+
+Total Cards: 60
