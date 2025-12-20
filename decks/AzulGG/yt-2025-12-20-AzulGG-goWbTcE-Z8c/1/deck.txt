@@ -1,0 +1,28 @@
+Pokémon: 8
+2 Meganium MEG 10
+1 Fezandipiti ex SFA 38
+4 Sprigatito PAL 13
+4 Floragato PAL 14
+2 Budew PRE 4
+2 Bayleef MEG 9
+2 Chikorita MEG 8
+4 Meowscarada ex PR-SV 33
+
+Trainer: 12
+4 Forest of Vitality MEG 117
+2 Counter Catcher PAR 160
+3 Dawn PFL 87
+1 Max Rod PRE 116
+1 Technical Machine: Devolution PAR 177
+2 Superior Energy Retrieval PAL 189
+1 Super Rod PAL 188
+4 Bug Catching Set PRE 102
+4 Buddy-Buddy Poffin PRE 101
+4 Lillie's Determination MEG 119
+4 Iono PAF 80
+1 Boss's Orders MEG 114
+
+Energy: 1
+8 Basic {G} Energy MEE 1
+
+Total Cards: 60
