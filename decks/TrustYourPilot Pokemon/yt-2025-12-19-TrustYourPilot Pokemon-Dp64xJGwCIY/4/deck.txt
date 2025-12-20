@@ -1,0 +1,32 @@
+Pokémon: 9
+4 Teal Mask Ogerpon ex TWM 25
+1 Celebi MEG 12
+2 Meganium MEG 10
+1 Fezandipiti ex SFA 38
+1 Mew ex MEW 151
+1 Budew PRE 4
+3 Bayleef MEG 9
+3 Chikorita MEG 8
+1 Wellspring Mask Ogerpon ex TWM 64
+
+Trainer: 14
+3 Forest of Vitality MEG 117
+4 Bug Catching Set TWM 143
+3 Energy Switch SVI 173
+1 Prime Catcher TEF 157
+2 Night Stretcher SFA 61
+2 Nest Ball SVI 181
+2 Boss's Orders PAL 172
+2 Iono PAL 185
+2 Superior Energy Retrieval PAL 189
+2 Professor's Research JTG 155
+1 Briar SCR 132
+4 Lillie's Determination MEG 119
+2 Ultra Ball SVI 196
+2 Earthen Vessel PAR 163
+
+Energy: 2
+9 Basic {G} Energy SVE 9
+2 Basic {W} Energy SVE 11
+
+Total Cards: 60

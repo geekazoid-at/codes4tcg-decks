@@ -1,0 +1,29 @@
+Pokémon: 11
+1 Tapu Bulu SFA 6
+2 Bayleef MEG 9
+3 Oddish MEW 43
+3 Chikorita MEG 8
+3 Gloom MEW 44
+3 Teal Mask Ogerpon ex TWM 25
+1 Mew ex MEW 151
+1 Regigigas PRE 86
+1 Fezandipiti ex SFA 38
+2 Meganium MEG 10
+2 Vileplume MEW 45
+
+Trainer: 10
+4 Lillie's Determination MEG 119
+2 Iono PAL 185
+1 Energy Recycler DRI 164
+1 Professor Turo's Scenario PAR 171
+3 Forest of Vitality MEG 117
+1 Prime Catcher PRE 119
+1 Super Rod PAL 188
+4 Dawn PFL 87
+4 Bug Catching Set TWM 143
+2 Boss's Orders PAL 172
+
+Energy: 1
+15 Basic {G} Energy MEE 1
+
+Total Cards: 60
