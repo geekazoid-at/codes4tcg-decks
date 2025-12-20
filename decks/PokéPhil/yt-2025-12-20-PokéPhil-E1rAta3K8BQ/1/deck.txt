@@ -1,0 +1,36 @@
+Pokémon: 11
+3 Pawmi PFL 32
+1 Pawmo PAL 75
+1 Psyduck MEP 7
+1 Pawmot ex OBF 73
+2 Eelektrik BLK 31
+2 Munkidori TWM 95
+2 Pawmo SVI 75
+1 Fezandipiti ex SFA 38
+1 Pawmi PAL 74
+2 Tynamo BLK 30
+3 Pawmot PFL 34
+
+Trainer: 16
+1 Counter Catcher PAR 160
+4 Dawn PFL 87
+2 Battle Cage PFL 85
+2 Night Stretcher SFA 61
+1 Pal Pad SVI 182
+1 Nest Ball SVI 181
+2 Air Balloon BLK 79
+1 Lana's Aid TWM 155
+4 Buddy-Buddy Poffin PRE 101
+1 Earthen Vessel PRE 106
+4 Lillie's Determination MEG 119
+2 Iono PAF 80
+1 Ultra Ball MEG 131
+1 Neutralization Zone SFA 60
+2 Boss's Orders MEG 114
+2 Rare Candy SVI 191
+
+Energy: 2
+3 Luminous Energy PAL 191
+7 Basic {L} Energy SVE 4
+
+Total Cards: 60
