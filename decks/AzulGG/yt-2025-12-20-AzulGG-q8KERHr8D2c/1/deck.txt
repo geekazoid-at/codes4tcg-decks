@@ -1,0 +1,33 @@
+Pokémon: 10
+3 Seaking PRE 21
+1 Shaymin DRI 10
+4 Thwackey TWM 15
+2 Dipplin TWM 18
+2 Applin TWM 126
+1 Golduck MEP 8
+1 Rillaboom TWM 16
+4 Grookey TWM 14
+1 Psyduck MEP 7
+4 Goldeen TWM 44
+
+Trainer: 14
+1 Vitality Band SVI 197
+2 Black Belt's Training JTG 145
+4 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+1 Counter Catcher PAR 160
+2 Iono PAL 185
+1 Air Balloon BLK 79
+2 Boss's Orders MEG 114
+2 Brave Bangle WHT 80
+4 Ultra Ball MEG 131
+2 Super Rod PAL 188
+1 Maximum Belt TEF 154
+1 Nest Ball SVI 181
+4 Festival Grounds TWM 149
+
+Energy: 2
+2 Basic {G} Energy MEE 1
+4 Jet Energy PAL 190
+
+Total Cards: 60
