@@ -1,0 +1,27 @@
+Pokémon: 2
+3 Stonjourner VMAX SSH 116
+3 Stonjourner V SSH 115
+
+Trainer: 15
+4 Kabu LOR-TG 26
+2 Boss's Orders PAL 265
+4 Crushing Hammer UPR 166
+4 Boost Shake EVS 229
+4 Path to the Peak ASR 213
+4 Premium Power Pro MEG 174
+1 Pokémon Center Lady VIV 185
+2 Marnie PR-SW 121
+1 Poké Vital A SFA 62
+4 Hyper Potion CPA 54
+1 Avery CRE 187
+1 Pokégear 3.0 UNB 233
+4 Jumbo Ice Cream PFL 91
+2 Energy Retrieval AOR 99
+2 Full Face Guard EVS 231
+
+Energy: 3
+1 Mist Energy TEF 161
+4 Stone {F} Energy VIV 164
+9 Basic {F} Energy GRI 169
+
+Total Cards: 60
