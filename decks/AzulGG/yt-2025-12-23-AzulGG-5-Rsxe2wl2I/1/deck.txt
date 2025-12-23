@@ -1,0 +1,31 @@
+Pokémon: 12
+3 Iron Valiant ex PAR 89
+3 Iron Crown ex TEF 81
+2 Miraidon TEF 121
+1 Iron Bundle PAR 56
+1 Fezandipiti ex SFA 38
+1 Mew ex MEW 151
+1 Lillie's Clefairy ex JTG 56
+
+Trainer: 37
+4 Arven OBF 186
+3 Boss's Orders MEG 114
+1 Lillie's Determination MEG 119
+4 Pokégear 3.0 SVI 186
+4 Techno Radar PAR 180
+4 Wondrous Patch PFL 94
+4 Switch SVI 194
+2 Nest Ball SVI 181
+1 Prime Catcher TEF 157
+1 Night Stretcher SFA 61
+1 Earthen Vessel PAR 163
+3 Future Booster Energy Capsule PAR 164
+1 Exp. Share SVI 174
+1 Technical Machine: Devolution PAR 177
+3 Mystery Garden MEG 122
+
+Energy: 11
+7 Basic {P} Energy SVE 5
+4 Jet Energy PAL 190
+
+Total Cards: 60
