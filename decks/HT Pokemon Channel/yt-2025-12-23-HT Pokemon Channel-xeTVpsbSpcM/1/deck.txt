@@ -1,0 +1,30 @@
+Pokémon: 21
+4 Darumaka TWM 34
+3 Darmanitan PFL 16
+3 Tepig WHT 11
+2 Pignite WHT 12
+2 Emboar WHT 13
+3 Varoom SVI 140
+2 Revavroom SVI 142
+1 Reshiram ex WHT 20
+1 Fezandipiti ex SFA 38
+
+Trainer: 25
+3 Ultra Ball SVI 196
+3 Superior Energy Retrieval PAL 189
+2 Night Stretcher SFA 61
+2 Pokégear 3.0 SVI 186
+2 Switch SVI 194
+1 Precious Trolley SSP 185
+2 Technical Machine: Evolution PAR 178
+1 Brave Bangle WHT 80
+4 Arven SVI 166
+2 Boss's Orders PAL 172
+2 Lillie's Determination MEG 119
+1 Lana's Aid TWM 155
+
+Energy: 14
+4 Reversal Energy PAL 192
+10 Basic {R} Energy SVE 2
+
+Total Cards: 60
