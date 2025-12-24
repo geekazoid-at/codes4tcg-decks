@@ -1,0 +1,38 @@
+Pokémon: 25
+3 Hoothoot SCR 114
+3 Noctowl SCR 115
+2 Deino SSP 117
+1 Deino WHT 65
+1 Zweilous PAL 139
+2 Hydreigon ex SSP 119
+2 Toxel PFL 67
+1 Toxtricity PFL 68
+1 Pidgey OBF 162
+1 Pidgey MEW 16
+2 Pidgeot ex OBF 164
+2 Fan Rotom SCR 118
+1 Hoopa ex PAR 98
+1 Fezandipiti ex SFA 38
+1 Terapagos ex SCR 128
+1 Pecharunt ex SFA 39
+
+Trainer: 28
+4 Dawn PFL 87
+2 Iono PAL 185
+2 Boss's Orders MEG 114
+1 Hilda WHT 84
+4 Buddy-Buddy Poffin TEF 144
+4 Rare Candy MEG 125
+4 Nest Ball SVI 181
+2 Super Rod PAL 188
+1 Ultra Ball MEG 131
+1 Counter Catcher PAR 160
+1 Technical Machine: Devolution PAR 177
+2 Area Zero Underdepths SCR 131
+
+Energy: 7
+4 Basic {D} Energy SVE 7
+2 Jet Energy PAL 190
+1 Neo Upper Energy TEF 162
+
+Total Cards: 60
