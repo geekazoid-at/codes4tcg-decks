@@ -1,0 +1,33 @@
+Pokémon: 7
+1 Maractus JTG 160
+2 Budew PRE 4 PH
+1 Iron Bundle PR-SV 66
+1 Shaymin DRI 185
+1 Fezandipiti ex SFA 92
+4 Wugtrio PAF 224
+4 Wiglett SVI 56
+
+Trainer: 17
+4 Crushing Hammer UPR 166
+4 Arven PAF 235
+2 Handheld Fan TWM 150
+1 Air Balloon BLK 79
+3 Ultra Ball BRS 186
+2 Night Stretcher SFA 61
+1 Artazon OBF 229
+1 Redeemable Ticket JTG 156
+1 Xerosic's Machinations SFA 89
+2 Buddy-Buddy Poffin TWM 223
+1 Pokémon League Headquarters OBF 192
+3 Iono PAL 254
+3 Counter Catcher PAR 264
+3 Pokégear 3.0 UNB 233
+1 Precious Trolley SSP 185
+2 Sacred Ash DRI 168
+4 Hilda WHT 84
+
+Energy: 2
+4 Ignition Energy WHT 86
+4 Reversal Energy PAL 192
+
+Total Cards: 60

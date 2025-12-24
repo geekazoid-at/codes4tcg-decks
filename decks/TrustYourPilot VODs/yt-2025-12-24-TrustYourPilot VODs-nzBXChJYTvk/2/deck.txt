@@ -1,0 +1,31 @@
+Pokémon: 10
+1 Pignite WHT 12
+1 Reshiram PFL 17
+2 Torkoal SVI 35
+3 Tepig WHT 11
+3 Emboar WHT 13
+1 Pidgeotto MEW 17
+2 Pidgeot ex OBF 164
+2 Pidgey OBF 162
+1 Reshiram ex WHT 20
+1 Moltres PFL 14
+
+Trainer: 13
+2 Firebreather PFL 89
+2 Dawn PFL 87
+1 Max Rod PRE 116
+3 Nest Ball SVI 181
+3 Rare Candy MEG 125
+2 Artazon PAL 171
+1 Iono PAL 185
+3 Superior Energy Retrieval PAL 189
+3 Buddy-Buddy Poffin TEF 144
+3 Lillie's Determination MEG 119
+1 Switch MEG 130
+3 Ultra Ball MEG 131
+2 Boss's Orders MEG 114
+
+Energy: 1
+14 Basic {R} Energy MEE 2
+
+Total Cards: 60
