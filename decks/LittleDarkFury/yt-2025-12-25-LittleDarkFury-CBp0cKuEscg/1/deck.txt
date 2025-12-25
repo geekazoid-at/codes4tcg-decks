@@ -1,0 +1,24 @@
+Pokémon: 4
+1 Kyogre MEG 34
+3 Mega Abomasnow ex MEG 36
+1 Psyduck MEP 7
+4 Snover MEG 35
+
+Trainer: 10
+2 Night Stretcher SFA 61
+1 Exp. Share SVI 174
+4 Arven OBF 186
+2 Technical Machine: Turbo Energize PAR 179
+2 Boss's Orders PAL 172
+3 Surfing Beach MEG 129
+3 Pokégear 3.0 SVI 186
+2 Hilda WHT 84
+2 Nest Ball PAF 84
+1 Brock's Scouting JTG 146
+
+Energy: 3
+27 Basic {W} Energy CIN 124
+1 Basic {W} Energy CRE 231
+1 Legacy Energy TWM 167
+
+Total Cards: 60
