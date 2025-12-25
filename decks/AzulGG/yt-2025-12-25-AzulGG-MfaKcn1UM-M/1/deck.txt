@@ -1,0 +1,30 @@
+Pokémon: 20
+4 Tinkatink PAR 83
+2 Tinkatuff MEG 97
+3 Tinkaton ex PR-SV 31
+1 Tinkaton PAL 105
+3 Dunsparce PAL 156
+3 Dudunsparce TEF 129
+2 Fan Rotom SCR 118
+1 Fezandipiti ex SFA 38
+1 Lillie's Clefairy ex JTG 56
+
+Trainer: 31
+4 Hilda WHT 84
+3 Lillie's Determination MEG 119
+2 Boss's Orders MEG 114
+2 Iono PAL 185
+4 Buddy-Buddy Poffin TEF 144
+4 Great Ball PAL 183
+4 Rare Candy PAF 89
+3 Wondrous Patch PFL 94
+1 Super Rod PAL 188
+2 Artazon PAL 171
+2 Cycling Road MEW 157
+
+Energy: 9
+6 Basic {P} Energy SVE 5
+2 Jet Energy PAL 190
+1 Enriching Energy SSP 191
+
+Total Cards: 60

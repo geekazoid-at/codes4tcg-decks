@@ -1,0 +1,26 @@
+Pokémon: 18
+3 Electrike MEG 49
+2 Mega Manectric ex MEG 50
+3 Iono's Tadbulb JTG 52
+2 Iono's Bellibolt ex JTG 53
+4 Iono's Wattrel JTG 54
+3 Iono's Kilowattrel JTG 55
+1 Iono's Voltorb JTG 47
+
+Trainer: 29
+4 Buddy-Buddy Poffin TEF 144
+3 Ultra Ball SVI 196
+3 Electric Generator SVI 170
+2 Night Stretcher SFA 61
+1 Scramble Switch SSP 186
+2 Technical Machine: Evolution PAR 178
+1 Air Balloon BLK 79
+3 Levincia JTG 150
+4 Arven SVI 166
+3 Iono PAL 185
+3 Boss's Orders PAL 172
+
+Energy: 13
+13 Basic {L} Energy SVE 4
+
+Total Cards: 60
