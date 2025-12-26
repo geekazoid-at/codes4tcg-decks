@@ -1,0 +1,29 @@
+Pokémon: 6
+1 Cetitan PAL 55
+4 Snorunt SIT 41
+4 Froslass TWM 53
+4 Cetoddle PAL 54
+2 Keldeo ASR 45
+3 Cetitan PR-SV 63
+
+Trainer: 14
+2 Counter Catcher PAR 160
+1 Unfair Stamp TWM 165
+2 Judge SVI 176
+1 Energy Search SVI 172
+4 Irida ASR 147
+3 Ultra Ball PAF 91
+3 Pokégear 3.0 SVI 186
+3 Night Stretcher SFA 61
+4 Nest Ball SVI 181
+2 Energy Loto GRI 122
+1 Technical Machine: Devolution PAR 177
+2 Buddy-Buddy Poffin PRE 101
+4 Iono PAF 80
+2 Rescue Board PRE 126
+
+Energy: 2
+4 Reversal Energy PAL 192
+4 Basic {W} Energy SVE 3
+
+Total Cards: 60

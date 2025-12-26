@@ -1,0 +1,32 @@
+Pokémon: 7
+1 Manaphy CRZ-GG 6
+2 Lumineon LOR 41
+3 Finneon LOR 40
+3 Raging Bolt ex TEF 123
+1 Cleffa OBF 202
+1 Radiant Greninja ASR 46
+1 Walking Wake ex TEF 50
+
+Trainer: 15
+1 Boss's Orders PAL 265
+3 Buddy-Buddy Poffin TEF 144
+1 Ciphermaniac's Codebreaking TEF 198
+1 Super Rod PAL 276
+3 Superior Energy Retrieval PAL 277
+4 Professor Sada's Vitality PAR 256
+3 Ultra Ball BRS 186
+1 Lady LOR 193
+2 Energy Switch SIT 212
+1 Prime Catcher TEF 157
+1 Lady LOR 208
+1 Counter Catcher PAR 264
+1 Switch MEW 206
+4 Earthen Vessel PAR 163 PH
+3 Nest Ball SVI 255
+
+Energy: 3
+12 Basic {W} Energy SVE 3
+3 Basic {F} Energy SVE 6
+3 Basic {L} Energy SVE 4
+
+Total Cards: 60

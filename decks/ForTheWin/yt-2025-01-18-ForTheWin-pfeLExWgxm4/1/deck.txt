@@ -1,0 +1,38 @@
+Pokémon: 8
+1 Bloodmoon Ursaluna ex TWM 141
+1 Munkidori TWM 95
+3 Snorunt SIT 41
+2 Eevee MEW 133
+3 Froslass TWM 53
+1 Cleffa OBF 80
+3 Uxie SSP 78
+2 Vaporeon ex PRE 23
+
+Trainer: 18
+2 Counter Catcher PAR 160
+3 Artazon PAF 76
+2 Judge SVI 176
+1 Exp. Share SVI 174
+1 Counter Gain SSP 169
+4 Irida ASR 147
+2 Night Stretcher SFA 61
+1 Nest Ball SVI 181
+2 Arven OBF 186
+2 Boss's Orders PAL 172
+1 Technical Machine: Devolution PAR 177
+1 Crispin SCR 133
+4 Buddy-Buddy Poffin TEF 144
+3 Iono PAF 80
+2 Ultra Ball SVI 196
+2 Rescue Board PRE 126
+1 Sparkling Crystal SCR 142
+1 Earthen Vessel PAR 163
+
+Energy: 5
+4 Luminous Energy PAL 191
+1 Basic {P} Energy SVE 5
+1 Basic {L} Energy SVE 4
+2 Basic {W} Energy SVE 3
+1 Basic {R} Energy SVE 2
+
+Total Cards: 60

@@ -1,0 +1,35 @@
+Pokémon: 19
+3 Duskull PRE 35
+2 Dusclops PRE 36
+2 Dusknoir PRE 37
+3 Smoliv DRI 21
+2 Dolliv SVI 22
+2 Arboliva ex DRI 23
+2 Budew PRE 4
+1 Bloodmoon Ursaluna ex TWM 141
+1 Fezandipiti ex SFA 38
+1 Hawlucha SVI 118
+
+Trainer: 34
+4 Lillie's Determination MEG 119
+2 Arven OBF 186
+2 Dawn PFL 87
+2 Iono PAL 185
+1 Hilda WHT 84
+4 Buddy-Buddy Poffin TEF 144
+4 Ultra Ball MEG 131
+3 Night Stretcher SFA 61
+3 Rare Candy MEG 125
+2 Counter Catcher PAR 160
+1 Nest Ball SVI 181
+1 Secret Box TWM 163
+1 Switch MEG 130
+1 Air Balloon BLK 79
+1 Defiance Band SVI 169
+2 Forest of Vitality MEG 117
+
+Energy: 7
+5 Basic {G} Energy SVE 1
+2 Ignition Energy WHT 86
+
+Total Cards: 60
