@@ -1,0 +1,31 @@
+Pokémon: 9
+1 Charcadet PFL 19
+1 Ceruledge SSP 35
+1 Shaymin DRI 10
+3 Drakloak TWM 129
+3 Dreepy TWM 128
+2 Tatsugiri TWM 131
+3 Ceruledge PFL 20
+1 Psyduck MEP 7
+3 Charcadet SSP 32
+
+Trainer: 13
+1 Defiance Band SVI 169
+4 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+3 Counter Catcher PAR 160
+1 Iono PAL 185
+1 Air Balloon BLK 79
+2 Artazon PAF 76
+2 Ultra Ball MEG 131
+4 Superior Energy Retrieval PAL 189
+2 Technical Machine: Evolution PAR 178
+1 Precious Trolley SSP 185
+2 Firebreather PFL 119
+4 Arven SVI 166
+
+Energy: 2
+10 Basic {R} Energy SVE 10
+1 Reversal Energy PAL 192
+
+Total Cards: 60

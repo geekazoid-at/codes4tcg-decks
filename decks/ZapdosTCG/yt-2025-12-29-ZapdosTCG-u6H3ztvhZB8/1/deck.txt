@@ -1,0 +1,35 @@
+Pokémon: 21
+3 Slowpoke SVI 42
+3 Slowking SCR 58
+2 Natu PAR 71
+2 Xatu PAR 72
+2 Kyurem SFA 47
+1 Squawkabilly ex PAL 169
+1 Latias ex SSP 76
+1 Lillie's Clefairy ex JTG 56
+1 Fezandipiti ex SFA 38
+1 Budew PRE 4
+1 Tatsugiri TWM 131
+1 Crabominable SCR 42
+1 Annihilape SSP 100
+1 Haxorus BLK 70
+
+Trainer: 29
+4 Lillie's Determination MEG 119
+2 Professor's Research JTG 155
+1 Boss's Orders MEG 114
+1 Hassel TWM 151
+1 Ciphermaniac's Codebreaking TEF 145
+1 Lana's Aid TWM 155
+4 Buddy-Buddy Poffin TEF 144
+4 Ultra Ball MEG 131
+3 Nest Ball SVI 181
+3 Night Stretcher SFA 61
+1 Max Rod PRE 116
+4 Academy at Night SFA 54
+
+Energy: 10
+7 Basic {P} Energy SVE 5
+3 Jet Energy PAL 190
+
+Total Cards: 60

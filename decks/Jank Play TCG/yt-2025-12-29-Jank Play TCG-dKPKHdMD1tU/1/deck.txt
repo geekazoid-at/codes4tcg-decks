@@ -1,0 +1,28 @@
+Pokémon: 7
+2 Orthworm ex SCR 162
+2 Metang TEF 114
+2 Orthworm PAL 151
+3 Beldum TEF 113
+1 Metang TEF 114
+1 Metagross TEF 115
+2 Budew PRE 4
+
+Trainer: 13
+3 Dusk Ball SSP 175
+1 Precious Trolley SSP 185
+1 Heavy Baton TEF 151
+1 Night Stretcher SFA 61
+2 Nest Ball SVI 181
+2 Boss's Orders PAL 172
+4 Arven SVI 166
+3 Super Rod PAL 188
+2 Buddy-Buddy Poffin PRE 101
+4 Iron Defender MEG 118
+4 Lillie's Determination MEG 119
+2 Heavy Baton TEF 151
+4 Full Metal Lab TEF 148
+
+Energy: 1
+14 Basic {M} Energy SVE 16
+
+Total Cards: 60
