@@ -1,0 +1,35 @@
+Pokémon: 10
+4 Kadabra MEG 55
+2 Milotic EVS 38
+2 Feebas DRM 28
+1 Dunsparce CES 110
+3 Dunsparce PAL 156
+4 Abra MEG 54
+3 Alakazam MEG 56
+1 Manaphy BRS 41
+3 Dudunsparce TEF 129
+1 Fezandipiti ex SFA 92
+
+Trainer: 16
+2 Rare Candy PLB 105
+1 Guzma BUS 143
+1 Cynthia & Caitlin CEC 228
+1 Tulip PAR 259
+1 Air Balloon MEG 166
+4 Buddy-Buddy Poffin MEG 167
+1 Artazon OBF 229
+4 Evolution Incense SSH 163
+1 Pal Pad SVI 182
+2 Bird Keeper SHF 66
+2 Wondrous Patch PFL 94
+4 Schoolgirl FST 262
+1 Boss's Orders RCL 189
+3 Hilda WHT 164
+2 Fog Crystal CRE 227
+1 Lana's Aid TWM 207
+
+Energy: 2
+4 Basic {P} Energy SUM 162
+1 Enriching Energy SSP 191
+
+Total Cards: 60
