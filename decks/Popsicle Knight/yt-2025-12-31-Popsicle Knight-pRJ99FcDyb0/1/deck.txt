@@ -1,0 +1,34 @@
+Pokémon: 8
+1 Shaymin DRI 10
+1 Pawmo SVI 75
+4 Pawmi PFL 32
+1 Joltik SCR 50
+1 Psyduck MEP 7
+3 Pawmot PFL 34
+1 Fezandipiti ex SFA 38
+3 Munkidori TWM 95
+
+Trainer: 16
+1 Earthen Vessel PRE 106
+2 Crispin PRE 105
+3 Rare Candy SVI 191
+3 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+2 Iono PAL 185
+1 Air Balloon BLK 79
+1 Boss's Orders MEG 114
+3 Ultra Ball MEG 131
+2 Super Rod PAL 188
+1 Counter Catcher PAR 160
+2 Nest Ball SVI 181
+2 Exp. Share SVI 174
+3 Arven SVI 166
+1 Neutralization Zone SFA 60
+2 Artazon PAL 171
+
+Energy: 3
+8 Basic {L} Energy SVE 12
+1 Reversal Energy PAL 192
+3 Basic {D} Energy SVE 15
+
+Total Cards: 60
