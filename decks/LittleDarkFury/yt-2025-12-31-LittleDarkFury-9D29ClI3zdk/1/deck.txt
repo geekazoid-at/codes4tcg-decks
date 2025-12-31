@@ -1,0 +1,33 @@
+Pokémon: 7
+4 Larvitar PRE 47
+3 Tyranitar JTG 95
+1 Munkidori TWM 95
+3 Drakloak TWM 129
+2 Pupitar JTG 81
+2 Budew PRE 4
+3 Dreepy PRE 71
+
+Trainer: 17
+2 Boss's Orders RCL 189
+1 Team Rocket's Watchtower DRI 180
+1 Hilda WHT 164
+4 Lillie's Determination MEG 169
+1 Super Rod PAL 276
+1 Air Balloon MEG 166
+4 Buddy-Buddy Poffin MEG 167
+3 Rare Candy PLB 105
+3 Ultra Ball PLF 122
+1 Night Stretcher MEG 173
+3 Iono PAL 269
+1 Technical Machine: Evolution PAR 178
+2 Counter Catcher PAR 264
+2 Luxurious Cape PAR 265
+3 Arven SVI 249
+1 Neutralization Zone SFA 60
+2 Battle Cage PFL 116
+
+Energy: 2
+5 Basic {D} Energy BUS 168
+2 Reversal Energy PAR 266
+
+Total Cards: 60
