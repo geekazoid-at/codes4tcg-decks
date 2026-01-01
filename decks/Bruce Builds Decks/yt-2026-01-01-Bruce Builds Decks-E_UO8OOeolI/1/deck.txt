@@ -1,0 +1,35 @@
+Pokémon: 20
+3 Charmander MEW 4
+4 Dudunsparce TEF 129
+3 Charmeleon PAF 8
+4 Dunsparce PAL 156
+2 Mega Charizard X ex PFL 13
+1 Fezandipiti ex SFA 38
+1 Charizard ex PR-SV 196
+2 Oricorio ex PFL 18
+
+Trainer: 31
+1 Counter Catcher PAR 160
+2 Firebreather PFL 89
+1 Dawn PFL 87
+1 Energy Switch SVI 173
+2 Battle Cage PFL 85
+2 Night Stretcher SFA 61
+1 Nest Ball SVI 181
+1 Bravery Charm PAL 173
+3 Arven SVI 166
+1 Technical Machine: Evolution PAR 178
+2 Superior Energy Retrieval PAL 189
+1 Super Rod PAL 188
+4 Buddy-Buddy Poffin PRE 101
+3 Lillie's Determination MEG 119
+1 Ultra Ball MEG 131
+1 Professor Turo's Scenario PRE 121
+2 Rare Candy SVI 191
+2 Boss's Orders MEG 114
+
+Energy: 9
+1 Enriching Energy SSP 191
+8 Basic {R} Energy SVE 2
+
+Total Cards: 60

@@ -1,0 +1,48 @@
+Pokémon: 18
+1 Eevee SSP 143
+1 Eevee MEW 133
+1 Flareon ex PRE 14
+1 Leafeon ex PRE 6
+1 Espeon ex PRE 34
+1 Umbreon ex PRE 60
+1 Vaporeon ex PRE 23
+1 Jolteon ex PRE 30
+1 Glaceon ex PRE 26
+1 Lillie's Clefairy ex JTG 56
+2 Fan Rotom PRE 85
+1 Fezandipiti ex SFA 38
+3 Hoothoot SCR 114
+3 Noctowl PRE 78
+1 Pidgeot ex OBF 164
+1 Pidgey MEW 16
+1 Sylveon ex PRE 41
+2 Eevee ex PRE 75
+
+Trainer: 17
+2 Area Zero Underdepths SCR 131
+2 Boss's Orders PAL 172
+1 Buddy-Buddy Poffin PRE 101
+2 Counter Catcher PAR 160
+1 Air Balloon BLK 79
+1 Iono SVALT 75
+2 Night Stretcher SFA 61
+4 Nest Ball PAF 84
+2 Ultra Ball PAF 91
+1 Dawn PFL 87
+1 Sparkling Crystal PRE 129
+1 Rare Candy MEG 125
+1 Briar SCR 132
+1 Tera Orb SSP 189
+1 Glass Trumpet PRE 110
+2 Crispin PRE 105
+1 Lillie's Determination MEG 119
+
+Energy: 6
+2 Basic {W} Energy CIN 124
+2 Basic {L} Energy GRI 168
+2 Basic {R} Energy BUS 167
+2 Basic {P} Energy SUM 162
+1 Basic {D} Energy BUS 168
+1 Basic {G} Energy GRI 167
+
+Total Cards: 60

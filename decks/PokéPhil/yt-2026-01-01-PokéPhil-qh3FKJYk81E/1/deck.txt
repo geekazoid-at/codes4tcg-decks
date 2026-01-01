@@ -1,0 +1,29 @@
+Pokémon: 10
+4 Alakazam MEG 56
+4 Dunsparce TEF 128
+4 Dudunsparce TEF 129
+4 Abra MEG 54
+2 Sylveon PRE 40
+1 Misdreavus PFL 35
+4 Kadabra MEG 55
+1 Eevee SCR 113
+1 Mismagius ex PFL 36
+1 Eevee TWM 135
+
+Trainer: 10
+2 Enhanced Hammer TWM 148
+2 Dawn PFL 87
+1 Xerosic's Machinations SFA 64
+2 Battle Cage PFL 85
+3 Rare Candy MEG 125
+3 Lana's Aid TWM 155
+2 Lucky Helmet TWM 158
+4 Hilda WHT 84
+4 Buddy-Buddy Poffin TEF 144
+2 Boss's Orders MEG 114
+
+Energy: 2
+8 Basic {P} Energy MEE 5
+1 Enriching Energy SSP 191
+
+Total Cards: 60
