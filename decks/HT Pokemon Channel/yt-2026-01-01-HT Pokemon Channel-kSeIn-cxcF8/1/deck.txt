@@ -1,0 +1,34 @@
+Pokémon: 19
+4 Froakie OBF 56
+2 Frogadier TWM 57
+2 Greninja ex TWM 106
+2 Snom TEF 45
+2 Frosmoth MEG 43
+4 Snorunt PAR 37
+3 Froslass TWM 53
+
+Trainer: 33
+4 Buddy-Buddy Poffin TEF 144
+2 Ultra Ball MEG 131
+2 Rare Candy MEG 125
+2 Night Stretcher SFA 61
+2 Pokégear 3.0 BLK 84
+1 Counter Catcher PAR 160
+1 Energy Search SVI 172
+1 Unfair Stamp TWM 165
+2 Technical Machine: Evolution PAR 178
+1 Technical Machine: Devolution PAR 177
+1 Exp. Share SVI 174
+1 Air Balloon BLK 79
+2 Pokémon League Headquarters OBF 192
+4 Arven SVI 166
+2 Lillie's Determination MEG 119
+2 Iono PAL 185
+2 Hilda WHT 84
+1 Boss's Orders MEG 114
+
+Energy: 8
+3 Ignition Energy WHT 86
+5 Basic {W} Energy SVE 3
+
+Total Cards: 60
