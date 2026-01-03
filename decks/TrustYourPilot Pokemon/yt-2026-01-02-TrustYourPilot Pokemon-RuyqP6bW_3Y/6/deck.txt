@@ -1,0 +1,32 @@
+Pokémon: 7
+3 Xatu PAF 26
+3 Natu CEC 78
+2 Alolan Grimer SUM 57
+3 Team Rocket's Mewtwo ex DRI 81
+1 Team Rocket's Wobbuffet DRI 82
+2 Alolan Muk SUM 58
+1 Trevenant & Dusknoir-GX PR-SM 217
+
+Trainer: 16
+2 Escape Rope BST 125
+4 Mysterious Treasure FLI 113
+1 Energy Switch SVI 173
+2 Energy Retrieval SVI 171
+1 Maximum Belt TEF 154
+1 Night Stretcher SFA 61
+4 Fog Crystal CRE 140
+2 Bravery Charm PAL 173
+3 Path to the Peak CRE 148
+1 Super Rod PAL 188
+1 Defiance Band SVI 169
+2 Marnie CPA 56
+2 Guzma BUS 115
+1 Acerola BUS 112
+4 Lillie's Determination MEG 119
+2 Iono PAF 80
+
+Energy: 2
+8 Basic {P} Energy SVE 5
+4 Team Rocket's Energy DRI 182
+
+Total Cards: 60

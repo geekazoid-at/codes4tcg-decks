@@ -1,0 +1,28 @@
+Pokémon: 8
+2 Ninetales TEU 16
+1 Dedenne-GX UNB 57
+1 Ditto {*} LOT 154
+1 Vulpix SSP 16
+1 Radiant Greninja ASR 46
+4 Volcarona V EVS 21
+3 Blitzle SSP 62
+3 Zebstrika LOT 82
+
+Trainer: 12
+4 Fiery Flint DRM 60
+1 Pal Pad UPR 132
+2 U-Turn Board UNM 211
+3 Ultra Ball MEG 131
+4 Quick Ball SSH 179
+4 Professor's Research JTG 155
+1 Prime Catcher TEF 157
+1 Forest Seal Stone SIT 156
+2 Giant Hearth UNM 197
+1 Heat Factory {*} LOT 178
+2 Rescue Stretcher GRI 130
+1 Firebreather PFL 89
+
+Energy: 1
+18 Basic {R} Energy SVE 10
+
+Total Cards: 60

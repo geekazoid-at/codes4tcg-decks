@@ -1,0 +1,30 @@
+Pokémon: 11
+1 Shaymin {*} TEU 10
+2 Mega Venusaur ex MEG 3
+2 Bayleef LOT 7
+3 Teal Mask Ogerpon ex TWM 25
+3 Chikorita LOT 5
+4 Bulbasaur DET 1
+2 Venusaur SLG 3
+3 Ivysaur PGO 2
+1 Genesect PFL 8
+1 Fezandipiti ex SFA 38
+2 Meganium MEG 10
+
+Trainer: 11
+2 Guzma BUS 115
+4 Lillie's Determination MEG 119
+4 Net Ball LOT 187
+3 Forest of Vitality MEG 117
+1 Super Rod PAL 188
+2 Iono PAF 80
+2 Marnie CPA 56
+2 Gardenia's Vigor ASR 143
+1 Lucky Egg SSH 167
+1 Max Rod PRE 116
+4 Bug Catching Set TWM 143
+
+Energy: 1
+10 Basic {G} Energy SVE 1
+
+Total Cards: 60

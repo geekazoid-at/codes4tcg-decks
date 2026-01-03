@@ -1,0 +1,32 @@
+Pokémon: 9
+1 Alolan Muk SUM 58
+3 Electrode-GX CES 48
+1 Dedenne-GX UNB 57
+1 Ditto {*} LOT 154
+1 Budew PRE 4
+3 Voltorb CES 47
+2 Pikachu LOR 52
+1 Squawkabilly ex PAL 169
+2 Alolan Raichu UNM 57
+
+Trainer: 12
+4 Ultra Ball SUM 135
+1 Escape Rope BST 125
+4 Trekking Shoes ASR 156
+1 Hisuian Heavy Ball ASR 146
+2 PokéStop PGO 68
+1 Telescopic Sight VIV 160
+4 Quick Ball SSH 179
+1 Secret Box TWM 163
+4 Clay CEC 188
+4 Acro Bike CES 123
+3 Rescue Stretcher GRI 130
+2 Carmine TWM 145
+
+Energy: 4
+4 Counter Energy CIN 100
+2 Basic {L} Energy SVE 4
+4 Speed {L} Energy RCL 173
+4 Reversal Energy PAL 192
+
+Total Cards: 60
