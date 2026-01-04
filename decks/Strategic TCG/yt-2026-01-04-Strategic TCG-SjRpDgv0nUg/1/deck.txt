@@ -1,0 +1,35 @@
+Pokémon: 9
+1 Vikavolt V DAA 180
+3 Raichu & Alolan Raichu-GX UNM 221
+1 Lumineon V CRZ-GG 39
+2 Dedenne-GX SMALT 156
+1 Crobat V LOR-TG 20
+1 Zeraora-GX LOT 201
+1 Tapu Koko {*} TEU 51
+1 Miraidon ex SVI 244
+1 Boltund V BRS-TG 13
+
+Trainer: 18
+4 Electropower SMALT 137
+1 Hisuian Heavy Ball ASR 146
+1 Electromagnetic Radar UNB 230
+1 Unfair Stamp TWM 165
+1 Stormy Mountains EVS 232
+4 Crushing Hammer UPR 166
+3 Lillie's Determination MEG 169
+3 Guzma BUS 143
+1 Forest Seal Stone SIT 156
+4 Electric Generator SVI 170
+1 Field Blower SMALT 44
+1 Marnie PR-SW 121
+1 Night Stretcher MEG 173
+2 Bravery Charm SCR 175
+1 Volkner UPR 156
+1 Thunder Mountain {*} LOT 191
+4 Quick Ball SSH 216
+1 Air Balloon SSH 213
+
+Energy: 1
+13 Basic {L} Energy GRI 168
+
+Total Cards: 60
