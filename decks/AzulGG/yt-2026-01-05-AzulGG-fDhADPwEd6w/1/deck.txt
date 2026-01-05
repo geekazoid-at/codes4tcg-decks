@@ -1,0 +1,35 @@
+Pokémon: 19
+4 Munkidori PRE 44
+3 Marnie's Impidimp DRI 134
+2 Marnie's Morgrem DRI 135
+2 Marnie's Grimmsnarl ex DRI 136
+3 Snorunt TWM 51
+2 Froslass TWM 53
+1 Bloodmoon Ursaluna ex TWM 141
+1 Psyduck MEP 7
+1 Yveltal MEG 88
+
+Trainer: 32
+4 Arven SVI 166
+4 Iono PAF 80
+4 Lillie's Determination MEG 119
+2 Boss's Orders MEG 114
+2 Counter Catcher PAR 160
+2 Night Stretcher SFA 61
+1 Buddy-Buddy Poffin PRE 101
+1 Energy Switch MEG 115
+1 Nest Ball SVI 181
+1 Rare Candy MEG 125
+1 Secret Box TWM 163
+1 Super Rod PAL 188
+1 Ultra Ball MEG 131
+2 Technical Machine: Evolution PAR 178
+1 Air Balloon BLK 79
+1 Technical Machine: Devolution PAR 177
+2 Spikemuth Gym DRI 169
+1 Artazon PAF 76
+
+Energy: 9
+9 Basic {D} Energy SVE 7
+
+Total Cards: 60
