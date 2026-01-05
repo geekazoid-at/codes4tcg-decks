@@ -1,0 +1,29 @@
+Pokémon: 6
+3 Iron Crown ex TEF 81
+1 Mew ex MEW 151
+2 Miraidon TEF 121
+3 Iron Valiant ex PAR 89
+1 Bloodmoon Ursaluna ex TWM 141
+1 Lillie's Clefairy ex JTG 56
+
+Trainer: 14
+1 Earthen Vessel PRE 106
+3 Future Booster Energy Capsule TEF 149
+2 Boss's Orders MEG 114
+1 Technical Machine: Devolution PAR 177
+2 Night Stretcher SFA 61
+4 Switch MEG 130
+1 Prime Catcher PRE 119
+2 Iono PAF 80
+2 Town Store OBF 196
+4 Pokégear 3.0 SVI 186
+4 Nest Ball SVI 181
+4 Surfer SSP 187
+4 Wondrous Patch PFL 94
+4 Techno Radar PAR 180
+
+Energy: 2
+7 Basic {P} Energy MEE 5
+4 Jet Energy PAL 190
+
+Total Cards: 60

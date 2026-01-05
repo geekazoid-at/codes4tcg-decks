@@ -1,0 +1,28 @@
+Pokémon: 7
+3 Iron Crown ex TEF 81
+1 Mew ex MEW 151
+2 Miraidon TEF 121
+1 Iron Bundle PAR 56
+3 Iron Valiant ex PAR 89
+1 Bloodmoon Ursaluna ex TWM 141
+1 Lillie's Clefairy ex JTG 56
+
+Trainer: 12
+3 Arven OBF 186
+3 Future Booster Energy Capsule TEF 149
+4 Iono PAL 185
+1 Technical Machine: Devolution PAR 177
+2 Night Stretcher SFA 61
+4 Switch MEG 130
+4 Professor's Research JTG 155
+1 Prime Catcher TEF 157
+4 Nest Ball SVI 181
+4 Wondrous Patch PFL 94
+4 Techno Radar PAR 180
+2 Mystery Garden MEG 122
+
+Energy: 2
+8 Basic {P} Energy MEE 5
+4 Jet Energy PAL 190
+
+Total Cards: 60

@@ -1,0 +1,31 @@
+Pokémon: 9
+2 Miraidon TEF 121
+1 Azelf SSP 80
+1 Fezandipiti ex SFA 38
+1 Mew ex MEW 151
+3 Iron Valiant ex PAR 89
+3 Iron Crown ex TEF 81
+1 Iron Boulder PRE 46
+1 Uxie SSP 78
+1 Squawkabilly ex PAL 169
+
+Trainer: 13
+1 Counter Catcher PAR 160
+1 Prime Catcher TEF 157
+2 Night Stretcher SFA 61
+2 Mystery Garden MEG 122
+3 Nest Ball SVI 181
+2 Arven OBF 186
+4 Iono PAL 185
+1 Technical Machine: Devolution PAR 177
+4 Techno Radar PAR 180
+4 Wondrous Patch PFL 94
+4 Lillie's Determination MEG 119
+4 Switch MEG 130
+3 Future Booster Energy Capsule TEF 149
+
+Energy: 2
+3 Jet Energy PAL 190
+8 Basic {P} Energy MEE 5
+
+Total Cards: 60
