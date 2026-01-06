@@ -1,0 +1,28 @@
+Pokémon: 5
+1 Shaymin DRI 10
+4 Hypno SFA 17
+4 Drowzee SVI 82
+2 Toedscool OBF 118
+2 Toedscruel PAR 17
+
+Trainer: 15
+4 Buddy-Buddy Poffin PRE 101
+4 Crushing Hammer SVI 168
+1 Eri TEF 146
+4 Lillie's Determination MEG 119
+1 Counter Catcher PAR 160
+4 Iono PAL 185
+2 Air Balloon BLK 79
+3 Battle Cage PFL 85
+2 Boss's Orders MEG 114
+4 Ultra Ball MEG 131
+2 Giovanni's Charisma MEW 161
+2 Super Rod PAL 188
+2 Pokégear 3.0 SVI 186
+1 Unfair Stamp TWM 165
+3 Wondrous Patch PFL 94
+
+Energy: 1
+8 Basic {P} Energy SVE 13
+
+Total Cards: 60
