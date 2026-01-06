@@ -1,0 +1,37 @@
+Pokémon: 11
+1 Iron Leaves ex TEF 25
+1 Psyduck MEP 7
+1 Munkidori TWM 95
+1 Latias ex SSP 76
+1 Bouffalant OBF 174
+2 Joltik SCR 50
+2 Bouffalant SCR 119
+1 Shuckle MEG 11
+2 Dwebble DRI 11
+2 Crustle DRI 12
+2 Mega Kangaskhan ex MEG 104
+
+Trainer: 16
+2 Air Balloon BLK 79
+1 Town Store OBF 196
+1 Precious Trolley SSP 185
+1 Earthen Vessel PAR 163
+1 Switch SVI 194
+1 Ultra Ball PAF 91
+4 Jumbo Ice Cream PFL 91
+3 Pokégear 3.0 BLK 84
+2 Night Stretcher SFA 61
+2 Team Rocket's Factory DRI 173
+2 Bravery Charm PAL 173
+1 Luxurious Cape PAR 166
+2 Penny SVI 183
+4 Team Rocket's Petrel DRI 176
+2 Arven OBF 186
+4 Boss's Orders MEG 114
+
+Energy: 3
+2 Basic {D} Energy BUS 168
+5 Basic {G} Energy GRI 167
+4 Basic {L} Energy GRI 168
+
+Total Cards: 60
