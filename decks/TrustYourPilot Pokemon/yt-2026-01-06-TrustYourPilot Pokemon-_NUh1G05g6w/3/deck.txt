@@ -1,0 +1,34 @@
+Pokémon: 9
+4 Wugtrio SVI 57
+1 Shaymin DRI 10
+1 Maractus JTG 8
+2 Flygon PFL 53
+3 Vibrava PFL 52
+1 Psyduck MEP 7
+3 Trapinch SSP 104
+1 Mimikyu PAL 97
+4 Wiglett SVI 56
+
+Trainer: 16
+1 Xerosic's Machinations SFA 64
+1 Eri TEF 146
+4 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+4 Counter Catcher PAR 160
+2 Youngster SVI 198
+2 Hassel TWM 151
+2 Handheld Fan TWM 150
+1 Air Balloon BLK 79
+1 Professor Turo's Scenario PAR 171
+1 Night Stretcher SFA 61
+1 Hand Trimmer TEF 150
+2 Sacred Ash DRI 168
+1 Neutralization Zone SFA 60
+1 Artazon PAL 171
+4 Hilda WHT 84
+
+Energy: 2
+4 Ignition Energy WHT 86
+4 Reversal Energy PAL 192
+
+Total Cards: 60

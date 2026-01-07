@@ -1,0 +1,35 @@
+Pokémon: 15
+2 Toxel PFL 67
+2 Toxtricity PFL 68
+2 Munkidori TWM 95
+2 Mega Absol ex MEG 86
+2 Budew PRE 4
+1 Tatsugiri TWM 131
+1 Fezandipiti ex SFA 38
+1 Pecharunt ex SFA 39
+1 Yveltal MEG 88
+1 Brute Bonnet TWM 118
+
+Trainer: 36
+4 Lillie's Determination MEG 119
+4 Iono PAL 185
+4 Arven OBF 186
+2 Boss's Orders MEG 114
+4 Ultra Ball MEG 131
+3 Nest Ball SVI 181
+2 Buddy-Buddy Poffin TEF 144
+2 Night Stretcher SFA 61
+2 Counter Catcher PAR 160
+1 Enhanced Hammer TWM 148
+1 Unfair Stamp TWM 165
+1 Super Rod PAL 188
+1 Energy Switch MEG 115
+1 Binding Mochi PRE 95
+1 Counter Gain SSP 169
+1 Air Balloon BLK 79
+2 Team Rocket's Watchtower DRI 180
+
+Energy: 9
+9 Basic {D} Energy SVE 7
+
+Total Cards: 60

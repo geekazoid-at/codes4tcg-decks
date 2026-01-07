@@ -1,0 +1,37 @@
+Pokémon: 9
+3 Swoobat WHT 37
+1 Shaymin DRI 10
+3 Flygon PFL 53
+3 Woobat WHT 36
+4 Vibrava PFL 52
+1 Psyduck MEP 7
+1 Nacli PAR 102
+4 Trapinch SSP 104
+1 Mimikyu PAL 97
+
+Trainer: 19
+1 Earthen Vessel PRE 106
+1 Xerosic's Machinations SFA 64
+1 Eri TEF 146
+4 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+3 Counter Catcher PAR 160
+2 Youngster SVI 198
+1 Gravity Gemstone SCR 137
+3 Handheld Fan TWM 150
+1 Super Rod PAL 188
+1 Technical Machine: Evolution PAR 178
+1 Tool Scrapper WHT 85
+1 Hand Trimmer TEF 150
+1 Pokémon League Headquarters OBF 192
+1 Calamitous Wasteland PAL 175
+1 Sacred Ash DRI 168
+1 Neutralization Zone SFA 60
+4 Arven SVI 166
+1 Enhanced Hammer TWM 148
+
+Energy: 2
+2 Basic {F} Energy MEE 6
+4 Luminous Energy PAL 191
+
+Total Cards: 60

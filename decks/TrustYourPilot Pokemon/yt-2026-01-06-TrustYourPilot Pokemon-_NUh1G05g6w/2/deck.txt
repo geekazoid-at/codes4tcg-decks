@@ -1,0 +1,36 @@
+Pokémon: 8
+2 Ethan's Sudowoodo DRI 93
+1 Shaymin DRI 10
+3 Flygon PFL 53
+3 Vibrava PFL 52
+1 Elgyem BLK 40
+1 Psyduck MEP 7
+1 Comfey SCR 63
+4 Trapinch SSP 104
+
+Trainer: 19
+2 Ultra Ball SVI 196
+1 Xerosic's Machinations SFA 64
+3 Rare Candy SVI 191
+3 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+4 Counter Catcher PAR 160
+1 Gravity Gemstone SCR 137
+2 Iono PAL 185
+1 Air Balloon BLK 79
+2 Professor Turo's Scenario PAR 171
+3 Fighting Gong MEG 116
+2 Night Stretcher SFA 61
+1 Colress's Tenacity SFA 57
+2 Super Rod PAL 188
+1 Town Store OBF 196
+2 Pal Pad SVI 182
+1 Dawn PFL 87
+1 Neutralization Zone SFA 60
+1 Artazon PAL 171
+
+Energy: 2
+3 Basic {F} Energy MEE 6
+4 Luminous Energy PAL 191
+
+Total Cards: 60
