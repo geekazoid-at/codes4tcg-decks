@@ -1,0 +1,32 @@
+Pokémon: 11
+4 Tsareena V FST 246
+3 Teal Mask Ogerpon ex TWM 211
+1 Squawkabilly ex PAL 247
+4 Giratina PR-SM 151
+2 Dedenne-GX SMALT 156
+1 Chien-Pao PR-SV 152
+1 Fezandipiti ex SFA 92
+1 Eldegoss V RCL 176
+1 Radiant Alakazam SIT 59
+1 Crobat V LOR-TG 20
+1 Lumineon V CRZ-GG 39
+
+Trainer: 13
+4 Ultra Ball PLF 122
+1 Guzma BUS 143
+4 Night Stretcher MEG 173
+1 Iono PAL 269
+1 Net Ball SMALT 139
+4 Quick Ball SSH 216
+2 Air Balloon MEG 166
+4 Energy Switch SIT 212
+1 Prime Catcher TEF 157
+4 Professor's Research SVI 240
+1 Forest Seal Stone SIT 156
+4 Area Zero Underdepths SCR 174
+1 Adventure Bag LOT 228
+
+Energy: 1
+8 Basic {G} Energy GRI 167
+
+Total Cards: 60

@@ -1,0 +1,35 @@
+Pokémon: 10
+1 Pecharunt ex SFA 39
+2 Toxel PFL 67
+2 Team Rocket's Nidorino DRI 118
+1 Team Rocket's Sneasel DRI 128
+2 Munkidori PRE 44
+3 Team Rocket's Nidoking ex PR-SV 217
+2 Toxtricity PFL 68
+1 Team Rocket's Mimikyu DRI 87
+3 Team Rocket's Nidoran♂ DRI 117
+1 Fezandipiti ex SFA 38
+
+Trainer: 16
+4 Lillie's Determination MEG 119
+1 Unfair Stamp TWM 165
+2 Boss's Orders MEG 114
+1 Super Rod PAL 188
+1 Air Balloon BLK 79
+4 Buddy-Buddy Poffin TEF 144
+2 Rare Candy PAF 89
+2 Nest Ball SVI 181
+3 Iono SVALT 75
+2 Perilous Jungle TEF 156
+1 Counter Catcher PAR 160
+1 Technical Machine: Evolution PAR 178
+1 Professor's Research PRE 123
+4 Arven SVI 166
+1 Binding Mochi PRE 95
+2 Ultra Ball MEG 131
+
+Energy: 2
+6 Basic {D} Energy BUS 168
+4 Team Rocket's Energy DRI 182
+
+Total Cards: 60
