@@ -1,0 +1,33 @@
+Pokémon: 10
+2 Gastly PFL 54
+2 Mega Gengar ex PFL 56
+1 Pecharunt ex SFA 39
+3 Toxtricity PFL 68
+1 Haunter PFL 55
+1 Fezandipiti ex SFA 38
+1 Team Rocket's Sneasel DRI 128
+4 Toxel PFL 67
+3 Scraggy WHT 57
+3 Scrafty WHT 58
+
+Trainer: 15
+4 Ultra Ball SVI 196
+2 Rare Candy SVI 191
+4 Arven OBF 186
+1 Earthen Vessel PAR 163
+1 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+1 Counter Catcher PAR 160
+3 Iono PAL 185
+1 Air Balloon BLK 79
+3 Super Rod PAL 188
+1 Technical Machine: Evolution PAR 178
+1 Picnic Basket SVI 184
+1 Nest Ball PAF 84
+1 Precious Trolley SSP 185
+2 Boss's Orders PAL 172
+
+Energy: 1
+9 Basic {D} Energy SVE 7
+
+Total Cards: 60

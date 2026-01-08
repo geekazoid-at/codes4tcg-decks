@@ -1,0 +1,33 @@
+Pokémon: 9
+1 Psyduck MEP 7
+2 Brute Bonnet PAR 123
+4 Toxel PFL 67
+4 Scraggy WHT 57
+1 Pecharunt PR-SV 149
+3 Scrafty WHT 58
+1 Fezandipiti ex SFA 38
+3 Toxtricity PFL 68
+1 Pecharunt ex SFA 39
+
+Trainer: 16
+1 Counter Catcher PAR 160
+2 Town Store OBF 196
+1 Precious Trolley SSP 185
+1 Nest Ball PAF 84
+2 Ancient Booster Energy Capsule PAR 159
+2 Boss's Orders PAL 172
+1 Air Balloon BLK 79
+2 Binding Mochi SFA 55
+3 Iono PAL 185
+4 Arven SVI 166
+1 Technical Machine: Devolution PAR 177
+1 Technical Machine: Evolution PAR 178
+3 Super Rod PAL 188
+1 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+2 Ultra Ball SVI 196
+
+Energy: 1
+9 Basic {D} Energy MEE 7
+
+Total Cards: 60

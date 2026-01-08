@@ -1,0 +1,33 @@
+Pokémon: 11
+1 Psyduck MEP 7
+4 Toxel PFL 67
+1 Munkidori TWM 95
+4 Scraggy WHT 57
+3 Scrafty WHT 58
+1 Fezandipiti ex SFA 38
+1 Team Rocket's Sneasel DRI 128
+3 Toxtricity PFL 68
+2 Cornerstone Mask Ogerpon ex TWM 112
+1 Pecharunt ex SFA 39
+1 Yveltal MEG 88
+
+Trainer: 14
+1 Counter Catcher PAR 160
+1 Precious Trolley SSP 185
+1 Picnic Basket SVI 184
+2 Nest Ball SVI 181
+2 Boss's Orders PAL 172
+1 Air Balloon BLK 79
+4 Iono PAL 185
+3 Super Rod PAL 188
+3 Area Zero Underdepths SCR 131
+1 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+3 Ultra Ball SVI 196
+2 Professor's Research PRE 122
+1 Earthen Vessel PAR 163
+
+Energy: 1
+9 Basic {D} Energy SVE 7
+
+Total Cards: 60
