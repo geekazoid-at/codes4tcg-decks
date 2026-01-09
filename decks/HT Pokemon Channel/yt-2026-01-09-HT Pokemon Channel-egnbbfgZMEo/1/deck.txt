@@ -1,0 +1,29 @@
+Pokémon: 24
+4 Sprigatito SVI 13
+4 Floragato PAL 14
+4 Meowscarada ex PAL 15
+1 Meowscarada JTG 18
+3 Chikorita MEG 8
+3 Bayleef MEG 9
+3 Meganium MEG 10
+1 Budew PRE 4
+1 Maractus JTG 8
+
+Trainer: 28
+4 Buddy-Buddy Poffin PRE 101
+4 Bug Catching Set PRE 102
+2 Ultra Ball MEG 131
+2 Pokégear 3.0 BLK 84
+1 Night Stretcher SFA 61
+1 Superior Energy Retrieval PAL 189
+1 Max Rod PRE 116
+3 Forest of Vitality MEG 117
+4 Lillie's Determination MEG 119
+2 Boss's Orders MEG 114
+2 Professor's Research JTG 155
+2 Iono PAL 185
+
+Energy: 8
+8 Basic {G} Energy SVE 1
+
+Total Cards: 60
