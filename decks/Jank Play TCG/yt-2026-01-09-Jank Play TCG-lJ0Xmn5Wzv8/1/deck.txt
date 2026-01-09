@@ -1,0 +1,31 @@
+Pokémon: 8
+3 Dunsparce PRE 79
+4 Nymble PAR 13
+4 Lokix PFL 10
+3 Dudunsparce PRE 80
+2 Brute Bonnet PAR 207
+1 Pecharunt PR-SV 129
+1 Pecharunt PR-SV 149
+2 Mimikyu PR-SV 75
+
+Trainer: 13
+2 Boss's Orders PAL 265
+2 Ancient Booster Energy Capsule TEF 140
+4 Arven PAF 235
+3 Night Stretcher SSP 251
+2 Ultra Ball BRS 186
+2 Air Balloon SSH 213
+4 Binding Mochi PRE 95
+4 Artazon OBF 229
+2 Hilda WHT 171
+3 Buddy-Buddy Poffin TWM 223
+1 Maximum Belt TEF 154
+4 Lillie's Determination MEG 184
+2 Hilda WHT 164
+
+Energy: 3
+1 Ignition Energy WHT 86
+3 Ignition Energy PFL 124
+1 Reversal Energy PAR 266
+
+Total Cards: 60
