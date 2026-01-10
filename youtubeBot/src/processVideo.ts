@@ -193,9 +193,6 @@ export function processDescription(
   return decks;
 }
 
-const maxLength = 20;
-const replacements = ["+", "/", "-"];
-
 export function fixLongWords(name: string): string {
   let words = name.split(" ");
 
@@ -218,11 +215,21 @@ export function fixLongWords(name: string): string {
   return words.join(" ");
 }
 
+const maxLength = 20;
+const alwaysSpaceCharacters = ["+", "/"];
+const spaceCharacters = ["-"];
+
 function spaceLongWord(word: string): string {
   let newWord = word;
 
+  alwaysSpaceCharacters.forEach((r) => {
+    if (newWord.includes(r)) {
+      newWord = newWord.replaceAll(r, ` ${r} `);
+    }
+  });
+
   if (word.length > maxLength) {
-    replacements.forEach((r) => {
+    spaceCharacters.forEach((r) => {
       if (newWord.includes(r)) {
         newWord = newWord.replaceAll(r, ` ${r} `);
       }
