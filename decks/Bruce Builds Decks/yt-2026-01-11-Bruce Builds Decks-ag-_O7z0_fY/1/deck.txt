@@ -1,0 +1,37 @@
+Pokémon: 15
+2 Kabutops MEW 141
+2 Kabuto MEW 140
+2 Mow Rotom DRI 9
+2 Rotom ex PFL 126
+2 Heat Rotom DRI 43
+1 Lillie's Clefairy ex JTG 56
+1 Yveltal PAR 118
+2 Rotom DRI 77
+1 Fezandipiti ex SFA 38
+
+Trainer: 36
+2 Counter Catcher PAR 160
+1 Precious Trolley SSP 185
+3 Counter Gain SSP 169
+3 Night Stretcher SFA 61
+2 Nest Ball SVI 181
+2 Antique Dome Fossil MEW 152
+1 Bravery Charm PAL 173
+3 Handheld Fan TWM 150
+3 Arven SVI 166
+1 Lucky Helmet TWM 158
+1 Defiance Band SVI 169
+1 Earthen Vessel PRE 106
+4 Crispin PRE 105
+2 Brave Bangle WHT 80
+4 Lillie's Determination MEG 119
+2 Iono PAF 80
+1 Boss's Orders MEG 114
+
+Energy: 9
+3 Basic {P} Energy SVE 5
+2 Basic {L} Energy SVE 4
+2 Basic {R} Energy SVE 2
+2 Basic {G} Energy SVE 1
+
+Total Cards: 60

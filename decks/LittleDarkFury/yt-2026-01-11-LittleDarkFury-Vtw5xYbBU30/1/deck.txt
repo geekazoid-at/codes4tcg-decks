@@ -1,0 +1,36 @@
+Pokémon: 10
+1 Psyduck MEP 7
+1 Budew PRE 4
+3 Drakloak TWM 129
+1 Dragapult ex TWM 130
+3 Dreepy TWM 128
+1 Victini SSP 21
+4 Ethan's Cyndaquil DRI 32
+4 Ethan's Quilava DRI 33
+3 Ethan's Typhlosion DRI 34
+1 Shaymin DRI 10
+
+Trainer: 17
+4 Ethan's Adventure DRI 165
+2 Lillie's Determination MEG 119
+1 Team Rocket's Watchtower DRI 180
+1 Secret Box TWM 163
+2 Super Rod PAL 188
+1 Air Balloon BLK 79
+4 Buddy-Buddy Poffin TEF 144
+1 Rare Candy PAF 89
+3 Ultra Ball SVI 196
+1 Night Stretcher SFA 61
+2 Gravity Mountain SSP 177
+1 Iono PAF 80
+1 Counter Catcher PAR 160
+1 Technical Machine: Evolution PAR 178
+3 Arven SVI 166
+2 Brave Bangle WHT 80
+2 Boss's Orders MEG 114
+
+Energy: 2
+5 Basic {R} Energy BUS 167
+1 Luminous Energy PAL 191
+
+Total Cards: 60

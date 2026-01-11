@@ -1,0 +1,33 @@
+Pokémon: 11
+4 Iron Thorns ex TWM 77
+3 Dwebble DRI 11
+3 Crustle DRI 12
+1 Ditto MEW 132
+
+Trainer: 37
+4 Arven OBF 186
+4 Crispin SCR 133
+4 Boss's Orders PAL 172
+3 Lillie's Determination MEG 119
+2 Colress's Tenacity SFA 57
+1 Iono PAL 185
+4 Pokégear 3.0 SVI 186
+2 Jumbo Ice Cream PFL 91
+1 Nest Ball SVI 181
+1 Buddy-Buddy Poffin PRE 101
+1 Earthen Vessel PAR 163
+1 Super Rod PAL 188
+1 Poké Vital A SFA 62
+2 Future Booster Energy Capsule TEF 149
+2 Luxurious Cape PAR 166
+1 Defiance Vest PAR 162
+1 Town Store OBF 196
+1 Pokémon League Headquarters OBF 192
+1 Team Rocket's Watchtower DRI 180
+
+Energy: 12
+4 Mist Energy TEF 161
+4 Basic {G} Energy SVE 1
+4 Basic {L} Energy SVE 4
+
+Total Cards: 60
