@@ -1,0 +1,35 @@
+Pokémon: 8
+2 Gliscor PFL 50
+3 Gligar PFL 49
+3 Munkidori TWM 95
+3 Snorunt TWM 51
+3 Froslass TWM 53
+1 Cleffa OBF 80
+1 Budew PRE 4
+1 Ting-Lu TWM 110
+
+Trainer: 17
+3 Counter Catcher PAR 160
+1 Unfair Stamp TWM 165
+2 Perilous Jungle TEF 156
+2 Night Stretcher SFA 61
+2 Nest Ball SVI 181
+2 Artazon PAL 171
+2 Air Balloon BLK 79
+3 Iono PAL 185
+4 Arven SVI 166
+1 Technical Machine: Devolution PAR 177
+1 Technical Machine: Evolution PAR 178
+1 Super Rod PAL 188
+1 Crispin SCR 133
+3 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+2 Ultra Ball SVI 196
+1 Earthen Vessel PAR 163
+
+Energy: 3
+4 Luminous Energy PAL 191
+2 Basic {D} Energy MEE 7
+2 Basic {F} Energy MEE 6
+
+Total Cards: 60

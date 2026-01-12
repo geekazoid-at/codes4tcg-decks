@@ -1,0 +1,37 @@
+Pokémon: 10
+1 Bloodmoon Ursaluna ex TWM 141
+2 Gliscor PFL 50
+1 Azelf SSP 80
+3 Gligar PFL 49
+3 Snorunt TWM 51
+3 Froslass TWM 53
+1 Cleffa OBF 80
+1 Budew PRE 4
+1 Uxie SSP 78
+1 Moltres PFL 14
+
+Trainer: 17
+3 Counter Catcher PAR 160
+1 Vengeful Punch OBF 197
+1 Accompanying Flute TWM 142
+1 Unfair Stamp TWM 165
+1 Counter Gain SSP 169
+2 Perilous Jungle TEF 156
+2 Night Stretcher SFA 61
+2 Air Balloon BLK 79
+4 Iono PAL 185
+4 Arven SVI 166
+1 Technical Machine: Devolution PAR 177
+1 Technical Machine: Evolution PAR 178
+1 Super Rod PAL 188
+4 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+2 Ultra Ball SVI 196
+1 Earthen Vessel PAR 163
+
+Energy: 3
+4 Luminous Energy PAL 191
+2 Basic {P} Energy MEE 5
+2 Basic {F} Energy MEE 6
+
+Total Cards: 60
