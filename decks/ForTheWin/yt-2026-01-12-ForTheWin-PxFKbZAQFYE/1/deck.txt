@@ -1,0 +1,31 @@
+Pokémon: 8
+1 Latias ex SSP 76
+1 Bloodmoon Ursaluna ex TWM 141
+4 Munkidori TWM 95
+1 Fezandipiti ex SFA 38
+1 Ethan's Pinsir DRI 1
+1 Mega Kangaskhan ex MEG 104
+3 Ethan's Ho-Oh ex DRI 39
+1 Moltres PFL 14
+
+Trainer: 14
+3 Counter Catcher PAR 160
+1 Precious Trolley SSP 185
+1 Night Stretcher SFA 61
+2 Penny SVI 183
+3 Nest Ball SVI 181
+4 Calamitous Snowy Mountain PAL 174
+2 Bravery Charm PAL 173
+1 Air Balloon BLK 79
+4 Arven SVI 166
+1 Technical Machine: Turbo Energize PAR 179
+2 Superior Energy Retrieval PAL 189
+4 Earthen Vessel PRE 106
+4 Lillie's Determination MEG 119
+4 Iono PAF 80
+
+Energy: 2
+4 Basic {D} Energy MEE 7
+7 Basic {R} Energy MEE 2
+
+Total Cards: 60

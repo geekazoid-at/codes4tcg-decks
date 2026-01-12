@@ -1,0 +1,33 @@
+Pokémon: 10
+2 Vanilluxe PAR 45
+3 Bounsweet PAR 8
+1 Steenee PAR 9
+2 Vanillite PAR 43
+2 Inteleon MEG 142
+1 Vanillish WHT 112
+2 Sobble MEG 39
+3 Tsareena ex PAR 46
+2 Budew PRE 4
+1 Drizzile MEG 40
+
+Trainer: 13
+2 Rare Candy SVI 191
+2 Boss's Orders PAL 265
+1 Energy Search SVI 172
+2 Iono PAF 237
+2 Super Rod PAL 276
+4 Ultra Ball BRS 186
+3 Dawn PFL 129
+3 Buddy-Buddy Poffin TWM 223
+2 Rare Candy GRI 165
+3 Surfing Beach MEG 129
+3 Team Rocket's Petrel DRI 176
+1 Precious Trolley SSP 185
+4 Lillie's Determination MEG 184
+
+Energy: 3
+3 Basic {W} Energy SVE 11
+3 Basic {G} Energy SVE 9
+3 Luminous Energy TWM 226
+
+Total Cards: 60

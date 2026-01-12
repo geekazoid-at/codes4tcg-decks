@@ -1,0 +1,37 @@
+Pokémon: 12
+2 Baxcalibur PAL 60
+2 Revavroom SVI 142
+3 Horsea PAR 30
+1 Seadra SFA 11
+1 Chien-Pao ex SVALT 97
+2 Varoom SFA 43
+1 Regigigas PRE 86
+2 Frigibax PAF 17
+1 Arctibax PAL 59
+1 Seadra PAR 31
+1 Fezandipiti ex SFA 38
+2 Kingdra ex SFA 12
+
+Trainer: 17
+3 Lillie's Determination MEG 119
+1 Super Rod PAL 188
+3 Superior Energy Retrieval PAL 189
+1 Prime Catcher PRE 119
+1 Air Balloon BLK 79
+4 Buddy-Buddy Poffin PRE 101
+3 Rare Candy PAF 89
+1 Earthen Vessel PRE 106
+3 Ultra Ball PAF 91
+2 Surfing Beach MEG 129
+1 Night Stretcher SFA 61
+1 Iono PAL 185
+1 Counter Catcher PAR 160
+2 Technical Machine: Evolution PAR 178
+2 Arven SVI 166
+1 Boss's Orders MEG 114
+2 Arven SVI 249
+
+Energy: 1
+9 Basic {W} Energy CIN 124
+
+Total Cards: 60
