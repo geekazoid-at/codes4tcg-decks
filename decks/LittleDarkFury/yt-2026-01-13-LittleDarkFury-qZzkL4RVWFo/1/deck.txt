@@ -1,0 +1,36 @@
+Pokémon: 11
+1 Fezandipiti ex SFA 38
+1 Psyduck MEP 7
+2 Brute Bonnet PAR 123
+2 Toxel PFL 67
+1 Pecharunt PR-SV 149
+2 Toxtricity PFL 68
+1 Sableye PAL 136
+3 Venipede TWM 115
+3 Scolipede TWM 117
+2 Whirlipede BLK 55
+1 Pecharunt ex SFA 39
+
+Trainer: 17
+4 Lillie's Determination MEG 119
+1 Precious Trolley SSP 185
+2 Boss's Orders MEG 114
+2 Super Rod PAL 188
+2 Artazon PAL 171
+1 Air Balloon BLK 79
+2 Rare Candy SVI 191
+1 Nest Ball SVI 181
+3 Iono PAF 80
+2 Ultra Ball PLF 122
+1 Enhanced Hammer PRC 162
+1 Counter Catcher PAR 160
+2 Technical Machine: Evolution PAR 178
+2 Dawn PFL 87
+3 Ancient Booster Energy Capsule TEF 140
+4 Arven OBF 186
+1 Binding Mochi PRE 95
+
+Energy: 1
+7 Basic {D} Energy BUS 168
+
+Total Cards: 60
