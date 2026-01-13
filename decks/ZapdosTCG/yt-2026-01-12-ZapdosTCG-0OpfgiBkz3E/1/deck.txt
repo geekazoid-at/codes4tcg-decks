@@ -1,0 +1,33 @@
+Pokémon: 9
+4 Bouffalant SCR 119
+3 Mega Kangaskhan ex MEG 104
+1 Psyduck MEP 7
+1 Shaymin DRI 10
+
+Trainer: 49
+4 Wally's Compassion MEG 132
+4 Arven OBF 186
+4 Penny SVI 183
+2 Eri TEF 146
+2 Boss's Orders MEG 114
+2 Xerosic's Machinations SFA 64
+1 Ruffian JTG 157
+1 Iono PAL 185
+1 Lana's Aid TWM 155
+4 Pal Pad SVI 182
+4 Pokégear 3.0 SVI 186
+3 Crushing Hammer SVI 168
+2 Nest Ball SVI 181
+2 Counter Catcher PAR 160
+2 Accompanying Flute TWM 142
+1 Scoop Up Cyclone TWM 162
+3 Handheld Fan TWM 150
+2 Bravery Charm PAL 173
+1 Air Balloon BLK 79
+1 Protective Goggles MEW 164
+3 Lively Stadium SSP 180
+
+Energy: 2
+2 Mist Energy TEF 161
+
+Total Cards: 60
