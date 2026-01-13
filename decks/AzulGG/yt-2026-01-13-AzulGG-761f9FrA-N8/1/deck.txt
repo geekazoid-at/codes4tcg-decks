@@ -1,0 +1,29 @@
+Pokémon: 7
+2 Solrock MEG 75
+3 Makuhita MEG 72
+2 Mega Lucario ex MEG 77
+2 Lunatone MEG 74
+3 Riolu MEG 76
+2 Hariyama MEG 73
+1 Lucario SVI 114
+
+Trainer: 14
+1 Vitality Band SVI 197
+1 Exp. Share SVI 174
+4 Lillie's Determination MEG 119
+3 Air Balloon BLK 79
+4 Fighting Gong MEG 116
+3 Night Stretcher SFA 61
+4 Ultra Ball MEG 131
+2 Town Store OBF 196
+2 Iono PAF 80
+3 Professor's Research PRE 122
+1 Maximum Belt PRE 117
+1 Artazon PAL 171
+3 Boss's Orders MEG 114
+4 Premium Power Pro MEG 124
+
+Energy: 1
+9 Basic {F} Energy SVE 6
+
+Total Cards: 60
