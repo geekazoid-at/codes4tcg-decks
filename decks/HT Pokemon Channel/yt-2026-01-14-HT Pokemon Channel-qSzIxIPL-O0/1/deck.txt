@@ -1,0 +1,22 @@
+Pokémon: 23
+4 Teal Mask Ogerpon ex TWM 25
+3 Oddish MEW 43
+3 Gloom MEW 44
+3 Vileplume MEW 45
+4 Chikorita MEG 8
+3 Bayleef MEG 9
+3 Meganium MEG 10
+
+Trainer: 19
+4 Bug Catching Set TWM 143
+2 Ultra Ball MEG 131
+1 Survival Brace TWM 164
+4 Forest of Vitality MEG 117
+4 Lillie's Determination MEG 119
+2 Dawn PFL 87
+2 Boss's Orders MEG 114
+
+Energy: 18
+18 Basic {G} Energy SVE 1
+
+Total Cards: 60

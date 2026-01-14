@@ -1,0 +1,36 @@
+Pokémon: 11
+2 Gastly PFL 54
+2 Okidogi ex SFA 36
+2 Mega Gengar ex PFL 56
+1 Munkidori TWM 95
+2 Pecharunt ex SFA 39
+2 Toxtricity PFL 68
+1 Haunter PFL 55
+1 Fezandipiti ex SFA 38
+1 Roaring Moon ex PAR 124
+1 Yveltal MEG 88
+2 Toxel PFL 67
+
+Trainer: 17
+4 Arven OBF 186
+1 Earthen Vessel PAR 163
+2 Lillie's Determination MEG 119
+2 Iono PAL 185
+2 Mesagoza SVI 178
+2 Boss's Orders MEG 114
+1 Energy Switch MEG 115
+2 Binding Mochi PRE 95
+1 Night Stretcher SFA 61
+2 Ultra Ball MEG 131
+2 Super Rod PAL 188
+2 Technical Machine: Evolution PAR 178
+2 Janine's Secret Art PRE 112
+4 Pokégear 3.0 SVI 186
+2 Nest Ball SVI 181
+1 Precious Trolley SSP 185
+2 Rare Candy MEG 125
+
+Energy: 1
+9 Basic {D} Energy MEE 7
+
+Total Cards: 60
