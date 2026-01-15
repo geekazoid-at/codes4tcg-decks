@@ -1,0 +1,38 @@
+Pokémon: 21
+3 Hoothoot SCR 114
+3 Noctowl SCR 115
+2 Fuecoco PAL 34
+2 Skeledirge ex PAR 137
+2 Fan Rotom SCR 118
+2 Terapagos ex SCR 128
+2 Budew PRE 4
+1 Pidgey OBF 162
+1 Pidgeot ex OBF 164
+1 Fezandipiti ex SFA 38
+1 Bloodmoon Ursaluna ex TWM 141
+1 Moltres PFL 14
+
+Trainer: 31
+2 Boss's Orders MEG 114
+2 Lillie's Determination MEG 119
+1 Kieran TWM 154
+1 Iono PAL 185
+1 Cyrano SSP 170
+1 Mela PAR 167
+1 Hilda WHT 84
+1 Dawn PFL 87
+4 Nest Ball SVI 181
+3 Rare Candy MEG 125
+3 Night Stretcher SFA 61
+3 Ultra Ball MEG 131
+2 Tera Orb SSP 189
+2 Energy Retrieval SVI 171
+1 Unfair Stamp TWM 165
+1 Pal Pad SVI 182
+2 Area Zero Underdepths SCR 131
+
+Energy: 8
+6 Basic {R} Energy SVE 2
+2 Jet Energy PAL 190
+
+Total Cards: 60
