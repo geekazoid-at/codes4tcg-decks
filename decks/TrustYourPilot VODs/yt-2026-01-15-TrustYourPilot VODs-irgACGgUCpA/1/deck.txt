@@ -1,0 +1,36 @@
+Pokémon: 11
+3 Kadabra MEG 55
+2 Team Rocket's Ekans DRI 112
+2 Dunsparce PAL 156
+4 Abra TWM 80
+1 Alakazam MEG 56
+2 Dudunsparce TEF 129
+2 Team Rocket's Arbok DRI 113
+1 Psyduck MEP 7
+1 Lillie's Clefairy ex JTG 56
+1 Mimikyu PAL 97
+2 Alakazam ex MEW 65
+
+Trainer: 17
+3 Ultra Ball SVI 196
+1 Switch SVI 194
+1 Earthen Vessel PAR 163
+4 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+2 Iono PAL 185
+1 Battle Cage PFL 85
+2 Technical Machine: Devolution PAR 177
+1 Super Rod PAL 188
+2 Technical Machine: Evolution PAR 178
+1 Town Store OBF 196
+1 Pokémon League Headquarters OBF 192
+1 Dawn PFL 87
+2 Wondrous Patch PFL 94
+1 Tulip PAR 181
+3 Arven SVI 166
+2 Rare Candy MEG 125
+
+Energy: 1
+7 Basic {P} Energy SVE 5
+
+Total Cards: 60

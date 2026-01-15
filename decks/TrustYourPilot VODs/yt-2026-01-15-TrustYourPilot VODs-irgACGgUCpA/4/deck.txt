@@ -1,0 +1,37 @@
+Pokémon: 11
+1 Azelf SSP 80
+3 Kadabra MEG 55
+2 Uxie SSP 78
+1 Klefki SVI 96
+1 Alakazam TWM 82
+4 Abra TWM 80
+1 Alakazam MEG 56
+1 Psyduck MEP 7
+1 Lillie's Clefairy ex JTG 56
+1 Mimikyu PAL 97
+2 Alakazam ex MEW 65
+
+Trainer: 18
+3 Ultra Ball SVI 196
+1 Switch SVI 194
+2 Earthen Vessel PAR 163
+4 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+3 Iono PAL 185
+1 Air Balloon BLK 79
+1 Battle Cage PFL 85
+1 Boss's Orders MEG 114
+1 Technical Machine: Devolution PAR 177
+1 Super Rod PAL 188
+1 Technical Machine: Evolution PAR 178
+1 Prime Catcher TEF 157
+3 Wondrous Patch PFL 94
+1 Tulip PAR 181
+2 Mystery Garden MEG 122
+3 Arven SVI 166
+2 Rare Candy MEG 125
+
+Energy: 1
+7 Basic {P} Energy SVE 5
+
+Total Cards: 60

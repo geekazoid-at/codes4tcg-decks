@@ -1,0 +1,40 @@
+Pokémon: 13
+3 Kadabra MEG 55
+1 Klefki SVI 96
+2 Dunsparce PAL 156
+1 Jellicent ex WHT 45
+4 Abra TWM 80
+1 Alakazam MEG 56
+2 Dudunsparce TEF 129
+2 Frillish WHT 44
+1 Psyduck MEP 7
+1 Cornerstone Mask Ogerpon ex TWM 112
+1 Lillie's Clefairy ex JTG 56
+1 Mimikyu PAL 97
+2 Alakazam ex MEW 65
+
+Trainer: 19
+3 Ultra Ball SVI 196
+1 Switch SVI 194
+1 Defiance Band SVI 169
+1 Earthen Vessel PAR 163
+1 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+3 Iono PAL 185
+1 Air Balloon BLK 79
+1 Battle Cage PFL 85
+1 Technical Machine: Devolution PAR 177
+1 Super Rod PAL 188
+1 Technical Machine: Evolution PAR 178
+1 Town Store OBF 196
+1 Pokémon League Headquarters OBF 192
+1 Nest Ball PAF 84
+2 Wondrous Patch PFL 94
+1 Precious Trolley SSP 185
+4 Arven SVI 166
+2 Rare Candy MEG 125
+
+Energy: 1
+7 Basic {P} Energy SVE 5
+
+Total Cards: 60
