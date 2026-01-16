@@ -1,0 +1,39 @@
+Pokémon: 8
+1 Dragapult ex PRE 73
+1 Psyduck MEP 7
+1 Mega Kangaskhan ex MEG 104
+2 Drakloak TWM 129
+2 Dreepy TWM 128
+2 Lugia ex PRE 82
+2 Munkidori PRE 44
+3 Bouffalant SCR 119
+
+Trainer: 19
+2 Crispin SCR 133
+3 Crushing Hammer SVI 168
+1 Precious Trolley SSP 185
+2 Lillie's Determination MEG 119
+1 Air Balloon BLK 79
+2 Nest Ball SVI 181
+3 Pokégear 3.0 BLK 84
+3 Jumbo Ice Cream PFL 91
+2 Night Stretcher SFA 61
+2 Bravery Charm PAL 173
+1 Iono PAL 185
+1 Energy Switch MEG 115
+2 Technical Machine: Turbo Energize PAR 179
+1 Penny SVI 183
+4 Arven SVI 166
+1 Team Rocket's Petrel DRI 176
+1 Switch MEG 130
+1 Handheld Fan TWM 150
+3 Boss's Orders MEG 114
+
+Energy: 5
+5 Basic {D} Energy BUS 168
+1 Basic {F} Energy GRI 169
+2 Basic {P} Energy SUM 162
+1 Mist Energy TEF 161
+1 Basic {R} Energy BUS 167
+
+Total Cards: 60
