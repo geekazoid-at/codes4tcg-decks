@@ -1,0 +1,27 @@
+Pokémon: 24
+4 Tatsugiri ex SSP 142
+4 Charmeleon PFL 12
+4 Mega Charizard X ex PFL 13
+4 Charizard ex PAF 54
+4 Emboar WHT 13
+4 Pidgeot ex OBF 164
+
+Trainer: 24
+4 Pokégear 3.0 BLK 84
+2 Firebreather PFL 89
+2 Superior Energy Retrieval PAL 189
+1 Night Stretcher SFA 61
+1 Sparkling Crystal SCR 142
+1 Big Air Balloon MEW 155
+2 Town Store OBF 196
+4 Crispin PRE 105
+3 Carmine PRE 103
+2 Boss's Orders MEG 114
+2 Iono PAL 185
+
+Energy: 12
+8 Basic {R} Energy SVE 2
+2 Basic {D} Energy SVE 7
+2 Basic {W} Energy SVE 3
+
+Total Cards: 60
