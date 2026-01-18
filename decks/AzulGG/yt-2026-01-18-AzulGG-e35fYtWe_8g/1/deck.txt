@@ -1,0 +1,34 @@
+Pokémon: 16
+4 Munkidori TWM 95
+3 Snorunt PAR 37
+3 Froslass TWM 53
+3 Budew PRE 4
+1 Iron Bundle PAR 56
+1 Shaymin DRI 10
+1 Yveltal MEG 88
+
+Trainer: 37
+4 Arven OBF 186
+4 Iono PAL 185
+4 Lillie's Determination MEG 119
+4 Counter Catcher PAR 160
+2 Night Stretcher SFA 61
+2 Pokégear 3.0 SVI 186
+1 Buddy-Buddy Poffin TEF 144
+1 Earthen Vessel PAR 163
+1 Nest Ball SVI 181
+1 Secret Box TWM 163
+1 Super Rod PAL 188
+1 Ultra Ball MEG 131
+2 Air Balloon BLK 79
+2 Bravery Charm PAL 173
+2 Technical Machine: Devolution PAR 177
+1 Technical Machine: Evolution PAR 178
+4 Artazon PAL 171
+
+Energy: 7
+5 Basic {D} Energy SVE 7
+1 Prism Energy BLK 86
+1 Luminous Energy PAL 191
+
+Total Cards: 60
