@@ -1,0 +1,34 @@
+Pokémon: 8
+1 Golduck MEP 8
+1 Psyduck MEP 7
+4 Flittle SCR 68
+2 Xatu PAF 152
+3 Natu PAF 151
+1 Fezandipiti ex SFA 84
+3 Espathra ex PAF 214
+1 Shaymin DRI 185
+
+Trainer: 18
+1 Buddy-Buddy Poffin TWM 223
+3 Battle Cage PFL 85
+3 Lillie's Determination MEG 184
+1 Precious Trolley SSP 185
+2 Iono PR-SV 124
+1 Professor Turo's Scenario PAR 257
+2 Earthen Vessel SFA 96
+2 Ultra Ball PLF 122
+3 Pokégear 3.0 UNB 233
+2 Lana's Aid TWM 219
+1 Counter Catcher CIN 120
+2 Boss's Orders PAL 265
+2 Handheld Fan TWM 150
+1 Night Stretcher SSP 251
+1 Nest Ball SUM 158
+2 Technical Machine: Evolution PAR 178
+4 Arven SVI 249
+1 Air Balloon SSH 213
+
+Energy: 1
+10 Basic {P} Energy EVO 95
+
+Total Cards: 60
