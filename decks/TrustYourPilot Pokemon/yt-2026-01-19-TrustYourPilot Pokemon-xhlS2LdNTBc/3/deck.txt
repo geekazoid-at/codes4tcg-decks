@@ -1,0 +1,32 @@
+Pokémon: 17
+4 N's Zorua JTG 97
+4 N's Zoroark ex JTG 98
+2 N's Darumaka JTG 26
+1 N's Darmanitan JTG 27
+2 N's Zekrom ASC
+1 N's Reshiram JTG 116
+1 Pecharunt ex SFA 39
+1 Fezandipiti ex SFA 38
+1 Munkidori TWM 95
+
+Trainer: 35
+4 Lillie's Determination MEG 119
+4 Iono PAL 185
+3 Boss's Orders MEG 114
+1 Professor Turo's Scenario PAR 171
+1 Black Belt's Training JTG 145
+1 Janine's Secret Art PRE 112
+4 Buddy-Buddy Poffin TEF 144
+3 Nest Ball SVI 181
+3 Ultra Ball MEG 131
+3 N's PP Up JTG 153
+2 Night Stretcher SFA 61
+1 Counter Catcher PAR 160
+1 Prime Catcher TEF 157
+2 Binding Mochi PRE 95
+2 N's Castle JTG 152
+
+Energy: 8
+8 Basic {D} Energy SVE 7
+
+Total Cards: 60
