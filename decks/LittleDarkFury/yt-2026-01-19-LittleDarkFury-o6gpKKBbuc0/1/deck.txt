@@ -1,0 +1,36 @@
+Pokémon: 9
+3 Aerodactyl MEW 142
+1 Psyduck MEP 7
+2 Zorua WHT 61
+2 Drakloak PRE 72
+2 Scizor OBF 141
+2 Dreepy PRE 71
+1 Tatsugiri TWM 131
+2 Scyther MEW 123
+2 Zoroark WHT 62
+
+Trainer: 15
+2 Counter Catcher PAR 160
+1 Secret Box TWM 163
+1 Artazon PAF 76
+1 Night Stretcher SFA 61
+3 Antique Old Amber MEW 154
+4 Buddy-Buddy Poffin TEF 144
+2 Boss's Orders PAL 172
+1 Air Balloon BLK 79
+2 Super Rod PAL 188
+2 Arven OBF 186
+1 Brave Bangle WHT 80
+4 Lillie's Determination MEG 119
+3 Iono PAF 80
+3 Ultra Ball MEG 131
+2 Professor's Research PRE 124
+
+Energy: 5
+1 Basic {D} Energy BUS 168
+2 Luminous Energy PAL 191
+2 Reversal Energy PAL 192
+4 Ignition Energy WHT 86
+2 Basic {M} Energy SUM 163
+
+Total Cards: 60

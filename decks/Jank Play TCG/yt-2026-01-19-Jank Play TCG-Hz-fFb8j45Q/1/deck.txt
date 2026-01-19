@@ -1,0 +1,22 @@
+Pokémon: 5
+1 Morpeko TWM 72
+3 Varoom PAF 64
+3 Revavroom PAF 65
+4 Kyogre MEG 34
+1 Ditto MEW 132
+
+Trainer: 9
+2 Earthen Vessel PAR 163
+3 Cycling Road MEW 157
+4 Night Stretcher SFA 61
+4 Ultra Ball MEG 131
+4 Professor's Research SVI 240
+3 Nest Ball SVI 181
+4 Carmine TWM 145
+1 Brilliant Blender SSP 164
+4 Explorer's Guidance PRE 107
+
+Energy: 1
+19 Basic {W} Energy SVE 11
+
+Total Cards: 60
