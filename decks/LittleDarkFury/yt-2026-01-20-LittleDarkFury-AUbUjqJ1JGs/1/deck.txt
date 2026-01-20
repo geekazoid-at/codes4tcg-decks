@@ -1,0 +1,30 @@
+Pokémon: 16
+2 Oddish MEW 43
+1 Oddish OBF 1
+3 Gloom MEW 44
+2 Vileplume MEW 45
+2 Mega Kangaskhan ex MEG 104
+2 Raging Bolt ex TEF 123
+1 Makuhita MEG 72
+1 Hariyama MEG 73
+1 Iron Hands ex PAR 70
+1 Latias ex SSP 76
+
+Trainer: 24
+4 Lillie's Determination MEG 119
+2 Iono PAL 185
+1 Boss's Orders MEG 114
+1 Professor Turo's Scenario PAR 171
+4 Nest Ball SVI 181
+4 Ultra Ball MEG 131
+2 Night Stretcher SFA 61
+1 Energy Recycler DRI 164
+1 Secret Box TWM 163
+1 Bravery Charm PAL 173
+3 Forest of Vitality MEG 117
+
+Energy: 20
+14 Basic {F} Energy SVE 6
+6 Basic {L} Energy SVE 4
+
+Total Cards: 60
