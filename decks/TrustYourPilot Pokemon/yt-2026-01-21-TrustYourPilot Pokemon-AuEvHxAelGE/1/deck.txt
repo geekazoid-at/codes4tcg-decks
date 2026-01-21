@@ -1,0 +1,36 @@
+Pokémon: 20
+4 Snorunt ASC 46
+3 Froslass TWM 53
+2 Mega Froslass ex ASC 47
+4 Munkidori TWM 95
+2 Budew PRE 4
+1 Shaymin DRI 10
+1 Iron Bundle PAR 56
+1 Bloodmoon Ursaluna ex TWM 141
+1 Maractus JTG 8
+1 Psyduck MEP 7
+
+Trainer: 32
+4 Lillie's Determination MEG 119
+4 Arven OBF 186
+4 Iono PAL 185
+3 Counter Catcher PAR 160
+3 Poke Pad ASC 198
+2 Night Stretcher SFA 61
+1 Super Rod PAL 188
+1 Buddy-Buddy Poffin TEF 144
+1 Ultra Ball MEG 131
+1 Secret Box TWM 163
+1 Earthen Vessel PAR 163
+1 Air Balloon BLK 79
+1 Bravery Charm PAL 173
+1 Counter Gain SSP 169
+1 Technical Machine: Devolution PAR 177
+3 Artazon PAL 171
+
+Energy: 8
+4 Luminous Energy PAL 191
+3 Basic {D} Energy SVE 7
+1 Basic {W} Energy SVE 3
+
+Total Cards: 60

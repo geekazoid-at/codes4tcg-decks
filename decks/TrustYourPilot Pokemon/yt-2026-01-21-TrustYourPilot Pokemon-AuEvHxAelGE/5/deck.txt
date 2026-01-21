@@ -1,0 +1,37 @@
+Pokémon: 16
+2 Nacli MEG 82
+1 Nacli PAR 102
+2 Naclstack PAL 122
+2 Garganacl PAR 104
+1 Garganacl MEG 84
+3 Solrock MEG 75
+2 Mega Hawlucha ex ASC 
+2 Lunatone MEG 74
+1 Fezandipiti ex SFA 38
+
+Trainer: 35
+3 Lillie's Determination MEG 119
+3 Arven SVI 166
+3 Iono PAL 185
+2 Boss's Orders PAL 172
+1 Colress's Tenacity SFA 57
+4 Fighting Gong MEG 116
+4 Premium Power Pro MEG 124
+2 Nest Ball SVI 181
+1 Rare Candy SVI 191
+1 Switch SVI 194
+1 Night Stretcher SFA 61
+1 Super Rod PAL 188
+1 Poke Pad ASC 198
+1 Technical Machine: Turbo Energize PAR 179
+1 Air Balloon BLK 79
+1 Exp. Share SVI 174
+1 Technical Machine: Evolution PAR 178
+2 Town Store OBF 196
+1 Grand Tree SCR 136
+1 Artazon PAL 171
+
+Energy: 9
+9 Basic {F} Energy SVE 6
+
+Total Cards: 60

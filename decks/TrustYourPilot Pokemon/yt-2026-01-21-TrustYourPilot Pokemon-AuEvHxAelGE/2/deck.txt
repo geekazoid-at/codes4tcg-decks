@@ -1,0 +1,29 @@
+Pokémon: 17
+4 Chikorita MEG 8
+3 Bayleef MEG 9
+2 Meganium MEG 10
+2 Mega Meganium ex ASC 10
+3 Teal Mask Ogerpon ex TWM 25
+1 Fezandipiti ex SFA 38
+1 Budew PRE 4
+1 Shaymin DRI 10
+
+Trainer: 32
+4 Lillie's Determination MEG 119
+3 Iono PAL 185
+2 Boss's Orders PAL 172
+2 Dawn PFL 87
+4 Bug Catching Set TWM 143
+4 Energy Switch MEG 115
+3 Nest Ball SVI 181
+3 Ultra Ball SVI 196
+1 Super Rod PAL 188
+1 Max Rod PRE 116
+1 Poke Pad ASC 198
+1 Air Balloon BLK 79
+3 Forest of Vitality MEG 117
+
+Energy: 11
+11 Basic {G} Energy SVE 1
+
+Total Cards: 60
