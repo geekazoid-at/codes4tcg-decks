@@ -1,0 +1,31 @@
+Pokémon: 8
+3 Bronzong PFL 72
+1 Genesect ex BLK 67
+2 Revavroom ex OBF 156
+1 Fezandipiti ex SFA 38
+2 Varoom SFA 43
+2 Cleffa OBF 80
+4 Bronzor PRE 66
+1 Cornerstone Mask Ogerpon ex TWM 112
+
+Trainer: 14
+2 Town Store OBF 196
+4 Rigid Band MEW 165
+1 Treasure Tracker PRE 131
+3 Nest Ball SVI 181
+2 Artazon PAL 171
+3 Air Balloon BLK 79
+2 Arven SVI 166
+3 Lucky Helmet TWM 158
+2 Hilda WHT 84
+1 Super Rod PAL 188
+4 Buddy-Buddy Poffin PRE 101
+3 Brave Bangle WHT 80
+4 Lillie's Determination MEG 119
+2 Boss's Orders MEG 114
+
+Energy: 2
+4 Reversal Energy PAL 192
+4 Ignition Energy WHT 86
+
+Total Cards: 60
