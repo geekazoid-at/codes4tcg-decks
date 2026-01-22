@@ -1,0 +1,38 @@
+Pokémon: 19
+2 Pawniard BLK 64
+2 Pawniard OBF 148
+2 Bisharp ASC 
+2 Kingambit ASC 
+1 Kingambit OBF 150
+2 Duraludon SCR 106
+2 Archaludon ex SSP 130
+1 Genesect ex BLK 67
+1 Relicanth TEF 84
+1 Cleffa OBF 80
+1 Budew PRE 4
+1 Psyduck MEP 7
+1 Fezandipiti ex SFA 38
+
+Trainer: 34
+4 Lillie's Determination MEG 119
+4 Iono PAL 185
+1 Boss's Orders PAL 172
+3 Buddy-Buddy Poffin TEF 144
+3 Nest Ball SVI 181
+2 Rare Candy SVI 191
+2 Poké Pad MC 662
+2 Counter Catcher PAR 160
+2 Earthen Vessel PAR 163
+2 Ultra Ball SVI 196
+1 Night Stretcher SFA 61
+1 Super Rod PAL 188
+2 Vengeful Punch OBF 197
+2 Air Balloon BLK 79
+1 Technical Machine: Crisis Punch PAF 90
+1 Hero's Cape TEF 152
+1 Artazon PAL 171
+
+Energy: 7
+7 Basic {M} Energy SVE 8
+
+Total Cards: 60

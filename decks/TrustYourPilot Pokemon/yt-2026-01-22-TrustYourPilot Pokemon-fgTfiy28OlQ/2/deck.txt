@@ -1,0 +1,40 @@
+Pokémon: 18
+3 Snorunt ASC 46
+2 Froslass TWM 53
+1 Mega Froslass ex ASC 47
+3 Munkidori TWM 95
+2 Hop's Phantump ASC 
+2 Hop's Trevenant ASC 
+2 Hop's Zacian ex JTG 111
+1 Hop's Snorlax JTG 117
+1 Yveltal MEG 88
+1 Budew PRE 4
+
+Trainer: 36
+4 Lillie's Determination MEG 119
+4 Arven SVI 166
+3 Iono PAL 185
+1 Boss's Orders PAL 172
+1 Professor's Research PRE 122
+3 Night Stretcher SFA 61
+2 Nest Ball SVI 181
+2 Counter Catcher PAR 160
+2 Buddy-Buddy Poffin TEF 144
+1 Energy Search SVI 172
+1 Unfair Stamp TWM 165
+1 Ultra Ball SVI 196
+1 Hop's Bag JTG 147
+1 Switch SVI 194
+3 Hop's Choice Band JTG 148
+1 Technical Machine: Evolution PAR 178
+1 Technical Machine: Devolution PAR 177
+1 Air Balloon BLK 79
+2 Postwick JTG 154
+1 Town Store OBF 196
+
+Energy: 6
+3 Basic {D} Energy SVE 7
+2 Luminous Energy PAL 191
+1 Basic {W} Energy SVE 3
+
+Total Cards: 60

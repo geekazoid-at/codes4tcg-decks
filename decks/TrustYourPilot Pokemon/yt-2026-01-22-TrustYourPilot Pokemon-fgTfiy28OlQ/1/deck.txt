@@ -1,0 +1,39 @@
+Pokémon: 14
+4 Larry's Dunsparce ASC 
+3 Larry's Dudunsparce ex ASC 
+3 Larry's Komala ASC 175
+1 Fezandipiti ex SFA 38
+1 Moltres PFL 14
+1 Bloodmoon Ursaluna ex TWM 141
+1 Fan Rotom SCR 118
+
+Trainer: 32
+4 Lillie's Determination MEG 119
+4 Arven SVI 166
+2 Boss's Orders PAL 172
+2 Iono PAL 185
+2 Mela PAR 167
+2 Pokégear 3.0 BLK 84
+1 Nest Ball SVI 181
+1 Buddy-Buddy Poffin TEF 144
+1 Superior Energy Retrieval PAL 189
+1 Night Stretcher SFA 61
+1 Counter Catcher PAR 160
+1 Precious Trolley SSP 185
+1 Super Rod PAL 188
+1 Earthen Vessel PAR 163
+1 Ultra Ball SVI 196
+2 Air Balloon BLK 79
+1 Powerglass SFA 63
+1 Rigid Band MEW 165
+1 Technical Machine: Turbo Energize PAR 179
+1 Defiance Band SVI 169
+1 Artazon PAL 171
+
+Energy: 14
+7 Basic {R} Energy SVE 2
+4 Ignition Energy WHT 86
+2 Jet Energy PAL 190
+1 Mist Energy TEF 161
+
+Total Cards: 60
