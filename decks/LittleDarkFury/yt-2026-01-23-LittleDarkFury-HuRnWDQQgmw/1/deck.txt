@@ -1,0 +1,35 @@
+Pokémon: 10
+2 Drakloak TWM 129
+1 Munkidori TWM 95
+2 Dreepy TWM 128
+1 Tatsugiri TWM 131
+4 Pidove TEF 133
+3 Unfezant TEF 135
+1 Psyduck MEP 7
+2 Zorua WHT 61
+2 Zoroark WHT 62
+1 Unfezant BLK 73
+
+Trainer: 15
+4 Risky Ruins MEG 127
+2 Super Rod PAL 188
+4 Lillie's Determination MEG 119
+1 Air Balloon BLK 79
+4 Iono PAF 80
+1 Brave Bangle WHT 80
+4 Buddy-Buddy Poffin PRE 101
+1 Enhanced Hammer TWM 148
+2 Counter Catcher PAR 160
+1 Secret Box TWM 163
+1 Counter Gain SSP 169
+2 Boss's Orders PAL 172
+1 Hilda WHT 84
+1 Nest Ball SVI 181
+3 Ultra Ball MEG 131
+
+Energy: 3
+4 Ignition Energy WHT 86
+3 Basic {D} Energy BUS 168
+2 Reversal Energy PAL 192
+
+Total Cards: 60
