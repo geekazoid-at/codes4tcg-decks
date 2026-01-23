@@ -1,0 +1,36 @@
+Pokémon: 21
+3 Dratini OBF 157
+3 Dragonair ASC 151
+2 Mega Dragonite ex ASC 152
+3 Tynamo BLK 30
+3 Eelektrik BLK 31
+1 Mega Eelektross ex ASC 61
+1 Fezandipiti ex SFA 38
+1 Zeraora DRI 78
+1 Zekrom ex BLK 34
+1 Budew PRE 4
+1 Stunfisk ASC 58
+1 Psyduck MEP 7
+
+Trainer: 30
+4 Lillie's Determination MEG 119
+3 Iono PAL 185
+2 Boss's Orders PAL 172
+2 Professor's Research SVI 189
+4 Buddy-Buddy Poffin TEF 144
+3 Ultra Ball SVI 196
+2 Earthen Vessel PAR 163
+2 Poké Pad ASC 198
+1 Night Stretcher SFA 61
+1 Rare Candy SVI 191
+1 Counter Catcher PAR 160
+1 Super Rod PAL 188
+1 Air Balloon BLK 79
+1 Maximum Belt TEF 154
+2 Battle Cage PFL 85
+
+Energy: 9
+6 Basic {L} Energy SVE 4
+3 Basic {W} Energy SVE 3
+
+Total Cards: 60
