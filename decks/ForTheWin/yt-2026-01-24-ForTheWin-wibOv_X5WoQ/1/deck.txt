@@ -1,0 +1,35 @@
+Pokémon: 9
+1 Latias ex SSP 76
+2 Jellicent ex WHT 45
+2 Genesect ex BLK 67
+2 Steven's Metang DRI 144
+3 Steven's Beldum DRI 143
+2 Frillish WHT 44
+1 Lillie's Clefairy ex JTG 56
+1 Steven's Carbink DRI 86
+2 Steven's Metagross ex DRI 145
+
+Trainer: 17
+1 Counter Catcher PAR 160
+1 Precious Trolley SSP 185
+2 Granite Cave DRI 166
+1 Energy Recycler DRI 164
+4 Pokégear 3.0 SVI 186
+1 Night Stretcher SFA 61
+2 Nest Ball SVI 181
+1 Air Balloon BLK 79
+4 Arven SVI 166
+1 Lucky Helmet TWM 158
+2 Technical Machine: Evolution PAR 178
+2 Super Rod PAL 188
+2 Buddy-Buddy Poffin PRE 101
+3 Lillie's Determination MEG 119
+3 Iono PAF 80
+2 Boss's Orders MEG 114
+2 Rare Candy SVI 191
+
+Energy: 2
+5 Basic {M} Energy MEE 8
+5 Basic {P} Energy MEE 5
+
+Total Cards: 60

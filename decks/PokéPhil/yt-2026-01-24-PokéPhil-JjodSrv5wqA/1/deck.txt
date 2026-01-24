@@ -1,0 +1,33 @@
+Pokémon: 8
+2 Turtwig BRS 6
+2 Grotle BRS 7
+2 Dartrix DAA 12
+3 Rowlet OBF 13
+3 Decidueye SFA 5
+1 Rowlet SFA 3
+1 Budew PRE 4
+1 Shuckle MEG 11
+
+Trainer: 17
+1 Air Balloon SSH 156
+4 Cynthia UPR 119
+4 Bug Catching Set TWM 143
+1 Energy Retrieval SVI 171
+2 Nest Ball SVI 181
+1 Lana's Aid TWM 155
+4 Arven SVI 166
+2 Technical Machine: Evolution PAR 178
+1 Superior Energy Retrieval PAL 189
+1 Guzma BUS 115
+4 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+1 Ultra Ball MEG 131
+1 Vitality Band SVI 197
+2 Switch SVI 194
+1 Rare Candy SVI 191
+3 Boss's Orders MEG 114
+
+Energy: 1
+8 Basic {G} Energy MEE 1
+
+Total Cards: 60
