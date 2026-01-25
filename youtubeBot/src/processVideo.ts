@@ -5,7 +5,7 @@ type DeckResult = { meta: DeckMeta; deck: string };
 
 export async function processVideo(
   video: Video,
-  channelName: string
+  channelName: string,
 ): Promise<{ meta: VideoMeta; decks: DeckResult[] } | null> {
   const videoName = fixLongWords(video.title);
   const publishedAtDate = new Date(video.publishedAt);
@@ -40,7 +40,7 @@ export async function processVideo(
 
 export function processDescription(
   description: string,
-  videoId: string
+  videoId: string,
 ): DeckResult[] | null {
   let decks: DeckResult[] = [];
 
@@ -114,7 +114,7 @@ export function processDescription(
         .map((line) => line.trim())
         .filter((line) => line.length > 0);
       const deckStartsAt = lines.findIndex(
-        (line) => line.includes("Pokémon:") || line.includes("Pokemon:")
+        (line) => line.includes("Pokémon:") || line.includes("Pokemon:"),
       );
 
       deckName = lines[deckStartsAt - 1];
@@ -125,7 +125,7 @@ export function processDescription(
     }
 
     let deck = videoDescription.substring(
-      videoDescription.indexOf("Pokémon:") || 0
+      videoDescription.indexOf("Pokémon:") || 0,
     );
 
     deck = deck.substring(0, deck.indexOf("Total Cards: 60") + 15).trim();
@@ -140,11 +140,11 @@ export function processDescription(
 
     // Advance description to possibly next deck
     videoDescription = videoDescription.substring(
-      videoDescription.indexOf(deck) + deck.length
+      videoDescription.indexOf(deck) + deck.length,
     );
 
     // Deck itself
-    deck = deck.replaceAll("BSR", "BRS");
+    // deck = deck.replaceAll("BSR", "BRS");
 
     // Normalize the deck text
     deck = transformDeck(deck);
@@ -185,7 +185,9 @@ export function processDescription(
       deckMeta.index = deckIndex;
     }
 
-    decks.push({ meta: deckMeta, deck });
+    if (deck.startsWith("Pokemon:") || deck.startsWith("Pokémon:")) {
+      decks.push({ meta: deckMeta, deck });
+    }
 
     deckIndex++;
   }

@@ -9,7 +9,10 @@ type Video = {
 
 const API_KEY = "AIzaSyCrF9wwzpO0p-qK1JoaZXd2ZKlhMRfb714";
 
-const getChannelName = async (channelId: string) => {
+// Local Dev
+// const API_KEY = "AIzaSyAVX9E9Li16lQ8phPUto_RzjsG3MUHSNvI";
+
+export const getChannelName = async (channelId: string) => {
   try {
     const response = await axios.get(
       "https://www.googleapis.com/youtube/v3/channels",
@@ -19,54 +22,52 @@ const getChannelName = async (channelId: string) => {
           id: channelId,
           part: "snippet",
         },
-      }
+      },
     );
 
-    const channelName = response.data.items[0].snippet.title;
-    return channelName;
+    return response.data.items[0].snippet.title;
   } catch (error) {
     console.error("Error fetching channel name:", error);
     return null;
   }
 };
 
-const getYouTubeVideos = async (
+const getPaginatedYouTubeVideos = async (
   channelId: string,
   pageSize: number,
-  pageToken: string = ""
+  pageToken: string = "",
 ) => {
   try {
-    const response = await axios.get(
-      "https://www.googleapis.com/youtube/v3/search",
+    const channelContentResponse = await axios.get(
+      "https://www.googleapis.com/youtube/v3/channels",
       {
         params: {
           key: API_KEY,
-          channelId,
-          part: "snippet",
-          order: "date",
+          id: channelId,
+          part: "contentDetails",
+        },
+      },
+    );
+
+    const uploadsPlaylistId =
+      channelContentResponse.data.items[0].contentDetails.relatedPlaylists
+        .uploads;
+
+    const playlistRes = await axios.get(
+      "https://www.googleapis.com/youtube/v3/playlistItems",
+      {
+        params: {
+          key: API_KEY,
+          playlistId: uploadsPlaylistId,
+          part: "snippet,contentDetails",
           maxResults: pageSize,
           pageToken,
         },
-      }
+      },
     );
 
-    const videoIds: string[] = response.data.items
-      .map((item: any) => item.id.videoId)
-      .join(",");
-
-    const videoDetailsResponse = await axios.get(
-      "https://www.googleapis.com/youtube/v3/videos",
-      {
-        params: {
-          key: API_KEY,
-          id: videoIds,
-          part: "snippet",
-        },
-      }
-    );
-
-    const videos = videoDetailsResponse.data.items.map((item: any) => ({
-      id: item.id,
+    const videos = playlistRes.data.items.map((item: any) => ({
+      id: item.contentDetails.videoId,
       title: item.snippet.title,
       description: item.snippet.description,
       publishedAt: item.snippet.publishedAt,
@@ -74,7 +75,7 @@ const getYouTubeVideos = async (
 
     return {
       videos: videos,
-      nextPageToken: response.data.nextPageToken,
+      nextPageToken: playlistRes.data.nextPageToken,
     };
   } catch (error) {
     console.error("Error fetching YouTube videos:", error);
@@ -85,21 +86,18 @@ const getYouTubeVideos = async (
 export async function getAllVideos(
   channelId: string,
   pageSize: number,
-  pageCount: number
+  pageCount: number,
 ) {
-  const channelName = await getChannelName(channelId);
-
-  console.log(`Channel: ${channelName}`);
   let allVideos: Video[] = [];
   let pageToken = "";
 
   let i = 0;
 
   do {
-    const { videos, nextPageToken } = await getYouTubeVideos(
+    const { videos, nextPageToken } = await getPaginatedYouTubeVideos(
       channelId,
       pageSize,
-      pageToken
+      pageToken,
     );
 
     allVideos = allVideos.concat(videos);
@@ -108,5 +106,5 @@ export async function getAllVideos(
   } while (pageToken && i < pageCount);
 
   console.log(`Total YouTube videos fetched: ${allVideos.length}`);
-  return { allVideos, channelName };
+  return allVideos;
 }

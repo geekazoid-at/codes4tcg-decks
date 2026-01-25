@@ -1,6 +1,6 @@
 import fs from "fs";
 
-import { getAllVideos } from "./api/youtube";
+import { getAllVideos, getChannelName } from "./api/youtube";
 import { processVideo } from "./processVideo";
 import { Video } from "./types";
 
@@ -28,6 +28,9 @@ const channelIdPokemonTypHtc = "UCp7EwD-oB-cNa8lD9pWZdjg";
 const channelIdPokemonTypBruceBuilds = "UCpp-g-RJVmEToLOh_seBVwg";
 const channelIdAzulGG = "UCEZlNLKMWQ7FV33gr9lpX9A";
 
+const channelIdTablemon = "UCt2NlhRtMMF5mFlSZxTesiA";
+const channelIdOmniPoke = "UC9k2vZA_jd83-4gMzRupYrQ";
+
 const allChannelIds: string[] = [
   channelIdTyp,
   channelIdPp,
@@ -52,25 +55,22 @@ const allChannelIds: string[] = [
   channelIdPokemonTypHtc,
   channelIdPokemonTypBruceBuilds,
   channelIdAzulGG,
+  channelIdTablemon,
+  channelIdOmniPoke,
 ];
 
 const main = async (
   channelId: string,
   pageSize: number,
-  pageCount: number
+  pageCount: number,
 ): Promise<void> => {
-  const {
-    channelName,
-    allVideos,
-  }: { channelName: string; allVideos: Video[] } = await getAllVideos(
-    channelId,
-    pageSize,
-    pageCount
-  );
+  const channelName = await getChannelName(channelId);
+  console.log(`Channel: ${channelName}`);
 
   if (!channelName) {
     return;
   }
+  const allVideos: Video[] = await getAllVideos(channelId, pageSize, pageCount);
 
   for (const video of allVideos) {
     const videoData = await processVideo(video, channelName);
@@ -93,7 +93,7 @@ const main = async (
 
     fs.writeFileSync(
       `../decks/${channelName}/${videoMeta.id}/meta.json`,
-      JSON.stringify(videoMeta, null, 2)
+      JSON.stringify(videoMeta, null, 2),
     );
 
     for (const deck of decks) {
@@ -101,17 +101,17 @@ const main = async (
         `../decks/${channelName}/${videoMeta.id}/${deck.meta.index}`,
         {
           recursive: true,
-        }
+        },
       );
 
       fs.writeFileSync(
         `../decks/${channelName}/${videoMeta.id}/${deck.meta.index}/deck.txt`,
-        deck.deck
+        deck.deck,
       );
 
       fs.writeFileSync(
         `../decks/${channelName}/${videoMeta.id}/${deck.meta.index}/meta.json`,
-        JSON.stringify(deck.meta, null, 2)
+        JSON.stringify(deck.meta, null, 2),
       );
     }
   }
@@ -122,7 +122,7 @@ enum RunType {
   UPDATE = "UPDATE",
 }
 
-const importChannelId = channelIdAzulGG;
+const importChannelId = channelIdTablemon;
 const RUNTYPE: RunType = RunType.UPDATE;
 
 async function runBot() {
