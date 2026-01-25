@@ -1,0 +1,30 @@
+Pokémon: 10
+2 Giratina V LOR 130
+2 Bibarel BRS 121
+3 Arceus VSTAR BRS 123
+1 Leafeon V EVS 7
+4 Arceus V BRS 122
+2 Giratina VSTAR LOR 131
+1 Skwovet SVI 151
+1 Radiant Alakazam SIT 59
+2 Bidoof CRZ 111
+1 Leafeon VSTAR CRZ 14
+
+Trainer: 9
+1 Switch CRZ 144
+1 Escape Rope BST 125
+4 Nest Ball SUM 123
+4 Path to the Peak CRE 148
+4 Judge SIT-TG 25
+4 Ultra Ball CRZ 146
+4 Iono PAL 254
+4 Boss's Orders RCL 189
+1 Choice Belt BRS 135
+
+Energy: 4
+1 V Guard Energy SIT 169
+4 Double Turbo Energy BRS 151
+4 Basic {P} Energy SVE 5
+5 Basic {G} Energy SVE 1
+
+Total Cards: 60

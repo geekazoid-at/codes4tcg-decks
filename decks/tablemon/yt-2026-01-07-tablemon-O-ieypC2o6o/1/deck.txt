@@ -1,0 +1,38 @@
+Pokémon: 22
+3 Dunsparce PAL 156
+1 Dunsparce TEF 128
+3 Dudunsparce TEF 129
+3 Abra MEG 54
+1 Abra TWM 80
+4 Kadabra MEG 55
+3 Alakazam MEG 56
+1 Shaymin DRI 10
+1 Fezandipiti ex SFA 38
+1 Fan Rotom SCR 118
+1 Psyduck MEP 7
+
+Trainer: 33
+3 Boss's Orders PR-SW 251
+3 Hilda WHT 164
+3 Dawn PFL 118
+1 Xerosic's Machinations SFA 89
+1 Miriam SVI 238
+1 Colress's Tenacity SFA 87
+1 Tulip PAR 244
+4 Buddy-Buddy Poffin TEF 144
+3 Rare Candy SVI 191
+2 Wondrous Patch PFL 94
+2 Night Stretcher SFA 61
+2 Enhanced Hammer TWM 148
+1 Great Ball PAL 183
+1 Ultra Ball SVI 196
+1 Counter Catcher PAR 160
+3 Battle Cage PFL 85
+1 Artazon PAL 171
+
+Energy: 5
+3 Basic {P} Energy SVE 5
+1 Enriching Energy SSP 191
+1 Jet Energy PAL 190
+
+Total Cards: 60

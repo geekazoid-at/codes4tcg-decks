@@ -1,0 +1,33 @@
+Pokémon: 5
+2 Rapid Strike Urshifu V BST 87
+2 Rapid Strike Urshifu VMAX BST 88
+1 Medicham V EVS 83
+4 Iron Valiant ex PAR 89
+2 Squawkabilly ex PAL 169
+
+Trainer: 19
+2 Ultra Ball SVI 196
+4 Switch CRZ 144
+2 Arven SVI 235
+4 Switch Cart ASR 154
+4 Escape Rope BST 125 PH
+2 Trekking Shoes CRZ 145
+1 Hisuian Heavy Ball ASR 146
+2 Future Booster Energy Capsule PAR 164
+4 Battle VIP Pass FST 225
+2 PokéStop PGO 68
+1 Technical Machine: Devolution PAR 177
+1 Super Rod PAL 188
+4 Professor's Research CEL 24
+2 Town Store OBF 196
+1 Cheryl BST 159
+2 Iono PAL 254
+1 Forest Seal Stone SIT 156
+2 Nest Ball SVI 181
+2 Techno Radar PAR 180
+
+Energy: 2
+4 Rapid Strike Energy BST 140
+2 Basic {F} Energy SVE 6 PH
+
+Total Cards: 60

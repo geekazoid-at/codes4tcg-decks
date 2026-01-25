@@ -1,0 +1,38 @@
+Pokémon: 18
+2 Gimmighoul SSP 97
+1 Gimmighoul PAR 88
+3 Gholdengo ex PAR 139
+2 Joltik SCR 50
+1 Galvantula SFA 2
+1 Galvantula ex SCR 51
+2 Iron Hands ex PAR 70
+1 Genesect ex BLK 67
+1 Pikachu ex SSP 57
+1 Miraidon ex SVI 81
+1 Fezandipiti ex SFA 38
+1 Latias ex SSP 76
+1 Bloodmoon Ursaluna ex TWM 141
+
+Trainer: 31
+4 Boss's Orders PR-SW 251
+4 Arven SVI 235
+3 Brock's Scouting JTG 179
+1 Penny SVI 239
+1 Team Rocket's Petrel DRI 226
+4 Pokégear 3.0 SVI 186
+3 Superior Energy Retrieval PAL 189
+2 Earthen Vessel PAR 163
+1 Nest Ball SVI 181
+1 Picnic Basket SVI 184
+1 Night Stretcher SFA 61
+1 Precious Trolley SSP 185
+2 Air Balloon BLK 79
+1 Bravery Charm PAL 173
+2 Levincia JTG 150
+
+Energy: 11
+4 Basic {G} Energy SVE 1
+4 Basic {L} Energy SVE 4
+3 Basic {M} Energy SVE 8
+
+Total Cards: 60

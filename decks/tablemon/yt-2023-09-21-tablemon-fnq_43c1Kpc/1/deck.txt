@@ -1,0 +1,31 @@
+Pokémon: 10
+3 Blastoise ex MEW 9
+2 Origin Forme Palkia V ASR 39
+2 Origin Forme Palkia VSTAR ASR 40
+1 Pidgeot ex OBF 164
+1 Radiant Greninja ASR 46
+1 Lumineon V BRS 40
+2 Bidoof CRZ 111
+3 Squirtle PGO 15
+1 Pidgey OBF 162
+2 Bibarel BRS 121
+
+Trainer: 13
+4 Ultra Ball SVI 196
+4 Irida ASR 186
+2 Switch SVI 194
+2 Boss's Orders RCL 189
+1 Battle VIP Pass FST 225
+4 Rare Candy SVI 191
+2 Superior Energy Retrieval PAL 189
+1 Super Rod PAL 188
+2 Artazon PAL 171
+4 Nest Ball SVI 181
+2 Letter of Encouragement OBF 189
+1 Energy Retrieval SVI 171
+2 Iono PAL 254
+
+Energy: 1
+11 Basic {W} Energy SVE 3 PH
+
+Total Cards: 60

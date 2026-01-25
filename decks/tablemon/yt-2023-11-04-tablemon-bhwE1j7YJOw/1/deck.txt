@@ -1,0 +1,29 @@
+Pokémon: 9
+1 Scyther MEW 123
+2 Bibarel BRS 121
+1 Gimmighoul PAR 88
+1 Manaphy BRS 41
+1 Radiant Greninja ASR 46
+1 Scizor OBF 141
+2 Bidoof CRZ 111
+3 Gimmighoul PAR 87
+4 Gholdengo ex PAR 139
+
+Trainer: 12
+3 Ultra Ball SVI 196
+1 Switch SVI 194
+3 Earthen Vessel PAR 163
+3 Energy Retrieval SVI 171
+4 Battle VIP Pass FST 225
+4 PokéStop PGO 68
+2 Worker SIT 195
+4 Superior Energy Retrieval PAL 189
+2 Iono PAL 254
+3 Nest Ball SVI 181
+2 Avery CRE 187
+2 Boss's Orders RCL 189
+
+Energy: 1
+11 Basic {M} Energy SVE 8 PH
+
+Total Cards: 60

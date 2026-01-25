@@ -1,0 +1,33 @@
+Pokémon: 6
+2 Munkidori TWM 95
+3 Mega Kangaskhan ex MEG 164
+3 Bouffalant SCR 119
+1 Psyduck MEP 7
+2 Cornerstone Mask Ogerpon ex TWM 112
+1 Bloodmoon Ursaluna ex TWM 141
+
+Trainer: 15
+1 Earthen Vessel PAR 163
+3 Crispin SCR 133
+2 Iono PAL 185
+2 Air Balloon BLK 79
+3 Boss's Orders MEG 114
+1 Night Stretcher SFA 61
+2 Technical Machine: Turbo Energize PAR 179
+3 Pokégear 3.0 SVI 186
+2 Penny SVI 183
+3 Nest Ball SVI 181
+1 Precious Trolley SSP 185
+4 Jumbo Ice Cream PFL 91
+2 Bravery Charm PAL 173
+2 Lively Stadium SSP 180
+4 Arven SVI 166
+
+Energy: 5
+2 Mist Energy TEF 161
+3 Basic {F} Energy SVE 14
+3 Basic {D} Energy SVE 15
+3 Basic {P} Energy SVE 13
+2 Jet Energy PAL 190
+
+Total Cards: 60

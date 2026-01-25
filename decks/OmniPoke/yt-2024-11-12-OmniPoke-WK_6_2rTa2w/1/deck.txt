@@ -1,0 +1,36 @@
+Pokémon: 10
+1 Lumineon V BRS 40
+4 Timburr TWM 103
+1 Tatsugiri TWM 131
+4 Conkeldurr TWM 105
+2 Gurdurr TWM 104
+1 Radiant Hisuian Sneasler LOR 123
+1 Fezandipiti ex SFA 38
+2 Brute Bonnet PAR 123
+1 Rotom V LOR 58
+1 Pecharunt PR-SV 149
+
+Trainer: 19
+3 Ultra Ball SVI 196
+3 Switch SVI 194
+4 Rare Candy SVI 191
+1 Counter Catcher PAR 160
+1 Hisuian Heavy Ball ASR 146
+2 Hassel TWM 151
+2 Iono PAL 185
+2 Night Stretcher SFA 61
+1 Super Rod PAL 188
+2 Town Store OBF 196
+1 Penny SVI 183
+1 Forest Seal Stone SIT 156
+4 Nest Ball SVI 181
+1 Rescue Board TEF 159
+2 Boss's Orders PAL 172 PH
+1 Precious Trolley SSP 185
+3 Binding Mochi SFA 55
+4 Ancient Booster Energy Capsule PAR 159
+4 Arven SVI 166
+
+Energy: 0
+
+Total Cards: 60

@@ -1,0 +1,36 @@
+Pokémon: 4
+1 Rotom V CRZ 45
+2 Mimikyu PAL 97
+1 Pidgeot V LOR 137
+4 Snorlax PGO 55
+
+Trainer: 25
+2 Boss's Orders RCL 189
+1 Hisuian Heavy Ball ASR 146
+4 Counter Catcher PAR 160
+2 Switch Cart ASR 154
+1 Iono PAL 254
+1 Cyllene ASR 183
+1 Giacomo PAL 252
+1 Team Yell's Cheer BRS 149
+1 Avery CRE 187
+1 Forest Seal Stone SIT 156
+2 Echoing Horn CRE 136
+1 Sidney FST 264
+4 Pokégear 3.0 SVI 186
+2 Pal Pad SVI 182
+4 Nest Ball SVI 181
+3 Temple of Sinnoh ASR 155
+1 Battle VIP Pass FST 225
+4 Bravery Charm PAL 173
+2 Peonia CRE 196
+1 Professor Turo's Scenario PAR 240
+4 Arven SVI 235
+2 Erika's Invitation MEW 196
+1 Super Rod PAL 188
+3 Penny SVI 239
+3 Miss Fortune Sisters LOR 194
+
+Energy: 0
+
+Total Cards: 60

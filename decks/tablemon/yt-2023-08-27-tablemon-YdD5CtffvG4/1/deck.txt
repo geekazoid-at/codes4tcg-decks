@@ -1,0 +1,33 @@
+Pokémon: 9
+1 Charmeleon OBF 27
+1 Mew CEL 11
+4 Charmander OBF 26
+2 Arceus VSTAR BRS 123
+2 Arceus V BRS 122
+1 Radiant Charizard CRZ 20
+2 Pidgeot ex OBF 164
+2 Pidgey OBF 162
+3 Charizard ex OBF 125
+
+Trainer: 15
+1 Magma Basin BRS 144
+1 Escape Rope BST 125
+1 Jacq SVI 175
+2 Nest Ball SVI 181
+1 Choice Belt PAL 176
+2 Artazon PAL 171
+4 Battle VIP Pass FST 225
+3 Boss's Orders PAL 172
+3 Iono PAL 185
+3 Colress's Experiment LOR 155
+1 Super Rod PAL 188
+1 Lost Vacuum CRZ 135
+4 Ultra Ball SVI 196
+1 Vitality Band SVI 197
+4 Rare Candy SVI 191
+
+Energy: 2
+8 Basic {R} Energy SVE 2
+2 Double Turbo Energy BRS 151
+
+Total Cards: 60

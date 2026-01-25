@@ -1,0 +1,36 @@
+Pokémon: 8
+2 Xatu PAR 72
+4 Drakloak TWM 129
+4 Dreepy TWM 128
+3 Dragapult ex TWM 130
+2 Natu PAF 25
+1 Manaphy BRS 41
+1 Radiant Alakazam SIT 59
+2 Rotom V CRZ 45
+
+Trainer: 19
+2 Ultra Ball SVI 196
+1 Switch SVI 194
+2 Rare Candy PAF 89
+4 Arven SVI 235
+3 Earthen Vessel PAR 163
+4 Buddy-Buddy Poffin TEF 144
+1 Counter Catcher PAR 160
+1 Hisuian Heavy Ball ASR 146
+2 Boss's Orders PR-SW 251
+1 Technical Machine: Devolution PAR 177
+1 Super Rod PAL 188
+1 Technical Machine: Evolution PAR 178
+3 Iono PAL 254
+1 Forest Seal Stone SIT 156
+1 Rescue Board TEF 159
+3 Nest Ball PAF 84
+1 Unfair Stamp TWM 165
+1 Collapsed Stadium BRS 137
+1 Enhanced Hammer GRI 124
+
+Energy: 2
+3 Basic {R} Energy SVE 2
+4 Basic {P} Energy SVE 5
+
+Total Cards: 60

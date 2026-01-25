@@ -1,0 +1,28 @@
+Pokémon: 11
+4 Roaring Moon ex PAR 124
+2 Pecharunt ex SFA 39
+2 Squawkabilly ex PAL 169
+1 Roaring Moon TEF 109
+1 Fezandipiti ex SFA 38
+1 Radiant Greninja ASR 46
+
+Trainer: 40
+4 Professor Sada's Vitality PAR 170
+2 Judge SVI 176
+1 Boss's Orders PAL 172
+4 Dark Patch ASR 139
+4 Earthen Vessel PAR 163
+4 Nest Ball SVI 181
+4 Ultra Ball SVI 196
+4 Trekking Shoes ASR 156
+4 Pokémon Catcher SVI 187
+2 Pokégear 3.0 SVI 186
+1 Prime Catcher TEF 157
+1 Night Stretcher SFA 61
+1 Pal Pad SVI 182
+4 PokéStop PGO 68
+
+Energy: 9
+9 Basic {D} Energy SVE 7
+
+Total Cards: 60

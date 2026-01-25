@@ -1,0 +1,36 @@
+Pokémon: 11
+1 Bloodmoon Ursaluna ex TWM 141
+1 Dusknoir PRE 37
+1 Munkidori TWM 95
+4 Dreepy TWM 128
+1 Hawlucha SVI 118
+1 Fezandipiti ex SFA 38
+4 Drakloak PRE 72
+2 Budew PRE 4
+2 Dusclops SFA 19
+3 Dragapult ex TWM 130
+2 Duskull PRE 35
+
+Trainer: 15
+3 Counter Catcher PAR 160
+1 Luxurious Cape PAR 166
+1 Unfair Stamp TWM 165
+2 Jacq SVI 175
+3 Night Stretcher SFA 61
+1 Artazon PAL 171
+2 Boss's Orders PAL 172
+4 Iono PAL 185
+2 Arven SVI 166
+2 Professor's Research JTG 155
+4 Buddy-Buddy Poffin TEF 144
+3 Ultra Ball SVI 196
+1 Switch SVI 194
+1 Rescue Board PRE 126
+1 Earthen Vessel PAR 163
+
+Energy: 3
+2 Basic {R} Energy SVE 10
+3 Luminous Energy PAL 191
+2 Basic {P} Energy SVE 13
+
+Total Cards: 60

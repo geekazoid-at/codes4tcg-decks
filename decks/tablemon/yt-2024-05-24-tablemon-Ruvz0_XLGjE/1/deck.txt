@@ -1,0 +1,31 @@
+Pokémon: 20
+3 Lugia V SIT 138
+3 Lugia VSTAR SIT 139
+4 Archeops SIT 147
+3 Minccino TEF 136
+3 Cinccino TEF 137
+1 Iron Hands ex PAR 70
+1 Wellspring Mask Ogerpon ex TWM 64
+1 Lumineon V BRS 40
+1 Bloodmoon Ursaluna ex TWM 141
+
+Trainer: 23
+4 Carmine TWM 204
+3 Iono PAL 254
+3 Boss's Orders PR-SW 251
+1 Professor's Research CRZ 150
+4 Ultra Ball SVI 196
+4 Capturing Aroma SIT 153
+1 Nest Ball PAF 84
+3 Mesagoza SVI 178
+
+Energy: 17
+4 Gift Energy LOR 171
+4 Jet Energy PAL 190
+3 Mist Energy TEF 161
+3 Double Turbo Energy BRS 151
+1 V Guard Energy SIT 169
+1 Legacy Energy TWM 167
+1 Basic {L} Energy SVE 4
+
+Total Cards: 60

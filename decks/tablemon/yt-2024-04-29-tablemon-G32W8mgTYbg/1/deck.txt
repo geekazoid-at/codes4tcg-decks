@@ -1,0 +1,27 @@
+Pokémon: 13
+4 Roaring Moon TEF 109
+3 Dunsparce TEF 128
+3 Dudunsparce TEF 129
+2 Roaring Moon ex PAR 124
+1 Radiant Greninja ASR 46
+
+Trainer: 38
+4 Explorer's Guidance TEF 200
+4 Professor Sada's Vitality PAR 239
+1 Boss's Orders PR-SW 251
+1 Penny SVI 239
+4 Dark Patch ASR 139
+4 Nest Ball PAF 84
+4 Earthen Vessel PAR 163
+3 Trekking Shoes CRZ 145
+2 Ultra Ball SVI 196
+2 Super Rod PAL 188
+1 Counter Catcher PAR 160
+1 Prime Catcher TEF 157
+4 Ancient Booster Energy Capsule TEF 140
+3 Artazon PAF 76
+
+Energy: 9
+9 Basic {D} Energy SVE 7
+
+Total Cards: 60

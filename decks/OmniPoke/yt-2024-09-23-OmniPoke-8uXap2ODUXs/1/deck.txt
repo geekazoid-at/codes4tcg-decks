@@ -1,0 +1,37 @@
+Pokémon: 10
+1 Rotom V LOR 58
+2 Drakloak TWM 129
+1 Lumineon V BRS 40
+4 Dreepy TWM 128
+1 Fezandipiti ex SFA 38
+2 Pidgeot ex OBF 164
+2 Pidgey OBF 162
+1 Manaphy BRS 41
+1 Radiant Alakazam SIT 59
+3 Dragapult ex TWM 130
+
+Trainer: 18
+2 Counter Catcher PAR 160
+1 Pokémon League Headquarters OBF 192
+1 Forest Seal Stone SIT 156
+2 Nest Ball SUM 123
+1 Night Stretcher SFA 61
+1 Temple of Sinnoh ASR 155
+2 Boss's Orders PAL 172
+3 Iono PAL 185
+4 Arven SVI 166
+1 Professor Turo's Scenario PAR 171
+1 Technical Machine: Devolution PAR 177
+1 Super Rod PAL 188
+1 Crispin SCR 133
+4 Buddy-Buddy Poffin TEF 144
+4 Ultra Ball SVI 196
+1 Sparkling Crystal SCR 142
+4 Rare Candy SVI 191
+2 Earthen Vessel PAR 163
+
+Energy: 2
+3 Basic {R} Energy SVE 10
+3 Basic {P} Energy SVE 13
+
+Total Cards: 60

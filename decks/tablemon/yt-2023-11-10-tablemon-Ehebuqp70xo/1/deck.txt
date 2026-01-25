@@ -1,0 +1,32 @@
+Pokémon: 7
+4 Comfey LOR 79
+2 Sableye LOR 70
+1 Manaphy BRS 41
+1 Radiant Greninja ASR 46
+1 Jirachi PAR 126
+2 Roaring Moon ex PAR 124
+2 Cramorant LOR 50
+
+Trainer: 14
+3 Switch Cart ASR 154
+3 Escape Rope BST 125
+2 Counter Catcher PAR 160
+1 Hisuian Heavy Ball ASR 146
+4 Battle VIP Pass FST 225
+3 Path to the Peak CRE 148
+1 Roxanne ASR 188
+2 Raihan EVS 202
+3 Super Rod PAL 188
+4 Mirage Gate LOR 163
+3 Nest Ball SVI 181
+1 Boss's Orders RCL 189
+4 Colress's Experiment LOR 190
+1 Beach Court SVI 167
+
+Energy: 4
+3 Basic {P} Energy SVE 5 PH
+4 Basic {D} Energy SVE 7 PH
+3 Basic {W} Energy SVE 3 PH
+2 Jet Energy PAL 190
+
+Total Cards: 60

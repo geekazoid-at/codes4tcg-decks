@@ -1,0 +1,34 @@
+Pokémon: 19
+4 Dreepy TWM 128
+3 Drakloak TWM 129
+3 Dragapult ex TWM 130
+4 Comfey LOR 79
+2 Cramorant LOR 50
+1 Sableye LOR 70
+1 Radiant Charizard CRZ 20
+1 Manaphy BRS 41
+
+Trainer: 33
+4 Colress's Experiment LOR 190
+2 Iono PAL 254
+2 Boss's Orders PR-SW 251
+4 Buddy-Buddy Poffin TEF 144
+4 Switch Cart ASR 154
+3 Mirage Gate LOR 163
+2 Nest Ball PAF 84
+2 Rare Candy PAF 89
+2 Switch SVI 194
+2 Super Rod PAL 188
+1 Pokégear 3.0 SVI 186
+1 Counter Catcher PAR 160
+1 Prime Catcher TEF 157
+1 Rescue Board TEF 159
+1 Artazon PAF 76
+1 Temple of Sinnoh ASR 155
+
+Energy: 8
+3 Basic {R} Energy SVE 2
+3 Basic {P} Energy SVE 5
+2 Jet Energy PAL 190
+
+Total Cards: 60

@@ -1,0 +1,36 @@
+Pokémon: 11
+4 Comfey LOR 79
+3 Giratina V LOR 130
+3 Giratina VSTAR LOR 131
+2 Shuppet SVI 87
+1 Banette ex SVI 88
+1 Banette LOR 73
+1 Sableye LOR 70
+1 Cramorant LOR 50
+1 Radiant Greninja ASR 46
+1 Manaphy BRS 41
+1 Iron Leaves ex TEF 25
+
+Trainer: 15
+4 Colress's Experiment LOR 155
+1 Boss's Orders PAL 172
+1 Roxanne ASR 150
+4 Mirage Gate LOR 163
+4 Nest Ball PAF 84
+3 Switch SVI 194
+2 Buddy-Buddy Poffin TEF 144
+2 Super Rod PAL 188
+1 Ultra Ball PAF 91
+1 Counter Catcher PAR 160
+1 Prime Catcher TEF 157
+1 Pokégear 3.0 SVI 186
+1 Forest Seal Stone SIT 156
+1 Temple of Sinnoh ASR 155
+1 Artazon PAF 76
+
+Energy: 3
+4 Basic {G} Energy SVE 1
+5 Basic {P} Energy SVE 5
+4 Jet Energy PAL 190
+
+Total Cards: 60

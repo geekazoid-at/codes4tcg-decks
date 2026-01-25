@@ -1,0 +1,38 @@
+Pokémon: 18
+3 Charmander OBF 26
+1 Charmander PAF 7
+1 Charmeleon PAF 8
+1 Charmeleon MEW 5
+3 Charizard ex PAF 54
+2 Bidoof CRZ 111
+2 Bibarel BRS 121
+1 Lumineon V BRS 40
+1 Entei V BRS 22
+1 Manaphy BRS 41
+1 Jirachi PAR 126
+1 Radiant Charizard CRZ 20
+
+Trainer: 34
+4 Arven OBF 186
+3 Iono PAF 80
+3 Boss's Orders PAL 172
+4 Buddy-Buddy Poffin TEF 144
+4 Ultra Ball PAF 91
+2 Nest Ball PAF 84
+2 Rare Candy PAF 89
+2 Super Rod PAL 188
+1 Counter Catcher PAR 160
+1 Lost Vacuum CRZ 135
+1 Switch SVI 194
+2 Technical Machine: Evolution PAR 178
+1 Technical Machine: Devolution PAR 177
+1 Forest Seal Stone SIT 156
+1 Maximum Belt TEF 154
+1 Artazon PAF 76
+1 Town Store OBF 196
+
+Energy: 8
+7 Basic {R} Energy SVE 2
+1 Jet Energy PAL 190
+
+Total Cards: 60

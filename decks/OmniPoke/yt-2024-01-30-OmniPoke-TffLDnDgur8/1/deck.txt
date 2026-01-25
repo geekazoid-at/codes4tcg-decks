@@ -1,0 +1,33 @@
+Pokémon: 6
+2 Galarian Moltres V CRE 97
+1 Morpeko PAR 121
+4 Roaring Moon ex PAR 124
+1 Mew ex MEW 151
+1 Radiant Greninja ASR 46
+1 Squawkabilly ex PAL 169
+
+Trainer: 19
+1 Switch Cart ASR 154
+1 Town Store OBF 196
+1 Escape Rope BST 125
+3 PokéStop PGO 68
+2 Forest Seal Stone SIT 156
+1 Judge SVI 176
+4 Energy Switch SVI 173
+1 Pal Pad SVI 182
+3 Professor's Research SVI 189
+2 Ancient Booster Energy Capsule PAR 159
+4 Battle VIP Pass FST 225
+1 Emergency Jelly SIT 155
+2 Boss's Orders PAL 172
+3 Ultra Ball BRS 150
+1 Iono PAL 185
+2 Professor Sada's Vitality PAR 170
+3 Trekking Shoes CRZ 145
+4 Dark Patch ASR 139
+2 Earthen Vessel PAR 163
+
+Energy: 1
+9 Basic {D} Energy SVE 7 PH
+
+Total Cards: 60

@@ -1,0 +1,36 @@
+Pokémon: 11
+1 Latias ex SSP 76
+1 Bloodmoon Ursaluna ex TWM 141
+1 Galvantula SFA 2
+1 Iron Leaves ex TEF 25
+2 Iron Hands ex PAR 70
+1 Fezandipiti ex SFA 38
+1 Mew ex MEW 151
+2 Joltik SCR 50
+2 Miraidon ex SVI 81
+2 Pikachu ex SSP 57
+1 Lillie's Clefairy ex JTG 56
+
+Trainer: 14
+1 Energy Switch SVI 173
+1 Prime Catcher TEF 157
+3 Pokégear 3.0 SVI 186
+1 Night Stretcher SFA 61
+1 Rescue Board TEF 159
+4 Nest Ball SVI 181
+4 Arven OBF 186
+1 Bravery Charm PAL 173
+4 Boss's Orders PAL 172
+4 Crispin SCR 133
+1 Future Booster Energy Capsule TEF 149
+4 Ultra Ball SVI 196
+1 Vitality Band SVI 197
+1 Earthen Vessel PAR 163
+
+Energy: 4
+5 Basic {L} Energy SVE 12
+5 Basic {G} Energy SVE 9
+2 Basic {P} Energy SVE 13
+2 Basic {M} Energy SVE 16
+
+Total Cards: 60

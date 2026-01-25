@@ -1,0 +1,29 @@
+Pokémon: 6
+4 Slaking ex SSP 147
+4 Greninja ex TWM 106
+3 Tatsugiri ex SSP 142
+1 Ditto MEW 132
+4 Pidgeot ex OBF 164
+4 Skeledirge ex PAR 137
+
+Trainer: 13
+1 Counter Catcher PAR 160
+4 Town Store OBF 196
+1 Energy Retrieval SVI 171
+4 Pokégear 3.0 SVI 186
+1 Nest Ball SVI 181
+1 Boss's Orders PAL 172
+2 Powerglass SFA 63
+2 Iono PAL 185
+4 Arven SVI 166
+4 Crispin SCR 133
+1 Switch SVI 194
+1 Sparkling Crystal SCR 142
+1 Earthen Vessel PAR 163
+
+Energy: 3
+6 Basic {R} Energy SVE 10
+3 Basic {D} Energy SVE 15
+4 Basic {W} Energy SVE 11
+
+Total Cards: 60

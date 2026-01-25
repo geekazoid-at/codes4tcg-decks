@@ -1,0 +1,29 @@
+Pokémon: 6
+3 Giratina V LOR 130
+4 Comfey LOR 79
+3 Giratina VSTAR LOR 131
+2 Sableye LOR 70
+1 Radiant Greninja ASR 46
+1 Cramorant LOR 50
+
+Trainer: 12
+3 Switch Cart ASR 154
+2 Escape Rope BST 125
+4 Battle VIP Pass FST 225
+2 Pokegear 3.0 
+3 Path to the Peak CRE 148
+2 Roxanne ASR 188
+2 Super Rod PAL 188
+4 Mirage Gate LOR 163
+1 Iono PAL 254
+3 Nest Ball SVI 181
+2 Boss's Orders RCL 189
+4 Colress's Experiment LOR 190
+
+Energy: 4
+3 Basic {W} Energy SVE 3
+3 Basic {G} Energy SVE 1
+4 Basic {P} Energy SVE 5
+4 Jet Energy PAL 190
+
+Total Cards: 60

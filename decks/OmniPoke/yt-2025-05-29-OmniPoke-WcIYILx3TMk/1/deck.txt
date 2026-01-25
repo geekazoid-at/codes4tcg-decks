@@ -1,0 +1,35 @@
+Pokémon: 11
+4 Drakloak TWM 129
+4 Dreepy TWM 128
+1 Munkidori TWM 95
+2 Dragapult ex TWM 130
+1 Fezandipiti ex SFA 38
+1 Chi-Yu PAR 29
+1 Charmeleon PAF 8
+1 Cleffa OBF 80
+2 Charizard ex OBF 125
+3 Charmander MEW 4
+1 Charmeleon MEW 5
+
+Trainer: 15
+3 Ultra Ball SVI 196
+4 Buddy-Buddy Poffin PRE 101
+1 Rare Candy SVI 191
+2 Counter Catcher PAR 160
+4 Iono PAL 185
+1 Night Stretcher SFA 61
+1 Super Rod PAL 188
+2 Technical Machine: Evolution PAR 178
+1 Pokémon League Headquarters OBF 192
+1 Nest Ball SVI 181
+1 Rescue Board TEF 159
+1 Unfair Stamp TWM 165
+1 Artazon PAL 171
+4 Arven SVI 166
+2 Boss's Orders PAL 172
+
+Energy: 2
+6 Basic {R} Energy SVE 10
+4 Luminous Energy PAL 191
+
+Total Cards: 60
