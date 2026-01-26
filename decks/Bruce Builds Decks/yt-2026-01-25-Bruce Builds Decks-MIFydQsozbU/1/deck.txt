@@ -1,0 +1,34 @@
+Pokémon: 20
+3 Coalossal TEF 95
+1 Fezandipiti ex SFA 38
+1 Mew ex MEW 151
+2 Armarouge PAF 15
+2 Ethan's Ho-Oh ex DRI 39
+3 Rolycoly TEF 93
+2 Charcadet OBF 43
+2 Carkol TEF 94
+4 Cinderace MEG 28
+
+Trainer: 27
+1 Heavy Baton TEF 151
+2 Pokégear 3.0 SVI 186
+2 Night Stretcher SFA 61
+2 Nest Ball SVI 181
+2 Artazon PAL 171
+1 Air Balloon BLK 79
+2 Arven SVI 166
+1 Superior Energy Retrieval PAL 189
+1 Earthen Vessel PRE 106
+4 Lillie's Determination MEG 119
+3 Ultra Ball MEG 131
+2 Rare Candy SVI 191
+2 Boss's Orders MEG 114
+1 Prime Catcher PRE 119
+1 Counter Catcher PAR 160
+
+Energy: 13
+9 Basic {R} Energy SVE 2
+1 Reversal Energy PAL 192
+3 Basic {F} Energy SVE 6
+
+Total Cards: 60
