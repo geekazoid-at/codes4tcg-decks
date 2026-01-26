@@ -1,0 +1,19 @@
+Pokémon: 6
+4 Oddish PAF 92
+2 Sinistcha ex TWM 210
+4 Teal Mask Ogerpon ex TWM 211
+4 Gloom PAF 93
+4 Vileplume PAF 94
+2 Poltchageist TWM 171
+
+Trainer: 5
+4 Lillie's Determination MEG 169
+4 Forest of Vitality MEG 117
+1 Scoop Up Cyclone TWM 162
+4 Bug Catching Set TWM 143
+4 Dawn PFL 118
+
+Energy: 1
+23 Basic {G} Energy MEE 1
+
+Total Cards: 60

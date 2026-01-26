@@ -1,0 +1,37 @@
+Pokémon: 12
+1 Dunsparce TEF 128
+3 Dudunsparce TEF 129
+2 Baxcalibur PAF 130
+2 Frigibax PAL 57
+2 Chien-Pao ex PAL 61
+2 Dunsparce PAL 156
+1 Fezandipiti ex SFA 38
+1 Regigigas PRE 86
+1 Frigibax PAF 17
+1 Wellspring Mask Ogerpon ex TWM 64
+1 Iron Hands ex PRE 31
+1 Arctibax PAF 129
+
+Trainer: 15
+1 Counter Catcher PAR 160
+4 Buddy-Buddy Poffin PRE 101
+2 Rare Candy SVI 191
+2 Lillie's Determination MEG 119
+1 Air Balloon BLK 79
+1 Boss's Orders MEG 114
+2 Artazon PAL 171
+4 Hilda WHT 84
+4 Arven SVI 166
+1 Night Stretcher SFA 61
+1 Super Rod PAL 188
+2 Nest Ball SVI 181
+1 Technical Machine: Evolution PAR 178
+2 Earthen Vessel PAR 163
+4 Superior Energy Retrieval PAL 189
+
+Energy: 3
+1 Basic {L} Energy GRI 168
+8 Basic {W} Energy CIN 124
+1 Enriching Energy SSP 191
+
+Total Cards: 60

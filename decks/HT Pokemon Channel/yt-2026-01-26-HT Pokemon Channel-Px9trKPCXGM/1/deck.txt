@@ -1,0 +1,29 @@
+Pokémon: 13
+4 Riolu MEG 76
+3 Mega Lucario ex MEG 77
+2 Raging Bolt ex TEF 123
+2 Lunatone MEG 74
+2 Solrock MEG 75
+
+Trainer: 37
+4 Fighting Gong MEG 116
+4 Premium Power Pro MEG 124
+4 Nest Ball PAF 84
+4 Ultra Ball MEG 131
+2 Night Stretcher SFA 61
+2 Earthen Vessel PRE 106
+1 Switch MEG 130
+1 Prime Catcher PRE 119
+2 Arven SVI 166
+4 Lillie's Determination MEG 119
+4 Boss's Orders MEG 114
+2 Iono PAL 185
+1 Professor Turo's Scenario PRE 121
+1 Gravity Mountain SSP 177
+1 Air Balloon BLK 79
+
+Energy: 10
+8 Basic {F} Energy SVE 6
+2 Basic {L} Energy SVE 4
+
+Total Cards: 60
