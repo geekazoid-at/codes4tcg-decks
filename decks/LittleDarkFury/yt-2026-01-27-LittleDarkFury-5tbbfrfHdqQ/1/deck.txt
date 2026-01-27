@@ -1,0 +1,33 @@
+Pokémon: 8
+1 Bloodmoon Ursaluna ex TWM 141
+1 Maractus JTG 8
+3 Snorunt TWM 51
+3 Eevee MEW 133
+3 Froslass TWM 53
+1 Budew PRE 4
+2 Glaceon ex PRE 26
+3 Munkidori PRE 44
+
+Trainer: 15
+4 Counter Catcher PAR 160
+4 Buddy-Buddy Poffin PRE 101
+1 Secret Box TWM 163
+4 Lillie's Determination MEG 119
+1 Pokégear 3.0 BLK 84
+4 Arven SVI 166
+2 Night Stretcher SFA 61
+2 Artazon PAL 171
+1 Air Balloon BLK 79
+3 Iono PAL 185
+1 Technical Machine: Devolution PAR 177
+2 Professor's Research JTG 155
+1 Technical Machine: Evolution PAR 178
+2 Crispin SCR 133
+1 Ultra Ball SVI 196
+
+Energy: 3
+4 Basic {D} Energy BUS 168
+1 Basic {G} Energy GRI 167
+5 Basic {W} Energy CIN 124
+
+Total Cards: 60
