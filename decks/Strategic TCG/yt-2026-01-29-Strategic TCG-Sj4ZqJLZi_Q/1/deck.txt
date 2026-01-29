@@ -1,0 +1,41 @@
+Pokémon: 15
+2 Slowking SCR 58
+1 Kyogre SHF 21
+1 Slowking SCR 58
+1 Ditto {*} LOT 154
+2 Xatu PAR 72
+4 Slowpoke HIF 12
+1 Fezandipiti ex SFA 38
+1 Reshiram SHF 17
+2 Natu RCL 76
+1 Guzzlord CEC 136
+1 Kyurem SFA 47
+1 Tapu Lele-GX SMALT 38
+1 Magcargo CES 24
+1 Yveltal SHF 46
+2 Oranguru BRS-TG 12
+
+Trainer: 17
+1 Hisuian Heavy Ball ASR 146
+1 Telescopic Sight VIV 203
+4 Lillie's Determination MEG 169
+1 Guzma BUS 143
+2 Artazon OBF 229
+1 Air Balloon MEG 166
+1 Max Rod PRE 116
+3 Buddy-Buddy Poffin MEG 167
+1 Rescue Stretcher SMALT 187
+2 Cynthia UPR 148
+1 Rosa CEC 236
+2 Ultra Ball PLF 122
+3 Night Stretcher MEG 173
+1 Raihan EVS 202
+1 Iono PAL 269
+1 Professor Turo's Scenario PAR 240
+2 Quick Ball SSH 216
+
+Energy: 2
+4 Jet Energy SSP 252
+6 Basic {P} Energy SUM 162
+
+Total Cards: 60

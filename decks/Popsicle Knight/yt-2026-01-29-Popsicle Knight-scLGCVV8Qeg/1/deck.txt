@@ -1,0 +1,33 @@
+Pokémon: 9
+1 Klefki SVI 96
+1 Shaymin DRI 10
+3 Mega Mawile ex MEG 94
+3 Dusclops SFA 19
+4 Duskull SFA 18
+1 Fezandipiti ex SFA 38
+1 Budew PRE 4
+1 Cleffa OBF 80
+4 Dusknoir SFA 20
+
+Trainer: 15
+3 Ultra Ball SVI 196
+3 Buddy-Buddy Poffin PRE 101
+3 Arven OBF 186
+1 Earthen Vessel PAR 163
+2 Crispin SCR 133
+4 Lillie's Determination MEG 119
+1 Counter Catcher PAR 160
+1 Grand Tree SCR 136
+2 Artazon PAF 76
+2 Night Stretcher SFA 61
+1 Penny SVI 183
+3 Nest Ball SVI 181
+1 Bravery Charm PAL 173
+1 Boss's Orders PAL 172
+4 Rare Candy MEG 125
+
+Energy: 2
+2 Basic {P} Energy SVE 13
+7 Basic {M} Energy SVE 16
+
+Total Cards: 60
