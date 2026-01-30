@@ -1,0 +1,33 @@
+Pokémon: 8
+4 Snom MEG 42
+2 Mega Froslass ex ASC 47
+3 Froslass TWM 53
+3 Frosmoth ASC 53
+4 Snorunt ASC 46
+2 Budew PRE 4
+1 Bloodmoon Ursaluna ex TWM 141
+1 Frosmoth MEG 43
+
+Trainer: 17
+2 Ultra Ball SVI 196
+2 Switch SVI 194
+4 Poké Pad ASC 198
+4 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+2 Counter Catcher PAR 160
+1 Fennel BLK 82
+2 Iono PAL 185
+2 Air Balloon BLK 79
+2 Tyme SSP 190
+2 Lucian TWM 157
+1 Technical Machine: Devolution PAR 177
+1 Night Stretcher SFA 61
+1 Super Rod PAL 188
+2 Harlequin WHT 83
+1 Prime Catcher TEF 157
+2 Surfing Beach MEG 129
+
+Energy: 1
+5 Basic {W} Energy SVE 3
+
+Total Cards: 60
