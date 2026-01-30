@@ -1,0 +1,26 @@
+Pokémon: 12
+4 Team Rocket's Murkrow DRI 127
+3 Team Rocket's Porygon DRI 153
+3 Team Rocket's PORYGON 2 DRI 154
+1 Team Rocket's Porygon-Z DRI 155
+1 Team Rocket's Mimikyu DRI 87
+
+Trainer: 32
+4 Team Rocket's Ariana DRI 171
+4 Team Rocket's Archer DRI 170
+4 Team Rocket's Giovanni DRI 174
+4 Team Rocket's Petrel DRI 176
+4 Team Rocket's Proton DRI 177
+4 Team Rocket's Transceiver DRI 178
+1 Miracle Headset SSP 183
+1 Sacred Ash DRI 168
+1 Night Stretcher SFA 61
+1 Pal Pad SVI 182
+4 Team Rocket's Factory DRI 173
+
+Energy: 8
+4 Ignition Energy WHT 86
+4 Team Rocket's Energy DRI 182
+Link to list: https://limitlesstcg.com/decks/list/jp/57582
+
+Total Cards: 60
