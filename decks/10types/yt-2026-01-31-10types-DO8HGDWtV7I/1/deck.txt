@@ -1,0 +1,37 @@
+Pokémon: 12
+3 Dratini OBF 157
+3 Dragonair ASC 151
+2 Mega Dragonite ex ASC 152
+3 Tynamo BLK 30
+3 Eelektrik BLK 31
+1 Mega Eelektross ex ASC 61
+1 Stunfisk ASC 62
+1 Zeraora TEF 57
+1 Tatsugiri TWM 131
+1 Shaymin DRI 10
+1 Zekrom ex BLK 34
+1 Fezandipiti ex SFA 38
+
+Trainer: 16
+4 Lillie's Determination MEG 119
+3 Iono PAL 185
+3 Boss's Orders MEG 114
+2 Crispin SCR 133
+3 Buddy-Buddy Poffin TEF 144
+3 Ultra Ball MEG 131
+2 Earthen Vessel PAR 163
+2 Poké Pad ASC 198
+1 Night Stretcher SFA 61
+1 Super Rod PAL 188
+1 Rare Candy MEG 125
+1 Technical Machine: Evolution PAR 178
+1 Air Balloon BLK 79
+1 Maximum Belt TEF 154
+1 Battle Cage PFL 85
+1 Town Store OBF 196
+
+Energy: 2
+6 Basic {L} Energy MEE 4
+3 Basic {W} Energy MEE 3
+
+Total Cards: 60
