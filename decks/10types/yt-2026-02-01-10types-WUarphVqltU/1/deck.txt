@@ -1,0 +1,29 @@
+Pokémon: 7
+2 Hop's Snorlax JTG 117
+1 Hop's Zacian ex JTG 111
+1 Latias ex SSP 76
+1 Fezandipiti ex ASC 142
+1 Hop's Cramorant JTG 138
+3 Hop's Pincurchin ex ASC 68
+1 Squawkabilly ex PAL 169
+
+Trainer: 14
+3 Boss's Orders ASC 183
+4 Hop's Choice Band JTG 148
+4 Hop's Bag JTG 147
+2 Night Stretcher ASC 196
+1 Super Rod PAL 188
+4 Electric Generator SVI 170
+1 Lillie's Determination ASC 192
+4 Nest Ball SUM 123
+1 Air Balloon BLK 79
+1 Technical Machine: Turbo Energize PAR 179
+3 Iono PAF 80
+3 Postwick JTG 154
+4 Arven SVI 166
+1 Counter Catcher PAR 160
+
+Energy: 1
+14 Basic {L} Energy MEE 4
+
+Total Cards: 60

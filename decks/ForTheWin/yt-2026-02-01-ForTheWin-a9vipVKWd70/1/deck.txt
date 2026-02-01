@@ -1,0 +1,28 @@
+Pokémon: 9
+4 Bayleef MEG 9
+2 Mega Meganium ex ASC 10
+3 Teal Mask Ogerpon ex PRE 12
+4 Chikorita ASC 8
+1 Toedscool PAR 16
+1 Fezandipiti ex SFA 38
+1 Toedscruel PAR 17
+2 Meganium MEG 10
+2 Budew ASC 16
+
+Trainer: 11
+4 Bug Catching Set PRE 102
+2 Poké Pad ASC 198
+2 Night Stretcher ASC 196
+4 Lillie's Determination MEG 119
+2 Boss's Orders MEG 114
+3 Energy Switch MEG 115
+3 Ultra Ball MEG 131
+4 Iono PAF 80
+1 Max Rod PRE 116
+2 Nest Ball SVI 181
+3 Forest of Vitality ASC 188
+
+Energy: 1
+10 Basic {G} Energy MEE 1
+
+Total Cards: 60

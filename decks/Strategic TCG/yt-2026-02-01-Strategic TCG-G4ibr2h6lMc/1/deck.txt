@@ -1,0 +1,35 @@
+Pokémon: 10
+1 Budew PRE 4
+4 Swinub JTG 77
+3 Mamoswine ex JTG 174
+1 Pidgeot ex OBF 225
+1 Pidgeotto TEU 123
+3 Archen UNM 120
+2 Piloswine JTG 78
+1 Fezandipiti ex SFA 92
+2 Archeops PR-SW 272
+1 Pidgey MEW 16
+
+Trainer: 15
+2 Rock Chestplate SVI 192
+2 Boss's Orders PAL 265
+4 Arven PAF 235
+1 Grand Tree SCR 136
+2 Premium Power Pro MEG 174
+3 Iono PAL 269
+1 Field Blower SMALT 44
+1 Air Balloon SSH 213
+4 Buddy-Buddy Poffin TWM 223
+2 Evolution Incense SSH 163
+2 Rare Candy GRI 165
+2 Stadium Nav UNM 208
+3 Pokémon Research Lab UNM 205
+2 Max Potion SMALT 45
+1 Nest Ball SVI 255
+
+Energy: 3
+1 Mist Energy TEF 161
+4 Aurora Energy SSH 186
+4 Stone {F} Energy VIV 164
+
+Total Cards: 60
