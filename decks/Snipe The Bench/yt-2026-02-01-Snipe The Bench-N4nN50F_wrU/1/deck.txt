@@ -1,0 +1,35 @@
+Pokémon: 9
+3 Snorunt ASC 46
+1 Fezandipiti ex SFA 92
+2 Lampent WHT 102
+1 Mega Froslass ex ASC 275
+4 Chandelure TWM 38
+2 Budew PRE 4
+4 Litwick TWM 36
+1 Shaymin DRI 10
+1 Mega Froslass ex ASC 265
+
+Trainer: 16
+1 Counter Catcher PAR 160
+4 Lillie's Determination MEG 184
+1 Rigid Band MEW 165
+1 Super Rod PAL 276
+1 Air Balloon MEG 166
+3 Buddy-Buddy Poffin MEG 167
+2 Dawn PFL 129
+3 Poké Pad ASC 198
+3 Arven PAF 235
+3 Night Stretcher ASC 196
+3 Boss's Orders PAL 265
+1 Mega Signal MEG 171
+3 Rare Candy MEG 175
+2 Hilda WHT 171
+1 Brave Bangle WHT 80
+2 Battle Cage PFL 85
+
+Energy: 3
+1 Legacy Energy TWM 167
+2 Basic {W} Energy SVE 3
+4 Basic {R} Energy SVE 2
+
+Total Cards: 60
