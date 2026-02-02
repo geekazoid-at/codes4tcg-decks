@@ -1,0 +1,37 @@
+Pokémon: 10
+4 Totodile TEF 39
+1 Feraligatr TEF 41
+1 Relicanth TEF 84
+2 Pidgeotto MEW 17
+2 Pidgeot ex OBF 164
+2 Mega Feraligatr ex ASC 43
+1 Budew PRE 4
+3 Croconaw TEF 40
+2 Munkidori PRE 44
+2 Pidgey MEW 16
+
+Trainer: 17
+1 Earthen Vessel PRE 106
+2 Rare Candy PAF 89
+1 Air Balloon ASC 181
+2 Poké Pad ASC 198
+2 Night Stretcher ASC 196
+1 Exp. Share SVI 174
+2 Crispin SCR 133
+3 Lillie's Determination MEG 119
+2 Boss's Orders MEG 114
+1 Artazon PAF 76
+4 Buddy-Buddy Poffin PRE 101
+1 Technical Machine: Evolution PAR 178
+2 Iono PAF 80
+1 Surfing Beach MEG 129
+1 Ultra Ball ASC 213
+4 Arven SVI 166
+2 Hilda WHT 84
+
+Energy: 3
+4 Basic {W} Energy SVE 3
+3 Basic {D} Energy SVE 7
+1 Neo Upper Energy TEF 162
+
+Total Cards: 60

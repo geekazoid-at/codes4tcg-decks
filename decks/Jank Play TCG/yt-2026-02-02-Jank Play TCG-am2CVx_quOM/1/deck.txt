@@ -1,0 +1,29 @@
+Pokémon: 8
+3 Heliolisk ASC 64
+2 Drakloak TWM 129
+2 Tatsugiri TWM 131
+2 Eelektrik BLK 31
+4 Helioptile ASC 63
+2 Dreepy ASC 158
+1 Heliolisk ASC 229
+2 Tynamo BLK 30
+
+Trainer: 13
+3 Buddy-Buddy Poffin ASC 184
+1 Canari ASC 185
+2 Air Balloon ASC 181
+4 Poké Pad ASC 198
+2 Exp. Share SVI 174
+4 Lillie's Determination ASC 192
+2 Counter Catcher PAR 160
+2 Canari ASC 257
+3 Super Rod PAL 188
+1 Levincia JTG 150
+2 Pal Pad SVI 182
+1 Canari ASC 291
+4 Electric Generator PAF 79
+
+Energy: 1
+11 Basic {L} Energy SVE 12
+
+Total Cards: 60
