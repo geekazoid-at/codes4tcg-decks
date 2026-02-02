@@ -1,0 +1,36 @@
+Pokémon: 25
+1 Latias ex SSP 76
+2 Terapagos ex SCR 128
+4 Noivern JTG 128
+4 Noibat JTG 127
+4 Hoothoot SCR 114
+4 Noctowl SCR 115
+2 Fan Rotom SCR 118
+4 Oranguru SSP 156
+
+Trainer: 28
+1 Counter Catcher PAR 160
+4 Judge SVI 176
+1 Maximum Belt TEF 154
+1 Pokégear 3.0 SVI 186
+1 Night Stretcher SFA 61
+1 Pal Pad SVI 182
+2 Nest Ball SVI 181
+1 Air Balloon BLK 79
+2 Arven SVI 166
+1 Colress's Tenacity SFA 57
+4 Buddy-Buddy Poffin PRE 101
+2 Area Zero Underdepths SCR 131
+1 Crispin SCR 133
+2 Gravity Gemstone SCR 137
+4 Iono PAF 80
+
+Energy: 7
+1 Jet Energy PAL 190
+1 Basic {M} Energy SVE 8
+1 Basic {P} Energy SVE 5
+1 Basic {L} Energy SVE 4
+1 Basic {R} Energy SVE 2
+2 Ignition Energy WHT 86
+
+Total Cards: 60
