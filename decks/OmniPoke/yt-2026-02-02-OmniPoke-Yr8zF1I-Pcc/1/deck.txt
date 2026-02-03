@@ -1,0 +1,30 @@
+Pokémon: 11
+4 Slowpoke SVI 42
+2 Kyurem SFA 47
+1 Drifblim SVI 90
+3 Slowking SCR 58
+1 Conkeldurr TWM 105
+2 Xatu PAR 72
+1 Regigigas PRE 86
+1 Haxorus BLK 70
+1 Fezandipiti ex ASC 142
+2 Natu PAR 71
+1 Tatsugiri TWM 131
+
+Trainer: 10
+4 Academy at Night SFA 54
+1 Max Rod PRE 116
+4 Nest Ball SVI 181
+1 Ultra Ball ASC 213
+4 Poké Pad ASC 198
+4 Night Stretcher ASC 196
+4 Lillie's Determination ASC 192
+1 Hassel TWM 151
+4 Ciphermaniac's Codebreaking TEF 145
+4 Buddy-Buddy Poffin ASC 184
+
+Energy: 2
+4 Jet Energy PAL 190
+6 Basic {P} Energy MEE 5
+
+Total Cards: 60
