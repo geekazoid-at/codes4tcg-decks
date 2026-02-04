@@ -1,0 +1,37 @@
+Pokémon: 9
+2 Snorunt ASC 46
+2 Croconaw TEF 40
+1 Psyduck MEP 7
+3 Totodile TEF 39
+2 Munkidori TWM 95
+2 Mega Feraligatr ex ASC 43
+1 Fezandipiti ex SFA 38
+2 Froslass TWM 53
+2 Budew PRE 4
+
+Trainer: 17
+2 Counter Catcher PAR 160
+1 Counter Gain SSP 169
+1 Night Stretcher SFA 61
+2 Pokégear 3.0 BLK 84
+2 Poké Pad ASC 198
+2 Artazon PAL 171
+1 Air Balloon BLK 79
+3 Iono PAL 185
+4 Arven SVI 166
+1 Hilda WHT 84
+1 Super Rod PAL 188
+2 Crispin SCR 133
+4 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+2 Ultra Ball SVI 196
+2 Rare Candy SVI 191
+1 Earthen Vessel PAR 163
+
+Energy: 4
+1 Luminous Energy PAL 191
+3 Basic {D} Energy MEE 7
+3 Basic {W} Energy MEE 3
+1 Neo Upper Energy TEF 162
+
+Total Cards: 60

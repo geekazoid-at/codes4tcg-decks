@@ -1,0 +1,33 @@
+Pokémon: 10
+3 Eelektrik ASC 60
+3 Dratini OBF 157
+3 Tynamo ASC 59
+1 Mega Eelektross ex ASC 61
+1 Tatsugiri TWM 131
+1 Fezandipiti ex ASC 142
+2 Mega Dragonite ex ASC 152
+2 Dragonair ASC 151
+1 Wellspring Mask Ogerpon ex TWM 64
+1 Zeraora DRI 78
+
+Trainer: 14
+4 Buddy-Buddy Poffin ASC 184
+2 Boss's Orders ASC 183
+1 Air Balloon ASC 181
+2 Poké Pad ASC 198
+4 Arven OBF 186
+1 Night Stretcher ASC 196
+3 Earthen Vessel PAR 163
+2 Lillie's Determination ASC 192
+2 Iono PAL 185
+1 Technical Machine: Evolution PAR 178
+4 Professor's Research JTG 155
+1 Maximum Belt TEF 154
+3 Ultra Ball ASC 213
+1 Rare Candy MEG 125
+
+Energy: 2
+8 Basic {L} Energy MEE 4
+3 Basic {W} Energy MEE 3
+
+Total Cards: 60

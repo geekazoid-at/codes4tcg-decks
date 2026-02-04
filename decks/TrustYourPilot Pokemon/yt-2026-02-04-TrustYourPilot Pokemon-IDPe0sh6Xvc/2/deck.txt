@@ -1,0 +1,36 @@
+Pokémon: 9
+1 Emolga TWM 69
+2 Croconaw TEF 40
+3 Totodile TEF 39
+2 Munkidori TWM 95
+1 Bruxish SSP 49
+2 Mega Feraligatr ex ASC 43
+1 Fezandipiti ex SFA 38
+1 Psyduck ASC 39
+1 Mr. Mime MEW 122
+
+Trainer: 17
+2 Counter Catcher PAR 160
+2 Town Store OBF 196
+2 Team Rocket's Venture Bomb DRI 179
+1 Counter Gain SSP 169
+1 Night Stretcher SFA 61
+3 Poké Pad ASC 198
+1 Mega Signal ASC 193
+1 Boss's Orders PAL 172
+2 Air Balloon BLK 79
+3 Iono PAL 185
+4 Arven SVI 166
+2 Technical Machine: Turbo Energize PAR 179
+1 Super Rod PAL 188
+3 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+1 Ultra Ball SVI 196
+2 Rare Candy SVI 191
+
+Energy: 3
+2 Basic {D} Energy MEE 7
+8 Basic {W} Energy MEE 3
+1 Neo Upper Energy TEF 162
+
+Total Cards: 60

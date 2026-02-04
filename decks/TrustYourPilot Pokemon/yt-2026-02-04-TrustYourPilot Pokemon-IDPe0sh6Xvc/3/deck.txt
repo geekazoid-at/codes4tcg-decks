@@ -1,0 +1,35 @@
+Pokémon: 8
+1 Emolga TWM 69
+2 Croconaw TEF 40
+2 Maractus JTG 8
+3 Totodile TEF 39
+2 Munkidori TWM 95
+2 Mega Feraligatr ex ASC 43
+1 Fezandipiti ex SFA 38
+1 Psyduck ASC 39
+
+Trainer: 17
+2 Counter Catcher PAR 160
+1 Counter Gain SSP 169
+1 Night Stretcher SFA 61
+1 Mega Signal MEG 121
+2 Nest Ball SVI 181
+2 Risky Ruins MEG 127
+2 Poké Pad ASC 198
+1 Boss's Orders PAL 172
+2 Air Balloon BLK 79
+4 Iono PAL 185
+4 Arven SVI 166
+3 Technical Machine: Turbo Energize PAR 179
+1 Super Rod PAL 188
+2 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+1 Ultra Ball SVI 196
+2 Rare Candy SVI 191
+
+Energy: 3
+2 Basic {D} Energy MEE 7
+8 Basic {W} Energy MEE 3
+1 Neo Upper Energy TEF 162
+
+Total Cards: 60

@@ -1,0 +1,37 @@
+Pokémon: 8
+4 Team Rocket's Spidops DRI 20
+1 Team Rocket's Articuno DRI 51
+1 Team Rocket's Sneasel DRI 128
+1 Team Rocket's Wobbuffet DRI 82
+4 Team Rocket's Tarountula DRI 19
+1 Team Rocket's Mimikyu DRI 87
+2 Team Rocket's Mewtwo ex DRI 81
+1 Team Rocket's Zapdos DRI 70
+
+Trainer: 17
+1 Team Rocket's Archer ASC 201
+1 Secret Box TWM 163
+4 Team Rocket's Ariana DRI 171
+2 Energy Switch MEG 115
+1 Team Rocket's Proton DRI 227
+3 Earthen Vessel PRE 106
+1 Bravery Charm PAL 173
+2 Team Rocket's Factory DRI 173
+4 Team Rocket's Transceiver DRI 178
+2 Night Stretcher ASC 196
+3 Ultra Ball ASC 213
+1 Team Rocket's Petrel ASC 207
+3 Team Rocket's Giovanni DRI 174
+3 Team Rocket's Proton DRI 177
+1 Brave Bangle WHT 80
+1 Pokégear 3.0 SVI 186
+2 Team Rocket's Watchtower ASC 210
+
+Energy: 5
+3 Basic {G} Energy SVE 1
+4 Team Rocket's Energy DRI 182
+1 Basic {P} Energy MEE 5
+1 Basic {L} Energy MEE 4
+1 Basic {W} Energy MEE 3
+
+Total Cards: 60

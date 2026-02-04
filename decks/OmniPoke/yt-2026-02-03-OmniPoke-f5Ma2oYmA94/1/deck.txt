@@ -1,0 +1,33 @@
+Pokémon: 9
+1 Bloodmoon Ursaluna ex TWM 141
+4 Timburr BLK 47
+3 Dudunsparce TEF 129
+2 Brute Bonnet PAR 123
+1 Gurdurr BLK 48
+3 Conkeldurr TWM 105
+4 Dunsparce PAL 156
+2 Fan Rotom SCR 118
+1 Shaymin DRI 10
+
+Trainer: 15
+1 Town Store OBF 196
+1 Premium Power Pro MEG 124
+4 Rare Candy MEG 125
+1 Ultra Ball ASC 213
+4 Poké Pad ASC 198
+2 Artazon PAL 171
+2 Arven OBF 186
+3 Colress's Tenacity SFA 57
+2 Binding Mochi SFA 55
+1 Sacred Ash DRI 168
+4 Hilda WHT 84
+3 Ancient Booster Energy Capsule TEF 140
+4 Buddy-Buddy Poffin TEF 144
+2 Boss's Orders MEG 114
+1 Gravity Mountain SSP 177
+
+Energy: 2
+3 Jet Energy PAL 190
+1 Enriching Energy SSP 191
+
+Total Cards: 60

@@ -1,0 +1,39 @@
+Pokémon: 10
+4 Totodile TEF 39
+1 Klefki SVI 96
+2 Feraligatr TEF 41
+2 Relicanth TEF 84
+3 Munkidori TWM 95
+1 Tatsugiri TWM 131
+2 Mega Feraligatr ex ASC 43
+3 Croconaw TEF 40
+1 Psyduck MEP 7
+1 Mimikyu PAL 97
+
+Trainer: 19
+1 Ultra Ball SVI 196
+2 Poké Pad ASC 198
+1 Counter Gain SSP 169
+1 Rare Candy SVI 191
+1 Earthen Vessel PAR 163
+1 Buddy-Buddy Poffin TEF 144
+2 Crispin SCR 133
+2 Counter Catcher PAR 160
+4 Lillie's Determination MEG 119
+3 Iono PAL 185
+2 Air Balloon BLK 79
+1 Night Stretcher SFA 61
+1 Super Rod PAL 188
+1 Technical Machine: Turbo Energize PAR 179
+1 Technical Machine: Evolution PAR 178
+1 Precious Trolley SSP 185
+1 Artazon PAL 171
+1 Boss's Orders PAL 172
+4 Arven SVI 166
+
+Energy: 3
+4 Basic {D} Energy MEE 7
+4 Basic {W} Energy MEE 3
+1 Luminous Energy PAL 191
+
+Total Cards: 60
