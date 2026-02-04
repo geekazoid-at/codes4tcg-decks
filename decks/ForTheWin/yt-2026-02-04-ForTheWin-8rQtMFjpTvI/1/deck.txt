@@ -1,0 +1,27 @@
+Pokémon: 8
+2 Genesect ex BLK 67
+1 Fezandipiti ex SFA 38
+3 Beldum TEF 113
+3 Metang TEF 114
+1 Metagross TEF 115
+4 Kingambit ASC 148
+4 Pawniard ASC 146
+2 Bisharp ASC 147
+
+Trainer: 11
+1 Counter Catcher PAR 160
+4 Nest Ball PAF 84
+1 Prime Catcher TEF 157
+1 Poké Pad ASC 198
+2 Super Rod PAL 188
+3 Brave Bangle WHT 80
+4 Buddy-Buddy Poffin ASC 184
+4 Lillie's Determination MEG 119
+4 Iono PAF 80
+2 Boss's Orders MEG 114
+4 Rare Candy SVI 191
+
+Energy: 1
+10 Basic {M} Energy SVE 16
+
+Total Cards: 60

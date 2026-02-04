@@ -1,0 +1,38 @@
+Pokémon: 10
+3 Snorunt ASC 46
+1 Shaymin DRI 10
+1 Budew PRE 4
+1 N's Vanilluxe ASC 51
+3 Froslass TWM 53
+2 Munkidori PRE 44
+3 Uxie SSP 78
+1 N's Vanillish ASC 50
+2 N's Vanillite ASC 49
+1 Mega Froslass ex ASC 47
+
+Trainer: 17
+2 Counter Gain ASC 186
+4 Lillie's Determination MEG 119
+1 Town Store OBF 196
+1 Neutralization Zone SFA 60
+1 Artazon PAF 76
+1 Air Balloon ASC 181
+1 Rare Candy PAF 89
+1 Earthen Vessel PRE 106
+2 Buddy-Buddy Poffin PRE 101
+1 Pokégear 3.0 BLK 84
+4 Poké Pad ASC 198
+2 Night Stretcher SFA 61
+4 Iono SVALT 75
+1 Technical Machine: Devolution PAR 177
+3 Counter Catcher PAR 160
+1 Professor's Research PRE 124
+4 Arven SVI 166
+
+Energy: 4
+1 Basic {D} Energy BUS 168
+1 Basic {W} Energy CIN 124
+4 Luminous Energy PAL 191
+2 Basic {P} Energy SUM 162
+
+Total Cards: 60

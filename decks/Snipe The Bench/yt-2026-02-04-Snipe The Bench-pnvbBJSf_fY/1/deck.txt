@@ -1,0 +1,32 @@
+Pokémon: 8
+1 Bloodmoon Ursaluna ex TWM 141
+2 Erika's Tangela ASC 7
+3 Erika's Vileplume ex ASC 3
+3 Erika's Gloom ASC 2
+4 Erika's Oddish ASC 1
+2 Munkidori PRE 44
+1 Shaymin DRI 10
+1 Psyduck ASC 39
+
+Trainer: 15
+3 Forest of Vitality MEG 117
+1 Counter Catcher PAR 160
+1 Secret Box TWM 163
+1 Nest Ball PAF 84
+4 Poké Pad ASC 198
+2 Night Stretcher ASC 196
+1 Air Balloon BLK 79
+3 Iono PAL 185
+3 Arven SVI 166
+2 Technical Machine: Turbo Energize PAR 179
+4 Bug Catching Set PRE 102
+1 Crispin SCR 133
+4 Lillie's Determination MEG 119
+1 Switch SVI 194
+2 Boss's Orders MEG 114
+
+Energy: 2
+7 Basic {G} Energy SVE 9
+3 Basic {D} Energy SVE 15
+
+Total Cards: 60

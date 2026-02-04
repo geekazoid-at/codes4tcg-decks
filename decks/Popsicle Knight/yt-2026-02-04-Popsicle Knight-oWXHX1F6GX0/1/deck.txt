@@ -1,0 +1,37 @@
+Pokémon: 10
+1 Maractus JTG 8
+1 Munkidori TWM 95
+2 Weezing MEW 110
+3 Galarian Obstagoon ASC 132
+2 Koffing JTG 91
+1 Spiritomb MEG 87
+2 Galarian Linoone ASC 131
+2 Cleffa OBF 80
+1 Shaymin DRI 10
+3 Galarian Zigzagoon ASC 130
+
+Trainer: 16
+1 Counter Catcher PAR 160
+2 Punk Helmet PFL 92
+1 Vengeful Punch OBF 197
+1 Janine's Secret Art PRE 112
+2 Energy Switch SVI 173
+2 Risky Ruins MEG 127
+3 Poké Pad ASC 198
+1 Night Stretcher ASC 196
+2 Arven SVI 166
+1 Super Rod PAL 188
+1 Colress's Tenacity SFA 57
+1 Grand Tree SCR 136
+4 Buddy-Buddy Poffin ASC 184
+4 Lillie's Determination MEG 119
+1 Boss's Orders ASC 183
+3 Rare Candy SVI 191
+
+Energy: 4
+3 Reversal Energy PAL 192
+6 Basic {D} Energy MEE 7
+2 Spiky Energy JTG 159
+1 Mist Energy TEF 161
+
+Total Cards: 60
