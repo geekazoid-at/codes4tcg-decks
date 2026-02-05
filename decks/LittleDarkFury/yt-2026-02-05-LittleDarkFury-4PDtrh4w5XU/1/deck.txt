@@ -1,0 +1,34 @@
+Pokémon: 11
+1 Meganium MEG 10
+2 Erika's Tangela ASC 7
+2 Erika's Victreebel ASC 6
+2 Erika's Weepinbell ASC 5
+2 Erika's Bellsprout ASC 4
+3 Erika's Vileplume ex ASC 3
+2 Erika's Gloom ASC 2
+4 Erika's Oddish ASC 1
+1 Bayleef MEG 9
+1 Chikorita MEG 8
+1 Erika's Gloom ASC 2
+
+Trainer: 14
+3 Forest of Vitality MEG 117
+4 Bug Catching Set TWM 143
+3 Buddy-Buddy Poffin PRE 101
+2 Boss's Orders MEG 114
+1 Night Stretcher SFA 61
+4 Arven SVI 166
+1 Poké Pad ASC 198
+1 Super Rod PAL 188
+1 Technical Machine: Turbo Energize PAR 179
+1 Colress's Tenacity SFA 57
+1 Air Balloon BLK 79
+4 Lillie's Determination MEG 119
+2 Professor's Research PRE 122
+2 Iono PAF 80
+
+Energy: 2
+8 Basic {G} Energy GRI 167
+1 Neo Upper Energy TEF 162
+
+Total Cards: 60

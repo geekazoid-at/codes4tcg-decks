@@ -1,0 +1,36 @@
+Pokémon: 12
+2 Pignite WHT 12
+1 Latias ex SSP 76
+2 Pidgey MEW 16
+4 Tepig WHT 11
+1 Fezandipiti ex SFA 38
+1 Emboar WHT 13
+2 Mega Emboar ex ASC 31
+1 Pidgeotto MEW 17
+1 Budew PRE 4
+2 Oricorio ex PFL 18
+2 Pidgeot ex OBF 164
+1 Moltres PFL 14
+
+Trainer: 16
+1 Black Belt's Training JTG 143
+1 Maximum Belt PRE 117
+2 Nest Ball SVI 181
+2 Poké Pad ASC 198
+1 Mega Signal ASC 193
+4 Arven SVI 166
+1 Technical Machine: Evolution PAR 178
+1 Super Rod PAL 188
+3 Buddy-Buddy Poffin ASC 184
+4 Lillie's Determination MEG 119
+1 Iono PAF 80
+1 Ultra Ball MEG 131
+1 Professor Turo's Scenario PRE 121
+4 Rare Candy SVI 191
+2 Earthen Vessel PRE 106
+2 Artazon PAF 76
+
+Energy: 1
+9 Basic {R} Energy MEE 2
+
+Total Cards: 60
