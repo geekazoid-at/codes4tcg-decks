@@ -1,0 +1,26 @@
+Pokémon: 7
+2 Team Rocket's Articuno DRI 51
+2 Team Rocket's PORYGON 2 DRI 154
+4 Team Rocket's Honchkrow ASC 127
+1 Team Rocket's Porygon-Z DRI 155
+3 Team Rocket's Porygon DRI 153
+1 Team Rocket's Mimikyu DRI 87
+4 Team Rocket's Murkrow DRI 127
+
+Trainer: 10
+1 Miracle Headset SSP 183
+4 Team Rocket's Archer DRI 170
+4 Team Rocket's Petrel DRI 176
+4 Team Rocket's Giovanni DRI 174
+4 Poké Pad ASC 198
+2 Night Stretcher ASC 196
+4 Team Rocket's Factory DRI 173
+4 Team Rocket's Transceiver DRI 178
+4 Team Rocket's Ariana DRI 171
+4 Team Rocket's Proton DRI 177
+
+Energy: 2
+4 Ignition Energy WHT 86
+4 Team Rocket's Energy DRI 182
+
+Total Cards: 60
