@@ -1,0 +1,25 @@
+Pokémon: 5
+3 Erika's Tangela ASC 7
+4 Erika's Victreebel ASC 6
+4 Erika's Weepinbell ASC 5
+4 Erika's Bellsprout ASC 4
+1 Erika's Tangela ASC 218
+
+Trainer: 11
+3 Crispin PRE 105
+4 Poké Pad ASC 198
+4 Forest of Vitality ASC 188
+4 Lillie's Determination ASC 192
+1 Precious Trolley SSP 185
+3 Kofu SCR 138
+3 Super Rod PAL 188
+2 Boss's Orders ASC 183
+3 Colress's Tenacity SFA 57
+4 Bug Catching Set TWM 143
+4 Morty's Conviction TEF 155
+
+Energy: 2
+5 Basic {G} Energy SVE 1
+4 Basic {W} Energy MEE 3
+
+Total Cards: 60
