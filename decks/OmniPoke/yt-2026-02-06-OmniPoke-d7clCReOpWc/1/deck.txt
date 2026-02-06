@@ -1,0 +1,32 @@
+Pokémon: 6
+4 Toxel PFL 67
+3 Munkidori PRE 44
+1 Fezandipiti ex ASC 142
+4 Toxtricity PFL 68
+3 Brute Bonnet TWM 118
+1 Psyduck ASC 39
+
+Trainer: 18
+1 Counter Catcher PAR 160
+1 Secret Box TWM 163
+1 Exp. Share SVI 174
+1 Energy Search BCR 128
+1 Energy Recycler DRI 164
+1 Nest Ball SVI 181
+3 Poké Pad ASC 198
+2 Artazon PAL 171
+4 Arven OBF 186
+4 Lillie's Determination ASC 192
+2 Air Balloon BLK 79
+2 Iono PAL 185
+2 Technical Machine: Evolution PAR 178
+3 Super Rod PAL 188
+2 Buddy-Buddy Poffin ASC 184
+1 Ultra Ball MEG 131
+2 Boss's Orders MEG 114
+2 Energy Switch MEG 115
+
+Energy: 1
+9 Basic {D} Energy SVE 15
+
+Total Cards: 60

@@ -1,0 +1,29 @@
+Pokémon: 20
+4 Teal Mask Ogerpon ex TWM 25
+3 Chikorita ASC 8
+2 Bayleef ASC 9
+1 Bayleef MEG 9
+2 Meganium MEG 10
+2 Mega Meganium ex ASC 10
+2 Hoothoot PRE 77
+2 Noctowl SCR 115
+1 Fezandipiti ex ASC 142
+1 Fan Rotom ASC 171
+
+Trainer: 29
+4 Dawn PFL 87
+3 Lillie's Determination MEG 119
+3 Boss's Orders MEG 114
+1 Iono PAL 185
+4 Bug Catching Set TWM 143
+4 Poké Pad ASC 198
+3 Energy Switch MEG 115
+1 Night Stretcher ASC 196
+1 Switch MEG 130
+1 Max Rod PRE 116
+3 Forest of Vitality MEG 117
+
+Energy: 12
+12 Basic {G} Energy SVE 1
+
+Total Cards: 60
