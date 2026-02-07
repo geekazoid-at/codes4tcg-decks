@@ -1,0 +1,35 @@
+Pokémon: 9
+1 Hop's Snorlax JTG 117
+1 Mega Froslass ex ASC 47
+2 Munkidori TWM 95
+2 Froslass TWM 53
+1 Hop's Cramorant JTG 138
+4 Hop's Trevenant ASC 96
+4 Hop's Phantump ASC 95
+3 Snorunt ASC 46
+1 Yveltal MEG 88
+
+Trainer: 16
+1 Switch SVI 194
+4 Hop's Choice Band JTG 148
+2 Hop's Bag JTG 147
+4 Poké Pad ASC 198
+1 Energy Search SVI 172
+2 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+2 Counter Catcher PAR 160
+4 Iono PAL 185
+1 Air Balloon BLK 79
+1 Technical Machine: Devolution PAR 177
+1 Super Rod PAL 188
+3 Postwick JTG 154
+1 Unfair Stamp TWM 165
+1 Boss's Orders PAL 172
+4 Arven SVI 166
+
+Energy: 3
+1 Basic {D} Energy MEE 7
+1 Basic {W} Energy MEE 3
+3 Luminous Energy PAL 191
+
+Total Cards: 60
