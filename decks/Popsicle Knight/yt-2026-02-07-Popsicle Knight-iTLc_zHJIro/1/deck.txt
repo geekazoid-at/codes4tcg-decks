@@ -1,0 +1,31 @@
+Pokémon: 7
+1 Team Rocket's Zapdos DRI 70
+2 Team Rocket's Tarountula DRI 19
+4 Team Rocket's Exeggcute ASC 77
+2 Team Rocket's Chingling DRI 85
+1 Team Rocket's Articuno DRI 51
+4 Team Rocket's Exeggutor ASC 78
+2 Team Rocket's Spidops DRI 20
+
+Trainer: 14
+4 Buddy-Buddy Poffin ASC 184
+4 Poké Pad ASC 198
+2 Air Balloon BLK 79
+4 Team Rocket's Ariana DRI 171
+1 Acerola's Mischief MEG 113
+2 Super Rod PAL 188
+1 Team Rocket's Proton ASC 208
+2 Team Rocket's Giovanni ASC 204
+2 Team Rocket's Petrel ASC 207
+2 Team Rocket's Hypnotizer ASC 206
+1 Team Rocket's Archer ASC 201
+3 Team Rocket's Factory ASC 203
+1 Neutralization Zone SFA 60
+3 Team Rocket's Transceiver DRI 178
+
+Energy: 3
+4 Team Rocket's Energy DRI 182
+4 Basic {G} Energy MEE 1
+4 Reversal Energy PAL 192
+
+Total Cards: 60
