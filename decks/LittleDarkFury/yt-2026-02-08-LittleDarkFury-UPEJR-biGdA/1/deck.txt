@@ -1,0 +1,33 @@
+Pokémon: 8
+1 Seviper PFL 62
+3 Mega Scrafty ex ASC 135
+4 Toxel PFL 67
+1 Tatsugiri TWM 131
+2 Munkidori PRE 44
+3 Toxtricity PFL 68
+4 Scraggy WHT 57
+1 Fezandipiti ex ASC 142
+
+Trainer: 17
+3 Lillie's Determination MEG 119
+1 Unfair Stamp TWM 165
+2 Artazon PAL 171
+1 Super Rod PAL 188
+1 Super Rod PAL 276
+2 Air Balloon BLK 79
+2 Buddy-Buddy Poffin PRE 101
+2 Buddy-Buddy Poffin MEG 167
+4 Iono PAL 185
+1 Team Rocket's Watchtower ASC 210
+2 Poké Pad ASC 198
+1 Counter Catcher PAR 160
+1 Technical Machine: Evolution PAR 178
+4 Arven SVI 166
+1 Ultra Ball MEG 131
+2 Boss's Orders MEG 114
+2 Punk Helmet PFL 92
+
+Energy: 1
+9 Basic {D} Energy BUS 168
+
+Total Cards: 60
