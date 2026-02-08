@@ -1,0 +1,38 @@
+Pokémon: 9
+1 Munkidori TWM 95
+1 Pecharunt ex SFA 39
+3 Toxtricity PFL 68
+1 Fezandipiti ex SFA 38
+2 Mega Scrafty ex ASC 135
+1 Budew PRE 4
+1 Yveltal MEG 88
+3 Toxel PFL 67
+3 Scraggy WHT 57
+
+Trainer: 21
+1 Risky Ruins MEG 127
+2 Ultra Ball SVI 196
+1 Xerosic's Machinations SFA 64
+2 Poké Pad ASC 198
+1 Nighttime Mine ASC 197
+1 Earthen Vessel PAR 163
+1 Eri TEF 146
+3 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+1 Counter Catcher PAR 160
+4 Iono PAL 185
+1 Air Balloon BLK 79
+1 Technical Machine: Devolution PAR 177
+1 Punk Helmet PFL 92
+1 Night Stretcher SFA 61
+2 Super Rod PAL 188
+1 Rigid Band MEW 165
+1 Unfair Stamp TWM 165
+2 Nest Ball PAF 84
+2 Jumbo Ice Cream PFL 91
+2 Boss's Orders PAL 172
+
+Energy: 1
+9 Basic {D} Energy MEE 7
+
+Total Cards: 60

@@ -1,0 +1,34 @@
+Pokémon: 10
+3 Toxel PFL 67
+2 Munkidori TWM 95
+3 Scraggy WHT 57
+1 Scrafty WHT 58
+1 Fezandipiti ex SFA 38
+3 Toxtricity PFL 68
+1 Pecharunt ex SFA 39
+1 Brute Bonnet TWM 118
+1 Yveltal MEG 88
+2 Mega Scrafty ex ASC 135
+
+Trainer: 16
+1 Counter Catcher PAR 160
+2 Punk Helmet PFL 92
+1 Unfair Stamp TWM 165
+1 Night Stretcher SFA 61
+1 Nest Ball SVI 181
+1 Artazon PAL 171
+2 Boss's Orders PAL 172
+1 Air Balloon BLK 79
+3 Iono PAL 185
+4 Arven SVI 166
+2 Technical Machine: Evolution PAR 178
+2 Super Rod PAL 188
+4 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+3 Ultra Ball SVI 196
+1 Earthen Vessel PAR 163
+
+Energy: 1
+9 Basic {D} Energy MEE 7
+
+Total Cards: 60
