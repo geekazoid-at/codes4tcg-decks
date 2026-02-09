@@ -1,0 +1,32 @@
+Pokémon: 22
+4 Applin PRE 9
+4 Dipplin PRE 10
+4 Grookey TWM 14
+3 Thwackey TWM 15
+1 Rillaboom TWM 16
+2 Goldeen PRE 20
+1 Seaking PRE 21
+1 Budew ASC 16
+1 Shaymin DRI 10
+1 Psyduck ASC 39
+
+Trainer: 32
+4 Buddy-Buddy Poffin ASC 184
+4 Bug Catching Set PRE 102
+4 Poké Pad ASC 198
+2 Night Stretcher ASC 196
+1 Earthen Vessel PRE 106
+1 Unfair Stamp TWM 165
+2 Brave Bangle WHT 80
+2 Air Balloon ASC 181
+2 Lillie's Determination ASC 192
+2 Boss's Orders ASC 183
+2 Arven SVI 166
+1 Lana's Aid TWM 155
+1 Black Belt's Training JTG 143
+4 Festival Grounds PRE 108
+
+Energy: 6
+6 Basic {G} Energy SVE 1
+
+Total Cards: 60
