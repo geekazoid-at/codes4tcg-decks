@@ -1,0 +1,33 @@
+Pokémon: 6
+1 Bloodmoon Ursaluna ex TWM 141
+4 Larry's Komala ASC 175
+1 Fezandipiti ex SFA 38
+3 Larry's Dudunsparce ex ASC 164
+4 Larry's Dunsparce ASC 163
+1 Fan Rotom SCR 118
+
+Trainer: 17
+1 Counter Catcher PAR 160
+4 Carmine TWM 145
+1 Hero's Cape TEF 152
+2 Night Stretcher SFA 61
+2 Nest Ball SVI 181
+2 Boss's Orders PAL 172
+2 Air Balloon BLK 79
+1 Powerglass SFA 63
+4 Iono PAL 185
+1 Super Rod PAL 188
+1 Defiance Band SVI 169
+3 Levincia JTG 150
+2 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+2 Ultra Ball SVI 196
+1 Switch SVI 194
+1 Earthen Vessel PAR 163
+
+Energy: 3
+7 Basic {L} Energy MEE 4
+4 Ignition Energy WHT 86
+1 Mist Energy TEF 161
+
+Total Cards: 60

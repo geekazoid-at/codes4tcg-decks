@@ -1,0 +1,37 @@
+Pokémon: 6
+4 Larry's Komala ASC 175
+1 Fezandipiti ex SFA 38
+1 Bloodmoon Ursaluna ex PR-SV 177
+3 Larry's Dudunsparce ex ASC 164
+3 Larry's Dunsparce ASC 163
+1 Fan Rotom SCR 118
+
+Trainer: 17
+1 Counter Catcher PAR 160
+1 Town Store OBF 196
+1 Vengeful Punch OBF 197
+2 Morty's Conviction TEF 155
+3 Night Stretcher SFA 61
+2 Nest Ball SVI 181
+1 Nighttime Mine ASC 197
+2 Boss's Orders PAL 172
+1 Air Balloon BLK 79
+4 Iono PAL 185
+1 Technical Machine: Devolution PAR 177
+1 Practice Studio PAL 186
+1 Defiance Band SVI 169
+2 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+2 Ultra Ball SVI 196
+1 Rocky Helmet SVI 193
+
+Energy: 7
+1 Legacy Energy TWM 167
+3 Jet Energy PAL 190
+1 Therapeutic Energy PAL 193
+4 Spiky Energy JTG 159
+1 Medical Energy PAR 182
+4 Ignition Energy WHT 86
+3 Mist Energy TEF 161
+
+Total Cards: 60

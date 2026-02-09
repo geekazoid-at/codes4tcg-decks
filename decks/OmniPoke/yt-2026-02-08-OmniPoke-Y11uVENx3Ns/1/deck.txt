@@ -1,0 +1,33 @@
+Pokémon: 9
+3 Seaking PRE 21
+4 Thwackey TWM 15
+4 Goldeen PRE 20
+3 Applin TWM 17
+2 Dipplin TWM 18
+1 Buneary MEG 107
+4 Grookey TWM 14
+1 Mega Lopunny ex PFL 84
+1 Psyduck ASC 39
+
+Trainer: 15
+2 Black Belt's Training JTG 143
+4 Festival Grounds PRE 108
+1 Maximum Belt TEF 154
+1 Pal Pad SVI 182
+2 Nest Ball SVI 181
+4 Poké Pad ASC 198
+1 Night Stretcher ASC 196
+2 Iono PAL 185
+1 Hilda WHT 84
+1 Super Rod PAL 188
+1 Brave Bangle WHT 80
+4 Buddy-Buddy Poffin ASC 184
+4 Lillie's Determination MEG 119
+2 Boss's Orders ASC 183
+1 Vitality Band SVI 197
+
+Energy: 2
+4 Jet Energy PAL 190
+2 Basic {G} Energy MEE 1
+
+Total Cards: 60
