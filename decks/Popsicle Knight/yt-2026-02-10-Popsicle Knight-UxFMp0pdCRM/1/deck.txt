@@ -1,0 +1,30 @@
+Pokémon: 7
+3 Eelektrik ASC 60
+1 Stunfisk ASC 62
+3 Tynamo ASC 59
+4 Heliolisk ASC 64
+4 Helioptile ASC 63
+2 Cleffa OBF 80
+1 Mega Eelektross ex ASC 61
+
+Trainer: 13
+3 Buddy-Buddy Poffin ASC 184
+4 Canari ASC 185
+1 Boss's Orders ASC 183
+2 Air Balloon ASC 181
+3 Poké Pad ASC 198
+2 Electric Generator SVI 170
+4 Lillie's Determination MEG 119
+1 Counter Catcher PAR 160
+2 Super Rod PAL 188
+3 Pokégear 3.0 SVI 186
+2 Levincia JTG 150
+1 Pal Pad SVI 182
+1 Neutralization Zone SFA 60
+
+Energy: 3
+7 Basic {L} Energy MEE 4
+4 Ignition Energy WHT 86
+2 Reversal Energy PAL 192
+
+Total Cards: 60
