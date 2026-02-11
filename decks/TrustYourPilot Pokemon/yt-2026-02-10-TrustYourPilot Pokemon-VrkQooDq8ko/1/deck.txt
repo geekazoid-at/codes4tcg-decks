@@ -1,0 +1,35 @@
+Pokémon: 9
+2 Azumarill SSP 74
+2 Azumarill ex ASC 84
+2 Terapagos ex SCR 128
+4 Marill ASC 83
+1 Fezandipiti ex SFA 38
+1 Smoochum SSP 75
+1 Cleffa OBF 80
+1 Lillie's Clefairy ex JTG 56
+1 Squawkabilly ex PAL 169
+
+Trainer: 18
+1 Counter Catcher PAR 160
+2 Exp. Share SVI 174
+1 Prime Catcher TEF 157
+1 Morty's Conviction TEF 155
+1 Night Stretcher SFA 61
+1 Pal Pad SVI 182
+2 Nest Ball SVI 181
+1 Boss's Orders PAL 172
+1 Air Balloon BLK 79
+2 Iono PAL 185
+1 Super Rod PAL 188
+4 Wondrous Patch PFL 94
+4 Glass Trumpet SCR 135
+2 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+2 Ultra Ball SVI 196
+2 Professor's Research PRE 122
+1 Earthen Vessel PAR 163
+
+Energy: 1
+12 Basic {P} Energy MEE 5
+
+Total Cards: 60

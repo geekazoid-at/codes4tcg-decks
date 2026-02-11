@@ -1,0 +1,32 @@
+Pokémon: 7
+2 Smoochum SSP 75
+3 Xatu PAR 72
+3 Azumarill ex ASC 84
+3 Marill ASC 83
+1 Fezandipiti ex SFA 38
+3 Natu PAR 71
+1 Lillie's Clefairy ex JTG 56
+
+Trainer: 17
+2 Ultra Ball SVI 196
+2 Poké Pad ASC 198
+2 Exp. Share SVI 174
+4 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+1 Counter Catcher PAR 160
+4 Iono PAL 185
+2 Air Balloon BLK 79
+1 Drasna SSP 173
+1 Superior Energy Retrieval PAL 189
+1 Super Rod PAL 188
+1 Hero's Cape TEF 152
+1 Lillie's Pearl JTG 151
+1 Morty's Conviction TEF 155
+1 Tulip PAR 181
+2 Mystery Garden MEG 122
+2 Boss's Orders PAL 172
+
+Energy: 1
+12 Basic {P} Energy MEE 5
+
+Total Cards: 60

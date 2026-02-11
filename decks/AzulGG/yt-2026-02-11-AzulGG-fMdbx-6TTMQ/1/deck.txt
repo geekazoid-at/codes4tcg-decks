@@ -1,0 +1,23 @@
+Pokémon: 16
+4 Iono's Wattrel JTG 54
+4 Iono's Kilowattrel JTG 55
+3 Iono's Tadbulb JTG 52
+3 Iono's Bellibolt ex JTG 53
+2 Iono's Voltorb JTG 47
+
+Trainer: 25
+4 Canari ASC 185
+4 Lillie's Determination MEG 119
+2 Iono PAF 80
+1 Boss's Orders MEG 114
+4 Buddy-Buddy Poffin ASC 184
+3 Superior Energy Retrieval PAL 189
+3 Ultra Ball MEG 131
+1 Super Rod PAL 188
+3 Levincia JTG 150
+
+Energy: 19
+18 Basic {L} Energy SVE 4
+1 Legacy Energy TWM 167
+
+Total Cards: 60
