@@ -1,0 +1,31 @@
+Pokémon: 10
+2 Sylveon ex SSP 86
+1 Latias ex SSP 76
+2 Eevee SSP 143
+4 Durant ex SSP 4
+1 Fezandipiti ex SFA 38
+4 Hoothoot SCR 114
+4 Noctowl SCR 115
+2 Fan Rotom SCR 118
+2 Pidgeot ex OBF 164
+2 Pidgey OBF 162
+
+Trainer: 14
+2 Counter Catcher PAR 160
+1 Scoop Up Cyclone TWM 162
+4 Strange Timepiece MEG 128
+4 Miriam SVI 179
+1 Pal Pad SVI 182
+4 Nest Ball SVI 181
+2 Iono PAL 185
+2 Great Ball PAL 183
+4 Area Zero Underdepths SCR 131
+4 Buddy-Buddy Poffin TEF 144
+4 Ultra Ball MEG 131
+1 Professor Turo's Scenario PRE 121
+2 Rare Candy SVI 191
+1 Boss's Orders MEG 114
+
+Energy: 0
+
+Total Cards: 60

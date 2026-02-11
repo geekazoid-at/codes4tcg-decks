@@ -1,0 +1,23 @@
+Pokémon: 24
+4 Chikorita MEG 8
+4 Bayleef MEG 9
+3 Mega Meganium ex ASC 10
+2 Meganium MEG 10
+4 Oddish MEW 43
+3 Gloom MEW 44
+3 Vileplume MEW 45
+1 Budew ASC 16
+
+Trainer: 21
+4 Bug Catching Set PRE 102
+4 Poké Pad ASC 198
+1 Scoop Up Cyclone PRE 128
+4 Forest of Vitality ASC 188
+4 Lillie's Determination ASC 192
+2 Boss's Orders ASC 183
+2 Dawn PFL 87
+
+Energy: 15
+15 Basic {G} Energy SVE 1
+
+Total Cards: 60

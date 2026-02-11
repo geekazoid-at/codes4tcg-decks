@@ -1,0 +1,32 @@
+Pokémon: 8
+2 Munkidori ASC 99
+2 Toxtricity PFL 68
+1 Pecharunt ASC 143
+3 Galarian Obstagoon ASC 132
+4 Galarian Zigzagoon ASC 130
+2 Galarian Linoone ASC 131
+1 Tatsugiri TWM 131
+2 Toxel PFL 67
+
+Trainer: 16
+1 Risky Ruins MEG 127
+2 Iono PAF 80
+3 Poké Pad ASC 198
+3 Rare Candy SVI 191
+4 Punk Helmet PFL 92
+4 Buddy-Buddy Poffin PRE 101
+1 Night Stretcher SFA 61
+2 Air Balloon BLK 79
+2 Super Rod PAL 188
+2 Technical Machine: Evolution PAR 178
+1 Counter Catcher PAR 160
+4 Lillie's Determination MEG 119
+2 Professor's Research PRE 123
+1 Unfair Stamp TWM 165
+1 Boss's Orders MEG 114
+2 Arven SVI 166
+
+Energy: 1
+8 Basic {D} Energy BUS 168
+
+Total Cards: 60
