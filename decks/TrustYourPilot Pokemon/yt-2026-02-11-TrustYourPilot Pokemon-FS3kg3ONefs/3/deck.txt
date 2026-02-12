@@ -1,0 +1,32 @@
+Pokémon: 9
+2 Iono's Wattrel JTG 54
+2 Mega Eelektross ex ASC 61
+1 Iron Hands ex PAR 70
+1 Zekrom ex BLK 34
+4 Eelektrik BLK 31
+2 Iono's Kilowattrel JTG 55
+1 Fezandipiti ex SFA 38
+4 Tynamo BLK 30
+1 Zeraora DRI 78
+
+Trainer: 15
+4 Canari ASC 185
+2 Ultra Ball SVI 196
+2 Switch SVI 194
+2 Earthen Vessel PAR 163
+4 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+1 Counter Catcher PAR 160
+1 Future Booster Energy Capsule PAR 164
+2 Iono PAL 185
+2 Air Balloon BLK 79
+2 Super Rod PAL 188
+1 Prime Catcher TEF 157
+2 Levincia JTG 150
+2 Nest Ball SVI 181
+2 Boss's Orders PAL 172
+
+Energy: 1
+9 Basic {L} Energy MEE 4
+
+Total Cards: 60

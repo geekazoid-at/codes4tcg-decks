@@ -1,0 +1,31 @@
+Pokémon: 16
+3 Scraggy PAF 60
+3 Mega Scrafty ex ASC 135
+3 Toxel PFL 67
+3 Toxtricity PFL 68
+2 Munkidori PRE 44
+1 Fezandipiti ex ASC 142
+1 Psyduck MEP 7
+
+Trainer: 35
+4 Iono PAF 80
+4 Lillie's Determination MEG 119
+3 Arven SVI 166
+2 Boss's Orders MEG 114
+4 Buddy-Buddy Poffin ASC 184
+2 Counter Catcher PAR 160
+2 Poké Pad ASC 198
+2 Ultra Ball MEG 131
+1 Jumbo Ice Cream PFL 91
+1 Super Rod PAL 188
+1 Unfair Stamp TWM 165
+2 Air Balloon BLK 79
+2 Rigid Band MEW 165
+2 Technical Machine: Evolution PAR 178
+1 Technical Machine: Devolution PAR 177
+2 Town Store OBF 196
+
+Energy: 9
+9 Basic {D} Energy SVE 7
+
+Total Cards: 60

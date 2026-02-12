@@ -1,0 +1,40 @@
+Pokémon: 11
+1 Eelektross OBF 69
+1 Mega Froslass ex ASC 47
+1 Stunfisk ASC 62
+2 Mega Eelektross ex ASC 61
+2 Munkidori TWM 95
+2 Froslass TWM 53
+2 Eelektrik BLK 31
+1 Fezandipiti ex SFA 38
+3 Snorunt ASC 46
+1 Budew ASC 16
+3 Tynamo BLK 30
+
+Trainer: 19
+2 Ultra Ball SVI 196
+1 Powerglass SFA 63
+1 Switch SVI 194
+2 Poké Pad ASC 198
+2 Rare Candy SVI 191
+1 Earthen Vessel PAR 163
+3 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+2 Counter Catcher PAR 160
+4 Iono PAL 185
+1 Air Balloon BLK 79
+1 Technical Machine: Devolution PAR 177
+1 Night Stretcher SFA 61
+1 Super Rod PAL 188
+1 Prime Catcher TEF 157
+1 Morty's Conviction TEF 155
+1 Artazon PAL 171
+1 Boss's Orders PAL 172
+2 Arven SVI 166
+
+Energy: 3
+5 Basic {L} Energy MEE 4
+1 Basic {D} Energy MEE 7
+3 Luminous Energy PAL 191
+
+Total Cards: 60
