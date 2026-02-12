@@ -1,0 +1,37 @@
+Pokémon: 10
+2 Snorunt ASC 46
+2 Budew ASC 16
+1 Dunsparce PRE 79
+3 Dudunsparce PRE 80
+2 Lampent WHT 17
+2 Dunsparce PAL 156
+4 Chandelure TWM 38
+2 Mega Froslass ex ASC 47
+4 Litwick TWM 36
+1 Psyduck MEP 7
+
+Trainer: 16
+1 Counter Catcher PAR 160
+2 Dawn PFL 87
+1 Rigid Band MEW 165
+1 Team Rocket's Petrel DRI 176
+2 Artazon PAL 171
+2 Night Stretcher SFA 61
+4 Poké Pad ASC 198
+1 Sacred Ash DRI 168
+2 Lucian TWM 157
+1 Tyme SSP 190
+2 Hilda WHT 84
+3 Rare Candy PAF 89
+4 Buddy-Buddy Poffin PRE 101
+1 Brave Bangle WHT 80
+1 Ultra Ball MEG 131
+2 Boss's Orders MEG 114
+
+Energy: 4
+1 Legacy Energy TWM 167
+3 Luminous Energy PAL 191
+1 Basic {W} Energy SVE 3
+2 Basic {R} Energy SVE 2
+
+Total Cards: 60

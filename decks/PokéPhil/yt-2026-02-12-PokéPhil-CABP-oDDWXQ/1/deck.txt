@@ -1,0 +1,27 @@
+Pokémon: 4
+4 Erika's Tangela ASC 7
+4 Erika's Victreebel ASC 6
+3 Erika's Weepinbell ASC 5
+4 Erika's Bellsprout ASC 4
+
+Trainer: 14
+3 Poké Pad ASC 198
+2 Rare Candy PLB 105
+3 Arven PAF 235
+2 Night Stretcher MEG 173
+3 Forest of Vitality MEG 117
+3 Brave Bangle WHT 80
+2 Boss's Orders LOR-TG 24
+1 Air Balloon MEG 166
+2 Buddy-Buddy Poffin MEG 167
+3 Crispin SCR 164
+1 Max Rod PRE 116
+3 Iono PAL 254
+2 Pokégear 3.0 UNB 233
+3 Lillie's Determination MEG 184
+
+Energy: 2
+7 Basic {G} Energy PAL 278
+5 Basic {D} Energy SFA 98
+
+Total Cards: 60

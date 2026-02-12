@@ -1,0 +1,31 @@
+Pokémon: 10
+1 Scizor OBF 141
+2 Beldum TEF 113
+2 Metang TEF 114
+2 Scyther MEW 123
+1 Bisharp BLK 65
+1 Tatsugiri TWM 131
+4 Kingambit ASC 148
+1 Genesect ex BLK 67
+1 Bisharp ASC 147
+4 Pawniard OBF 148
+
+Trainer: 13
+4 Rare Candy MEG 125
+3 Super Rod PAL 188
+3 Iono PAF 80
+4 Lillie's Determination MEG 119
+2 Air Balloon BLK 79
+3 Nest Ball SVI 181
+4 Buddy-Buddy Poffin PRE 101
+2 Boss's Orders PAL 172
+1 Professor's Research PAF 87
+2 Arven SVI 166
+1 Maximum Belt TEF 154
+1 Counter Catcher PAR 160
+1 Brave Bangle WHT 80
+
+Energy: 1
+10 Basic {M} Energy SUM 163
+
+Total Cards: 60
