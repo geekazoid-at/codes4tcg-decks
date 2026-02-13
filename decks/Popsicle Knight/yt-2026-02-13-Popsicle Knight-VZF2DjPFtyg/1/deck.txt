@@ -1,0 +1,33 @@
+Pokémon: 10
+3 Team Rocket's Diglett ASC 100
+3 Team Rocket's Dugtrio ASC 101
+2 Team Rocket's Larvitar DRI 94
+1 Team Rocket's Pupitar DRI 95
+2 Team Rocket's Tyranitar DRI 96
+3 Team Rocket's Crobat ex DRI 122
+3 Team Rocket's Golbat DRI 121
+1 Team Rocket's Articuno DRI 51
+1 Team Rocket's Sneasel DRI 128
+3 Team Rocket's Zubat DRI 120
+
+Trainer: 15
+4 Poké Pad ASC 198
+1 Switch SVI 194
+3 Rare Candy SVI 191
+3 Buddy-Buddy Poffin TEF 144
+1 Deluxe Bomb SCR 134
+4 Team Rocket's Ariana DRI 171
+2 Team Rocket's Giovanni DRI 174
+2 Technical Machine: Devolution PAR 177
+1 Night Stretcher SFA 61
+1 Super Rod PAL 188
+4 Team Rocket's Factory DRI 173
+1 Team Rocket's Petrel DRI 176
+4 Team Rocket's Transceiver DRI 178
+2 Team Rocket's Archer DRI 170
+1 Team Rocket's Proton DRI 177
+
+Energy: 1
+4 Team Rocket's Energy DRI 182
+
+Total Cards: 60

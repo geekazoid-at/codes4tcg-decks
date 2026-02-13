@@ -1,0 +1,33 @@
+Pokémon: 10
+3 Beautifly ASC 13
+3 Silcoon ASC 12
+3 Dustox ASC 15
+4 Wurmple ASC 11
+3 Cascoon ASC 14
+2 Dreepy PRE 71
+1 Budew PRE 4
+1 Bloodmoon Ursaluna ex TWM 141
+2 Drakloak TWM 129
+1 Shaymin DRI 10
+
+Trainer: 15
+1 Air Balloon BLK 79
+4 Buddy-Buddy Poffin PRE 101
+1 Counter Catcher PAR 160
+1 Earthen Vessel PAR 163
+3 Iono SVALT 75
+3 Forest of Vitality ASC 188
+4 Lillie's Determination ASC 192
+1 Night Stretcher SFA 61
+2 Professor's Research PRE 124
+4 Poké Pad ASC 198
+2 Super Rod PAL 188
+2 Boss's Orders PAL 172
+1 Brave Bangle WHT 80
+1 Giovanni's Charisma MEW 161
+1 Secret Box TWM 163
+
+Energy: 1
+6 Basic {G} Energy GRI 167
+
+Total Cards: 60

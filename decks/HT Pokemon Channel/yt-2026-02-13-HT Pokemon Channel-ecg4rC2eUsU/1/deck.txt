@@ -1,0 +1,29 @@
+Pokémon: 19
+4 N's Zorua ASC 136
+4 N's Zoroark ex ASC 137
+2 N's Zekrom ASC 155
+2 N's Reshiram ASC 154
+2 N's Darumaka ASC 32
+2 N's Darmanitan ASC 33
+1 Munkidori ASC 99
+1 Psyduck ASC 39
+1 Budew ASC 16
+
+Trainer: 32
+4 Buddy-Buddy Poffin ASC 184
+4 Poké Pad ASC 198
+4 N's PP Up ASC 195
+2 Night Stretcher ASC 196
+2 Pokégear 3.0 BLK 84
+1 Earthen Vessel PRE 106
+1 Unfair Stamp TWM 165
+3 N's Castle JTG 152
+3 Lillie's Determination ASC 192
+3 Boss's Orders ASC 183
+3 Cyrano SSP 170
+2 Kieran PRE 113
+
+Energy: 9
+9 Basic {D} Energy SVE 7
+
+Total Cards: 60
