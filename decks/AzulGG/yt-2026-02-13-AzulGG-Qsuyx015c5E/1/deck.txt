@@ -1,0 +1,36 @@
+Pokémon: 18
+4 Hop's Phantump ASC 95
+2 Hop's Trevenant ASC 96
+2 Hop's Cramorant JTG 138
+2 Hop's Snorlax JTG 117
+1 Hop's Wooloo JTG 135
+1 Hop's Dubwool JTG 136
+1 Bloodmoon Ursaluna ex TWM 141
+1 Fezandipiti ex ASC 142
+1 Iron Bundle PAR 56
+1 Lillie's Clefairy ex JTG 56
+1 Psyduck MEP 7
+1 Tatsugiri TWM 131
+
+Trainer: 38
+4 Arven SVI 166
+4 Lillie's Determination MEG 119
+3 Boss's Orders ASC 183
+2 Iono PAF 80
+1 Black Belt's Training JTG 143
+1 Professor's Research PRE 122
+4 Poké Pad ASC 198
+2 Hop's Bag JTG 147
+2 Nest Ball SVI 181
+2 Night Stretcher ASC 196
+1 Counter Catcher PAR 160
+1 Secret Box TWM 163
+1 Switch SVI 194
+4 Hop's Choice Band JTG 148
+2 Air Balloon BLK 79
+4 Postwick JTG 154
+
+Energy: 4
+4 Jet Energy PAL 190
+
+Total Cards: 60
