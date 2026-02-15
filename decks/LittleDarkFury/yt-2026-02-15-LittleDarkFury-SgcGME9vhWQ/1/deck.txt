@@ -1,0 +1,39 @@
+Pokémon: 11
+1 Cleffa OBF 80
+1 Pecharunt ex SFA 39
+1 Fezandipiti ex ASC 288
+1 Bloodmoon Ursaluna ex TWM 141
+1 Munkidori TWM 95
+1 N's Reshiram ASC 154
+2 N's Zekrom ASC 155
+1 N's Darmanitan JTG 27
+4 N's Zoroark ex JTG 98
+2 N's Darumaka JTG 26
+4 N's Zorua ASC 136
+
+Trainer: 19
+3 Boss's Orders MEG 114
+3 Lillie's Determination ASC 192
+1 Team Rocket's Watchtower DRI 180
+1 Secret Box TWM 163
+1 Super Rod PAL 188
+2 N's PP Up JTG 153
+4 Buddy-Buddy Poffin PRE 101
+1 Energy Switch SVI 173
+2 Night Stretcher SFA 61
+3 Poké Pad ASC 198
+1 Black Belt's Training PRE 96
+2 Iono PAF 80
+1 Professor Turo's Scenario PAR 171
+1 Counter Catcher PAR 160
+2 N's Castle JTG 152
+1 Powerglass SFA 63
+1 Arven OBF 186
+2 Binding Mochi PRE 95
+2 Cyrano SSP 170
+
+Energy: 2
+6 Basic {D} Energy BUS 168
+1 Reversal Energy PAL 192
+
+Total Cards: 60
