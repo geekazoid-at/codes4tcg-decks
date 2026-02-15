@@ -1,0 +1,32 @@
+Pokémon: 18
+3 Pawniard ASC 146
+1 Pawniard BLK 64
+3 Bisharp ASC 147
+3 Kingambit ASC 148
+2 Beldum TEF 113
+2 Metang TEF 114
+2 Genesect ex BLK 67
+1 Psyduck ASC 39
+1 Tatsugiri TWM 131
+
+Trainer: 33
+4 Lillie's Determination MEG 119
+3 Iono PAF 80
+2 Arven SVI 166
+2 Boss's Orders ASC 183
+1 Professor Turo's Scenario PRE 121
+3 Buddy-Buddy Poffin ASC 184
+3 Nest Ball SVI 181
+3 Rare Candy SVI 191
+3 Super Rod PAL 188
+2 Counter Catcher PAR 160
+1 Poké Pad ASC 198
+1 Air Balloon BLK 79
+1 Defiance Band SVI 169
+1 Maximum Belt PRE 117
+3 Artazon PAL 171
+
+Energy: 9
+9 Basic {M} Energy SVE 8
+
+Total Cards: 60

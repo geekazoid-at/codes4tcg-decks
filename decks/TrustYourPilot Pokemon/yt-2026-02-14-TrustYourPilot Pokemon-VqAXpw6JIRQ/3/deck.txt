@@ -1,0 +1,31 @@
+Pokémon: 6
+2 Solrock MEG 75
+2 Mega Hawlucha ex ASC 116
+3 Roggenrola WHT 46
+2 Lunatone MEG 74
+2 Boldore WHT 47
+3 Gigalith WHT 48
+
+Trainer: 17
+1 Powerglass SFA 63
+2 Switch SVI 194
+4 Poké Pad ASC 198
+2 Rare Candy SVI 191
+4 Lillie's Determination MEG 119
+2 Iono PAL 185
+2 Air Balloon BLK 79
+4 Fighting Gong MEG 116
+1 Night Stretcher SFA 61
+2 Super Rod PAL 188
+2 Town Store OBF 196
+2 Pokégear 3.0 SVI 186
+1 Picnic Basket SVI 184
+1 Prime Catcher TEF 157
+1 Pal Pad SVI 182
+4 Carmine TWM 145
+2 Boss's Orders PAL 172
+
+Energy: 1
+9 Basic {F} Energy MEE 6
+
+Total Cards: 60
