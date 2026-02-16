@@ -1,0 +1,31 @@
+Pokémon: 14
+4 Munkidori PRE 44
+3 Snorunt ASC 46
+3 Froslass TWM 53
+1 Mega Froslass ex ASC 47
+3 Budew PRE 4
+
+Trainer: 38
+4 Lillie's Determination ASC 192
+4 Iono PAL 185
+4 Arven SVI 166
+4 Poké Pad ASC 198
+3 Counter Catcher PAR 160
+2 Super Rod PAL 188
+2 Pokégear 3.0 SVI 186
+1 Buddy-Buddy Poffin ASC 184
+1 Earthen Vessel PRE 106
+1 Secret Box TWM 163
+1 Ultra Ball ASC 213
+2 Air Balloon BLK 79
+2 Technical Machine: Devolution PAR 177
+2 Bravery Charm PAL 173
+1 Gravity Gemstone SCR 137
+1 Technical Machine: Evolution PAR 178
+3 Artazon PAF 76
+
+Energy: 8
+4 Basic {D} Energy SVE 7
+4 Luminous Energy PAL 191
+
+Total Cards: 60
