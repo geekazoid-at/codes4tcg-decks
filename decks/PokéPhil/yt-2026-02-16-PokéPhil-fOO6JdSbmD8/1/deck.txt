@@ -1,0 +1,36 @@
+Pokémon: 10
+2 Fan Rotom ASC 171
+1 Munkidori TWM 95
+3 Drakloak TWM 129
+4 Hoothoot SCR 114
+2 Wellspring Mask Ogerpon ex TWM 64
+1 Fezandipiti ex ASC 142
+1 Lillie's Clefairy ex JTG 56
+3 Dreepy PRE 71
+4 Noctowl PRE 78
+2 Dragapult ex PRE 73
+
+Trainer: 15
+2 Tera Orb SSP 189
+1 Dawn PFL 87
+3 Ultra Ball ASC 213
+4 Poké Pad ASC 198
+1 Night Stretcher ASC 196
+1 Lillie's Determination ASC 192
+3 Area Zero Underdepths PRE 94
+3 Crispin PRE 105
+1 Judge DRI 167
+4 Buddy-Buddy Poffin ASC 184
+1 Sparkling Crystal PRE 129
+2 Boss's Orders ASC 183
+1 Switch MEG 130
+1 Air Balloon ASC 181
+1 Rare Candy SVI 191
+
+Energy: 4
+3 Basic {R} Energy SVE 10
+1 Basic {D} Energy SVE 15
+1 Basic {W} Energy SVE 11
+3 Basic {P} Energy SVE 13
+
+Total Cards: 60
