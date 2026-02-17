@@ -1,0 +1,37 @@
+Pokémon: 12
+1 N's Zekrom ASC 155
+3 N's Zorua JTG 97
+1 N's Darmanitan JTG 27
+1 N's Klinklang JTG 105
+1 N's Klink JTG 103
+3 N's Zoroark ex JTG 98
+1 N's Vanilluxe ASC 51
+1 N's Darumaka JTG 26
+1 N's Vanillish ASC 50
+2 N's Reshiram JTG 116
+1 N's Vanillite ASC 49
+1 N's Klang JTG 104
+
+Trainer: 17
+1 Counter Catcher PAR 160
+2 Nest Ball SVI 181
+3 Poké Pad ASC 198
+4 Lillie's Determination ASC 192
+1 Boss's Orders PAL 172
+1 Hyper Aroma TWM 152
+1 Iono PAL 185
+3 Arven SVI 166
+1 Redeemable Ticket JTG 156
+1 Super Rod PAL 188
+2 N's Castle JTG 152
+4 N's PP Up JTG 153
+4 Buddy-Buddy Poffin TEF 144
+1 Anthea & Concordia ASC 182
+1 Ultra Ball SVI 196
+3 Rare Candy SVI 191
+1 Earthen Vessel PAR 163
+
+Energy: 1
+9 Basic {D} Energy SVE 15
+
+Total Cards: 60

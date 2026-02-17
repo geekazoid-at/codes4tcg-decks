@@ -1,0 +1,30 @@
+Pokémon: 8
+4 Uxie SSP 78
+1 Shaymin DRI 10
+1 Psyduck ASC 39
+2 N's Vanilluxe ASC 51
+3 Slowpoke SCR 57
+2 Kyurem SFA 47
+1 Fezandipiti ex SFA 38
+3 Slowking SCR 58
+
+Trainer: 14
+1 Buddy-Buddy Poffin ASC 184
+1 Pokégear 3.0 BLK 84
+2 Boss's Orders ASC 183
+4 Academy at Night SFA 54
+1 Ciphermaniac's Codebreaking PRE 104
+4 Poké Pad ASC 198
+3 Night Stretcher ASC 196
+4 Lillie's Determination ASC 192
+1 Hassel TWM 151
+4 Kofu SCR 138
+2 Air Balloon BLK 79
+3 Ultra Ball MEG 131
+1 Max Rod PRE 116
+4 Wondrous Patch PFL 94
+
+Energy: 1
+8 Basic {P} Energy SVE 13
+
+Total Cards: 60
