@@ -1,0 +1,32 @@
+Pokémon: 9
+2 Solrock MEG 75
+3 Medicham ASC 104
+4 Dunsparce PRE 79
+4 Meditite ASC 103
+1 Shaymin DRI 10
+2 Lunatone MEG 74
+1 Dudunsparce ex JTG 121
+3 Dudunsparce TEF 129
+1 Psyduck MEP 7
+
+Trainer: 14
+3 Poké Pad ASC 198
+3 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+1 Counter Catcher PAR 160
+3 Iono PAL 185
+1 Lana's Aid TWM 155
+1 Air Balloon BLK 79
+3 Fighting Gong MEG 116
+1 Technical Machine: Devolution PAR 177
+2 Brave Bangle WHT 80
+2 Super Rod PAL 188
+1 Artazon PAL 171
+2 Boss's Orders PAL 172
+4 Premium Power Pro MEG 124
+
+Energy: 2
+7 Basic {F} Energy MEE 6
+1 Legacy Energy TWM 167
+
+Total Cards: 60
