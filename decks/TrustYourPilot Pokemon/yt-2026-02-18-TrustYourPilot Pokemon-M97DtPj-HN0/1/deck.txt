@@ -1,0 +1,30 @@
+Pokémon: 2
+3 Mega Audino ex ASC 172
+3 Pikachu ex SSP 57
+
+Trainer: 18
+2 Counter Catcher PAR 160
+1 Tool Scrapper WHT 85
+1 Xerosic's Machinations SFA 64
+2 Battle Cage PFL 85
+1 Hand Trimmer TEF 150
+1 Prime Catcher TEF 157
+4 Pokégear 3.0 BLK 84
+2 Penny SVI 183
+4 Nest Ball SVI 181
+2 Boss's Orders PAL 172
+2 Light Ball ASC 191
+2 Powerglass SFA 63
+4 Iono PAL 185
+1 Super Rod PAL 188
+2 Bianca's Devotion TEF 142
+2 Crispin SCR 133
+4 Lillie's Determination MEG 119
+2 Switch SVI 194
+
+Energy: 3
+5 Basic {M} Energy MEE 8
+5 Basic {L} Energy MEE 4
+5 Basic {G} Energy MEE 1
+
+Total Cards: 60

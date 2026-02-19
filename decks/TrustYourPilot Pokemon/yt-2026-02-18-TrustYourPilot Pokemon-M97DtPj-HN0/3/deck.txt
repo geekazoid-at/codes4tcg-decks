@@ -1,0 +1,41 @@
+Pokémon: 14
+1 Eevee ex PRE 75
+1 Hoopa ex PAR 98
+1 Lillie's Clefairy ex ASC 76
+1 Latias ex SSP 76
+1 Mega Absol ex MEG 86
+1 Wellspring Mask Ogerpon ex PRE 27
+3 Mega Audino ex ASC 172
+1 Roaring Moon ex PAR 124
+2 Munkidori TWM 95
+1 Fezandipiti ex SFA 38
+1 Mega Kangaskhan ex MEG 104
+1 Leafeon ex PRE 6
+1 Pecharunt ex SFA 39
+1 Yveltal MEG 88
+
+Trainer: 15
+1 Counter Catcher PAR 160
+1 Unfair Stamp TWM 165
+2 Lively Stadium SSP 180
+1 Penny SVI 183
+4 Nest Ball SVI 181
+1 Night Stretcher ASC 196
+2 Bravery Charm PAL 173
+3 Boss's Orders PAL 172
+2 Iono PAL 185
+1 Super Rod PAL 188
+1 Crispin SCR 133
+1 Glass Trumpet ASC 189
+4 Lillie's Determination MEG 119
+1 Wally's Compassion MEG 132
+3 Energy Switch MEG 115
+
+Energy: 5
+3 Basic {P} Energy MEE 5
+7 Basic {D} Energy MEE 7
+2 Basic {G} Energy MEE 1
+2 Basic {W} Energy MEE 3
+1 Basic {R} Energy MEE 2
+
+Total Cards: 60

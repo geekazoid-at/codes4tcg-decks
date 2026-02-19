@@ -1,0 +1,37 @@
+Pokémon: 9
+1 Hoopa ex PAR 98
+1 Latias ex SSP 76
+1 Bloodmoon Ursaluna ex TWM 141
+2 Mega Audino ex ASC 172
+3 Munkidori TWM 95
+1 Bouffalant OBF 174
+2 Mega Kangaskhan ex MEG 104
+2 Bouffalant SCR 119
+1 Lillie's Clefairy ex JTG 56
+
+Trainer: 18
+1 Counter Catcher PAR 160
+1 Town Store OBF 196
+1 Precious Trolley SSP 185
+3 Energy Switch SVI 173
+4 Pokégear 3.0 SVI 186
+2 Night Stretcher SFA 61
+2 Penny SVI 183
+1 Nest Ball SVI 181
+2 Jumbo Ice Cream PFL 91
+1 Artazon PAL 171
+4 Arven OBF 186
+2 Bravery Charm PAL 173
+1 Air Balloon BLK 79
+1 Super Rod PAL 188
+2 Crispin SCR 133
+2 Ciphermaniac's Codebreaking TEF 145
+1 Switch MEG 130
+3 Boss's Orders MEG 114
+
+Energy: 3
+3 Basic {P} Energy MEE 5
+7 Basic {D} Energy MEE 7
+2 Mist Energy TEF 161
+
+Total Cards: 60
