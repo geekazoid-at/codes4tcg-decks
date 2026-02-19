@@ -1,0 +1,30 @@
+Pokémon: 9
+1 Marshadow UNB 81
+2 Dragapult ex PRE 165
+4 Drakloak TWM 129
+1 Manaphy CRZ-GG 6
+4 Dreepy TWM 128
+3 Duskull SFA 68
+2 Dusclops SFA 69
+2 Dusknoir SFA 70
+2 Budew ASC 221
+
+Trainer: 13
+2 Iono PAL 254
+4 Lillie's Determination MEG 184
+1 Unfair Stamp TWM 165
+2 U-Turn Board UNM 255
+4 Buddy-Buddy Poffin MEG 167
+2 Rescue Stretcher SMALT 187
+1 Field Blower SMALT 44
+1 Rescue Carrier CRZ 142
+4 Poké Pad ASC 198
+4 Arven PAF 235
+3 Path to the Peak ASR 213
+4 Mysterious Treasure SMALT 106
+3 Counter Catcher PAR 264
+
+Energy: 1
+4 Counter Energy CIN 122
+
+Total Cards: 60

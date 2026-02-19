@@ -1,0 +1,35 @@
+Pokémon: 10
+1 Oricorio ex PFL 110
+1 Pignite WHT 97
+2 Mega Emboar ex ASC 31
+1 Tatsugiri TWM 186
+1 Fezandipiti ex ASC 288
+4 Tepig WHT 96
+1 Mega Emboar ex ASC 273
+1 Budew ASC 221
+1 Oricorio ex MEP 24
+1 Reshiram ex WHT 166
+
+Trainer: 17
+3 Rare Candy SVI 256
+2 Battle Cage PFL 116
+2 Earthen Vessel SFA 96
+3 Arven PAF 235
+2 Boss's Orders ASC 256
+1 Iono PAL 269
+2 Night Stretcher SSP 251
+3 Ultra Ball BRS 186
+2 Air Balloon SSH 213
+1 Big Air Balloon MEW 155
+4 Buddy-Buddy Poffin TWM 223
+1 Counter Catcher PAR 264
+1 Counter Gain SSP 249
+2 Jumbo Ice Cream PFL 91
+3 Lillie's Determination MEG 184
+2 Firebreather PFL 119
+2 Nest Ball SVI 255
+
+Energy: 1
+10 Basic {R} Energy OBF 230
+
+Total Cards: 60

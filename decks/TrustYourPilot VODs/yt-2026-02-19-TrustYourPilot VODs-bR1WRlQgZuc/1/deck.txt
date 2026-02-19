@@ -1,0 +1,32 @@
+Pokémon: 13
+4 N's Zorua JTG 97
+2 N's Reshiram JTG 116
+1 N's Vanillish ASC 50
+2 N's Darmanitan JTG 27
+2 N's Vanillite ASC 49
+2 N's Vanilluxe ASC 51
+2 Cornerstone Mask Ogerpon ex PRE 58
+4 N's Zoroark ex JTG 98
+1 N's Klang JTG 104
+2 N's Klinklang JTG 105
+2 N's Klink JTG 103
+2 N's Zekrom ASC 155
+2 N's Darumaka JTG 26
+
+Trainer: 11
+2 Anthea & Concordia ASC 182
+2 Rare Candy SVI 191
+3 Area Zero Underdepths SCR 131
+4 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+1 Counter Catcher PAR 160
+4 Iono PAL 185
+1 Air Balloon BLK 79
+2 Super Rod PAL 188
+2 N's PP Up JTG 153
+1 Prime Catcher TEF 157
+
+Energy: 1
+6 Basic {D} Energy MEE 7
+
+Total Cards: 60

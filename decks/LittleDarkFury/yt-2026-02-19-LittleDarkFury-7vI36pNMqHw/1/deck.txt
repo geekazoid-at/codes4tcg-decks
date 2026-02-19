@@ -1,0 +1,40 @@
+Pokémon: 13
+1 Reshiram ex WHT 20
+2 Pidgeot ex OBF 164
+1 Pidgeotto OBF 163
+1 Fezandipiti ex ASC 142
+1 Chi-Yu PAR 29
+2 Mega Emboar ex ASC 31
+1 Oricorio ex PFL 18
+2 Pidgey OBF 162
+1 Emboar WHT 13
+2 Tepig WHT 11
+1 Tepig WHT 96
+2 Pignite ASC 30
+1 Munkidori PRE 44
+
+Trainer: 18
+1 Artazon PAF 76
+1 Precious Trolley SSP 185
+1 Super Rod PAL 188
+3 Superior Energy Retrieval PAL 189
+1 Buddy-Buddy Poffin TEF 144
+3 Rare Candy PAF 89
+1 Nest Ball PAF 84
+2 Earthen Vessel PRE 106
+1 Night Stretcher SFA 61
+1 Professor Turo's Scenario PAR 171
+2 Iono SVALT 75
+4 Arven SVI 166
+2 Technical Machine: Evolution PAR 178
+3 Ultra Ball ASC 213
+1 Vitality Band SVI 197
+1 Air Balloon BLK 79
+2 Boss's Orders MEG 114
+3 Lillie's Determination MEG 119
+
+Energy: 2
+8 Basic {R} Energy BUS 167
+1 Basic {D} Energy BUS 168
+
+Total Cards: 60
