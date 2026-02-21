@@ -1,0 +1,33 @@
+Pokémon: 9
+1 Bayleef MEG 9
+1 Mega Meganium ex ASC 10
+2 Bayleef ASC 9
+3 Chikorita ASC 8
+4 Teal Mask Ogerpon ex TWM 25
+1 Fezandipiti ex SFA 38
+1 Budew ASC 16
+1 Wellspring Mask Ogerpon ex TWM 64
+2 Meganium MEG 10
+
+Trainer: 15
+3 Poké Pad ASC 198
+2 Judge SVI 176
+2 Night Stretcher ASC 196
+1 Energy Search SVI 172
+4 Energy Switch SVI 173
+1 Crispin SCR 133
+4 Lillie's Determination MEG 119
+1 Lana's Aid TWM 155
+1 Boss's Orders MEG 114
+3 Forest of Vitality MEG 117
+1 Ultra Ball MEG 131
+4 Pokégear 3.0 SVI 186
+1 Prime Catcher TEF 157
+1 Tera Orb SSP 189
+4 Bug Catching Set TWM 143
+
+Energy: 2
+1 Basic {W} Energy SVE 11
+10 Basic {G} Energy SVE 1
+
+Total Cards: 60
