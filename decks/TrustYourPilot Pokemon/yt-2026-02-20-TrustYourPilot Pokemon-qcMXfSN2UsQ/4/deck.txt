@@ -1,0 +1,32 @@
+Pokémon: 9
+1 Seaking PRE 21
+1 Shaymin DRI 10
+2 Stunfisk ASC 62
+3 Thwackey TWM 15
+1 Psyduck ASC 39
+3 Dipplin TWM 18
+3 Applin SCR 12
+4 Grookey TWM 14
+1 Goldeen TWM 44
+
+Trainer: 14
+1 Vitality Band SVI 197
+2 Air Balloon ASC 181
+4 Poké Pad ASC 198
+4 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+1 Counter Catcher PAR 160
+1 Deluxe Bomb SCR 134
+2 Iono PAL 185
+2 Boss's Orders MEG 114
+2 Brave Bangle WHT 80
+2 Super Rod PAL 188
+1 Pal Pad SVI 182
+3 Bug Catching Set TWM 143
+4 Festival Grounds TWM 149
+
+Energy: 2
+4 Basic {G} Energy MEE 1
+4 Luminous Energy PAL 191
+
+Total Cards: 60

@@ -1,0 +1,40 @@
+Pokémon: 13
+1 Latias ex SSP 76
+1 Bloodmoon Ursaluna ex TWM 141
+2 Dunsparce TEF 128
+2 Dudunsparce TEF 129
+3 Buneary PFL 83
+1 Komala JTG 129
+1 Fezandipiti ex SFA 38
+1 Rotom SSP 61
+2 Stunfisk ASC 62
+2 Mega Lopunny ex PFL 84
+1 Shaymin DRI 10
+1 Psyduck ASC 39
+1 Tatsugiri TWM 131
+
+Trainer: 18
+1 Counter Catcher PAR 160
+1 Prime Catcher TEF 157
+1 Night Stretcher SFA 61
+1 Mega Signal MEG 121
+4 Nest Ball SVI 181
+2 Poké Pad ASC 198
+1 Artazon PAL 171
+2 Boss's Orders PAL 172
+1 Air Balloon BLK 79
+3 Iono PAL 185
+3 Arven SVI 166
+1 Professor Turo's Scenario PAR 171
+1 Super Rod PAL 188
+1 Brave Bangle WHT 80
+4 Lillie's Determination MEG 119
+1 Ultra Ball SVI 196
+2 Switch SVI 194
+2 Earthen Vessel PAR 163
+
+Energy: 2
+3 Jet Energy PAL 190
+6 Basic {L} Energy MEE 4
+
+Total Cards: 60
