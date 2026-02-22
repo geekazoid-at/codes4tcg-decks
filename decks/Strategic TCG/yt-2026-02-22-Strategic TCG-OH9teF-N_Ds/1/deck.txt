@@ -1,0 +1,39 @@
+Pokémon: 9
+3 Vikavolt V DAA 180
+1 Marshadow UNB 81
+1 Dedenne-GX SMALT 156
+3 Regieleki V SIT 175
+1 Tapu Lele-GX SMALT 38
+1 Budew ASC 221
+1 Tapu Koko {*} TEU 51
+1 Latias ex SSP 239
+3 Regieleki VMAX SIT 58
+
+Trainer: 21
+4 Electropower SMALT 137
+1 Hisuian Heavy Ball ASR 146
+2 Iono PAL 254
+1 Unfair Stamp TWM 165
+2 Lillie's Determination MEG 169
+2 Guzma BUS 143
+1 Forest Seal Stone SIT 156
+1 Rescue Stretcher SMALT 187
+1 Earthen Vessel SFA 96
+1 Choice Belt ASR 211
+1 Guzma & Hala CEC 229
+1 Field Blower SMALT 44
+3 Arven PAF 235
+4 Ultra Ball PLF 122
+1 Counter Catcher CIN 120
+1 Night Stretcher MEG 173
+2 Raihan EVS 202
+1 Canari ASC 257
+1 Thunder Mountain {*} LOT 191
+4 Quick Ball SSH 216
+1 Air Balloon SSH 213
+
+Energy: 2
+5 Basic {L} Energy GRI 168
+4 Speed {L} Energy RCL 173
+
+Total Cards: 60

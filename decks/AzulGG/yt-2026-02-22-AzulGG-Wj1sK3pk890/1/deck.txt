@@ -1,0 +1,34 @@
+Pokémon: 21
+4 Dreepy ASC 158
+4 Drakloak ASC 159
+2 Dragapult ex ASC 160
+3 Charmander PAF 7
+1 Charmeleon PFL 12
+2 Charizard ex OBF 125
+1 Budew ASC 16
+1 Chi-Yu PAR 29
+1 Fezandipiti ex ASC 142
+1 Hawlucha SVI 118
+1 Munkidori ASC 99
+
+Trainer: 30
+4 Lillie's Determination MEG 119
+3 Arven OBF 186
+3 Boss's Orders MEG 114
+3 Iono PAL 185
+1 Acerola's Mischief MEG 113
+4 Buddy-Buddy Poffin ASC 184
+4 Ultra Ball MEG 131
+2 Rare Candy MEG 125
+1 Counter Catcher PAR 160
+1 Night Stretcher ASC 196
+1 Super Rod PAL 188
+1 Unfair Stamp TWM 165
+1 Air Balloon ASC 181
+1 Technical Machine: Evolution PAR 178
+
+Energy: 9
+5 Basic {R} Energy SVE 2
+4 Luminous Energy PAL 191 
+
+Total Cards: 60
