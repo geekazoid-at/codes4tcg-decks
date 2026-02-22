@@ -1,0 +1,33 @@
+Pokémon: 6
+3 Iono's Wattrel JTG 54
+1 Iono's Voltorb JTG 47
+3 Iono's Tadbulb JTG 52
+3 Iono's Kilowattrel JTG 55
+2 Raging Bolt ex TEF 123
+2 Iono's Bellibolt ex JTG 53
+
+Trainer: 18
+2 Canari ASC 185
+1 Switch SVI 194
+2 Earthen Vessel PAR 163
+2 Energy Switch SVI 173
+2 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+2 Iono PAL 185
+1 Air Balloon BLK 79
+1 Night Stretcher SFA 61
+2 Superior Energy Retrieval PAL 189
+1 Super Rod PAL 188
+3 Pokégear 3.0 SVI 186
+1 Prime Catcher TEF 157
+2 Levincia JTG 150
+2 Professor Sada's Vitality PRE 120
+2 Nest Ball SVI 181
+2 Ultra Ball ASC 213
+2 Boss's Orders PAL 172
+
+Energy: 2
+9 Basic {L} Energy MEE 4
+3 Basic {F} Energy MEE 6
+
+Total Cards: 60

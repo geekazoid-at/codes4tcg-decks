@@ -1,0 +1,23 @@
+Pokémon: 6
+4 Iono's Wattrel JTG 54
+3 Iono's Voltorb JTG 47
+3 Iono's Tadbulb JTG 52
+3 Iono's Kilowattrel JTG 55
+3 Iono's Bellibolt ex JTG 53
+1 Fezandipiti ex SFA 38
+
+Trainer: 9
+4 Canari ASC 185
+3 Ultra Ball SVI 196
+1 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+1 Battle Cage PFL 85
+3 Night Stretcher SFA 61
+1 Max Rod PRE 116
+2 Levincia JTG 150
+2 Boss's Orders PAL 172
+
+Energy: 1
+22 Basic {L} Energy MEE 4
+
+Total Cards: 60
