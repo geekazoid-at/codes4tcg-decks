@@ -1,0 +1,32 @@
+Pokémon: 12
+1 Fezandipiti ex SFA 38
+1 Toedscool SCR 17
+1 Budew PRE 4
+2 Smoliv DRI 21
+2 Dolliv DRI 22
+2 Arboliva ex DRI 23
+2 Meganium MEG 10
+1 Toedscruel ex OBF 22
+2 Bayleef MEG 9
+2 Chikorita MEG 8
+1 Toedscruel PAR 17
+3 Teal Mask Ogerpon ex TWM 25
+
+Trainer: 12
+1 Lana's Aid TWM 155
+4 Lillie's Determination ASC 192
+1 Unfair Stamp TWM 165
+2 Nest Ball SVI 181
+4 Ultra Ball MEG 131
+3 Dawn PFL 87
+1 Poké Pad ASC 198
+1 Night Stretcher SFA 61
+2 Iono PAL 185
+2 Boss's Orders PAL 172
+4 Bug Catching Set PRE 102
+4 Forest of Vitality ASC 188
+
+Energy: 1
+11 Basic {G} Energy GRI 167
+
+Total Cards: 60
