@@ -1,0 +1,34 @@
+Pokémon: 11
+2 Snorunt ASC 46
+1 Bloodmoon Ursaluna ex TWM 141
+1 Galvantula SFA 2
+2 Erika's Tangela ASC 7
+3 Erika's Vileplume ex ASC 3
+3 Erika's Gloom ASC 2
+3 Erika's Oddish ASC 1
+2 Froslass TWM 53
+2 Joltik SCR 50
+1 Shaymin DRI 10
+1 Psyduck ASC 39
+
+Trainer: 14
+3 Forest of Vitality MEG 117
+2 Counter Catcher PAR 160
+1 Secret Box TWM 163
+1 Counter Gain SSP 169
+3 Nest Ball SVI 181
+2 Poké Pad ASC 198
+1 Night Stretcher ASC 196
+3 Iono PAL 185
+3 Arven SVI 166
+1 Super Rod PAL 188
+1 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+2 Air Balloon ASC 181
+2 Boss's Orders MEG 114
+
+Energy: 2
+4 Basic {L} Energy MEE 4
+6 Basic {G} Energy MEE 1
+
+Total Cards: 60
