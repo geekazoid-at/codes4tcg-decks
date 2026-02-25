@@ -1,0 +1,30 @@
+Pokémon: 7
+3 Galarian Obstagoon ASC 132
+3 Galarian Zigzagoon ASC 130
+2 Galarian Linoone ASC 131
+4 Spiritomb MEG 87
+1 Fezandipiti ex SFA 38
+1 Shaymin DRI 10
+1 Psyduck ASC 39
+
+Trainer: 14
+3 Counter Catcher PAR 160
+4 Punk Helmet PFL 92
+2 Counter Gain SSP 169
+2 Morty's Conviction TEF 155
+2 Night Stretcher SFA 61
+4 Nest Ball SVI 181
+2 Risky Ruins MEG 127
+4 Poké Pad ASC 198
+2 Air Balloon BLK 79
+4 Iono PAL 185
+2 Arven SVI 166
+1 Super Rod PAL 188
+4 Lillie's Determination MEG 119
+2 Rare Candy SVI 191
+
+Energy: 2
+1 Legacy Energy TWM 167
+6 Basic {D} Energy MEE 7
+
+Total Cards: 60

@@ -1,0 +1,40 @@
+Pokémon: 10
+1 Toedscool SCR 17
+3 Espathra ex PAF 6
+3 Cascoon ASC 14
+1 Fezandipiti ex SFA 38
+3 Wurmple ASC 11
+1 Dedenne SSP 87
+3 Dustox ASC 15
+1 Toedscruel PAR 17
+3 Flittle SVI 100
+1 Psyduck ASC 39
+
+Trainer: 21
+2 Forest of Vitality MEG 117
+1 Counter Catcher PAR 160
+4 Bug Catching Set TWM 143
+1 Pokémon League Headquarters OBF 192
+1 Enhanced Hammer TWM 148
+1 Xerosic's Machinations SFA 64
+1 Prime Catcher TEF 157
+1 Night Stretcher SFA 61
+1 Nest Ball SVI 181
+2 Poké Pad ASC 198
+1 Boss's Orders PAL 172
+1 Air Balloon BLK 79
+2 Handheld Fan TWM 150
+3 Iono PAL 185
+2 Arven SVI 166
+1 Technical Machine: Devolution PAR 177
+1 Super Rod PAL 188
+2 Crushing Hammer SVI 168
+1 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+1 Earthen Vessel PAR 163
+
+Energy: 2
+2 Reversal Energy PAL 192
+4 Basic {P} Energy MEE 5
+
+Total Cards: 60

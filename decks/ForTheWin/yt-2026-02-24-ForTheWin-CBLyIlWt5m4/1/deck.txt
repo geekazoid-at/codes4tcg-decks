@@ -1,0 +1,34 @@
+Pokémon: 19
+2 Smoliv DRI 21
+2 Dolliv SVI 22
+2 Arboliva ex DRI 23
+2 Hoothoot SCR 114
+2 Noctowl SCR 115
+2 Teal Mask Ogerpon ex TWM 25
+2 Hawlucha SVI 118
+2 Fan Rotom SCR 118
+1 Bloodmoon Ursaluna ex TWM 141
+1 Fezandipiti ex ASC 142
+1 Latias ex SSP 76
+
+Trainer: 33
+4 Arven OBF 186
+3 Dawn PFL 87
+2 Boss's Orders MEG 114
+1 Hilda WHT 84
+4 Nest Ball SVI 181
+4 Ultra Ball MEG 131
+3 Buddy-Buddy Poffin TEF 144
+2 Night Stretcher ASC 196
+2 Earthen Vessel PAR 163
+1 Poké Pad ASC 198
+1 Switch MEG 130
+2 Air Balloon ASC 181
+1 Maximum Belt TEF 154
+2 Forest of Vitality MEG 117
+1 Area Zero Underdepths SCR 131
+
+Energy: 8
+8 Basic {G} Energy SVE 1
+
+Total Cards: 60

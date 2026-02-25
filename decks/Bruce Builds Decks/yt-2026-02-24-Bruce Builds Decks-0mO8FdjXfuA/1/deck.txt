@@ -1,0 +1,30 @@
+Pokémon: 14
+4 Charcadet SSP 33
+2 Fuecoco PAL 35
+1 Crocalor SVI 37
+4 Ceruledge PFL 20
+1 Fezandipiti ex ASC 142
+2 Skeledirge ex PAR 137
+
+Trainer: 35
+2 Earthen Vessel PRE 106
+1 Air Balloon ASC 181
+4 Poké Pad ASC 198
+3 Night Stretcher ASC 196
+4 Lillie's Determination MEG 119
+1 Mela PAR 167
+2 Boss's Orders MEG 114
+2 Brave Bangle WHT 80
+2 Ultra Ball MEG 131
+4 Superior Energy Retrieval PAL 189
+1 Max Rod PRE 116
+2 Artazon PAL 171
+2 Firebreather PFL 89
+1 Blowtorch PFL 86
+3 Arven SVI 166
+1 Rare Candy MEG 125
+
+Energy: 11
+11 Basic {R} Energy SVE 2
+
+Total Cards: 60

@@ -1,0 +1,30 @@
+Pokémon: 6
+4 Helioptile MEG 52
+4 Heliolisk ASC 64
+2 Tatsugiri TWM 131
+2 Eelektrik BLK 31
+2 Joltik SCR 50
+2 Tynamo BLK 30
+
+Trainer: 14
+4 Canari ASC 185
+1 Exp. Share SVI 174
+2 Buddy-Buddy Poffin TEF 144
+3 Lillie's Determination MEG 119
+4 Pokégear 3.0 BLK 84
+2 Counter Catcher PAR 160
+3 Air Balloon BLK 79
+2 Battle Cage PFL 85
+1 Energy Recycler DRI 164
+1 Brave Bangle WHT 80
+1 Prime Catcher PRE 119
+1 Iono PAF 80
+1 Pal Pad SVI 182
+1 Sacred Ash DRI 168
+
+Energy: 3
+13 Basic {L} Energy MEE 4
+2 Basic {G} Energy MEE 1
+2 Reversal Energy PAL 192
+
+Total Cards: 60
