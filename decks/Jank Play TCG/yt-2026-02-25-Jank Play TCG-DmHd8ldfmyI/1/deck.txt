@@ -1,0 +1,33 @@
+Pokémon: 10
+2 Dunsparce PRE 79
+4 Dratini OBF 157
+4 Tynamo OBF 67
+1 Psyduck ASC 39
+2 Dunsparce PAL 156
+3 Dudunsparce PRE 80
+4 Eelektrik BLK 31
+3 Mega Dragonite ex ASC 152
+3 Dragonair ASC 151
+1 Eelektross OBF 69
+
+Trainer: 13
+4 Buddy-Buddy Poffin ASC 184
+2 Earthen Vessel PRE 106
+3 Poké Pad ASC 198
+1 Rare Candy SVI 191
+2 Night Stretcher ASC 196
+1 Jamming Tower TWM 153
+2 Battle Cage PFL 85
+1 Wally's Compassion MEG 132
+2 Harlequin WHT 83
+1 Prime Catcher TEF 157
+2 Boss's Orders MEG 114
+2 Hilda WHT 84
+1 Lana's Aid TWM 155
+
+Energy: 3
+3 Basic {W} Energy SVE 11
+5 Basic {L} Energy SVE 12
+1 Boomerang Energy TWM 166
+
+Total Cards: 60

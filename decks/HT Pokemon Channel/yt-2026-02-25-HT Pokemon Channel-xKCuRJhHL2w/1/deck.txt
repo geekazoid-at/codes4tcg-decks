@@ -1,0 +1,33 @@
+Pokémon: 24
+3 Dratini OBF 157
+3 Dragonair ASC 151
+2 Mega Dragonite ex ASC 152
+3 Buneary MEG 107
+2 Mega Lopunny ex PFL 84
+2 Tynamo ASC 59
+2 Eelektrik ASC 60
+3 Pidgey MEW 16
+1 Pidgeotto MEW 17
+2 Pidgeot ex OBF 164
+1 Tatsugiri TWM 131
+
+Trainer: 26
+4 Buddy-Buddy Poffin ASC 184
+2 Ultra Ball ASC 213
+2 Rare Candy MEG 125
+2 Night Stretcher ASC 196
+1 Earthen Vessel PRE 106
+1 Maximum Belt PRE 117
+1 Technical Machine: Evolution PAR 178
+1 Air Balloon ASC 181
+1 Battle Cage PFL 85
+4 Arven SVI 166
+3 Boss's Orders ASC 183
+2 Lillie's Determination ASC 192
+2 Iono PAF 80
+
+Energy: 10
+7 Basic {L} Energy SVE 4
+3 Basic {W} Energy SVE 3
+
+Total Cards: 60
