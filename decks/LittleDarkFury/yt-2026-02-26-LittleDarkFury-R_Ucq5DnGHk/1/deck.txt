@@ -1,0 +1,28 @@
+Pokémon: 12
+4 Team Rocket's Murkrow ASC 126
+3 Team Rocket's Honchkrow ASC 127
+2 Team Rocket's Porygon DRI 153
+2 Team Rocket's PORYGON 2 DRI 154
+1 Team Rocket's Chingling DRI 85
+
+Trainer: 40
+4 Team Rocket's Archer ASC 201
+4 Team Rocket's Proton ASC 208
+4 Team Rocket's Ariana ASC 202
+4 Team Rocket's Petrel DRI 176
+4 Team Rocket's Giovanni DRI 174
+4 Poké Pad ASC 198
+4 Team Rocket's Transceiver ASC 209
+1 Miracle Headset SSP 183
+1 Pokégear 3.0 BLK 84
+1 Pal Pad SVI 182
+1 Sacred Ash DRI 168
+1 Roto-Stick PRE 127
+3 Lucky Helmet TWM 158
+4 Team Rocket's Factory ASC 203
+
+Energy: 8
+4 Team Rocket's Energy ASC 217
+4 Ignition Energy WHT 86
+
+Total Cards: 60

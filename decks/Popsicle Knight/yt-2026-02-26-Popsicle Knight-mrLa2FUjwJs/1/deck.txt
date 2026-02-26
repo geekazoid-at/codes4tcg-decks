@@ -1,0 +1,30 @@
+Pokémon: 7
+4 Rolycoly ASC 118
+1 Carkol ASC 119
+1 Coalossal ASC 120
+2 Solrock ASC 106
+3 Coalossal ASC 120
+2 Lunatone ASC 105
+1 Carkol ASC 119
+
+Trainer: 14
+1 Counter Catcher PAR 160
+1 Exp. Share SVI 174
+1 Brilliant Blender SSP 164
+3 Premium Power Pro MEG 124
+4 Poké Pad ASC 198
+2 Night Stretcher ASC 196
+2 Cycling Road MEW 157
+4 Lillie's Determination ASC 192
+2 Arven SVI 166
+1 Super Rod PAL 188
+3 Rare Candy PAF 89
+2 Earthen Vessel PRE 106
+3 Fighting Gong ASC 187
+1 Boss's Orders ASC 183
+
+Energy: 2
+13 Basic {F} Energy MEE 6
+3 Ignition Energy WHT 86
+
+Total Cards: 60
