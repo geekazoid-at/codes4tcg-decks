@@ -1,0 +1,34 @@
+Pokémon: 13
+1 Klefki SVI 96
+1 Dusknoir PRE 37
+2 N's Vanilluxe ASC 51
+1 Latias ex SSP 76
+3 Slowpoke SVI 42
+2 Kyurem SFA 47
+3 Duskull PRE 35
+3 Dusclops PRE 36
+1 Fezandipiti ex SFA 38
+1 Galarian Obstagoon ASC 132
+1 Budew PRE 4
+3 Slowking SCR 58
+1 Bloodmoon Ursaluna ex TWM 141
+
+Trainer: 11
+4 Academy at Night SFA 54
+4 Poké Pad ASC 198
+4 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+2 Counter Catcher PAR 160
+3 Iono PAL 185
+1 Technical Machine: Devolution PAR 177
+4 Night Stretcher SFA 61
+1 Ultra Ball MEG 131
+2 Professor's Research JTG 155
+1 Secret Box TWM 163
+
+Energy: 3
+1 Basic {P} Energy MEE 5
+2 Jet Energy PAL 190
+4 Reversal Energy PAL 192
+
+Total Cards: 60
