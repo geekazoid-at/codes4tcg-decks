@@ -1,0 +1,37 @@
+Pokémon: 12
+3 N's Zoroark ex JTG 98
+1 N's Zoroark ex ASC 286
+1 N's Reshiram ASC 154
+1 N's Zekrom ASC 155
+1 N's Zekrom MEP 31
+2 Tarountula PAL 16
+2 N's Vanillish ASC 50
+1 Fezandipiti ex SFA 38
+2 N's Vanillite ASC 49
+4 N's Zorua ASC 136
+1 Munkidori TWM 95
+2 Spidops ex SVI 19
+
+Trainer: 16
+2 Boss's Orders MEG 114
+3 Lillie's Determination MEG 119
+1 Team Rocket's Watchtower DRI 180
+1 Secret Box TWM 163
+1 Super Rod PAL 188
+2 Air Balloon BLK 79
+4 Buddy-Buddy Poffin PRE 101
+1 Night Stretcher SFA 61
+1 Pal Pad SVI 182
+3 Poké Pad ASC 198
+3 Iono PAL 185
+2 Professor Turo's Scenario PAR 171
+2 Counter Catcher PAR 160
+2 Cyrano SSP 170
+1 Artazon PAL 171
+2 N's PP Up ASC 195
+
+Energy: 2
+7 Basic {D} Energy BUS 168
+1 Basic {G} Energy GRI 167
+
+Total Cards: 60
