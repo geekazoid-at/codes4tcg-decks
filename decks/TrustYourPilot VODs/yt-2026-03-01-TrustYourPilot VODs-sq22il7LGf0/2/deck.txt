@@ -1,0 +1,40 @@
+Pokémon: 12
+2 Mow Rotom DRI 9
+1 Psyduck MEP 7
+2 Rotom ex PFL 29
+1 Wash Rotom DRI 61
+1 Fezandipiti ex SFA 38
+1 Heat Rotom DRI 43
+1 Budew PRE 4
+1 Lillie's Clefairy ex JTG 56
+2 Rotom ASC 92
+1 Shaymin DRI 10
+1 Tatsugiri TWM 131
+1 Rotom DRI 77
+
+Trainer: 17
+1 Counter Catcher PAR 160
+1 Town Store OBF 196
+3 Exp. Share SVI 174
+4 Counter Gain SSP 169
+1 Treasure Tracker PRE 131
+3 Nest Ball SVI 181
+3 Bravery Charm PAL 173
+2 Boss's Orders PAL 172
+4 Air Balloon BLK 79
+3 Iono PAL 185
+1 Super Rod PAL 188
+1 Lillie's Pearl JTG 151
+1 Crispin PRE 105
+3 Buddy-Buddy Poffin TEF 144
+3 Brave Bangle WHT 80
+4 Lillie's Determination MEG 119
+1 Professor's Research PRE 122
+
+Energy: 4
+1 Basic {W} Energy SVE 3
+1 Basic {G} Energy SVE 1
+2 Basic {P} Energy SVE 5
+2 Basic {L} Energy SVE 4
+
+Total Cards: 60

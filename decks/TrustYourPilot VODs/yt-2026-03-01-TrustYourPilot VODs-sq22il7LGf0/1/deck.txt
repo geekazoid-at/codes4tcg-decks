@@ -1,0 +1,36 @@
+Pokémon: 10
+1 Mow Rotom DRI 9
+1 Psyduck MEP 7
+2 Rotom ex PFL 29
+1 Fezandipiti ex SFA 38
+1 Heat Rotom DRI 43
+1 Budew PRE 4
+1 Lillie's Clefairy ex JTG 56
+4 Rotom ASC 92
+1 Shaymin DRI 10
+1 Tatsugiri TWM 131
+
+Trainer: 18
+1 Counter Catcher PAR 160
+1 Town Store OBF 196
+2 Exp. Share SVI 174
+4 Counter Gain SSP 169
+2 Morty's Conviction TEF 155
+1 Night Stretcher SFA 61
+1 Treasure Tracker PRE 131
+4 Nest Ball SVI 181
+3 Bravery Charm PAL 173
+2 Boss's Orders PAL 172
+4 Air Balloon BLK 79
+2 Iono PAL 185
+1 Super Rod PAL 188
+1 Lillie's Pearl JTG 151
+2 Wondrous Patch PFL 94
+4 Brave Bangle WHT 80
+4 Lillie's Determination MEG 119
+1 Earthen Vessel PAR 163
+
+Energy: 1
+6 Basic {P} Energy MEE 5
+
+Total Cards: 60

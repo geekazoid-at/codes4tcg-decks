@@ -1,0 +1,28 @@
+Pokémon: 13
+4 Delibird MEG 105
+3 Natu PAF 25
+3 Xatu PAF 26
+3 Mega Diancie ex PFL 41
+
+Trainer: 38
+4 Lillie's Determination ASC 192
+4 Penny SVI 183
+4 Arven SVI 166
+2 Acerola's Mischief ASC 180
+4 Wondrous Patch PFL 94
+3 Earthen Vessel PRE 106
+4 Pokégear 3.0 SVI 186
+2 Energy Switch SVI 173
+2 Super Rod PAL 188
+1 Pal Pad SVI 182
+1 Precious Trolley SSP 185
+2 Powerglass SFA 63
+1 Bravery Charm PAL 173
+2 Lively Stadium SSP 180
+1 Gravity Mountain SSP 177
+1 Poké Pad ASC 198
+
+Energy: 9
+9 Basic {P} Energy SVE 5
+
+Total Cards: 60
