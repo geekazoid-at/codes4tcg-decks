@@ -1,0 +1,32 @@
+Pokémon: 8
+2 Dreepy ASC 158
+1 Munkidori ASC 99
+3 Erika's Vileplume ex ASC 3
+1 Psyduck ASC 39
+3 Erika's Gloom ASC 2
+4 Erika's Oddish ASC 1
+2 Erika's Tangela ASC 7
+2 Drakloak TWM 129
+
+Trainer: 14
+4 Poké Pad ASC 198
+1 Night Stretcher SFA 61
+3 Iono PAF 80
+3 Lillie's Determination ASC 192
+2 Air Balloon BLK 79
+3 Forest of Vitality MEG 117
+2 Buddy-Buddy Poffin PRE 101
+1 Switch SVI 194
+2 Crispin PRE 105
+1 Colress's Tenacity SFA 57
+2 Pokégear 3.0 SVI 186
+1 Ultra Ball MEG 131
+3 Boss's Orders PAL 172
+4 Jumbo Ice Cream PFL 91
+
+Energy: 3
+3 Basic {D} Energy BUS 168
+6 Basic {G} Energy GRI 167
+1 Neo Upper Energy TEF 162
+
+Total Cards: 60
