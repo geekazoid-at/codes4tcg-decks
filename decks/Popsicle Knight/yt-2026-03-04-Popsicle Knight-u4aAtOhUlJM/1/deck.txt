@@ -1,0 +1,34 @@
+Pokémon: 13
+2 Glimmet OBF 121
+2 Glimmora SSP 115
+1 Wurmple ASC 11
+3 Cascoon ASC 14
+2 Beautifly ASC 13
+2 Wurmple ASC 11
+2 Cleffa OBF 80
+2 Dustox ASC 15
+1 Shaymin DRI 10
+1 Wurmple ASC 11
+1 Psyduck ASC 39
+2 Silcoon ASC 12
+1 Dustox ASC 15
+
+Trainer: 13
+2 Counter Catcher PAR 160
+1 Dawn PFL 87
+1 Xerosic's Machinations SFA 64
+4 Poké Pad ASC 198
+2 Night Stretcher ASC 196
+2 Handheld Fan TWM 150
+2 Arven SVI 166
+2 Super Rod PAL 188
+3 Forest of Vitality ASC 188
+4 Buddy-Buddy Poffin ASC 184
+4 Lillie's Determination MEG 119
+1 Neutralization Zone SFA 60
+2 Rare Candy SVI 191
+
+Energy: 1
+8 Basic {G} Energy MEE 1
+
+Total Cards: 60
