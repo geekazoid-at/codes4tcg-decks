@@ -1,0 +1,32 @@
+Pokémon: 7
+2 Snorunt ASC 46
+2 Hippowdon DRI 106
+2 Munkidori TWM 95
+2 Froslass TWM 53
+2 Budew PRE 4
+3 Uxie SSP 78
+3 Hippopotas DRI 105
+
+Trainer: 15
+3 Counter Catcher PAR 160
+2 Vengeful Punch OBF 197
+1 Unfair Stamp TWM 165
+1 Energy Search SVI 172
+2 Night Stretcher SFA 61
+2 Nest Ball SVI 181
+4 Poké Pad ASC 198
+2 Artazon PAL 171
+2 Air Balloon BLK 79
+4 Iono PAL 185
+3 Arven SVI 166
+1 Technical Machine: Devolution PAR 177
+1 Super Rod PAL 188
+2 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+
+Energy: 3
+4 Reversal Energy PAL 192
+4 Prism Energy BLK 86
+2 Basic {P} Energy MEE 5
+
+Total Cards: 60
