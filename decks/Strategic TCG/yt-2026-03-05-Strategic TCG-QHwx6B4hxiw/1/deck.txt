@@ -1,0 +1,40 @@
+Pokémon: 9
+1 Ditto {*} LOT 154
+1 Manaphy CRZ-GG 6
+4 Cinccino PR-SW 9
+1 Girafarig LOT 94
+3 Minccino BRS 124
+1 Fan Rotom ASC 250
+3 Drilbur CEC 114
+3 Excadrill UNM 119
+1 Minccino BRS 124
+
+Trainer: 23
+1 Max Potion GRI 164
+1 Survival Brace TWM 164
+2 Crushing Hammer UPR 166
+1 Field Blower GRI 163
+1 Enhanced Hammer GRI 162
+3 Fighting Gong MEG 168
+4 Lillie's Determination MEG 169
+1 Super Rod PAL 276
+1 Guzma BUS 143
+1 U-Turn Board UNM 255
+4 Buddy-Buddy Poffin MEG 167
+1 Bellelba & Brycen-Man CEC 186
+4 Poké Pad ASC 198
+2 Arven PAF 235
+1 Channeler UNM 232
+1 Lana's Fishing Rod CEC 266
+2 Path to the Peak ASR 213
+1 Counter Catcher CIN 120
+1 Thorton LOR 195
+2 Gladion CIN 109
+1 Iono PAL 269
+1 Air Balloon SSH 213
+1 Last Chance Potion CES 135
+
+Energy: 1
+4 Basic {F} Energy GRI 169
+
+Total Cards: 60

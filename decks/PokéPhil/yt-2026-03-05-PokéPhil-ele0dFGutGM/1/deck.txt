@@ -1,0 +1,33 @@
+Pokémon: 9
+3 Thwackey TWM 15
+3 Dipplin TWM 18
+4 Applin SCR 12
+4 Grookey TWM 14
+1 Goldeen TWM 44
+1 Rillaboom TWM 16
+1 Seaking PRE 21
+1 Shaymin DRI 10
+1 Psyduck ASC 39
+
+Trainer: 15
+4 Bug Catching Set TWM 143
+1 Surfer SSP 187
+4 Festival Grounds TWM 149
+1 Tool Scrapper WHT 85
+2 Black Belt's Training JTG 143
+2 Night Stretcher SFA 61
+4 Poké Pad ASC 198
+2 Air Balloon BLK 79
+1 Lana's Aid TWM 155
+1 Kieran TWM 154
+1 Judge DRI 167
+4 Buddy-Buddy Poffin TEF 144
+2 Brave Bangle WHT 80
+3 Lillie's Determination MEG 119
+3 Boss's Orders MEG 114
+
+Energy: 2
+1 Legacy Energy TWM 167
+5 Basic {G} Energy MEE 1
+
+Total Cards: 60

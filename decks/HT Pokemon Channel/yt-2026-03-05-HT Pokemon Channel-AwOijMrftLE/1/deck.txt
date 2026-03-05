@@ -1,0 +1,24 @@
+Pokémon: 17
+4 Iono's Tadbulb ASC 69
+3 Iono's Bellibolt ex ASC 70
+4 Iono's Wattrel ASC 71
+3 Iono's Kilowattrel ASC 72
+3 Iono's Voltorb JTG 47
+
+Trainer: 25
+4 Buddy-Buddy Poffin ASC 184
+4 Electric Generator PAF 79
+2 Poké Pad ASC 198
+2 Pokégear 3.0 BLK 84
+1 Superior Energy Retrieval PAL 189
+1 Night Stretcher ASC 196
+1 Max Rod PRE 116
+1 Bravery Charm PAL 173
+3 Levincia JTG 150
+4 Canari ASC 185
+2 Boss's Orders ASC 183
+
+Energy: 18
+18 Basic {L} Energy SVE 4
+
+Total Cards: 60

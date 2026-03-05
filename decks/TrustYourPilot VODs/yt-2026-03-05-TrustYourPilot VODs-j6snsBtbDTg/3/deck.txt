@@ -1,0 +1,39 @@
+Pokémon: 12
+1 Psyduck MEP 7
+2 Lunatone MEG 74
+4 Mankey DRI 90
+3 Primeape DRI 91
+1 Annihilape DRI 92
+1 Fezandipiti ex SFA 38
+1 Annihilape SSP 100
+1 Annihilape ex PR-SV 32
+2 Solrock MEG 75
+1 Shaymin DRI 10
+1 Relicanth TEF 84
+2 Annihilape SVI 109
+
+Trainer: 18
+4 Fighting Gong MEG 116
+1 Counter Catcher PAR 160
+1 Secret Box TWM 163
+1 Counter Gain SSP 169
+2 Night Stretcher SFA 61
+2 Premium Power Pro MEG 124
+2 Risky Ruins MEG 127
+2 Poké Pad ASC 198
+1 Boss's Orders PAL 172
+1 Air Balloon BLK 79
+2 Iono PAL 185
+4 Arven SVI 166
+1 Technical Machine: Evolution PAR 178
+1 Super Rod PAL 188
+1 Buddy-Buddy Poffin TEF 144
+1 Brave Bangle WHT 80
+4 Lillie's Determination MEG 119
+1 Rare Candy SVI 191
+
+Energy: 2
+1 Reversal Energy PAL 192
+7 Basic {F} Energy SVE 6
+
+Total Cards: 60

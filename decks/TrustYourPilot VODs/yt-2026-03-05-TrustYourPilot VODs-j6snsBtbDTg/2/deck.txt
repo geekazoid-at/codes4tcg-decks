@@ -1,0 +1,34 @@
+Pokémon: 8
+2 Lunatone MEG 74
+4 Mankey DRI 90
+2 Primeape DRI 91
+1 Fezandipiti ex SFA 38
+1 Bloodmoon Ursaluna PRE 54
+3 Solrock MEG 75
+1 Ting-Lu TWM 110
+3 Annihilape SVI 109
+
+Trainer: 17
+4 Fighting Gong MEG 116
+2 Counter Catcher PAR 160
+1 Energy Retrieval WHT 82
+2 Night Stretcher SFA 61
+2 Premium Power Pro MEG 124
+1 Nest Ball SVI 181
+3 Poké Pad ASC 198
+2 Artazon PAL 171
+2 Boss's Orders PAL 172
+2 Air Balloon BLK 79
+1 Lana's Aid TWM 155
+3 Iono PAL 185
+1 Arven SVI 166
+1 Super Rod PAL 188
+2 Brave Bangle WHT 80
+4 Lillie's Determination MEG 119
+2 Rare Candy SVI 191
+
+Energy: 2
+1 Legacy Energy TWM 167
+7 Basic {F} Energy SVE 6
+
+Total Cards: 60
