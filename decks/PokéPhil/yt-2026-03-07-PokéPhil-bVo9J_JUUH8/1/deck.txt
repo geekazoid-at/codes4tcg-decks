@@ -1,0 +1,42 @@
+Pokémon: 17
+1 Bloodmoon Ursaluna ex PRE 168
+1 Wellspring Mask Ogerpon ex PRE 152
+1 Hop's Dubwool SVALT 173
+1 Wellspring Mask Ogerpon ex TWM 213
+1 Hop's Wooloo JTG 170
+1 Koraidon ex ASC 121
+1 Latias ex SSP 239
+1 Fan Rotom ASC 250
+1 Mew ex PAF 232
+1 Fan Rotom PRE 85
+2 Teal Mask Ogerpon ex PRE 145
+4 Hoothoot SCR 114
+1 Fezandipiti ex SFA 92
+1 Ditto MEW 132
+1 Lillie's Clefairy ex JTG 184
+4 Noctowl PR-SV 141
+1 Mega Kangaskhan ex MEG 182
+
+Trainer: 14
+1 Vitality Band SVI 197
+1 Earthen Vessel SFA 96
+4 Poké Pad ASC 198
+2 Boss's Orders PAL 265
+1 Night Stretcher SSP 251
+1 Professor Turo's Scenario PAR 257
+2 Energy Switch SIT 212
+3 Crispin SCR 164
+1 Buddy-Buddy Poffin TWM 223
+1 Sparkling Crystal SCR 142
+3 Area Zero Underdepths SCR 174
+2 Lillie's Determination MEG 184
+1 Switch MEW 206
+4 Nest Ball SVI 255
+
+Energy: 4
+1 Basic {F} Energy SVI 258
+5 Basic {G} Energy PAL 278
+2 Basic {W} Energy PAL 279
+1 Basic {P} Energy MEW 207
+
+Total Cards: 60
