@@ -1,0 +1,33 @@
+Pokémon: 9
+1 Rowlet SFA 3
+1 Shaymin DRI 10
+1 Psyduck ASC 39
+4 Wattrel PAL 80
+4 Murkrow PAL 131
+1 Fezandipiti ex SFA 38
+1 Squawkabilly ex PAL 169
+4 Flamigo PAL 170
+4 Dartrix SFA 4
+
+Trainer: 16
+4 Ultra Ball SVI 196
+4 Poké Pad ASC 198
+2 Earthen Vessel PAR 163
+1 Brilliant Blender SSP 164
+1 Lillie's Determination MEG 119
+1 Counter Catcher PAR 160
+1 Iono PAL 185
+2 Air Balloon BLK 79
+2 Battle Cage PFL 85
+2 Brave Bangle WHT 80
+4 Night Stretcher SFA 61
+2 Professor's Research PRE 122
+1 Pal Pad SVI 182
+1 Penny SVI 183
+4 Carmine TWM 145
+2 Boss's Orders PAL 172
+
+Energy: 1
+5 Basic {D} Energy MEE 7
+
+Total Cards: 60

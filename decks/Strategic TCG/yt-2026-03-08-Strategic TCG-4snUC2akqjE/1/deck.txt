@@ -1,0 +1,34 @@
+Pokémon: 2
+3 Jellicent ex WHT 168
+3 Frillish BST 41
+
+Trainer: 19
+4 Trekking Shoes ASR 215
+1 Order Pad UPR 131
+2 Chaotic Swell CEC 187
+3 Order Pad UPR 131
+2 Plumeria BUS 145
+4 Boost Shake EVS 229
+3 Carmine TWM 217
+2 Lusamine UPR 153
+2 Guzma BUS 143
+4 Acro Bike CES 178
+2 Cynthia & Caitlin CEC 228
+2 Tag Call CEC 270
+3 Guzma & Hala CEC 229
+1 Roseanne's Backup BRS 172
+1 Gladion CIN 109
+1 Hero's Cape TEF 152
+1 Energy Loto ASR 140
+2 Faba LOT 208
+1 Lillie's Determination MEG 184
+
+Energy: 6
+1 Mist Energy TEF 161
+2 Horror {P} Energy RCL 172
+4 Boomerang Energy TWM 166
+1 Therapeutic Energy PAL 193
+1 Weakness Guard Energy UNM 258
+4 Memory Energy LOT 194
+
+Total Cards: 60
