@@ -1,0 +1,38 @@
+Pokémon: 12
+2 Pidgey MEW 16
+1 Budew ASC 16
+4 Timburr BLK 47
+2 Brute Bonnet PAR 123
+1 Gurdurr BLK 48
+4 Conkeldurr TWM 105
+1 Fezandipiti ex SFA 38
+2 Pidgeotto MEW 17
+2 Pidgeot ex OBF 164
+1 Shaymin DRI 10
+1 Genesect SFA 40
+1 Psyduck ASC 39
+
+Trainer: 19
+1 Battle Cage PFL 85
+1 Perilous Jungle TEF 156
+2 Ultra Ball ASC 213
+3 Poké Pad ASC 198
+1 Night Stretcher ASC 196
+3 Ancient Booster Energy Capsule PAR 159
+4 Arven OBF 186
+3 Lillie's Determination ASC 192
+1 Sacred Ash DRI 168
+2 Iono PAL 185
+4 Rare Candy PAF 89
+1 Team Rocket's Petrel ASC 207
+1 Surfer ASC 200
+1 Grand Tree SCR 136
+3 Buddy-Buddy Poffin ASC 184
+2 Boss's Orders ASC 183
+2 Switch MEG 130
+2 Binding Mochi PRE 95
+1 Gravity Mountain SSP 177
+
+Energy: 0
+
+Total Cards: 60
