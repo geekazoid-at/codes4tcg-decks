@@ -1,0 +1,33 @@
+Pokémon: 17
+4 Tynamo ASC 59
+3 Eelektrik ASC 60
+2 Mega Eelektross ex ASC 61
+2 Miraidon ex SVI 81
+2 Iron Hands ex PRE 31
+1 Zekrom ex BLK 34
+1 Stunfisk ASC 62
+1 Zeraora DRI 78
+1 Fezandipiti ex ASC 142
+
+Trainer: 29
+4 Ultra Ball ASC 213
+3 Nest Ball PAF 84
+3 Electric Generator PAF 79
+2 Earthen Vessel PRE 106
+1 Night Stretcher ASC 196
+1 Prime Catcher PRE 119
+4 Lillie's Determination ASC 192
+3 Boss's Orders ASC 183
+2 Canari ASC 185
+1 Professor Turo's Scenario PRE 121
+1 Battle Cage PFL 85
+1 Town Store OBF 196
+1 Air Balloon ASC 181
+1 Powerglass SFA 63
+1 Future Booster Energy Capsule TEF 149
+
+Energy: 14
+2 Jet Energy PAL 190
+12 Basic {L} Energy SVE 4
+
+Total Cards: 60

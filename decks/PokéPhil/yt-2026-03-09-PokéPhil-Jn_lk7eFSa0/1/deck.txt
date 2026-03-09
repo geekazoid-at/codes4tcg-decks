@@ -1,0 +1,38 @@
+Pokémon: 13
+1 Fezandipiti ex ASC 288
+3 Cascoon ASC 14
+2 Beautifly ASC 219
+1 Beautifly ASC 13
+4 Wurmple ASC 11
+1 Rellor TEF 23
+1 Dustox ASC 15
+1 Dustox ASC 15
+1 Psyduck ASC 226
+1 Budew ASC 221
+1 Dustox ASC 220
+1 Rabsca TEF 24
+3 Silcoon ASC 12
+
+Trainer: 17
+2 Forest of Vitality MEG 117
+4 Buddy-Buddy Poffin TWM 223
+1 Bug Catching Set TWM 143
+3 Lillie's Determination MEG 184
+1 Super Rod PAL 276
+1 Maximum Belt PRE 117
+2 Nest Ball SVI 255
+2 Poké Pad ASC 198
+2 Iono PAF 237
+1 Switch MEW 206
+1 Lana's Aid TWM 219
+2 Boss's Orders PAL 265
+1 Night Stretcher SSP 251
+1 Arven SVI 235
+3 Bug Catching Set PRE 102
+1 Brave Bangle WHT 80
+2 Battle Cage PFL 116
+
+Energy: 1
+9 Basic {G} Energy SVE 1
+
+Total Cards: 60
