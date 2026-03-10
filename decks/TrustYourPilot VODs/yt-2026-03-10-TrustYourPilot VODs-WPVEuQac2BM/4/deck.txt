@@ -1,0 +1,24 @@
+Pokémon: 6
+3 Varoom SFA 43
+2 Morpeko TWM 72
+3 Revavroom PAF 65
+4 Kyogre MEG 34
+1 Fezandipiti ex SFA 38
+1 Squawkabilly ex PAL 169
+
+Trainer: 10
+4 Ultra Ball SVI 196
+2 Poké Pad ASC 198
+1 Brilliant Blender SSP 164
+1 Counter Catcher PAR 160
+2 Air Balloon BLK 79
+1 Super Rod PAL 188
+2 Cycling Road MEW 157
+3 Amarys PRE 93
+4 Professor's Research PRE 122
+3 Carmine TWM 145
+
+Energy: 1
+23 Basic {W} Energy SVE 3
+
+Total Cards: 60
