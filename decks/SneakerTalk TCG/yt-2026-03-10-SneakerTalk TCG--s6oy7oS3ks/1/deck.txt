@@ -1,0 +1,40 @@
+Pokémon: 15
+1 Latias ex SSP 76
+1 Hop's Dubwool JTG 136
+2 Charmander PAF 7
+2 Dreepy PRE 71
+1 Charmeleon MEW 5
+1 Fezandipiti ex SFA 38
+1 Mew ex MEW 151
+1 Iron Bundle PAR 56
+2 Drakloak PRE 72
+2 Hop's Zacian ex JTG 176
+1 Hop's Wooloo JTG 170
+1 Hop's Snorlax JTG 117
+1 Dragapult ex TWM 130
+2 Charizard ex OBF 125
+1 Bloodmoon Ursaluna ex TWM 202
+
+Trainer: 16
+4 Hop's Choice Band JTG 148
+2 Hop's Bag JTG 147
+3 Buddy-Buddy Poffin MEG 167
+2 Dawn PFL 129
+3 Nest Ball SVI 181
+4 Arven OBF 186
+1 Pokégear 3.0 UNB 233
+1 Air Balloon BLK 79
+1 Super Rod PAL 188
+1 Night Stretcher MEG 173
+2 Rare Candy MEG 175
+2 Iono PAL 185
+3 Postwick JTG 154
+1 Sparkling Crystal PRE 129
+1 Ultra Ball ASC 264
+2 Boss's Orders MEG 114
+
+Energy: 2
+5 Basic {R} Energy MEE 2
+2 Basic {P} Energy EVO 95
+
+Total Cards: 60
