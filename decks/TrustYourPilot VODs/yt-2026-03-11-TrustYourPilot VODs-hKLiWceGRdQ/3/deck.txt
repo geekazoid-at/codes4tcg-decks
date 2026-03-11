@@ -1,0 +1,31 @@
+Pokémon: 9
+1 Kyogre MEG 34
+1 Psyduck MEP 7
+4 Horsea PAR 30
+3 Kingdra PAR 32
+2 Seadra SFA 11
+1 Fezandipiti ex SFA 38
+1 Cleffa OBF 80
+1 Budew PRE 4
+1 Shaymin DRI 10
+
+Trainer: 13
+2 Academy at Night SFA 54
+2 Energy Recycler DRI 164
+1 Nest Ball SVI 181
+3 Poké Pad ASC 198
+2 Air Balloon BLK 79
+1 Hassel TWM 151
+2 Iono PAL 185
+4 Arven SVI 166
+1 Technical Machine: Evolution PAR 178
+1 Super Rod PAL 188
+4 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+2 Rare Candy SVI 191
+
+Energy: 2
+1 Legacy Energy TWM 167
+15 Basic {W} Energy MEE 3
+
+Total Cards: 60
