@@ -1,0 +1,35 @@
+Pokémon: 3
+3 Bouffalant PR-SV 136
+1 Fan Rotom ASC 250
+4 Blissey V SIT-TG 22
+
+Trainer: 17
+1 Professor Burnet SIT-TG 26
+1 Brilliant Blender SSP 164
+4 Path to the Peak ASR 213
+4 Arven PAF 235
+2 Guzma BUS 143
+1 Field Blower SMALT 44
+2 Iono PAL 269
+2 Lillie's Determination MEG 169
+1 Night Stretcher SSP 251
+4 Nest Ball SUM 158
+4 Acro Bike SMALT 120
+2 Air Balloon SSH 213
+3 Hyper Potion SSH 166
+1 Forest Seal Stone SIT 156
+2 Bravery Charm SCR 175
+1 Faba LOT 208
+1 Boss's Orders RCL 189
+
+Energy: 8
+1 Mist Energy TEF 161
+1 V Guard Energy SIT 215
+4 Spiky Energy JTG 190
+2 Capture Energy DAA 201
+1 Basic {R} Energy BUS 167
+4 Double Colorless Energy GRI 166
+1 Weakness Guard Energy UNM 258
+2 Lucky Energy CRE 158
+
+Total Cards: 60

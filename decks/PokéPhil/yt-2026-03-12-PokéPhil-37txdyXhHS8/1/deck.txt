@@ -1,0 +1,39 @@
+Pokémon: 10
+3 Munkidori TWM 95
+2 Bouffalant SCR 119
+1 Bouffalant OBF 174
+2 Mega Kangaskhan ex MEG 104
+1 Psyduck ASC 39
+1 Iron Leaves ex TEF 25
+
+Trainer: 39
+4 Arven OBF 186
+3 Brock's Scouting JTG 146
+3 Boss's Orders MEG 114
+2 Xerosic's Machinations SFA 64
+2 Crispin SCR 133
+2 Eri TEF 146
+1 Colress's Tenacity SFA 57
+1 Ciphermaniac's Codebreaking TEF 145
+1 Penny SVI 183
+1 Lana's Aid TWM 155
+4 Jumbo Ice Cream PFL 91
+4 Pokégear 3.0 SVI 186
+1 Earthen Vessel PAR 163
+1 Precious Trolley SSP 185
+1 Night Stretcher ASC 196
+1 Energy Switch MEG 115
+2 Bravery Charm PAL 173
+1 Technical Machine: Turbo Energize PAR 179
+1 Air Balloon ASC 181
+2 Town Store OBF 196
+1 Artazon PAL 171
+
+Energy: 11
+3 Basic {G} Energy SVE 1
+3 Basic {D} Energy SVE 7
+2 Jet Energy PAL 190
+2 Mist Energy TEF 161
+1 Basic {P} Energy SVE 5
+
+Total Cards: 60

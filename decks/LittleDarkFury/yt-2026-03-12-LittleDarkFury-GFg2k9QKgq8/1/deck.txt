@@ -1,0 +1,30 @@
+Pokémon: 8
+2 Mega Hawlucha ex ASC 116
+2 Lunatone MEG 74
+4 Gible PAR 94
+1 Bloodmoon Ursaluna SFA 25
+2 Solrock MEG 75
+1 Fezandipiti ex ASC 142
+2 Gabite PAR 95
+3 Garchomp ex PAR 38
+
+Trainer: 14
+4 Fighting Gong MEG 116
+1 Dawn PFL 87
+1 Counter Catcher PAR 160
+3 Ultra Ball SVI 196
+1 Secret Box TWM 163
+1 Switch MEG 130
+3 Artazon PAL 171
+2 Night Stretcher SFA 61
+4 Lillie's Determination ASC 192
+3 Premium Power Pro MEG 124
+1 Professor Turo's Scenario PRE 121
+2 Boss's Orders ASC 183
+3 Iono PAF 80
+3 Rare Candy SVI 191
+
+Energy: 1
+11 Basic {F} Energy GRI 169
+
+Total Cards: 60

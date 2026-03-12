@@ -1,0 +1,35 @@
+Pokémon: 24
+2 Dratini OBF 157
+2 Dragonair ASC 151
+2 Mega Dragonite ex ASC 152
+2 Eevee PRE 74
+2 Flareon ex PRE 14
+2 Wellspring Mask Ogerpon ex PRE 27
+2 Fan Rotom ASC 171
+3 Hoothoot SCR 114
+3 Noctowl PRE 78
+1 Pidgey MEW 16
+1 Pidgeot ex OBF 164
+1 Tynamo ASC 59
+1 Eelektrik ASC 60
+
+Trainer: 26
+4 Buddy-Buddy Poffin ASC 184
+4 Nest Ball PAF 84
+3 Ultra Ball ASC 213
+2 Rare Candy MEG 125
+1 Night Stretcher ASC 196
+1 Sparkling Crystal PRE 129
+3 Area Zero Underdepths PRE 94
+2 Lillie's Determination ASC 192
+2 Crispin PRE 105
+2 Boss's Orders ASC 183
+2 Dawn PFL 87
+
+Energy: 10
+2 Jet Energy PAL 190
+2 Basic {R} Energy SVE 2
+4 Basic {L} Energy SVE 4
+2 Basic {W} Energy SVE 3
+
+Total Cards: 60
