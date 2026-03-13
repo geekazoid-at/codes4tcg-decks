@@ -1,0 +1,32 @@
+Pokémon: 17
+4 Clefairy POR 30
+3 Mega Clefable ex POR 31
+1 Clefable TWM 79
+2 Spritzee POR 35
+2 Aromatisse POR 36
+1 Yamask SSP 82
+1 Cofagrigus WHT 40
+1 Latias ex SSP 76
+1 Lillie's Clefairy ex JTG 56
+1 Meowth ex POR 62
+
+Trainer: 32
+4 Lillie's Determination MEG 119
+3 Boss's Orders MEG 114
+2 Judge DRI 167
+2 Hilda WHT 84
+1 Kieran TWM 154
+1 Jacinthe POR 75
+4 Poké Pad ASC 198
+4 Wondrous Patch PFL 94
+3 Ultra Ball MEG 131
+3 Night Stretcher ASC 196
+2 Energy Recycler DRI 164
+1 Maximum Belt TEF 154
+2 Mystery Garden MEG 122
+
+Energy: 11
+7 Basic {P} Energy SVE 5
+4 Basic {P} Energy SVE 5
+
+Total Cards: 60
