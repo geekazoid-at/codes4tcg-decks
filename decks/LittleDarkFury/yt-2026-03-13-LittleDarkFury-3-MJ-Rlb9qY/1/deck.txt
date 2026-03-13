@@ -1,0 +1,32 @@
+Pokémon: 6
+2 Solrock ASC 106
+2 Lunatone ASC 105
+4 Rolycoly ASC 118
+3 Coalossal ASC 120
+2 Carkol TEF 94
+1 Bloodmoon Ursaluna SFA 25
+
+Trainer: 17
+3 Rare Candy PAF 89
+1 Air Balloon ASC 181
+2 Iono PAF 80
+3 Arven SVI 166
+1 Artazon PAL 171
+3 Lillie's Determination ASC 192
+1 Brilliant Blender SSP 164
+3 Ultra Ball PAF 91
+1 Energy Retrieval SVI 171
+1 Luxurious Cape PAR 166
+1 Lana's Aid TWM 155
+2 Boss's Orders MEG 114
+4 Fighting Gong MEG 116
+1 Professor's Research PRE 125
+1 Super Rod PAL 188
+1 Night Stretcher SFA 61
+1 Earthen Vessel PRE 106
+
+Energy: 2
+2 Ignition Energy WHT 86
+14 Basic {F} Energy GRI 169
+
+Total Cards: 60

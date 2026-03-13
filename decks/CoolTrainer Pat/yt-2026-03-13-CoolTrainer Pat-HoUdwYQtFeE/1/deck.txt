@@ -1,0 +1,33 @@
+Pokémon: 7
+1 Team Rocket's Mimikyu ASC 238
+4 Team Rocket's Tarountula ASC 18
+2 Team Rocket's Mewtwo ex DRI 231
+2 Team Rocket's Articuno DRI 51
+1 Lillie's Clefairy ex JTG 184
+4 Team Rocket's Spidops DRI 187
+1 Team Rocket's Wobbuffet PR-SV 203
+
+Trainer: 16
+3 Ultra Ball ASC 264
+2 Team Rocket's Factory ASC 203
+2 Night Stretcher SSP 251
+3 Team Rocket's Proton DRI 227
+4 Team Rocket's Ariana DRI 237
+4 Team Rocket's Transceiver ASC 209
+3 Team Rocket's Giovanni DRI 238
+1 Poké Pad ASC 198
+2 Bug Catching Set PRE 102
+2 Energy Switch SIT 212
+1 Team Rocket's Watchtower ASC 210
+1 Secret Box TWM 163
+1 Brave Bangle WHT 80
+1 Team Rocket's Petrel DRI 226
+2 Lillie's Determination MEG 184
+2 Team Rocket's Archer DRI 223
+
+Energy: 3
+4 Team Rocket's Energy ASC 217
+2 Basic {P} Energy SUM 162
+5 Basic {G} Energy GRI 167
+
+Total Cards: 60
