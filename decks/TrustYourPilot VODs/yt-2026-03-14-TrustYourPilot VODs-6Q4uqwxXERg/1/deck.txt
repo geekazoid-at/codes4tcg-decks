@@ -1,0 +1,37 @@
+Pokémon: 11
+2 Emolga TWM 69
+4 Doduo MEW 84
+1 Lairon TWM 121
+2 Aron TWM 120
+2 Aggron TWM 122
+4 Dodrio MEW 85
+1 Fezandipiti ex SFA 38
+1 Rellor TEF 23
+1 Fan Rotom SCR 118
+1 Rabsca TEF 24
+1 Psyduck ASC 39
+
+Trainer: 17
+2 Counter Catcher PAR 160
+1 Energy Search SVI 172
+2 Battle Cage PFL 85
+1 Night Stretcher SFA 61
+1 Risky Ruins MEG 127
+3 Poké Pad ASC 198
+2 Boss's Orders PAL 172
+2 Air Balloon BLK 79
+4 Iono PAL 185
+2 Arven SVI 166
+1 Technical Machine: Evolution PAR 178
+1 Super Rod PAL 188
+4 Buddy-Buddy Poffin TEF 144
+1 Brave Bangle WHT 80
+4 Lillie's Determination MEG 119
+1 Ultra Ball MEG 131
+2 Rare Candy SVI 191
+
+Energy: 2
+1 Legacy Energy TWM 167
+5 Basic {M} Energy MEE 8
+
+Total Cards: 60

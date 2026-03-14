@@ -1,0 +1,32 @@
+Pokémon: 6
+2 Emolga TWM 69
+2 Lunatone MEG 74
+3 Marowak SCR 73
+1 Fezandipiti ex SFA 38
+2 Solrock MEG 75
+4 Cubone MEW 104
+
+Trainer: 17
+3 Fighting Gong MEG 116
+1 Counter Catcher PAR 160
+1 Exp. Share SVI 174
+1 Counter Gain SSP 169
+1 Prime Catcher TEF 157
+1 Night Stretcher SFA 61
+4 Premium Power Pro MEG 124
+2 Nest Ball SVI 181
+2 Risky Ruins MEG 127
+3 Poké Pad ASC 198
+1 Boss's Orders PAL 172
+1 Air Balloon BLK 79
+4 Iono PAL 185
+2 Super Rod PAL 188
+2 Brave Bangle WHT 80
+3 Buddy-Buddy Poffin ASC 184
+4 Lillie's Determination MEG 119
+
+Energy: 2
+7 Basic {F} Energy MEE 6
+3 Ignition Energy WHT 86
+
+Total Cards: 60

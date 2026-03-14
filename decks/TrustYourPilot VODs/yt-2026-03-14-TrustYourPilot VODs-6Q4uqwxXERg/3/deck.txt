@@ -1,0 +1,31 @@
+Pokémon: 7
+2 Emolga TWM 69
+1 Budew ASC 16
+4 Marowak SCR 73
+1 Fezandipiti ex SFA 38
+4 Cubone MEW 104
+1 Shaymin DRI 10
+1 Psyduck ASC 39
+
+Trainer: 15
+2 Counter Catcher PAR 160
+1 Prime Catcher TEF 157
+1 Night Stretcher SFA 61
+4 Premium Power Pro MEG 124
+2 Nest Ball SVI 181
+3 Risky Ruins MEG 127
+4 Poké Pad ASC 198
+1 Boss's Orders PAL 172
+2 Air Balloon BLK 79
+4 Iono PAL 185
+2 Arven SVI 166
+2 Super Rod PAL 188
+2 Brave Bangle WHT 80
+4 Buddy-Buddy Poffin ASC 184
+4 Lillie's Determination MEG 119
+
+Energy: 2
+4 Reversal Energy PAL 192
+4 Ignition Energy WHT 86
+
+Total Cards: 60
