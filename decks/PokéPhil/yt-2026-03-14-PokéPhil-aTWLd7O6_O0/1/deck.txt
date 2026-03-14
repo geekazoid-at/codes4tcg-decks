@@ -1,0 +1,30 @@
+Pokémon: 10
+2 Iono's Wattrel JTG 54
+4 Eelektrik ASC 60
+1 Stunfisk ASC 62
+4 Tynamo ASC 59
+2 Mega Eelektross ex ASC 61
+2 Iono's Kilowattrel JTG 55
+3 Electrike MEG 49
+1 Budew ASC 16
+1 Zeraora DRI 78
+2 Mega Manectric ex MEG 50
+
+Trainer: 12
+3 Buddy-Buddy Poffin ASC 184
+1 Canari ASC 185
+2 Air Balloon ASC 181
+2 Judge SVI 176
+3 Night Stretcher ASC 196
+4 Lillie's Determination ASC 192
+2 Battle Cage PFL 85
+3 Boss's Orders MEG 114
+1 Switch MEG 130
+4 Ultra Ball MEG 131
+1 Secret Box TWM 163
+4 Carmine TWM 145
+
+Energy: 1
+8 Basic {L} Energy SVE 12
+
+Total Cards: 60
