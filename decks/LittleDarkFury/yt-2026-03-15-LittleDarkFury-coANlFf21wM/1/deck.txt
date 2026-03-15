@@ -1,0 +1,36 @@
+Pokémon: 11
+2 N's Darmanitan JTG 27
+2 N's Darumaka ASC 32
+1 Munkidori TWM 95
+1 Pecharunt ex SFA 39
+3 N's Zoroark ex JTG 98
+1 Fezandipiti ex ASC 142
+4 N's Zorua ASC 136
+1 N's Zoroark ex ASC 286
+1 Budew PRE 4
+2 N's Zekrom ASC 155
+1 N's Reshiram ASC 154
+
+Trainer: 17
+4 Buddy-Buddy Poffin ASC 184
+1 Black Belt's Training PRE 97
+1 Powerglass SFA 63
+2 Poké Pad ASC 198
+3 Night Stretcher ASC 196
+3 N's PP Up ASC 195
+4 Lillie's Determination ASC 192
+3 Boss's Orders MEG 114
+1 Binding Mochi PRE 95
+2 Cyrano SSP 170
+1 Janine's Secret Art PRE 112
+2 N's Castle JTG 152
+1 Harlequin WHT 83
+1 Secret Box TWM 163
+2 Brock's Scouting JTG 146
+1 Team Rocket's Watchtower ASC 210
+1 Ultra Ball ASC 213
+
+Energy: 1
+8 Basic {D} Energy BUS 168
+
+Total Cards: 60
