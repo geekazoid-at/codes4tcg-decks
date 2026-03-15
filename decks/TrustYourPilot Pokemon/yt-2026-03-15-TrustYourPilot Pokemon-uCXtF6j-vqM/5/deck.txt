@@ -1,0 +1,36 @@
+Pokémon: 23
+4 Shinx POR 26
+3 Luxio POR 27
+3 Luxray ex TWM 68
+1 Luxray POR 28
+3 Tynamo BLK 30
+2 Eelektrik BLK 31
+1 Mega Eelektross ex ASC 61
+1 Budew PRE 4
+1 Rotom SSP 61
+1 Stunfisk ASC 62
+1 Shaymin DRI 10
+1 Tatsugiri TWM 131
+1 Fezandipiti ex SFA 38
+
+Trainer: 29
+4 Lillie's Determination MEG 119
+2 Canari ASC 185
+2 Boss's Orders PAL 172
+2 Judge DRI 167
+1 Morty's Conviction TEF 155
+1 Iris's Fighting Spirit JTG 149
+1 Xerosic's Machinations SFA 64
+4 Buddy-Buddy Poffin TEF 144
+3 Poké Pad ASC 198
+2 Ultra Ball SVI 196
+2 Rare Candy SVI 191
+1 Unfair Stamp TWM 165
+2 Air Balloon BLK 79
+1 Levincia JTG 150
+1 Battle Cage PFL 85
+
+Energy: 8
+8 Basic {L} Energy SVE 4
+
+Total Cards: 60

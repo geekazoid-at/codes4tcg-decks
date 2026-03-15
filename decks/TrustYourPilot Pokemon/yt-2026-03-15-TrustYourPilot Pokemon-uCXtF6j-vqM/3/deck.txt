@@ -1,0 +1,32 @@
+Pokémon: 20
+3 Salandit POR 15
+3 Salazzle ex POR 16
+3 Pecharunt PR-SV 149
+2 Dreepy TWM 128
+2 Drakloak TWM 129
+2 Ethan's Ho-Oh ex ASC 26
+1 Latias ex SSP 76
+1 Meowth ex POR 62
+1 Fezandipiti ex SFA 38
+1 Budew PRE 4
+1 Turtonator POR 17
+
+Trainer: 32
+4 Lillie's Determination MEG 119
+4 Judge DRI 167
+2 Boss's Orders PAL 172
+4 Ultra Ball SVI 196
+3 Poké Pad ASC 198
+3 Buddy-Buddy Poffin TEF 144
+3 Energy Switch MEG 115
+2 Night Stretcher SFA 61
+1 Switch MEG 130
+1 Unfair Stamp TWM 165
+1 Enhanced Hammer TWM 148
+1 Air Balloon BLK 79
+3 Perilous Jungle TEF 156
+
+Energy: 8
+8 Basic {R} Energy SVE 2
+
+Total Cards: 60
