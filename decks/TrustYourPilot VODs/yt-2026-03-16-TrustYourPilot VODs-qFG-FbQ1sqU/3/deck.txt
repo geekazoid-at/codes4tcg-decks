@@ -1,0 +1,33 @@
+Pokémon: 8
+3 Arbok ex MEW 24
+3 Toxel PFL 67
+2 Munkidori TWM 95
+3 Ekans MEW 23
+1 Fezandipiti ex SFA 38
+3 Toxtricity PFL 68
+1 Pecharunt ex SFA 39
+1 Tatsugiri TWM 131
+
+Trainer: 17
+1 Unfair Stamp TWM 165
+1 Xerosic's Machinations SFA 64
+2 Nest Ball SVI 181
+2 Artazon PAL 171
+1 Air Balloon BLK 79
+1 Binding Mochi SFA 55
+2 Handheld Fan TWM 150
+2 Iono PAL 185
+4 Arven SVI 166
+2 Technical Machine: Evolution PAR 178
+2 Super Rod PAL 188
+1 Eri TEF 146
+1 Judge DRI 167
+4 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+3 Ultra Ball SVI 196
+1 Earthen Vessel PAR 163
+
+Energy: 1
+9 Basic {D} Energy SVE 7
+
+Total Cards: 60

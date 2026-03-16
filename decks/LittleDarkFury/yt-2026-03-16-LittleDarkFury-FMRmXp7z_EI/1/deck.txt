@@ -1,0 +1,39 @@
+Pokémon: 14
+2 Steenee OBF 17
+1 Latias ex SSP 76
+1 Pidgey MEW 16
+1 Bloodmoon Ursaluna ex TWM 141
+2 Brute Bonnet PAR 123
+3 Tsareena ex PAR 46
+3 Bounsweet PAR 8
+1 Budew PRE 4
+1 Fezandipiti ex ASC 142
+2 Pidgeot ex OBF 164
+1 Pidgey OBF 162
+1 Pidgeotto OBF 163
+1 Munkidori ASC 99
+1 Tatsugiri TWM 131
+
+Trainer: 16
+1 Counter Catcher PAR 160
+2 Buddy-Buddy Poffin PRE 101
+1 Precious Trolley SSP 185
+1 Enhanced Hammer TWM 148
+3 Perilous Jungle TEF 156
+1 Night Stretcher SFA 61
+4 Lillie's Determination ASC 192
+3 Rare Candy MEG 125
+1 Super Rod PAL 188
+4 Arven SVI 166
+2 Technical Machine: Evolution PAR 178
+1 Boss's Orders ASC 183
+1 Nest Ball PAF 84
+2 Ancient Booster Energy Capsule TEF 140
+3 Ultra Ball MEG 131
+2 Iono PAF 80
+
+Energy: 2
+1 Basic {D} Energy BUS 168
+6 Basic {G} Energy GRI 167
+
+Total Cards: 60

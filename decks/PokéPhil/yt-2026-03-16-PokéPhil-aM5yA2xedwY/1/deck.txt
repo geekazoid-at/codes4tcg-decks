@@ -1,0 +1,28 @@
+Pokémon: 9
+4 Kadabra MEG 55
+1 Togepi SSP 70
+1 Togekiss ASC 82
+4 Abra MEG 54
+3 Dunsparce JTG 120
+4 Alakazam MEG 56
+1 Dunsparce TEF 128
+4 Dudunsparce TEF 129
+1 Fezandipiti ex SFA 38
+
+Trainer: 9
+4 Poké Pad ASC 198
+4 Buddy-Buddy Poffin TEF 144
+3 Battle Cage PFL 85
+3 Boss's Orders MEG 114
+3 Dawn PFL 87
+2 Wondrous Patch PFL 94
+2 Sacred Ash DRI 168
+4 Hilda WHT 84
+4 Rare Candy MEG 125
+
+Energy: 3
+3 Basic {P} Energy MEE 5
+1 Enriching Energy SSP 191
+4 Luminous Energy PAL 191
+
+Total Cards: 60

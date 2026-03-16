@@ -1,0 +1,28 @@
+Pokémon: 5
+3 Forretress ex PAL 5
+3 Pineco DRI 4
+3 Bramblin PAL 23
+3 Brambleghast TEF 21
+1 Budew PRE 4
+
+Trainer: 13
+2 Forest of Vitality MEG 117
+1 Counter Catcher PAR 160
+1 Luxurious Cape PAR 166
+1 Miracle Headset SSP 183
+1 Pal Pad SVI 182
+4 Pokégear 3.0 BLK 84
+1 Boss's Orders PAL 172
+4 Iono PAL 185
+4 Arven SVI 166
+2 Technical Machine: Evolution PAR 178
+4 Buddy-Buddy Poffin TEF 144
+4 Ultra Ball SVI 196
+3 Acerola's Mischief MEG 113
+
+Energy: 3
+1 Reversal Energy PAL 192
+13 Basic {G} Energy SVE 1
+1 Mist Energy TEF 161
+
+Total Cards: 60
