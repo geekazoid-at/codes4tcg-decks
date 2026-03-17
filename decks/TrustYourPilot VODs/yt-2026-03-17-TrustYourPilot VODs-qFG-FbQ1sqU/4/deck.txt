@@ -1,0 +1,39 @@
+Pokémon: 13
+1 Bloodmoon Ursaluna ex TWM 141
+1 Carbink ASC 117
+1 Psyduck MEP 7
+4 Toxel PFL 67
+1 Fezandipiti ex SFA 38
+3 Toxtricity OBF 72
+1 Capsakid SVI 28
+1 Iron Treads TEF 118
+2 Tynamo BLK 30
+1 Shaymin DRI 10
+1 Scovillain OBF 25
+2 Eelektrik ASC 60
+1 Tatsugiri TWM 131
+
+Trainer: 17
+1 Counter Catcher PAR 160
+1 Town Store OBF 196
+1 Night Stretcher SFA 61
+1 Ultra Ball ASC 213
+3 Poké Pad ASC 198
+1 Artazon PAL 171
+1 Boss's Orders PAL 172
+2 Air Balloon BLK 79
+3 Iono PAL 185
+4 Arven SVI 166
+1 Technical Machine: Evolution PAR 178
+1 Super Rod PAL 188
+1 Earthen Vessel PRE 106
+4 Buddy-Buddy Poffin TEF 144
+2 Brave Bangle WHT 80
+4 Lillie's Determination MEG 119
+1 Future Booster Energy Capsule TEF 149
+
+Energy: 2
+1 Legacy Energy TWM 167
+7 Basic {L} Energy MEE 4
+
+Total Cards: 60
