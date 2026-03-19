@@ -1,0 +1,32 @@
+Pokémon: 19
+4 Wailmer JTG 40
+3 Wailord JTG 41
+3 Frigibax PAF 17
+2 Arctibax PAL 59
+2 Baxcalibur PAL 60
+2 Varoom SVI 140
+2 Revavroom PAF 65
+1 Regigigas PRE 86
+
+Trainer: 31
+4 Poké Pad ASC 198
+3 Buddy-Buddy Poffin ASC 184
+2 Superior Energy Retrieval PAL 189
+2 Earthen Vessel PRE 106
+1 Switch MEG 130
+1 Rare Candy MEG 125
+1 Max Rod PRE 116
+2 Technical Machine: Evolution PAR 178
+1 Heavy Baton TEF 151
+1 Luxurious Cape PAR 166
+2 Artazon PAF 76
+4 Lillie's Determination ASC 192
+4 Arven SVI 166
+2 Boss's Orders ASC 183
+1 Lana's Aid TWM 155
+
+Energy: 10
+2 Reversal Energy PAL 192
+8 Basic {W} Energy SVE 3
+
+Total Cards: 60
