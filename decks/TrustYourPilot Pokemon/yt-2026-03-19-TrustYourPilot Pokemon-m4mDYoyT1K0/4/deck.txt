@@ -1,0 +1,30 @@
+Pokémon: 17
+4 Riolu MEG 76
+3 Mega Lucario ex MEG 77
+2 Makuhita MEG 72
+2 Hariyama MEG 73
+2 Solrock MEG 75
+2 Lunatone MEG 74
+1 Cornerstone Mask Ogerpon ex TWM 112
+1 Psyduck ASC 39
+
+Trainer: 33
+4 Lillie's Determination MEG 119
+3 Carmine TWM 145
+2 Judge DRI 167
+2 Wally's Compassion MEG 132
+1 Boss's Orders MEG 114
+4 Fighting Gong MEG 116
+4 Premium Power Pro MEG 124
+3 Ultra Ball MEG 131
+3 Poké Pad ASC 198
+2 Night Stretcher ASC 196
+2 Switch MEG 130
+1 Air Balloon ASC 181
+1 Hero's Cape TEF 152
+1 Gravity Mountain SSP 177
+
+Energy: 10
+10 Basic {F} Energy SVE 6
+
+Total Cards: 60

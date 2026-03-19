@@ -1,0 +1,33 @@
+Pokémon: 23
+4 Abra MEG 54
+4 Kadabra MEG 55
+3 Alakazam MEG 56
+4 Dunsparce JTG 120
+3 Dudunsparce TEF 129
+1 Fezandipiti ex ASC 142
+1 Shaymin DRI 10
+1 Psyduck ASC 39
+1 Genesect SFA 40
+1 Fan Rotom SCR 118
+
+Trainer: 31
+4 Hilda WHT 84
+3 Boss's Orders MEG 114
+3 Dawn PFL 87
+1 Lana's Aid TWM 155
+4 Buddy-Buddy Poffin TEF 144
+4 Poké Pad ASC 198
+3 Rare Candy MEG 125
+1 Sacred Ash DRI 168
+1 Wondrous Patch PFL 94
+1 Night Stretcher ASC 196
+2 Lucky Helmet TWM 158
+1 Air Balloon BLK 79
+3 Battle Cage PFL 85
+
+Energy: 6
+3 Basic {P} Energy SVE 5
+2 Basic {P} Energy SVE 5
+1 Enriching Energy SSP 191
+
+Total Cards: 60
