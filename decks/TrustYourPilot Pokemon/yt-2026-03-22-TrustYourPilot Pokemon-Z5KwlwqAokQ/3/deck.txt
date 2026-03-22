@@ -1,0 +1,30 @@
+Pokémon: 20
+4 Teal Mask Ogerpon ex TWM 25
+3 Bulbasaur MEG 1
+3 Ivysaur MEG 2
+2 Mega Venusaur ex MEG 3
+2 Chikorita MEG 8
+2 Bayleef MEG 9
+2 Meganium MEG 10
+1 Fezandipiti ex SFA 38
+1 Meowth ex POR 62
+
+Trainer: 30
+4 Lillie's Determination MEG 119
+2 Boss's Orders PAL 172
+2 Dawn PFL 87
+1 Wally's Compassion MEG 132
+1 Judge DRI 167
+1 Colress's Tenacity SFA 57
+1 Team Rocket's Petrel DRI 176
+4 Bug Catching Set TWM 143
+4 Ultra Ball SVI 196
+4 Poké Pad ASC 198
+1 Night Stretcher SFA 61
+1 Max Rod PRE 116
+4 Forest of Vitality MEG 117
+
+Energy: 10
+10 Basic {G} Energy SVE 1
+
+Total Cards: 60

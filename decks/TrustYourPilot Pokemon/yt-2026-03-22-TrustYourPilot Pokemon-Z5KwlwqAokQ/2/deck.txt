@@ -1,0 +1,30 @@
+Pokémon: 18
+4 Riolu MEG 76
+3 Mega Lucario ex MEG 77
+3 Solrock MEG 75
+2 Makuhita MEG 72
+2 Hariyama MEG 73
+2 Lunatone MEG 74
+1 Fezandipiti ex SFA 38
+1 Meowth ex POR 62
+
+Trainer: 32
+4 Lillie's Determination MEG 119
+2 Boss's Orders PAL 172
+2 Judge DRI 167
+1 Tarragon POR 85
+1 Team Rocket's Petrel DRI 176
+4 Fighting Gong MEG 116
+4 Premium Power Pro MEG 124
+4 Ultra Ball SVI 196
+3 Poké Pad ASC 198
+1 Switch MEG 130
+1 Night Stretcher SFA 61
+2 Air Balloon BLK 79
+1 Maximum Belt TEF 154
+2 Gravity Mountain SSP 177
+
+Energy: 10
+10 Basic {F} Energy SVE 6
+
+Total Cards: 60

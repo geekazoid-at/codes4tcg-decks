@@ -1,0 +1,35 @@
+Pokémon: 20
+4 Dreepy TWM 128
+4 Drakloak TWM 129
+3 Dragapult ex TWM 130
+2 Duskull SFA 18
+1 Dusclops SFA 19
+1 Dusknoir SFA 20
+2 Budew PRE 4
+1 Fezandipiti ex SFA 38
+1 Meowth ex POR 62
+1 Munkidori TWM 95
+
+Trainer: 33
+4 Lillie's Determination MEG 119
+3 Boss's Orders PAL 172
+2 Crispin SCR 133
+2 Dawn PFL 87
+1 Team Rocket's Petrel DRI 176
+1 Hilda WHT 84
+1 Rosa's Encouragement POR 84
+4 Buddy-Buddy Poffin TEF 144
+4 Ultra Ball SVI 196
+3 Poké Pad ASC 198
+2 Rare Candy SVI 191
+2 Night Stretcher SFA 61
+1 Switch MEG 130
+1 Unfair Stamp TWM 165
+2 Jamming Tower TWM 153
+
+Energy: 7
+3 Basic {P} Energy SVE 5
+3 Basic {R} Energy SVE 2
+1 Basic {D} Energy SVE 7
+
+Total Cards: 60
