@@ -1,0 +1,27 @@
+Pokémon: 20
+4 Dreepy ASC 158
+4 Drakloak ASC 159
+3 Dragapult ex ASC 160
+4 Duskull PRE 35
+2 Dusclops PRE 36
+2 Dusknoir PRE 37
+1 Budew ASC 16
+
+Trainer: 32
+4 Buddy-Buddy Poffin ASC 184
+4 Poké Pad ASC 198
+4 Ultra Ball ASC 213
+4 Rare Candy MEG 125
+2 Night Stretcher ASC 196
+1 Unfair Stamp TWM 165
+2 Jamming Tower TWM 153
+4 Lillie's Determination ASC 192
+3 Boss's Orders ASC 183
+2 Crispin PRE 105
+2 Judge DRI 167
+
+Energy: 8
+4 Basic {R} Energy SVE 2
+4 Basic {P} Energy SVE 5
+
+Total Cards: 60

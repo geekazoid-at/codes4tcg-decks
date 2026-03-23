@@ -1,0 +1,30 @@
+Pokémon: 6
+3 Ceruledge ex PRE 147
+4 Noctowl PR-SV 141
+4 Charcadet SSP 32
+2 Fan Rotom ASC 250
+4 Hoothoot SCR 114
+1 Pikachu ex SSP 238
+
+Trainer: 9
+1 Energy Search Pro SSP 176
+2 Buddy-Buddy Poffin TWM 223
+2 Hand Trimmer TEF 150
+4 Poké Pad ASC 198
+4 Carmine TWM 217
+2 Boss's Orders PAL 265
+3 Night Stretcher SSP 251
+3 Ultra Ball BRS 186
+2 Firebreather PFL 119
+
+Energy: 8
+1 Basic {W} Energy EVO 93
+12 Basic {R} Energy EVO 92
+1 Basic {G} Energy EVO 91
+1 Basic {D} Energy EVO 97
+1 Basic {F} Energy EVO 96
+1 Basic {P} Energy EVO 95
+1 Basic {L} Energy EVO 94
+1 Basic {M} Energy EVO 98
+
+Total Cards: 60
