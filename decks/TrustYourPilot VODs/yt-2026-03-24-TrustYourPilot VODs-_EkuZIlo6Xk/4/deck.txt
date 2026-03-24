@@ -1,0 +1,34 @@
+Pokémon: 9
+1 Espathra ex PAF 6
+1 Psyduck MEP 7
+1 Mimikyu PAL 97
+3 Xatu PAR 72
+3 Natu PAF 25
+1 Cleffa OBF 80
+1 Shaymin DRI 10
+3 Espathra PAR 81
+4 Flittle SSP 94
+
+Trainer: 17
+1 Battle Cage PFL 85
+4 Strange Timepiece MEG 128
+1 Night Stretcher SFA 61
+1 Pokégear 3.0 BLK 84
+2 Mystery Garden MEG 122
+1 Nest Ball SVI 181
+1 Boss's Orders PAL 172
+2 Iono PAL 185
+3 Arven SVI 166
+1 Technical Machine: Devolution PAR 177
+1 Technical Machine: Evolution PAR 178
+4 Tulip PAR 181
+4 Buddy-Buddy Poffin TEF 144
+3 Lillie's Determination MEG 119
+3 Ultra Ball SVI 196
+1 Neutralization Zone SFA 60
+1 Earthen Vessel PAR 163
+
+Energy: 1
+8 Basic {P} Energy SVE 5
+
+Total Cards: 60

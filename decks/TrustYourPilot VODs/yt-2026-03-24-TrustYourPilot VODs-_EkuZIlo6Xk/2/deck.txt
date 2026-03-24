@@ -1,0 +1,32 @@
+Pokémon: 6
+1 Bloodmoon Ursaluna ex TWM 141
+4 Rolycoly ASC 118
+3 Volcanion PAR 22
+3 Coalossal TEF 95
+1 Fezandipiti ex SFA 38
+2 Carkol TEF 94
+
+Trainer: 16
+1 Counter Catcher PAR 160
+2 Heavy Baton TEF 151
+1 Prime Catcher TEF 157
+1 Morty's Conviction TEF 155
+3 Nest Ball SVI 181
+3 Poké Pad ASC 198
+2 Artazon PAL 171
+1 Boss's Orders PAL 172
+1 Air Balloon BLK 79
+1 Iono PAL 185
+1 Super Rod PAL 188
+4 Carmine PRE 103
+4 Lillie's Determination MEG 119
+2 Ultra Ball SVI 196
+2 Rare Candy SVI 191
+3 Earthen Vessel PAR 163
+
+Energy: 3
+2 Reversal Energy PAL 192
+3 Basic {F} Energy MEE 6
+9 Basic {R} Energy MEE 2
+
+Total Cards: 60

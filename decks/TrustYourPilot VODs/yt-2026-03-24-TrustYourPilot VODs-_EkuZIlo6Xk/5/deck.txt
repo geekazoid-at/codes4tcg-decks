@@ -1,0 +1,27 @@
+Pokémon: 10
+4 Smoochum SSP 75
+4 Uxie SSP 78
+3 Xatu PAR 72
+4 Houndstone PAF 43
+1 Fezandipiti ex SFA 38
+3 Natu PAR 71
+4 Cleffa OBF 80
+1 Bloodmoon Ursaluna ex TWM 141
+2 Lillie's Clefairy ex JTG 56
+4 Greavard PAF 42
+
+Trainer: 9
+4 Ultra Ball SVI 196
+2 Poké Pad ASC 198
+2 Earthen Vessel PAR 163
+2 Buddy-Buddy Poffin TEF 144
+2 Lillie's Determination MEG 119
+2 Professor's Research PRE 122
+2 Wondrous Patch PFL 94
+4 Carmine TWM 145
+1 Boss's Orders PAL 172
+
+Energy: 1
+9 Basic {P} Energy MEE 5
+
+Total Cards: 60
