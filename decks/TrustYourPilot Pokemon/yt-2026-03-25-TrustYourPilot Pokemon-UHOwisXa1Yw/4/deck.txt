@@ -1,0 +1,31 @@
+Pokémon: 14
+4 Munkidori TWM 95
+3 Dwebble DRI 11
+3 Crustle DRI 12
+2 Fezandipiti TWM 96
+1 Team Rocket's Articuno DRI 51
+1 Psyduck ASC 39
+
+Trainer: 34
+4 Crispin SCR 133
+4 Boss's Orders MEG 114
+4 Lillie's Determination MEG 119
+3 Morty's Conviction TEF 155
+2 Team Rocket's Petrel DRI 176
+1 Xerosic's Machinations SFA 64
+1 Lana's Aid TWM 155
+4 Pokégear 3.0 SVI 186
+4 Poké Pad ASC 198
+3 Buddy-Buddy Poffin TEF 144
+2 Night Stretcher ASC 196
+1 Energy Switch MEG 115
+1 Hero's Cape TEF 152
+
+Energy: 12
+4 Basic {D} Energy SVE 7
+3 Basic {G} Energy SVE 1
+2 Basic {P} Energy SVE 5
+2 Mist Energy TEF 161
+1 Prism Energy ASC 216
+
+Total Cards: 60

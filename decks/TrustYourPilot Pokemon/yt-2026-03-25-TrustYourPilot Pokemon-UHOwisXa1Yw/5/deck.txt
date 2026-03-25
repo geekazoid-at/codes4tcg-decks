@@ -1,0 +1,35 @@
+Pokémon: 15
+4 Hop's Phantump ASC 95
+3 Hop's Trevenant ASC 96
+1 Hop's Snorlax JTG 117
+1 Hop's Zacian ex JTG 111
+1 Shaymin DRI 10
+1 Psyduck ASC 39
+1 Lillie's Clefairy ex JTG 56
+1 Latias ex SSP 76
+1 Fezandipiti ex ASC 142
+1 Bloodmoon Ursaluna ex TWM 141
+
+Trainer: 37
+4 Lillie's Determination MEG 119
+3 Boss's Orders MEG 114
+2 Judge DRI 167
+2 Hilda WHT 84
+1 Team Rocket's Petrel DRI 176
+1 Hassel TWM 151
+4 Poké Pad ASC 198
+3 Hop's Bag JTG 147
+2 Ultra Ball MEG 131
+2 Pokégear 3.0 SVI 186
+2 Night Stretcher ASC 196
+1 Switch MEG 130
+1 Tool Scrapper ASC 212
+1 Unfair Stamp TWM 165
+4 Hop's Choice Band JTG 148
+4 Postwick JTG 154
+
+Energy: 8
+4 Basic {P} Energy SVE 5
+4 Mist Energy TEF 161
+
+Total Cards: 60
