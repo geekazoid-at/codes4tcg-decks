@@ -1,0 +1,24 @@
+Pokémon: 17
+4 Bulbasaur MEG 1
+4 Ivysaur MEG 2
+4 Mega Venusaur ex MEG 3
+4 Teal Mask Ogerpon ex PRE 12
+1 Zarude SSP 11
+
+Trainer: 28
+4 Bug Catching Set PRE 102
+3 Pokégear 3.0 BLK 84
+3 Ultra Ball ASC 213
+1 Hero's Cape TEF 152
+4 Forest of Vitality ASC 188
+4 Lillie's Determination ASC 192
+2 Dawn PFL 87
+2 Boss's Orders ASC 183
+2 Drayton SSP 174
+2 Wally's Compassion MEG 132
+1 Lana's Aid TWM 155
+
+Energy: 15
+15 Basic {G} Energy SVE 1
+
+Total Cards: 60
