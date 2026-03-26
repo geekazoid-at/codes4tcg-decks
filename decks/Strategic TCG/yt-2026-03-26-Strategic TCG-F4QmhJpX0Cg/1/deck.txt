@@ -1,0 +1,31 @@
+Pokémon: 1
+4 Iron Thorns ex TWM 77
+
+Trainer: 19
+4 Crushing Hammer UPR 166
+1 Chaotic Swell CEC 187
+3 Plumeria BUS 145
+2 Lusamine UPR 153
+3 Guzma BUS 143
+2 Handheld Fan TWM 150
+2 Future Booster Energy Capsule PAR 164
+4 Tag Call CEC 270
+4 Marnie PR-SW 121
+1 Mallow & Lana CEC 231
+4 Guzma & Hala CEC 229
+1 Prime Catcher PRE 119
+3 Cynthia & Caitlin CEC 189
+2 Penny SVI 183
+2 Faba LOT 208
+4 Pokégear 3.0 UNB 233
+2 Enhanced Hammer GRI 162
+1 Stormy Mountains EVS 232
+1 Thunder Mountain {*} LOT 191
+
+Energy: 4
+1 Twin Energy RCL 209
+1 Capture Energy DAA 201
+4 Speed {L} Energy RCL 173
+4 Double Colorless Energy GRI 166
+
+Total Cards: 60

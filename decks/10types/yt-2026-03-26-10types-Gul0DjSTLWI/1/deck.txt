@@ -1,0 +1,35 @@
+Pokémon: 12
+2 Latias ex SSP 76
+1 Chien-Pao SSP 56
+1 Budew ASC 16
+3 Munkidori TWM 95
+3 Drakloak TWM 129
+3 Dreepy TWM 128
+2 Mega Kangaskhan ex MEG 104
+1 Fezandipiti ex ASC 142
+1 Lillie's Clefairy ex JTG 56
+1 Shaymin DRI 10
+2 Dragapult ex TWM 130
+2 Meowth ex POR 62
+
+Trainer: 13
+1 Unfair Stamp TWM 165
+1 Dawn PFL 87
+2 Brock's Scouting JTG 146
+4 Poké Pad ASC 198
+2 Night Stretcher ASC 196
+1 Harlequin WHT 83
+2 Area Zero Underdepths SCR 131
+4 Crispin SCR 133
+1 Ciphermaniac's Codebreaking TEF 145
+2 Lillie's Determination MEG 119
+4 Ultra Ball MEG 131
+3 Boss's Orders MEG 114
+1 Energy Switch MEG 115
+
+Energy: 3
+4 Basic {P} Energy MEE 5
+3 Basic {D} Energy MEE 7
+3 Basic {R} Energy MEE 2
+
+Total Cards: 60
