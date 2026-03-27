@@ -1,0 +1,36 @@
+Pokémon: 12
+2 Dragonair ASC 151
+2 Mega Dragonite ex ASC 152
+2 Dratini ASC 150
+3 Blaziken ex JTG 24
+2 Combusken DRI 41
+3 Torchic DRI 40
+1 Staryu POR 20
+1 Mega Starmie ex POR 21
+2 Budew PRE 4
+1 Tatsugiri TWM 131
+1 Shaymin DRI 10
+1 Meowth ex POR 62
+
+Trainer: 14
+2 Buddy-Buddy Poffin ASC 184
+3 Ultra Ball ASC 213
+4 Poké Pad ASC 198
+1 Energy Search SVI 172
+1 Night Stretcher ASC 196
+3 Rare Candy SVI 191
+1 Unfair Stamp TWM 165
+2 Air Balloon BLK 79
+4 Lillie's Determination ASC 192
+2 Team Rocket's Petrel ASC 207
+2 Crispin PRE 105
+2 Hilda WHT 84
+3 Boss's Orders ASC 183
+2 Battle Cage PFL 85
+
+Energy: 3
+2 Basic {W} Energy SVE 11
+3 Basic {L} Energy SVE 12
+2 Basic {R} Energy SVE 10
+
+Total Cards: 60

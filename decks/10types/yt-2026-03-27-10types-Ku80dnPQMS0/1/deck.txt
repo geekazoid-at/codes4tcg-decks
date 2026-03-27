@@ -1,0 +1,33 @@
+Pokémon: 8
+4 Snorunt ASC 46
+3 Froslass TWM 53
+1 Mega Froslass ex ASC 47
+3 Munkidori TWM 95
+1 Budew PRE 4
+1 Shaymin DRI 10
+2 Staryu POR 20
+2 Mega Starmie ex POR 21
+
+Trainer: 16
+4 Lillie's Determination MEG 119
+2 Crispin SCR 133
+2 Hilda WHT 84
+2 Boss's Orders MEG 114
+1 Judge DRI 167
+4 Buddy-Buddy Poffin TEF 144
+4 Poké Pad ASC 198
+3 Pokégear 3.0 SVI 186
+2 Night Stretcher SFA 61
+2 Mega Signal MEG 121
+2 Ultra Ball MEG 131
+1 Unfair Stamp TWM 165
+1 Energy Search SVI 172
+1 Air Balloon BLK 79
+2 Surfing Beach MEG 129
+1 Risky Ruins MEG 127
+
+Energy: 2
+6 Basic {W} Energy MEE 3
+3 Basic {D} Energy MEE 7
+
+Total Cards: 60
