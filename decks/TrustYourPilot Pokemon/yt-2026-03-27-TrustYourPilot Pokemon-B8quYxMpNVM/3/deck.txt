@@ -1,0 +1,26 @@
+Pokémon: 5
+3 Solrock MEG 75
+4 Spoink MEG 62
+2 Mega Zygarde ex POR 47
+2 Lunatone MEG 74
+3 Grumpig MEG 63
+
+Trainer: 13
+4 Ultra Ball SVI 196
+2 Academy at Night SFA 54
+4 Poké Pad ASC 198
+4 Lillie's Determination MEG 119
+1 Air Balloon BLK 79
+1 Acerola's Mischief MEG 113
+2 Energy Recycler DRI 164
+4 Fighting Gong MEG 116
+1 Switch MEG 130
+3 Strange Timepiece MEG 128
+1 Core Memory POR 70
+2 Boss's Orders PAL 172
+2 Judge DRI 167
+
+Energy: 1
+15 Basic {F} Energy MEE 6
+
+Total Cards: 60
