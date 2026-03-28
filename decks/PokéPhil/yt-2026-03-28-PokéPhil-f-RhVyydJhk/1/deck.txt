@@ -1,0 +1,29 @@
+Pokémon: 7
+3 Eelektrik BLK 31
+1 Iono's Voltorb JTG 47
+4 Voltorb ex ASC 58
+1 Mew ex MEW 151
+1 Iono's Electrode JTG 48
+4 Tynamo BLK 30
+2 Tatsugiri TWM 131
+
+Trainer: 14
+1 Counter Catcher PAR 160
+1 Luxurious Cape PAR 166
+1 Prime Catcher PRE 119
+4 Electric Generator SVI 170
+1 Nest Ball SVI 181
+2 Air Balloon BLK 79
+4 Arven SVI 166
+1 Super Rod PAL 188
+2 Levincia JTG 150
+4 Buddy-Buddy Poffin ASC 184
+2 Canari ASC 185
+2 Iono PAF 80
+1 Switch MEG 130
+3 Boss's Orders MEG 114
+
+Energy: 1
+15 Basic {L} Energy SVE 20
+
+Total Cards: 60
