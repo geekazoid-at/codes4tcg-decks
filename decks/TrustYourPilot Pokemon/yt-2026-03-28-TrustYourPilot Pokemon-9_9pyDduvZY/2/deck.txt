@@ -1,0 +1,31 @@
+Pokémon: 8
+1 Mega Froslass ex ASC 47
+3 Munkidori TWM 95
+2 Froslass TWM 53
+2 Mega Starmie ex POR 21
+3 Snorunt ASC 46
+2 Budew ASC 16
+1 Yveltal MEG 88
+3 Staryu POR 20
+
+Trainer: 13
+3 Risky Ruins MEG 127
+1 Air Balloon ASC 181
+4 Poké Pad ASC 198
+2 Night Stretcher ASC 196
+1 Crispin SCR 133
+4 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+4 Pokégear 3.0 BLK 84
+2 Boss's Orders MEG 114
+3 Ultra Ball MEG 131
+2 Wally's Compassion MEG 132
+3 Carmine TWM 145
+2 Hilda WHT 84
+
+Energy: 3
+3 Basic {D} Energy MEE 7
+4 Basic {W} Energy MEE 3
+1 Legacy Energy TWM 167
+
+Total Cards: 60
