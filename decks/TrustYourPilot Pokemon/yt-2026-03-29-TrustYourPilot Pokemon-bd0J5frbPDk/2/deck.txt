@@ -1,0 +1,33 @@
+Pokémon: 10
+2 Vivillon POR 9
+2 Spewpa POR 8
+3 Rowlet SFA 3
+1 Shaymin DRI 10
+3 Dartrix POR 11
+1 Fezandipiti ex SFA 38
+1 Budew PRE 4
+3 Decidueye ex POR 12
+2 Scatterbug SSP 5
+1 Celebi MEG 12
+
+Trainer: 15
+3 Poké Pad ASC 198
+3 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+1 Handheld Fan TWM 150
+2 Air Balloon BLK 79
+2 Boss's Orders MEG 114
+3 Forest of Vitality MEG 117
+4 Crushing Hammer POR 71
+1 Night Stretcher SFA 61
+2 Ultra Ball MEG 131
+1 Max Rod PRE 116
+2 Dawn PFL 87
+4 Bug Catching Set TWM 143
+2 Hilda WHT 84
+2 Judge DRI 167
+
+Energy: 1
+5 Basic {G} Energy MEE 1
+
+Total Cards: 60
