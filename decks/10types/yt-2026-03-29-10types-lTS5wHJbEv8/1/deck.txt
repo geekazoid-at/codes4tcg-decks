@@ -1,0 +1,35 @@
+Pokémon: 12
+1 Budew ASC 16
+2 Dudunsparce TEF 129
+2 Vivillon POR 9
+3 Rowlet SFA 3
+3 Dartrix POR 11
+2 Spewpa SSP 6
+2 Scatterbug SSP 5
+2 Dunsparce JTG 120
+1 Fezandipiti ex ASC 142
+2 Decidueye ex POR 12
+1 Meowth ex POR 62
+1 Relicanth TEF 84
+
+Trainer: 12
+4 Forest of Vitality MEG 117
+2 Dawn PFL 87
+4 Poké Pad ASC 198
+2 Night Stretcher ASC 196
+1 Lana's Aid TWM 155
+4 Hilda WHT 84
+1 Colress's Tenacity SFA 57
+4 Buddy-Buddy Poffin TEF 144
+2 Lillie's Determination MEG 119
+4 Ultra Ball MEG 131
+1 Air Balloon ASC 181
+2 Boss's Orders MEG 114
+
+Energy: 4
+2 Growing {G} Energy POR 86
+2 Basic {G} Energy MEE 1
+1 Enriching Energy SSP 191
+2 Ignition Energy WHT 86
+
+Total Cards: 60

@@ -1,0 +1,29 @@
+Pokémon: 4
+1 Lumineon V CRZ-GG 39
+1 Tapu Lele-GX SMALT 38
+1 Latias ex SSP 239
+4 Mega Zygarde ex POR 47
+
+Trainer: 13
+2 Telescopic Sight VIV 203
+1 Accompanying Flute TWM 142
+1 Secret Box TWM 163
+1 Forest Seal Stone SIT 156
+3 Brooklet Hill HIF 157
+4 Pokégear 3.0 UNB 233
+2 Glimwood Tangle DAA 162
+1 Nest Ball SUM 158
+1 Adventure Bag LOT 228
+1 Core Memory POR 70
+3 Quick Ball SSH 216
+1 Air Balloon SSH 213
+4 Bea CRZ 123
+
+Energy: 5
+4 Basic {F} Energy MEE 6
+13 Basic {F} Energy GRI 169
+3 Basic {F} Energy CRE 233
+4 Stone {F} Energy VIV 164
+4 Rocky {F} Energy POR 87
+
+Total Cards: 60

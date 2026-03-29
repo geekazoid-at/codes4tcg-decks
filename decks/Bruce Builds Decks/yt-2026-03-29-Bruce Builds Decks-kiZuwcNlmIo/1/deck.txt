@@ -1,0 +1,31 @@
+Pokémon: 16
+1 Krookodile PFL 66
+2 Mega Gengar ex PFL 56
+1 Munkidori TWM 95
+1 Tyranitar JTG 95
+2 Pecharunt ex SFA 39
+2 Toxtricity PFL 68
+3 Munkidori ex SFA 37
+1 Fezandipiti ex SFA 38
+1 Yveltal MEG 88
+2 Toxel PFL 67
+
+Trainer: 32
+2 Risky Ruins MEG 127
+3 Boss's Orders ASC 183
+1 Academy at Night SFA 54
+1 Air Balloon ASC 181
+2 Judge SVI 176
+3 Night Stretcher ASC 196
+4 Lillie's Determination ASC 192
+4 Grimsley's Move PFL 90
+2 Energy Switch MEG 115
+3 Binding Mochi PRE 95
+4 Janine's Secret Art PRE 112
+1 Survival Brace TWM 164
+2 Jumbo Ice Cream PFL 91
+
+Energy: 12
+12 Basic {D} Energy SVE 7
+
+Total Cards: 60

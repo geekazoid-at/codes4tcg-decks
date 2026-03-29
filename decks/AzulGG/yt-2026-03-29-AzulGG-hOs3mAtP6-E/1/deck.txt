@@ -1,0 +1,36 @@
+Pokémon: 22
+3 Fletchling POR 66
+3 Fletchinder SCR 122
+3 Talonflame POR 14
+2 Dunsparce JTG 120
+2 Dudunsparce PRE 80
+2 Elgyem BLK 40
+2 Ethan's Sudowoodo DRI 93
+1 Fan Rotom SCR 118
+1 Fezandipiti ex ASC 142
+1 Psyduck ASC 39
+1 Shaymin DRI 10
+1 Totodile TEF 39
+
+Trainer: 31
+4 Boss's Orders MEG 114
+4 Lillie's Determination MEG 119
+3 Dawn PFL 87
+1 Lana's Aid TWM 155
+1 Lisia's Appeal SSP 179
+1 Xerosic's Machinations SFA 64
+4 Buddy-Buddy Poffin ASC 184
+4 Poké Pad ASC 198
+3 Accompanying Flute TWM 142
+1 Miracle Headset SSP 183
+1 Pokégear 3.0 SVI 186
+1 Sacred Ash DRI 168
+3 Nighttime Mine ASC 197
+
+Energy: 7
+4 Prism Energy BLK 86
+1 Basic {P} Energy SVE 5
+1 Basic {W} Energy SVE 3
+1 Basic {F} Energy SVE 6
+
+Total Cards: 60
