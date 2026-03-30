@@ -1,0 +1,24 @@
+Pokémon: 15
+4 Charcadet SSP 32
+3 Ceruledge ex SSP 36
+3 Solrock MEG 75
+2 Lunatone MEG 74
+1 Drilbur TEF 85
+1 Fezandipiti ex ASC 142
+1 Meowth ex POR 62
+
+Trainer: 24
+4 Boss's Orders MEG 114
+4 Carmine TWM 145
+2 Morty's Conviction TEF 155
+4 Fighting Gong ASC 187
+4 Poké Pad ASC 198
+4 Ultra Ball ASC 213
+2 Night Stretcher ASC 196
+
+Energy: 21
+14 Basic {F} Energy SVE 6
+6 Basic {R} Energy SVE 2
+1 Legacy Energy TWM 167
+
+Total Cards: 60
