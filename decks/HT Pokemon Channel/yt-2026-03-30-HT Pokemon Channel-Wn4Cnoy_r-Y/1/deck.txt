@@ -1,0 +1,30 @@
+Pokémon: 18
+4 Clefairy POR 30
+3 Mega Clefable ex POR 31
+1 Clefable ASC 75
+4 Spritzee POR 35
+3 Aromatisse POR 36
+1 Frillish WHT 44
+1 Lillie's Clefairy ex ASC 76
+1 Latias ex SSP 76
+
+Trainer: 29
+4 Poké Pad POR 81
+3 Ultra Ball ASC 213
+3 Wondrous Patch PFL 94
+2 Pokégear 3.0 BLK 84
+2 Energy Recycler DRI 164
+1 Night Stretcher ASC 196
+1 Switch MEG 130
+3 Mystery Garden ASC 194
+4 Lillie's Determination ASC 192
+2 Colress's Tenacity SFA 57
+2 Hilda WHT 84
+2 Boss's Orders ASC 183
+
+Energy: 13
+1 Legacy Energy TWM 167
+4 Basic {P} Energy SVE 5
+8 Basic {P} Energy SVE 5
+
+Total Cards: 60

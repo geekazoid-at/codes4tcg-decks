@@ -1,0 +1,33 @@
+Pokémon: 9
+2 Vivillon POR 9
+4 Rowlet SFA 3
+4 Dartrix POR 11
+2 Spewpa SSP 6
+2 Scatterbug SSP 5
+1 Fezandipiti ex SFA 38
+4 Decidueye ex POR 12
+1 Meowth ex POR 62
+1 Relicanth TEF 84
+
+Trainer: 15
+4 Forest of Vitality MEG 117
+4 Bug Catching Set TWM 143
+2 Dawn PFL 87
+1 Poké Pad POR 81
+1 Team Rocket's Petrel DRI 176
+1 Max Rod PRE 116
+1 Night Stretcher SFA 61
+1 Air Balloon BLK 79
+3 Judge POR 76
+1 Colress's Tenacity SFA 57
+1 Energy Search POR 72
+4 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+2 Ultra Ball MEG 131
+2 Boss's Orders MEG 114
+
+Energy: 2
+4 Growing {G} Energy POR 86
+3 Basic {G} Energy MEE 1
+
+Total Cards: 60
