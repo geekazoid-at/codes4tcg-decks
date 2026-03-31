@@ -1,0 +1,29 @@
+Pokémon: 9
+1 Latias ex SSP 76
+2 Dusknoir PRE 37
+4 Drakloak TWM 129
+4 Dreepy TWM 128
+1 Frillish WHT 44
+2 Dusclops PRE 36
+1 Budew PRE 4
+2 Dragapult ex PRE 73
+4 Duskull PRE 35
+
+Trainer: 10
+1 Unfair Stamp TWM 165
+3 Brock's Scouting JTG 146
+4 Poké Pad ASC 198
+4 Night Stretcher ASC 196
+1 Blowtorch PFL 86
+4 Buddy-Buddy Poffin ASC 184
+4 Lillie's Determination MEG 119
+4 Ultra Ball MEG 131
+3 Boss's Orders MEG 114
+2 Rare Candy SVI 191
+
+Energy: 3
+4 Telepathic {P} Energy POR 88
+1 Basic {P} Energy SVE 5
+4 Basic {R} Energy SVE 18
+
+Total Cards: 60
