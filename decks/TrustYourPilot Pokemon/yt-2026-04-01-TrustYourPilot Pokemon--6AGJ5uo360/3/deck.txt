@@ -1,0 +1,33 @@
+Pokémon: 12
+1 Lillie's Clefairy ex ASC 76
+3 Genesect ex BLK 67
+2 Steven's Metang DRI 144
+4 Aegislash POR 58
+1 Fezandipiti ex SFA 38
+3 Steven's Beldum DRI 143
+4 Honedge POR 56
+1 Budew PRE 4
+1 Shaymin DRI 10
+2 Steven's Metagross ex DRI 145
+1 Psyduck ASC 39
+4 Doublade POR 57
+
+Trainer: 12
+1 Precious Trolley SSP 185
+4 Team Rocket's Petrel DRI 176
+1 Energy Recycler DRI 164
+3 Pokégear 3.0 BLK 84
+3 Rare Candy MEG 125
+1 Poké Pad ASC 198
+1 Sacred Ash DRI 168
+2 Kofu SCR 138
+2 Lillie's Determination MEG 119
+1 Ultra Ball MEG 131
+2 Air Balloon ASC 181
+2 Boss's Orders MEG 114
+
+Energy: 2
+5 Basic {M} Energy MEE 8
+5 Basic {P} Energy MEE 5
+
+Total Cards: 60

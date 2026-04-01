@@ -1,0 +1,31 @@
+Pokémon: 10
+3 Genesect ex BLK 67
+4 Aegislash POR 58
+1 Fezandipiti ex SFA 38
+3 Beldum TEF 113
+4 Honedge POR 56
+3 Metang TEF 114
+1 Shaymin DRI 10
+1 Klefki POR 59
+1 Psyduck ASC 39
+4 Doublade POR 57
+
+Trainer: 13
+1 Cyrano SSP 170
+1 Max Rod PRE 116
+1 Battle Cage PFL 85
+1 Energy Recycler DRI 164
+4 Poké Pad ASC 198
+1 Night Stretcher ASC 196
+1 Sacred Ash DRI 168
+2 Judge DRI 167
+4 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+3 Ultra Ball MEG 131
+2 Air Balloon ASC 181
+2 Boss's Orders MEG 114
+
+Energy: 1
+8 Basic {M} Energy MEE 8
+
+Total Cards: 60
