@@ -1,0 +1,30 @@
+Pokémon: 15
+4 Okidogi TWM 111
+3 Munkidori TWM 95
+2 Binacle POR 42
+2 Barbaracle POR 43
+1 Moltres PFL 14
+1 Psyduck ASC 39
+1 Shaymin DRI 10
+1 Team Rocket's Articuno DRI 51
+
+Trainer: 32
+4 Lillie's Determination MEG 119
+3 Boss's Orders MEG 114
+2 Brock's Scouting JTG 146
+2 Crispin PRE 105
+2 Lana's Aid TWM 155
+2 Morty's Conviction TEF 155
+4 Fighting Gong ASC 187
+4 Poké Pad ASC 198
+4 Pokégear 3.0 SVI 186
+2 Air Balloon BLK 79
+3 Lively Stadium SSP 180
+
+Energy: 13
+5 Basic {F} Energy SVE 6
+4 Prism Energy BLK 86
+3 Basic {D} Energy SVE 7
+1 Legacy Energy TWM 167
+
+Total Cards: 60
