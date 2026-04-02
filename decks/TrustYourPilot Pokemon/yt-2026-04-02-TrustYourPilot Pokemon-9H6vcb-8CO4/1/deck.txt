@@ -1,0 +1,32 @@
+Pokémon: 8
+2 Smoochum SSP 75
+1 Meowth ex POR 62
+3 Mega Clefable ex POR 31
+2 Aromatisse POR 36
+4 Clefairy POR 30
+1 Clefable TWM 79
+1 Lillie's Clefairy ex JTG 56
+2 Spritzee POR 35
+
+Trainer: 15
+3 Ultra Ball SVI 196
+1 Switch SVI 194
+4 Poké Pad ASC 198
+1 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+2 Energy Recycler DRI 164
+2 Night Stretcher SFA 61
+1 Colress's Tenacity SFA 57
+1 Maximum Belt PRE 117
+3 Wondrous Patch PFL 94
+3 Mystery Garden MEG 122
+2 Boss's Orders PAL 172
+2 Judge DRI 167
+1 Jacinthe POR 75
+2 Hilda WHT 84
+
+Energy: 2
+8 Basic {P} Energy MEE 5
+4 Telepathic {P} Energy POR 88
+
+Total Cards: 60
