@@ -1,0 +1,28 @@
+Pokémon: 15
+4 Charcadet SSP 32
+3 Ceruledge ex SSP 36
+3 Solrock MEG 75
+2 Lunatone MEG 74
+2 Drilbur TEF 85
+1 Fezandipiti ex ASC 142
+
+Trainer: 25
+3 Carmine TWM 145
+2 Boss's Orders MEG 114
+2 Lillie's Determination MEG 119
+4 Fighting Gong MEG 116
+4 Ultra Ball MEG 131
+4 Poké Pad POR 81
+2 Night Stretcher ASC 196
+1 Sacred Ash DRI 168
+1 Jamming Tower TWM 153
+1 Area Zero Underdepths SCR 131
+1 Team Rocket's Watchtower DRI 180
+
+Energy: 20
+13 Basic {F} Energy SVE 6
+6 Basic {R} Energy SVE 2
+1 Legacy Energy TWM 167
+Link to list: https://play.limitlesstcg.com/tournament/69c6aa89d478313a15a34044/player/pyuddle/decklist
+
+Total Cards: 60

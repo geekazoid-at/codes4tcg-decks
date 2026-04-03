@@ -1,0 +1,32 @@
+Pokémon: 11
+1 Bloodmoon Ursaluna ex TWM 141
+2 Genesect ex BLK 67
+3 Dudunsparce PRE 80
+4 Aegislash POR 58
+3 Dunsparce JTG 120
+4 Honedge POR 56
+1 Fezandipiti ex ASC 142
+1 Shaymin DRI 10
+1 Fan Rotom PRE 85
+1 Psyduck ASC 39
+4 Doublade POR 57
+
+Trainer: 12
+2 Brock's Scouting JTG 146
+3 Battle Cage PFL 85
+3 Poké Pad ASC 198
+2 Night Stretcher ASC 196
+2 Lillie's Determination ASC 192
+1 Sacred Ash DRI 168
+1 Lana's Aid TWM 155
+4 Hilda WHT 84
+4 Buddy-Buddy Poffin ASC 184
+2 Boss's Orders ASC 183
+2 Air Balloon ASC 181
+1 Neutralization Zone SFA 60
+
+Energy: 2
+4 Ignition Energy WHT 86
+4 Mist Energy TEF 161
+
+Total Cards: 60

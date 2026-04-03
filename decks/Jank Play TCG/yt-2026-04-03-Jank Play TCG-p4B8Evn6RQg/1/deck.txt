@@ -1,0 +1,26 @@
+Pokémon: 6
+1 Meowth ex POR 62
+4 Drapion POR 97
+4 Skorupi POR 51
+2 Toxtricity PFL 68
+1 Fezandipiti ex SFA 38
+4 Toxel PFL 67
+
+Trainer: 12
+3 Boss's Orders ASC 183
+2 Energy Recycler GRI 123
+4 Poké Pad ASC 198
+4 Lillie's Determination MEG 119
+2 Judge POR 76
+1 Unfair Stamp TWM 165
+4 Ultra Ball ASC 213
+4 Jumbo Ice Cream PFL 91
+1 Sacred Ash POR 115
+3 Community Center TWM 146
+2 Pokémon Center Lady MEG 123
+2 Enhanced Hammer GRI 124
+
+Energy: 1
+12 Basic {D} Energy MEE 7
+
+Total Cards: 60

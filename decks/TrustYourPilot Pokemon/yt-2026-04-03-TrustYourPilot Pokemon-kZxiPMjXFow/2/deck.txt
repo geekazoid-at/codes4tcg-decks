@@ -1,0 +1,33 @@
+Pokémon: 9
+2 Tyrantrum POR 45
+2 Solrock MEG 75
+1 Relicanth TEF 84
+2 Mega Lucario ex MEG 77
+3 Tyrunt POR 44
+2 Lunatone MEG 74
+1 Fezandipiti ex ASC 142
+2 Riolu MEG 76
+1 Bloodmoon Ursaluna SFA 25
+
+Trainer: 14
+4 Poké Pad ASC 198
+4 Lillie's Determination MEG 119
+2 Pokégear 3.0 BLK 84
+2 Air Balloon BLK 79
+2 Battle Cage PFL 85
+1 Drayton SSP 174
+4 Fighting Gong MEG 116
+1 Night Stretcher SFA 61
+2 Ultra Ball MEG 131
+2 Morty's Conviction TEF 155
+1 Tarragon POR 85
+4 Antique Jaw Fossil POR 68
+2 Boss's Orders PAL 172
+1 Hilda WHT 84
+
+Energy: 3
+8 Basic {F} Energy MEE 6
+3 Rocky {F} Energy POR 87
+1 Legacy Energy TWM 167
+
+Total Cards: 60

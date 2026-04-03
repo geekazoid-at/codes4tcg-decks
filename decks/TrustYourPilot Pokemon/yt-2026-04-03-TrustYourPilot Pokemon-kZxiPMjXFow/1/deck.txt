@@ -1,0 +1,38 @@
+Pokémon: 13
+2 Tyrantrum POR 45
+2 Barbaracle POR 43
+2 Lunatone MEG 74
+1 Fezandipiti ex SFA 38
+1 Bloodmoon Ursaluna SFA 25
+3 Tyrunt POR 44
+2 Solrock MEG 75
+1 Cornerstone Mask Ogerpon ex TWM 112
+2 Binacle POR 42
+1 Shaymin DRI 10
+1 Relicanth TEF 84
+1 Psyduck ASC 39
+1 Tatsugiri TWM 131
+
+Trainer: 15
+4 Fighting Gong MEG 116
+1 Drayton SSP 174
+1 Tarragon POR 85
+1 Team Rocket's Petrel DRI 176
+1 Battle Cage PFL 85
+1 Energy Retrieval SVI 171
+1 Night Stretcher SFA 61
+4 Antique Jaw Fossil POR 68
+1 Rare Candy MEG 125
+4 Poké Pad ASC 198
+1 Boss's Orders PAL 172
+2 Air Balloon BLK 79
+1 Hilda WHT 84
+1 Ciphermaniac's Codebreaking TEF 145
+4 Lillie's Determination MEG 119
+
+Energy: 3
+1 Legacy Energy TWM 167
+8 Basic {F} Energy MEE 6
+3 Rocky {F} Energy POR 87
+
+Total Cards: 60

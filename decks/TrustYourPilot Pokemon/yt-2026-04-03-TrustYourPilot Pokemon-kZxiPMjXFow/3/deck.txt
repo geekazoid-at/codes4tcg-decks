@@ -1,0 +1,36 @@
+Pokémon: 12
+1 Bloodmoon Ursaluna ex TWM 141
+1 Maractus JTG 8
+3 Tyrantrum POR 45
+1 Fezandipiti ex SFA 38
+4 Tyrunt POR 44
+2 Budew PRE 4
+1 Shaymin DRI 10
+2 Relicanth TEF 84
+1 Moltres PFL 14
+1 Psyduck ASC 39
+1 Tatsugiri TWM 131
+1 Furfrou POR 67
+
+Trainer: 14
+1 Drayton SSP 174
+2 Battle Cage PFL 85
+3 Counter Gain SSP 169
+3 Morty's Conviction TEF 155
+2 Night Stretcher SFA 61
+4 Antique Jaw Fossil POR 68
+4 Poké Pad ASC 198
+2 Boss's Orders PAL 172
+2 Air Balloon BLK 79
+1 Hassel TWM 151
+2 Hilda WHT 84
+4 Lillie's Determination MEG 119
+1 Switch MEG 130
+2 Ultra Ball MEG 131
+
+Energy: 3
+3 Basic {R} Energy MEE 2
+1 Neo Upper Energy TEF 162
+4 Rocky {F} Energy POR 87
+
+Total Cards: 60
