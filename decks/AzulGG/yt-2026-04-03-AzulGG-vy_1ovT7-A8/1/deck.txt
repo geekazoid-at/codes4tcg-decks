@@ -1,0 +1,32 @@
+Pokémon: 22
+4 Duskull PRE 35
+3 Dusclops PRE 36
+2 Dusknoir PRE 37
+3 Staryu POR 20
+2 Mega Starmie ex POR 21
+2 Munkidori TWM 95
+2 Meowth ex POR 62
+1 Bloodmoon Ursaluna ex TWM 141
+1 Budew PRE 4
+1 Fezandipiti ex ASC 142
+1 Latias ex SSP 76
+
+Trainer: 29
+4 Lillie's Determination MEG 119
+3 Hilda WHT 84
+2 Boss's Orders MEG 114
+1 Carmine TWM 145
+1 Judge SVI 176
+4 Buddy-Buddy Poffin ASC 184
+4 Night Stretcher ASC 196
+4 Poké Pad ASC 198
+3 Ultra Ball MEG 131
+3 Risky Ruins MEG 127
+
+Energy: 9
+3 Basic {W} Energy SVE 3
+3 Basic {D} Energy SVE 7
+2 Ignition Energy WHT 86
+1 Legacy Energy TWM 167
+
+Total Cards: 60
