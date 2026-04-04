@@ -1,0 +1,31 @@
+Pokémon: 9
+1 Mega Absol ex MEG 86
+2 Mega Scrafty ex ASC 285
+3 Toxel PFL 67
+2 Munkidori TWM 95
+3 Scraggy WHT 57
+1 Fezandipiti ex SFA 38
+1 Mega Scrafty ex ASC 270
+3 Toxtricity PFL 68
+2 Pecharunt ex SFA 39
+
+Trainer: 14
+2 Punk Helmet PFL 92
+1 Enhanced Hammer TWM 148
+1 Unfair Stamp TWM 165
+1 Tool Scrapper ASC 212
+2 Risky Ruins MEG 127
+4 Poké Pad ASC 198
+2 Night Stretcher ASC 196
+2 Jumbo Ice Cream PFL 91
+4 Lillie's Determination ASC 192
+2 Mega Signal ASC 193
+4 Judge DRI 167
+2 Counter Gain ASC 186
+4 Buddy-Buddy Poffin ASC 184
+2 Boss's Orders ASC 183
+
+Energy: 1
+9 Basic {D} Energy SVE 15
+
+Total Cards: 60

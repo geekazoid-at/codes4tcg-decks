@@ -1,0 +1,28 @@
+Pokémon: 7
+2 Budew ASC 16
+2 Raging Bolt ex TEF 123
+3 Iono's Wattrel ASC 71
+3 Iono's Bellibolt ex JTG 53
+1 Meowth ex POR 62
+3 Iono's Kilowattrel ASC 72
+3 Iono's Tadbulb JTG 52
+
+Trainer: 12
+1 Unfair Stamp TWM 165
+2 Energy Switch SVI 173
+2 Energy Retrieval SVI 171
+3 Ultra Ball ASC 213
+3 Poké Pad ASC 198
+3 Night Stretcher ASC 196
+4 Lillie's Determination ASC 192
+2 Levincia JTG 150
+2 Crispin PRE 105
+4 Buddy-Buddy Poffin ASC 184
+2 Boss's Orders ASC 183
+2 Air Balloon ASC 181
+
+Energy: 2
+10 Basic {L} Energy SVE 12
+3 Basic {F} Energy SVE 14
+
+Total Cards: 60
