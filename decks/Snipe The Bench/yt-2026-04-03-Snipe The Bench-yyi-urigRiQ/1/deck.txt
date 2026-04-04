@@ -1,0 +1,32 @@
+Pokémon: 6
+3 Barbaracle POR 43
+2 Lunatone MEG 74
+2 Solrock MEG 75
+1 Cornerstone Mask Ogerpon ex TWM 112
+4 Binacle POR 42
+2 Mega Zygarde ex POR 47
+
+Trainer: 17
+4 Fighting Gong MEG 116
+1 Tarragon POR 85
+3 Poké Pad POR 81
+2 Energy Retrieval SVI 171
+2 Night Stretcher SFA 61
+2 Team Rocket's Watchtower ASC 210
+2 Premium Power Pro ASC 199
+1 Air Balloon BLK 79
+2 Judge POR 76
+3 Carmine PRE 103
+1 Core Memory POR 70
+1 Scoop Up Cyclone PRE 128
+4 Lillie's Determination MEG 119
+2 Ultra Ball MEG 131
+1 Wally's Compassion MEG 132
+2 Switch SVI 194
+2 Boss's Orders MEG 114
+
+Energy: 2
+10 Basic {F} Energy MEE 6
+1 Rocky {F} Energy POR 87
+
+Total Cards: 60
