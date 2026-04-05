@@ -1,0 +1,33 @@
+Pokémon: 6
+3 Salandit POR 15
+3 Jellicent ex WHT 45
+2 Morelull SSP 8
+2 Shiinotic SSP 9
+3 Salazzle ex POR 16
+3 Frillish WHT 44
+
+Trainer: 15
+3 Surfer SSP 187
+1 Unfair Stamp TWM 165
+1 Perilous Jungle TEF 156
+2 Night Stretcher SFA 61
+3 Poké Pad ASC 198
+2 Boss's Orders PAL 172
+2 Air Balloon BLK 79
+1 Kieran TWM 154
+2 Lucky Helmet TWM 158
+2 Crispin SCR 133
+1 Judge DRI 167
+3 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+1 Switch MEG 130
+3 Ultra Ball SVI 196
+
+Energy: 5
+1 Telepathic {P} Energy POR 88
+3 Basic {P} Energy MEE 5
+2 Basic {G} Energy MEE 1
+5 Basic {R} Energy MEE 2
+2 Ignition Energy WHT 86
+
+Total Cards: 60

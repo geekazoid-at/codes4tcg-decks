@@ -1,0 +1,35 @@
+Pokémon: 18
+3 Munkidori TWM 95
+2 Mega Kangaskhan ex MEG 104
+2 Mega Absol ex MEG 86
+2 Teal Mask Ogerpon ex TWM 25
+2 Latias ex SSP 76
+2 Lillie's Clefairy ex JTG 56
+2 Meowth ex POR 62
+1 Wellspring Mask Ogerpon ex TWM 64
+1 Bloodmoon Ursaluna ex TWM 141
+1 Fezandipiti ex ASC 142
+
+Trainer: 29
+3 Crispin SCR 133
+3 Cyrano SSP 170
+3 Boss's Orders MEG 114
+2 Brock's Scouting JTG 146
+1 Ciphermaniac's Codebreaking TEF 145
+1 Xerosic's Machinations SFA 64
+1 Lillie's Determination MEG 119
+4 Ultra Ball MEG 131
+4 Energy Switch MEG 115
+2 Night Stretcher ASC 196
+1 Unfair Stamp TWM 165
+3 Area Zero Underdepths SCR 131
+1 Lively Stadium SSP 180
+
+Energy: 13
+4 Basic {G} Energy SVE 1
+4 Basic {D} Energy SVE 7
+2 Basic {P} Energy SVE 5
+2 Prism Energy ASC 216
+1 Basic {W} Energy SVE 3
+
+Total Cards: 60

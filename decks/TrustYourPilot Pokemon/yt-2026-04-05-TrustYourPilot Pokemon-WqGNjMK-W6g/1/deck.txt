@@ -1,0 +1,32 @@
+Pokémon: 9
+3 Salandit POR 15
+2 Pecharunt PR-SV 149
+2 Magmortar JTG 21
+1 Fezandipiti ex SFA 38
+3 Salazzle ex POR 16
+1 Budew PRE 4
+2 Ethan's Ho-Oh ex DRI 39
+1 Turtonator POR 17
+2 Magmar JTG 20
+
+Trainer: 14
+1 Surfer SSP 187
+1 Unfair Stamp TWM 165
+2 Perilous Jungle TEF 156
+2 Night Stretcher SFA 61
+4 Poké Pad ASC 198
+3 Boss's Orders PAL 172
+2 Air Balloon BLK 79
+3 Judge DRI 167
+1 Gravity Gemstone SCR 137
+3 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+1 Switch MEG 130
+4 Ultra Ball SVI 196
+3 Energy Switch MEG 115
+
+Energy: 2
+1 Basic {D} Energy MEE 7
+8 Basic {R} Energy MEE 2
+
+Total Cards: 60
