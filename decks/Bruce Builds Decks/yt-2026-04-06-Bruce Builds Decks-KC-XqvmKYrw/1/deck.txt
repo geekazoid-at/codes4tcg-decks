@@ -1,0 +1,25 @@
+Pokémon: 15
+2 Exeggcute SSP 1
+1 Kyogre MEG 34
+2 Eiscue MEG 44
+2 Alolan Exeggutor ex SSP 133
+4 Cubchoo BLK 25
+4 Beartic BLK 26
+
+Trainer: 25
+3 Buddy-Buddy Poffin ASC 184
+3 Crispin PRE 105
+2 Poké Pad ASC 198
+1 Brilliant Blender SSP 164
+4 Lillie's Determination ASC 192
+2 Hand Trimmer TEF 150
+2 Surfing Beach MEG 129
+4 Ultra Ball ASC 213
+4 Carmine TWM 145
+
+Energy: 20
+16 Basic {W} Energy SVE 3
+2 Basic {F} Energy SVE 6
+2 Basic {G} Energy SVE 1
+
+Total Cards: 60

@@ -1,0 +1,28 @@
+Pokémon: 19
+4 Gastly ASC 123
+4 Haunter ASC 124
+3 Gengar POR 50
+3 Mega Gengar ex ASC 125
+4 Budew ASC 16
+1 Shaymin DRI 10
+
+Trainer: 33
+4 Buddy-Buddy Poffin ASC 184
+4 Poké Pad POR 81
+3 Ultra Ball ASC 213
+3 Rare Candy MEG 125
+2 Pokégear 3.0 BLK 84
+1 Night Stretcher ASC 196
+1 Energy Retrieval WHT 82
+1 Unfair Stamp TWM 165
+2 Air Balloon ASC 181
+2 Battle Cage PFL 85
+4 Lillie's Determination ASC 192
+2 Boss's Orders ASC 183
+2 Drayton SSP 174
+2 Janine's Secret Art PRE 112
+
+Energy: 8
+8 Basic {D} Energy SVE 7
+
+Total Cards: 60
