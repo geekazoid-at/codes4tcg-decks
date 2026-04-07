@@ -1,0 +1,33 @@
+Pokémon: 10
+3 Vivillon POR 9
+3 Spewpa POR 8
+3 Rowlet SFA 3
+1 Shaymin DRI 10
+1 Decidueye ex POR 100
+1 Relicanth TEF 84
+3 Dartrix POR 11
+1 Fezandipiti ex SFA 38
+2 Decidueye ex POR 12
+3 Scatterbug SSP 5
+
+Trainer: 13
+2 Buddy-Buddy Poffin ASC 184
+2 Switch SVI 194
+4 Poké Pad ASC 198
+2 Night Stretcher ASC 196
+4 Lillie's Determination ASC 192
+2 Boss's Orders MEG 114
+1 Prime Catcher TEF 157
+1 Morty's Conviction TEF 155
+1 Iris's Fighting Spirit JTG 180
+4 Dawn PFL 87
+1 Ultra Ball ASC 213
+3 Bug Catching Set TWM 143
+4 Forest of Vitality ASC 188
+
+Energy: 3
+3 Basic {G} Energy SVE 9
+3 Growing {G} Energy POR 86
+2 Ignition Energy WHT 86
+
+Total Cards: 60
