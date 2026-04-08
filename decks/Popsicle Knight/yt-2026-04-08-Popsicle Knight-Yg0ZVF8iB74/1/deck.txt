@@ -1,0 +1,33 @@
+Pokémon: 8
+3 Barbaracle POR 43
+2 Lunatone MEG 74
+1 Fezandipiti ex SFA 38
+2 Bloodmoon Ursaluna SFA 25
+2 Solrock MEG 75
+1 Cornerstone Mask Ogerpon ex TWM 112
+3 Binacle POR 42
+3 Mega Zygarde ex POR 47
+
+Trainer: 16
+4 Fighting Gong MEG 116
+2 Tarragon POR 85
+1 Scramble Switch SSP 186
+2 Poké Pad POR 81
+1 Team Rocket's Petrel DRI 176
+1 Xerosic's Machinations SFA 64
+1 Night Stretcher SFA 61
+2 Air Balloon BLK 79
+2 Judge POR 76
+1 Colress's Tenacity SFA 57
+2 Core Memory POR 70
+2 Area Zero Underdepths SCR 131
+4 Lillie's Determination MEG 119
+2 Ultra Ball MEG 131
+2 Boss's Orders MEG 114
+2 Energy Switch MEG 115
+
+Energy: 2
+11 Basic {F} Energy MEE 6
+1 Rocky {F} Energy POR 87
+
+Total Cards: 60
