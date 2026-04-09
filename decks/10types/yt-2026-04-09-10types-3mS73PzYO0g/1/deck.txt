@@ -1,0 +1,32 @@
+Pokémon: 10
+3 Snorunt ASC 46
+2 Munkidori TWM 95
+3 Drakloak TWM 129
+3 Dreepy TWM 128
+1 Mega Froslass ex ASC 47
+3 Froslass TWM 53
+2 Budew PRE 4
+1 Chi-Yu MEG 31
+1 Moltres PFL 14
+1 Dragapult ex TWM 130
+
+Trainer: 11
+1 Unfair Stamp TWM 165
+3 Brock's Scouting JTG 146
+4 Night Stretcher SFA 61
+4 Poké Pad ASC 198
+1 Air Balloon BLK 79
+3 Energy Search POR 72
+2 Judge DRI 167
+4 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+4 Ultra Ball MEG 131
+2 Boss's Orders MEG 114
+
+Energy: 4
+2 Basic {R} Energy SVE 2
+2 Basic {P} Energy SVE 5
+2 Basic {D} Energy MEE 7
+2 Basic {W} Energy MEE 3
+
+Total Cards: 60
