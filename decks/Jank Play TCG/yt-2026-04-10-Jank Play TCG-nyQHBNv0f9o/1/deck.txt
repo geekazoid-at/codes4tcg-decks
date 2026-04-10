@@ -1,0 +1,28 @@
+Pokémon: 8
+2 Beldum TEF 113
+2 Metang TEF 114
+1 Shaymin DRI 10
+1 Psyduck ASC 39
+4 Doublade POR 57
+2 Genesect ex BLK 67
+4 Honedge POR 56
+4 Aegislash POR 58
+
+Trainer: 11
+3 Buddy-Buddy Poffin ASC 184
+4 Poké Pad ASC 198
+4 Lillie's Determination MEG 119
+2 Lana's Aid TWM 155
+2 Battle Cage PFL 85
+2 Boss's Orders MEG 114
+4 Dawn PFL 87
+1 Unfair Stamp TWM 165
+2 Ultra Ball ASC 213
+1 Sacred Ash DRI 168
+2 Hilda WHT 84
+
+Energy: 2
+4 Ignition Energy WHT 86
+9 Basic {M} Energy SVE 8
+
+Total Cards: 60

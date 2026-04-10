@@ -1,0 +1,30 @@
+Pokémon: 21
+4 Cynthia's Gible ASC 109
+4 Cynthia's Gabite DRI 103
+3 Cynthia's Garchomp ex ASC 111
+3 Cynthia's Roselia DRI 7
+3 Cynthia's Roserade DRI 8
+2 Budew PRE 4
+1 Cynthia's Spiritomb ASC 133
+1 Meowth ex POR 62
+
+Trainer: 31
+4 Boss's Orders MEG 114
+4 Lillie's Determination MEG 119
+3 Judge POR 76
+2 Surfer ASC 200
+4 Buddy-Buddy Poffin ASC 184
+2 Fighting Gong MEG 116
+2 Night Stretcher ASC 196
+2 Premium Power Pro MEG 124
+2 Ultra Ball MEG 131
+1 Poké Pad ASC 198
+3 Cynthia's Power Weight DRI 162
+2 Team Rocket's Watchtower DRI 180
+
+Energy: 8
+4 Basic {F} Energy SVE 6
+3 Basic {F} Energy SVE 6
+1 Neo Upper Energy TEF 162
+
+Total Cards: 60
