@@ -1,0 +1,30 @@
+Pokémon: 9
+1 Meowth ex POR 62
+4 Mega Diancie ex PFL 41
+3 Dusknoir PRE 37
+2 Latias ex SSP 76
+3 Duskull PRE 35
+1 Fezandipiti ex ASC 142
+1 Dusclops PRE 36
+1 Flutter Mane TEF 78
+1 Lillie's Clefairy ex JTG 56
+
+Trainer: 12
+3 Powerglass SFA 63
+1 Poké Pad ASC 198
+3 Night Stretcher ASC 196
+4 Lillie's Determination MEG 119
+2 Boss's Orders MEG 114
+4 Ultra Ball MEG 131
+1 Secret Box TWM 163
+4 Wondrous Patch PFL 94
+3 Carmine TWM 145
+3 Mystery Garden MEG 122
+1 Judge DRI 167
+3 Rare Candy MEG 125
+
+Energy: 2
+7 Basic {P} Energy MEE 5
+4 Telepathic {P} Energy POR 88
+
+Total Cards: 60
