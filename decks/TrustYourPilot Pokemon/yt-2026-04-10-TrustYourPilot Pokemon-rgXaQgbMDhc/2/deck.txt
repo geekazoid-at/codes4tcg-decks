@@ -1,0 +1,37 @@
+Pokémon: 15
+1 Terapagos ex PRE 92
+1 Meowth ex POR 62
+1 Mega Audino ex ASC 172
+1 Koraidon ex ASC 121
+1 Reshiram ex WHT 20
+1 Latias ex SSP 76
+2 Dewgong POR 19
+1 Regigigas PRE 86
+1 Fezandipiti ex SFA 38
+1 Cornerstone Mask Ogerpon ex TWM 112
+1 Mega Kangaskhan ex MEG 104
+1 Wellspring Mask Ogerpon ex TWM 64
+3 Seel POR 18
+1 Lillie's Clefairy ex JTG 56
+1 Durant ex SSP 4
+
+Trainer: 12
+2 Iris's Fighting Spirit JTG 149
+3 Area Zero Underdepths SCR 131
+2 Lillie's Determination MEG 119
+3 Glass Trumpet SCR 135
+4 Poké Pad POR 81
+1 Air Balloon BLK 79
+3 Boss's Orders MEG 114
+2 Night Stretcher SFA 61
+1 Switch MEG 130
+2 Naveen POR 79
+4 Ultra Ball MEG 131
+2 Morty's Conviction TEF 155
+
+Energy: 3
+8 Basic {W} Energy MEE 3
+1 Legacy Energy TWM 167
+4 Prism Energy BLK 86
+
+Total Cards: 60

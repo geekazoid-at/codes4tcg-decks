@@ -1,0 +1,35 @@
+Pokémon: 17
+1 Terapagos ex PRE 92
+3 Team Rocket's Tarountula DRI 19
+1 Mega Mawile ex MEG 94
+1 Koraidon ex ASC 121
+1 Volbeat TWM 9
+1 Latias ex SSP 76
+2 Dewgong POR 19
+1 Regigigas PRE 86
+1 Fezandipiti ex SFA 38
+1 Chi-Yu TWM 39
+1 Cornerstone Mask Ogerpon ex TWM 112
+1 Mega Kangaskhan ex MEG 104
+1 Wellspring Mask Ogerpon ex TWM 64
+3 Seel POR 18
+1 Lillie's Clefairy ex JTG 56
+1 Tapu Koko ex JTG 51
+3 Team Rocket's Spidops DRI 20
+
+Trainer: 8
+3 Area Zero Underdepths SCR 131
+4 Lillie's Determination MEG 119
+4 Poké Pad POR 81
+1 Air Balloon BLK 79
+2 Boss's Orders MEG 114
+2 Night Stretcher SFA 61
+4 Ultra Ball MEG 131
+4 Carmine TWM 145
+
+Energy: 3
+7 Basic {W} Energy MEE 3
+1 Legacy Energy TWM 167
+4 Prism Energy BLK 86
+
+Total Cards: 60
