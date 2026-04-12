@@ -1,0 +1,31 @@
+Pokémon: 8
+1 Meowth ex POR 62
+2 Solrock MEG 75
+4 Munkidori TWM 95
+3 Bunnelby POR 64
+2 Lunatone MEG 74
+1 Lillie's Clefairy ex JTG 56
+2 Diggersby POR 65
+2 Bloodmoon Ursaluna SFA 25
+
+Trainer: 13
+2 Air Balloon ASC 181
+1 Counter Gain SSP 169
+2 Night Stretcher ASC 196
+3 Crispin SCR 133
+3 Energy Retrieval SVI 171
+4 Lillie's Determination MEG 119
+3 Poké Pad POR 81
+2 Boss's Orders MEG 114
+2 Energy Switch MEG 115
+4 Fighting Gong MEG 116
+3 Ultra Ball MEG 131
+2 Team Rocket's Watchtower DRI 180
+1 Unfair Stamp TWM 165
+
+Energy: 3
+1 Basic {P} Energy MEE 5
+3 Basic {D} Energy MEE 7
+7 Basic {F} Energy MEE 6
+
+Total Cards: 60

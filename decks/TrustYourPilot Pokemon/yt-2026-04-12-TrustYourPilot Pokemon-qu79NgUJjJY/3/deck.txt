@@ -1,0 +1,34 @@
+Pokémon: 9
+1 Mega Froslass ex ASC 47
+4 Cynthia's Roserade DRI 8
+1 Froslass TWM 53
+3 Bunnelby POR 64
+4 Cynthia's Spiritomb ASC 133
+1 Snorunt ASC 46
+4 Cynthia's Roselia DRI 7
+1 Emolga TWM 69
+2 Diggersby POR 65
+
+Trainer: 14
+1 Iris's Fighting Spirit JTG 149
+4 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+4 Cynthia's Power Weight DRI 162
+4 Poké Pad POR 81
+1 Air Balloon BLK 79
+2 Battle Cage PFL 85
+2 Boss's Orders MEG 114
+2 Lucky Helmet TWM 158
+2 Night Stretcher SFA 61
+2 Switch MEG 130
+2 Judge POR 76
+1 Morty's Conviction TEF 155
+1 Hilda WHT 84
+
+Energy: 4
+2 Mist Energy TEF 161
+2 Basic {G} Energy MEE 1
+2 Basic {W} Energy MEE 3
+1 Legacy Energy TWM 167
+
+Total Cards: 60
