@@ -1,0 +1,30 @@
+Pokémon: 21
+4 Teal Mask Ogerpon ex TWM 25
+2 Chikorita MEG 8
+2 Bayleef MEG 9
+2 Meganium MEG 10
+2 Smoliv DRI 21
+2 Dolliv DRI 22
+2 Arboliva ex DRI 23
+1 Hoothoot SCR 114
+1 Noctowl PRE 78
+1 Budew ASC 16
+1 Fezandipiti ex ASC 142
+1 Meowth ex POR 62
+
+Trainer: 27
+4 Lillie's Determination MEG 119
+3 Dawn PFL 87
+2 Boss's Orders MEG 114
+1 Lana's Aid TWM 155
+1 Harlequin WHT 83
+4 Bug Catching Set TWM 143
+4 Ultra Ball MEG 131
+3 Poké Pad ASC 198
+1 Unfair Stamp TWM 165
+4 Forest of Vitality MEG 117
+
+Energy: 12
+12 Basic {G} Energy SVE 1
+
+Total Cards: 60
