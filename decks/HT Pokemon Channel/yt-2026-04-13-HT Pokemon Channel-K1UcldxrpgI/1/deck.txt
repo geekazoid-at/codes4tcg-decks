@@ -1,0 +1,30 @@
+Pokémon: 18
+4 Staryu POR 20
+2 Mega Starmie ex POR 21
+4 Snorunt ASC 46
+2 Mega Froslass ex ASC 47
+2 Froslass TWM 53
+3 Munkidori ASC 99
+1 Budew ASC 16
+
+Trainer: 33
+4 Buddy-Buddy Poffin ASC 184
+4 Poké Pad POR 81
+3 Mega Signal ASC 193
+2 Pokégear 3.0 BLK 84
+2 Night Stretcher ASC 196
+1 Hero's Cape TEF 152
+1 Air Balloon ASC 181
+3 Surfing Beach MEG 129
+4 Lillie's Determination ASC 192
+3 Boss's Orders ASC 183
+2 Crispin PRE 105
+2 Hilda WHT 84
+2 Wally's Compassion MEG 132
+
+Energy: 9
+1 Ignition Energy WHT 86
+5 Basic {W} Energy SVE 3
+3 Basic {D} Energy SVE 7
+
+Total Cards: 60
