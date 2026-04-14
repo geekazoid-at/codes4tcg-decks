@@ -1,0 +1,39 @@
+Pokémon: 15
+1 Volbeat TWM 9
+2 Eelektrik BLK 31
+1 Luxray POR 28
+1 Fezandipiti ex SFA 38
+2 Luxray ex TWM 68
+1 Zekrom ex BLK 34
+1 Tapu Koko ASC 67
+4 Shinx POR 26
+1 Budew PRE 4
+1 Rotom SSP 61
+2 Tynamo BLK 30
+1 Team Rocket's Chingling DRI 85
+1 Stunfisk ASC 62
+1 Shaymin DRI 10
+3 Luxio POR 27
+
+Trainer: 16
+1 Iris's Fighting Spirit JTG 149
+1 Xerosic's Machinations SFA 64
+2 Battle Cage PFL 85
+1 Prime Catcher TEF 157
+1 Morty's Conviction TEF 155
+2 Night Stretcher SFA 61
+3 Poké Pad ASC 198
+2 Boss's Orders PAL 172
+2 Air Balloon BLK 79
+1 Judge POR 76
+4 Buddy-Buddy Poffin TEF 144
+2 Canari ASC 185
+4 Lillie's Determination MEG 119
+1 Switch MEG 130
+1 Ultra Ball MEG 131
+1 Rare Candy SVI 191
+
+Energy: 1
+8 Basic {L} Energy MEE 4
+
+Total Cards: 60

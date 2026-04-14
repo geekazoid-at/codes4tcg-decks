@@ -1,0 +1,37 @@
+Pokémon: 13
+2 Eelektrik BLK 31
+1 Luxray POR 28
+1 Fezandipiti ex SFA 38
+2 Luxray ex TWM 68
+1 Zekrom ex BLK 34
+1 Tapu Koko ASC 67
+3 Shinx POR 26
+1 Budew PRE 4
+2 Tynamo BLK 30
+2 Lillie's Clefairy ex JTG 56
+1 Shaymin DRI 10
+3 Luxio POR 27
+1 Tatsugiri TWM 131
+
+Trainer: 14
+1 Iris's Fighting Spirit JTG 149
+1 Xerosic's Machinations SFA 64
+2 Battle Cage PFL 85
+4 Poké Pad ASC 198
+2 Night Stretcher ASC 196
+2 Boss's Orders PAL 172
+2 Air Balloon BLK 79
+2 Energy Search POR 72
+1 Counter Gain ASC 186
+2 Judge DRI 167
+3 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+1 Canari ASC 185
+3 Ultra Ball SVI 196
+
+Energy: 3
+2 Basic {P} Energy MEE 5
+6 Basic {L} Energy MEE 4
+1 Neo Upper Energy TEF 162
+
+Total Cards: 60

@@ -1,0 +1,37 @@
+Pokémon: 9
+1 Emolga TWM 69
+1 Fan Rotom ASC 171
+1 Munkidori TWM 95
+1 Rattata POR 60
+2 Raticate POR 61
+3 Rattata POR 60
+1 Raticate POR 99
+1 Shaymin DRI 10
+2 Tatsugiri TWM 131
+
+Trainer: 17
+1 Xerosic's Machinations SFA 64
+2 Lacey PRE 114
+4 Risky Ruins MEG 127
+4 Poké Pad ASC 198
+4 Night Stretcher ASC 196
+4 Lillie's Determination ASC 192
+2 Sacred Ash DRI 168
+1 Lana's Aid TWM 155
+1 Hilda WHT 84
+2 Team Rocket's Petrel ASC 207
+1 Crispin SCR 133
+4 Buddy-Buddy Poffin ASC 184
+2 Brave Bangle WHT 80
+2 Boss's Orders ASC 183
+2 Air Balloon ASC 181
+1 Neutralization Zone SFA 60
+1 Redeemable Ticket JTG 156
+
+Energy: 4
+2 Basic {D} Energy SVE 15
+4 Spiky Energy JTG 159
+1 Basic {P} Energy SVE 13
+2 Mist Energy TEF 161
+
+Total Cards: 60

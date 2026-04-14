@@ -1,0 +1,30 @@
+Pokémon: 6
+4 Eelektrik ASC 60
+4 Tynamo ASC 59
+3 Mega Eelektross ex ASC 61
+1 Zekrom ex BLK 34
+3 Rotom SSP 61
+1 Zeraora DRI 78
+
+Trainer: 16
+3 Buddy-Buddy Poffin ASC 184
+1 Canari ASC 185
+1 Xerosic's Machinations SFA 64
+4 Poké Pad ASC 198
+2 Night Stretcher ASC 196
+2 Energy Switch SVI 173
+4 Lillie's Determination MEG 119
+3 Kofu SCR 138
+3 Air Balloon BLK 79
+2 Battle Cage PFL 85
+3 Boss's Orders MEG 114
+1 Wally's Compassion MEG 132
+2 Pokégear 3.0 SVI 186
+1 Morty's Conviction TEF 155
+1 Unfair Stamp TWM 165
+1 Switch MEG 130
+
+Energy: 1
+10 Basic {L} Energy SVE 12
+
+Total Cards: 60
