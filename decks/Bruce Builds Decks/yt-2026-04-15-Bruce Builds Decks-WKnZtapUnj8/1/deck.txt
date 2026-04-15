@@ -1,0 +1,29 @@
+Pokémon: 20
+3 Lairon TWM 121
+4 Aron TWM 120
+4 Aggron TWM 122
+2 Steven's Metang DRI 144
+1 Genesect ex BLK 67
+3 Steven's Beldum DRI 143
+2 Steven's Metagross ex DRI 145
+1 Mega Skarmory ex POR 55
+
+Trainer: 29
+2 Buddy-Buddy Poffin ASC 184
+4 Risky Ruins MEG 127
+3 Boss's Orders ASC 183
+4 Poké Pad ASC 198
+2 Rare Candy SVI 191
+2 Night Stretcher ASC 196
+4 Lillie's Determination MEG 119
+1 Energy Recycler DRI 164
+1 Air Balloon SSH 156
+1 Prime Catcher TEF 157
+2 Morty's Conviction TEF 155
+3 Ultra Ball ASC 213
+
+Energy: 11
+9 Basic {M} Energy SVE 8
+2 Basic {P} Energy SVE 5
+
+Total Cards: 60

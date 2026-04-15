@@ -1,0 +1,32 @@
+Pokémon: 20
+4 Teal Mask Ogerpon ex TWM 25
+3 Hoothoot SCR 114
+3 Noctowl SCR 115
+2 Chikorita MEG 8
+2 Bayleef MEG 9
+2 Meganium MEG 10
+1 Budew PRE 4
+1 Fan Rotom PRE 85
+1 Fezandipiti ex ASC 142
+1 Meowth ex POR 62
+
+Trainer: 27
+4 Lillie's Determination ASC 192
+2 Boss's Orders ASC 183
+1 Briar PRE 100
+1 Lana's Aid TWM 155
+4 Bug Catching Set TWM 143
+4 Poké Pad ASC 198
+2 Buddy-Buddy Poffin ASC 184
+2 Ultra Ball ASC 213
+1 Energy Switch SVI 173
+1 Rare Candy MEG 125
+1 Tera Orb SSP 189
+1 Unfair Stamp TWM 165
+2 Area Zero Underdepths PRE 94
+1 Forest of Vitality ASC 188
+
+Energy: 13
+13 Basic {G} Energy SVE 1
+
+Total Cards: 60

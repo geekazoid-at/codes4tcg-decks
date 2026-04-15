@@ -1,0 +1,25 @@
+Pokémon: 19
+4 Buneary PFL 83
+4 Mega Lopunny ex PFL 84
+2 Abra TWM 80
+4 Dreepy ASC 158
+4 Drakloak ASC 159
+1 Shaymin DRI 10
+
+Trainer: 34
+4 Buddy-Buddy Poffin ASC 184
+4 Poké Pad POR 81
+4 Pokégear 3.0 BLK 84
+4 Air Balloon ASC 181
+3 Battle Cage PFL 85
+4 Lillie's Determination ASC 192
+4 Hilda WHT 84
+4 Wally's Compassion MEG 132
+3 Boss's Orders ASC 183
+
+Energy: 7
+1 Enriching Energy SSP 191
+4 Mist Energy TEF 161
+2 Spiky Energy JTG 159
+
+Total Cards: 60

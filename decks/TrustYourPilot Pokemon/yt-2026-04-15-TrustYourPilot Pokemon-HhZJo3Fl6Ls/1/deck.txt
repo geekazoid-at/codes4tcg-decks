@@ -1,0 +1,35 @@
+Pokémon: 9
+3 Munkidori TWM 95
+3 Froslass TWM 53
+1 Fezandipiti ex SFA 38
+3 Snorunt ASC 46
+2 Budew PRE 4
+1 Yveltal MEG 88
+1 Team Rocket's Sneasel DRI 128
+1 Yveltal ex POR 53
+1 Yveltal SFA 35
+
+Trainer: 17
+2 Risky Ruins MEG 127
+2 Ultra Ball SVI 196
+2 Iris's Fighting Spirit JTG 149
+4 Poké Pad ASC 198
+2 Counter Gain SSP 169
+3 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+2 Pokégear 3.0 BLK 84
+2 Air Balloon BLK 79
+2 Energy Switch MEG 115
+3 Night Stretcher SFA 61
+2 Hand Trimmer TEF 150
+2 Morty's Conviction TEF 155
+1 Unfair Stamp TWM 165
+2 Pokémon Catcher POR 82
+2 Accompanying Flute TWM 142
+1 Boss's Orders PAL 172
+
+Energy: 2
+5 Basic {D} Energy MEE 7
+1 Prism Energy ASC 216
+
+Total Cards: 60
