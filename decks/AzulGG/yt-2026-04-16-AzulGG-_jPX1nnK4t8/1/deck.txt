@@ -1,0 +1,29 @@
+Pokémon: 19
+4 Munkidori TWM 95
+3 Marnie's Impidimp DRI 134
+2 Marnie's Morgrem DRI 135
+2 Marnie's Grimmsnarl ex DRI 136
+3 Snorunt ASC 46
+2 Froslass TWM 53
+2 Budew ASC 16
+1 Yveltal MEG 88
+
+Trainer: 31
+4 Lillie's Determination MEG 119
+4 Team Rocket's Petrel DRI 176
+3 Boss's Orders MEG 114
+2 Harlequin WHT 83
+4 Poké Pad POR 81
+2 Night Stretcher ASC 196
+2 Pokégear 3.0 SVI 186
+2 Rare Candy MEG 125
+2 Team Rocket's Transceiver ASC 209
+1 Energy Switch MEG 115
+1 Precious Trolley SSP 185
+1 Air Balloon BLK 79
+3 Spikemuth Gym DRI 169
+
+Energy: 10
+10 Basic {D} Energy SVE 7
+
+Total Cards: 60
