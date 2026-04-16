@@ -1,0 +1,35 @@
+Pokémon: 22
+4 Dreepy TWM 128
+4 Drakloak TWM 129
+3 Lillie's Cutiefly JTG 66
+2 Nymble JTG 19
+2 Lokix PFL 10
+1 Dunsparce TEF 128
+1 Dudunsparce PRE 80
+1 Bloodmoon Ursaluna ex TWM 141
+1 Psyduck ASC 39
+1 Shaymin DRI 10
+1 Tatsugiri TWM 131
+1 Team Rocket's Articuno DRI 51
+
+Trainer: 35
+4 Lillie's Determination MEG 119
+2 Boss's Orders MEG 114
+2 Brock's Scouting JTG 146
+2 Hassel TWM 151
+1 Morty's Conviction TEF 155
+4 Buddy-Buddy Poffin ASC 184
+4 Poké Pad ASC 198
+2 Sacred Ash DRI 168
+1 Dusk Ball SSP 175
+1 Night Stretcher ASC 196
+1 Secret Box TWM 163
+4 Lillie's Pearl JTG 151
+2 Air Balloon ASC 181
+1 Brave Bangle WHT 80
+4 Forest of Vitality ASC 188
+
+Energy: 3
+3 Ignition Energy WHT 86
+
+Total Cards: 60

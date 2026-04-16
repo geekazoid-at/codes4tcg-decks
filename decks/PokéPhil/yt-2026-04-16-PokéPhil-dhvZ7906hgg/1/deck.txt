@@ -1,0 +1,28 @@
+Pokémon: 7
+2 Solrock MEG 75
+2 Binacle POR 42
+1 Munkidori TWM 95
+2 Lunatone MEG 74
+3 Okidogi TWM 111
+1 Bloodmoon Ursaluna PRE 54
+2 Barbaracle POR 43
+
+Trainer: 10
+2 Air Balloon ASC 181
+4 Poké Pad ASC 198
+3 Night Stretcher ASC 196
+4 Lillie's Determination MEG 119
+3 Battle Cage PFL 85
+4 Boss's Orders MEG 114
+4 Fighting Gong MEG 116
+1 Pokégear 3.0 SVI 186
+3 Tarragon POR 85
+4 Carmine TWM 145
+
+Energy: 4
+1 Basic {D} Energy MEE 7
+9 Basic {F} Energy MEE 6
+1 Legacy Energy TWM 167
+4 Prism Energy ASC 216
+
+Total Cards: 60

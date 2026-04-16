@@ -1,0 +1,31 @@
+Pokémon: 6
+1 Squawkabilly ex PR-SV 160
+4 Bronzor TEU 100
+2 Dedenne-GX SMALT 156
+4 Bronzong PFL 72
+3 Honchkrow V BRS 162
+1 Tapu Lele-GX SMALT 38
+
+Trainer: 16
+2 Ultra Ball PLF 122
+2 Hisuian Heavy Ball ASR 146
+2 Guzma BUS 143
+2 Full Metal Lab TEF 148
+4 Lillie's Determination MEG 169
+1 Iono PAL 269
+1 Field Blower SMALT 44
+1 Rescue Stretcher SMALT 187
+4 Quick Ball SSH 216
+2 Air Balloon SSH 213
+1 Guzma & Hala CEC 229
+2 Forest Seal Stone SIT 156
+4 Metal Goggles TEU 195
+1 Unfair Stamp TWM 165
+4 U-Turn Board UNM 255
+4 Adventure Bag LOT 228
+
+Energy: 2
+4 Triple Acceleration Energy UNB 234
+4 Ignition Energy WHT 86
+
+Total Cards: 60
