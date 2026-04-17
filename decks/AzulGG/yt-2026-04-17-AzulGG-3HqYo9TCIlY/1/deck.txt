@@ -1,0 +1,32 @@
+Pokémon: 20
+4 Applin TWM 17
+4 Dipplin TWM 18
+4 Grookey TWM 14
+4 Thwackey TWM 15
+1 Rellor TEF 23
+1 Rabsca TEF 24
+1 Psyduck ASC 39
+1 Shaymin DRI 10
+
+Trainer: 35
+4 Lillie's Determination MEG 119
+2 Boss's Orders MEG 114
+2 Kieran TWM 154
+1 Black Belt's Training JTG 143
+1 Fennel BLK 82
+1 Judge SVI 176
+1 Lana's Aid TWM 155
+1 Morty's Conviction TEF 155
+4 Buddy-Buddy Poffin ASC 184
+4 Bug Catching Set TWM 143
+4 Poké Pad POR 81
+2 Night Stretcher ASC 196
+1 Unfair Stamp TWM 165
+2 Brave Bangle WHT 80
+1 Air Balloon ASC 181
+4 Festival Grounds TWM 149
+
+Energy: 5
+5 Basic {G} Energy SVE 1
+
+Total Cards: 60
