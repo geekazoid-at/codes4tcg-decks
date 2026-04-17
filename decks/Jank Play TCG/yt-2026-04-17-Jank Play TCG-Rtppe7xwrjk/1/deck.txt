@@ -1,0 +1,30 @@
+Pokémon: 9
+4 Smoochum SSP 75
+3 Clefairy POR 94
+1 Mega Clefable ex POR 103
+1 Meowth ex POR 121
+2 Aromatisse POR 36
+1 Fezandipiti ex SFA 38
+1 Lillie's Clefairy ex JTG 184
+1 Mega Clefable ex POR 119
+2 Spritzee POR 35
+
+Trainer: 12
+2 Black Belt's Training JTG 143
+4 Lillie's Determination ASC 192
+4 Iris's Fighting Spirit ASC 190
+2 Boss's Orders MEG 114
+2 Energy Recycler DRI 164
+3 Cyrano SSP 170
+2 Wally's Compassion MEG 132
+2 Judge POR 76
+1 Hero's Cape TEF 152
+3 Wondrous Patch PFL 94
+4 Mystery Garden MEG 122
+3 Hilda WHT 84
+
+Energy: 2
+8 Basic {P} Energy SVE 5
+4 Telepathic {P} Energy POR 88
+
+Total Cards: 60

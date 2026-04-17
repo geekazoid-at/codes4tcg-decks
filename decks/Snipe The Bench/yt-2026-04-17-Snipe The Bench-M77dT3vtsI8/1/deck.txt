@@ -1,0 +1,26 @@
+Pokémon: 8
+1 Meowth ex POR 62
+4 Beldum TEF 113
+4 Metang TEF 114
+2 Heatran TWM 123
+1 Mega Mawile ex MEG 94
+2 Genesect ex BLK 67
+1 Fezandipiti ex ASC 142
+1 Mega Skarmory ex POR 55
+
+Trainer: 10
+1 Buddy-Buddy Poffin ASC 184
+2 Boss's Orders ASC 183
+3 Night Stretcher ASC 196
+4 Lillie's Determination MEG 119
+2 Full Metal Lab TEF 148
+3 Air Balloon BLK 79
+3 Energy Recycler DRI 164
+4 Ultra Ball MEG 131
+4 Team Rocket's Petrel ASC 207
+1 Precious Trolley SSP 185
+
+Energy: 1
+17 Basic {M} Energy SVE 16
+
+Total Cards: 60
