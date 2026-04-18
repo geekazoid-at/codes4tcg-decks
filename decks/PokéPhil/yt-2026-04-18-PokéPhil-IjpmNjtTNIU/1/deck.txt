@@ -1,0 +1,27 @@
+Pokémon: 8
+4 Bramblin PAL 23
+4 Brambleghast TEF 21
+2 Chikorita ASC 8
+2 Bayleef ASC 9
+2 Meganium MEP 1
+4 Teal Mask Ogerpon ex TWM 211
+2 Forretress ex PAF 212
+3 Pineco DRI 4
+
+Trainer: 11
+4 Bug Catching Set PRE 102
+4 Poké Pad ASC 198
+2 Night Stretcher MEG 173
+2 Nest Ball SVI 255
+3 Forest of Vitality MEG 117
+2 Boss's Orders ASC 256
+2 Iono PAL 254
+4 Lillie's Determination MEG 169
+1 Hero's Cape TEF 152
+1 Luxurious Cape PAR 265
+2 Arven PAF 235
+
+Energy: 1
+10 Basic {G} Energy SVE 17
+
+Total Cards: 60
