@@ -1,0 +1,35 @@
+Pokémon: 14
+1 Meowth ex POR 62
+1 Mega Mawile ex MEG 94
+2 Steven's Metang DRI 144
+1 Latias ex SSP 76
+2 Empoleon ex PFL 70
+2 Genesect ex BLK 67
+1 Fezandipiti ex ASC 142
+3 Steven's Beldum DRI 143
+1 Budew ASC 16
+3 Steven's Metagross ex DRI 145
+1 Dialga MEG 95
+2 Piplup PFL 27
+1 Lillie's Clefairy ex JTG 56
+1 Mega Skarmory ex POR 55
+
+Trainer: 12
+2 Night Stretcher ASC 196
+1 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+2 Battle Cage PFL 85
+2 Boss's Orders MEG 114
+1 Energy Recycler DRI 164
+1 Switch MEG 130
+4 Ultra Ball MEG 131
+4 Team Rocket's Petrel DRI 176
+1 Precious Trolley SSP 185
+2 Team Rocket's Transceiver DRI 178
+4 Rare Candy MEG 125
+
+Energy: 2
+5 Basic {M} Energy MEE 8
+5 Basic {P} Energy MEE 5
+
+Total Cards: 60

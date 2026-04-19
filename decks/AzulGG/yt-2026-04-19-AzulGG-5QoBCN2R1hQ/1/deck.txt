@@ -1,0 +1,24 @@
+Pokémon: 11
+4 Raging Bolt ex TEF 123
+4 Teal Mask Ogerpon ex TWM 25
+1 Fezandipiti ex ASC 142
+1 Koraidon SSP 116
+1 Latias ex SSP 76
+
+Trainer: 27
+4 Crispin SCR 133
+2 Boss's Orders MEG 114
+2 Lillie's Determination ASC 192
+4 Bug Catching Set TWM 143
+4 Pokégear 3.0 SVI 186
+4 Tera Orb SSP 189
+4 Ultra Ball MEG 131
+2 Dusk Ball SSP 175
+1 Prime Catcher TEF 157
+
+Energy: 22
+14 Basic {G} Energy SVE 1
+4 Basic {L} Energy SVE 4
+4 Basic {F} Energy SVE 6
+
+Total Cards: 60
