@@ -1,0 +1,35 @@
+Pokémon: 6
+1 Lumineon V CRZ-GG 39
+1 Manaphy CRZ-GG 6
+3 Luxray ex TWM 195
+1 Squawkabilly ex PAL 264
+4 Luxio UPR 47
+4 Shinx UPR 45
+
+Trainer: 20
+1 Hisuian Heavy Ball ASR 146
+1 Unfair Stamp TWM 165
+4 Crushing Hammer UPR 166
+1 Enhanced Hammer GRI 162
+2 Lillie's Determination MEG 169
+1 Guzma BUS 143
+1 Forest Seal Stone SIT 156
+1 U-Turn Board UNM 255
+1 Rescue Stretcher SMALT 187
+4 Poké Pad ASC 198
+2 Arven PAF 235
+1 Battle VIP Pass FST 225
+2 Handheld Fan TWM 150
+1 Iono PAL 269
+4 Judge DRI 222
+1 Hiker HIF 154
+2 Evolution Incense SSH 163
+3 Xerosic's Machinations SFA 89
+4 Quick Ball SSH 216
+2 Chaotic Swell CEC 187
+
+Energy: 2
+4 Double Colorless Energy GRI 166
+3 Speed {L} Energy RCL 173
+
+Total Cards: 60
