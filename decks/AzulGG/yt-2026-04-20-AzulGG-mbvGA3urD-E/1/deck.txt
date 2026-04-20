@@ -1,0 +1,33 @@
+Pokémon: 22
+4 Dunsparce JTG 120
+4 Dudunsparce PRE 80
+1 Dudunsparce ex JTG 121
+3 Snorunt ASC 46
+2 Mega Froslass ex ASC 47
+1 Froslass TWM 53
+2 Munkidori TWM 95
+1 Chien-Pao SSP 56
+1 Fan Rotom PRE 85
+1 Meowth ex POR 62
+1 Shaymin DRI 10
+1 Team Rocket's Articuno DRI 51
+
+Trainer: 32
+4 Lillie's Determination ASC 192
+4 Wally's Compassion MEG 132
+3 Boss's Orders MEG 114
+2 Ciphermaniac's Codebreaking TEF 145
+2 Hilda WHT 84
+1 Xerosic's Machinations SFA 64
+4 Buddy-Buddy Poffin ASC 184
+4 Poké Pad ASC 198
+3 Ultra Ball MEG 131
+2 Night Stretcher ASC 196
+2 Pokégear 3.0 SVI 186
+1 Hero's Cape TEF 152
+
+Energy: 6
+3 Basic {W} Energy SVE 3
+3 Basic {D} Energy SVE 7
+
+Total Cards: 60
