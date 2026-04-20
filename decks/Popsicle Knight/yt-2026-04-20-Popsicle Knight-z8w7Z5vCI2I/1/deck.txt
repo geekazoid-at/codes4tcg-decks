@@ -1,0 +1,36 @@
+Pokémon: 11
+1 Tyrantrum POR 45
+2 Noctowl PRE 78
+2 Cornerstone Mask Ogerpon ex PRE 58
+2 Relicanth TEF 84
+2 Tatsugiri TWM 131
+2 Tyrunt POR 44
+2 Hoothoot SCR 114
+1 Fan Rotom SCR 118
+1 Tyrunt POR 44
+2 Munkidori PRE 44
+2 Tyrantrum POR 45
+
+Trainer: 13
+2 Boss's Orders ASC 183
+2 Crispin PRE 105
+4 Poké Pad ASC 198
+1 Rare Candy SVI 191
+2 Night Stretcher ASC 196
+4 Lillie's Determination MEG 119
+1 Grand Tree SCR 136
+3 Kofu SCR 138
+1 Air Balloon BLK 79
+2 Area Zero Underdepths PRE 94
+4 Antique Jaw Fossil POR 68
+1 Counter Gain ASC 186
+2 Fighting Gong ASC 187
+
+Energy: 5
+2 Mist Energy TEF 161
+2 Basic {F} Energy SVE 14
+4 Rocky {F} Energy POR 87
+3 Basic {D} Energy SVE 15
+1 Basic {P} Energy SVE 13
+
+Total Cards: 60

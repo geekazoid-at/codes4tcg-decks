@@ -1,0 +1,32 @@
+Pokémon: 10
+2 Latias ex SSP 76
+1 Chien-Pao SSP 56
+4 Teal Mask Ogerpon ex TWM 25
+1 Iron Leaves ex TEF 25
+2 Mega Kangaskhan ex MEG 104
+1 Enamorus TWM 93
+1 Fezandipiti ex ASC 142
+4 Lillie's Clefairy ex JTG 56
+3 Meowth ex POR 62
+1 Psyduck ASC 39
+
+Trainer: 12
+1 Cyrano SSP 170
+1 Unfair Stamp TWM 165
+1 Brock's Scouting JTG 146
+1 Night Stretcher ASC 196
+2 Lillie's Pearl JTG 151
+3 Area Zero Underdepths SCR 131
+2 Crispin SCR 133
+1 Ciphermaniac's Codebreaking TEF 145
+3 Lillie's Determination MEG 119
+4 Ultra Ball MEG 131
+3 Boss's Orders MEG 114
+4 Energy Switch MEG 115
+
+Energy: 3
+4 Telepathic {P} Energy POR 88
+3 Basic {P} Energy MEE 5
+7 Basic {G} Energy MEE 1
+
+Total Cards: 60

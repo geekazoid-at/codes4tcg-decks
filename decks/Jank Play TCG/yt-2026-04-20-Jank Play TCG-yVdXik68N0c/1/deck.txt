@@ -1,0 +1,25 @@
+Pokémon: 2
+1 Smoochum SSP 75
+4 Snorlax POR 63
+
+Trainer: 13
+3 Boss's Orders ASC 183
+4 Poké Pad ASC 198
+4 Crushing Hammer SVI 168
+3 Night Stretcher ASC 196
+3 Crispin SCR 133
+4 Lillie's Determination MEG 119
+4 Iris's Fighting Spirit ASC 190
+2 Heavy Baton TEF 151
+4 Energy Coin BLK 81
+2 Energy Recycler DRI 164
+2 Heavy Baton TEF 151
+4 Energy Swatter POR 73
+4 Festival Grounds TWM 149
+
+Energy: 3
+4 Basic {L} Energy SVE 12
+4 Basic {G} Energy SVE 1
+4 Basic {P} Energy SVE 13
+
+Total Cards: 60
