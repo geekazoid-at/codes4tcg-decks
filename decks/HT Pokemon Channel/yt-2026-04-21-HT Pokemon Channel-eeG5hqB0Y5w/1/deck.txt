@@ -1,0 +1,24 @@
+Pokémon: 13
+4 Charcadet SSP 32
+3 Ceruledge ex SSP 36
+1 Ceruledge PFL 20
+2 Lunatone ASC 105
+2 Solrock ASC 106
+1 Drilbur TEF 85
+
+Trainer: 25
+4 Poké Pad POR 81
+4 Fighting Gong ASC 187
+3 Ultra Ball ASC 213
+3 Night Stretcher ASC 196
+1 Brilliant Blender SSP 164
+4 Carmine PRE 103
+3 Explorer's Guidance PRE 107
+3 Boss's Orders ASC 183
+
+Energy: 22
+2 Mist Energy TEF 161
+10 Basic {R} Energy SVE 2
+10 Basic {F} Energy SVE 6
+
+Total Cards: 60
