@@ -1,0 +1,27 @@
+Pokémon: 17
+4 Riolu MEG 76
+3 Mega Lucario ex MEG 77
+3 Solrock MEG 75
+2 Makuhita MEP 68
+2 Hariyama MEG 73
+2 Lunatone MEG 74
+1 Genesect SFA 40
+
+Trainer: 32
+4 Lillie's Determination MEG 119
+3 Judge SVI 176
+2 Boss's Orders MEG 114
+1 Acerola's Mischief MEG 113
+1 Wally's Compassion MEG 132
+4 Fighting Gong MEG 116
+4 Poké Pad ASC 198
+4 Premium Power Pro MEG 124
+4 Ultra Ball MEG 131
+1 Scoop Up Cyclone TWM 162
+3 Air Balloon BLK 79
+1 Gravity Mountain SSP 177
+
+Energy: 11
+11 Basic {F} Energy SVE 6
+
+Total Cards: 60

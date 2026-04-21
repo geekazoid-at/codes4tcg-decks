@@ -1,0 +1,38 @@
+Pokémon: 10
+2 Smoochum SSP 75
+1 Lugia ex PRE 82
+1 Psyduck ASC 39
+2 Munkidori TWM 95
+2 Aurorus POR 24
+1 Latias ex SSP 76
+2 Bouffalant SCR 119
+1 Bouffalant SSP 151
+3 Mega Kangaskhan ex MEG 104
+1 Lillie's Clefairy ex JTG 56
+
+Trainer: 16
+1 Xerosic's Machinations SFA 64
+2 Night Stretcher ASC 196
+2 Crispin SCR 133
+2 Ciphermaniac's Codebreaking TEF 145
+1 Sacred Charm PFL 93
+1 Handheld Fan TWM 150
+1 Acerola's Mischief MEG 113
+2 Battle Cage PFL 85
+3 Boss's Orders MEG 114
+1 Switch MEG 130
+2 Ultra Ball MEG 131
+2 Antique Sail Fossil POR 69
+4 Pokégear 3.0 SVI 186
+4 Team Rocket's Petrel DRI 176
+1 Precious Trolley SSP 185
+2 Rare Candy MEG 125
+
+Energy: 5
+2 Mist Energy TEF 161
+4 Basic {P} Energy MEE 5
+3 Basic {D} Energy MEE 7
+2 Basic {W} Energy MEE 3
+2 Prism Energy BLK 86
+
+Total Cards: 60
