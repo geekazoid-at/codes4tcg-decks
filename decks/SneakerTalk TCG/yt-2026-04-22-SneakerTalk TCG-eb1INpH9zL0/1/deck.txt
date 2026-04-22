@@ -1,0 +1,35 @@
+Pokémon: 12
+1 Meowth ex POR 62
+2 Munkidori PRE 44
+1 Pecharunt ex SFA 93
+1 Raboot MEG 27
+1 Latias ex SSP 220
+1 Lillie's Clefairy ex JTG 173
+1 Mega Absol ex MEG 161
+4 Cinderace MEG 28
+1 Fezandipiti ex SFA 92
+1 Yveltal MEG 88
+3 Scorbunny ASC 36
+2 Cinderace ex SCR 28
+
+Trainer: 12
+1 Brock's Scouting JTG 179
+1 Energy Recycler POR 108
+4 Ultra Ball ASC 264
+2 Night Stretcher MEG 173
+3 Rare Candy MEG 175
+2 Energy Switch SIT 212
+4 Crispin SCR 164
+2 Area Zero Underdepths SCR 174
+1 Unfair Stamp TWM 165
+3 Poké Pad POR 113
+4 Lillie's Determination MEG 184
+4 Boss's Orders RCL 189
+
+Energy: 4
+2 Basic {F} Energy SVE 14
+3 Basic {D} Energy SVE 15
+3 Basic {R} Energy SVE 10
+2 Basic {P} Energy SVE 13
+
+Total Cards: 60
