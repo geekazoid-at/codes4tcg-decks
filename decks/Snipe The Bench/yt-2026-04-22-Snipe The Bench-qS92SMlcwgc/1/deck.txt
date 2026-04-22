@@ -1,0 +1,28 @@
+Pokémon: 7
+1 Latias ex SSP 76
+3 Toxel PFL 67
+2 Mega Kangaskhan ex MEG 104
+3 Toxtricity PFL 68
+3 Munkidori ASC 99
+3 Scraggy ASC 134
+3 Mega Scrafty ex ASC 135
+
+Trainer: 13
+1 Unfair Stamp TWM 165
+2 Morty's Conviction TEF 155
+2 Pokégear 3.0 SVI 186
+4 Ultra Ball ASC 213
+2 Risky Ruins MEG 127
+4 Poké Pad ASC 198
+2 Night Stretcher ASC 196
+4 Jumbo Ice Cream PFL 91
+1 Judge POR 76
+2 Kofu SCR 138
+4 Lillie's Determination MEG 119
+2 Boss's Orders ASC 183
+2 Air Balloon ASC 181
+
+Energy: 1
+10 Basic {D} Energy MEE 7
+
+Total Cards: 60

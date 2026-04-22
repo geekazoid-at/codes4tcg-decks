@@ -1,0 +1,39 @@
+Pokémon: 11
+1 Fezandipiti ex ASC 288
+1 Dragapult ex PRE 165
+2 Marnie's Grimmsnarl ex ASC 287
+1 Maractus JTG 160
+3 Marnie's Impidimp DRI 134
+3 Drakloak PRE 72
+1 Budew PRE 4
+2 Munkidori PRE 44
+4 Dreepy PRE 71
+1 Marnie's Morgrem DRI 135
+2 Dragapult ex TWM 200
+
+Trainer: 17
+1 Crispin SCR 164
+3 Lillie's Determination MEG 184
+2 Spikemuth Gym DRI 169
+2 Rare Candy GRI 165
+2 Air Balloon MEG 166
+3 Buddy-Buddy Poffin MEG 167
+2 Boss's Orders LOR-TG 24
+1 Energy Recycler POR 108
+2 Poké Pad ASC 198
+2 Pokégear 3.0 UNB 233
+1 Night Stretcher MEG 173
+2 Energy Switch SIT 212
+1 Hilda WHT 171
+1 Ultra Ball BRS 186
+1 Xerosic's Machinations SFA 89
+1 Team Rocket's Petrel DRI 226
+1 Jamming Tower ASC 261
+
+Energy: 4
+3 Basic {P} Energy CRZ 156
+1 Neo Upper Energy TEF 162
+5 Basic {D} Energy CRZ 158
+2 Basic {R} Energy CRZ 153
+
+Total Cards: 60
