@@ -1,0 +1,39 @@
+Pokémon: 14
+1 Bloodmoon Ursaluna ex TWM 141
+1 Passimian SSP 111
+2 Diggersby POR 65
+3 Raticate POR 61
+1 Fezandipiti ex SFA 38
+2 Bunnelby POR 64
+1 Budew PRE 4
+1 Rellor TEF 23
+2 Fan Rotom SCR 118
+1 Lillie's Clefairy ex JTG 56
+4 Rattata POR 60
+1 Rabsca TEF 24
+1 Moltres PFL 14
+1 Psyduck ASC 39
+
+Trainer: 14
+1 Lively Stadium SSP 180
+2 Battle Cage PFL 85
+2 Counter Gain SSP 169
+2 Morty's Conviction TEF 155
+3 Night Stretcher SFA 61
+4 Poké Pad ASC 198
+4 Lillie's Determination ASC 192
+2 Air Balloon BLK 79
+1 Judge POR 76
+1 Hilda WHT 84
+1 Redeemable Ticket JTG 156
+1 Colress's Tenacity SFA 57
+4 Buddy-Buddy Poffin ASC 184
+3 Boss's Orders MEG 114
+
+Energy: 4
+1 Legacy Energy TWM 167
+4 Prism Energy BLK 86
+1 Basic {F} Energy MEE 6
+1 Basic {R} Energy MEE 2
+
+Total Cards: 60

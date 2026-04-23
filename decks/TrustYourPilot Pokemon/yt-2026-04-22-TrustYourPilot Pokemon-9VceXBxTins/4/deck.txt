@@ -1,0 +1,33 @@
+Pokémon: 8
+3 Drapion POR 52
+3 Munkidori TWM 95
+1 Pecharunt ex SFA 39
+3 Skorupi POR 51
+3 Toxtricity PFL 68
+1 Yveltal MEG 88
+4 Toxel PFL 67
+1 Pecharunt PR-SV 149
+
+Trainer: 17
+2 Ultra Ball SVI 196
+2 Iris's Fighting Spirit JTG 149
+4 Poké Pad ASC 198
+3 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+1 Hassel TWM 151
+1 Air Balloon BLK 79
+1 Energy Recycler DRI 164
+1 Energy Switch MEG 115
+2 Night Stretcher SFA 61
+1 Perilous Jungle TEF 156
+1 Morty's Conviction TEF 155
+1 Unfair Stamp TWM 165
+1 Sacred Ash DRI 168
+2 Boss's Orders PAL 172
+1 Judge DRI 167
+1 Repel MEG 126
+
+Energy: 1
+12 Basic {D} Energy MEE 7
+
+Total Cards: 60

@@ -1,0 +1,39 @@
+Pokémon: 13
+1 Ethan's Sudowoodo DRI 93
+1 Shaymin DRI 10
+1 Dwebble DRI 11
+1 Crustle DRI 12
+1 Psyduck ASC 39
+2 Turtonator POR 17
+3 Talonflame POR 14
+3 Fletchling POR 66
+1 Team Rocket's Chingling DRI 85
+1 Fezandipiti ex SFA 38
+1 Elgyem BLK 40
+3 Fletchinder POR 13
+1 Turtonator SSP 137
+
+Trainer: 17
+1 Xerosic's Machinations SFA 64
+1 Night Stretcher ASC 196
+3 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+2 Handheld Fan TWM 150
+4 Poké Pad POR 81
+1 Lana's Aid TWM 155
+2 Air Balloon BLK 79
+2 Battle Cage PFL 85
+4 Crushing Hammer POR 71
+1 Colress's Tenacity SFA 57
+1 Redeemable Ticket JTG 156
+2 Dawn PFL 87
+2 Accompanying Flute TWM 142
+1 Neutralization Zone SFA 60
+3 Boss's Orders PAL 172
+1 Enhanced Hammer TWM 148
+
+Energy: 2
+1 Rocky {F} Energy POR 87
+4 Prism Energy BLK 86
+
+Total Cards: 60

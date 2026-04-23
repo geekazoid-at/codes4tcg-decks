@@ -1,0 +1,34 @@
+Pokémon: 11
+1 Shaymin DRI 10
+1 Psyduck ASC 39
+1 Tatsugiri TWM 131
+3 Raticate POR 61
+3 Dunsparce TEF 128
+3 Dudunsparce TEF 129
+1 Fezandipiti ex SFA 38
+2 Fan Rotom SCR 118
+2 Emolga TWM 69
+1 Bloodmoon Ursaluna ex TWM 141
+4 Rattata POR 60
+
+Trainer: 13
+4 Buddy-Buddy Poffin ASC 184
+4 Risky Ruins MEG 127
+1 Switch SVI 194
+4 Poké Pad ASC 198
+2 Counter Gain SSP 169
+2 Night Stretcher ASC 196
+4 Lillie's Determination ASC 192
+1 Lana's Aid TWM 155
+2 Air Balloon BLK 79
+2 Boss's Orders MEG 114
+2 Colress's Tenacity SFA 57
+1 Redeemable Ticket JTG 156
+2 Morty's Conviction TEF 155
+
+Energy: 3
+4 Mist Energy TEF 161
+2 Basic {F} Energy MEE 6
+1 Enriching Energy SSP 191
+
+Total Cards: 60
