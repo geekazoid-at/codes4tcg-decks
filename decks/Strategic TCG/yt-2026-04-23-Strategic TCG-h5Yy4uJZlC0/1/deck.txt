@@ -1,0 +1,37 @@
+Pokémon: 11
+1 Marshadow UNB 81
+2 Lumineon V CRZ-GG 39
+3 Archeops PR-SW 272
+3 Lugia V SIT 186
+1 Raikou VIV 50
+3 Lugia VSTAR SIT 211
+1 Naganadel & Guzzlord-GX CEC 224
+1 Pikachu ex ASC 277
+1 Guzzlord CEC 136
+1 Flutter Mane PR-SV 97
+1 Yveltal SHF 46
+
+Trainer: 12
+1 Lillie's Determination MEG 169
+3 Guzma BUS 143
+3 Professor's Research SSH 201
+1 Thorton LOR 195
+2 Iono PAL 269
+1 Professor Burnet SIT-TG 26
+2 Evolution Incense SSH 163
+2 Poké Pad POR 113
+4 Quick Ball SSH 216
+4 Ultra Ball SUM 161
+1 Air Balloon SSH 213
+2 Chaotic Swell CEC 187
+
+Energy: 7
+3 Double Colorless Energy GRI 166
+3 Aurora Energy SSH 186
+1 Legacy Energy TWM 167
+1 Beast Energy {*} FLI 117
+2 Capture Energy DAA 201
+4 Prism Energy BLK 86
+2 Hiding {D} Energy DAA 175
+
+Total Cards: 60

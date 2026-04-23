@@ -1,0 +1,25 @@
+Pokémon: 16
+3 Clauncher MEG 37
+4 Clamperl DRI 54
+2 Huntail DRI 55
+3 Gorebyss DRI 56
+1 Budew ASC 16
+3 Clawitzer MEG 38
+
+Trainer: 31
+2 Buddy-Buddy Poffin ASC 184
+3 Boss's Orders ASC 183
+1 Powerglass SFA 63
+4 Poké Pad ASC 198
+3 Night Stretcher ASC 196
+4 Lillie's Determination ASC 192
+4 Energy Retrieval SVI 171
+2 Kofu SCR 138
+3 Air Balloon BLK 79
+1 Survival Brace TWM 164
+4 Surfing Beach MEG 129
+
+Energy: 13
+13 Basic {W} Energy SVE 3
+
+Total Cards: 60

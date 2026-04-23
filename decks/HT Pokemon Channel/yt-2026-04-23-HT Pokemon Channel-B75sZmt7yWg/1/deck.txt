@@ -1,0 +1,28 @@
+Pokémon: 26
+4 Rowlet SFA 3
+4 Dartrix POR 11
+3 Decidueye ex POR 12
+1 Decidueye SFA 5
+4 Scatterbug SSP 5
+4 Spewpa SSP 6
+4 Vivillon POR 9
+1 Budew ASC 16
+1 Relicanth TEF 84
+
+Trainer: 27
+4 Buddy-Buddy Poffin ASC 184
+4 Bug Catching Set PRE 102
+2 Poké Pad POR 81
+2 Pokégear 3.0 BLK 84
+1 Unfair Stamp TWM 165
+4 Forest of Vitality ASC 188
+4 Lillie's Determination ASC 192
+2 Team Rocket's Petrel ASC 207
+2 Boss's Orders ASC 183
+2 Dawn PFL 87
+
+Energy: 7
+2 Basic {G} Energy SVE 1
+5 Basic {G} Energy SVE 1
+
+Total Cards: 60
