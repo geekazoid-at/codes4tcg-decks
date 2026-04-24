@@ -1,0 +1,28 @@
+Pokémon: 8
+1 Meowth ex POR 62
+1 Solrock MEG 75
+2 Latias ex SSP 76
+1 Lunatone MEG 74
+1 Fezandipiti ex SFA 38
+3 Mega Kangaskhan ex MEG 104
+1 Bloodmoon Ursaluna ex TWM 141
+4 Bloodmoon Ursaluna SFA 25
+
+Trainer: 11
+2 Judge SVI 176
+4 Lillie's Determination ASC 192
+4 Battle Cage PFL 85
+4 Lucky Helmet TWM 158
+4 Fighting Gong MEG 116
+4 Ultra Ball MEG 131
+2 Colress's Tenacity SFA 57
+1 Unfair Stamp TWM 165
+3 Tarragon POR 85
+4 Premium Power Pro MEG 124
+2 Enhanced Hammer TWM 148
+
+Energy: 2
+8 Basic {F} Energy SVE 14
+4 Rocky {F} Energy POR 87
+
+Total Cards: 60
