@@ -1,0 +1,31 @@
+Pokémon: 11
+4 Finizen TWM 59
+4 Dunsparce JTG 120
+4 Dudunsparce TEF 129
+1 Mega Starmie ex POR 21
+3 Palafin ex TWM 61
+1 Fezandipiti ex ASC 142
+1 Meowth ex POR 62
+1 Staryu POR 20
+1 Shaymin DRI 10
+2 Palafin TWM 60
+1 Psyduck ASC 39
+
+Trainer: 12
+1 Unfair Stamp TWM 165
+1 Brock's Scouting JTG 146
+4 Poké Pad POR 81
+3 Surfing Beach MEG 129
+4 Pokégear 3.0 SVI 186
+2 Night Stretcher ASC 196
+2 Judge POR 76
+4 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+2 Switch MEG 130
+2 Air Balloon ASC 181
+3 Boss's Orders MEG 114
+
+Energy: 1
+5 Basic {W} Energy MEE 3
+
+Total Cards: 60

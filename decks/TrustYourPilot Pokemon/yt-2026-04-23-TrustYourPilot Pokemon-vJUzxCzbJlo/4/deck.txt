@@ -1,0 +1,34 @@
+Pokémon: 7
+4 Cynthia's Gible DRI 102
+1 Cynthia's Spiritomb ASC 133
+2 Munkidori TWM 95
+3 Cynthia's Garchomp ex DRI 104
+4 Cynthia's Gabite DRI 103
+1 Budew PRE 4
+1 Moltres PFL 14
+
+Trainer: 16
+2 Fighting Gong MEG 116
+3 Cynthia's Power Weight DRI 162
+1 Unfair Stamp TWM 165
+4 Poké Pad POR 81
+1 Battle Cage PFL 85
+1 Energy Recycler DRI 164
+2 Night Stretcher SFA 61
+2 Pokégear 3.0 BLK 84
+2 Rare Candy MEG 125
+1 Nighttime Mine ASC 197
+2 Air Balloon BLK 79
+2 Judge POR 76
+3 Crispin SCR 133
+2 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+3 Boss's Orders MEG 114
+
+Energy: 4
+2 Basic {D} Energy MEE 7
+4 Basic {F} Energy MEE 6
+2 Basic {R} Energy MEE 2
+1 Rocky {F} Energy POR 87
+
+Total Cards: 60

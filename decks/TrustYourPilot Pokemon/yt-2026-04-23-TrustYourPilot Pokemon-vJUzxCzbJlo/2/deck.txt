@@ -1,0 +1,31 @@
+Pokémon: 8
+2 Solrock MEG 75
+2 Binacle POR 42
+4 Cynthia's Gible DRI 102
+3 Cynthia's Garchomp ex DRI 104
+2 Lunatone MEG 74
+4 Cynthia's Gabite DRI 103
+1 Bloodmoon Ursaluna PRE 54
+2 Barbaracle POR 43
+
+Trainer: 14
+1 Energy Retrieval WHT 82
+2 Air Balloon ASC 181
+4 Poké Pad ASC 198
+1 Night Stretcher ASC 196
+4 Lillie's Determination MEG 119
+3 Cynthia's Power Weight DRI 162
+2 Battle Cage PFL 85
+3 Boss's Orders MEG 114
+4 Fighting Gong MEG 116
+1 Maximum Belt TEF 154
+1 Tarragon POR 85
+2 Judge DRI 167
+4 Premium Power Pro MEG 124
+1 Rare Candy MEG 125
+
+Energy: 2
+5 Basic {F} Energy MEE 6
+2 Rocky {F} Energy POR 87
+
+Total Cards: 60
