@@ -1,0 +1,37 @@
+Pokémon: 12
+3 Salandit POR 15
+1 Fezandipiti ex ASC 288
+1 Magcargo TEF 29
+2 Pecharunt PR-SV 149
+1 Meowth ex POR 121
+1 Salazzle ex POR 101
+2 Magmortar JTG 21
+1 Slugma TWM 28
+1 Cornerstone Mask Ogerpon ex TWM 215
+1 Salazzle ex POR 16
+2 Magmar JTG 20
+1 Ethan's Ho-Oh ex ASC 26
+
+Trainer: 17
+2 Lillie's Determination MEG 184
+1 Precious Trolley SSP 185
+2 Enhanced Hammer TWM 148
+2 Lillie's Determination MEG 169
+2 Buddy-Buddy Poffin MEG 167
+3 Perilous Jungle TEF 156
+2 Switch PFL 123
+4 Poké Pad ASC 198
+2 Air Balloon BLK 79
+2 Boss's Orders PAL 265
+2 Night Stretcher MEG 173
+1 Night Stretcher SSP 251
+2 Judge DRI 222
+2 Energy Search POR 72
+2 Team Rocket's Petrel DRI 226
+3 Ultra Ball ASC 264
+2 Energy Switch MEG 115
+
+Energy: 1
+7 Basic {R} Energy SVE 10
+
+Total Cards: 60
