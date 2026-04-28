@@ -1,0 +1,33 @@
+Pokémon: 10
+2 Meowth ex POR 62
+1 Mega Froslass ex ASC 47
+2 Bronzong TEF 69
+3 Munkidori TWM 95
+2 Froslass TWM 53
+2 Latias ex SSP 76
+1 Bronzor PRE 66
+2 Snorunt ASC 46
+1 Budew ASC 16
+3 Bronzor TEF 68
+
+Trainer: 11
+3 Salvatore TEF 160
+4 Poké Pad ASC 198
+3 Night Stretcher ASC 196
+2 Call Bell SSP 165
+2 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+2 Jamming Tower TWM 153
+2 Boss's Orders MEG 114
+4 Ultra Ball MEG 131
+3 Carmine TWM 145
+2 Hilda WHT 84
+
+Energy: 5
+1 Basic {P} Energy MEE 5
+3 Basic {D} Energy MEE 7
+1 Basic {W} Energy MEE 3
+4 Telepathic {P} Energy POR 88
+1 Legacy Energy TWM 167
+
+Total Cards: 60

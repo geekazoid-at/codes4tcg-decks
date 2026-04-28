@@ -1,0 +1,34 @@
+Pokémon: 7
+3 Snorunt ASC 46
+3 Bronzong TEF 69
+1 Mega Froslass ex ASC 47
+3 Froslass TWM 53
+3 Bronzor TEF 68
+1 Bronzor PRE 66
+3 Munkidori ASC 99
+
+Trainer: 16
+1 Secret Box TWM 163
+2 Energy Search SVI 172
+1 Call Bell SSP 165
+4 Pokégear 3.0 SVI 186
+1 Team Rocket's Watchtower ASC 210
+4 Poké Pad ASC 198
+2 Night Stretcher ASC 196
+4 Lillie's Determination ASC 192
+1 Lana's Aid TWM 155
+2 Hilda WHT 84
+1 Judge DRI 167
+4 Buddy-Buddy Poffin ASC 184
+2 Salvatore TEF 160
+1 Switch MEG 130
+2 Air Balloon ASC 181
+2 Boss's Orders MEG 114
+
+Energy: 4
+3 Telepathic {P} Energy POR 88
+2 Basic {P} Energy MEE 5
+3 Basic {D} Energy MEE 7
+1 Basic {W} Energy MEE 3
+
+Total Cards: 60
