@@ -1,0 +1,35 @@
+Pokémon: 4
+3 Mega Kangaskhan ex MEG 182
+1 Cornerstone Mask Ogerpon ex PRE 160
+3 Dwebble DRI 11
+3 Crustle DRI 12
+
+Trainer: 19
+4 Boss's Orders RCL 189
+1 Pokémon Center Lady FLF 105
+4 Lillie's Determination MEG 169
+1 Eri TEF 199
+1 Morty's Conviction TEF 201
+2 Buddy-Buddy Poffin MEG 167
+1 Hero's Cape TEF 152
+1 Sacred Charm PFL 93
+1 Switch PFL 123
+4 Jumbo Ice Cream PFL 91
+1 Ultra Ball PLF 122
+3 Pokégear 3.0 UNB 233
+1 Lacey SCR 172
+2 Super Potion JTG 158
+2 Team Rocket's Factory ASC 203
+2 Poké Pad POR 113
+1 Xerosic's Machinations SFA 89
+3 Team Rocket's Petrel DRI 226
+1 Cook LOR-TG 25
+
+Energy: 5
+1 Basic {G} Energy GRI 167
+4 Growing {G} Energy POR 86
+3 Spiky Energy JTG 190
+2 Rocky {F} Energy POR 87
+4 Mist Energy TEF 161
+
+Total Cards: 60
