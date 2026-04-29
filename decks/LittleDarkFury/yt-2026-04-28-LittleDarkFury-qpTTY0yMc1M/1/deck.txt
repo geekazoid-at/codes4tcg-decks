@@ -1,0 +1,35 @@
+Pokémon: 13
+1 Empoleon ex PFL 114
+1 Latias ex SSP 239
+1 Mega Skarmory ex POR 106
+2 Steven's Metang DRI 144
+1 Meowth ex POR 121
+1 Mega Mawile ex MEG 162
+3 Steven's Metagross ex ASC 289
+1 Fezandipiti ex ASC 288
+2 Genesect ex BLK 169
+1 Lillie's Clefairy ex ASC 280
+3 Steven's Beldum DRI 143
+1 Dialga MEG 95
+1 Piplup PFL 27
+
+Trainer: 13
+1 Morty's Conviction TEF 201
+2 Brock's Scouting JTG 179
+1 Energy Recycler POR 108
+4 Ultra Ball PLF 122
+4 Rare Candy PLB 105
+2 Night Stretcher MEG 173
+4 Lillie's Determination MEG 169
+3 Buddy-Buddy Poffin MEG 167
+1 Judge SIT-TG 25
+1 Hero's Cape TEF 152
+2 Team Rocket's Petrel DRI 226
+1 Jumbo Ice Cream PFL 91
+3 Boss's Orders RCL 189
+
+Energy: 2
+5 Basic {P} Energy SUM 162
+7 Basic {M} Energy SUM 163
+
+Total Cards: 60
