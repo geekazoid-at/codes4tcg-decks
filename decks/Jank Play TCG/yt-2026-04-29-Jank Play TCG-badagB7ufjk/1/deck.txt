@@ -1,0 +1,29 @@
+Pokémon: 8
+2 Petilil BLK 6
+1 Fezandipiti ex SFA 84
+2 Lilligant JTG 7
+1 Budew PRE 4
+2 Accelgor JTG 13
+1 Fezandipiti ex ASC 288
+3 Shelmet WHT 8
+3 Pecharunt PR-SV 149
+
+Trainer: 12
+4 Buddy-Buddy Poffin PRE 101
+4 Poké Pad ASC 198
+1 Hyper Aroma TWM 152
+1 Energy Recycler DRI 164
+3 Night Stretcher SFA 61
+4 Switch MEG 130
+3 Pokégear 3.0 SVI 186
+4 Punk Helmet PFL 121
+3 Crispin PRE 171
+1 Sacred Ash DRI 168
+4 Lillie's Determination MEG 184
+2 Perilous Jungle TEF 156
+
+Energy: 2
+7 Basic {G} Energy SVE 9
+4 Basic {R} Energy SVE 10
+
+Total Cards: 60

@@ -1,0 +1,27 @@
+Pokémon: 19
+4 Cynthia's Gible DRI 102
+4 Cynthia's Gabite DRI 103
+3 Cynthia's Garchomp ex DRI 104
+4 Cynthia's Roselia DRI 7
+3 Cynthia's Roserade DRI 8
+1 Cynthia's Spiritomb DRI 129
+
+Trainer: 32
+4 Lillie's Determination MEG 119
+4 Boss's Orders MEG 114
+2 Larry's Skill PRE 115
+1 Team Rocket's Petrel DRI 176
+4 Buddy-Buddy Poffin TEF 144
+4 Poké Pad POR 81
+3 Fighting Gong MEG 116
+2 Pokégear 3.0 SVI 186
+2 Premium Power Pro MEG 124
+1 Switch MEG 130
+1 Unfair Stamp TWM 165
+4 Cynthia's Power Weight DRI 162
+
+Energy: 9
+5 Basic {F} Energy SVE 6
+4 Basic {F} Energy SVE 6
+
+Total Cards: 60
