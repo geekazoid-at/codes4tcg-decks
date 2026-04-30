@@ -1,0 +1,34 @@
+Pokémon: 5
+1 Azelf SSP 80
+3 Uxie SSP 78
+1 Psyduck ASC 39
+1 Latias ex SSP 76
+4 Lillie's Clefairy ex JTG 56
+
+Trainer: 20
+4 Lillie's Determination MEG 119
+2 Pokégear 3.0 BLK 84
+3 Poké Pad POR 81
+1 Air Balloon BLK 79
+1 Lucian TWM 157
+1 Boss's Orders MEG 114
+3 Night Stretcher SFA 61
+1 Switch MEG 130
+1 Colress's Tenacity SFA 57
+1 Judge POR 76
+1 Harlequin WHT 83
+1 Prime Catcher TEF 157
+4 Lillie's Pearl JTG 151
+1 Morty's Conviction TEF 155
+4 Wondrous Patch PFL 94
+1 Ultra Ball ASC 213
+2 Pokémon Catcher POR 82
+2 Accompanying Flute TWM 142
+3 Mystery Garden MEG 122
+1 Counter Gain ASC 186
+
+Energy: 2
+8 Basic {P} Energy MEE 5
+4 Telepathic {P} Energy POR 88
+
+Total Cards: 60

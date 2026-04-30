@@ -1,0 +1,33 @@
+Pokémon: 10
+1 Smoochum SSP 75
+2 Togepi SSP 70
+1 Shaymin DRI 10
+1 Iron Boulder SCR 71
+1 Psyduck ASC 39
+1 Latias ex SSP 76
+1 Togetic SSP 71
+1 Team Rocket's Mimikyu DRI 87
+4 Lillie's Clefairy ex JTG 56
+2 Togekiss SSP 72
+
+Trainer: 14
+4 Lillie's Determination MEG 119
+3 Poké Pad POR 81
+1 Air Balloon BLK 79
+2 Boss's Orders MEG 114
+2 Night Stretcher SFA 61
+1 Switch MEG 130
+4 Lillie's Pearl JTG 151
+3 Morty's Conviction TEF 155
+1 Unfair Stamp TWM 165
+3 Wondrous Patch PFL 94
+2 Pokémon Catcher POR 82
+2 Accompanying Flute TWM 142
+3 Mystery Garden MEG 122
+2 Rare Candy MEG 125
+
+Energy: 2
+8 Basic {P} Energy MEE 5
+4 Telepathic {P} Energy POR 88
+
+Total Cards: 60

@@ -1,0 +1,30 @@
+Pokémon: 7
+2 Meowth ex POR 62
+1 Psyduck ASC 39
+3 Teal Mask Ogerpon ex TWM 25
+2 Latias ex SSP 76
+1 Fezandipiti ex ASC 142
+2 Mega Kangaskhan ex MEG 104
+3 Lillie's Clefairy ex JTG 56
+
+Trainer: 12
+1 Brock's Scouting JTG 146
+2 Night Stretcher ASC 196
+3 Area Zero Underdepths SCR 131
+2 Crispin SCR 133
+4 Lillie's Determination MEG 119
+2 Ciphermaniac's Codebreaking TEF 145
+3 Boss's Orders MEG 114
+4 Energy Switch MEG 115
+4 Ultra Ball MEG 131
+3 Lillie's Pearl JTG 151
+1 Unfair Stamp TWM 165
+1 Judge DRI 167
+
+Energy: 4
+2 Mist Energy TEF 161
+3 Basic {P} Energy MEE 5
+7 Basic {G} Energy MEE 1
+4 Telepathic {P} Energy POR 88
+
+Total Cards: 60
