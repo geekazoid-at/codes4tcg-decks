@@ -1,0 +1,31 @@
+Pokémon: 18
+3 Mega Kangaskhan ex MEG 104
+3 Bouffalant SCR 119
+3 Munkidori ASC 99
+2 Smoochum SSP 75
+2 Latias ex SSP 76
+1 Cornerstone Mask Ogerpon ex PRE 58
+1 Terapagos ex ASC 179
+1 Lillie's Clefairy ex ASC 76
+1 Meowth ex POR 62
+1 Psyduck ASC 39
+
+Trainer: 30
+3 Ultra Ball ASC 213
+3 Energy Switch MEG 115
+2 Team Rocket's Transceiver ASC 209
+2 Night Stretcher ASC 196
+1 Precious Trolley SSP 185
+4 Area Zero Underdepths PRE 94
+4 Lillie's Determination ASC 192
+4 Crispin PRE 105
+4 Team Rocket's Petrel ASC 207
+3 Boss's Orders ASC 183
+
+Energy: 12
+5 Basic {P} Energy SVE 5
+4 Basic {D} Energy SVE 7
+2 Basic {F} Energy SVE 6
+1 Mist Energy TEF 161
+
+Total Cards: 60

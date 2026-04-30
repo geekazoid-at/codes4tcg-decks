@@ -1,0 +1,47 @@
+Pokémon: 7
+1 Mimikyu PAL 97
+1 Alolan Meowth PR-SM 51
+1 Girafarig LOT 94
+1 Alolan Persian-GX CEC 129
+2 Rotom V LOR 177
+2 Axew UNM 154
+3 Snorlax SWSHALT 107
+
+Trainer: 30
+1 Hisuian Heavy Ball ASR 146
+1 Team Yell's Cheer BRS 149
+1 Lillie's Determination MEG 184
+1 Stormy Mountains EVS 232
+1 Miracle Headset SSP 183
+2 Echoing Horn CRE 225
+1 Team Skull Grunt SUM 149
+1 Erika's Invitation MEW 160
+2 Plumeria BUS 145
+1 Tag Call CEC 270
+2 Guzma BUS 143
+1 Artazon OBF 229
+1 Forest Seal Stone SIT 156
+1 U-Turn Board UNM 255
+1 Rescue Stretcher SMALT 187
+2 Guzma & Hala CEC 229
+1 Field Blower SMALT 44
+2 Penny SVI 183
+1 Eri PRE 136
+1 Bellelba & Brycen-Man CEC 186
+4 Arven PAF 235
+3 Counter Catcher CIN 120
+2 Steven's Resolve SMALT 121
+4 Nest Ball SUM 158
+1 Gladion CIN 109
+1 Faba LOT 208
+1 Lusamine UPR 153
+1 Boost Shake EVS 229
+1 Stealthy Hood UNB 186
+1 Miss Fortune Sisters LOR 194
+
+Energy: 3
+1 Recycle Energy UNM 257
+3 Capture Energy DAA 201
+1 Jet Energy SSP 252
+
+Total Cards: 60

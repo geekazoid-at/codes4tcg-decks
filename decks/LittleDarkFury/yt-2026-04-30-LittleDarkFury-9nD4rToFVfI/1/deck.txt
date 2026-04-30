@@ -1,0 +1,36 @@
+Pokémon: 12
+1 Fezandipiti ex ASC 288
+2 Vivillon POR 9
+2 Spewpa POR 8
+3 Dartrix POR 11
+1 Meowth ex POR 121
+3 Decidueye ex POR 100
+2 Scatterbug SSP 5
+2 Rowlet POR 90
+1 Budew ASC 221
+2 Rowlet POR 10
+1 Shaymin DRI 10
+1 Relicanth TEF 84
+
+Trainer: 14
+3 Boss's Orders RCL 189
+1 Lana's Aid TWM 207
+4 Bug Catching Set TWM 143
+1 Secret Box TWM 163
+4 Lillie's Determination MEG 169
+1 Morty's Conviction TEF 201
+1 Air Balloon MEG 166
+4 Forest of Vitality POR 109
+2 Dawn PFL 129
+4 Ultra Ball PLF 122
+2 Night Stretcher MEG 173
+1 Judge DRI 222
+2 Poké Pad POR 113
+1 Colress's Tenacity SFA 87
+
+Energy: 3
+2 Basic {G} Energy GRI 167
+2 Ignition Energy PFL 124
+4 Growing {G} Energy POR 86
+
+Total Cards: 60
