@@ -1,0 +1,32 @@
+Pokémon: 9
+3 Tyrantrum POR 45
+2 Barbaracle POR 43
+3 Solrock ASC 106
+2 Lunatone ASC 105
+1 Relicanth TEF 173
+1 Bloodmoon Ursaluna SFA 25
+3 Tyrunt POR 44
+2 Binacle POR 42
+1 Shaymin DRI 10
+
+Trainer: 14
+2 Boss's Orders RCL 189
+2 Drayton SSP 244
+1 Unfair Stamp TWM 165
+4 Fighting Gong MEG 168
+4 Lillie's Determination MEG 169
+1 Morty's Conviction TEF 201
+1 Air Balloon MEG 166
+2 Rare Candy PLB 105
+1 Switch PFL 123
+4 Antique Jaw Fossil POR 68
+1 Night Stretcher MEG 173
+4 Poké Pad POR 113
+2 Tarragon POR 116
+1 Team Rocket's Petrel DRI 226
+
+Energy: 2
+8 Basic {F} Energy GRI 169
+4 Rocky {F} Energy POR 87
+
+Total Cards: 60
