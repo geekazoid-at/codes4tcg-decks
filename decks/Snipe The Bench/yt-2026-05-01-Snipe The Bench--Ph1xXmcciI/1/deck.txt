@@ -1,0 +1,27 @@
+Pokémon: 8
+2 Nuzleaf MEG 14
+2 Seedot TEF 3
+1 Fezandipiti ex ASC 142
+2 Shiftry TEF 5
+4 Teal Mask Ogerpon ex TWM 211
+2 Bayleef MEG 9
+2 Chikorita ASC 8
+2 Meganium MEG 10
+
+Trainer: 11
+4 Kofu SCR 138
+4 Enhanced Hammer TWM 148
+2 Pokégear 3.0 SVI 186
+2 Air Balloon BLK 79
+3 Boss's Orders PAL 172
+4 Buddy-Buddy Poffin TEF 144
+4 Bug Catching Set PRE 102
+1 Max Rod PRE 116
+4 Lillie's Determination MEG 119
+2 Xerosic's Machinations SFA 64
+4 Forest of Vitality MEG 117
+
+Energy: 1
+9 Basic {G} Energy SVE 1
+
+Total Cards: 60

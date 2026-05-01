@@ -1,0 +1,28 @@
+Pokémon: 7
+3 Mega Gardevoir ex MEG 60
+3 Kirlia MEG 59
+2 Cresselia SFA 21
+1 Flutter Mane TEF 78
+1 Lillie's Clefairy ex JTG 56
+1 Psyduck ASC 39
+4 Ralts MEG 58
+
+Trainer: 12
+4 Pokégear 3.0 SVI 186
+2 Mystery Garden MEG 122
+4 Poké Pad ASC 198
+1 Night Stretcher ASC 196
+4 Colress's Tenacity SFA 57
+3 Wondrous Patch PFL 94
+1 Judge DRI 167
+1 Grand Tree SCR 136
+4 Lillie's Determination MEG 119
+3 Ultra Ball MEG 131
+4 Wally's Compassion MEG 132
+1 Boss's Orders MEG 114
+
+Energy: 2
+4 Telepathic {P} Energy POR 88
+9 Basic {P} Energy MEE 5
+
+Total Cards: 60

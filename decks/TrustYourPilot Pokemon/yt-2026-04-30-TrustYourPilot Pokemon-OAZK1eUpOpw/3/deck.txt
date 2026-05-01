@@ -1,0 +1,35 @@
+Pokémon: 10
+2 Yamask SSP 82
+3 Mega Gardevoir ex MEG 60
+2 Kirlia MEG 59
+1 Fezandipiti ex SFA 38
+2 Smoochum SSP 75
+1 Meowth ex POR 62
+2 Cofagrigus WHT 40
+1 Shaymin DRI 10
+1 Psyduck ASC 39
+4 Ralts MEG 58
+
+Trainer: 16
+1 Surfer SSP 187
+2 Poké Pad POR 81
+1 Hero's Cape TEF 152
+1 Hand Trimmer TEF 150
+2 Night Stretcher SFA 61
+2 Mystery Garden MEG 122
+2 Rare Candy MEG 125
+1 Air Balloon BLK 79
+1 Hilda WHT 84
+1 Colress's Tenacity SFA 57
+4 Wondrous Patch PFL 94
+2 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+1 Switch MEG 130
+2 Ultra Ball MEG 131
+2 Boss's Orders MEG 114
+
+Energy: 2
+4 Telepathic {P} Energy POR 88
+8 Basic {P} Energy MEE 5
+
+Total Cards: 60
