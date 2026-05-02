@@ -1,0 +1,40 @@
+Pokémon: 15
+1 N's Zorua PR-SV 189
+2 N's Zorua ASC 136
+1 N's Zekrom ASC 155
+2 Torchic DRI 40
+1 Combusken DRI 41
+2 Blaziken ex SVALT 220
+1 N's Darumaka ASC 32
+1 N's Darmanitan PR-SV 181
+1 N's Reshiram ASC 154
+1 Fezandipiti ex ASC 288
+1 Lillie's Clefairy ex ASC 280
+1 N's Zoroark ex ASC 286
+2 N's Zoroark ex JTG 175
+1 Pecharunt ex PRE 163
+1 Munkidori PRE 44
+
+Trainer: 14
+3 Buddy-Buddy Poffin MEG 167
+3 Cyrano SSP 230
+2 Judge DRI 222
+4 Lillie's Determination MEG 169
+1 Janine's Secret Art PRE 173
+3 Poké Pad POR 113
+3 Ultra Ball PLF 122
+2 Night Stretcher MEG 173
+3 Boss's Orders RCL 189
+3 Rare Candy PLB 105
+1 Unfair Stamp TWM 165
+1 Binding Mochi PRE 95
+2 N's Castle JTG 152
+1 Team Rocket's Watchtower ASC 210
+
+Energy: 4
+3 Basic {D} Energy EVS 236
+3 Basic {D} Energy BUS 168
+2 Basic {R} Energy FST 284
+1 Basic {P} Energy CRE 232
+
+Total Cards: 60
