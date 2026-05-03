@@ -1,0 +1,41 @@
+Pokémon: 9
+2 Feebas DRM 28
+1 Jirachi {*} CES 97
+1 Chansey MEW 113
+1 Chansey MEW 113
+1 Munchlax UNM 173
+1 Milotic EVS 38
+1 Milotic EVS 38
+4 Jirachi PR-SM 161
+1 Kartana-GX CIN 70
+
+Trainer: 24
+3 Super Scoop Up BUS 166
+1 Pal Pad SSH 172
+4 Missing Clover UPR 168
+2 Steven's Resolve CES 165
+3 Level Ball BST 181
+3 Escape Board SMALT 96
+3 Pokégear 3.0 UNB 233
+4 Trekking Shoes ASR 215
+1 Energy Spinner UNB 170
+2 Steven's Resolve SMALT 121
+2 Night Stretcher SSP 251
+1 Nest Ball SUM 158
+3 Peonia CRE 196
+1 Pokémon Communication TEU 196
+2 Will CEC 208
+2 Poké Pad POR 113
+1 Will CEC 208
+1 Boxed Order TEF 143
+1 Scoop Up Cyclone PRE 128
+1 Metal Saucer SSH 214
+1 Air Balloon SSH 213
+2 Boxed Order TEF 143
+1 Rescue Carrier EVS 154
+1 Chaotic Swell CEC 187
+
+Energy: 1
+1 Basic {M} Energy EVS 237
+
+Total Cards: 60

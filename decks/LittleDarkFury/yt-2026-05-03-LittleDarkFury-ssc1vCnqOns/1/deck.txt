@@ -1,0 +1,32 @@
+Pokémon: 11
+3 Dunsparce JTG 120
+1 Dudunsparce PRE 80
+2 Dudunsparce PRE 80
+4 Charmander PFL 11
+2 Charmeleon PFL 12
+1 Chi-Yu TWM 39
+2 Oricorio ex MEP 24
+1 Mega Charizard Y ex ASC 22
+1 Fezandipiti ex ASC 288
+1 Fan Rotom ASC 171
+2 Mega Charizard X ex MEP 23
+
+Trainer: 12
+1 Boss's Orders RCL 189
+3 Dawn PFL 129
+3 Lillie's Determination MEG 169
+1 Boss's Orders LOR-TG 24
+4 Poké Pad POR 113
+3 Rare Candy PLB 105
+4 Energy Retrieval AOR 99
+2 Hilda WHT 164
+1 Buddy-Buddy Poffin MEG 167
+1 Night Stretcher MEG 173
+2 Battle Cage PFL 116
+4 Ultra Ball PLF 122
+
+Energy: 2
+10 Basic {R} Energy BUS 167
+1 Enriching Energy SSP 191
+
+Total Cards: 60

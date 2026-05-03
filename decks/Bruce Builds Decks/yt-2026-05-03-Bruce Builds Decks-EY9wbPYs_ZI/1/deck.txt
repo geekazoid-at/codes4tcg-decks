@@ -1,0 +1,35 @@
+Pokémon: 25
+1 N's Vanillish ASC 50
+3 Uxie SSP 78
+2 N's Vanillite ASC 49
+2 N's Vanilluxe ASC 51
+2 Munkidori TWM 95
+2 Froslass TWM 53
+4 Dunsparce TEF 128
+4 Dudunsparce TEF 129
+2 Snorunt ASC 46
+1 Budew PRE 4
+1 Ting-Lu TWM 110
+1 Yveltal MEG 88
+
+Trainer: 25
+4 Buddy-Buddy Poffin ASC 184
+3 Risky Ruins MEG 127
+4 Poké Pad ASC 198
+1 Rare Candy SVI 191
+2 Night Stretcher ASC 196
+1 N's PP Up ASC 195
+4 Lillie's Determination ASC 192
+1 Air Balloon BLK 79
+1 Lana's Aid TWM 155
+2 Boss's Orders MEG 114
+1 Dawn PFL 87
+1 Hilda WHT 84
+
+Energy: 10
+3 Basic {P} Energy SVE 5
+2 Basic {D} Energy SVE 7
+1 Legacy Energy TWM 167
+4 Prism Energy ASC 216
+
+Total Cards: 60
