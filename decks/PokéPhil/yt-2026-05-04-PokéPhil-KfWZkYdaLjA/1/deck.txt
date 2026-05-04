@@ -1,0 +1,36 @@
+Pokémon: 10
+1 Latias ex SSP 76
+2 Snorunt ASC 46
+3 Bronzong TEF 69
+1 Mega Froslass ex ASC 47
+1 Froslass TWM 53
+4 Bronzor TEF 68
+1 Lillie's Clefairy ex JTG 56
+1 Meowth ex POR 62
+1 Shaymin DRI 10
+3 Munkidori ASC 99
+
+Trainer: 15
+1 Secret Box TWM 163
+4 Poké Pad POR 81
+1 Kieran PRE 113
+1 Battle Cage PFL 85
+3 Pokégear 3.0 BLK 84
+4 Ultra Ball ASC 213
+2 Night Stretcher ASC 196
+1 Mystery Garden ASC 194
+4 Lillie's Determination ASC 192
+1 Lucky Helmet TWM 158
+1 Hilda WHT 84
+2 Crispin PRE 105
+2 Salvatore TEF 160
+1 Boss's Orders ASC 183
+2 Switch MEG 130
+
+Energy: 4
+4 Telepathic {P} Energy POR 88
+3 Basic {P} Energy MEE 5
+3 Basic {D} Energy MEE 7
+2 Basic {W} Energy MEE 3
+
+Total Cards: 60
