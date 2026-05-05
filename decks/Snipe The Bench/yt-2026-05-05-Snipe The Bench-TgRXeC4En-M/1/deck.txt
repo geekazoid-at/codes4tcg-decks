@@ -1,0 +1,26 @@
+Pokémon: 5
+3 Drapion POR 52
+4 Toxel PFL 67
+4 Munkidori ASC 99
+3 Toxtricity PFL 68
+4 Skorupi POR 51
+
+Trainer: 13
+4 Poké Pad ASC 198
+1 Eri TEF 146
+4 Lillie's Determination ASC 192
+2 Energy Recycler DRI 164
+1 Sacred Ash DRI 168
+2 Pokégear 3.0 SVI 186
+3 Buddy-Buddy Poffin ASC 184
+4 Kofu SCR 138
+3 Boss's Orders ASC 183
+2 Air Balloon ASC 181
+2 Energy Switch SVI 173
+3 Perilous Jungle TEF 156
+1 Xerosic's Machinations SFA 64
+
+Energy: 1
+10 Basic {D} Energy SVE 15
+
+Total Cards: 60

@@ -1,0 +1,28 @@
+Pokémon: 18
+4 Dunsparce JTG 120
+2 Dudunsparce PRE 80
+1 Dudunsparce ex JTG 121
+4 Yanma DRI 2
+4 Yanmega ex DRI 3
+1 Chien-Pao SSP 56
+1 Fezandipiti ex ASC 142
+1 Meowth ex POR 62
+
+Trainer: 29
+4 Boss's Orders ASC 183
+4 Lillie's Determination MEG 119
+2 Judge POR 76
+2 Kofu SCR 138
+4 Buddy-Buddy Poffin ASC 184
+4 Poké Pad ASC 198
+4 Ultra Ball ASC 213
+1 Energy Recycler DRI 164
+1 Night Stretcher ASC 196
+1 Scoop Up Cyclone TWM 162
+2 Forest of Vitality ASC 188
+
+Energy: 13
+9 Basic {G} Energy SVE 1
+4 Mist Energy TEF 161
+
+Total Cards: 60

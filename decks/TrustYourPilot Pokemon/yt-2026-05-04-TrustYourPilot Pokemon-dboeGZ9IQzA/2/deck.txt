@@ -1,0 +1,32 @@
+Pokémon: 9
+2 Iono's Wattrel JTG 54
+3 Eelektrik ASC 60
+1 Shaymin DRI 10
+2 Stunfisk ASC 62
+4 Tynamo ASC 59
+1 Zekrom ex BLK 34
+2 Iono's Kilowattrel JTG 55
+3 Electrike MEG 49
+2 Mega Manectric ex MEG 50
+
+Trainer: 15
+1 Explorer's Guidance PRE 107
+2 Air Balloon ASC 181
+2 Night Stretcher ASC 196
+3 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+1 Iris's Fighting Spirit ASC 190
+3 Poké Pad POR 81
+2 Battle Cage PFL 85
+3 Boss's Orders MEG 114
+2 Switch MEG 130
+3 Ultra Ball MEG 131
+1 Wally's Compassion MEG 132
+1 Hero's Cape TEF 152
+1 Hand Trimmer TEF 150
+1 Morty's Conviction TEF 155
+
+Energy: 1
+10 Basic {L} Energy MEE 4
+
+Total Cards: 60
