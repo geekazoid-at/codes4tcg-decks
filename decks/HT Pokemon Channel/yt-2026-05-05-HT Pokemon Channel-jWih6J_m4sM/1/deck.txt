@@ -1,0 +1,27 @@
+Pokémon: 23
+3 Electrike MEG 49
+3 Mega Manectric ex MEG 50
+4 Tynamo ASC 59
+4 Eelektrik ASC 60
+1 Mega Eelektross ex ASC 61
+2 Iono's Wattrel ASC 71
+2 Iono's Kilowattrel ASC 72
+1 Zekrom ex BLK 34
+1 Zeraora DRI 78
+1 Zapdos TWM 65
+1 Budew ASC 16
+
+Trainer: 25
+4 Buddy-Buddy Poffin ASC 184
+4 Poké Pad POR 81
+4 Ultra Ball ASC 213
+2 Switch MEG 130
+1 Prime Catcher PRE 119
+4 Lillie's Determination ASC 192
+4 Canari ASC 185
+2 Boss's Orders ASC 183
+
+Energy: 12
+12 Basic {L} Energy SVE 4
+
+Total Cards: 60
