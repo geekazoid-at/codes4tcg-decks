@@ -1,0 +1,32 @@
+Pokémon: 8
+4 Gastly POR 48
+1 Fezandipiti ex SFA 38
+3 Gengar POR 50
+1 Pecharunt ex SFA 39
+1 Shaymin DRI 10
+2 Mega Gengar ex PFL 56
+4 Haunter POR 49
+2 Tatsugiri TWM 131
+
+Trainer: 15
+1 Accompanying Flute TWM 142
+4 Night Stretcher SFA 61
+2 Rare Candy MEG 125
+3 Ultra Ball ASC 213
+2 Risky Ruins MEG 127
+1 Mega Signal ASC 193
+2 Air Balloon BLK 79
+2 Binding Mochi SFA 55
+1 Hilda WHT 84
+1 Janine's Secret Art SFA 59
+2 Team Rocket's Petrel ASC 207
+1 Grand Tree SCR 136
+4 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+2 Boss's Orders ASC 183
+
+Energy: 2
+9 Basic {D} Energy MEE 7
+1 Mist Energy TEF 161
+
+Total Cards: 60
