@@ -1,0 +1,31 @@
+Pokémon: 8
+2 Solrock MEG 75
+2 Binacle POR 42
+2 Lunatone ASC 105
+1 Mega Audino ex ASC 253
+3 Mega Zygarde ex POR 120
+1 Meowth ex POR 121
+1 Mega Zygarde ex POR 124
+2 Barbaracle POR 43
+
+Trainer: 15
+1 Brock's Scouting JTG 179
+2 Mega Signal MEG 171
+2 Boss's Orders ASC 256
+4 Premium Power Pro MEG 174
+4 Fighting Gong MEG 168
+4 Poké Pad POR 81
+2 Lillie's Determination MEG 169
+2 Tarragon POR 85
+1 Switch MEG 130
+1 Max Rod PRE 116
+1 Team Rocket's Petrel DRI 226
+2 Tarragon POR 116
+1 Core Memory POR 70
+2 Lillie's Determination MEG 184
+2 Lively Stadium SSP 180
+
+Energy: 1
+15 Basic {F} Energy MEE 6
+
+Total Cards: 60

@@ -1,0 +1,51 @@
+Pokémon: 6
+4 Mimikyu CEC 245
+1 Xurkitree-GX PR-SM 68
+1 Girafarig LOT 94
+1 Tapu Lele-GX HIF 163
+1 Eldegoss V RCL 176
+1 Snorlax SWSHALT 107
+
+Trainer: 34
+1 Rescue Stretcher BUS 165
+4 Lillie's Poké Doll CEC 267
+1 Cyllene ASR 183
+1 Team Yell's Cheer BRS 149
+1 Team Skull Grunt SUM 149
+3 Fog Crystal CRE 227
+1 Plumeria BUS 145
+1 Lillie's Determination MEG 169
+2 Steven's Resolve CES 165
+1 Team Yell Grunt SSH 202
+1 Professor's Research SSH 201
+1 Bellelba & Brycen-Man CEC 186
+1 Arven PAF 235
+1 Rosa CEC 236
+1 Channeler UNM 232
+1 Path to the Peak ASR 213
+1 Guzma HIF 153
+1 Counter Catcher CIN 120
+1 Hisuian Heavy Ball ASR 146
+1 Big Parasol DAA 199
+1 Marnie PR-SW 121
+1 Penny PAF 239
+1 Peonia CRE 196
+1 Klara CRE 194
+1 Gladion CIN 109
+1 Faba LOT 208
+2 Cynthia & Caitlin CEC 228
+2 Lusamine UPR 153
+1 Mars UPR 154
+1 Xerosic's Machinations SFA 89
+1 Bird Keeper SHF 66
+2 Quick Ball SSH 216
+1 Miss Fortune Sisters LOR 194
+4 Lucky Egg SSH 167
+
+Energy: 4
+2 Recycle Energy UNM 257
+1 Legacy Energy TWM 167
+1 Basic {L} Energy GRI 168
+1 Basic {P} Energy SUM 162
+
+Total Cards: 60
