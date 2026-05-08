@@ -1,0 +1,31 @@
+Pokémon: 9
+2 Gothitelle WHT 43
+3 Toxtricity PFL 68
+2 Mega Scrafty ex ASC 135
+1 Fezandipiti ex SFA 38
+2 Gothita WHT 41
+2 Gothorita WHT 42
+3 Toxel PFL 67
+3 Scraggy WHT 57
+2 Budew ASC 16
+
+Trainer: 14
+4 Buddy-Buddy Poffin ASC 184
+2 Boss's Orders ASC 183
+4 Poké Pad ASC 198
+2 Rare Candy SVI 191
+1 Night Stretcher ASC 196
+4 Lillie's Determination ASC 192
+3 Kofu SCR 138
+2 Air Balloon BLK 79
+2 Battle Cage PFL 85
+1 Energy Recycler DRI 164
+1 Pokégear 3.0 SVI 186
+2 Morty's Conviction TEF 155
+1 Secret Box TWM 163
+2 Ultra Ball ASC 213
+
+Energy: 1
+9 Basic {D} Energy SVE 15
+
+Total Cards: 60
