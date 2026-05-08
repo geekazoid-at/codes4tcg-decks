@@ -1,0 +1,33 @@
+Pokémon: 9
+3 Dreepy ASC 247
+1 Zoroark SFA 32
+2 Zorua WHT 61
+4 Gastly POR 48
+3 Haunter ASC 124
+1 Budew ASC 221
+3 Gengar POR 50
+3 Drakloak ASC 248
+2 Zoroark WHT 62
+
+Trainer: 15
+3 Boss's Orders RCL 189
+1 Accompanying Flute TWM 142
+2 Hilda WHT 164
+4 Lillie's Determination MEG 169
+1 Morty's Conviction TEF 201
+1 Air Balloon MEG 166
+4 Buddy-Buddy Poffin MEG 167
+1 Rare Candy PLB 105
+2 Dawn PFL 129
+1 Ultra Ball PLF 122
+1 Night Stretcher MEG 173
+4 Poké Pad POR 113
+1 Brave Bangle WHT 80
+1 Neutralization Zone SFA 60
+2 Battle Cage PFL 116
+
+Energy: 2
+6 Basic {D} Energy BUS 168
+3 Ignition Energy PFL 124
+
+Total Cards: 60
