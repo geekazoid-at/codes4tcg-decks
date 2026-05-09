@@ -1,0 +1,29 @@
+Pokémon: 8
+2 Genesect ex BLK 67
+4 Aegislash POR 58
+2 Mega Eelektross ex ASC 61
+4 Honedge POR 56
+1 Fezandipiti ex ASC 142
+3 Eelektrik ASC 60
+3 Tynamo ASC 59
+4 Doublade POR 57
+
+Trainer: 12
+2 Switch CRZ 144
+2 Dawn PFL 87
+1 Max Rod PRE 116
+2 Battle Cage PFL 85
+2 Ultra Ball ASC 213
+3 Poké Pad ASC 198
+3 Night Stretcher ASC 196
+4 Lillie's Determination ASC 192
+2 Hilda WHT 84
+3 Buddy-Buddy Poffin ASC 184
+2 Boss's Orders ASC 183
+2 Air Balloon ASC 181
+
+Energy: 2
+5 Basic {L} Energy MEE 4
+4 Ignition Energy WHT 86
+
+Total Cards: 60
