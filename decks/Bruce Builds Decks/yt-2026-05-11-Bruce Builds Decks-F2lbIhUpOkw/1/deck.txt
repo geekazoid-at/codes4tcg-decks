@@ -1,0 +1,30 @@
+Pokémon: 24
+1 Budew ASC 16
+3 Sandile BLK 57
+2 Fletchinder POR 13
+3 Dunsparce TEF 128
+4 Dudunsparce TEF 129
+2 Krokorok BLK 58
+3 Krookodile BLK 59
+3 Fletchling POR 66
+3 Talonflame POR 14
+
+Trainer: 27
+1 Unfair Stamp TWM 165
+3 Xerosic's Machinations SFA 64
+1 Battle Cage PFL 85
+1 Energy Recycler DRI 164
+2 Pokégear 3.0 SVI 186
+2 Rare Candy MEG 125
+4 Poké Pad ASC 198
+1 Sacred Ash DRI 168
+2 Crispin PRE 105
+4 Buddy-Buddy Poffin ASC 184
+4 Lillie's Determination MEG 119
+2 Boss's Orders MEG 114
+
+Energy: 9
+6 Basic {D} Energy SVE 7
+3 Basic {R} Energy SVE 2
+
+Total Cards: 60
