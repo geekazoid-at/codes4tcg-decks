@@ -1,0 +1,27 @@
+Pokémon: 24
+4 Weedle CRI 1
+4 Kakuna CRI 2
+4 Beedrill ex CRI 3
+3 Dunsparce JTG 120
+2 Dudunsparce TEF 129
+2 Smoliv DRI 21
+2 Dolliv DRI 22
+2 Arboliva ex DRI 23
+1 Meowth ex POR 62
+
+Trainer: 31
+4 Lillie's Determination MEG 119
+3 Dawn PFL 87
+2 Boss's Orders MEG 114
+4 Buddy-Buddy Poffin TEF 144
+4 Bug Catching Set TWM 143
+3 Poké Pad ASC 198
+3 Ultra Ball MEG 131
+3 Night Stretcher ASC 196
+1 Unfair Stamp TWM 165
+4 Forest of Vitality MEG 117
+
+Energy: 5
+5 Basic {G} Energy SVE 1
+
+Total Cards: 60

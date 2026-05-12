@@ -1,0 +1,25 @@
+Pokémon: 19
+4 Beldum TEF 113
+4 Metang TEF 114
+1 Metagross M 4 59
+3 Minccino CRI 72
+3 Cinccino ex CRI 73
+2 Genesect ex BLK 67
+1 Meowth ex POR 62
+1 Fezandipiti ex SFA 38
+
+Trainer: 25
+4 Team Rocket's Petrel DRI 176
+4 Boss's Orders MEG 114
+4 Ultra Ball MEG 131
+4 Team Rocket's Transceiver DRI 178
+2 Energy Recycler DRI 164
+2 Special Red Card CRI 82
+1 Precious Trolley SSP 185
+1 Buddy-Buddy Poffin TEF 144
+3 Team Rocket's Factory DRI 173
+
+Energy: 16
+16 Basic {M} Energy SVE 8
+
+Total Cards: 60
