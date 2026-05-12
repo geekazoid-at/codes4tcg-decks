@@ -1,0 +1,26 @@
+Pokémon: 6
+2 Solrock MEG 75
+2 Charcadet PFL 19
+2 Lunatone MEG 74
+3 Ceruledge ex SSP 36
+1 Fezandipiti ex SFA 38
+2 Charcadet SSP 32
+
+Trainer: 10
+1 Academy at Night SFA 54
+2 Explorer's Guidance TEF 147
+2 Boss's Orders MEG 114
+4 Hole-Digging Shovel POR 74
+4 Fighting Gong MEG 116
+3 Night Stretcher SFA 61
+4 Ultra Ball MEG 131
+2 Naveen POR 79
+4 Carmine TWM 145
+1 Blowtorch PFL 86
+
+Energy: 3
+10 Basic {F} Energy MEE 6
+10 Basic {R} Energy MEE 2
+1 Legacy Energy TWM 167
+
+Total Cards: 60

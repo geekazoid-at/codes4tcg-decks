@@ -1,0 +1,33 @@
+Pokémon: 11
+2 Latias ex SSP 76
+1 Rabsca SSP 14
+1 Psyduck MEP 7
+1 Fezandipiti ex SFA 38
+2 Mega Kangaskhan ex MEG 104
+2 Wo-Chien SSP 15
+2 Joltik SCR 50
+1 Budew PRE 4
+2 Rellor TEF 23
+1 Rabsca TEF 24
+1 Abra TWM 80
+
+Trainer: 13
+4 Bug Catching Set TWM 143
+1 Max Rod PRE 116
+2 Battle Cage PFL 85
+1 Counter Gain SSP 169
+3 Morty's Conviction TEF 155
+4 Poké Pad ASC 198
+2 Night Stretcher ASC 196
+1 Air Balloon BLK 79
+4 Hole-Digging Shovel POR 74
+3 Explorer's Guidance PRE 107
+4 Lillie's Determination MEG 119
+4 Ultra Ball SVI 196
+1 Boss's Orders MEG 114
+
+Energy: 2
+3 Basic {L} Energy MEE 4
+7 Basic {G} Energy MEE 1
+
+Total Cards: 60

@@ -1,0 +1,36 @@
+Pokémon: 14
+2 Solrock MEG 75
+3 Binacle POR 42
+1 Carbink ASC 117
+1 Munkidori TWM 95
+1 Mega Zygarde ex POR 47
+2 Lunatone MEG 74
+1 Hawlucha POR 46
+1 Fezandipiti ex SFA 38
+1 Marshadow MEG 80
+1 Okidogi TWM 111
+1 Ting-Lu TWM 110
+1 Cornerstone Mask Ogerpon ex TWM 112
+3 Barbaracle POR 43
+1 Bloodmoon Ursaluna SFA 25
+
+Trainer: 11
+2 Poké Pad ASC 198
+4 Lillie's Determination MEG 119
+2 Air Balloon BLK 79
+2 Battle Cage PFL 85
+3 Boss's Orders MEG 114
+4 Fighting Gong MEG 116
+2 Brave Bangle WHT 80
+2 Night Stretcher SFA 61
+2 Judge POR 76
+1 Tarragon POR 85
+4 Premium Power Pro MEG 124
+
+Energy: 4
+8 Basic {F} Energy MEE 6
+1 Rocky {F} Energy POR 87
+1 Legacy Energy TWM 167
+2 Prism Energy BLK 86
+
+Total Cards: 60

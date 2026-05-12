@@ -1,0 +1,30 @@
+Pokémon: 16
+4 Mega Diancie ex PFL 41
+3 Duskull PRE 35
+2 Dusclops PRE 36
+2 Dusknoir PRE 37
+1 Lillie's Clefairy ex ASC 76
+1 Latias ex SSP 76
+1 Zacian PFL 45
+1 Meowth ex POR 62
+1 Fezandipiti ex ASC 142
+
+Trainer: 32
+3 Rare Candy MEG 125
+3 Ultra Ball ASC 213
+3 Wondrous Patch PFL 94
+2 Poké Pad POR 81
+2 Night Stretcher ASC 196
+1 Unfair Stamp TWM 165
+3 Powerglass SFA 63
+3 Mystery Garden ASC 194
+4 Lillie's Determination ASC 192
+3 Boss's Orders ASC 183
+3 Colress's Tenacity SFA 57
+2 Team Rocket's Petrel ASC 207
+
+Energy: 12
+4 Basic {P} Energy SVE 5
+8 Basic {P} Energy SVE 5
+
+Total Cards: 60

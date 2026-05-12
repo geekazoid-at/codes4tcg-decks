@@ -1,0 +1,33 @@
+Pokémon: 8
+3 Koraidon SSP 116
+1 Carbink ASC 117
+3 Barbaracle POR 43
+1 Fezandipiti ex SFA 38
+1 Bloodmoon Ursaluna SFA 25
+2 Sandy Shocks TEF 98
+3 Binacle POR 42
+1 Mega Zygarde ex POR 47
+
+Trainer: 15
+4 Fighting Gong MEG 116
+1 Tarragon POR 85
+2 Energy Retrieval WHT 82
+1 N's Plan BLK 83
+2 Battle Cage PFL 85
+2 Morty's Conviction TEF 155
+3 Night Stretcher SFA 61
+2 Ultra Ball ASC 213
+2 Air Balloon BLK 79
+2 Judge POR 76
+3 Lucky Helmet TWM 158
+1 Core Memory POR 70
+4 Lillie's Determination MEG 119
+1 Switch MEG 130
+3 Boss's Orders MEG 114
+
+Energy: 3
+1 Legacy Energy TWM 167
+9 Basic {F} Energy MEE 6
+2 Rocky {F} Energy POR 87
+
+Total Cards: 60

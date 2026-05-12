@@ -1,0 +1,36 @@
+Pokémon: 11
+1 Fezandipiti ex ASC 288
+1 Klinklang SCR 101
+2 Quaxly SSP 50
+1 Quaquaval SSP 52
+4 Swinub JTG 77
+2 Piloswine JTG 78
+2 Torchic DRI 40
+1 Combusken DRI 41
+1 Quaxwell SSP 51
+2 Blaziken ex JTG 24
+3 Mamoswine ex JTG 174
+
+Trainer: 14
+3 Boss's Orders RCL 189
+4 Lillie's Determination MEG 169
+2 Morty's Conviction TEF 201
+4 Buddy-Buddy Poffin MEG 167
+4 Rare Candy PLB 105
+1 Switch PFL 123
+3 Ultra Ball PLF 122
+1 Night Stretcher MEG 173
+2 Poké Pad POR 113
+2 Colress's Tenacity SFA 87
+1 Grand Tree SCR 136
+2 Dawn PFL 118
+1 Team Rocket's Petrel DRI 226
+1 Jamming Tower ASC 261
+
+Energy: 4
+1 Basic {R} Energy BUS 167
+5 Basic {F} Energy GRI 169
+1 Basic {W} Energy CIN 124
+2 Rocky {F} Energy POR 87
+
+Total Cards: 60
