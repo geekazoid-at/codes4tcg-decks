@@ -1,0 +1,30 @@
+Pokémon: 10
+2 Bayleef MEG 9
+2 Brambleghast TEF 21
+2 Chikorita ASC 8
+2 Yanmega ex DRI 3
+2 Dunsparce JTG 120
+1 Fezandipiti ex ASC 142
+2 Dudunsparce TEF 129
+2 Bramblin TEF 20
+2 Yanma DRI 2
+2 Meganium MEG 10
+
+Trainer: 11
+3 Buddy-Buddy Poffin ASC 184
+1 Judge SVI 176
+4 Poké Pad ASC 198
+2 Energy Recycler POR 108
+4 Lillie's Determination ASC 192
+4 Kofu SCR 138
+2 Boss's Orders MEG 114
+2 Switch MEG 130
+2 Forest of Vitality MEG 117
+4 Bug Catching Set TWM 143
+1 Scramble Switch SSP 186
+
+Energy: 2
+4 Growing {G} Energy POR 86
+8 Basic {G} Energy SVE 9
+
+Total Cards: 60
