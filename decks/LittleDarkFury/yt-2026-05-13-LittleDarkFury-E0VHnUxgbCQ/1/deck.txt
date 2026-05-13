@@ -1,0 +1,34 @@
+Pokémon: 12
+1 Clefable TWM 79
+2 Spritzee POR 35
+1 Lillie's Clefairy ex ASC 280
+1 Meowth ex POR 121
+1 Frillish WHT 126
+2 Aromatisse POR 36
+4 Clefairy POR 30
+2 Mega Clefable ex POR 119
+1 Jellicent ex WHT 168
+1 Latias ex SSP 239
+1 Psyduck ASC 39
+1 Fezandipiti ex ASC 288
+
+Trainer: 13
+3 Boss's Orders RCL 189
+1 Unfair Stamp TWM 165
+1 Hilda WHT 164
+4 Lillie's Determination MEG 169
+2 Energy Recycler POR 108
+1 Jacinthe POR 122
+4 Ultra Ball PLF 122
+3 Mystery Garden MEG 172
+2 Night Stretcher MEG 173
+3 Poké Pad POR 113
+1 Colress's Tenacity SFA 87
+3 Wondrous Patch POR 117
+1 Morty's Conviction TEF 201
+
+Energy: 2
+4 Telepathic {P} Energy POR 88
+9 Basic {P} Energy SUM 162
+
+Total Cards: 60
