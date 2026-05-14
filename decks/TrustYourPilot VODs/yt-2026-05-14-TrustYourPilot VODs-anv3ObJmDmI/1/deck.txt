@@ -1,0 +1,33 @@
+Pokémon: 9
+1 Meowth ex POR 62
+2 Volbeat TWM 9
+2 Eevee SSP 143
+1 Tatsugiri TWM 131
+1 Latias ex SSP 76
+2 Lapras ex SCR 32
+2 Sylveon PRE 40
+1 Fezandipiti ex SFA 38
+2 Lapras ex POR 22
+
+Trainer: 13
+1 Powerglass SFA 63
+1 Crispin SCR 133
+2 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+2 Poké Pad POR 81
+2 Air Balloon BLK 79
+2 Boss's Orders MEG 114
+1 Energy Recycler DRI 164
+2 Night Stretcher SFA 61
+3 Ultra Ball MEG 131
+1 Sparkling Crystal SCR 142
+1 N's Plan BLK 83
+4 Carmine TWM 145
+
+Energy: 4
+1 Basic {M} Energy MEE 8
+1 Basic {P} Energy MEE 5
+14 Basic {W} Energy MEE 3
+4 Prism Energy BLK 86
+
+Total Cards: 60

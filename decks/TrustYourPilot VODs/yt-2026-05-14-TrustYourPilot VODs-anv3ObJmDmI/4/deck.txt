@@ -1,0 +1,30 @@
+Pokémon: 2
+4 Cinderace MEG 28
+2 Mega Zygarde ex POR 47
+
+Trainer: 19
+4 Carmine TWM 145
+2 Team Rocket's Watchtower DRI 180
+2 Lively Stadium SSP 180
+1 Tool Scrapper WHT 85
+1 Iris's Fighting Spirit JTG 149
+1 N's Plan BLK 83
+1 Hero's Cape TEF 152
+2 Hand Trimmer TEF 150
+1 Morty's Conviction TEF 155
+2 Night Stretcher SFA 61
+3 Jumbo Ice Cream PFL 91
+2 Mega Signal ASC 193
+1 Powerglass SFA 63
+2 Pokémon Catcher POR 82
+1 Core Memory POR 70
+4 Lillie's Determination MEG 119
+2 Switch MEG 130
+4 Ultra Ball MEG 131
+2 Boss's Orders MEG 114
+
+Energy: 2
+12 Basic {F} Energy MEE 6
+4 Rocky {F} Energy POR 87
+
+Total Cards: 60
