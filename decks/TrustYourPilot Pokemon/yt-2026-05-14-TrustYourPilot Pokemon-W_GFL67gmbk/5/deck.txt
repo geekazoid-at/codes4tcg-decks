@@ -1,0 +1,30 @@
+Pokémon: 22
+4 Duraludon SCR 106
+3 Archaludon ex SSP 130
+1 Archaludon PFL 75
+4 Dunsparce JTG 120
+3 Dudunsparce TEF 129
+1 Dudunsparce ex JTG 121
+2 Fan Rotom SCR 118
+1 Mega Mawile ex MEG 94
+1 Fezandipiti ex ASC 142
+1 Meowth ex POR 62
+1 Relicanth TEF 84
+
+Trainer: 28
+4 Lillie's Determination MEG 119
+4 Boss's Orders MEG 114
+2 Judge POR 76
+1 Philippe CRI 79
+4 Poké Pad POR 81
+4 Ultra Ball MEG 131
+3 Buddy-Buddy Poffin TEF 144
+1 Night Stretcher ASC 196
+1 Unfair Stamp TWM 165
+3 Prism Tower CRI 80
+1 Jamming Tower TWM 153
+
+Energy: 10
+10 Basic {M} Energy SVE 8
+
+Total Cards: 60

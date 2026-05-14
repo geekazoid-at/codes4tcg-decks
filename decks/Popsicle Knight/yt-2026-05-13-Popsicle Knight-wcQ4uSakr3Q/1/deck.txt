@@ -1,0 +1,31 @@
+Pokémon: 7
+3 Dusclops SFA 19
+3 Mega Starmie ex POR 21
+3 Duskull SFA 18
+1 Shaymin DRI 10
+3 Staryu POR 20
+3 Dusknoir SFA 20
+2 Tatsugiri TWM 131
+
+Trainer: 15
+2 Team Rocket's Petrel DRI 176
+2 Judge POR 76
+1 Mega Signal ASC 193
+2 Rare Candy SVI 191
+2 Risky Ruins MEG 127
+3 Night Stretcher ASC 196
+4 Lillie's Determination ASC 192
+2 Air Balloon BLK 79
+2 Hilda WHT 84
+2 Colress's Tenacity SFA 57
+3 Poké Pad ASC 198
+1 Grand Tree SCR 136
+1 Salvatore TEF 160
+4 Buddy-Buddy Poffin ASC 184
+2 Boss's Orders ASC 183
+
+Energy: 2
+5 Basic {W} Energy MEE 3
+4 Ignition Energy WHT 86
+
+Total Cards: 60
