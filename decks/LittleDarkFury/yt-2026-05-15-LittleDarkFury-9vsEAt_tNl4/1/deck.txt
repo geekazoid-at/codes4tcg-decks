@@ -1,0 +1,31 @@
+Pokémon: 10
+1 Pecharunt ex PRE 163
+4 Toxel PFL 67
+3 Munkidori TWM 95
+3 Skorupi POR 51
+1 Brute Bonnet TWM 118
+3 Toxtricity PFL 103
+1 Yveltal MEG 88
+2 Drapion POR 97
+1 Tatsugiri TWM 186
+1 Pecharunt PR-SV 149
+
+Trainer: 13
+2 Boss's Orders RCL 189
+2 Hassel TWM 205
+1 Unfair Stamp TWM 165
+4 Lillie's Determination MEG 169
+2 Morty's Conviction TEF 201
+2 Air Balloon MEG 166
+3 Buddy-Buddy Poffin MEG 167
+1 Energy Recycler POR 108
+3 Ultra Ball PLF 122
+2 Enhanced Hammer PRC 162
+2 Night Stretcher MEG 173
+4 Poké Pad POR 113
+1 Xerosic's Machinations SFA 89
+
+Energy: 1
+11 Basic {D} Energy BUS 168
+
+Total Cards: 60

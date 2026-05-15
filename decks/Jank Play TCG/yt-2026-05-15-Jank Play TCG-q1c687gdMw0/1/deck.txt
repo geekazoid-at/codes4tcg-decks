@@ -1,0 +1,37 @@
+Pokémon: 20
+3 Steven's Beldum DRI 143
+2 Steven's Metang DRI 144
+3 Steven's Metagross ex DRI 145
+2 Piplup PFL 27
+1 Empoleon ex PFL 70
+1 Fezandipiti ex ASC 142
+1 Mega Mawile ex MEG 94
+1 Mega Skarmory ex POR 55
+1 Dialga MEG 95
+1 Meowth ex POR 62
+1 Genesect ex BLK 67
+1 Budew ASC 16
+1 Lillie's Clefairy ex JTG 56
+1 Latias ex SSP 76
+
+Trainer: 30
+4 Lillie's Determination MEG 119
+4 Team Rocket's Petrel DRI 176
+3 Boss's Orders MEG 114
+1 Judge POR 76
+3 Rare Candy MEG 125
+2 Jumbo Ice Cream PFL 91
+2 Team Rocket's Transceiver DRI 178
+2 Night Stretcher ASC 196
+2 Ultra Ball MEG 131
+2 Energy Recycler DRI 164
+1 Precious Trolley SSP 185
+1 Buddy-Buddy Poffin TEF 144
+1 Switch MEG 130
+2 Battle Cage PFL 85
+
+Energy: 10
+6 Basic {M} Energy SVE 8
+4 Basic {P} Energy SVE 5
+
+Total Cards: 60
