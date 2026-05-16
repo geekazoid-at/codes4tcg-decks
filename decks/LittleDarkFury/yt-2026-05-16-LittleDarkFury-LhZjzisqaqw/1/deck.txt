@@ -1,0 +1,31 @@
+Pokémon: 9
+2 Dudunsparce TEF 129
+4 Salandit SCR 23
+2 Pecharunt PR-SV 149
+1 Meowth ex POR 121
+3 Salazzle ex POR 101
+2 Dunsparce JTG 120
+1 Cornerstone Mask Ogerpon ex TWM 215
+1 Dudunsparce ex JTG 178
+1 Munkidori PRE 44
+
+Trainer: 12
+3 Boss's Orders RCL 189
+2 Crispin SCR 164
+1 Unfair Stamp TWM 165
+4 Lillie's Determination MEG 169
+2 Morty's Conviction TEF 201
+3 Air Balloon MEG 166
+4 Buddy-Buddy Poffin MEG 167
+4 Ultra Ball PLF 122
+2 Night Stretcher MEG 173
+3 Poké Pad POR 113
+1 Surfer ASC 293
+3 Perilous Jungle TEF 156
+
+Energy: 3
+8 Basic {R} Energy BUS 167
+1 Basic {F} Energy GRI 169
+2 Basic {D} Energy BUS 168
+
+Total Cards: 60
