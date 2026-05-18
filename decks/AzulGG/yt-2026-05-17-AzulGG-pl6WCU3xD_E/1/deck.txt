@@ -1,0 +1,31 @@
+Pokémon: 20
+4 Dreepy ASC 158
+4 Drakloak ASC 159
+3 Dragapult ex ASC 160
+2 Meowth ex POR 62
+2 Munkidori ASC 99
+1 Bloodmoon Ursaluna ex TWM 141
+1 Budew ASC 16
+1 Chien-Pao SSP 56
+1 Fezandipiti ex ASC 142
+1 Latias ex SSP 76
+
+Trainer: 32
+4 Boss's Orders MEG 114
+4 Lillie's Determination MEG 119
+2 Brock's Scouting JTG 146
+2 Crispin SCR 133
+4 Buddy-Buddy Poffin ASC 184
+4 Poké Pad POR 81
+4 Ultra Ball MEG 131
+3 Rare Candy MEG 125
+2 Night Stretcher ASC 196
+1 Unfair Stamp TWM 165
+2 Area Zero Underdepths SCR 131
+
+Energy: 8
+3 Basic {R} Energy SVE 2
+3 Basic {P} Energy SVE 5
+2 Basic {D} Energy SVE 7
+
+Total Cards: 60
