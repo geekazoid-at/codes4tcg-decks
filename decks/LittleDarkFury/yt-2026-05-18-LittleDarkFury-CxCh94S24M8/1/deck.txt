@@ -1,0 +1,34 @@
+Pokémon: 14
+2 Greninja ex TWM 214
+1 Latias ex SSP 239
+2 Dusclops SFA 19
+2 Meowth ex POR 121
+1 Fezandipiti ex ASC 288
+2 Duskull SFA 18
+1 Mega Froslass ex ASC 275
+2 Snorunt ASC 46
+2 Froakie TWM 56
+1 Mega Starmie ex POR 118
+1 Budew ASC 221
+1 Staryu POR 20
+2 Dusknoir SFA 70
+2 Frogadier TWM 57
+
+Trainer: 11
+4 Ultra Ball PLF 122
+3 Rare Candy PLB 105
+1 Grand Tree SCR 136
+2 Night Stretcher MEG 173
+4 Lillie's Determination MEG 169
+4 Buddy-Buddy Poffin MEG 167
+2 Colress's Tenacity SFA 87
+1 Surfer ASC 293
+3 Poké Pad POR 113
+2 Boss's Orders RCL 189
+3 Hilda WHT 164
+
+Energy: 2
+6 Basic {W} Energy CIN 124
+3 Ignition Energy PFL 124
+
+Total Cards: 60

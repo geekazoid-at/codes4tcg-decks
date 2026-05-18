@@ -1,0 +1,33 @@
+Pokémon: 21
+3 Dreepy PRE 71
+3 Drakloak PRE 72
+3 Mega Emboar ex ASC 31
+1 Reshiram ex WHT 20
+1 Dragapult ex TWM 130
+2 Oricorio ex PFL 18
+1 Victini SSP 21
+1 Fezandipiti ex SFA 38
+3 Tepig WHT 11
+3 Pignite WHT 12
+
+Trainer: 27
+4 Buddy-Buddy Poffin ASC 184
+2 Boss's Orders ASC 183
+1 Switch SVI 194
+2 Poké Pad ASC 198
+2 Night Stretcher ASC 196
+1 Area Zero Underdepths SCR 131
+4 Lillie's Determination MEG 119
+1 Energy Switch MEG 115
+2 Ultra Ball MEG 131
+1 Hero's Cape TEF 152
+1 Air Balloon SSH 156
+1 Dawn PFL 87
+1 Team Rocket's Watchtower ASC 210
+4 Jumbo Ice Cream PFL 91
+
+Energy: 12
+2 Basic {P} Energy SVE 5
+10 Basic {R} Energy SVE 2
+
+Total Cards: 60

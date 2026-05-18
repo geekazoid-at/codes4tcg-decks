@@ -1,0 +1,31 @@
+Pokémon: 9
+1 Shaymin DRI 10
+1 Psyduck ASC 39
+3 Salazzle ex POR 16
+1 Dunsparce JTG 120
+1 Dudunsparce ex JTG 121
+2 Dunsparce TEF 128
+2 Dudunsparce TEF 129
+3 Salandit POR 15
+3 Pecharunt PR-SV 149
+
+Trainer: 13
+4 Buddy-Buddy Poffin ASC 184
+1 Switch SVI 194
+3 Air Balloon ASC 181
+4 Poké Pad ASC 198
+2 Night Stretcher ASC 196
+2 Crispin SCR 133
+4 Lillie's Determination MEG 119
+4 Boss's Orders MEG 114
+2 Ultra Ball MEG 131
+3 Perilous Jungle TEF 156
+1 Unfair Stamp TWM 165
+1 Team Rocket's Petrel DRI 176
+2 Hilda WHT 84
+
+Energy: 2
+3 Basic {D} Energy MEE 7
+7 Basic {R} Energy MEE 2
+
+Total Cards: 60
