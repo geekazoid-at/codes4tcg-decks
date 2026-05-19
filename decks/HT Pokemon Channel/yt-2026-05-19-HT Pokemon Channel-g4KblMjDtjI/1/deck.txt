@@ -1,0 +1,31 @@
+Pokémon: 19
+4 Slakoth SSP 145
+2 Vigoroth SSP 146
+3 Slaking ex SSP 147
+4 Dreepy ASC 158
+3 Drakloak ASC 159
+1 Fan Rotom ASC 171
+2 Munkidori ASC 99
+
+Trainer: 31
+4 Buddy-Buddy Poffin ASC 184
+3 Poké Pad POR 81
+3 Ultra Ball ASC 213
+3 Rare Candy MEG 125
+1 Night Stretcher ASC 196
+1 Switch MEG 130
+1 Maximum Belt PRE 117
+1 Air Balloon ASC 181
+3 Team Rocket's Watchtower ASC 210
+4 Lillie's Determination ASC 192
+3 Boss's Orders ASC 183
+2 Crispin PRE 105
+2 Team Rocket's Petrel ASC 207
+
+Energy: 10
+4 Boomerang Energy TWM 166
+2 Ignition Energy WHT 86
+2 Basic {D} Energy SVE 7
+2 Basic {P} Energy SVE 5
+
+Total Cards: 60
