@@ -1,0 +1,30 @@
+Pokémon: 6
+1 Bouffalant ex WHT 77
+2 Latias ex SSP 76
+1 Bloodmoon Ursaluna ex TWM 141
+2 Mega Audino ex ASC 172
+3 Bouffalant SCR 119
+3 Mega Kangaskhan ex MEP 25
+
+Trainer: 15
+2 Eri TEF 146
+4 Ultra Ball ASC 213
+1 Unfair Stamp TWM 165
+4 Lillie's Determination ASC 192
+2 Mega Signal ASC 193
+4 Crushing Hammer SVI 168
+1 Wally's Compassion MEG 132
+2 Battle Cage PFL 85
+2 Jamming Tower TWM 153
+3 Boss's Orders ASC 183
+4 Jumbo Ice Cream PFL 91
+3 Dusk Ball SSP 175
+1 Cyrano SSP 170
+1 Xerosic's Machinations SFA 64
+2 Ciphermaniac's Codebreaking PRE 104
+
+Energy: 2
+4 Mist Energy TEF 161
+8 Basic {P} Energy SVE 13
+
+Total Cards: 60
