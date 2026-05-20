@@ -1,0 +1,35 @@
+Pokémon: 11
+2 Fletchinder POR 13
+1 Luxray POR 28
+1 Fezandipiti ex SFA 38
+3 Luxray ex TWM 68
+3 Shinx POR 26
+2 Fletchling POR 66
+2 Talonflame POR 14
+2 Team Rocket's Chingling DRI 85
+1 Shaymin DRI 10
+3 Luxio POR 27
+1 Tatsugiri TWM 131
+
+Trainer: 14
+2 Xerosic's Machinations SFA 64
+2 Battle Cage PFL 85
+3 Night Stretcher ASC 196
+3 Handheld Fan TWM 150
+1 Colress's Tenacity SFA 57
+2 Rare Candy PAF 89
+2 Team Rocket's Petrel ASC 207
+1 Crispin SCR 133
+1 Grand Tree SCR 136
+4 Buddy-Buddy Poffin ASC 184
+4 Lillie's Determination MEG 119
+2 Boss's Orders ASC 183
+2 Ultra Ball MEG 131
+2 Air Balloon ASC 181
+
+Energy: 3
+4 Basic {L} Energy MEE 4
+3 Basic {R} Energy MEE 2
+1 Mist Energy TEF 161
+
+Total Cards: 60
