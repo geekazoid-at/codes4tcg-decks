@@ -1,0 +1,29 @@
+Pokémon: 8
+2 Pignite WHT 12
+4 Fennekin CRI 11
+3 Tepig WHT 11
+2 Emboar WHT 13
+2 Braixen CRI 12
+1 Gouging Fire ex TEF 38
+1 Fezandipiti ex ASC 142
+3 Delphox CRI 13
+
+Trainer: 13
+1 Firebreather PFL 89
+1 Max Rod PRE 116
+2 Battle Cage PFL 85
+2 Energy Retrieval SVI 171
+1 Special Red Card CRI 82
+4 Poké Pad ASC 198
+2 Night Stretcher ASC 196
+1 Sacred Ash DRI 168
+4 Team Rocket's Petrel ASC 207
+3 Buddy-Buddy Poffin ASC 184
+4 Lillie's Determination MEG 119
+2 Boss's Orders MEG 114
+4 Rare Candy SVI 191
+
+Energy: 1
+11 Basic {R} Energy SVE 10
+
+Total Cards: 60

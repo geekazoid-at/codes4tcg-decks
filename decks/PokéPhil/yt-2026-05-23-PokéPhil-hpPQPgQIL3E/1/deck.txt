@@ -1,0 +1,34 @@
+Pokémon: 12
+2 Budew ASC 16
+2 Munkidori TWM 95
+4 Drakloak TWM 129
+4 Dreepy TWM 128
+2 Torchic DRI 40
+1 Combusken DRI 41
+1 Fezandipiti ex ASC 142
+2 Blaziken ex JTG 24
+1 Lillie's Clefairy ex JTG 56
+1 Meowth ex POR 62
+1 Shaymin DRI 10
+2 Dragapult ex TWM 130
+
+Trainer: 12
+1 Team Rocket's Watchtower DRI 180
+1 Unfair Stamp TWM 165
+2 Dawn PFL 87
+3 Poké Pad POR 81
+2 Rare Candy MEG 125
+1 Risky Ruins MEG 127
+2 Night Stretcher ASC 196
+2 Crispin SCR 133
+4 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+4 Ultra Ball MEG 131
+3 Boss's Orders MEG 114
+
+Energy: 3
+3 Basic {P} Energy MEE 5
+2 Basic {D} Energy MEE 7
+3 Basic {R} Energy MEE 2
+
+Total Cards: 60
