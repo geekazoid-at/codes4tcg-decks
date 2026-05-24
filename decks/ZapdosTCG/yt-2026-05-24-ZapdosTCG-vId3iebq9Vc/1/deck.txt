@@ -1,0 +1,34 @@
+Pokémon: 12
+4 Froakie CRI 20
+2 Frogadier CRI 21
+2 Mega Greninja ex CRI 22
+2 Greninja ex TWM 106
+3 Dreepy TWM 128
+3 Drakloak TWM 129
+1 Dragapult ex TWM 130
+1 Fezandipiti ex ASC 142
+1 Shaymin DRI 10
+1 Meowth ex POR 62
+1 Psyduck ASC 39
+1 Budew ASC 16
+
+Trainer: 12
+4 Lillie's Determination MEG 119
+2 Dawn PFL 87
+2 Boss's Orders MEG 114
+2 Hilda WHT 84
+4 Buddy-Buddy Poffin TEF 144
+4 Ultra Ball MEG 131
+3 Poké Pad POR 81
+3 Rare Candy MEG 125
+1 Night Stretcher ASC 196
+1 Special Red Card CRI 82
+2 Air Balloon ASC 181
+1 Surfing Beach MEG 129
+
+Energy: 3
+7 Basic {W} Energy MEE 3
+1 Neo Upper Energy TEF 162
+1 Ignition Energy WHT 86
+
+Total Cards: 60
