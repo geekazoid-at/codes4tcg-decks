@@ -1,0 +1,33 @@
+Pokémon: 9
+1 Gourgeist ex CRI 41
+1 Fezandipiti ex ASC 288
+1 Lillie's Clefairy ex ASC 280
+3 Dudunsparce PRE 80
+2 Gourgeist ex CRI 102
+3 Dunsparce JTG 120
+4 Pumpkaboo CRI 40
+1 Shaymin DRI 10
+2 Munkidori ASC 99
+
+Trainer: 14
+3 Boss's Orders RCL 189
+2 Hilda WHT 164
+4 Lillie's Determination MEG 169
+1 Morty's Conviction TEF 201
+1 Air Balloon MEG 166
+4 Buddy-Buddy Poffin MEG 167
+1 Maximum Belt PRE 117
+4 Risky Ruins MEG 127
+3 Ultra Ball PLF 122
+2 Night Stretcher MEG 173
+4 Poké Pad POR 113
+3 Colress's Tenacity SFA 87
+1 Special Red Card CRI 113
+1 Wondrous Patch POR 117
+
+Energy: 3
+2 Basic {D} Energy BUS 168
+4 Telepathic {P} Energy POR 88
+2 Basic {P} Energy SUM 162
+
+Total Cards: 60

@@ -1,0 +1,31 @@
+Pokémon: 18
+2 Bayleef MEG 9
+2 Chikorita MEG 8
+2 Rowlet SFA 3
+3 Teal Mask Ogerpon ex TWM 25
+2 Dartrix POR 11
+1 Fezandipiti ex ASC 142
+1 Iron Leaves ex TEF 25
+2 Meganium MEG 10
+2 Decidueye ex POR 12
+1 Celebi MEG 12
+
+Trainer: 32
+4 Bug Catching Set PRE 102
+2 Boss's Orders ASC 183
+2 Poké Pad ASC 198
+4 Crushing Hammer SVI 168
+3 Night Stretcher ASC 196
+4 Energy Switch SVI 173
+4 Lillie's Determination ASC 192
+1 Lana's Aid TWM 155
+1 Dawn PFL 87
+2 Ultra Ball ASC 213
+3 Forest of Vitality ASC 188
+1 Community Center TWM 146
+1 Unfair Stamp TWM 165
+
+Energy: 10
+10 Basic {G} Energy SVE 1
+
+Total Cards: 60
