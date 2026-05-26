@@ -1,0 +1,37 @@
+Pokémon: 13
+2 Meowth ex POR 62
+1 Dusclops SFA 19
+4 Froakie CRI 20
+2 Greninja ex TWM 106
+2 Dunsparce JTG 120
+2 Mega Greninja ex CRI 22
+1 Dudunsparce ex JTG 121
+1 Duskull SFA 18
+1 Dudunsparce TEF 129
+1 Fezandipiti ex SFA 38
+1 Frogadier TWM 57
+1 Dusknoir SFA 20
+2 Frogadier CRI 21
+
+Trainer: 15
+4 Buddy-Buddy Poffin ASC 184
+1 AZ's Tranquility CRI 76
+1 Boss's Orders ASC 183
+1 Judge SVI 176
+3 Poké Pad ASC 198
+2 Rare Candy SVI 191
+1 Night Stretcher ASC 196
+4 Lillie's Determination MEG 119
+1 Grand Tree SCR 136
+1 Rosa's Encouragement POR 84
+1 Jamming Tower TWM 153
+1 Air Balloon BLK 79
+4 Ultra Ball MEG 131
+2 Colress's Tenacity SFA 57
+2 Hilda WHT 84
+
+Energy: 2
+8 Basic {W} Energy MEE 3
+2 Ignition Energy WHT 86
+
+Total Cards: 60
