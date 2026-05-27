@@ -1,0 +1,35 @@
+Pokémon: 8
+2 Frogadier CRI 21
+3 Mega Starmie ex POR 21
+1 Fezandipiti ex SFA 38
+3 Mega Greninja ex CRI 22
+3 Froakie CRI 20
+1 Budew PRE 4
+1 Meowth ex POR 62
+3 Staryu POR 20
+
+Trainer: 18
+1 Energy Retrieval WHT 82
+1 Dawn PFL 87
+2 Poké Pad POR 81
+1 Team Rocket's Petrel DRI 176
+2 Surfing Beach MEG 129
+1 Night Stretcher SFA 61
+2 Rare Candy MEG 125
+2 Special Red Card CRI 82
+1 Rosa's Encouragement POR 84
+2 Air Balloon BLK 79
+1 Judge POR 76
+1 Hilda WHT 84
+1 Energy Search POR 72
+4 Buddy-Buddy Poffin TEF 144
+1 Salvatore TEF 160
+4 Lillie's Determination MEG 119
+3 Ultra Ball MEG 131
+3 Boss's Orders MEG 114
+
+Energy: 2
+9 Basic {W} Energy MEE 3
+1 Neo Upper Energy TEF 162
+
+Total Cards: 60
