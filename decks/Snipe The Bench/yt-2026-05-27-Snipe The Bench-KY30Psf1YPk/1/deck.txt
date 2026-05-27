@@ -1,0 +1,21 @@
+Pokémon: 4
+4 Bergmite CRI 23
+1 Fezandipiti ex ASC 142
+2 Kyogre MEG 34
+4 Avalugg CRI 24
+
+Trainer: 9
+2 Poké Pad ASC 198
+2 Night Stretcher ASC 196
+1 Sacred Ash POR 115
+4 Team Rocket's Petrel ASC 207
+1 Precious Trolley SSP 185
+2 Battle Cage PFL 85
+4 Lillie's Determination MEG 119
+1 Special Red Card CRI 82
+4 Team Rocket's Transceiver DRI 178
+
+Energy: 1
+28 Basic {W} Energy SVE 11
+
+Total Cards: 60

@@ -1,0 +1,32 @@
+Pokémon: 9
+2 Smoochum SSP 75
+1 Meowth ex POR 62
+2 Latias ex SSP 76
+2 Xerneas CRI 42
+3 Mega Floette ex CRI 35
+1 Deoxys CRI 32
+1 Team Rocket's Mimikyu DRI 87
+1 Mega Kangaskhan ex MEG 104
+1 Lillie's Clefairy ex JTG 56
+
+Trainer: 14
+1 AZ's Tranquility CRI 76
+2 Poké Pad ASC 198
+1 Night Stretcher ASC 196
+4 Lillie's Determination MEG 119
+3 Prism Tower CRI 80
+3 Boss's Orders MEG 114
+2 Special Red Card CRI 82
+2 Ange Floette CRI 75
+4 Ultra Ball MEG 131
+1 Colress's Tenacity SFA 57
+1 Judge POR 76
+1 Hero's Cape TEF 152
+1 Morty's Conviction TEF 155
+4 Wondrous Patch PFL 94
+
+Energy: 2
+12 Basic {P} Energy MEE 5
+4 Telepathic {P} Energy POR 88
+
+Total Cards: 60
