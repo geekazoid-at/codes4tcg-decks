@@ -1,0 +1,30 @@
+Pokémon: 8
+2 Arboliva ex DRI 23
+2 Trevenant CRI 39
+1 Patrat CRI 70
+2 Phantump CRI 38
+1 Fezandipiti ex ASC 142
+2 Budew ASC 16
+3 Smoliv DRI 21
+2 Dolliv DRI 22
+
+Trainer: 13
+4 Bug Catching Set PRE 102
+4 Poké Pad ASC 198
+3 Night Stretcher ASC 196
+4 Lillie's Determination ASC 192
+2 Kofu SCR 138
+2 Boss's Orders MEG 114
+2 Special Red Card CRI 82
+3 Forest of Vitality MEG 117
+2 Air Balloon MEG 166
+4 Team Rocket's Petrel ASC 207
+1 Secret Box TWM 163
+3 Wondrous Patch PFL 94
+3 Enhanced Hammer TWM 148
+
+Energy: 2
+4 Basic {G} Energy SVE 1
+4 Basic {P} Energy SVE 13
+
+Total Cards: 60
