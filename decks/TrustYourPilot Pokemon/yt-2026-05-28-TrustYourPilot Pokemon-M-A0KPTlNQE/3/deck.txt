@@ -1,0 +1,28 @@
+Pokémon: 9
+1 Gouging Fire SSP 38
+2 Oricorio ex PFL 18
+2 Mega Pyroar ex CRI 15
+1 Victini SSP 21
+2 Dunsparce JTG 120
+3 Litleo PRE 15
+2 Dunsparce TEF 128
+3 Dudunsparce TEF 129
+1 Fan Rotom SCR 118
+
+Trainer: 10
+4 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+4 Poké Pad POR 81
+3 Air Balloon BLK 79
+2 Gravity Mountain SSP 177
+2 Special Red Card CRI 82
+2 Night Stretcher SFA 61
+4 Ultra Ball MEG 131
+4 Wally's Compassion MEG 132
+4 Pokémon Catcher POR 82
+
+Energy: 2
+9 Basic {R} Energy MEE 2
+1 Enriching Energy SSP 191
+
+Total Cards: 60

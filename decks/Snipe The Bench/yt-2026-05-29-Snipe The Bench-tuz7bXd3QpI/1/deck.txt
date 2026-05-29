@@ -1,0 +1,30 @@
+Pokémon: 7
+3 Chesnaught CRI 7
+3 Yanmega ex DRI 3
+1 Fezandipiti ex SFA 38
+1 Meowth ex POR 62
+3 Yanma DRI 2
+3 Chespin CRI 5
+2 Quilladin CRI 6
+
+Trainer: 14
+3 Forest of Vitality MEG 117
+4 Bug Catching Set TWM 143
+1 Secret Box TWM 163
+1 Team Rocket's Petrel DRI 176
+2 Energy Recycler POR 108
+2 Special Red Card CRI 82
+4 Poké Pad ASC 198
+2 Night Stretcher ASC 196
+4 Lillie's Determination ASC 192
+1 Lana's Aid TWM 155
+4 Kofu SCR 138
+2 Buddy-Buddy Poffin ASC 184
+2 Switch MEG 130
+2 Boss's Orders MEG 114
+
+Energy: 2
+7 Basic {G} Energy SVE 9
+3 Growing {G} Energy POR 86
+
+Total Cards: 60
