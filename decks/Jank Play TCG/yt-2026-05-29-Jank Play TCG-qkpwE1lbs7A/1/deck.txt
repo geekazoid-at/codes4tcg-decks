@@ -1,0 +1,29 @@
+Pokémon: 7
+1 Joltik SFA 1
+1 Galvantula SFA 2
+2 Fezandipiti ex ASC 288
+4 Weedle CRI 1
+4 Kakuna CRI 2
+1 Shaymin DRI 185
+4 Beedrill ex CRI 98
+
+Trainer: 13
+2 Night Stretcher MEG 173
+1 Sacred Ash POR 115
+3 Poké Pad POR 113
+2 Surfer ASC 293
+2 Colress's Tenacity SFA 87
+4 Forest of Vitality POR 109
+1 Prime Catcher PRE 119
+2 Dawn PFL 129
+4 Buddy-Buddy Poffin TWM 223
+2 Hilda WHT 171
+2 Ultra Ball BRS 186
+4 Bug Catching Set TWM 143
+4 Lillie's Determination MEG 184
+
+Energy: 2
+8 Basic {G} Energy SVE 9
+2 Basic {L} Energy SVE 12
+
+Total Cards: 60
