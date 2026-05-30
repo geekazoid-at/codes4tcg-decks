@@ -1,0 +1,30 @@
+Pokémon: 10
+2 Budew ASC 16
+2 Vivillon POR 9
+1 Munkidori TWM 95
+4 Drakloak TWM 129
+4 Dreepy TWM 128
+2 Spewpa SSP 6
+2 Scatterbug SSP 5
+1 Fezandipiti ex ASC 142
+1 Meowth ex POR 62
+3 Dragapult ex TWM 130
+
+Trainer: 10
+2 Forest of Vitality MEG 117
+1 Unfair Stamp TWM 165
+4 Poké Pad ASC 198
+2 Night Stretcher ASC 196
+4 Crushing Hammer SVI 168
+2 Crispin SCR 133
+4 Buddy-Buddy Poffin ASC 184
+4 Lillie's Determination MEG 119
+3 Ultra Ball MEG 131
+3 Boss's Orders MEG 114
+
+Energy: 3
+4 Basic {P} Energy MEE 5
+2 Basic {D} Energy MEE 7
+3 Basic {R} Energy MEE 2
+
+Total Cards: 60
