@@ -1,0 +1,31 @@
+Pokémon: 8
+1 Meowth ex POR 62
+3 Munkidori TWM 95
+4 Pumpkaboo CRI 40
+2 Froslass TWM 53
+1 Fezandipiti ex SFA 38
+2 Snorunt ASC 46
+1 Lillie's Clefairy ex JTG 56
+3 Gourgeist ex CRI 41
+
+Trainer: 13
+4 Risky Ruins MEG 127
+1 Air Balloon ASC 181
+3 Poké Pad ASC 198
+2 Night Stretcher ASC 196
+2 Crispin SCR 133
+4 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+2 Boss's Orders MEG 114
+3 Ultra Ball MEG 131
+2 Colress's Tenacity SFA 57
+4 Pokégear 3.0 SVI 186
+1 Unfair Stamp TWM 165
+2 Hilda WHT 84
+
+Energy: 3
+3 Basic {P} Energy MEE 5
+3 Basic {D} Energy MEE 7
+3 Telepathic {P} Energy POR 88
+
+Total Cards: 60

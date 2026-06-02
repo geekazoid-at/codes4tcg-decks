@@ -1,0 +1,23 @@
+Pokémon: 5
+4 Beldum TEF 113
+4 Metang TEF 114
+3 Cinccino ex CRI 73
+2 Genesect ex BLK 67
+3 Minccino CRI 72
+
+Trainer: 10
+4 Buddy-Buddy Poffin ASC 184
+2 Boss's Orders ASC 183
+2 Poké Pad ASC 198
+2 Night Stretcher ASC 196
+4 Lillie's Determination MEG 119
+4 Kofu SCR 138
+2 Energy Recycler DRI 164
+4 Pokégear 3.0 SVI 186
+1 Unfair Stamp TWM 165
+4 Ultra Ball ASC 213
+
+Energy: 1
+15 Basic {M} Energy SVE 16
+
+Total Cards: 60

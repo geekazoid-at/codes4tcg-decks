@@ -1,0 +1,31 @@
+Pokémon: 17
+3 Riolu PRE 50
+1 Riolu ASC 112
+3 Mega Lucario ex MEG 77
+2 Dunsparce JTG 120
+2 Dudunsparce TEF 129
+1 Dudunsparce ex JTG 121
+2 Solrock MEG 75
+2 Lunatone MEG 74
+1 Genesect SFA 40
+
+Trainer: 34
+4 Lillie's Determination MEG 119
+3 Boss's Orders MEG 114
+3 Hilda WHT 84
+2 Wally's Compassion MEG 132
+4 Fighting Gong MEG 116
+4 Premium Power Pro MEG 124
+4 Poké Pad POR 81
+2 Ultra Ball MEG 131
+2 Buddy-Buddy Poffin TEF 144
+1 Special Red Card CRI 82
+2 Air Balloon ASC 181
+1 Hero's Cape TEF 152
+2 Gravity Mountain SSP 177
+
+Energy: 9
+1 Basic {F} Energy SVE 6
+8 Basic {F} Energy SVE 6
+
+Total Cards: 60

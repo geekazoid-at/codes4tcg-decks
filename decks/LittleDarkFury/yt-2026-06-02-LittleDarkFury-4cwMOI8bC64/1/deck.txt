@@ -1,0 +1,43 @@
+Pokémon: 15
+2 Flareon ex PRE 146
+1 Leafeon ex PRE 144
+1 Chien-Pao SSP 56
+1 Fezandipiti ex ASC 288
+2 Eevee ex PRE 167
+1 Lillie's Clefairy ex ASC 280
+1 Meowth ex POR 121
+1 Eevee SSP 143
+1 Jolteon ex PRE 153
+1 Sylveon ex PRE 156
+1 Wellspring Mask Ogerpon ex TWM 213
+4 Hoothoot SCR 114
+4 Noctowl PRE 78
+2 Fan Rotom PRE 85
+1 Latias ex SSP 239
+
+Trainer: 16
+2 Boss's Orders RCL 189
+1 Briar SCR 163
+4 Crispin SCR 164
+1 Tera Orb SSP 189
+1 Lillie's Determination MEG 169
+2 Buddy-Buddy Poffin MEG 167
+1 Switch PFL 123
+3 Ultra Ball PLF 122
+1 Night Stretcher MEG 173
+1 Black Belt's Training ASC 255
+3 Area Zero Underdepths SCR 174
+3 Poké Pad POR 113
+1 Special Red Card CRI 113
+1 Sparkling Crystal PRE 129
+1 Cyrano SSP 230
+1 Glass Trumpet ASC 260
+
+Energy: 5
+3 Basic {R} Energy BUS 167
+1 Basic {G} Energy GRI 167
+1 Basic {L} Energy GRI 168
+2 Basic {W} Energy CIN 124
+2 Basic {P} Energy SUM 162
+
+Total Cards: 60
