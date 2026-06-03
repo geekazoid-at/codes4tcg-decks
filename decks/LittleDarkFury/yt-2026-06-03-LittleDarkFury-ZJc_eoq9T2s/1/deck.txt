@@ -1,0 +1,32 @@
+Pokémon: 10
+1 Chien-Pao SSP 56
+3 Dudunsparce TEF 129
+1 Buneary PFL 83
+1 Mega Lopunny ex PFL 128
+3 Litleo CRI 14
+3 Dunsparce JTG 120
+2 Mega Pyroar ex CRI 99
+2 Oricorio ex MEP 24
+1 Shaymin DRI 10
+1 Fan Rotom PRE 85
+
+Trainer: 14
+2 Boss's Orders RCL 189
+4 Lillie's Determination MEG 169
+1 Morty's Conviction TEF 201
+2 Air Balloon MEG 166
+4 Buddy-Buddy Poffin MEG 167
+1 Dawn PFL 129
+1 Maximum Belt TEF 154
+4 Ultra Ball PLF 122
+2 Pokégear 3.0 UNB 233
+1 Night Stretcher MEG 173
+2 Gravity Mountain SSP 250
+4 Wally's Compassion MEG 176
+4 Poké Pad POR 113
+1 Special Red Card CRI 113
+
+Energy: 1
+9 Basic {R} Energy BUS 167
+
+Total Cards: 60

@@ -1,0 +1,31 @@
+Pokémon: 21
+4 Ethan's Cyndaquil DRI 32
+4 Ethan's Quilava DRI 33
+3 Ethan's Typhlosion DRI 34
+3 Dreepy TWM 128
+3 Drakloak TWM 129
+2 Victini SSP 21
+1 Fezandipiti ex ASC 142
+1 Shaymin DRI 10
+
+Trainer: 34
+4 Ethan's Adventure DRI 165
+3 Lillie's Determination MEG 119
+2 Boss's Orders MEG 114
+1 Harlequin WHT 83
+1 Kieran TWM 154
+4 Poké Pad POR 81
+4 Ultra Ball MEG 131
+3 Buddy-Buddy Poffin TEF 144
+3 Night Stretcher ASC 196
+2 Rare Candy MEG 125
+1 Redeemable Ticket JTG 156
+1 Secret Box TWM 163
+1 Sacred Ash DRI 168
+2 Brave Bangle WHT 80
+2 Battle Cage PFL 85
+
+Energy: 5
+5 Basic {R} Energy SVE 2
+
+Total Cards: 60

@@ -1,0 +1,33 @@
+Pokémon: 9
+3 Hydrapple ex SCR 167
+3 Dipplin SCR 13
+2 Meganium MEP 1
+1 Fezandipiti ex SFA 84
+3 Chikorita MEG 8
+3 Teal Mask Ogerpon ex TWM 190
+1 Hydrapple DRI 188
+2 Bayleef MEG 9
+3 Applin TWM 17
+
+Trainer: 15
+1 Boss's Orders RCL 189
+2 Buddy-Buddy Poffin TWM 223
+4 Lillie's Determination MEG 184
+2 Dawn PFL 87
+1 Prime Catcher TEF 157
+2 Poké Pad ASC 198
+1 Pokégear 3.0 UNB 233
+1 Sacred Ash DRI 168
+4 Bug Catching Set PRE 102
+1 Night Stretcher SSP 251
+4 Forest of Vitality MEG 117
+2 Hilda WHT 84
+1 Ultra Ball BRS 186
+1 Team Rocket's Petrel DRI 226
+1 Air Balloon SSH 213
+
+Energy: 2
+9 Basic {G} Energy SVE 9
+2 Growing {G} Energy POR 86
+
+Total Cards: 60
