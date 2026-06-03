@@ -1,0 +1,34 @@
+Pokémon: 9
+1 Feebas TWM 49
+2 Latias ex SSP 76
+2 Jellicent ex WHT 45
+2 Skrelp CRI 58
+1 Milotic ex SSP 42
+2 Mega Kangaskhan ex MEP 25
+1 Mega Latias ex MEG 100
+3 Frillish WHT 44
+2 Mega Dragalge ex CRI 65
+
+Trainer: 14
+1 Judge SVI 176
+1 Precious Trolley SSP 185
+3 Enhanced Hammer TWM 148
+2 AZ's Tranquility CRI 76
+2 Perilous Jungle TEF 156
+1 Special Red Card CRI 82
+2 Night Stretcher ASC 196
+2 Handheld Fan TWM 150
+4 Crushing Hammer SVI 168
+4 Team Rocket's Petrel ASC 207
+2 Crispin PRE 105
+4 Lillie's Determination MEG 119
+2 Boss's Orders ASC 183
+4 Ultra Ball MEG 131
+
+Energy: 4
+2 Basic {R} Energy SVE 10
+3 Basic {D} Energy SVE 15
+2 Basic {W} Energy SVE 11
+3 Basic {P} Energy SVE 13
+
+Total Cards: 60

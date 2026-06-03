@@ -1,0 +1,33 @@
+Pokémon: 6
+1 Psyduck ASC 39
+3 Delphox CRI 13
+3 Delibird CRI 18
+2 Braixen CRI 12
+1 Fezandipiti ex SFA 38
+4 Fennekin CRI 11
+
+Trainer: 17
+1 Energy Retrieval WHT 82
+1 Iris's Fighting Spirit JTG 149
+3 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+1 Rosa's Encouragement POR 84
+4 Poké Pad POR 81
+1 Lana's Aid TWM 155
+2 Air Balloon BLK 79
+2 Battle Cage PFL 85
+2 Boss's Orders MEG 114
+1 Energy Recycler DRI 164
+1 Special Red Card CRI 82
+2 Lucky Helmet TWM 158
+1 Night Stretcher SFA 61
+1 Morty's Conviction TEF 155
+1 Firebreather PFL 89
+3 Rare Candy MEG 125
+
+Energy: 3
+13 Basic {R} Energy MEE 2
+1 Ignition Energy WHT 86
+1 Legacy Energy TWM 167
+
+Total Cards: 60
