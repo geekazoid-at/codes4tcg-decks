@@ -1,0 +1,31 @@
+Pokémon: 11
+2 Chesnaught CRI 7
+1 Maractus JTG 8
+3 Teal Mask Ogerpon ex TWM 25
+1 Celebi MEG 12
+2 Meganium MEG 10
+2 Bayleef MEG 9
+2 Chikorita MEG 8
+1 Fezandipiti ex ASC 142
+1 Meowth ex POR 62
+2 Chespin CRI 5
+2 Quilladin CRI 6
+
+Trainer: 12
+3 Forest of Vitality MEG 117
+4 Bug Catching Set TWM 143
+3 Dawn PFL 87
+3 Poké Pad POR 81
+1 Max Rod PRE 116
+1 Heavy Baton TEF 151
+1 Night Stretcher ASC 196
+1 Air Balloon BLK 79
+4 Lillie's Determination MEG 119
+3 Ultra Ball MEG 131
+2 Boss's Orders MEG 114
+3 Energy Switch MEG 115
+
+Energy: 1
+12 Basic {G} Energy MEE 1
+
+Total Cards: 60

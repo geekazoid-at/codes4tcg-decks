@@ -1,0 +1,32 @@
+Pokémon: 9
+4 Fennekin CRI 11
+2 Charmeleon PFL 12
+2 Mega Charizard X ex PFL 13
+1 Fezandipiti ex SFA 38
+2 Braixen CRI 12
+3 Charmander PFL 11
+2 Oricorio ex PFL 18
+1 Mega Charizard Y ex ASC 22
+2 Delphox CRI 13
+
+Trainer: 14
+1 Firebreather PFL 89
+2 Team Rocket's Petrel DRI 176
+3 Energy Retrieval SVI 171
+2 Pokégear 3.0 SVI 186
+1 Special Red Card CRI 82
+4 Poké Pad ASC 198
+2 Night Stretcher ASC 196
+2 Air Balloon BLK 79
+2 Colress's Tenacity SFA 57
+3 Rare Candy PAF 89
+1 Grand Tree SCR 136
+2 Lillie's Determination MEG 119
+4 Ultra Ball MEG 131
+2 Boss's Orders MEG 114
+
+Energy: 2
+8 Basic {R} Energy SVE 10
+2 Nitro {R} Energy CRI 86
+
+Total Cards: 60

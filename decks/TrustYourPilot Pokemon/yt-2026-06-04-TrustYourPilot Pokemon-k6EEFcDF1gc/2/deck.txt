@@ -1,0 +1,28 @@
+Pokémon: 7
+2 Bayleef MEG 9
+2 Chikorita MEG 8
+3 Mega Audino ex ASC 172
+3 Chespin CRI 5
+3 Quilladin CRI 6
+3 Chesnaught CRI 7
+2 Meganium MEG 10
+
+Trainer: 13
+3 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+3 Poké Pad POR 81
+2 Air Balloon BLK 79
+2 Boss's Orders MEG 114
+1 Special Red Card CRI 82
+3 Forest of Vitality MEG 117
+3 Ultra Ball MEG 131
+2 Heavy Baton TEF 151
+3 Dawn PFL 87
+1 Unfair Stamp TWM 165
+2 Surfer SSP 187
+1 Sacred Ash DRI 168
+
+Energy: 1
+12 Basic {G} Energy MEE 1
+
+Total Cards: 60

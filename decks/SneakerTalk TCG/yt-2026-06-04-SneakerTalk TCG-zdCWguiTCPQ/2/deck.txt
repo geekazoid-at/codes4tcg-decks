@@ -1,0 +1,33 @@
+Pokémon: 9
+2 Lunatone ASC 105
+1 Mega Lucario ex MEG 179
+1 Meowth ex POR 121
+3 Riolu MEP 10
+1 Makuhita MEP 68
+3 Solrock ASC 106
+2 Mega Lucario ex MEG 188
+1 Makuhita MEG 72
+2 Hariyama MEG 73
+
+Trainer: 14
+2 Boss's Orders PAL 265
+1 Black Belt's Training ASC 255
+4 Fighting Gong MEG 168
+4 Premium Power Pro MEG 174
+2 Gravity Mountain SSP 250
+4 Ultra Ball BRS 186
+3 Air Balloon SSH 213
+2 Judge SIT-TG 25
+1 Special Red Card CRI 113
+1 Unfair Stamp TWM 165
+1 Team Rocket's Petrel DRI 226
+4 Poké Pad POR 113
+4 Lillie's Determination MEG 184
+1 Wally's Compassion MEG 186
+
+Energy: 3
+2 Basic {F} Energy CRE 233
+7 Basic {F} Energy GRI 169
+1 Rocky {F} Energy POR 87
+
+Total Cards: 60
