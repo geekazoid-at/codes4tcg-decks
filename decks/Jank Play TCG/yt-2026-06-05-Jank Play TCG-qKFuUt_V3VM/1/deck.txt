@@ -1,0 +1,27 @@
+Pokémon: 5
+2 Meowth ex POR 62
+1 Shaymin DRI 10
+4 Tatsugiri TWM 131
+3 Skrelp CRI 58
+3 Mega Dragalge ex CRI 118
+
+Trainer: 13
+2 Buddy-Buddy Poffin ASC 184
+3 Crispin PRE 105
+4 Judge SVI 176
+2 Night Stretcher ASC 196
+4 Lillie's Determination MEG 119
+2 Boss's Orders MEG 114
+2 Thick Scale ASC 211
+3 Air Balloon SSH 156
+4 Perilous Jungle TEF 156
+1 Scoop Up Cyclone TWM 162
+4 Ultra Ball ASC 213
+4 Enhanced Hammer TWM 148
+4 Dragon Elixir SSP 172
+
+Energy: 2
+4 Basic {D} Energy MEE 7
+4 Basic {W} Energy MEE 3
+
+Total Cards: 60
