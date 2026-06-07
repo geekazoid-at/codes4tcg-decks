@@ -1,0 +1,19 @@
+Pokémon: 4
+2 Mantine MEG 32
+4 Bergmite CRI 23
+2 Kyogre MEG 34
+4 Avalugg CRI 24
+
+Trainer: 7
+4 Larry's Skill PRE 115
+4 Team Rocket's Transceiver DRI 178
+1 Hyper Aroma TWM 152
+2 Lana's Aid TWM 155
+2 Poké Pad POR 81
+4 Team Rocket's Petrel DRI 176
+3 Surfing Beach MEG 129
+
+Energy: 1
+28 Basic {W} Energy MEE 3
+
+Total Cards: 60

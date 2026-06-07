@@ -1,0 +1,26 @@
+Pokémon: 6
+1 Meowth ex POR 62
+3 Solrock MEG 75
+2 Drilbur TEF 85
+2 Lunatone MEG 74
+3 Ceruledge ex SSP 36
+4 Charcadet SSP 32
+
+Trainer: 10
+4 Lillie's Determination MEG 169
+2 Night Stretcher SSP 251
+3 Boss's Orders MEG 114
+4 Fighting Gong MEG 116
+4 Ultra Ball MEG 131
+1 Prism Tower CRI 111
+1 Special Red Card CRI 113
+2 Area Zero Underdepths SCR 174
+4 Poké Pad POR 113
+2 Carmine TWM 145
+
+Energy: 3
+13 Basic {F} Energy SVE 22
+4 Basic {R} Energy SVE 18
+1 Legacy Energy TWM 167
+
+Total Cards: 60
