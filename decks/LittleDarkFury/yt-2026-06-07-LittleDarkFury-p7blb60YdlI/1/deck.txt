@@ -1,0 +1,29 @@
+Pokémon: 8
+2 Solrock ASC 106
+1 Charcadet PFL 19
+2 Lunatone ASC 105
+1 Meowth ex POR 121
+1 Fezandipiti ex ASC 288
+3 Ceruledge ex PRE 147
+1 Drilbur TEF 85
+3 Charcadet SSP 32
+
+Trainer: 10
+4 Ultra Ball PLF 122
+1 Briar SCR 171
+3 Night Stretcher MEG 173
+3 Fighting Gong MEG 168
+2 Lillie's Determination MEG 169
+2 Prism Tower CRI 111
+1 Special Red Card CRI 113
+4 Poké Pad POR 113
+4 Carmine TWM 204
+2 Boss's Orders RCL 189
+
+Energy: 4
+2 Mist Energy TEF 161
+6 Basic {R} Energy BUS 167
+1 Legacy Energy TWM 167
+11 Basic {F} Energy GRI 169
+
+Total Cards: 60
