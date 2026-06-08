@@ -1,0 +1,28 @@
+Pokémon: 22
+4 Weedle CRI 1
+4 Kakuna CRI 2
+4 Beedrill ex CRI 3
+2 Petilil BLK 6
+2 Lilligant JTG 7
+3 Dunsparce JTG 120
+2 Dudunsparce PRE 80
+1 Budew ASC 16
+
+Trainer: 32
+4 Buddy-Buddy Poffin ASC 184
+4 Bug Catching Set PRE 102
+3 Poké Pad POR 81
+2 Ultra Ball ASC 213
+1 Night Stretcher ASC 196
+1 Max Rod PRE 116
+1 Air Balloon ASC 181
+4 Forest of Vitality ASC 188
+4 Lillie's Determination ASC 192
+3 Dawn PFL 87
+3 Boss's Orders ASC 183
+2 Drayton SSP 174
+
+Energy: 6
+6 Basic {G} Energy SVE 1
+
+Total Cards: 60
