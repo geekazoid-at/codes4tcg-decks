@@ -1,0 +1,32 @@
+Pokémon: 12
+2 Mega Dragonite ex ASC 290
+2 Dragonair ASC 151
+3 Dratini ASC 150
+4 Tynamo ASC 59
+1 Mega Eelektross ex ASC 278
+3 Eelektrik ASC 60
+2 N's Zoroark ex JTG 185
+2 N's Zorua ASC 136
+1 Meowth ex POR 121
+1 Rayquaza ASC 153
+1 Budew ASC 221
+1 Wellspring Mask Ogerpon ex TWM 213
+
+Trainer: 11
+1 Air Balloon MEG 166
+3 Boss's Orders RCL 189
+4 Buddy-Buddy Poffin MEG 167
+3 Crispin SCR 164
+4 Lillie's Determination MEG 169
+1 Night Stretcher MEG 173
+4 Poké Pad POR 113
+1 Rare Candy PLB 105
+4 Ultra Ball PLF 122
+1 Unfair Stamp TWM 165
+1 Powerglass SFA 97
+
+Energy: 2
+6 Basic {L} Energy GRI 168
+4 Basic {W} Energy CIN 124
+
+Total Cards: 60
