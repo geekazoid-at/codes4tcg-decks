@@ -1,0 +1,32 @@
+Pokémon: 10
+1 Meowth ex POR 62
+4 Beldum TEF 113
+4 Metang TEF 114
+1 Shaymin DRI 10
+1 Heatran TWM 123
+1 Steven's Skarmory DRI 142
+2 Genesect ex BLK 67
+1 Regigigas PRE 86
+1 Fezandipiti ex ASC 142
+2 Metagross CRI 61
+
+Trainer: 14
+2 Night Stretcher ASC 196
+1 Buddy-Buddy Poffin TEF 144
+1 Gravity Mountain SSP 177
+1 Battle Cage PFL 85
+1 Boss's Orders MEG 114
+2 Energy Recycler DRI 164
+1 Special Red Card CRI 82
+1 Brave Bangle WHT 80
+3 Ultra Ball MEG 131
+2 Judge POR 76
+4 Team Rocket's Petrel DRI 176
+1 Precious Trolley SSP 185
+4 Team Rocket's Transceiver DRI 178
+1 Philippe CRI 79
+
+Energy: 1
+17 Basic {M} Energy MEE 8
+
+Total Cards: 60
