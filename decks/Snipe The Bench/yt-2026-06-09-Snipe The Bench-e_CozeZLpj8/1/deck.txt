@@ -1,0 +1,29 @@
+Pokémon: 8
+3 Mega Gengar ex PFL 56
+3 Gastly ASC 123
+1 Pecharunt ex SFA 39
+3 Toxtricity PFL 68
+2 Haunter POR 49
+1 Fezandipiti ex ASC 142
+3 Seviper PFL 62
+3 Toxel PFL 67
+
+Trainer: 13
+4 Buddy-Buddy Poffin ASC 184
+2 Risky Ruins MEG 127
+1 Air Balloon ASC 181
+4 Poké Pad ASC 198
+3 Night Stretcher ASC 196
+4 Lillie's Determination MEG 119
+4 Grimsley's Move PFL 90
+2 Energy Recycler DRI 164
+2 Boss's Orders MEG 114
+1 Special Red Card CRI 82
+3 Pokégear 3.0 SVI 186
+1 Secret Box TWM 163
+1 Rare Candy MEG 125
+
+Energy: 1
+9 Basic {D} Energy SVE 15
+
+Total Cards: 60
