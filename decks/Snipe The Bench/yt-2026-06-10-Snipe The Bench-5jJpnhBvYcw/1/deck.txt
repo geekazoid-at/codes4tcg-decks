@@ -1,0 +1,33 @@
+Pokémon: 7
+2 Skrelp CRI 58
+3 Froakie CRI 20
+2 Mega Dragalge ex CRI 65
+1 Fezandipiti ex ASC 142
+2 Mega Greninja ex CRI 22
+2 Budew ASC 16
+2 Frogadier CRI 21
+
+Trainer: 17
+4 Buddy-Buddy Poffin ASC 184
+2 Air Balloon ASC 181
+2 Poké Pad ASC 198
+2 Night Stretcher ASC 196
+2 Nighttime Mine ASC 197
+2 Crispin SCR 133
+1 Energy Retrieval SVI 171
+4 Lillie's Determination MEG 119
+1 Mega Signal ASC 193
+1 Rosa's Encouragement POR 84
+1 Special Red Card CRI 82
+3 Pokégear 3.0 SVI 186
+1 Secret Box TWM 163
+4 Team Rocket's Petrel DRI 176
+1 Boss's Orders MEG 114
+4 Enhanced Hammer TWM 148
+1 Rare Candy MEG 125
+
+Energy: 2
+7 Basic {W} Energy SVE 11
+3 Basic {D} Energy SVE 15
+
+Total Cards: 60

@@ -1,0 +1,36 @@
+Pokémon: 12
+2 Sealeo SSP 44
+1 Fezandipiti ex SFA 92
+2 Dunsparce JTG 120
+3 Walrein SSP 45
+3 Spheal SSP 199
+2 Dudunsparce PRE 80
+1 Psyduck ASC 226
+1 Shaymin DRI 185
+2 Wurmple ASC 11
+2 Cascoon ASC 14
+2 Dustox ASC 220
+1 Budew PRE 4
+
+Trainer: 15
+3 Kofu SCR 165
+3 Lillie's Determination MEG 169
+2 Energy Swatter POR 73
+2 Buddy-Buddy Poffin MEG 167
+2 Rare Candy SVI 256
+3 Crushing Hammer SUM 115
+2 Boss's Orders ASC 256
+3 Poké Pad POR 113
+1 Judge FST 235
+1 Neutralization Zone SFA 60
+3 Battle Cage PFL 116
+1 Enhanced Hammer GRI 124
+2 Switch SUM 132
+1 Air Balloon MEG 166
+1 Lana's Aid TWM 207
+
+Energy: 2
+4 Basic {W} Energy CRZ 154
+4 Basic {W} Energy SVE 3
+
+Total Cards: 60

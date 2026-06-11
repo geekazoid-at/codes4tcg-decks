@@ -1,0 +1,33 @@
+Pokémon: 9
+3 Snorunt ASC 46
+2 Phantump CRI 38
+2 Trevenant CRI 39
+1 Maractus JTG 8
+3 Froslass TWM 53
+1 Shaymin DRI 10
+2 Budew ASC 221
+3 Uxie SSP 78
+3 Munkidori ASC 99
+
+Trainer: 14
+3 Boss's Orders RCL 189
+1 Lana's Aid TWM 207
+2 Hassel TWM 205
+2 Crispin SCR 164
+2 Team Rocket's Watchtower DRI 180
+4 Lillie's Determination MEG 169
+1 Morty's Conviction TEF 201
+1 Air Balloon MEG 166
+4 Buddy-Buddy Poffin MEG 167
+2 Night Stretcher MEG 173
+4 Poké Pad POR 113
+2 Wondrous Patch POR 117
+2 Special Red Card CRI 113
+1 Neutralization Zone SFA 60
+
+Energy: 3
+3 Basic {D} Energy BUS 168
+1 Telepathic {P} Energy POR 88
+5 Basic {P} Energy SUM 162
+
+Total Cards: 60
