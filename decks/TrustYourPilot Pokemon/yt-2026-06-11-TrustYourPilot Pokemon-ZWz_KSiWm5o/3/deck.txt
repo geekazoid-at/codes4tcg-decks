@@ -1,0 +1,36 @@
+Pokémon: 8
+3 Snorunt ASC 46
+2 Munkidori TWM 95
+3 Baltoy CRI 46
+1 Mega Froslass ex ASC 47
+3 Froslass TWM 53
+2 Budew PRE 4
+3 Claydol CRI 47
+1 Ting-Lu TWM 110
+
+Trainer: 16
+1 Accompanying Flute TWM 142
+1 Iris's Fighting Spirit JTG 149
+4 Poké Pad POR 81
+1 Morty's Conviction TEF 155
+2 Night Stretcher SFA 61
+4 Risky Ruins MEG 127
+1 Special Red Card CRI 82
+2 Air Balloon BLK 79
+1 Judge POR 76
+2 Lucky Helmet TWM 158
+1 Hilda WHT 84
+2 Crispin SCR 133
+4 Buddy-Buddy Poffin TEF 144
+1 Brave Bangle WHT 80
+4 Lillie's Determination MEG 119
+2 Boss's Orders MEG 114
+
+Energy: 5
+1 Legacy Energy TWM 167
+2 Basic {D} Energy MEE 7
+4 Basic {F} Energy MEE 6
+1 Basic {W} Energy MEE 3
+1 Rocky {F} Energy POR 87
+
+Total Cards: 60

@@ -1,0 +1,32 @@
+Pokémon: 9
+3 Solrock MEG 75
+1 Shaymin DRI 10
+1 Psyduck ASC 39
+1 Patrat CRI 70
+2 Lunatone MEG 74
+1 Fezandipiti ex SFA 38
+3 Claydol CRI 47
+2 Bloodmoon Ursaluna SFA 25
+3 Baltoy CRI 46
+
+Trainer: 14
+1 Iris's Fighting Spirit JTG 149
+4 Lillie's Determination MEG 119
+4 Poké Pad POR 81
+2 Air Balloon BLK 79
+1 Battle Cage PFL 85
+2 Boss's Orders MEG 114
+4 Fighting Gong MEG 116
+3 Brave Bangle WHT 80
+2 Night Stretcher SFA 61
+2 Morty's Conviction TEF 155
+1 Team Rocket's Watchtower DRI 180
+1 Unfair Stamp TWM 165
+2 Tarragon POR 85
+4 Premium Power Pro MEG 124
+
+Energy: 2
+8 Basic {F} Energy MEE 6
+2 Rocky {F} Energy POR 87
+
+Total Cards: 60

@@ -1,0 +1,29 @@
+Pokémon: 8
+2 Solrock MEG 75
+2 Munkidori TWM 95
+2 Lunatone MEG 74
+1 Fezandipiti ex SFA 38
+1 Ting-Lu TWM 110
+3 Claydol CRI 47
+1 Bloodmoon Ursaluna SFA 25
+3 Baltoy CRI 46
+
+Trainer: 12
+4 Risky Ruins MEG 127
+2 Crispin SCR 133
+4 Lillie's Determination MEG 119
+4 Poké Pad POR 81
+2 Boss's Orders MEG 114
+4 Fighting Gong MEG 116
+3 Brave Bangle WHT 80
+2 Night Stretcher SFA 61
+1 Unfair Stamp TWM 165
+2 Tarragon POR 85
+2 Hilda WHT 84
+4 Premium Power Pro MEG 124
+
+Energy: 2
+2 Basic {D} Energy MEE 7
+9 Basic {F} Energy MEE 6
+
+Total Cards: 60
