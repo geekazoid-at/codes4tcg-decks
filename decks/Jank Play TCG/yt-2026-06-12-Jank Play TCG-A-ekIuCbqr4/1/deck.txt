@@ -1,0 +1,30 @@
+Pokémon: 9
+1 Cinccino ex CRI 73
+1 Patrat CRI 70
+1 Cinccino ex CRI 119
+2 Dewgong POR 19
+4 Minccino CRI 72
+3 Team Rocket's Tarountula ASC 18
+2 Seel POR 18
+2 Cinccino ex CRI 105
+3 Team Rocket's Spidops DRI 20
+
+Trainer: 13
+3 Buddy-Buddy Poffin ASC 184
+1 Boss's Orders ASC 183
+3 Powerglass SFA 63
+2 Air Balloon ASC 181
+3 Poké Pad ASC 198
+2 Energy Retrieval SVI 171
+4 Lillie's Determination MEG 119
+1 Prism Tower CRI 80
+1 Lana's Aid TWM 155
+1 Prime Catcher PRE 119
+3 Pokégear 3.0 SVI 186
+3 Ultra Ball ASC 213
+4 Carmine TWM 145
+
+Energy: 1
+10 Basic {W} Energy SVE 3
+
+Total Cards: 60

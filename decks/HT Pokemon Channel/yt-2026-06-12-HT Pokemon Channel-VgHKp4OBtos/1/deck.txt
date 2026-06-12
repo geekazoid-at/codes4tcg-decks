@@ -1,0 +1,27 @@
+Pokémon: 15
+4 Froakie CRI 20
+2 Mega Greninja ex CRI 22
+2 Mega Absol ex MEG 86
+3 Mega Kangaskhan ex MEG 104
+2 Munkidori ASC 99
+1 Latias ex SSP 76
+1 Psyduck ASC 39
+
+Trainer: 31
+4 Mega Signal ASC 193
+3 Ultra Ball ASC 213
+3 Rare Candy MEG 125
+3 Switch MEG 130
+2 Night Stretcher ASC 196
+1 Prime Catcher PRE 119
+2 Air Balloon ASC 181
+2 Lively Stadium SSP 180
+4 Crispin PRE 105
+4 Lillie's Determination ASC 192
+3 Boss's Orders ASC 183
+
+Energy: 14
+8 Basic {W} Energy SVE 3
+6 Basic {D} Energy SVE 7
+
+Total Cards: 60
