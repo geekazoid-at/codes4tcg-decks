@@ -1,0 +1,38 @@
+Pokémon: 10
+3 Sandile BLK 57
+2 Krokorok BLK 58
+2 Munkidori TWM 95
+1 Fezandipiti ex SFA 38
+1 Team Rocket's Sneasel DRI 128
+3 Toxel MEP 78
+3 Toxtricity PFL 68
+1 Pecharunt ex SFA 39
+2 Krookodile ex CRI 55
+1 Krookodile PFL 66
+
+Trainer: 20
+1 Punk Helmet PFL 92
+1 Team Rocket's Watchtower DRI 180
+1 Iris's Fighting Spirit JTG 149
+3 Poké Pad POR 81
+1 Counter Gain SSP 169
+1 Hero's Cape TEF 152
+1 Energy Recycler DRI 164
+1 Morty's Conviction TEF 155
+2 Night Stretcher SFA 61
+2 Rare Candy MEG 125
+1 Risky Ruins MEG 127
+1 Air Balloon BLK 79
+1 Binding Mochi SFA 55
+1 Janine's Secret Art SFA 59
+3 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+3 Ultra Ball MEG 131
+2 Boss's Orders MEG 114
+1 Energy Switch MEG 115
+1 Gravity Mountain SSP 177
+
+Energy: 1
+9 Basic {D} Energy MEE 7
+
+Total Cards: 60

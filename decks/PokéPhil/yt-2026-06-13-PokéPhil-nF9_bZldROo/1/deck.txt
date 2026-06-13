@@ -1,0 +1,30 @@
+Pokémon: 8
+2 Drakloak PRE 72
+2 Dreepy TWM 128
+3 Pumpkaboo CRI 40
+2 Latias ex SSP 76
+2 Banette JTG 60
+1 Lillie's Clefairy ex JTG 56
+3 Gourgeist ex CRI 41
+2 Shuppet JTG 59
+
+Trainer: 13
+3 Buddy-Buddy Poffin ASC 184
+3 Xerosic's Machinations SFA 64
+4 Poké Pad ASC 198
+4 Lillie's Determination MEG 119
+2 Handheld Fan TWM 150
+3 Boss's Orders MEG 114
+1 Special Red Card CRI 82
+3 Ultra Ball MEG 131
+3 Pokégear 3.0 SVI 186
+1 Unfair Stamp TWM 165
+1 Team Rocket's Petrel DRI 176
+2 Wondrous Patch PFL 94
+3 Team Rocket's Watchtower ASC 210
+
+Energy: 2
+4 Telepathic {P} Energy POR 88
+6 Basic {P} Energy SVE 21
+
+Total Cards: 60

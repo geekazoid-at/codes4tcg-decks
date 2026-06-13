@@ -1,0 +1,31 @@
+Pokémon: 8
+1 Meowth ex POR 62
+2 Mega Mawile ex MEG 94
+1 Audino BLK 74
+3 Dusclops SFA 19
+1 Latias ex SSP 76
+4 Duskull SFA 18
+1 Flutter Mane TEF 78
+3 Dusknoir SFA 20
+
+Trainer: 15
+1 Iris's Fighting Spirit JTG 149
+4 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+2 Full Metal Lab TEF 148
+4 Poké Pad POR 81
+2 Boss's Orders MEG 114
+2 Special Red Card CRI 82
+3 Night Stretcher SFA 61
+2 Naveen POR 79
+3 Ultra Ball MEG 131
+1 Prime Catcher TEF 157
+1 Morty's Conviction TEF 155
+2 Accompanying Flute TWM 142
+3 Rare Candy MEG 125
+2 Philippe CRI 79
+
+Energy: 1
+8 Basic {M} Energy MEE 8
+
+Total Cards: 60
