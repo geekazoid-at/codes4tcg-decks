@@ -1,0 +1,26 @@
+Pokémon: 6
+4 Charcadet SSP 32
+3 Ceruledge ex SSP 36
+2 Lunatone MEG 74
+2 Solrock MEG 75
+1 Fezandipiti ex ASC 142
+1 Meowth ex POR 62
+
+Trainer: 11
+2 Prism Tower CRI 80
+1 Briar SCR 132
+4 Carmine TWM 145
+3 Explorer's Guidance TEF 147
+3 Boss's Orders MEG 114
+4 Poké Pad POR 81
+3 Fighting Gong MEG 116
+3 Night Stretcher ASC 196
+3 Ultra Ball MEG 131
+1 Brilliant Blender SSP 164
+1 Special Red Card CRI 82
+
+Energy: 2
+13 Basic {F} Energy MEE 6
+6 Basic {R} Energy MEE 2
+
+Total Cards: 60
