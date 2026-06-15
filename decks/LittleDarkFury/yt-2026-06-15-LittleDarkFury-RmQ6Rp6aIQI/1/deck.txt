@@ -1,0 +1,27 @@
+Pokémon: 7
+3 Yanmega ex DRI 228
+1 Fan Rotom ASC 171
+2 Dudunsparce PRE 80
+4 Yanma DRI 183
+4 Dunsparce JTG 120
+1 Dudunsparce PRE 80
+1 Dudunsparce ex JTG 178
+
+Trainer: 11
+3 Boss's Orders RCL 189
+2 Kofu SCR 165
+4 Crushing Hammer UPR 166
+4 Lillie's Determination MEG 169
+4 Nighttime Mine ASC 197
+4 Buddy-Buddy Poffin MEG 167
+1 Energy Recycler POR 108
+4 Ultra Ball PLF 122
+4 Poké Pad POR 113
+2 Handheld Fan TWM 150
+1 Scoop Up Cyclone PRE 128
+
+Energy: 2
+8 Basic {G} Energy GRI 167
+3 Mist Energy TEF 161
+
+Total Cards: 60
