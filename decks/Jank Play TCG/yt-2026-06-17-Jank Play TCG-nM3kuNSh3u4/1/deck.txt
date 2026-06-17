@@ -1,0 +1,38 @@
+Pokémon: 12
+1 Meowth ex POR 62
+1 Feraligatr TEF 41
+3 Totodile TEF 39
+1 Latias ex SSP 220
+2 Munkidori TWM 95
+1 Chien-Pao SSP 56
+3 Hoothoot SCR 114
+3 Noctowl SCR 115
+2 Mega Feraligatr ex ASC 43
+1 Fan Rotom SCR 118
+1 Croconaw TEF 40
+2 Wellspring Mask Ogerpon ex TWM 64
+
+Trainer: 16
+3 Buddy-Buddy Poffin ASC 184
+1 Brock's Scouting JTG 146
+2 Crispin PRE 105
+3 Poké Pad ASC 198
+2 Rare Candy SVI 191
+2 Night Stretcher ASC 196
+1 Energy Switch SVI 173
+4 Lillie's Determination ASC 192
+1 Rosa's Encouragement POR 84
+1 Team Rocket's Venture Bomb DRI 179
+2 Boss's Orders MEG 114
+1 Switch MEG 130
+3 Ultra Ball MEG 131
+2 Area Zero Underdepths PRE 94
+1 Dawn PFL 87
+2 Hilda WHT 84
+
+Energy: 3
+3 Basic {D} Energy SVE 7
+4 Basic {W} Energy SVE 3
+1 Neo Upper Energy TEF 162
+
+Total Cards: 60

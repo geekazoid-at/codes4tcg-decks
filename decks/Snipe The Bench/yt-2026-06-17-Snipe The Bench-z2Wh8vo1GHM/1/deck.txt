@@ -1,0 +1,29 @@
+Pokémon: 7
+4 Bronzong TEF 69
+1 Hydreigon ex SSP 119
+2 Zweilous SSP 118
+3 Deino SSP 117
+1 Fezandipiti ex SFA 38
+4 Bronzor PRE 66
+2 Hydreigon ex WHT 67
+
+Trainer: 12
+4 Buddy-Buddy Poffin ASC 184
+3 Boss's Orders ASC 183
+3 Poké Pad ASC 198
+2 Nighttime Mine ASC 197
+1 Judge POR 76
+4 Lillie's Determination ASC 192
+2 Crispin SCR 133
+2 Air Balloon MEG 166
+3 Pokégear 3.0 SVI 186
+1 Maximum Belt TEF 154
+4 Morty's Conviction TEF 155
+2 Ultra Ball ASC 213
+
+Energy: 3
+6 Basic {D} Energy SVE 15
+4 Basic {P} Energy SVE 13
+2 Basic {M} Energy SVE 16
+
+Total Cards: 60

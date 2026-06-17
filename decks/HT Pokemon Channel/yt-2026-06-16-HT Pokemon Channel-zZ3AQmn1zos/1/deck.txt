@@ -1,0 +1,17 @@
+Pokémon: 10
+4 Bergmite CRI 23
+4 Avalugg CRI 24
+2 Kyogre MEG 34
+
+Trainer: 21
+4 Poké Pad POR 81
+4 Team Rocket's Transceiver ASC 209
+1 Precious Trolley SSP 185
+4 Surfing Beach MEG 129
+4 Team Rocket's Petrel ASC 207
+4 Lana's Aid TWM 155
+
+Energy: 29
+29 Basic {W} Energy SVE 3
+
+Total Cards: 60

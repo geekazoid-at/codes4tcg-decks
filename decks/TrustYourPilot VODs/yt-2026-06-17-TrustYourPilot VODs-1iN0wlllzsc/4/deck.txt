@@ -1,0 +1,33 @@
+Pokémon: 11
+2 Solrock MEG 75
+3 Mankey DRI 90
+2 Primeape DRI 91
+2 Annihilape DRI 92
+1 Shaymin DRI 10
+1 Relicanth TEF 84
+1 Patrat CRI 70
+3 Delibird CRI 18
+2 Lunatone MEG 74
+1 Annihilape SSP 100
+1 Bloodmoon Ursaluna SFA 25
+
+Trainer: 14
+4 Risky Ruins MEG 127
+1 Energy Retrieval WHT 82
+1 Iris's Fighting Spirit JTG 149
+4 Lillie's Determination MEG 119
+4 Poké Pad POR 81
+2 Air Balloon BLK 79
+2 Boss's Orders MEG 114
+4 Fighting Gong MEG 116
+2 Brave Bangle WHT 80
+2 Night Stretcher SFA 61
+1 Morty's Conviction TEF 155
+1 Unfair Stamp TWM 165
+1 Tarragon POR 85
+2 Rare Candy MEG 125
+
+Energy: 1
+10 Basic {F} Energy MEE 6
+
+Total Cards: 60

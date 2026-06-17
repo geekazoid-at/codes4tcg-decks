@@ -1,0 +1,32 @@
+Pokémon: 12
+1 Tapu Bulu SFA 6
+1 Meowth ex POR 62
+2 Bayleef MEG 9
+2 Chikorita MEG 8
+4 Teal Mask Ogerpon ex PRE 12
+2 Hydrapple ex SCR 14
+2 Dipplin TWM 18
+2 Applin SCR 12
+1 Fezandipiti ex ASC 142
+1 Iron Leaves ex TEF 25
+2 Meganium MEG 10
+2 Celebi MEG 12
+
+Trainer: 12
+2 Boss's Orders ASC 183
+1 Poké Pad ASC 198
+2 Night Stretcher ASC 196
+1 Briar SCR 132
+4 Lillie's Determination ASC 192
+1 Lana's Aid TWM 155
+2 Dawn PFL 87
+1 Unfair Stamp TWM 165
+3 Ultra Ball ASC 213
+4 Bug Catching Set TWM 143
+1 Festival Grounds PRE 108
+3 Forest of Vitality ASC 188
+
+Energy: 1
+13 Basic {G} Energy SVE 1
+
+Total Cards: 60
