@@ -1,0 +1,35 @@
+Pokémon: 9
+2 Frogadier CRI 21
+3 Thwackey TWM 15
+1 Greninja ex TWM 106
+3 Mega Greninja ex CRI 22
+4 Froakie CRI 20
+3 Grookey TWM 14
+2 Goldeen TWM 44
+1 Seaking PRE 21
+1 Shaymin DRI 10
+
+Trainer: 17
+4 Poké Pad POR 81
+1 Energy Retrieval SVI 171
+3 Surfing Beach MEG 129
+1 Dawn PFL 129
+2 Rare Candy MEG 125
+1 Special Red Card CRI 82
+1 Night Stretcher ASC 196
+3 Hilda WHT 84
+4 Buddy-Buddy Poffin TEF 144
+1 Xerosic's Machinations SFA 89
+2 Lillie's Determination MEG 119
+1 Festival Grounds PRE 108
+1 Switch MEG 130
+2 Ultra Ball MEG 131
+3 Air Balloon ASC 181
+1 Wally's Compassion MEG 132
+2 Boss's Orders MEG 114
+
+Energy: 2
+6 Basic {W} Energy MEE 3
+1 Neo Upper Energy TEF 162
+
+Total Cards: 60
