@@ -1,0 +1,35 @@
+Pokémon: 22
+4 Deino SSP 117
+2 Zweilous SSP 118
+3 Hydreigon ex SSP 119
+3 Dunsparce TEF 128
+2 Dudunsparce TEF 129
+1 Dudunsparce ex JTG 121
+2 Meowth ex POR 62
+1 Munkidori TWM 95
+1 Fezandipiti ex ASC 142
+1 Budew ASC 16
+1 Pecharunt ex SFA 39
+1 Yveltal MEG 88
+
+Trainer: 28
+4 Lillie's Determination MEG 119
+2 Crispin SCR 133
+2 Hilda WHT 84
+2 Boss's Orders MEG 114
+1 Team Rocket's Petrel DRI 176
+4 Buddy-Buddy Poffin TEF 144
+3 Rare Candy MEG 125
+3 Ultra Ball MEG 131
+3 Poké Pad POR 81
+1 Night Stretcher ASC 196
+1 Counter Gain SSP 169
+2 Battle Cage PFL 85
+
+Energy: 10
+5 Basic {D} Energy SVE 7
+2 Basic {M} Energy SVE 8
+2 Basic {P} Energy SVE 5
+1 Neo Upper Energy TEF 162
+
+Total Cards: 60
