@@ -1,0 +1,29 @@
+Pokémon: 21
+4 Froakie CRI 20
+4 Frogadier CRI 21
+3 Mega Greninja ex CRI 22
+2 Greninja ex TWM 106
+4 Dunsparce JTG 120
+2 Dudunsparce PRE 80
+1 Dudunsparce ex JTG 121
+1 Budew ASC 16
+
+Trainer: 29
+4 Buddy-Buddy Poffin ASC 184
+4 Poké Pad POR 81
+4 Rare Candy MEG 125
+2 Ultra Ball ASC 213
+1 Night Stretcher ASC 196
+1 Energy Retrieval WHT 82
+2 Surfing Beach MEG 129
+4 Lillie's Determination ASC 192
+3 Hilda WHT 84
+2 Wally's Compassion MEG 132
+2 Boss's Orders ASC 183
+
+Energy: 10
+1 Neo Upper Energy TEF 162
+2 Ignition Energy WHT 86
+7 Basic {W} Energy SVE 3
+
+Total Cards: 60
