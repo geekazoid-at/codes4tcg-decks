@@ -1,0 +1,28 @@
+Pokémon: 4
+4 Spiritomb MEG 87
+3 Team Rocket's Chingling DRI 85
+3 Mega Scrafty ex ASC 135
+3 Scraggy WHT 57
+
+Trainer: 15
+4 Buddy-Buddy Poffin ASC 184
+1 Boss's Orders ASC 183
+3 Crispin PRE 105
+4 Xerosic's Machinations SFA 64
+2 Judge SVI 176
+1 Eri TEF 146
+4 Lillie's Determination ASC 192
+1 Deluxe Bomb SCR 134
+4 Crushing Hammer POR 71
+4 Punk Helmet PFL 92
+1 Wally's Compassion MEG 132
+2 Pokégear 3.0 SVI 186
+2 Poké Pad POR 113
+1 Team Rocket's Watchtower ASC 210
+3 Enhanced Hammer TWM 148
+
+Energy: 2
+7 Basic {D} Energy SVE 15
+3 Basic {P} Energy SVE 13
+
+Total Cards: 60
