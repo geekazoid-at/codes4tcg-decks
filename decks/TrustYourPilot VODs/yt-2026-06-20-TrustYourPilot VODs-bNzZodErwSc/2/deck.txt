@@ -1,0 +1,32 @@
+Pokémon: 11
+2 Meowth ex POR 62
+2 Solrock MEG 75
+2 Terapagos ex SCR 128
+2 Mega Zygarde ex POR 47
+2 Latias ex SSP 76
+2 Lunatone MEG 74
+1 Sudowoodo CRI 43
+1 Fezandipiti ex SFA 38
+1 Cornerstone Mask Ogerpon ex TWM 112
+2 Mega Kangaskhan ex MEG 104
+1 Bloodmoon Ursaluna SFA 25
+
+Trainer: 13
+2 Iris's Fighting Spirit JTG 149
+4 Lillie's Determination MEG 119
+4 Transformation Tome CRI 83
+4 Glass Trumpet SCR 135
+2 Prism Tower CRI 80
+2 Boss's Orders MEG 114
+2 Energy Switch MEG 115
+4 Fighting Gong MEG 116
+3 Ultra Ball MEG 131
+2 Morty's Conviction TEF 155
+1 Unfair Stamp TWM 165
+1 Core Memory POR 70
+1 N's Plan BLK 83
+
+Energy: 1
+10 Basic {F} Energy MEE 6
+
+Total Cards: 60

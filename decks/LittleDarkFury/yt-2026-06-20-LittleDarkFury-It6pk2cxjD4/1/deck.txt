@@ -1,0 +1,27 @@
+Pokémon: 6
+1 Fezandipiti ex ASC 288
+1 Sinistcha ex TWM 210
+4 Teal Mask Ogerpon ex TWM 211
+1 Shaymin DRI 10
+4 Poltchageist TWM 20
+3 Sinistcha TWM 22
+
+Trainer: 13
+3 Boss's Orders RCL 189
+2 Tera Orb SSP 189
+4 Lillie's Determination MEG 169
+2 Morty's Conviction TEF 201
+1 Buddy-Buddy Poffin MEG 167
+1 Prime Catcher TEF 157
+1 Ultra Ball PLF 122
+2 Pokégear 3.0 UNB 233
+4 Bug Catching Set PRE 102
+2 Night Stretcher MEG 173
+4 Poké Pad POR 113
+2 Prism Tower CRI 111
+1 Special Red Card CRI 113
+
+Energy: 1
+17 Basic {G} Energy GRI 167
+
+Total Cards: 60

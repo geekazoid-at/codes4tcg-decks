@@ -1,0 +1,32 @@
+Pokémon: 10
+2 Meowth ex POR 62
+2 Terapagos ex SCR 128
+3 Terapagos SSP 161
+1 Mega Mawile ex MEG 94
+2 Latias ex SSP 76
+2 Kyurem SFA 47
+1 Kyurem ex BLK 28
+1 Fezandipiti ex SFA 38
+1 Mega Kangaskhan ex MEG 104
+1 Wellspring Mask Ogerpon ex TWM 64
+
+Trainer: 10
+2 Iris's Fighting Spirit JTG 149
+4 Lillie's Determination MEG 119
+4 Transformation Tome CRI 83
+4 Glass Trumpet SCR 135
+2 Prism Tower CRI 80
+4 Dusk Ball SSP 175
+2 Boss's Orders MEG 114
+4 Ultra Ball MEG 131
+2 Morty's Conviction TEF 155
+1 Scramble Switch SSP 186
+
+Energy: 5
+6 Basic {M} Energy MEE 8
+1 Basic {L} Energy MEE 4
+1 Basic {G} Energy MEE 1
+6 Basic {W} Energy MEE 3
+1 Prism Energy BLK 86
+
+Total Cards: 60
