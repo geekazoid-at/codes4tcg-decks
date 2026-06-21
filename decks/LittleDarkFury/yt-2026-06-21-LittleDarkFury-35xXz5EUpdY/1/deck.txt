@@ -1,0 +1,30 @@
+Pokémon: 11
+1 Fezandipiti ex ASC 288
+1 Celebi MEG 12
+2 Meganium MEG 10
+2 Meowth ex POR 121
+3 Chikorita ASC 8
+4 Teal Mask Ogerpon ex TWM 211
+1 Mega Meganium ex ASC 272
+3 Bayleef MEG 9
+2 Mega Venusaur ex MEG 177
+2 Bulbasaur MEG 133
+2 Ivysaur MEG 134
+
+Trainer: 11
+2 Boss's Orders RCL 189
+1 Lana's Aid TWM 207
+4 Bug Catching Set TWM 143
+1 Wally's Compassion MEG 186
+1 Unfair Stamp TWM 165
+4 Lillie's Determination MEG 169
+4 Forest of Vitality POR 109
+4 Ultra Ball PLF 122
+2 Night Stretcher MEG 173
+1 Judge DRI 222
+1 Poké Pad POR 113
+
+Energy: 1
+12 Basic {G} Energy GRI 167
+
+Total Cards: 60
