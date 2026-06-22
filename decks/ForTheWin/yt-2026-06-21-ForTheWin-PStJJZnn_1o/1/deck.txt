@@ -1,0 +1,37 @@
+Pokémon: 13
+2 Latias ex SSP 76
+2 Mega Latias ex MEG 100
+2 Latios MEG 101
+2 Mega Kangaskhan ex MEG 104
+1 Munkidori TWM 95
+1 Smoochum SSP 75
+1 Fezandipiti ex ASC 142
+1 Meowth ex POR 62
+1 Moltres PFL 14
+
+Trainer: 35
+4 Lillie's Determination ASC 192
+3 Crispin SCR 133
+3 Boss's Orders ASC 183
+2 Kieran TWM 154
+1 Cyrano SSP 170
+1 Ciphermaniac's Codebreaking TEF 145
+1 Wally's Compassion MEG 132
+4 Ultra Ball ASC 213
+3 Wondrous Patch PFL 94
+2 Poké Pad ASC 198
+2 Night Stretcher ASC 196
+2 Mega Signal ASC 193
+2 Switch SVI 194
+1 Tool Scrapper ASC 212
+1 Special Red Card CRI 82
+1 Maximum Belt PRE 117
+2 Gravity Mountain SSP 177
+
+Energy: 12
+6 Basic {P} Energy SVE 5
+4 Basic {R} Energy SVE 2
+1 Basic {P} Energy SVE 5
+1 Basic {D} Energy SVE 7
+
+Total Cards: 60
