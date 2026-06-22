@@ -1,0 +1,34 @@
+Pokémon: 10
+1 Chien-Pao SSP 56
+1 Dunsparce TEF 128
+3 Dudunsparce TEF 129
+3 Dunsparce JTG 120
+3 Numel ASC 27
+2 Larvesta SSP 196
+2 Volcarona BLK 100
+3 Mega Camerupt ex MEG 156
+1 Shaymin DRI 10
+1 Dudunsparce ex JTG 178
+
+Trainer: 15
+2 Boss's Orders RCL 189
+3 Wally's Compassion MEG 186
+2 Hilda WHT 164
+4 Lillie's Determination MEG 169
+1 Air Balloon MEG 166
+3 Buddy-Buddy Poffin MEG 167
+1 Energy Retrieval CRI 108
+1 Maximum Belt TEF 154
+1 Switch PFL 123
+3 Ultra Ball PLF 122
+2 Pokégear 3.0 UNB 233
+1 Night Stretcher MEG 173
+1 Gravity Mountain SSP 250
+4 Poké Pad POR 113
+1 Special Red Card CRI 113
+
+Energy: 2
+7 Basic {R} Energy BUS 167
+3 Ignition Energy PFL 124
+
+Total Cards: 60

@@ -1,0 +1,39 @@
+Pokémon: 12
+1 Fezandipiti ex ASC 288
+1 Alakazam TWM 82
+1 Dudunsparce PRE 80
+1 Genesect SFA 40
+1 Dedenne SSP 87
+4 Abra MEG 54
+3 Alakazam MEG 56
+3 Dunsparce JTG 120
+1 Dudunsparce PRE 80
+4 Kadabra MEG 55
+1 Psyduck ASC 226
+1 Elgyem BLK 120
+
+Trainer: 16
+1 Lana's Aid TWM 207
+4 Buddy-Buddy Poffin TWM 223
+3 Rare Candy GRI 165
+1 Enhanced Hammer GRI 162
+3 Nighttime Mine ASC 197
+2 Boss's Orders LOR-TG 24
+4 Dawn PFL 129
+1 Eri PRE 136
+1 Nighttime Mine ASC 197
+1 Handheld Fan TWM 150
+1 Night Stretcher SSP 251
+1 Lucky Helmet TWM 158
+3 Hilda WHT 171
+4 Poké Pad POR 113
+1 Sacred Ash POR 115
+1 Air Balloon SSH 213
+
+Energy: 4
+3 Telepathic {P} Energy POR 88
+1 Telepathic {P} Energy POR 88
+1 Enriching Energy SSP 191
+1 Basic {P} Energy SUM 162
+
+Total Cards: 60
