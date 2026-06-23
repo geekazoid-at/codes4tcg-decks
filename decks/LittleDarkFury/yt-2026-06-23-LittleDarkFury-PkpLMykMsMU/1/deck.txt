@@ -1,0 +1,32 @@
+Pokémon: 10
+3 Sandile BLK 57
+2 Pecharunt ex PRE 163
+1 Fezandipiti ex ASC 288
+2 Krokorok BLK 58
+4 Toxel PFL 67
+4 Toxtricity PFL 103
+1 Munkidori PRE 44
+1 Brute Bonnet TWM 118
+3 Krookodile ex CRI 55
+1 Tatsugiri TWM 186
+
+Trainer: 14
+2 Boss's Orders RCL 189
+1 Iris's Fighting Spirit JTG 180
+4 Lillie's Determination MEG 169
+2 Air Balloon MEG 166
+4 Buddy-Buddy Poffin MEG 167
+3 Rare Candy PLB 105
+1 Energy Recycler POR 108
+1 Maximum Belt TEF 154
+3 Ultra Ball PLF 122
+2 Binding Mochi SFA 55
+2 Night Stretcher MEG 173
+3 Poké Pad POR 113
+1 Special Red Card CRI 113
+1 Team Rocket's Petrel DRI 226
+
+Energy: 1
+8 Basic {D} Energy BUS 168
+
+Total Cards: 60
