@@ -1,0 +1,26 @@
+Pokémon: 9
+2 Vivillon POR 9
+2 Spewpa POR 8
+3 Sinistcha TWM 22
+4 Teal Mask Ogerpon ex TWM 25
+4 Poltchageist TWM 20
+1 Sinistcha ex TWM 23
+1 Fezandipiti ex ASC 142
+1 Mega Heracross ex PFL 4
+2 Scatterbug SSP 5
+
+Trainer: 9
+4 Bug Catching Set PRE 102
+2 Buddy-Buddy Poffin ASC 184
+4 Lillie's Determination MEG 119
+1 Boss's Orders MEG 114
+1 Energy Switch MEG 115
+1 Special Red Card CRI 113
+1 Secret Box TWM 163
+4 Team Rocket's Petrel DRI 176
+2 Forest of Vitality ASC 188
+
+Energy: 1
+20 Basic {G} Energy SVE 9
+
+Total Cards: 60
