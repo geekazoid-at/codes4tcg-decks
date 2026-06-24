@@ -1,0 +1,34 @@
+Pokémon: 12
+1 Rabsca TEF 24
+1 Rellor SSP 13
+3 Reuniclus BLK 39
+1 Greninja ex TWM 106
+3 Froakie CRI 20
+1 Reuniclus TEF 72
+3 Mega Greninja ex CRI 22
+3 Duosion BLK 38
+1 Lillie's Clefairy ex ASC 280
+4 Solosis TEF 70
+1 Froakie TWM 56
+3 Frogadier CRI 21
+
+Trainer: 14
+1 Energy Retrieval WHT 82
+1 Iris's Fighting Spirit JTG 149
+4 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+1 Grand Tree SCR 136
+4 Poké Pad POR 81
+1 Lana's Aid TWM 155
+2 Air Balloon BLK 79
+2 Boss's Orders MEG 114
+2 Colress's Tenacity SFA 57
+1 Judge POR 76
+1 Morty's Conviction TEF 155
+2 Surfing Beach MEG 129
+2 Rare Candy MEG 125
+
+Energy: 1
+7 Basic {W} Energy MEE 3
+
+Total Cards: 60

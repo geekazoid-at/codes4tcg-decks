@@ -1,0 +1,32 @@
+Pokémon: 9
+2 Lunatone ASC 105
+1 Shaymin DRI 10
+1 Relicanth TEF 173
+2 Mega Lucario ex MEG 77
+2 Tyrunt POR 44
+1 Fezandipiti ex ASC 142
+2 Riolu MEG 76
+2 Solrock ASC 106
+2 Tyrantrum MEP 66
+
+Trainer: 14
+2 Boss's Orders ASC 183
+4 Poké Pad ASC 198
+2 Rare Candy SVI 191
+4 Lillie's Determination MEG 119
+2 Mega Signal MEG 121
+4 Fighting Gong MEG 116
+2 Air Balloon BLK 79
+2 Battle Cage PFL 85
+1 Brave Bangle WHT 80
+1 Secret Box TWM 163
+3 Team Rocket's Petrel DRI 176
+2 Tarragon POR 85
+4 Antique Jaw Fossil POR 68
+2 Hilda WHT 84
+
+Energy: 2
+4 Rocky {F} Energy POR 87
+6 Basic {F} Energy SVE 6
+
+Total Cards: 60

@@ -1,0 +1,38 @@
+Pokémon: 12
+1 Keldeo CRI 19
+1 Mega Froslass ex ASC 47
+1 Glalie TWM 52
+1 Psyduck ASC 39
+1 Froslass TWM 53
+1 Maractus JTG 8
+3 Froakie CRI 20
+3 Mega Greninja ex CRI 22
+1 Fezandipiti ex SFA 38
+3 Snorunt ASC 46
+1 Budew PRE 4
+2 Frogadier CRI 21
+
+Trainer: 16
+1 Energy Retrieval WHT 82
+1 Iris's Fighting Spirit JTG 149
+4 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+3 Poké Pad POR 81
+2 Air Balloon BLK 79
+2 Boss's Orders MEG 114
+2 Special Red Card CRI 82
+2 Night Stretcher SFA 61
+2 Ultra Ball MEG 131
+1 Wally's Compassion MEG 132
+1 Judge POR 76
+1 Morty's Conviction TEF 155
+3 Surfing Beach MEG 129
+1 Mega Signal MEG 121
+2 Rare Candy MEG 125
+
+Energy: 3
+7 Basic {W} Energy MEE 3
+1 Bubbly {W} Energy CRI 84
+1 Neo Upper Energy TEF 162
+
+Total Cards: 60
