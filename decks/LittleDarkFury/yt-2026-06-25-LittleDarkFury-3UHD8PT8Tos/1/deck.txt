@@ -1,0 +1,36 @@
+Pokémon: 9
+1 Team Rocket's Articuno DRI 51
+2 Mega Kangaskhan ex MEG 182
+1 Lillie's Clefairy ex ASC 280
+1 Munkidori TWM 95
+1 Aurorus POR 24
+1 Team Rocket's Kangaskhan ex ASC 162
+3 Bouffalant PR-SV 136
+1 Latias ex SSP 239
+1 Psyduck ASC 39
+
+Trainer: 16
+3 Boss's Orders RCL 189
+3 Crispin SCR 164
+1 Precious Trolley SSP 185
+1 Lively Stadium SSP 180
+2 Lillie's Determination MEG 169
+2 Rare Candy PLB 105
+4 Jumbo Ice Cream CRI 109
+2 Switch PFL 123
+1 Ultra Ball PLF 122
+3 Pokégear 3.0 UNB 233
+3 Team Rocket's Factory DRI 173
+2 Night Stretcher MEG 173
+1 Poké Pad POR 113
+4 Team Rocket's Petrel DRI 226
+2 Antique Sail Fossil POR 69
+4 Team Rocket's Transceiver ASC 263
+
+Energy: 4
+2 Basic {D} Energy BUS 168
+5 Basic {W} Energy CIN 124
+1 Mist Energy TEF 161
+2 Basic {P} Energy SUM 162
+
+Total Cards: 60
