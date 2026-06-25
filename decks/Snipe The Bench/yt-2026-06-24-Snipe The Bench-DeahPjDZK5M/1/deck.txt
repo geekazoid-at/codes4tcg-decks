@@ -1,0 +1,32 @@
+Pokémon: 9
+1 Fezandipiti ex SFA 92
+4 Carvanha PFL 60
+2 Mega Sharpedo ex PFL 61
+2 Toxel PFL 67
+2 Inkay SFA 33
+2 Toxtricity PFL 68
+2 Malamar SFA 34
+2 Meowth ex POR 62
+1 Pecharunt ex SFA 39
+
+Trainer: 15
+1 Risky Ruins MEG 127
+3 Lillie's Determination MEG 184
+1 Secret Box TWM 163
+1 Judge SIT-TG 25
+4 Xerosic's Machinations SFA 64
+4 Buddy-Buddy Poffin MEG 167
+1 Energy Recycler POR 108
+4 Poké Pad ASC 198
+1 Team Rocket's Watchtower DRI 180
+1 Hassel TWM 151
+1 Special Red Card CRI 113
+2 Kofu SCR 138
+2 Salvatore TEF 160
+4 Ultra Ball ASC 264
+2 Boss's Orders MEG 114
+
+Energy: 1
+10 Basic {D} Energy SVE 15
+
+Total Cards: 60

@@ -1,0 +1,37 @@
+Pokémon: 10
+2 Latias ex SSP 76
+1 Bloodmoon Ursaluna ex TWM 141
+1 Mega Kangaskhan ex MEG 104
+2 Joltik SCR 50
+2 Pikachu ex SSP 57
+2 Fezandipiti ex ASC 142
+1 Lillie's Clefairy ex JTG 56
+2 Meowth ex POR 62
+2 Vulpix CRI 8
+2 Ninetales CRI 9
+
+Trainer: 15
+1 Tera Orb SSP 189
+1 Precious Trolley SSP 185
+3 Team Rocket's Petrel DRI 176
+1 Energy Retrieval SVI 171
+3 Pokégear 3.0 SVI 186
+1 Special Red Card CRI 82
+2 Night Stretcher ASC 196
+1 Light Ball ASC 191
+2 Area Zero Underdepths SCR 131
+3 Crispin SCR 133
+1 Glass Trumpet SCR 135
+1 Lillie's Determination MEG 119
+4 Ultra Ball MEG 131
+3 Boss's Orders MEG 114
+1 Energy Switch MEG 115
+
+Energy: 5
+2 Basic {M} Energy MEE 8
+2 Basic {P} Energy MEE 5
+4 Basic {L} Energy MEE 4
+5 Basic {G} Energy MEE 1
+2 Basic {R} Energy MEE 2
+
+Total Cards: 60
