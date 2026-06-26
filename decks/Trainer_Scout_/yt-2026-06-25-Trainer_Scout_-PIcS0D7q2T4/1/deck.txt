@@ -1,0 +1,39 @@
+Pokémon: 11
+1 Budew PRE 4
+1 Meowth ex POR 62
+1 Feraligatr TEF 41
+1 Feraligatr TEF 41
+1 Fezandipiti ex SFA 84
+2 Drakloak TWM 129
+2 Dreepy TWM 128
+2 Munkidori SFA 72
+2 Croconaw TEF 40
+2 Mega Feraligatr ex ASC 43
+4 Totodile TEF 39
+
+Trainer: 18
+1 Rare Candy SVI 256
+1 Switch SUM 160
+2 Boss's Orders PAL 265
+3 Ultra Ball SUM 161
+2 Transformation Tome CRI 83
+1 Ultra Ball PAF 91
+1 Rosa's Encouragement POR 84
+2 Night Stretcher SSP 251
+1 Air Balloon MEG 166
+1 Special Red Card CRI 113
+3 Buddy-Buddy Poffin TWM 223
+3 Poké Pad POR 81
+2 Crispin PRE 171
+2 Rare Candy GRI 165
+1 Team Rocket's Petrel DRI 176
+3 Pokégear 3.0 UNB 233
+3 Lillie's Determination MEG 184
+2 Hilda WHT 84
+
+Energy: 3
+2 Basic {D} Energy MEE 7
+4 Basic {W} Energy MEE 3
+1 Neo Upper Energy TEF 162
+
+Total Cards: 60
