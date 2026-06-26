@@ -1,0 +1,29 @@
+Pokémon: 4
+4 Paldean Tauros PFL 48
+1 Emolga TWM 69
+1 Emolga TWM 69
+4 Tauros CRI 69
+
+Trainer: 17
+4 Risky Ruins MEG 127
+1 Counter Gain ASC 259
+1 Ultra Ball PLF 122
+3 Night Stretcher MEG 173
+4 Fighting Gong MEG 168
+4 Premium Power Pro MEG 174
+4 Lillie's Determination MEG 169
+2 Brave Bangle WHT 80
+1 Air Balloon MEG 166
+1 Switch PFL 123
+4 Iris's Fighting Spirit JTG 180
+1 Secret Box TWM 163
+1 Lana's Aid TWM 207
+4 Poké Pad POR 113
+3 Pokégear 3.0 UNB 233
+2 Hassel TWM 205
+2 Boss's Orders RCL 189
+
+Energy: 1
+8 Basic {F} Energy GRI 169
+
+Total Cards: 60

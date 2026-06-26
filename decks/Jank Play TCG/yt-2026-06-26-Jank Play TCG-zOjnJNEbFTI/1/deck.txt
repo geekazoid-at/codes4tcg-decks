@@ -1,0 +1,31 @@
+Pokémon: 9
+1 Meowth ex POR 62
+1 Shaymin DRI 10
+4 Pumpkaboo CRI 40
+2 Froslass TWM 53
+2 Snorunt ASC 46
+1 Fezandipiti ex ASC 142
+1 Lillie's Clefairy ex JTG 56
+3 Gourgeist ex CRI 41
+3 Munkidori TWM 95
+
+Trainer: 12
+3 Buddy-Buddy Poffin ASC 184
+4 Risky Ruins MEG 127
+2 Xerosic's Machinations SFA 64
+4 Judge SVI 176
+2 Night Stretcher ASC 196
+4 Lillie's Determination MEG 119
+2 Boss's Orders MEG 114
+2 Air Balloon SSH 156
+1 Maximum Belt PRE 117
+2 Crispin SCR 133
+4 Ultra Ball ASC 213
+3 Poké Pad ASC 198
+
+Energy: 3
+3 Basic {D} Energy SVE 15
+3 Basic {P} Energy SVE 13
+3 Telepathic {P} Energy POR 88
+
+Total Cards: 60

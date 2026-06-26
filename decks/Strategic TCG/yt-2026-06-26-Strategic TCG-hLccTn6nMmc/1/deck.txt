@@ -1,0 +1,30 @@
+Pokémon: 7
+1 Oricorio-GX CEC 217
+4 Steelix CEC 247
+1 Fezandipiti ex ASC 288
+4 Melmetal ex OBF 153
+4 Copperajah ex PAL 150
+4 Onix MEW 95
+4 Genesect ex BLK 169
+
+Trainer: 14
+1 Hisuian Heavy Ball ASR 146
+1 Precious Trolley SSP 185
+1 Field Blower GRI 163
+2 Guzma BUS 143
+1 Miriam SVI 251
+4 Arven PAF 235
+1 Sacred Ash FLF 96
+4 Pokégear 3.0 UNB 233
+1 Counter Catcher CIN 120
+3 Sacred Ash DRI 168
+4 Nest Ball SUM 158
+2 Air Balloon SSH 213
+3 Roxie CEC 205
+2 Chaotic Swell CEC 187
+
+Energy: 2
+4 Double Colorless Energy GRI 166
+4 Twin Energy RCL 209
+
+Total Cards: 60
