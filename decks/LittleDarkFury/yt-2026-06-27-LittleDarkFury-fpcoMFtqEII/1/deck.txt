@@ -1,0 +1,37 @@
+Pokémon: 13
+2 Blaziken ex SVALT 220
+3 Froakie CRI 88
+1 Fezandipiti ex ASC 288
+1 Meowth ex POR 121
+2 Dratini ASC 150
+1 Dragonair ASC 151
+1 Greninja ex TWM 214
+1 Frogadier CRI 89
+1 Combusken DRI 41
+1 Budew ASC 221
+2 Mega Greninja ex CRI 116
+1 Mega Dragonite ex ASC 290
+2 Torchic DRI 40
+
+Trainer: 14
+2 Boss's Orders RCL 189
+1 Crispin SCR 164
+4 Lillie's Determination MEG 184
+1 Unfair Stamp TWM 165
+1 Air Balloon MEG 166
+4 Buddy-Buddy Poffin MEG 167
+4 Rare Candy PLB 105
+1 Energy Retrieval CRI 108
+2 Dawn PFL 129
+4 Ultra Ball PLF 122
+2 Night Stretcher MEG 173
+1 Morty's Conviction TEF 211
+3 Poké Pad POR 113
+1 Rosa's Encouragement POR 114
+
+Energy: 3
+2 Basic {R} Energy BUS 167
+2 Basic {L} Energy GRI 168
+6 Basic {W} Energy CIN 124
+
+Total Cards: 60

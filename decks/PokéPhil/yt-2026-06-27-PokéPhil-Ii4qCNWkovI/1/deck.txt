@@ -1,0 +1,27 @@
+Pokémon: 8
+1 Meowth ex POR 62
+4 Beldum TEF 113
+4 Metang TEF 114
+3 Cinccino ex CRI 73
+1 Genesect ex BLK 67
+3 Minccino CRI 72
+1 Mega Kangaskhan ex MEG 104
+1 Metagross CRI 61
+
+Trainer: 11
+1 Buddy-Buddy Poffin ASC 184
+2 Night Stretcher ASC 196
+3 Boss's Orders MEG 114
+2 Energy Recycler DRI 164
+1 Special Red Card CRI 82
+1 Kieran PRE 113
+3 Team Rocket's Factory ASC 203
+4 Team Rocket's Petrel DRI 176
+4 Ultra Ball ASC 213
+1 Precious Trolley SSP 185
+4 Team Rocket's Transceiver DRI 178
+
+Energy: 1
+16 Basic {M} Energy SVE 16
+
+Total Cards: 60
