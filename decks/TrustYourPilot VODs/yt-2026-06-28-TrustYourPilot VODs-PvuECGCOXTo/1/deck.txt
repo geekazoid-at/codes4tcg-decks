@@ -1,0 +1,35 @@
+Pokémon: 8
+1 Azelf SSP 80
+1 Mega Froslass ex ASC 47
+1 Glalie TWM 52
+2 Munkidori TWM 95
+3 Froslass TWM 53
+3 Miraidon SSP 69
+4 Snorunt ASC 46
+2 Budew PRE 4
+
+Trainer: 16
+1 Iris's Fighting Spirit JTG 149
+3 Counter Gain SSP 169
+2 Buddy-Buddy Poffin TEF 144
+2 Crispin SCR 133
+4 Lillie's Determination MEG 119
+4 Poké Pad POR 81
+2 Air Balloon BLK 79
+3 Dusk Ball SSP 175
+2 Boss's Orders MEG 114
+2 Lucky Helmet TWM 158
+1 Special Red Card CRI 82
+3 Night Stretcher SFA 61
+1 Judge POR 76
+1 Morty's Conviction TEF 155
+1 Unfair Stamp TWM 165
+1 Pokémon Catcher POR 82
+
+Energy: 4
+2 Basic {L} Energy MEE 4
+2 Basic {D} Energy MEE 7
+2 Basic {W} Energy MEE 3
+4 Prism Energy BLK 86
+
+Total Cards: 60

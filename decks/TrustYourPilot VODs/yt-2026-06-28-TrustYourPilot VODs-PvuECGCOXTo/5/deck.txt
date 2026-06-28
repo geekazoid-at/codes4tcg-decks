@@ -1,0 +1,35 @@
+Pokémon: 8
+1 Azelf SSP 80
+1 Galvantula SFA 2
+4 Miraidon SSP 69
+1 Patrat CRI 70
+2 Joltik SCR 50
+3 Iron Crown ex TEF 81
+1 Shaymin DRI 10
+1 Psyduck ASC 39
+
+Trainer: 17
+4 Dusk Ball SSP 175
+1 Iris's Fighting Spirit JTG 149
+4 Poké Pad POR 81
+1 Xerosic's Machinations SFA 64
+3 Battle Cage PFL 85
+2 Counter Gain SSP 169
+1 Morty's Conviction TEF 155
+3 Night Stretcher SFA 61
+1 Reboot Pod TEF 158
+1 Special Red Card CRI 82
+2 Air Balloon BLK 79
+1 Judge POR 76
+2 Buddy-Buddy Poffin TEF 144
+2 Brave Bangle WHT 80
+4 Lillie's Determination MEG 119
+1 Naveen POR 79
+2 Boss's Orders MEG 114
+
+Energy: 3
+3 Prism Energy BLK 86
+4 Basic {L} Energy MEE 4
+4 Basic {G} Energy MEE 1
+
+Total Cards: 60

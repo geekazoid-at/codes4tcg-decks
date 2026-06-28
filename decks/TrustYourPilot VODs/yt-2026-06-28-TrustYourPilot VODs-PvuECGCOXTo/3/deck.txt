@@ -1,0 +1,30 @@
+Pokémon: 7
+2 Iron Crown ex TEF 81
+4 Miraidon TEF 121
+1 Kirlia MEG 59
+1 Fezandipiti ex SFA 38
+1 Lillie's Clefairy ex JTG 56
+2 Ralts MEG 58
+2 Mega Gardevoir ex MEG 60
+
+Trainer: 15
+2 Iris's Fighting Spirit JTG 149
+4 Lillie's Determination MEG 119
+4 Poké Pad POR 81
+2 Air Balloon BLK 79
+4 Dusk Ball SSP 175
+2 Boss's Orders MEG 114
+2 Energy Switch MEG 115
+1 Special Red Card CRI 82
+2 Lucky Helmet TWM 158
+2 Night Stretcher SFA 61
+2 Judge POR 76
+2 Morty's Conviction TEF 155
+1 Reboot Pod TEF 158
+3 Mystery Garden MEG 122
+2 Rare Candy MEG 125
+
+Energy: 1
+12 Basic {P} Energy MEE 5
+
+Total Cards: 60

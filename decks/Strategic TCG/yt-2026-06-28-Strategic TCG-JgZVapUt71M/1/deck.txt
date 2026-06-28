@@ -1,0 +1,36 @@
+Pokémon: 8
+1 Marshadow UNB 81
+1 Jirachi {*} CES 97
+3 Mew VMAX FST 269
+2 Terapagos ex SCR 170
+4 Genesect V FST 255
+4 Mew V FST 251
+1 Tapu Lele-GX SMALT 38
+1 Budew ASC 221
+
+Trainer: 20
+1 Rescue Stretcher BUS 165
+4 Battle VIP Pass FST 225
+1 Escape Rope BUS 163
+4 Cram-o-matic FST 229
+1 Echoing Horn CRE 225
+1 Field Blower GRI 163
+1 Prime Catcher PRE 119
+2 Guzma BUS 143
+1 Forest Seal Stone SIT 156
+1 Salvatore TEF 202
+1 Great Catcher CEC 264
+1 Choice Belt ASR 211
+1 Guzma & Hala CEC 229
+4 Ultra Ball PLF 122
+1 Hisuian Heavy Ball ASR 146
+1 Peonia CRE 196
+3 Area Zero Underdepths SCR 174
+4 Power Tablet FST 281
+4 Quick Ball SSH 216
+2 Air Balloon SSH 213
+
+Energy: 1
+4 Double Colorless Energy GRI 166
+
+Total Cards: 60

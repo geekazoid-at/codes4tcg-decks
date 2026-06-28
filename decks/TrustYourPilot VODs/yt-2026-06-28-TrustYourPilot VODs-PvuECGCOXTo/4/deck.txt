@@ -1,0 +1,27 @@
+Pokémon: 6
+1 Shaymin DRI 10
+3 Delphox CRI 13
+4 Miraidon TEF 121
+2 Braixen CRI 12
+1 Fezandipiti ex SFA 38
+4 Fennekin CRI 11
+
+Trainer: 13
+1 Iris's Fighting Spirit JTG 149
+4 Lillie's Determination MEG 119
+4 Poké Pad POR 81
+2 Air Balloon BLK 79
+4 Dusk Ball SSP 175
+2 Boss's Orders MEG 114
+4 Energy Switch MEG 115
+2 Lucky Helmet TWM 158
+2 Night Stretcher SFA 61
+2 Judge POR 76
+1 Morty's Conviction TEF 155
+1 Reboot Pod TEF 158
+2 Rare Candy MEG 125
+
+Energy: 1
+14 Basic {R} Energy MEE 2
+
+Total Cards: 60
