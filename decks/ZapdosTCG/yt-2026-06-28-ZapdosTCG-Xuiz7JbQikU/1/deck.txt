@@ -1,0 +1,31 @@
+Pokémon: 20
+3 Electrike MEG 49
+3 Mega Manectric ex MEG 50
+3 Tynamo ASC 59
+3 Eelektrik ASC 60
+1 Mega Eelektross ex ASC 61
+2 Iono's Wattrel JTG 54
+2 Iono's Kilowattrel JTG 55
+1 Zeraora DRI 78
+1 Stunfisk ASC 62
+1 Fezandipiti ex ASC 142
+
+Trainer: 27
+3 Canari ASC 185
+3 Lillie's Determination MEG 119
+2 Boss's Orders MEG 114
+1 Judge POR 76
+4 Buddy-Buddy Poffin TEF 144
+4 Ultra Ball MEG 131
+2 Poké Pad POR 81
+1 Night Stretcher ASC 196
+1 Switch MEG 130
+1 Prime Catcher TEF 157
+1 Special Red Card CRI 82
+2 Air Balloon ASC 181
+2 Prism Tower CRI 80
+
+Energy: 13
+13 Basic {L} Energy SVE 4
+
+Total Cards: 60
