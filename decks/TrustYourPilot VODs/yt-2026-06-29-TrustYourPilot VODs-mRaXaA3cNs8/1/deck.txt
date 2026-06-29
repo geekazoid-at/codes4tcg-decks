@@ -1,0 +1,32 @@
+Pokémon: 9
+1 Ethan's Pinsir DRI 1
+1 Latias ex SSP 76
+1 Bloodmoon Ursaluna ex TWM 141
+3 Ethan's Ho-Oh ex DRI 39
+1 Fezandipiti ex ASC 142
+2 Heatmor WHT 19
+4 Ethan's Slugma DRI 35
+3 Ethan's Magcargo DRI 36
+1 Meowth ex POR 62
+
+Trainer: 14
+1 Precious Trolley SSP 185
+4 Poké Pad POR 81
+4 Team Rocket's Petrel DRI 176
+1 Battle Cage PFL 85
+4 Energy Retrieval SVI 171
+1 Special Red Card CRI 82
+2 Night Stretcher ASC 196
+1 Blowtorch PFL 86
+1 Brave Bangle WHT 80
+4 Lillie's Determination MEG 119
+2 Ethan's Adventure DRI 165
+1 Switch MEG 130
+4 Ultra Ball MEG 131
+2 Boss's Orders MEG 114
+
+Energy: 2
+1 Nitro {R} Energy CRI 86
+10 Basic {R} Energy MEE 2
+
+Total Cards: 60

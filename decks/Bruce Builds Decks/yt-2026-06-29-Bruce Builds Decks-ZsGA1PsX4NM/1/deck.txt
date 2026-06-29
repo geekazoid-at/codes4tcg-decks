@@ -1,0 +1,32 @@
+Pokémon: 22
+3 Dudunsparce TEF 129
+3 N's Darmanitan JTG 27
+1 Fezandipiti ex SFA 38
+3 Dunsparce JTG 120
+3 N's Vanilluxe ASC 51
+1 Budew PRE 4
+3 N's Darumaka JTG 26
+2 N's Vanillish ASC 50
+3 N's Vanillite ASC 49
+
+Trainer: 27
+1 Dawn PFL 87
+2 Poké Pad ASC 198
+1 Rosa's Encouragement POR 84
+1 Sacred Ash DRI 168
+2 Lucky Helmet TWM 158
+2 N's Castle JTG 152
+4 N's PP Up JTG 153
+1 Deluxe Bomb SCR 134
+4 Buddy-Buddy Poffin ASC 184
+4 Lillie's Determination MEG 119
+1 Ultra Ball MEG 131
+2 Rare Candy SVI 191
+2 Boss's Orders MEG 114
+
+Energy: 11
+2 Basic {W} Energy SVE 3
+2 Basic {R} Energy SVE 2
+7 Basic {R} Energy SVE 2
+
+Total Cards: 60

@@ -1,0 +1,31 @@
+Pokémon: 9
+2 Miraidon ex TEF 122
+4 Miraidon TEF 121
+1 Fezandipiti ex ASC 288
+2 Lillie's Clefairy ex ASC 280
+1 Iron Leaves ex TEF 203
+4 Iron Crown ex TEF 206
+1 Meowth ex POR 121
+1 Iron Thorns ex TWM 196
+1 Latias ex SSP 239
+
+Trainer: 12
+3 Boss's Orders RCL 189
+4 Crispin SCR 164
+4 Lillie's Determination MEG 169
+2 Air Balloon MEG 166
+1 Switch PFL 123
+1 Reboot Pod TEF 158
+4 Ultra Ball PLF 122
+2 Pokégear 3.0 UNB 233
+2 Dusk Ball SSP 175
+2 Night Stretcher MEG 173
+2 Energy Switch SIT 212
+3 Cyrano SSP 230
+
+Energy: 3
+4 Basic {G} Energy GRI 167
+4 Basic {L} Energy GRI 168
+5 Basic {P} Energy SUM 162
+
+Total Cards: 60
