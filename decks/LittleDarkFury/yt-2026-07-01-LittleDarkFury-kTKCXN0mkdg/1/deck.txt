@@ -1,0 +1,33 @@
+Pokémon: 8
+2 Steven's Metagross ex ASC 289
+1 Fezandipiti ex ASC 288
+1 Steven's Metang DRI 144
+4 Aegislash POR 58
+3 Steven's Beldum DRI 143
+2 Genesect ex BLK 169
+4 Honedge POR 56
+4 Doublade POR 57
+
+Trainer: 16
+2 Boss's Orders RCL 189
+1 Lana's Aid TWM 207
+1 Precious Trolley SSP 185
+3 Lillie's Determination MEG 169
+1 Brave Bangle WHT 80
+2 Air Balloon MEG 166
+1 Buddy-Buddy Poffin MEG 167
+2 Rare Candy PLB 105
+1 Energy Recycler POR 108
+2 Dawn PFL 129
+1 Team Rocket's Factory DRI 173
+2 Night Stretcher MEG 173
+1 Poké Pad POR 113
+1 Sacred Ash POR 115
+4 Team Rocket's Petrel DRI 226
+4 Team Rocket's Transceiver ASC 263
+
+Energy: 2
+5 Basic {P} Energy SUM 162
+5 Basic {M} Energy SUM 163
+
+Total Cards: 60

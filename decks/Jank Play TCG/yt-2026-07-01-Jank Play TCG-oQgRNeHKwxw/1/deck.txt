@@ -1,0 +1,28 @@
+Pokémon: 7
+2 Nacli MEG 82
+1 Shaymin DRI 185
+4 Baltoy CRI 46
+2 Naclstack MEG 83
+2 Fezandipiti ex ASC 142
+2 Garganacl MEG 147
+3 Claydol CRI 47
+
+Trainer: 13
+4 Poké Pad ASC 198
+3 Night Stretcher MEG 173
+4 Premium Power Pro MEG 174
+2 Rare Candy MEG 175
+2 Boss's Orders PAL 248
+2 Ultra Ball MEG 131
+3 Naveen POR 79
+4 Buddy-Buddy Poffin MEG 167
+2 Tarragon POR 85
+3 Pokégear 3.0 UNB 233
+4 Lillie's Determination MEG 184
+2 Switch MEW 206
+1 Precious Trolley SSP 185
+
+Energy: 1
+8 Basic {F} Energy SVE 14
+
+Total Cards: 60

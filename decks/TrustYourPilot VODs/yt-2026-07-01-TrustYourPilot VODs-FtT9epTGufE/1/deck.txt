@@ -1,0 +1,31 @@
+Pokémon: 9
+3 Arboliva ex DRI 23
+1 Mega Froslass ex ASC 47
+3 Froslass TWM 53
+2 Dunsparce JTG 120
+2 Dudunsparce TEF 129
+4 Snorunt ASC 46
+1 Budew ASC 16
+3 Smoliv DRI 21
+3 Dolliv DRI 22
+
+Trainer: 13
+1 Energy Search POR 72
+1 Air Balloon ASC 181
+2 Night Stretcher ASC 196
+4 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+4 Poké Pad POR 81
+2 Boss's Orders MEG 114
+3 Forest of Vitality MEG 117
+4 Ultra Ball MEG 131
+2 Morty's Conviction TEF 155
+1 Secret Box TWM 163
+2 Dawn PFL 87
+2 Iris's Fighting Spirit ASC 292
+
+Energy: 2
+4 Basic {G} Energy MEE 1
+2 Basic {W} Energy MEE 3
+
+Total Cards: 60
