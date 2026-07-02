@@ -1,0 +1,32 @@
+Pokémon: 49
+4 Litwick PBL 36
+4 Lampent PBL 37
+3 Mega Chandelure ex PBL 38
+4 Shuppet PBL 33
+3 Banette PBL 34
+4 Pikipek PBL 66
+3 Trumbeak PBL 67
+4 Toucannon PBL 68
+4 Dhelmise PBL 39
+3 Drilbur PBL 46
+2 Mega Excadrill ex PBL 65
+2 Poltchageist PBL 5
+2 Sinistcha PBL 6
+2 Shieldon PBL 61
+2 Bastiodon PBL 62
+1 Spiritomb PBL 35
+1 Marshadow PBL 40
+1 Chi-Yu PBL 59
+
+Trainer: 18
+4 Gwynn PBL 78
+2 Gladion’s Final Battle PBL 77
+3 Antique Armor Fossil PBL 72
+1 Dark Bell PBL 75
+4 Backtrack Badge PBL 74
+4 Fossil Quarry PBL 76
+
+Energy: 2
+2 Basic {L} Energy SVE 4
+
+Total Cards: 60
