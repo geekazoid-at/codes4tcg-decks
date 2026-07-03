@@ -1,0 +1,35 @@
+Pokémon: 9
+1 Dunsparce TEF 128
+2 Dudunsparce TEF 129
+2 Dunsparce PRE 79
+2 Munkidori TWM 95
+4 Baltoy CRI 46
+4 Claydol CRI 47
+1 Cornerstone Mask Ogerpon ex TWM 112
+2 Uxie SSP 78
+1 Shaymin DRI 10
+
+Trainer: 15
+3 Buddy-Buddy Poffin TWM 223
+1 Secret Box TWM 163
+2 Enhanced Hammer TWM 148
+4 Risky Ruins MEG 127
+4 Poké Pad ASC 198
+2 Night Stretcher ASC 196
+3 Lillie's Determination ASC 192
+1 Lana's Aid TWM 155
+2 Hilda WHT 84
+1 Energy Search POR 72
+1 Crispin PRE 105
+2 Brave Bangle WHT 80
+2 Salvatore TEF 160
+1 Switch SVI 194
+2 Boss's Orders MEG 114
+
+Energy: 4
+1 Basic {D} Energy SVE 7
+5 Basic {F} Energy SVE 6
+2 Basic {P} Energy SVE 5
+2 Prism Energy BLK 86
+
+Total Cards: 60
