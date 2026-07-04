@@ -1,0 +1,35 @@
+Pokémon: 11
+1 Kirlia ASC 88
+2 Terapagos ex PRE 169
+1 Fezandipiti ex ASC 288
+1 Lillie's Clefairy ex ASC 280
+1 Ralts ASC 87
+1 Wellspring Mask Ogerpon ex TWM 213
+2 Mega Gardevoir ex MEG 178
+3 Hoothoot SCR 114
+3 Noctowl SCR 115
+1 Fan Rotom SCR 118
+2 Ralts ASC 87
+
+Trainer: 15
+2 Boss's Orders RCL 189
+2 Wally's Compassion MEG 186
+1 Unfair Stamp TWM 165
+3 Lillie's Determination MEG 169
+1 Air Balloon MEG 166
+3 Buddy-Buddy Poffin MEG 167
+3 Rare Candy PLB 105
+1 Jacinthe POR 122
+1 Dawn PFL 129
+1 Switch PFL 123
+3 Ultra Ball PLF 122
+2 Night Stretcher MEG 173
+3 Area Zero Underdepths SCR 174
+3 Poké Pad POR 113
+2 Glass Trumpet ASC 260
+
+Energy: 2
+2 Basic {P} Energy CRE 232
+9 Basic {P} Energy SUM 162
+
+Total Cards: 60

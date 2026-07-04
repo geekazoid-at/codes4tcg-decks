@@ -1,0 +1,32 @@
+Pokémon: 10
+1 Fezandipiti ex SFA 92
+3 Eelektrik BLK 31
+2 Iono's Kilowattrel JTG 55
+1 Rotom SSP 61
+2 Mega Eelektross ex ASC 61
+2 Iono's Wattrel JTG 54
+3 Tynamo BLK 30
+1 Stunfisk ASC 62
+2 Mega Lopunny ex PFL 84
+2 Buneary PFL 83
+
+Trainer: 14
+4 Buddy-Buddy Poffin TWM 223
+2 Lillie's Determination MEG 184
+1 Judge PAF 228
+1 Unfair Stamp TWM 165
+2 Air Balloon MEG 166
+1 Switch PFL 123
+2 Night Stretcher MEG 173
+1 Wally's Compassion MEG 176
+3 Canari ASC 257
+2 Prism Tower CRI 111
+1 Special Red Card CRI 113
+2 Naveen POR 79
+4 Ultra Ball ASC 264
+3 Boss's Orders MEG 114
+
+Energy: 1
+12 Basic {L} Energy SVE 12
+
+Total Cards: 60

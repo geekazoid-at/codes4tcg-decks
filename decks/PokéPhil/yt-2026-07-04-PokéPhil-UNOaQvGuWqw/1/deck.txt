@@ -1,0 +1,35 @@
+Pokémon: 10
+2 Skrelp CRI 58
+1 Munkidori TWM 95
+2 Drakloak TWM 129
+1 Fezandipiti ex SFA 38
+2 Budew PRE 4
+2 Dreepy PRE 71
+2 Mega Dragalge ex CRI 65
+1 Shaymin DRI 10
+1 Psyduck ASC 39
+1 Dragapult ex PRE 73
+
+Trainer: 14
+1 Unfair Stamp TWM 165
+2 Perilous Jungle TEF 156
+2 Pokégear 3.0 SVI 186
+3 Ultra Ball ASC 213
+1 Special Red Card CRI 82
+4 Poké Pad ASC 198
+2 Night Stretcher ASC 196
+1 Redeemable Ticket JTG 156
+4 Crispin PRE 105
+2 Gravity Gemstone SCR 137
+4 Buddy-Buddy Poffin ASC 184
+4 Lillie's Determination MEG 119
+2 Switch MEG 130
+4 Boss's Orders MEG 114
+
+Energy: 4
+1 Basic {R} Energy SVE 10
+4 Basic {D} Energy SVE 15
+3 Basic {W} Energy SVE 11
+1 Basic {P} Energy SVE 13
+
+Total Cards: 60

@@ -1,0 +1,27 @@
+Pokémon: 6
+2 Palafin ex PRE 151
+4 Finizen SVALT 80
+3 Froakie CRI 88
+3 Mega Greninja ex CRI 116
+2 Palafin SVALT 81
+2 Frogadier CRI 89
+
+Trainer: 13
+3 Buddy-Buddy Poffin ASC 184
+2 Boss's Orders ASC 183
+3 Switch SVI 194
+3 Poké Pad ASC 198
+2 Rare Candy SVI 191
+4 Lillie's Determination ASC 192
+4 Iris's Fighting Spirit ASC 190
+2 Air Balloon BLK 79
+3 Great Haul Net CRI 78
+3 Ultra Ball MEG 131
+2 Colress's Tenacity SFA 57
+1 Max Rod PRE 116
+4 Surfing Beach MEG 129
+
+Energy: 1
+8 Basic {W} Energy MEE 3
+
+Total Cards: 60

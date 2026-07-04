@@ -1,0 +1,31 @@
+Pokémon: 9
+4 Blaziken ex SVALT 220
+4 Hydreigon ex SSP 240
+1 Dragapult ex PRE 165
+3 Tatsugiri ex SSP 142
+3 Greninja ex TWM 214
+1 Combusken DRI 41
+2 Dusknoir SFA 70
+4 Cinderace MEG 28
+4 Drakloak ASC 248
+
+Trainer: 10
+3 Boss's Orders RCL 189
+4 Crispin SCR 164
+2 Kofu SCR 165
+1 Tera Orb SSP 189
+1 Lillie's Determination MEG 184
+1 Air Balloon MEG 166
+2 Ultra Ball PLF 122
+4 Pokégear 3.0 UNB 233
+1 Special Red Card CRI 113
+1 Sparkling Crystal SCR 142
+
+Energy: 5
+4 Basic {R} Energy BUS 167
+4 Basic {D} Energy BUS 168
+2 Basic {W} Energy CIN 124
+2 Basic {P} Energy SUM 162
+2 Basic {M} Energy SUM 163
+
+Total Cards: 60
