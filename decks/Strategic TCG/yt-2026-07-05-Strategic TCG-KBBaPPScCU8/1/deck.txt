@@ -1,0 +1,36 @@
+Pokémon: 9
+2 Hisuian Zoroark LOR 76
+4 Hisuian Zorua LOR 75
+2 Dudunsparce PRE 80
+1 Dunsparce PRE 79
+3 Raichu BUS 41
+1 Dudunsparce PRE 80
+1 Budew ASC 221
+2 Dunsparce PRE 79
+4 Pikachu PR-SM 76
+
+Trainer: 19
+4 Buddy-Buddy Poffin TWM 223
+1 Rescue Stretcher BUS 165
+1 Field Blower GRI 163
+3 Lillie's Determination MEG 169
+2 Guzma BUS 143
+1 Professor Turo's Scenario PAR 257
+1 Tulip PAR 259
+1 Galar Mine RCL 160
+3 Arven PAF 235
+1 Iono PAF 237
+1 Hisuian Heavy Ball ASR 146
+1 Sea of Nothingness CIN 99
+4 Poké Pad POR 113
+1 Canari ASC 291
+1 Arezu LOR 189
+2 Switch SUM 160
+3 Air Balloon SSH 213
+4 Rescue Carrier EVS 154
+4 Devolution Spray Z UNB 166
+
+Energy: 1
+1 Enriching Energy SSP 191
+
+Total Cards: 60

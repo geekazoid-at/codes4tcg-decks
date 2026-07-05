@@ -1,0 +1,31 @@
+Pokémon: 8
+1 Fezandipiti ex ASC 288
+3 Ethan's Magcargo ASC 24
+1 Meowth ex POR 121
+4 Ethan's Slugma ASC 23
+1 Ethan's Pinsir DRI 1
+4 Ethan's Ho-Oh ex DRI 230
+1 Tatsugiri TWM 186
+2 Latias ex SSP 239
+
+Trainer: 15
+2 Boss's Orders RCL 189
+2 Lana's Aid TWM 207
+4 Lillie's Determination MEG 169
+1 Air Balloon MEG 166
+1 Max Rod PRE 116
+1 Energy Recycler POR 108
+3 Energy Retrieval CRI 108
+1 Switch PFL 123
+4 Ultra Ball PLF 122
+2 Night Stretcher MEG 173
+4 Poké Pad POR 113
+1 Special Red Card CRI 113
+1 Firebreather PFL 119
+3 Ethan's Adventure DRI 236
+1 Surfer SSP 235
+
+Energy: 1
+12 Basic {R} Energy BUS 167
+
+Total Cards: 60
