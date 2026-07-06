@@ -1,0 +1,28 @@
+Pokémon: 7
+3 Tyrantrum POR 45
+2 Solrock MEG 75
+2 Riolu SCR 81
+1 Relicanth TEF 84
+2 Mega Lucario ex MEG 77
+3 Tyrunt POR 44
+2 Lunatone MEG 74
+
+Trainer: 12
+2 AZ's Tranquility CRI 76
+4 Poké Pad ASC 198
+2 Boss's Orders PAL 265
+2 Rare Candy SVI 191
+2 Energy Retrieval SVI 171
+4 Lillie's Determination MEG 119
+2 Iris's Fighting Spirit ASC 190
+3 Battle Cage PFL 85
+4 Fighting Gong MEG 116
+1 Hero's Cape TEF 152
+2 Ultra Ball ASC 213
+4 Antique Jaw Fossil POR 68
+
+Energy: 2
+4 Rocky {F} Energy POR 87
+9 Basic {F} Energy SVE 6
+
+Total Cards: 60

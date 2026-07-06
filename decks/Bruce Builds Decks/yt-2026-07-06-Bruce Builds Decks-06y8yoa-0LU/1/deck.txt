@@ -1,0 +1,33 @@
+Pokémon: 18
+3 Charmander PFL 11
+2 Charmeleon PFL 12
+2 Mega Charizard X ex PFL 13
+1 Mega Charizard Y ex ASC 22
+2 Fennekin CRI 11
+1 Braixen CRI 12
+2 Delphox CRI 13
+2 Oricorio ex PFL 18
+1 Shaymin DRI 10
+1 Fezandipiti ex SFA 38
+1 Heatmor WHT 19
+
+Trainer: 32
+4 Lillie's Determination MEG 119
+3 Team Rocket's Petrel DRI 176
+2 Boss's Orders MEG 114
+1 Lana's Aid TWM 155
+4 Rare Candy SVI 191
+4 Energy Retrieval SVI 171
+3 Ultra Ball MEG 131
+2 Team Rocket's Transceiver DRI 178
+1 Poké Pad ASC 198
+1 Special Red Card CRI 82
+1 Precious Trolley SSP 185
+1 Sacred Ash DRI 168
+2 Air Balloon SSH 156
+3 Battle Cage PFL 85
+
+Energy: 10
+10 Basic {R} Energy SVE 2
+
+Total Cards: 60
