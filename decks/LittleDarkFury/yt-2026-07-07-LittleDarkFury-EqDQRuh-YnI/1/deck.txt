@@ -1,0 +1,31 @@
+Pokémon: 9
+2 Vulpix SSP 16
+4 Scorbunny MEG 26
+3 Dudunsparce TEF 129
+3 Cinderace ex SCR 28
+2 Raboot MEG 27
+3 Dunsparce JTG 120
+1 Shaymin DRI 185
+3 Cinderace MEG 28
+1 Ninetales CRI 9
+
+Trainer: 11
+2 Boss's Orders RCL 189
+2 Hilda WHT 164
+4 Lillie's Determination MEG 169
+4 Buddy-Buddy Poffin MEG 167
+4 Rare Candy PLB 105
+1 Maximum Belt TEF 154
+2 Ultra Ball PLF 122
+2 Night Stretcher MEG 173
+4 Poké Pad POR 113
+1 Special Red Card CRI 113
+1 Battle Cage PFL 116
+
+Energy: 4
+6 Basic {R} Energy BUS 167
+1 Basic {D} Energy BUS 168
+1 Basic {F} Energy GRI 169
+3 Ignition Energy PFL 124
+
+Total Cards: 60

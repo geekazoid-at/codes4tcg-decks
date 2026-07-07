@@ -1,0 +1,23 @@
+Pokémon: 12
+4 Cinderace MEG 28
+4 Staryu POR 20
+4 Mega Starmie ex POR 21
+
+Trainer: 34
+4 Buddy-Buddy Poffin ASC 184
+4 Mega Signal ASC 193
+4 Pokégear 3.0 BLK 84
+2 Night Stretcher ASC 196
+1 Hero's Cape TEF 152
+4 Salvatore TEF 160
+4 Lillie's Determination ASC 192
+4 Wally's Compassion MEG 132
+3 Boss's Orders ASC 183
+2 Hilda WHT 84
+2 Judge POR 76
+
+Energy: 14
+4 Ignition Energy WHT 86
+10 Basic {W} Energy SVE 3
+
+Total Cards: 60
