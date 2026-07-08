@@ -1,0 +1,33 @@
+Pokémon: 10
+1 Meowth ex POR 62
+1 Psyduck ASC 39
+3 Drakloak TWM 129
+3 Dreepy TWM 128
+1 Dragapult ex TWM 130
+1 Fezandipiti ex ASC 142
+4 Ethan's Cyndaquil DRI 32
+4 Ethan's Quilava DRI 33
+3 Ethan's Typhlosion DRI 34
+1 Budew ASC 16
+
+Trainer: 14
+2 Night Stretcher ASC 196
+4 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+2 Prism Tower CRI 80
+3 Poké Pad POR 81
+1 Lana's Aid TWM 155
+3 Boss's Orders MEG 114
+2 Ultra Ball MEG 131
+1 Redeemable Ticket JTG 156
+2 Team Rocket's Watchtower DRI 180
+1 Unfair Stamp TWM 165
+1 Dawn PFL 87
+4 Ethan's Adventure DRI 165
+1 Rare Candy MEG 125
+
+Energy: 2
+2 Basic {P} Energy MEE 5
+5 Basic {R} Energy MEE 2
+
+Total Cards: 60

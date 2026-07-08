@@ -1,0 +1,29 @@
+Pokémon: 7
+1 Shaymin DRI 10
+2 Tatsugiri TWM 131
+2 Oricorio ex PFL 18
+3 Mega Pyroar ex CRI 15
+4 Litleo PRE 15
+1 Entei ASC 25
+1 Moltres PFL 14
+
+Trainer: 14
+3 Buddy-Buddy Poffin ASC 184
+3 Switch SVI 194
+3 Poké Pad ASC 198
+2 Night Stretcher ASC 196
+4 Lillie's Determination MEG 119
+4 Air Balloon BLK 79
+2 Gravity Mountain SSP 177
+2 Boss's Orders MEG 114
+2 Special Red Card CRI 82
+3 Ultra Ball MEG 131
+4 Wally's Compassion MEG 132
+1 Maximum Belt PRE 117
+2 Morty's Conviction TEF 155
+2 Team Rocket's Petrel DRI 176
+
+Energy: 1
+9 Basic {R} Energy SVE 10
+
+Total Cards: 60
