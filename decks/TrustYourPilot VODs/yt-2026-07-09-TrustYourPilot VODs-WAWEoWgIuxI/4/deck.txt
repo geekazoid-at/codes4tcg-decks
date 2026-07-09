@@ -1,0 +1,33 @@
+Pokémon: 12
+3 Ampharos CRI 29
+2 Eelektrik ASC 60
+1 Shaymin DRI 10
+2 Tynamo ASC 59
+1 Psyduck ASC 39
+2 Relicanth TEF 84
+1 Patrat CRI 70
+1 Zekrom ex BLK 34
+4 Flaaffy CRI 28
+1 Fezandipiti ex SFA 38
+2 Budew ASC 16
+4 Mareep CRI 27
+
+Trainer: 13
+2 Canari ASC 185
+4 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+4 Poké Pad POR 81
+2 Air Balloon BLK 79
+2 Battle Cage PFL 85
+2 Boss's Orders MEG 114
+2 Special Red Card CRI 82
+1 Night Stretcher SFA 61
+1 Ultra Ball MEG 131
+2 Judge POR 76
+1 Unfair Stamp TWM 165
+1 Sacred Ash DRI 168
+
+Energy: 1
+8 Basic {L} Energy MEE 4
+
+Total Cards: 60

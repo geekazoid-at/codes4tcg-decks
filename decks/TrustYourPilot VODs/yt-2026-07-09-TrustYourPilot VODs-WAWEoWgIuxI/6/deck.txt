@@ -1,0 +1,30 @@
+Pokémon: 9
+1 Azelf SSP 80
+1 Mega Diancie ex PFL 41
+1 Psyduck ASC 39
+1 Patrat CRI 70
+2 Latias ex SSP 76
+1 Fezandipiti ex SFA 38
+1 Bloodmoon Ursaluna ex TWM 141
+4 Lillie's Clefairy ex JTG 56
+4 Deoxys CRI 34
+
+Trainer: 12
+2 Xerosic's Machinations SFA 64
+4 Lillie's Determination MEG 119
+4 Dusk Ball SSP 175
+2 Boss's Orders MEG 114
+2 Night Stretcher SFA 61
+4 Ultra Ball MEG 131
+4 Lillie's Pearl JTG 151
+1 Unfair Stamp TWM 165
+4 Wondrous Patch PFL 94
+2 Accompanying Flute TWM 142
+3 Mystery Garden MEG 122
+1 Counter Gain ASC 186
+
+Energy: 2
+7 Basic {P} Energy MEE 5
+4 Telepathic {P} Energy POR 88
+
+Total Cards: 60
