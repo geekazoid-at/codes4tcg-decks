@@ -1,0 +1,30 @@
+Pokémon: 8
+4 Relicanth PBL 17
+2 Tyrantrum POR 45
+1 Tirtouga BLK 22
+1 Archeops WHT 51
+
+Trainer: 41
+4 Lillie's Determination MEG 119
+2 Boss's Orders MEG 114
+2 Judge POR 76
+2 Colress's Tenacity SFA 57
+4 Antique Cover Fossil BLK 80
+4 Antique Plume Fossil WHT 79
+4 Antique Jaw Fossil POR 68
+4 Poké Pad POR 81
+3 Rare Candy MEG 125
+2 Antique Root Fossil SCR 130
+2 Pokémon Catcher POR 82
+2 Night Stretcher SFA 61
+2 Counter Gain ASC 186
+4 Fossil Quarry PBL 76
+
+Energy: 11
+4 Basic {F} Energy SVE 6
+2 Spiky Energy JTG 159
+2 Mist Energy TEF 161
+2 Basic {W} Energy SVE 3
+1 Legacy Energy TWM 167
+
+Total Cards: 60

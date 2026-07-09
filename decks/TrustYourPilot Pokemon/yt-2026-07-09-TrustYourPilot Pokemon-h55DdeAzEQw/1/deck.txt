@@ -1,0 +1,26 @@
+Pokémon: 13
+4 Wailmer PBL 15
+4 Wailord ex PBL 16
+4 Munkidori TWM 95
+1 Meowth ex POR 62
+
+Trainer: 33
+4 Lillie's Determination MEG 119
+3 Misty’s Vitality PBL 80
+2 Crispin SCR 133
+2 Boss's Orders MEG 114
+4 Poké Pad POR 81
+4 Ultra Ball MEG 131
+4 Pokégear 3.0 BLK 84
+2 Jumbo Ice Cream PFL 91
+2 Night Stretcher SFA 61
+1 Prime Catcher TEF 157
+3 Heavy Baton TEF 151
+2 Surfing Beach MEG 129
+
+Energy: 14
+8 Basic {W} Energy SVE 3
+4 Basic {D} Energy SVE 7
+2 Basic {W} Energy SVE 3
+
+Total Cards: 60

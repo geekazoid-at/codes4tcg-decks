@@ -1,0 +1,27 @@
+Pokémon: 17
+4 Cinderace MEG 28
+3 Cranidos PBL 44
+3 Rampardos ex PBL 45
+3 Shieldon PBL 61
+3 Bastiodon PBL 62
+1 Mega Kangaskhan ex MEG 104
+
+Trainer: 34
+4 Lillie's Determination MEG 119
+4 Colress's Tenacity SFA 57
+2 Boss's Orders MEG 114
+4 Antique Skull Fossil PBL 73
+4 Crushing Hammer POR 71
+3 Antique Armor Fossil PBL 72
+3 Ultra Ball MEG 131
+2 Switch MEG 130
+2 Rare Candy MEG 125
+2 Poké Pad POR 81
+3 Fossil Quarry PBL 76
+1 Grand Tree SCR 136
+
+Energy: 9
+7 Basic {F} Energy SVE 6
+2 Basic {M} Energy SVE 8
+
+Total Cards: 60
