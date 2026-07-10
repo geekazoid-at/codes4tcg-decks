@@ -1,0 +1,28 @@
+Pokémon: 8
+1 Metagross CRI 61
+1 Fezandipiti ex ASC 288
+3 Genesect ex BLK 169
+3 Beldum TEF 113
+3 Metang TEF 114
+3 Kingambit ASC 148
+4 Pawniard ASC 146
+2 Bisharp ASC 147
+
+Trainer: 12
+2 Boss's Orders RCL 189
+1 Lana's Aid TWM 207
+2 Hassel TWM 205
+4 Lillie's Determination MEG 184
+4 Buddy-Buddy Poffin MEG 167
+3 Rare Candy PLB 105
+2 Energy Recycler POR 108
+1 Maximum Belt TEF 154
+1 Ultra Ball PLF 122
+2 Night Stretcher MEG 173
+4 Poké Pad POR 113
+1 Team Rocket's Petrel DRI 226
+
+Energy: 1
+13 Basic {M} Energy SUM 163
+
+Total Cards: 60

@@ -1,0 +1,40 @@
+Pokémon: 15
+1 Oricorio-GX CEC 217
+4 Slowpoke SCR 57
+2 Slowking SCR 58
+1 Kyogre SHF 21
+1 Slowking SCR 58
+1 Ditto {*} LOT 154
+1 Manaphy CRZ-GG 6
+1 Metagross CRI 61
+1 Guzzlord CEC 136
+1 Slugma VIV 27
+1 Tapu Lele-GX SMALT 38
+2 Kyurem SFA 47
+1 Magcargo CES 24
+2 Yveltal SHF 46
+2 Oranguru BRS-TG 12
+
+Trainer: 15
+1 Hisuian Heavy Ball ASR 146
+4 Fog Crystal CRE 227
+3 Lillie's Determination MEG 169
+1 Max Rod PRE 116
+1 Rosa CEC 236
+1 Iono PAF 237
+3 Night Stretcher SSP 251
+1 Klara CRE 194
+1 Arven SVI 235
+2 Ultra Ball BRS 186
+1 Pal Pad UPR 132
+4 Poké Pad POR 113
+3 Wondrous Patch POR 117
+2 Air Balloon SSH 213
+2 Chaotic Swell CEC 187
+
+Energy: 3
+2 Boomerang Energy TWM 166
+4 Telepathic {P} Energy POR 88
+2 Basic {P} Energy SUM 162
+
+Total Cards: 60
