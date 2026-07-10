@@ -1,0 +1,32 @@
+Pokémon: 18
+3 Gastly POR 48
+2 Haunter POR 49
+3 Gengar ex TEF 104
+2 Shieldon PBL 61
+3 Bastiodon PBL 62
+1 Yveltal MEG 88
+1 Munkidori TWM 95
+1 Pecharunt ex SFA 39
+1 Fezandipiti ex SFA 38
+1 Budew PRE 4
+
+Trainer: 35
+4 Lillie's Determination MEG 119
+3 Colress's Tenacity SFA 57
+2 Janine's Secret Art SFA 59
+2 Boss's Orders MEG 114
+1 Dawn PFL 87
+4 Poké Pad POR 81
+3 Buddy-Buddy Poffin TEF 144
+3 Antique Armor Fossil PBL 72
+3 Rare Candy MEG 125
+3 Ultra Ball MEG 131
+2 Night Stretcher SFA 61
+2 Handheld Fan TWM 150
+2 Fossil Quarry PBL 76
+1 Grand Tree SCR 136
+
+Energy: 7
+7 Basic {D} Energy SVE 7
+
+Total Cards: 60
