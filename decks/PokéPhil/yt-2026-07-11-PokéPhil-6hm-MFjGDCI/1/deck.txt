@@ -1,0 +1,28 @@
+Pokémon: 5
+4 Zubat CRI 49
+2 Golbat CRI 50
+4 Dudunsparce PRE 80
+4 Dunsparce PRE 79
+4 Crobat CRI 51
+
+Trainer: 15
+1 Roxie's Performance CRI 121
+1 Boss's Orders PAL 265
+4 Rare Candy PLB 105
+2 Night Stretcher SSP 251
+1 Lana's Aid TWM 219
+3 Hilda WHT 171
+2 Roxie's Performance CRI 112
+4 Pokémon Catcher CRZ 138
+4 Buddy-Buddy Poffin TWM 223
+1 Unfair Stamp TWM 165
+2 Gravity Gemstone SCR 137
+4 Perilous Jungle TEF 156
+4 Poké Pad POR 113
+1 Pokégear 3.0 UNB 233
+4 Lillie's Determination MEG 184
+
+Energy: 1
+4 Basic {D} Energy MEE 7
+
+Total Cards: 60
