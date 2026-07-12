@@ -1,0 +1,33 @@
+Pokémon: 23
+4 Pikipek PBL 66
+1 Trumbeak PBL 67
+4 Toucannon PBL 68
+3 Hoothoot SCR 114
+2 Noctowl SCR 115
+2 Fan Rotom SCR 118
+2 Solrock MEG 75
+2 Lunatone MEG 74
+2 Cornerstone Mask Ogerpon ex TWM 112
+1 Shaymin DRI 10
+
+Trainer: 30
+3 Lillie's Determination MEG 119
+2 Boss's Orders MEG 114
+1 Dawn PFL 87
+1 Hassel TWM 151
+1 Lana's Aid TWM 155
+4 Poké Pad POR 81
+4 Fighting Gong MEG 116
+4 Rare Candy MEG 125
+2 Buddy-Buddy Poffin TEF 144
+1 Night Stretcher SFA 61
+1 Glass Trumpet SCR 135
+1 Special Red Card CRI 82
+1 Brave Bangle WHT 80
+1 Maximum Belt TEF 154
+3 Area Zero Underdepths SCR 131
+
+Energy: 7
+7 Basic {F} Energy SVE 6
+
+Total Cards: 60
