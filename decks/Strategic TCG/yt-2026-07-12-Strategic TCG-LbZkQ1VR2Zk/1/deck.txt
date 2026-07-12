@@ -1,0 +1,31 @@
+Pokémon: 7
+1 Latias ex SSP 76
+2 Dedenne-GX UNB 57
+4 Cleffa OBF 80
+2 Crobat V DAA 104
+1 Budew PRE 4
+2 Squawkabilly ex PAL 169
+2 Trevenant & Dusknoir-GX PR-SM 217
+
+Trainer: 15
+4 Damage Pump LOR 156
+1 Secret Box TWM 163
+4 Quick Ball SSH 179
+1 Stadium Nav UNM 208
+1 Order Pad UPR 131
+1 Forest Seal Stone SIT 156
+4 Risky Ruins MEG 127
+3 Special Red Card CRI 82
+4 Battle VIP Pass FST 225
+4 Trekking Shoes CRZ 145
+3 Order Pad UPR 131
+1 Rescue Stretcher GRI 130
+4 Wondrous Patch PFL 94
+2 Lillie's Determination MEG 119
+1 Ultra Ball MEG 131
+
+Energy: 2
+2 Telepathic {P} Energy POR 88
+6 Basic {P} Energy SVE 21
+
+Total Cards: 60
