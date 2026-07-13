@@ -1,0 +1,35 @@
+Pokémon: 10
+1 Fezandipiti ex ASC 288
+1 Meowth ex POR 121
+1 N's Zekrom ASC 155
+2 N's Zorua JTG 97
+2 N's Zoroark ex JTG 98
+3 Ethan's Typhlosion SVALT 178
+4 Ethan's Cyndaquil DRI 32
+3 Ethan's Quilava DRI 33
+1 Victini SSP 21
+1 Shaymin DRI 185
+
+Trainer: 16
+2 N's PP Up ASC 262
+2 Boss's Orders RCL 189
+4 Lillie's Determination MEG 169
+1 Air Balloon MEG 166
+4 Buddy-Buddy Poffin MEG 167
+1 Rare Candy PLB 105
+1 Prime Catcher TEF 157
+4 Ultra Ball PLF 122
+2 Night Stretcher MEG 173
+2 Gravity Mountain SSP 250
+1 Black Belt's Training ASC 255
+1 Redeemable Ticket JTG 156
+1 N's Castle JTG 152
+2 Poké Pad POR 113
+1 Special Red Card CRI 113
+4 Ethan's Adventure DRI 236
+
+Energy: 2
+4 Basic {R} Energy BUS 167
+4 Basic {D} Energy BUS 168
+
+Total Cards: 60

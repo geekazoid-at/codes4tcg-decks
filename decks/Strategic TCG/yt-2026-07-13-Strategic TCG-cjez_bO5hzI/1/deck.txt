@@ -1,0 +1,41 @@
+Pokémon: 13
+1 Mew PR-SM 215
+1 Garbodor PR-SW 25
+1 Jirachi {*} CES 97
+1 Alolan Raticate PGO 42
+1 Ditto {*} LOT 154
+1 Slowbro PGO 20
+1 Zacian V SSH 138
+3 Cinccino PR-SW 9
+3 Minccino BRS 124
+2 Fan Rotom SCR 118
+4 Zoroark EVS 103
+4 Zorua EVS 102
+1 Naganadel-GX FLI 56
+
+Trainer: 19
+1 Counter Catcher PAR 160
+1 Air Balloon SSH 156
+1 Secret Box TWM 163
+1 Gladion CIN 95
+2 Level Ball BST 129
+1 Forest Seal Stone SIT 156
+3 Ultra Ball CRZ 146
+2 Caitlin CRE 132
+2 Mesagoza SVI 178
+1 Miriam SVI 179
+2 Poké Pad ASC 198
+1 Peonia CRE 149
+3 Evolution Incense SSH 163
+1 Giovanni's Exile UNB 174
+1 Rescue Stretcher GRI 130
+1 Guzma BUS 115
+1 Ciphermaniac's Codebreaking TEF 145
+1 Professor Turo's Scenario PRE 121
+2 Roxie CEC 205
+
+Energy: 2
+4 Ignition Energy WHT 86
+4 Capture Energy RCL 171
+
+Total Cards: 60
