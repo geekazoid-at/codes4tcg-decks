@@ -1,0 +1,34 @@
+Pokémon: 19
+4 Grubbin TEF 18
+4 Charjabug SCR 52
+3 Vikavolt PBL 26
+2 Tynamo BLK 30
+2 Eelektrik BLK 31
+1 Stunfisk ASC 62
+1 Bloodmoon Ursaluna ex TWM 141
+1 Shaymin DRI 10
+1 Fezandipiti ex SFA 38
+
+Trainer: 30
+4 Lillie's Determination MEG 119
+2 Boss's Orders MEG 114
+2 Iris's Fighting Spirit JTG 149
+1 Morty's Conviction TEF 155
+1 Hilda WHT 84
+4 Poké Pad POR 81
+3 Buddy-Buddy Poffin TEF 144
+2 Rare Candy MEG 125
+2 Ultra Ball MEG 131
+1 Unfair Stamp TWM 165
+1 Sacred Ash DRI 168
+2 Air Balloon BLK 79
+2 Brave Bangle WHT 80
+1 Battle Cage PFL 85
+1 Prism Tower CRI 80
+1 Gravity Mountain SSP 177
+
+Energy: 11
+7 Basic {L} Energy SVE 4
+4 Basic {L} Energy SVE 4
+
+Total Cards: 60

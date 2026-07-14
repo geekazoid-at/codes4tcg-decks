@@ -1,0 +1,33 @@
+Pokémon: 21
+4 Slowpoke PBL 29
+4 Slowbro PBL 30
+4 Grookey TWM 14
+3 Thwackey TWM 15
+3 Swirlix TWM 89
+1 Psyduck ASC 39
+1 Shaymin DRI 10
+1 Lillie's Clefairy ex JTG 56
+
+Trainer: 33
+3 Hilda WHT 84
+2 Cassiopeia SFA 56
+2 Lillie's Determination MEG 119
+1 Gladion’s Final Battle PBL 77
+4 Buddy-Buddy Poffin TEF 144
+4 Poké Pad POR 81
+4 Ultra Ball MEG 131
+2 Pokémon Catcher POR 82
+2 Sacred Ash DRI 168
+1 Dusk Ball SSP 175
+1 Switch MEG 130
+1 Prime Catcher TEF 157
+3 Air Balloon BLK 79
+1 Brave Bangle WHT 80
+1 Battle Cage PFL 85
+1 Academy at Night SFA 54
+
+Energy: 6
+4 Basic {P} Energy SVE 5
+2 Basic {P} Energy SVE 5
+
+Total Cards: 60

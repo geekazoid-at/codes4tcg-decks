@@ -1,0 +1,25 @@
+Pokémon: 20
+4 Fennekin CRI 11
+3 Braixen CRI 12
+3 Delphox CRI 13
+3 Tepig WHT 11
+2 Pignite WHT 12
+2 Emboar WHT 13
+3 Heatmor WHT 19
+
+Trainer: 28
+4 Buddy-Buddy Poffin ASC 184
+4 Poké Pad POR 81
+4 Ultra Ball ASC 213
+3 Rare Candy MEG 125
+2 Night Stretcher ASC 196
+2 Energy Recycler DRI 164
+1 Unfair Stamp TWM 165
+4 Lillie's Determination ASC 192
+2 Boss's Orders ASC 183
+2 Kieran PRE 113
+
+Energy: 12
+12 Basic {R} Energy SVE 2
+
+Total Cards: 60

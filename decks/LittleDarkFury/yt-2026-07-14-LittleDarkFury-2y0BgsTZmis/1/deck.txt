@@ -1,0 +1,32 @@
+Pokémon: 10
+3 Dunsparce JTG 120
+1 Glaceon ex PRE 150
+1 Greninja ex TWM 214
+4 Froakie CRI 20
+1 Fezandipiti ex ASC 288
+1 Leafeon ex PRE 144
+3 Dudunsparce TEF 129
+2 Eevee SFA 50
+2 Frogadier CRI 89
+2 Mega Greninja ex CRI 100
+
+Trainer: 12
+3 Ultra Ball PLF 122
+3 Rare Candy PLB 105
+1 Night Stretcher MEG 173
+4 Lillie's Determination MEG 169
+3 Surfing Beach CRI 114
+2 Air Balloon MEG 166
+4 Buddy-Buddy Poffin MEG 167
+2 Crispin SCR 164
+1 Sparkling Crystal SCR 142
+4 Poké Pad POR 113
+2 Energy Retrieval CRI 108
+2 Boss's Orders RCL 189
+
+Energy: 3
+7 Basic {W} Energy CIN 124
+1 Basic {D} Energy BUS 168
+1 Basic {G} Energy GRI 167
+
+Total Cards: 60
