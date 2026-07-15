@@ -1,0 +1,28 @@
+Pokémon: 7
+1 Fan Rotom PRE 85
+4 Dunsparce JTG 120
+1 Fezandipiti ex SFA 38
+3 Dudunsparce TEF 129
+4 Weedle CRI 1
+4 Kakuna CRI 2
+4 Beedrill ex CRI 3
+
+Trainer: 13
+4 Buddy-Buddy Poffin ASC 184
+4 Poké Pad ASC 198
+1 Night Stretcher ASC 196
+4 Lillie's Determination MEG 119
+1 Hyper Aroma TWM 152
+1 Lana's Aid TWM 155
+2 Boss's Orders MEG 114
+1 Special Red Card CRI 82
+4 Forest of Vitality MEG 117
+4 Ultra Ball MEG 131
+3 Dawn PFL 87
+4 Bug Catching Set TWM 143
+1 Sacred Ash DRI 168
+
+Energy: 1
+5 Basic {G} Energy SVE 9
+
+Total Cards: 60

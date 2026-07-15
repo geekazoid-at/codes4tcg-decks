@@ -1,0 +1,29 @@
+Pokémon: 23
+4 Shuppet PBL 33
+4 Banette PBL 34
+4 Poltchageist PBL 5
+4 Sinistcha PBL 6
+3 Dhelmise PBL 39
+1 Lillie's Clefairy ex JTG 56
+1 Spiritomb PBL 35
+1 Meowth ex POR 62
+1 Patrat CRI 70
+
+Trainer: 30
+4 Lillie's Determination MEG 119
+3 Boss's Orders MEG 114
+3 Gwynn PBL 78
+3 Explorer's Guidance TEF 147
+4 Poké Pad POR 81
+4 Ultra Ball MEG 131
+2 Buddy-Buddy Poffin TEF 144
+2 Night Stretcher SFA 61
+1 Brilliant Blender SSP 164
+1 Air Balloon BLK 79
+3 Prism Tower CRI 80
+
+Energy: 7
+4 Basic {P} Energy SVE 5
+3 Basic {P} Energy SVE 5
+
+Total Cards: 60
