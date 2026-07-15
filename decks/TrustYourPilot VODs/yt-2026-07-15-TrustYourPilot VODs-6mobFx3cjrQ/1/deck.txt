@@ -1,0 +1,28 @@
+Pokémon: 10
+4 Iron Thorns ex PRE 32
+3 Shieldon PBL 61
+3 Bastiodon PBL 62
+
+Trainer: 37
+4 Lillie's Determination ASC 192
+4 Team Rocket's Petrel ASC 207
+3 Crispin PRE 105
+2 Boss's Orders MEG 114
+1 AZ's Tranquility CRI 76
+1 Xerosic's Machinations SFA 64
+4 Antique Armor Fossil PBL 72
+4 Poké Pad POR 81
+4 Crushing Hammer POR 71
+2 Team Rocket's Transceiver ASC 209
+2 Rare Candy MEG 125
+1 Secret Box TWM 163
+2 Handheld Fan TWM 150
+3 Fossil Quarry PBL 76
+
+Energy: 13
+5 Basic {L} Energy SVE 4
+4 Basic {M} Energy SVE 8
+2 Basic {L} Energy SVE 4
+2 Basic {M} Energy SVE 8
+
+Total Cards: 60
