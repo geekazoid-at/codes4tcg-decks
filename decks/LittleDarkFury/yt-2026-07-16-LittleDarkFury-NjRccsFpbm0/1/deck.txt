@@ -1,0 +1,32 @@
+Pokémon: 11
+2 Dunsparce JTG 120
+4 Beedrill ex CRI 98
+1 Dunsparce PRE 79
+1 Dusclops SFA 69
+1 Meowth ex POR 121
+1 Fezandipiti ex ASC 288
+2 Duskull SFA 68
+2 Dudunsparce TEF 129
+4 Weedle CRI 1
+4 Kakuna CRI 2
+1 Dusknoir SFA 70
+
+Trainer: 13
+4 Forest of Vitality POR 109
+2 Ultra Ball PLF 122
+2 Rare Candy PLB 105
+1 Night Stretcher MEG 173
+4 Lillie's Determination MEG 169
+3 Dawn PFL 129
+3 Buddy-Buddy Poffin MEG 167
+1 Special Red Card CRI 113
+1 Max Rod PRE 116
+4 Poké Pad POR 113
+1 Lana's Aid TWM 207
+4 Bug Catching Set TWM 143
+2 Boss's Orders RCL 189
+
+Energy: 1
+5 Basic {G} Energy GRI 167
+
+Total Cards: 60
