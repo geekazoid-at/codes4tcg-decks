@@ -1,0 +1,37 @@
+Pokémon: 11
+2 Sandile BLK 57
+1 Pecharunt ex PRE 163
+1 Dunsparce TEF 128
+3 Dudunsparce TEF 129
+1 Fezandipiti ex ASC 288
+1 Sandile BLK 135
+1 Krokorok BLK 136
+1 Meowth ex POR 121
+2 Dunsparce JTG 120
+2 Krookodile ex CRI 55
+1 Krookodile PFL 66
+
+Trainer: 18
+1 Risky Ruins MEG 127
+4 Lillie's Determination MEG 184
+1 Dawn PFL 87
+4 Buddy-Buddy Poffin MEG 167
+1 Rosa's Encouragement POR 123
+1 Maximum Belt TEF 154
+1 Punk Helmet PFL 121
+2 Night Stretcher ASC 196
+2 Janine's Secret Art SFA 88
+2 Binding Mochi SFA 55
+1 Gravity Mountain SSP 250
+2 Hilda WHT 171
+3 Poké Pad POR 113
+2 Team Rocket's Petrel DRI 226
+2 Boss's Orders ASC 183
+1 Air Balloon SSH 213
+3 Ultra Ball ASC 264
+3 Rare Candy SVI 191
+
+Energy: 1
+8 Basic {D} Energy MEE 7
+
+Total Cards: 60

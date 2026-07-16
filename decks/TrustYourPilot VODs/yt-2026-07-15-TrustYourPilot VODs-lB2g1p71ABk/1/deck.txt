@@ -1,0 +1,32 @@
+Pokémon: 20
+4 Litwick PBL 36
+4 Lampent PBL 37
+3 Mega Chandelure ex PBL 38
+3 Chandelure TWM 38
+1 Latias ex SSP 76
+1 Maractus JTG 8
+1 Elgyem BLK 40
+1 Comfey SCR 63
+1 Lillie's Clefairy ex JTG 56
+1 Budew PRE 4
+
+Trainer: 29
+4 Hilda WHT 84
+4 Lillie's Determination MEG 119
+3 Boss's Orders MEG 114
+2 Xerosic's Machinations SFA 64
+1 Lana's Aid TWM 155
+4 Poké Pad POR 81
+3 Buddy-Buddy Poffin TEF 144
+2 Ultra Ball MEG 131
+2 Rare Candy MEG 125
+2 Night Stretcher SFA 61
+2 Air Balloon BLK 79
+
+Energy: 11
+4 Basic {P} Energy SVE 5
+3 Basic {P} Energy SVE 5
+3 Basic {R} Energy SVE 2
+1 Legacy Energy TWM 167
+
+Total Cards: 60
