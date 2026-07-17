@@ -1,0 +1,23 @@
+Pokémon: 6
+4 Relicanth M 5 16
+2 Tirtouga BLK 22
+
+Trainer: 46
+4 Antique Skull Fossil M 5 71
+4 Antique Armor Fossil M 5 72
+4 Antique Cover Fossil BLK 80
+4 Antique Plume Fossil WHT 79
+4 Antique Root Fossil SCR 130
+2 Antique Jaw Fossil POR 68
+4 Night Stretcher ASC 196
+4 Brave Bangle WHT 80
+4 Fossil Excavation Site M 5 79
+4 Lillie's Determination ASC 192
+4 Larry's Skill PRE 115
+4 Boss's Orders ASC 183
+
+Energy: 8
+1 Legacy Energy TWM 167
+7 Basic {W} Energy SVE 3
+
+Total Cards: 60

@@ -1,0 +1,32 @@
+Pokémon: 8
+2 Cranidos PBL 44
+1 Bastiodon PBL 62
+1 Rampardos ex PBL 100
+2 Rampardos ex PBL 45
+2 Bastiodon PBL 93
+3 Shieldon PBL 61
+1 Tatsugiri TWM 186
+4 Cinderace MEG 28
+
+Trainer: 15
+2 Boss's Orders RCL 189
+3 Fossil Quarry PBL 76
+1 Iris's Fighting Spirit JTG 180
+3 Antique Skull Fossil PBL 73
+2 Crushing Hammer UPR 166
+4 Lillie's Determination MEG 169
+3 Antique Armor Fossil PBL 72
+1 Crushing Hammer PBL 105
+3 Rare Candy PLB 105
+2 Switch PFL 123
+3 Ultra Ball PLF 122
+1 Gwynn PBL 119
+2 Poké Pad POR 113
+4 Colress's Tenacity SFA 87
+1 Grand Tree SCR 136
+
+Energy: 2
+7 Basic {F} Energy GRI 169
+2 Magnetic {M} Energy CRI 85
+
+Total Cards: 60

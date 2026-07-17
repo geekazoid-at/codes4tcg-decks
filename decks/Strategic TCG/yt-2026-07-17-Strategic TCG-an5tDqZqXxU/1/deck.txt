@@ -1,0 +1,36 @@
+Pokémon: 11
+1 Oricorio-GX CEC 95
+1 Genesect ex BLK 67
+1 Fezandipiti ex ASC 288
+1 Dedenne-GX UNB 57
+1 Lumineon V BRS 40
+1 Squawkabilly ex PAF 75
+3 Gimmighoul SSP 97
+1 Manaphy BRS 41
+1 Radiant Greninja ASR 46
+1 Gimmighoul SSP 97
+3 Gholdengo ex PAR 139
+
+Trainer: 17
+2 Air Balloon SSH 156
+3 Quick Ball SSH 179
+1 Forest Seal Stone SIT 156
+1 Nest Ball SUM 123
+1 Max Rod PRE 116
+2 Night Stretcher SFA 61
+1 Field Blower GRI 125
+1 Iono PAL 185
+2 Energy Retrieval SSH 160
+2 Superior Energy Retrieval PAL 189
+2 Evolution Incense SSH 163
+1 Marnie SSH 169
+3 Mt. Coronet UPR 130
+2 Guzma BUS 115
+3 Buddy-Buddy Poffin ASC 184
+2 Lillie's Determination MEG 119
+4 Earthen Vessel PAR 163
+
+Energy: 1
+12 Basic {M} Energy SVE 16
+
+Total Cards: 60
