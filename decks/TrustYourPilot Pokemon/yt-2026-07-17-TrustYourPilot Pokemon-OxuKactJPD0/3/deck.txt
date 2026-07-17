@@ -1,0 +1,32 @@
+Pokémon: 11
+2 Poltchageist PBL 5
+1 Sinistcha PBL 6
+3 Banette PBL 34
+1 Patrat CRI 70
+4 Dhelmise PBL 39
+3 Dunsparce JTG 120
+3 Dudunsparce TEF 129
+4 Shuppet PBL 33
+1 Bloodmoon Ursaluna ex TWM 141
+2 Lillie's Clefairy ex JTG 56
+1 Moltres PFL 14
+
+Trainer: 10
+2 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+2 Pokégear 3.0 BLK 84
+3 Prism Tower CRI 80
+4 Poké Pad POR 81
+1 Kieran TWM 154
+3 Boss's Orders MEG 114
+2 Night Stretcher SFA 61
+4 Ultra Ball MEG 131
+3 Gwynn PBL 78
+
+Energy: 4
+1 Basic {P} Energy MEE 5
+4 Telepathic {P} Energy POR 88
+1 Legacy Energy TWM 167
+1 Prism Energy BLK 86
+
+Total Cards: 60

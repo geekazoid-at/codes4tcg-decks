@@ -1,0 +1,30 @@
+Pokémon: 9
+3 Drilbur PBL 46
+1 Metagross CRI 61
+1 Fezandipiti ex ASC 142
+2 Genesect ex BLK 67
+1 Budew ASC 16
+4 Beldum CRI 59
+2 Mega Excadrill ex PBL 65
+1 Mega Skarmory ex POR 55
+4 Metang TEF 114
+
+Trainer: 13
+1 Special Red Card CRI 113
+2 Air Balloon MEG 166
+4 Buddy-Buddy Poffin MEG 167
+1 Night Stretcher MEG 173
+2 Pokégear 3.0 BLK 84
+1 Gravity Mountain SSP 177
+1 Energy Recycler POR 108
+4 Lillie's Determination MEG 119
+2 Jumbo Ice Cream CRI 109
+1 Hero's Cape TEF 152
+4 Ultra Ball ASC 264
+2 Team Rocket's Petrel DRI 176
+2 Boss's Orders MEG 114
+
+Energy: 1
+14 Basic {M} Energy SVE 16
+
+Total Cards: 60

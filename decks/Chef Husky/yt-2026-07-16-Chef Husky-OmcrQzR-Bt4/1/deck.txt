@@ -1,0 +1,33 @@
+Pokémon: 10
+3 Dudunsparce TEF 129
+1 Fezandipiti ex ASC 288
+1 Dunsparce PRE 79
+1 Meowth ex POR 121
+4 Pikipek PBL 66
+3 Dunsparce JTG 120
+2 Trumbeak PBL 67
+4 Toucannon PBL 68
+1 Shaymin DRI 185
+1 Dudunsparce ex JTG 178
+
+Trainer: 13
+4 Buddy-Buddy Poffin TWM 223
+4 Lillie's Determination MEG 184
+3 Rare Candy GRI 165
+3 Ciphermaniac's Codebreaking TEF 198
+2 Nighttime Mine ASC 197
+3 Boss's Orders LOR-TG 24
+1 Lana's Aid TWM 219
+1 Black Belt's Training ASC 255
+3 Hilda WHT 171
+4 Poké Pad POR 113
+1 Sacred Ash POR 115
+2 Brave Bangle WHT 80
+1 Battle Cage PFL 116
+
+Energy: 3
+1 Enriching Energy SSP 191
+2 Spiky Energy JTG 159
+4 Mist Energy TEF 161
+
+Total Cards: 60

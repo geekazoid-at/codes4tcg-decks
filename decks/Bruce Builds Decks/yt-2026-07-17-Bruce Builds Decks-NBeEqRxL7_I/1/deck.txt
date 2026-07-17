@@ -1,0 +1,27 @@
+Pokémon: 8
+2 Hydrapple DRI 18
+1 Shaymin DRI 10
+1 Celebi MEG 12
+4 Dipplin TWM 18
+4 Applin TWM 17
+1 Goldeen PRE 20
+3 Thwackey TWM 15
+3 Grookey TWM 14
+
+Trainer: 11
+4 Buddy-Buddy Poffin ASC 184
+4 Poké Pad ASC 198
+2 Energy Retrieval SVI 171
+4 Lillie's Determination MEG 119
+2 Lana's Aid TWM 155
+1 Air Balloon BLK 79
+2 Kieran TWM 154
+2 Pokégear 3.0 SVI 186
+1 Max Rod PRE 116
+4 Bug Catching Set TWM 143
+4 Festival Grounds TWM 149
+
+Energy: 1
+11 Basic {G} Energy MEE 1
+
+Total Cards: 60
