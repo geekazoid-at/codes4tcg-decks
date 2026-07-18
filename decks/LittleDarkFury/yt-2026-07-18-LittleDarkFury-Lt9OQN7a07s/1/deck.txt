@@ -1,0 +1,33 @@
+Pokémon: 7
+1 Wailord ex PBL 16
+1 Munkidori SFA 72
+1 Meowth ex POR 121
+2 Wailord ex PBL 97
+3 N's Zorua JTG 97
+3 N's Zoroark ex JTG 98
+4 Wailmer PBL 15
+
+Trainer: 16
+2 Boss's Orders RCL 189
+1 Secret Box TWM 163
+1 Festival Grounds TWM 149
+4 Lillie's Determination MEG 169
+3 Misty's Vitality PBL 80
+1 Air Balloon MEG 166
+3 Buddy-Buddy Poffin MEG 167
+3 Jumbo Ice Cream CRI 109
+2 Heavy Baton TEF 151
+1 N's Castle JTG 152
+3 Ultra Ball PLF 122
+3 Pokégear 3.0 UNB 233
+1 Night Stretcher MEG 173
+1 Hilda WHT 171
+4 Poké Pad POR 113
+1 Cyrano SSP 230
+
+Energy: 3
+2 Basic {D} Energy BUS 168
+2 Bubbly {W} Energy CRI 84
+7 Basic {W} Energy CIN 124
+
+Total Cards: 60

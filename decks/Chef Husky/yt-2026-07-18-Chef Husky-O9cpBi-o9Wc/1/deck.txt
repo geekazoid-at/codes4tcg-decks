@@ -1,0 +1,38 @@
+Pokémon: 8
+1 Latias ex SSP 76
+1 Team Rocket's Articuno DRI 51
+3 Mega Kangaskhan ex MEG 182
+2 Munkidori SFA 72
+3 Bouffalant SCR 119
+1 Amaura POR 23
+2 Aurorus POR 92
+1 Psyduck ASC 226
+
+Trainer: 20
+2 Fossil Quarry PBL 76
+1 Backtrack Badge PBL 74
+1 Rare Candy GRI 165
+1 Precious Trolley SSP 185
+3 Ciphermaniac's Codebreaking TEF 198
+2 Boss's Orders LOR-TG 24
+3 Jumbo Ice Cream CRI 109
+1 Jumbo Ice Cream PFL 91
+1 Night Stretcher SSP 251
+3 Crispin PRE 171
+1 Team Rocket's Factory ASC 203
+2 Ultra Ball BRS 186
+1 Colress's Tenacity SFA 57
+2 Poké Pad POR 113
+1 Special Red Card CRI 113
+1 Handheld Fan TWM 150
+2 Antique Sail Fossil POR 69
+4 Team Rocket's Petrel DRI 226
+1 Boss's Orders MEG 114
+2 Team Rocket's Transceiver ASC 263
+
+Energy: 3
+4 Basic {D} Energy MEE 7
+4 Basic {W} Energy MEE 3
+3 Mist Energy TEF 161
+
+Total Cards: 60

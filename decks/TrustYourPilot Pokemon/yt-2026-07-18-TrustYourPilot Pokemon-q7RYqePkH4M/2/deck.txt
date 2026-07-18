@@ -1,0 +1,32 @@
+Pokémon: 8
+4 Beldum TEF 113
+4 Metang TEF 114
+1 Shaymin DRI 10
+3 Drilbur PBL 46
+2 Genesect ex BLK 67
+1 Fezandipiti ex SFA 38
+2 Mega Excadrill ex PBL 65
+2 Metagross CRI 61
+
+Trainer: 16
+1 Buddy-Buddy Poffin TEF 144
+1 Lillie's Determination MEG 119
+2 Pokégear 3.0 BLK 84
+1 Air Balloon BLK 79
+1 Gravity Mountain SSP 177
+2 Kieran TWM 154
+1 Energy Recycler DRI 164
+3 Boss's Orders MEG 114
+1 Special Red Card CRI 82
+1 Night Stretcher SFA 61
+1 Ultra Ball MEG 131
+1 Judge POR 76
+4 Team Rocket's Petrel DRI 176
+1 Precious Trolley SSP 185
+1 Jumbo Ice Cream PFL 91
+4 Team Rocket's Transceiver DRI 178
+
+Energy: 1
+15 Basic {M} Energy MEE 8
+
+Total Cards: 60

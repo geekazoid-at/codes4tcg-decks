@@ -1,0 +1,31 @@
+Pokémon: 11
+2 Manectric PBL 24
+1 Fezandipiti ex SFA 92
+3 Eelektrik BLK 31
+2 Iono's Kilowattrel JTG 55
+2 Mega Manectric ex MEG 50
+4 Electrike PBL 23
+2 Iono's Wattrel JTG 54
+3 Tynamo BLK 30
+1 Stunfisk ASC 62
+1 Patrat CRI 70
+1 Psyduck ASC 39
+
+Trainer: 12
+1 Secret Box TWM 163
+1 Judge PAF 228
+2 Air Balloon MEG 166
+4 Buddy-Buddy Poffin MEG 167
+1 Switch PFL 123
+2 Prism Tower CRI 80
+2 Night Stretcher MEG 173
+3 Lillie's Determination MEG 119
+3 Canari ASC 185
+2 Naveen POR 79
+4 Ultra Ball ASC 264
+3 Boss's Orders MEG 114
+
+Energy: 1
+10 Basic {L} Energy SVE 12
+
+Total Cards: 60
