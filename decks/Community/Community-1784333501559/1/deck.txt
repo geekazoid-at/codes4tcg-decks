@@ -1,0 +1,35 @@
+Pokémon: 9
+1 Armarouge PBL 86
+2 Charmeleon PFL 12
+1 Charmeleon MEP 79
+1 Charmander PFL 11
+3 Armarouge PBL 12
+3 Mega Charizard X ex PFL 13
+2 Charmander PFL 11
+4 Charcadet PBL 11
+2 Oricorio ex PFL 110
+
+Trainer: 17
+2 Dawn PFL 87
+1 Precious Trolley SSP 185
+1 Firebreather PFL 89
+3 Poké Pad POR 81
+1 Firebreather PFL 89
+1 Energy Recycler POR 108
+1 Battle Cage PFL 85
+1 Energy Recycler DRI 164
+2 Night Stretcher SFA 61
+2 Rare Candy MEG 125
+1 Lillie's Determination ASC 192
+2 Special Red Card CRI 113
+2 Buddy-Buddy Poffin TEF 144
+1 Lillie's Determination MEG 119
+1 Firebreather PFL 119
+2 Boss's Orders MEG 114
+1 Battle Cage PFL 116
+
+Energy: 2
+14 Basic {R} Energy SVE 10
+2 Nitro {R} Energy CRI 86
+
+Total Cards: 60
