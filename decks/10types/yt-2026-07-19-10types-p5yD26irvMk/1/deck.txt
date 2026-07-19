@@ -1,0 +1,30 @@
+Pokémon: 8
+3 Drilbur PBL 46
+2 Metagross CRI 61
+1 Mega Skarmory ex POR 55
+2 Genesect ex BLK 67
+1 Fezandipiti ex SFA 38
+3 Mega Excadrill ex PBL 65
+4 Beldum TEF 113
+4 Metang TEF 114
+
+Trainer: 14
+1 Precious Trolley SSP 185
+4 Team Rocket's Petrel DRI 176
+1 AZ's Tranquility CRI 76
+1 Energy Recycler DRI 164
+1 Special Red Card CRI 82
+2 Jumbo Ice Cream PFL 91
+1 Team Rocket's Factory DRI 173
+2 Air Balloon BLK 79
+4 Team Rocket's Transceiver DRI 178
+1 Kieran TWM 154
+1 Buddy-Buddy Poffin ASC 184
+3 Lillie's Determination MEG 119
+1 Ultra Ball MEG 131
+2 Boss's Orders MEG 114
+
+Energy: 1
+15 Basic {M} Energy MEE 8
+
+Total Cards: 60
