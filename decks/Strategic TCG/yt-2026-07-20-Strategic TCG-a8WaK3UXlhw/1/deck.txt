@@ -1,0 +1,32 @@
+Pokémon: 12
+2 Forretress ex PAL 5
+2 Dedenne-GX SMALT 156
+1 Lumineon V BRS 40
+2 Durant ex SSP 4
+1 Mega Heracross ex PFL 108
+1 Crobat V LOR-TG 20
+2 Mewtwo & Mew-GX PR-SM 191
+1 Pheromosa & Buzzwole-GX UNB 192
+2 Pineco DRI 4
+2 Tsareena-GX PR-SM 56
+1 Vileplume-GX CEC 4
+1 Latias ex SSP 239
+
+Trainer: 12
+2 Hisuian Heavy Ball ASR 146
+1 Secret Box TWM 163
+1 Guzma BUS 143
+2 Forest Seal Stone SIT 156
+2 Battle VIP Pass FST 225
+4 Ultra Ball PLF 122
+4 Trekking Shoes ASR 215
+3 Marnie PR-SW 120
+3 Iono PAL 269
+3 Hiker HIF 154
+3 Turffield Stadium RCL 170
+4 Quick Ball SSH 216
+
+Energy: 1
+10 Basic {G} Energy GRI 167
+
+Total Cards: 60
