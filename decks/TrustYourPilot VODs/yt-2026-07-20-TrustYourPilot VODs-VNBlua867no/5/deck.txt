@@ -1,0 +1,32 @@
+Pokémon: 10
+2 Solrock MEG 75
+1 Togepi SSP 70
+1 Shaymin DRI 10
+3 Trumbeak PBL 67
+4 Pikipek PBL 66
+2 Lunatone MEG 74
+1 Fezandipiti ex SFA 38
+1 Fan Rotom SCR 118
+4 Toucannon PBL 68
+1 Togekiss SSP 72
+
+Trainer: 13
+4 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+4 Poké Pad POR 81
+1 Lana's Aid TWM 155
+1 Air Balloon BLK 79
+1 Kieran TWM 154
+2 Battle Cage PFL 85
+3 Boss's Orders MEG 114
+1 Brave Bangle WHT 80
+1 Night Stretcher SFA 61
+3 Judge POR 76
+2 Accompanying Flute TWM 142
+4 Rare Candy MEG 125
+
+Energy: 2
+8 Basic {F} Energy MEE 6
+1 Legacy Energy TWM 167
+
+Total Cards: 60
