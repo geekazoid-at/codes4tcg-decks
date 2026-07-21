@@ -1,0 +1,26 @@
+Pokémon: 19
+4 Pikipek PBL 66
+3 Trumbeak PBL 67
+4 Toucannon PBL 68
+3 Solrock MEG 75
+2 Lunatone MEG 74
+2 Fan Rotom PRE 85
+1 Psyduck MEP 7
+
+Trainer: 30
+4 Lillie's Determination MEG 119
+3 Dawn PFL 87
+2 Boss's Orders PAL 172
+4 Buddy-Buddy Poffin PRE 101
+4 Fighting Gong MEG 116
+4 Poké Pad POR 81
+3 Rare Candy SVI 191
+2 Sacred Ash DRI 168
+1 Energy Recycler DRI 164
+3 Battle Cage PFL 85
+
+Energy: 11
+10 Basic {F} Energy SVE 6
+1 Legacy Energy TWM 167
+
+Total Cards: 60

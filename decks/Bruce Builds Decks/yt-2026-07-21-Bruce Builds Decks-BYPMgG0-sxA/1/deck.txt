@@ -1,0 +1,28 @@
+Pokémon: 17
+2 Lunatone ASC 105
+4 Fearow MEG 103
+2 Archeops WHT 51
+4 Spearow MEG 102
+2 Solrock MEG 75
+1 Fan Rotom ASC 250
+2 Archen WHT 50
+
+Trainer: 34
+3 Buddy-Buddy Poffin TWM 223
+3 Fossil Quarry PBL 76
+4 Backtrack Badge PBL 74
+4 Lillie's Determination MEG 184
+3 Fighting Gong MEG 168
+3 Antique Plume Fossil WHT 79
+3 Poké Pad ASC 198
+2 Lana's Aid TWM 219
+3 Boss's Orders PAL 265
+2 Black Belt's Training PRE 96
+2 Night Stretcher SSP 251
+2 Air Balloon SSH 213
+
+Energy: 9
+1 Legacy Energy TWM 167
+8 Basic {F} Energy SVE 6
+
+Total Cards: 60
