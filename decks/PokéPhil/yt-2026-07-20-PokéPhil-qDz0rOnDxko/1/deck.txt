@@ -1,0 +1,34 @@
+Pokémon: 11
+1 Pecharunt ex PRE 163
+1 Latias ex SSP 239
+1 Meowth ex POR 121
+1 Munkidori SFA 72
+1 Yveltal MEG 88
+1 Lillie's Clefairy ex JTG 184
+2 Volcanion ex JTG 182
+2 Terapagos ex PRE 180
+1 Mega Darkrai ex PBL 101
+1 Mega Darkrai ex PBL 48
+1 Mega Kangaskhan ex MEG 182
+
+Trainer: 14
+4 Pokémon Catcher CRZ 138
+2 Team Rocket's Transceiver ASC 263
+2 Night Stretcher SSP 251
+1 Cyrano SSP 230
+2 Ultra Ball BRS 186
+4 Judge SIT-TG 25
+4 Energy Switch SIT 212
+2 Janine's Secret Art PRE 173
+2 Colress's Tenacity SFA 87
+2 Area Zero Underdepths SCR 174
+4 Team Rocket's Petrel DRI 226
+4 Pokégear 3.0 UNB 233
+1 Precious Trolley SSP 185
+2 Dark Bell PBL 75
+
+Energy: 2
+9 Basic {D} Energy MEE 7
+2 Prism Energy ASC 216
+
+Total Cards: 60

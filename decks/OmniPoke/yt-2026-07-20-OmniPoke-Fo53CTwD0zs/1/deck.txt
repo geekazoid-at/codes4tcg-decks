@@ -1,0 +1,31 @@
+Pokémon: 23
+4 Dhelmise PBL 39
+3 Shuppet PBL 33
+3 Banette PBL 34
+2 Poltchageist PBL 5
+2 Sinistcha PBL 6
+3 Dunsparce JTG 120
+2 Dudunsparce PRE 80
+2 Lillie's Clefairy ex JTG 56
+1 Shaymin DRI 10
+1 Moltres PFL 14
+
+Trainer: 29
+4 Lillie's Determination ASC 192
+3 Boss's Orders ASC 183
+3 Gwynn PBL 78
+1 Lana's Aid TWM 155
+4 Ultra Ball ASC 213
+4 Poké Pad POR 81
+2 Buddy-Buddy Poffin ASC 184
+2 Night Stretcher ASC 196
+1 Secret Box TWM 163
+2 Lucky Helmet TWM 158
+3 Prism Tower CRI 80
+
+Energy: 8
+4 Basic {P} Energy SVE 5
+2 Basic {P} Energy SVE 5
+2 Prism Energy ASC 216
+
+Total Cards: 60
