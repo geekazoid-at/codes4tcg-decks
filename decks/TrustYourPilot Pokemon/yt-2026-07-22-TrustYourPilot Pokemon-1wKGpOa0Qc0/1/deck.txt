@@ -1,0 +1,26 @@
+Pokémon: 4
+3 Munkidori TWM 95
+3 Wailord ex PBL 16
+3 Wailmer PBL 15
+4 Cinderace MEG 28
+
+Trainer: 12
+4 Lillie's Determination MEG 119
+4 Pokégear 3.0 BLK 84
+4 Poké Pad POR 81
+2 Boss's Orders MEG 114
+2 Night Stretcher SFA 61
+4 Ultra Ball MEG 131
+1 Hero's Cape TEF 152
+2 Heavy Baton TEF 151
+3 Misty's Vitality PBL 80
+2 Surfing Beach MEG 129
+4 Jumbo Ice Cream PFL 91
+2 Hilda WHT 84
+
+Energy: 3
+3 Basic {D} Energy MEE 7
+8 Basic {W} Energy MEE 3
+2 Bubbly {W} Energy CRI 84
+
+Total Cards: 60

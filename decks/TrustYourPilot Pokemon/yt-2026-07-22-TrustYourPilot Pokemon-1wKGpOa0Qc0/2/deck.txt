@@ -1,0 +1,29 @@
+Pokémon: 8
+1 Meowth ex POR 62
+2 Mega Froslass ex ASC 47
+3 Wailord ex PBL 16
+3 Dunsparce JTG 120
+1 Dudunsparce ex JTG 121
+2 Dudunsparce TEF 129
+2 Snorunt ASC 46
+4 Wailmer PBL 15
+
+Trainer: 12
+3 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+4 Poké Pad POR 81
+3 Boss's Orders MEG 114
+1 Night Stretcher SFA 61
+4 Ultra Ball MEG 131
+2 Heavy Baton TEF 151
+3 Misty's Vitality PBL 80
+1 Scoop Up Cyclone TWM 162
+2 Surfing Beach MEG 129
+2 Jumbo Ice Cream PFL 91
+2 Hilda WHT 84
+
+Energy: 2
+8 Basic {W} Energy MEE 3
+3 Bubbly {W} Energy CRI 84
+
+Total Cards: 60
