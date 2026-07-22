@@ -1,0 +1,30 @@
+Pokémon: 23
+3 Hoothoot SCR 114
+3 Noctowl SCR 115
+3 Pikipek PBL 66
+2 Trumbeak PBL 67
+3 Toucannon PBL 68
+2 Duskull PRE 35
+1 Dusclops PRE 36
+2 Dusknoir PRE 37
+2 Cornerstone Mask Ogerpon ex TWM 112
+2 Fan Rotom SCR 118
+
+Trainer: 31
+4 Dawn PFL 87
+2 Boss's Orders MEG 114
+2 Lillie's Determination MEG 119
+1 Lana's Aid TWM 155
+4 Fighting Gong MEG 116
+4 Buddy-Buddy Poffin TEF 144
+4 Poké Pad POR 81
+3 Rare Candy MEG 125
+2 Night Stretcher ASC 196
+1 Prime Catcher TEF 157
+1 Special Red Card CRI 82
+3 Area Zero Underdepths SCR 131
+
+Energy: 6
+6 Basic {F} Energy SVE 6
+
+Total Cards: 60
