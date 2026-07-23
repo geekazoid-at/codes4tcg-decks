@@ -1,0 +1,30 @@
+Pokémon: 4
+4 Relicanth PBL 17
+1 Shieldon PBL 61
+1 Tirtouga BLK 22
+2 Bastiodon PBL 62
+
+Trainer: 15
+4 Lillie's Determination MEG 119
+3 Poké Pad POR 81
+2 Boss's Orders MEG 114
+2 Lucky Helmet TWM 158
+2 Brave Bangle WHT 80
+4 Night Stretcher SFA 61
+4 Fossil Quarry PBL 76
+2 Colress's Tenacity SFA 57
+1 Judge POR 76
+2 Morty's Conviction TEF 155
+4 Antique Cover Fossil BLK 80
+4 Antique Plume Fossil WHT 79
+3 Pokémon Catcher POR 82
+4 Antique Armor Fossil PBL 72
+2 Rare Candy MEG 125
+
+Energy: 4
+2 Mist Energy TEF 161
+4 Basic {W} Energy MEE 3
+2 Magnetic {M} Energy CRI 85
+1 Legacy Energy TWM 167
+
+Total Cards: 60

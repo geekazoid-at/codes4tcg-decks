@@ -1,0 +1,27 @@
+Pokémon: 2
+4 Relicanth PBL 17
+1 Tirtouga BLK 22
+
+Trainer: 15
+4 Antique Root Fossil SCR 130
+4 Lillie's Determination MEG 119
+2 Boss's Orders MEG 114
+4 Brave Bangle WHT 80
+4 Night Stretcher SFA 61
+4 Fossil Quarry PBL 76
+4 Antique Sail Fossil POR 69
+1 Colress's Tenacity SFA 57
+1 Hand Trimmer TEF 150
+1 Morty's Conviction TEF 155
+3 Larry's Skill PRE 115
+4 Antique Cover Fossil BLK 80
+4 Antique Skull Fossil PBL 73
+4 Antique Plume Fossil WHT 79
+4 Pokémon Catcher POR 82
+
+Energy: 3
+4 Basic {W} Energy MEE 3
+2 Spiky Energy JTG 159
+1 Legacy Energy TWM 167
+
+Total Cards: 60
