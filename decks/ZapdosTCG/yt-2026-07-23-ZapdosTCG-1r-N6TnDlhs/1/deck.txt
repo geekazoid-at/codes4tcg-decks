@@ -1,0 +1,24 @@
+Pokémon: 12
+4 Wailmer PBL 15
+4 Wailord ex PBL 16
+2 Dunsparce JTG 120
+2 Dudunsparce TEF 129
+
+Trainer: 35
+4 Lillie's Determination MEG 119
+4 Team Rocket's Petrel DRI 176
+4 Misty's Vitality PBL 80
+2 Boss's Orders MEG 114
+4 Pokégear 3.0 SVI 186
+4 Poké Pad POR 81
+4 Ultra Ball MEG 131
+4 Jumbo Ice Cream PFL 91
+1 Night Stretcher ASC 196
+1 Secret Box TWM 163
+3 Heavy Baton TEF 151
+
+Energy: 13
+9 Basic {W} Energy SVE 3
+4 Basic {W} Energy SVE 3
+
+Total Cards: 60
