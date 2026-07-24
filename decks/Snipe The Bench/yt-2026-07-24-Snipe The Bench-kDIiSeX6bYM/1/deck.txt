@@ -1,0 +1,32 @@
+Pokémon: 7
+2 Cranidos PBL 44
+1 Fezandipiti ex SFA 92
+2 Lunatone ASC 105
+2 Rampardos ex PBL 45
+2 Bloodmoon Ursaluna SFA 25
+3 Solrock MEG 75
+1 Meowth ex POR 62
+
+Trainer: 16
+4 Fighting Gong MEG 116
+3 Fossil Quarry PBL 76
+1 Secret Box TWM 163
+2 Air Balloon MEG 166
+2 Energy Retrieval SVI 171
+2 Heavy Baton TEF 151
+2 Pokégear 3.0 SVI 186
+3 Antique Skull Fossil PBL 73
+3 Night Stretcher MEG 173
+2 Rare Candy MEG 175
+1 Team Rocket's Petrel DRI 176
+2 Colress's Tenacity SFA 57
+1 Special Red Card CRI 113
+3 Lillie's Determination MEG 119
+3 Ultra Ball ASC 264
+2 Boss's Orders MEG 114
+
+Energy: 2
+4 Rocky {F} Energy POR 87
+7 Basic {F} Energy SVE 14
+
+Total Cards: 60

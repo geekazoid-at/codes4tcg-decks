@@ -1,0 +1,36 @@
+Pokémon: 11
+3 Dudunsparce TEF 129
+3 Bastiodon PBL 62
+1 Ethan's Sudowoodo DRI 93
+1 Dedenne SSP 87
+3 Dunsparce JTG 120
+1 Team Rocket's Chingling DRI 85
+1 Budew PRE 4
+4 Elgyem BLK 40
+2 Shieldon PBL 61
+1 Shaymin DRI 185
+1 Team Rocket's Diglett ASC 100
+
+Trainer: 15
+3 Fossil Quarry PBL 76
+1 Enhanced Hammer TWM 148
+3 Antique Armor Fossil PBL 72
+3 Poké Pad POR 81
+1 Xerosic's Machinations SFA 64
+4 Crushing Hammer POR 71
+2 Rare Candy MEG 125
+2 Handheld Fan TWM 150
+2 Hilda WHT 84
+1 Eri TEF 146
+2 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+1 Switch MEG 130
+1 Neutralization Zone SFA 60
+2 Boss's Orders MEG 114
+
+Energy: 3
+1 Telepathic {P} Energy POR 88
+4 Prism Energy BLK 86
+2 Magnetic {M} Energy CRI 85
+
+Total Cards: 60
