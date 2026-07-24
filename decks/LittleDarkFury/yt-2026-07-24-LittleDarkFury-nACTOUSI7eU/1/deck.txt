@@ -1,0 +1,35 @@
+Pokémon: 9
+3 Swirlix TWM 89
+1 Bloodmoon Ursaluna ex PRE 168
+3 Thwackey TWM 15
+1 Lillie's Clefairy ex ASC 280
+1 Slowbro PBL 90
+3 Slowbro PBL 30
+4 Slowpoke PBL 29
+3 Grookey TWM 14
+1 Shaymin DRI 185
+
+Trainer: 17
+1 Boss's Orders RCL 189
+2 Hilda WHT 164
+2 Lillie's Determination MEG 169
+1 Prime Catcher PRE 119
+2 Air Balloon MEG 166
+4 Buddy-Buddy Poffin MEG 167
+2 Cassiopeia SFA 94
+1 Gladion's Final Battle PBL 77
+2 Switch PFL 123
+2 Pokémon Catcher DEX 111
+4 Ultra Ball PLF 122
+1 Gladion's Final Battle PBL 118
+4 Poké Pad POR 113
+1 Prism Tower CRI 111
+2 Sacred Ash POR 115
+2 Brave Bangle WHT 80
+1 Battle Cage PFL 116
+
+Energy: 2
+4 Telepathic {P} Energy POR 88
+2 Basic {P} Energy SUM 162
+
+Total Cards: 60

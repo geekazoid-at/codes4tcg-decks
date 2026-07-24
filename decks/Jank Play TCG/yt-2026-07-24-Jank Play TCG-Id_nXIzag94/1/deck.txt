@@ -1,0 +1,35 @@
+Pokémon: 10
+2 Type: Null PBL 69
+4 Slowpoke PBL 29
+1 Rabsca TEF 24
+1 Lillie's Clefairy ex ASC 280
+2 Slowbro PBL 90
+2 Silvally PBL 95
+1 Thievul PBL 92
+2 Slowbro PBL 30
+1 Nickit PBL 53
+1 Rellor TEF 23
+
+Trainer: 16
+2 Brock's Scouting JTG 179
+1 Crushing Hammer UPR 166
+1 Gladion's Final Battle PBL 118
+2 Night Stretcher SSP 251
+2 Lana's Aid TWM 219
+3 Brave Bangle WHT 80
+4 Ultra Ball BRS 186
+2 Air Balloon SSH 213
+3 Hilda WHT 171
+1 Xerosic's Machinations SFA 89
+3 Buddy-Buddy Poffin TWM 223
+2 Gladion's Final Battle PBL 108
+1 Brave Bangle PBL 104
+1 Secret Box TWM 163
+3 Academy at Night SFA 54
+3 Team Rocket's Petrel DRI 226
+
+Energy: 2
+7 Basic {P} Energy MEE 5
+2 Ignition Energy WHT 86
+
+Total Cards: 60
