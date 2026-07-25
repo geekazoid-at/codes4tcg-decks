@@ -1,0 +1,28 @@
+Pokémon: 6
+3 Dunsparce CES 110
+4 Gorebyss DRI 56
+3 Dudunsparce TEF 129
+4 Clamperl CES 41
+1 Fan Rotom ASC 250
+1 Manaphy BRS 41
+
+Trainer: 14
+1 Great Haul Net CRI 78
+2 Candice SIT 152
+4 Buddy-Buddy Poffin MEG 167
+4 Irida ASR 147
+1 Rescue Carrier CRZ 142
+1 Cyrus {*} UPR 120
+4 Path to the Peak ASR 213
+1 Boss's Orders PAL 265
+3 Letter of Encouragement OBF 189
+3 Superior Energy Retrieval PAL 189
+2 Capacious Bucket RCL 156
+4 Poké Pad POR 113
+1 Colress's Tenacity SFA 87
+1 Neutralization Zone SFA 60
+
+Energy: 1
+12 Basic {W} Energy PAL 279
+
+Total Cards: 60
