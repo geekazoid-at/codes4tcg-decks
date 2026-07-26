@@ -1,0 +1,33 @@
+Pokémon: 9
+2 Iono's Kilowattrel PR-SV 182
+1 Manectric PBL 24
+3 Tynamo BLK 113
+3 Eelektrik BLK 31
+1 Mega Eelektross ex ASC 278
+2 Electrike MEG 49
+1 Electrike PBL 23
+3 Mega Manectric ex MEG 158
+2 Iono's Wattrel JTG 54
+
+Trainer: 15
+2 Boss's Orders RCL 189
+4 Lillie's Determination MEG 169
+2 Air Balloon MEG 166
+4 Buddy-Buddy Poffin MEG 167
+1 Jumbo Ice Cream CRI 109
+1 Hero's Cape TEF 152
+1 Switch PFL 123
+3 Ultra Ball PLF 122
+1 Night Stretcher MEG 173
+2 Hilda WHT 171
+1 Judge DRI 222
+3 Poké Pad POR 113
+2 Canari ASC 291
+1 Levincia DRI 244
+2 Battle Cage PFL 116
+
+Energy: 2
+3 Voltaic {L} Energy PBL 84
+9 Basic {L} Energy GRI 168
+
+Total Cards: 60

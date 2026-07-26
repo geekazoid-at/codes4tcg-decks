@@ -1,0 +1,27 @@
+Pokémon: 16
+4 Wailmer PBL 15
+3 Wailord ex PBL 16
+4 Munkidori TWM 95
+4 Cinderace MEG 28
+1 Meowth ex POR 62
+
+Trainer: 30
+4 Lillie's Determination MEG 119
+3 Misty's Vitality PBL 80
+2 Boss's Orders MEG 114
+2 Hilda WHT 84
+2 Team Rocket's Petrel DRI 176
+4 Ultra Ball MEG 131
+4 Poké Pad POR 81
+4 Jumbo Ice Cream PFL 91
+1 Secret Box TWM 163
+2 Heavy Baton TEF 151
+2 Surfing Beach MEG 129
+
+Energy: 14
+8 Basic {W} Energy SVE 3
+4 Basic {D} Energy SVE 7
+2 Basic {W} Energy SVE 3
+Link to list: https://play.limitlesstcg.com/tournament/6a5938d8cc68177ec6c56e10/player/cinimod149/decklist
+
+Total Cards: 60

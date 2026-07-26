@@ -1,0 +1,35 @@
+Pokémon: 8
+1 Latias ex SSP 76
+1 Brute Bonnet PAR 123
+2 Galarian Moltres V CRE 97
+2 Dedenne-GX UNB 57
+1 Lumineon V BRS 40
+1 Crobat V DAA 104
+3 Mega Darkrai ex PBL 48
+1 Squawkabilly ex PAL 169
+
+Trainer: 19
+2 Battle VIP Pass FST 225
+1 Secret Box TWM 163
+4 Quick Ball SSH 179
+1 Pal Pad SSH 172
+3 PokéStop PGO 68
+1 Nanu TEU 150
+1 Black Market {*} TEU 134
+1 Forest Seal Stone SIT 156
+1 Enhanced Hammer GRI 124
+2 Ancient Booster Energy Capsule PAR 159
+1 Bravery Charm PAL 173
+3 Dark Bell PBL 75
+1 Hisuian Heavy Ball ASR 146
+1 Adventure Bag LOT 167
+4 Trekking Shoes CRZ 145
+3 Energy Switch SSH 162
+2 Guzma BUS 115
+4 Dark Patch ASR 139
+2 Lillie's Determination MEG 119
+
+Energy: 1
+10 Basic {D} Energy SVE 7
+
+Total Cards: 60
