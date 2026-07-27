@@ -1,0 +1,26 @@
+Pokémon: 7
+4 Toucannon PBL 68
+1 Rabsca TEF 24
+4 Pikipek PBL 66
+1 Rabsca TEF 24
+4 Teal Mask Ogerpon ex PRE 145
+2 Rellor TEF 23
+3 Trumbeak PBL 67
+
+Trainer: 11
+3 Judge DRI 222
+3 Lana's Aid TWM 219
+2 Boss's Orders LOR-TG 24
+4 Ultra Ball BRS 186
+2 Energy Switch SIT 212
+4 Poké Pad POR 81
+1 Rare Candy GRI 165
+4 Area Zero Underdepths SCR 174
+3 Team Rocket's Petrel DRI 226
+1 Precious Trolley SSP 185
+4 Lillie's Determination MEG 184
+
+Energy: 1
+10 Basic {G} Energy MEE 1
+
+Total Cards: 60

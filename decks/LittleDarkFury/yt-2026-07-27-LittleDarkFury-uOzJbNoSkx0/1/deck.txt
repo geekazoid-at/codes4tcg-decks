@@ -1,0 +1,29 @@
+Pokémon: 25
+4 Erika's Bellsprout ASC 4
+4 Erika's Weepinbell ASC 5
+3 Erika's Victreebel ASC 6
+4 Erika's Tangela ASC 7
+2 Chikorita MEG 8
+2 Bayleef MEG 9
+2 Meganium MEG 10
+1 Erika's Oddish ASC 1
+1 Erika's Gloom ASC 2
+1 Erika's Vileplume ex ASC 3
+1 Shaymin DRI 10
+
+Trainer: 28
+4 Lillie's Determination MEG 119
+4 Gwynn PBL 78
+2 Boss's Orders MEG 114
+1 Lana's Aid TWM 155
+4 Poké Pad POR 81
+4 Bug Catching Set TWM 143
+2 Sacred Ash DRI 168
+1 Secret Box TWM 163
+2 Brave Bangle WHT 80
+4 Forest of Vitality MEG 117
+
+Energy: 7
+7 Basic {G} Energy SVE 1
+
+Total Cards: 60

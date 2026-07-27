@@ -1,0 +1,23 @@
+Pokémon: 1
+4 Relicanth PBL 17
+
+Trainer: 13
+4 Pokémon Catcher CRZ 138
+4 Antique Plume Fossil WHT 79
+4 Larry's Skill PRE 139
+4 Antique Cover Fossil BLK 80
+1 Boss's Orders PAL 265
+4 Antique Jaw Fossil POR 68
+4 Night Stretcher SSP 251
+4 Antique Skull Fossil PBL 73
+4 Antique Root Fossil SCR 130
+4 Antique Sail Fossil POR 69
+4 Brave Bangle WHT 80
+4 Lillie's Determination MEG 184
+4 Fossil Quarry PBL 76
+
+Energy: 2
+6 Basic {W} Energy PAL 279
+1 Legacy Energy TWM 167
+
+Total Cards: 60
