@@ -1,0 +1,31 @@
+Pokémon: 7
+1 Meowth ex POR 62
+1 Mega Diancie ex PFL 41
+3 Munkidori TWM 95
+2 Jellicent ex WHT 45
+2 Latias ex SSP 76
+4 Frillish WHT 44
+1 Lillie's Clefairy ex JTG 56
+
+Trainer: 14
+2 AZ's Tranquility CRI 76
+1 Xerosic's Machinations SFA 64
+3 Poké Pad ASC 198
+3 Mystery Garden ASC 194
+4 Ultra Ball ASC 264
+2 Crispin SCR 133
+4 Lillie's Determination MEG 119
+1 Night Stretcher MEG 173
+2 Boss's Orders MEG 114
+1 Hero's Cape TEF 152
+1 Team Rocket's Watchtower DRI 180
+4 Judge PAF 228
+3 Dark Bell PBL 75
+3 Wondrous Patch POR 117
+
+Energy: 3
+3 Basic {D} Energy SVE 15
+5 Basic {P} Energy SVE 13
+4 Telepathic {P} Energy POR 88
+
+Total Cards: 60
