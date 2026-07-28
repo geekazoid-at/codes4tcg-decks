@@ -1,0 +1,38 @@
+Pokémon: 15
+1 Terapagos ex PRE 169
+1 Wellspring Mask Ogerpon ex TWM 213
+3 Toucannon PBL 94
+2 Trumbeak PBL 67
+1 Latias ex SSP 239
+2 Fan Rotom ASC 250
+1 Moltres PFL 14
+1 Dusclops SFA 69
+3 Pikipek PBL 66
+1 Fezandipiti ex ASC 288
+1 Duskull SFA 68
+1 Lillie's Clefairy ex ASC 280
+3 Hoothoot SCR 114
+3 Noctowl SCR 115
+1 Dusknoir SFA 70
+
+Trainer: 13
+2 Ultra Ball PLF 122
+3 Rare Candy PLB 105
+2 Night Stretcher MEG 173
+2 Lillie's Determination MEG 169
+3 Dawn PFL 129
+1 Air Balloon MEG 166
+3 Buddy-Buddy Poffin MEG 167
+1 Sparkling Crystal PRE 129
+2 Crispin SCR 164
+3 Area Zero Underdepths SCR 174
+1 Tera Orb SSP 189
+4 Poké Pad POR 113
+2 Boss's Orders RCL 189
+
+Energy: 3
+3 Basic {P} Energy SUM 162
+1 Basic {R} Energy BUS 167
+2 Basic {W} Energy CIN 124
+
+Total Cards: 60
