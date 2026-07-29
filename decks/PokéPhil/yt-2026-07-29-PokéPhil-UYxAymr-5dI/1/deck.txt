@@ -1,0 +1,31 @@
+Pokémon: 7
+2 Lunatone MEP 4
+1 Bastiodon PBL 62
+2 Shieldon PBL 61
+3 Rampardos ex PBL 45
+1 Bastiodon PBL 93
+3 Cranidos PBL 44
+2 Solrock ASC 106
+
+Trainer: 15
+4 Lillie's Determination MEG 184
+3 Antique Skull Fossil PBL 73
+3 Rare Candy GRI 165
+1 Unfair Stamp TWM 165
+2 Fossil Quarry PBL 76
+2 Fighting Gong MEG 168
+2 Antique Armor Fossil PBL 72
+1 Dark Bell PBL 75
+2 Boss's Orders PAL 265
+1 Premium Power Pro MEG 174
+2 Night Stretcher SSP 251
+2 Hilda WHT 171
+4 Poké Pad POR 113
+4 Team Rocket's Petrel DRI 226
+2 Air Balloon SSH 213
+
+Energy: 2
+9 Basic {F} Energy MEE 6
+2 Magnetic {M} Energy CRI 85
+
+Total Cards: 60
