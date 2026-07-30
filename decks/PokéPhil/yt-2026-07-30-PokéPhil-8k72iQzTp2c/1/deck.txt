@@ -1,0 +1,27 @@
+Pokémon: 2
+4 Paldean Tauros PFL 48
+4 Tauros CRI 96
+
+Trainer: 15
+4 Risky Ruins MEG 127
+4 Fighting Gong MEG 168
+2 Premium Power Pro MEG 174
+3 Backtrack Badge PBL 74
+4 Night Stretcher SSP 251
+3 Brave Bangle WHT 80
+2 Boss's Orders LOR-TG 24
+1 Colress's Tenacity SFA 57
+3 Team Rocket's Transceiver ASC 209
+1 Crispin PRE 171
+3 Team Rocket's Petrel DRI 226
+4 Poké Pad POR 113
+1 Precious Trolley SSP 185
+4 Lillie's Determination MEG 184
+2 Lively Stadium SSP 180
+
+Energy: 3
+3 Basic {D} Energy MEE 7
+4 Basic {F} Energy MEE 6
+4 Rocky {F} Energy POR 87
+
+Total Cards: 60

@@ -1,0 +1,28 @@
+Pokémon: 6
+2 Iono's Voltorb JTG 47
+3 Iono's Wattrel ASC 231
+1 Mega Zeraora ex PBL 114
+3 Iono's Tadbulb JTG 52
+3 Iono's Kilowattrel PR-SV 182
+3 Iono's Bellibolt ex ASC 279
+
+Trainer: 13
+3 Ultra Ball PLF 122
+1 Night Stretcher MEG 173
+4 Lillie's Determination MEG 169
+1 Judge DRI 222
+1 Air Balloon MEG 166
+4 Buddy-Buddy Poffin MEG 167
+3 Canari ASC 291
+1 Team Rocket's Petrel DRI 226
+2 Poké Pad POR 113
+1 Scramble Switch SSP 186
+1 Energy Retrieval CRI 108
+3 Boss's Orders RCL 189
+3 Levincia DRI 244
+
+Energy: 2
+2 Voltaic {L} Energy PBL 84
+15 Basic {L} Energy GRI 168
+
+Total Cards: 60
