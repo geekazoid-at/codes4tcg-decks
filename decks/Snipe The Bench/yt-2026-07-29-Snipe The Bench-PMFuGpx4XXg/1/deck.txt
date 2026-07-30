@@ -1,0 +1,33 @@
+Pokémon: 9
+1 Steven's Metang DRI 144
+3 Genesect ex BLK 67
+2 Empoleon ex PFL 70
+2 Piplup PFL 27
+2 Bastiodon PBL 62
+2 Steven's Beldum DRI 143
+1 Prinplup PFL 28
+2 Shieldon PBL 61
+2 Steven's Metagross ex DRI 145
+
+Trainer: 14
+2 Fossil Quarry PBL 76
+1 Secret Box TWM 163
+3 Antique Armor Fossil PBL 72
+4 Team Rocket's Petrel DRI 176
+4 Buddy-Buddy Poffin MEG 167
+1 Energy Recycler POR 108
+4 Pokégear 3.0 SVI 186
+1 Night Stretcher MEG 173
+3 Rare Candy MEG 175
+1 Special Red Card CRI 113
+1 Handheld Fan TWM 150
+4 Lillie's Determination MEG 119
+2 Ultra Ball ASC 264
+2 Boss's Orders MEG 114
+
+Energy: 3
+3 Basic {P} Energy SVE 13
+2 Magnetic {M} Energy CRI 85
+5 Basic {M} Energy SVE 16
+
+Total Cards: 60
