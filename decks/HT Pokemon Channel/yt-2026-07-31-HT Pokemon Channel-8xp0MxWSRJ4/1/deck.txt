@@ -1,0 +1,29 @@
+Pokémon: 25
+4 Swinub JTG 77
+2 Piloswine JTG 78
+3 Mamoswine ex JTG 79
+3 Pikipek PBL 66
+2 Trumbeak PBL 67
+3 Toucannon PBL 68
+3 Torchic DRI 40
+2 Combusken DRI 41
+2 Blaziken ex JTG 24
+1 Blaziken DRI 42
+
+Trainer: 25
+4 Buddy-Buddy Poffin ASC 184
+4 Rare Candy MEG 125
+3 Ultra Ball ASC 213
+2 Premium Power Pro ASC 199
+1 Night Stretcher ASC 196
+1 Grand Tree SCR 136
+1 Prism Tower CRI 80
+4 Colress's Tenacity SFA 57
+3 Boss's Orders ASC 183
+2 Lillie's Determination ASC 192
+
+Energy: 10
+7 Basic {F} Energy SVE 6
+3 Basic {R} Energy SVE 2
+
+Total Cards: 60
