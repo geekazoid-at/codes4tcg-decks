@@ -1,0 +1,36 @@
+Pokémon: 8
+2 Slowpoke PBL 29
+2 Type: Null PBL 69
+2 Slowpoke PBL 29
+2 Slowbro PBL 90
+1 Nickit MEG 89
+2 Silvally PBL 95
+1 Thievul PBL 92
+1 Slowbro PBL 30
+
+Trainer: 20
+2 Academy at Night SFA 54
+2 Pokémon Catcher SSH 175
+1 Larry's Skill PRE 139
+3 Amarys PRE 132
+1 Cassiopeia SFA 94
+2 Pokémon Catcher SUM 126
+2 Gladion's Final Battle PBL 77
+2 Night Stretcher SSP 251
+4 Ultra Ball BRS 186
+2 Air Balloon SSH 213
+2 Hilda WHT 171
+3 Buddy-Buddy Poffin TWM 223
+3 Larry's Skill PRE 115
+1 Secret Box TWM 163
+2 Academy at Night SFA 54
+2 Brave Bangle WHT 80
+4 Poké Pad POR 113
+1 Wondrous Patch POR 117
+1 Sacred Ash POR 115
+1 Cassiopeia SFA 56
+
+Energy: 1
+6 Basic {P} Energy MEE 5
+
+Total Cards: 60
