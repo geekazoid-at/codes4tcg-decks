@@ -1,0 +1,30 @@
+Pokémon: 8
+3 Tyrunt MEP 70
+2 Lunatone MEP 4
+2 Barbaracle POR 43
+1 Relicanth TEF 173
+1 Bloodmoon Ursaluna SFA 25
+3 Solrock MEG 75
+2 Binacle POR 42
+3 Tyrantrum MEP 66
+
+Trainer: 12
+2 Boss's Orders RCL 189
+3 Fossil Quarry PBL 76
+4 Fighting Gong MEG 168
+4 Lillie's Determination MEG 169
+2 Air Balloon MEG 166
+1 Rare Candy PLB 105
+4 Antique Jaw Fossil POR 68
+1 Night Stretcher MEG 173
+4 Poké Pad POR 113
+2 Colress's Tenacity SFA 87
+2 Tarragon POR 116
+1 Special Red Card CRI 113
+
+Energy: 3
+1 Legacy Energy TWM 167
+8 Basic {F} Energy GRI 169
+4 Rocky {F} Energy POR 87
+
+Total Cards: 60

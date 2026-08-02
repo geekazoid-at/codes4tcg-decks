@@ -1,0 +1,31 @@
+Pokémon: 8
+4 Beldum TEF 113
+1 Fezandipiti ex ASC 288
+2 Genesect ex BLK 169
+4 Metang TEF 114
+3 Drilbur PBL 46
+1 Budew ASC 221
+1 Metagross CRI 61
+3 Mega Excadrill ex PBL 65
+
+Trainer: 15
+2 Boss's Orders PAL 265
+2 Team Rocket's Transceiver DRI 178
+2 Full Metal Lab TEF 148
+2 Team Rocket's Transceiver ASC 263
+1 Gravity Mountain SSP 250
+1 Night Stretcher SSP 251
+1 Energy Recycler FLI 143
+2 Ultra Ball BRS 186
+1 Air Balloon SSH 213
+1 Buddy-Buddy Poffin TWM 223
+4 Team Rocket's Petrel DRI 226
+2 Jumbo Ice Cream CRI 109
+1 Precious Trolley SSP 185
+4 Lillie's Determination MEG 184
+1 Switch MEW 206
+
+Energy: 1
+14 Basic {M} Energy MEE 8
+
+Total Cards: 60
