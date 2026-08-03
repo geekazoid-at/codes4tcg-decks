@@ -1,0 +1,29 @@
+Pokémon: 19
+1 Kadabra MEG 55
+2 Torchic DRI 40
+2 Blaziken ex JTG 24
+2 Maractus JTG 160
+4 Sneasel SFA 13
+3 Weavile SFA 14
+2 Alakazam TWM 82
+2 Abra TWM 80
+1 Combusken DRI 41
+
+Trainer: 32
+4 Buddy-Buddy Poffin ASC 184
+3 Powerglass SFA 63
+4 Poké Pad ASC 198
+2 Rare Candy SVI 191
+3 Night Stretcher ASC 196
+3 Crushing Hammer SVI 168
+4 Lillie's Determination MEG 119
+2 Lisia's Appeal SSP 179
+2 Air Balloon BLK 79
+4 Boss's Orders MEG 114
+1 Neutralization Zone SFA 60
+
+Energy: 9
+2 Basic {P} Energy SVE 5
+7 Basic {W} Energy SVE 3
+
+Total Cards: 60
