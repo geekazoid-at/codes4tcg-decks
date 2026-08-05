@@ -1,0 +1,28 @@
+Pokémon: 9
+1 Lillie's Clefairy ex JTG 184
+3 Banette PBL 34
+2 Moltres PFL 14
+2 Poltchageist PBL 5
+3 Dhelmise PBL 39
+3 Sinistcha PBL 6
+3 Dunsparce JTG 120
+2 Dudunsparce PRE 80
+2 Shuppet PBL 33
+
+Trainer: 9
+2 Buddy-Buddy Poffin TWM 223
+4 Lillie's Determination MEG 184
+4 Crushing Hammer UPR 166
+4 Gwynn PBL 78
+4 Boss's Orders LOR-TG 24
+2 Night Stretcher SSP 251
+4 Ultra Ball BRS 186
+4 Poké Pad POR 113
+3 Prism Tower CRI 111
+
+Energy: 3
+1 Legacy Energy TWM 167
+4 Telepathic {P} Energy POR 88
+3 Prism Energy ASC 216
+
+Total Cards: 60

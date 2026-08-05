@@ -1,0 +1,30 @@
+Pokémon: 7
+2 Lunatone ASC 105
+2 Binacle MEP 87
+2 Barbaracle POR 43
+1 Tyrunt MEALT 7
+3 Okidogi TWM 111
+3 Tyrantrum MEP 66
+2 Solrock ASC 106
+
+Trainer: 12
+4 Fighting Gong MEG 116
+3 Fossil Quarry PBL 76
+4 Rare Candy SVI 256
+4 Poké Pad ASC 198
+1 Night Stretcher ASC 196
+1 Switch MEW 206
+4 Antique Jaw Fossil POR 68
+2 Premium Power Pro MEG 124
+1 Colress's Tenacity SFA 87
+2 Tarragon POR 116
+4 Gwynn PBL 78
+2 Boss's Orders ASC 183
+
+Energy: 4
+1 Legacy Energy TWM 167
+3 Prism Energy ASC 216
+6 Basic {F} Energy MEE 6
+3 Rocky {F} Energy POR 87
+
+Total Cards: 60
