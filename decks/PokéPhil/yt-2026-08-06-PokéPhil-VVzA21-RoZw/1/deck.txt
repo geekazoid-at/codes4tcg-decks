@@ -1,0 +1,34 @@
+Pokémon: 9
+1 Rabsca TEF 24
+4 Grubbin PBL 2
+1 Psyduck ASC 39
+1 Luxio POR 27
+1 Shinx POR 26
+3 Vikavolt PBL 26
+1 Rellor TEF 23
+1 Luxray POR 28
+3 Charjabug PBL 25
+
+Trainer: 16
+3 Boss's Orders ASC 183
+1 Switch SVI 194
+2 Air Balloon ASC 181
+2 Black Belt's Training JTG 144
+4 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+3 Poké Pad POR 81
+1 Lana's Aid TWM 155
+1 Gravity Mountain SSP 177
+1 Special Red Card CRI 82
+2 Brave Bangle WHT 80
+1 Night Stretcher SFA 61
+1 Maximum Belt PRE 117
+2 Dawn PFL 87
+3 Hilda WHT 84
+3 Rare Candy MEG 125
+
+Energy: 2
+6 Basic {L} Energy MEE 4
+4 Voltaic {L} Energy PBL 84
+
+Total Cards: 60

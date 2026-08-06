@@ -1,0 +1,29 @@
+Pokémon: 14
+4 Slowpoke SCR 57
+3 Mega Slowbro ex PBL 31
+2 Smoochum SSP 75
+2 Latias ex SSP 76
+2 Munkidori ASC 99
+1 Lillie's Clefairy ex ASC 76
+
+Trainer: 34
+4 Poké Pad POR 81
+4 Ultra Ball ASC 213
+3 Jumbo Ice Cream PFL 91
+2 Night Stretcher ASC 196
+2 Wondrous Patch PFL 94
+1 Hero's Cape TEF 152
+3 Mystery Garden ASC 194
+4 Lillie's Determination ASC 192
+3 Jacinthe POR 75
+2 Colress's Tenacity SFA 57
+2 Hilda WHT 84
+2 Judge POR 76
+2 Boss's Orders ASC 183
+
+Energy: 12
+4 Basic {P} Energy SVE 5
+6 Basic {P} Energy SVE 5
+2 Basic {D} Energy SVE 7
+
+Total Cards: 60
