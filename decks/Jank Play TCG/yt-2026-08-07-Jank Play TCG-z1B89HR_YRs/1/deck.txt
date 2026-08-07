@@ -1,0 +1,27 @@
+Pokémon: 7
+3 Slowpoke PBL 29
+3 Mega Slowbro ex PBL 31
+1 Shaymin DRI 185
+2 Lillie's Clefairy ex ASC 280
+1 Psyduck ASC 226
+1 Patrat CRI 70
+4 Smoochum SSP 75
+
+Trainer: 12
+3 Boss's Orders PAL 265
+1 Deluxe Bomb SCR 134
+4 Ultra Ball BRS 186
+2 Tool Scrapper CRI 115
+3 Hilda WHT 171
+1 Xerosic's Machinations SFA 89
+3 Buddy-Buddy Poffin TWM 223
+3 Ruffian JTG 181
+3 Jumbo Ice Cream CRI 109
+4 Lillie's Determination MEG 184
+4 Wondrous Patch POR 117
+4 Festival Grounds PRE 108
+
+Energy: 1
+10 Basic {P} Energy MEE 5
+
+Total Cards: 60

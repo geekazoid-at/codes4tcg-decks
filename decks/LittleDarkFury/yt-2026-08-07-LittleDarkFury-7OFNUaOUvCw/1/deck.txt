@@ -1,0 +1,26 @@
+Pokémon: 2
+4 Relicanth PBL 17
+2 Tirtouga BLK 106
+
+Trainer: 14
+3 Boss's Orders RCL 189
+4 Fossil Quarry PBL 76
+4 Lillie's Determination MEG 184
+4 Antique Cover Fossil SCR 129
+2 Larry's Skill PRE 139
+3 Pokémon Catcher DEX 111
+3 Pokégear 3.0 UNB 233
+4 Night Stretcher MEG 173
+4 Antique Plume Fossil WHT 79
+4 Antique Root Fossil SCR 130
+4 Poké Pad POR 113
+2 Iris's Fighting Spirit ASC 292
+1 Xerosic's Machinations SFA 89
+3 Brave Bangle WHT 80
+
+Energy: 3
+1 Legacy Energy TWM 167
+4 Basic {W} Energy CIN 124
+4 Mist Energy TEF 161
+
+Total Cards: 60
