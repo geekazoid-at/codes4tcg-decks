@@ -1,0 +1,31 @@
+Pokémon: 18
+3 Dunsparce JTG 120
+4 Mankey DRI 90
+3 Annihilape DRI 92
+1 Binacle POR 42
+1 Barbaracle POR 43
+2 Primeape SSP 99
+2 Dudunsparce PRE 80
+1 Annihilape SSP 100
+1 Budew ASC 221
+
+Trainer: 34
+4 Buddy-Buddy Poffin ASC 184
+3 Risky Ruins MEG 127
+3 Team Rocket's Venture Bomb DRI 179
+4 Poké Pad ASC 198
+2 Rare Candy SVI 191
+2 Night Stretcher ASC 196
+4 Lillie's Determination MEG 119
+1 Rosa's Encouragement POR 84
+2 Air Balloon BLK 79
+4 Fighting Gong MEG 116
+1 Brave Bangle WHT 80
+1 Sacred Ash DRI 168
+3 Premium Power Pro MEG 124
+
+Energy: 8
+7 Basic {F} Energy SVE 6
+1 Neo Upper Energy TEF 162
+
+Total Cards: 60
