@@ -1,0 +1,31 @@
+Pokémon: 9
+1 Lillie's Clefairy ex JTG 184
+3 Litwick PBL 36
+3 Munkidori SFA 72
+1 Cornerstone Mask Ogerpon ex PRE 160
+2 Jellicent ex WHT 168
+2 Frillish WHT 126
+3 Lampent PBL 37
+2 Mega Chandelure ex PBL 115
+1 Latias ex SSP 239
+
+Trainer: 11
+4 Lillie's Determination MEG 184
+2 Judge SIT-TG 25
+1 Jacinthe POR 122
+1 Hero's Cape TEF 152
+3 Mystery Garden MEG 172
+2 Night Stretcher SSP 251
+3 Crispin PRE 171
+4 Ultra Ball BRS 186
+3 Boss's Orders RCL 200
+4 Poké Pad POR 113
+2 Wondrous Patch POR 117
+
+Energy: 4
+4 Telepathic {P} Energy POR 88
+4 Basic {P} Energy MEE 5
+4 Basic {D} Energy MEE 7
+1 Basic {F} Energy MEE 6
+
+Total Cards: 60
