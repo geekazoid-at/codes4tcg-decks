@@ -1,0 +1,27 @@
+Pokémon: 7
+2 Solrock MEG 75
+1 Meowth ex POR 121
+1 Fezandipiti ex ASC 288
+3 Ceruledge ex PRE 147
+1 Chi-Yu MEG 31
+2 Lunatone MEP 4
+4 Charcadet SSP 32
+
+Trainer: 10
+3 Ultra Ball PLF 122
+4 Night Stretcher MEG 173
+4 Fighting Gong MEG 168
+2 Lillie's Determination MEG 169
+1 Air Balloon MEG 166
+2 Prism Tower CRI 111
+1 Briar SCR 171
+3 Poké Pad POR 113
+4 Carmine TWM 204
+3 Boss's Orders RCL 189
+
+Energy: 3
+6 Basic {R} Energy BUS 167
+1 Legacy Energy TWM 167
+12 Basic {F} Energy GRI 169
+
+Total Cards: 60
