@@ -1,0 +1,31 @@
+Pokémon: 11
+1 Empoleon ex PFL 114
+4 Metang TEF 114
+1 Piplup PFL 98
+3 Drilbur PBL 46
+1 Flutter Mane PR-SV 97
+1 Fezandipiti ex ASC 288
+2 Genesect ex BLK 169
+1 Prinplup PFL 28
+2 Mega Excadrill ex PBL 103
+1 Metagross CRI 61
+4 Beldum CRI 59
+
+Trainer: 12
+1 Energy Recycler POR 108
+1 Rare Candy PLB 105
+4 Team Rocket's Transceiver ASC 263
+1 Night Stretcher MEG 173
+1 Gravity Mountain SSP 250
+1 Buddy-Buddy Poffin MEG 167
+1 Special Red Card CRI 113
+4 Team Rocket's Petrel DRI 226
+2 Jumbo Ice Cream CRI 109
+1 Precious Trolley SSP 185
+4 Lillie's Determination MEG 184
+3 Boss's Orders RCL 189
+
+Energy: 1
+15 Basic {M} Energy SUM 163
+
+Total Cards: 60

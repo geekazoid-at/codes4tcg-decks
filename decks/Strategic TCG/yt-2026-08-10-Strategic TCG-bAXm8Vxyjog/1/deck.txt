@@ -1,0 +1,34 @@
+Pokémon: 12
+2 Meganium MEP 1
+1 Fezandipiti ex ASC 288
+1 Rowlet & Alolan Exeggutor-GX UNM 215
+2 Venusaur SLG 3
+2 Chikorita MEG 8
+1 Shaymin {*} TEU 10
+2 Bulbasaur DET 1
+3 Teal Mask Ogerpon ex TWM 211
+2 Bayleef LOT 7
+1 Mega Venusaur ex MEG 177
+2 Tapu Lele-GX SMALT 38
+2 Ivysaur MEG 134
+
+Trainer: 14
+1 Rescue Stretcher BUS 165
+1 Net Ball LOT 234
+4 Battle VIP Pass FST 225
+1 Secret Box TWM 163
+4 Lillie's Determination MEG 169
+1 Superior Energy Retrieval PAL 277
+4 Forest of Vitality POR 109
+2 Earthen Vessel SFA 96
+2 Cynthia HIF 151
+2 Iono PAF 237
+3 Guzma HIF 153
+1 Bravery Charm SCR 175
+2 Evolution Incense SSH 163
+2 Quick Ball SSH 216
+
+Energy: 1
+9 Basic {G} Energy GRI 167
+
+Total Cards: 60

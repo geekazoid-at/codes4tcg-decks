@@ -1,0 +1,35 @@
+Pokémon: 12
+1 Latias ex SSP 76
+1 Mega Mawile ex MEG 94
+1 Budew ASC 16
+1 Mega Skarmory ex POR 55
+2 Genesect ex BLK 67
+2 Steven's Metang DRI 144
+3 Steven's Beldum DRI 143
+1 Dialga MEG 95
+1 Fezandipiti ex ASC 142
+1 Lillie's Clefairy ex JTG 56
+2 Meowth ex POR 62
+3 Steven's Metagross ex DRI 145
+
+Trainer: 14
+3 Brock's Scouting JTG 146
+2 Team Rocket's Petrel DRI 176
+2 Battle Cage PFL 85
+1 Hero's Cape TEF 152
+3 Rare Candy MEG 125
+2 Special Red Card CRI 82
+2 Night Stretcher ASC 196
+1 Jumbo Ice Cream PFL 91
+1 Philippe CRI 79
+3 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+1 Switch MEG 130
+4 Ultra Ball MEG 131
+2 Boss's Orders MEG 114
+
+Energy: 2
+6 Basic {M} Energy MEE 8
+4 Basic {P} Energy MEE 5
+
+Total Cards: 60
