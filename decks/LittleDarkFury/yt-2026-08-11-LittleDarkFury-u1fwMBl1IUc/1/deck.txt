@@ -1,0 +1,30 @@
+Pokémon: 11
+3 Munkidori SFA 72
+1 Bloodmoon Ursaluna ex PRE 168
+4 Banette PBL 34
+1 Poltchageist TWM 21
+2 Froslass TWM 53
+3 Shuppet PBL 33
+3 Poltchageist PBL 5
+4 Sinistcha PBL 6
+1 Dhelmise PBL 91
+2 Snorunt ASC 227
+1 Budew ASC 221
+
+Trainer: 10
+2 Boss's Orders RCL 189
+1 Secret Box TWM 163
+4 Lillie's Determination MEG 169
+4 Gwynn PBL 109
+1 Air Balloon MEG 166
+4 Buddy-Buddy Poffin MEG 167
+3 Ultra Ball PLF 122
+3 Night Stretcher MEG 173
+4 Poké Pad POR 113
+2 Prism Tower CRI 111
+
+Energy: 2
+4 Basic {D} Energy BUS 168
+3 Basic {P} Energy SUM 162
+
+Total Cards: 60

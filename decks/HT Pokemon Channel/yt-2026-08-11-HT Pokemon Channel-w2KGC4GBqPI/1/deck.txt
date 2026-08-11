@@ -1,0 +1,24 @@
+Pokémon: 14
+4 Raging Bolt ex TEF 123
+4 Helioptile SSP 154
+4 Heliolisk ASC 64
+2 Fan Rotom ASC 171
+
+Trainer: 29
+4 Buddy-Buddy Poffin ASC 184
+4 Pokégear 3.0 BLK 84
+2 Ultra Ball ASC 213
+2 Night Stretcher ASC 196
+1 Energy Recycler DRI 164
+1 Energy Switch MEG 115
+1 Unfair Stamp TWM 165
+4 Crispin PRE 105
+4 Canari ASC 185
+3 Boss's Orders ASC 183
+3 Lillie's Determination ASC 192
+
+Energy: 17
+5 Basic {F} Energy SVE 6
+12 Basic {L} Energy SVE 4
+
+Total Cards: 60
