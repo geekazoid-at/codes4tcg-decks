@@ -1,0 +1,26 @@
+Pokémon: 4
+3 Mega Sharpedo ex PFL 61
+2 Toxel PFL 67
+2 Toxtricity PFL 68
+4 Carvanha PFL 60
+
+Trainer: 12
+2 Risky Ruins MEG 127
+4 Salvatore TEF 160
+1 Night Stretcher MEG 173
+4 Judge DRI 222
+4 Wally's Compassion MEG 132
+4 Call Bell SSP 165
+2 Buddy-Buddy Poffin MEG 167
+4 Pokégear 3.0 SVI 186
+1 Larry's Skill PRE 115
+4 Roto-Stick PRE 127
+4 Dark Bell PBL 75
+3 Boss's Orders RCL 189
+
+Energy: 3
+7 Basic {D} Energy SVE 15
+4 Shadowy {D} Energy PBL 83
+1 Legacy Energy TWM 167
+
+Total Cards: 60
