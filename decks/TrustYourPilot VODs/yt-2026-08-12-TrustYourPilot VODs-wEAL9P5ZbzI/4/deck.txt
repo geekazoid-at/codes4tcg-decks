@@ -1,0 +1,32 @@
+Pokémon: 9
+3 Smoochum SSP 75
+3 Lugia ex PRE 82
+1 Patrat CRI 70
+2 Latias ex SSP 76
+1 Lillie's Clefairy ex ASC 76
+1 Fezandipiti ex SFA 38
+3 Bouffalant SCR 119
+2 Mega Kangaskhan ex MEG 104
+2 Bastiodon PBL 62
+
+Trainer: 15
+4 Ultra Ball SVI 196
+1 Iris's Fighting Spirit JTG 149
+4 Crushing Hammer SVI 168
+4 Lillie's Determination MEG 119
+3 Backtrack Badge PBL 74
+2 Energy Switch MEG 115
+2 Fossil Quarry PBL 76
+2 Night Stretcher SFA 61
+1 Morty's Conviction TEF 155
+1 Unfair Stamp TWM 165
+1 Tool Scrapper ASC 212
+2 Antique Armor Fossil PBL 72
+2 Boss's Orders PAL 172
+1 Enhanced Hammer TWM 148
+2 Rare Candy MEG 125
+
+Energy: 1
+10 Basic {P} Energy MEE 5
+
+Total Cards: 60

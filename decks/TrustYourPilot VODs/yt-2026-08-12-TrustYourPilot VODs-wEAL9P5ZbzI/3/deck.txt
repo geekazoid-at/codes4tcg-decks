@@ -1,0 +1,33 @@
+Pokémon: 8
+2 Latias ex SSP 76
+2 Bastiodon PBL 62
+1 Galvantula SFA 2
+2 Lugia ex PRE 82
+1 Fezandipiti ex SFA 38
+2 Mega Kangaskhan ex MEG 104
+3 Joltik SCR 50
+3 Bouffalant SCR 119
+
+Trainer: 16
+3 Dusk Ball SSP 175
+2 Fossil Quarry PBL 76
+3 Backtrack Badge PBL 74
+1 Unfair Stamp TWM 165
+1 Iris's Fighting Spirit JTG 149
+2 Antique Armor Fossil PBL 72
+1 Poké Pad POR 81
+1 Morty's Conviction TEF 155
+2 Night Stretcher SFA 61
+2 Rare Candy MEG 125
+2 Boss's Orders PAL 172
+4 Crushing Hammer SVI 168
+2 Crispin SCR 133
+4 Lillie's Determination MEG 119
+3 Ultra Ball SVI 196
+1 Energy Switch MEG 115
+
+Energy: 2
+5 Basic {L} Energy MEE 4
+5 Basic {G} Energy MEE 1
+
+Total Cards: 60

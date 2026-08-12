@@ -1,0 +1,32 @@
+Pokémon: 21
+4 Slowpoke SCR 57
+3 Slowking SCR 58
+3 Mega Kangaskhan ex MEG 104
+2 Latias ex SSP 76
+2 Kyurem SFA 47
+2 Metagross CRI 61
+1 Meowth ex POR 62
+1 Lillie's Clefairy ex ASC 76
+1 Fezandipiti ex ASC 142
+1 Annihilape PBL 41
+1 Zeraora DRI 78
+
+Trainer: 29
+4 Lillie's Determination ASC 192
+4 Ciphermaniac's Codebreaking PRE 104
+4 Poké Pad POR 81
+4 Ultra Ball ASC 213
+3 Wondrous Patch PFL 94
+2 Night Stretcher ASC 196
+1 Secret Box TWM 163
+1 Switch MEG 130
+1 Powerglass SFA 63
+1 Brave Bangle WHT 80
+4 Academy at Night SFA 54
+
+Energy: 10
+4 Basic {P} Energy SVE 5
+4 Basic {P} Energy SVE 5
+2 Boomerang Energy TWM 166
+
+Total Cards: 60

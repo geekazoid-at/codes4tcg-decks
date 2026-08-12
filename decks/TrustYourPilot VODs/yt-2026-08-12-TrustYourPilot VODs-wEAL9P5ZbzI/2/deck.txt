@@ -1,0 +1,33 @@
+Pokémon: 9
+1 Shaymin DRI 10
+3 Drakloak TWM 129
+3 Dreepy TWM 128
+2 Munkidori TWM 95
+1 Dragapult ex TWM 130
+1 Tranquill BLK 72
+4 Pidove TEF 133
+1 Fan Rotom SCR 118
+3 Unfezant BLK 73
+
+Trainer: 13
+4 Risky Ruins MEG 127
+3 Crispin SCR 133
+4 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+1 Rosa's Encouragement POR 84
+4 Poké Pad POR 81
+4 Backtrack Badge PBL 74
+1 Air Balloon BLK 79
+1 Boss's Orders MEG 114
+1 Energy Recycler DRI 164
+2 Ultra Ball MEG 131
+3 Colress's Tenacity SFA 57
+1 Sacred Ash DRI 168
+
+Energy: 4
+2 Basic {P} Energy MEE 5
+3 Basic {D} Energy MEE 7
+2 Basic {R} Energy MEE 2
+1 Neo Upper Energy TEF 162
+
+Total Cards: 60

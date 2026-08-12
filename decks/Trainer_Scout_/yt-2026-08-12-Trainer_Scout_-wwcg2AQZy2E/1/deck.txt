@@ -1,0 +1,37 @@
+Pokémon: 13
+1 Meowth ex POR 62
+3 Eelektrik ASC 60
+1 Galvantula SFA 2
+1 Shaymin DRI 10
+1 Galvantula ex SCR 51
+3 Tynamo ASC 59
+1 Galvantula SFA 2
+1 Fezandipiti ex ASC 142
+1 Zekrom ex BLK 166
+4 Joltik SCR 50
+1 Psyduck MEP 7
+1 Galvantula WHT 34
+1 Zeraora DRI 78
+
+Trainer: 15
+1 Energy Search POR 72
+2 Canari ASC 185
+2 Boss's Orders ASC 183
+2 Air Balloon ASC 181
+2 Battle Cage PFL 116
+3 Night Stretcher ASC 196
+3 Lillie's Determination ASC 192
+3 Poké Pad POR 81
+1 Lana's Aid TWM 155
+1 Special Red Card CRI 82
+2 Brave Bangle WHT 80
+1 Buddy-Buddy Poffin TWM 223
+1 Secret Box TWM 163
+3 Team Rocket's Petrel DRI 176
+3 Ultra Ball ASC 213
+
+Energy: 2
+7 Basic {L} Energy MEE 4
+3 Basic {G} Energy MEE 1
+
+Total Cards: 60
