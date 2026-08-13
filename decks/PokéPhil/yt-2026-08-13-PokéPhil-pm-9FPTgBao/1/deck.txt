@@ -1,0 +1,29 @@
+Pokémon: 6
+4 Slowpoke PBL 29
+1 Shaymin DRI 185
+4 Slowbro PBL 90
+3 Swirlix TWM 89
+3 Thwackey PR-SV 115
+4 Grookey TWM 14
+
+Trainer: 14
+2 Dusk Ball SSP 175
+2 Boss's Orders PAL 265
+1 Gladion's Final Battle PBL 118
+1 Cassiopeia SFA 94
+1 Night Stretcher SSP 251
+4 Ultra Ball BRS 186
+1 Prime Catcher PRE 119
+4 Air Balloon SSH 213
+4 Hilda WHT 171
+4 Buddy-Buddy Poffin TWM 223
+2 Brave Bangle PBL 104
+3 Academy at Night SFA 54
+4 Poké Pad POR 113
+2 Sacred Ash POR 115
+
+Energy: 2
+2 Basic {P} Energy MEE 5
+4 Telepathic {P} Energy POR 88
+
+Total Cards: 60

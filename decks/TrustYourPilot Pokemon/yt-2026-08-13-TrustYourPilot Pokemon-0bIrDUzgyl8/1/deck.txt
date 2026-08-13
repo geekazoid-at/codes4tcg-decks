@@ -1,0 +1,32 @@
+Pokémon: 9
+2 Dunsparce TEF 128
+2 Dunsparce JTG 120
+3 Dudunsparce TEF 129
+1 Dudunsparce ex JTG 121
+3 Slowpoke PBL 29
+3 Mega Slowbro ex PBL 31
+2 Smoochum SSP 75
+1 Lillie's Clefairy ex JTG 56
+1 Latias ex SSP 76
+
+Trainer: 14
+4 Lillie's Determination MEG 119
+2 Judge POR 76
+2 Jacinthe POR 75
+2 Boss's Orders MEG 114
+2 Hilda WHT 84
+1 Kieran TWM 154
+4 Buddy-Buddy Poffin TEF 144
+4 Poké Pad POR 81
+4 Jumbo Ice Cream PFL 91
+3 Wondrous Patch PFL 94
+1 Mega Signal MEG 121
+1 Ultra Ball MEG 131
+1 Hero's Cape TEF 152
+1 Mystery Garden MEG 122
+
+Energy: 2
+7 Basic {P} Energy MEE 5
+3 Telepathic {P} Energy POR 88
+
+Total Cards: 60
