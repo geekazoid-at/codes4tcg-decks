@@ -1,0 +1,31 @@
+Pokémon: 10
+2 Eelektrik BLK 114
+2 Tynamo BLK 113
+4 Electrike PBL 23
+2 Manectric PBL 89
+2 Dudunsparce PRE 80
+2 Mega Manectric ex MEG 158
+1 Psyduck ASC 226
+1 Patrat CRI 70
+2 Dunsparce PRE 79
+1 Shaymin DRI 185
+
+Trainer: 12
+4 Buddy-Buddy Poffin TWM 223
+4 Lillie's Determination MEG 184
+1 Precious Trolley SSP 185
+4 Crushing Hammer UPR 166
+2 Boss's Orders LOR-TG 24
+2 Lana's Aid TWM 219
+2 Night Stretcher SSP 251
+3 Hilda WHT 171
+4 Morty's Conviction TEF 211
+3 Poké Pad POR 113
+2 Brock's Scouting JTG 179
+1 Poké Pad POR 81
+
+Energy: 2
+4 Voltaic {L} Energy PBL 84
+5 Basic {L} Energy MEE 4
+
+Total Cards: 60
