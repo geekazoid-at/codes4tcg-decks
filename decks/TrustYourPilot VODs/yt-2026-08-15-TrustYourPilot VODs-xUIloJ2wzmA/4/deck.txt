@@ -1,0 +1,32 @@
+Pokémon: 10
+2 Mega Delphox ex PBL 8
+1 Trumbeak PBL 67
+2 Delphox CRI 13
+2 Pikipek PBL 66
+2 Oricorio ex PFL 18
+2 Dunsparce JTG 120
+2 Braixen CRI 12
+2 Dudunsparce TEF 129
+2 Toucannon PBL 68
+4 Fennekin CRI 11
+
+Trainer: 13
+4 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+4 Poké Pad POR 81
+1 Lana's Aid TWM 155
+1 Battle Cage PFL 85
+2 Boss's Orders MEG 114
+1 Special Red Card CRI 82
+2 Night Stretcher SFA 61
+2 Ultra Ball MEG 131
+1 Hero's Cape TEF 152
+1 Dawn PFL 87
+1 Firebreather PFL 89
+4 Rare Candy MEG 125
+
+Energy: 2
+10 Basic {R} Energy MEE 2
+1 Ignition Energy WHT 86
+
+Total Cards: 60

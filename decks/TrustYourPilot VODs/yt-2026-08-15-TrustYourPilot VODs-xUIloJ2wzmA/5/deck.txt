@@ -1,0 +1,32 @@
+Pokémon: 12
+3 Fennekin CRI 11
+2 Togekiss SSP 72
+1 Bastiodon PBL 62
+2 Greninja ex TWM 106
+3 Braixen CRI 12
+3 Mega Greninja ex CRI 22
+2 Mega Froslass ex ASC 47
+2 Aurorus POR 24
+3 Mega Delphox ex PBL 8
+4 Blaziken ex JTG 24
+1 Mega Lopunny ex PFL 84
+1 Tirtouga BLK 22
+
+Trainer: 11
+1 Academy at Night SFA 54
+1 Team Rocket's Petrel DRI 176
+4 Pokégear 3.0 BLK 84
+1 Prism Tower CRI 80
+2 Air Balloon BLK 79
+4 Judge POR 76
+1 Sacred Ash DRI 168
+4 Colress's Tenacity SFA 57
+1 Grand Tree SCR 136
+1 Switch MEG 130
+3 Wally's Compassion MEG 132
+
+Energy: 2
+6 Basic {W} Energy MEE 3
+4 Basic {R} Energy MEE 2
+
+Total Cards: 60
