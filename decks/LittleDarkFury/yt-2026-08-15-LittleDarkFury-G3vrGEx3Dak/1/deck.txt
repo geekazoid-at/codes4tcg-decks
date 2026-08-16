@@ -1,0 +1,35 @@
+Pokémon: 12
+2 Mega Kangaskhan ex MEG 182
+1 Munkidori SFA 72
+1 Bloodmoon Ursaluna ex PRE 168
+1 Fezandipiti ex ASC 288
+2 Lillie's Clefairy ex ASC 280
+1 Iron Leaves ex TEF 203
+1 Iron Crown ex TEF 206
+2 Meowth ex POR 121
+1 Wellspring Mask Ogerpon ex PRE 152
+4 Teal Mask Ogerpon ex TWM 211
+1 Paldean Tauros SSP 18
+2 Latias ex SSP 239
+
+Trainer: 12
+3 Boss's Orders RCL 189
+2 Dusk Ball SSP 175
+2 Crispin SCR 164
+1 Bug Catching Set TWM 143
+1 Unfair Stamp TWM 165
+4 Lillie's Determination MEG 169
+1 Energy Switch PBL 107
+3 Energy Switch ROS 109
+4 Ultra Ball PLF 122
+1 Night Stretcher MEG 173
+1 N's Plan BLK 163
+3 Area Zero Underdepths SCR 174
+
+Energy: 4
+1 Basic {R} Energy BUS 167
+8 Basic {G} Energy GRI 167
+4 Prism Energy NXD 93
+2 Basic {P} Energy SUM 162
+
+Total Cards: 60
