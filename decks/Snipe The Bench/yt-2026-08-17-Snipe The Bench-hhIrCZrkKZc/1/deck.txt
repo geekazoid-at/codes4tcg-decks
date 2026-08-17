@@ -1,0 +1,29 @@
+Pokémon: 7
+2 Mega Camerupt ex MEG 22
+3 Numel ASC 27
+2 Latias ex SSP 220
+2 Oricorio ex PFL 18
+2 Ethan's Slugma DRI 35
+2 Ethan's Magcargo DRI 36
+2 Volcanion ex JTG 31
+
+Trainer: 14
+3 Energy Retrieval WHT 82
+2 Ultra Ball ASC 264
+3 Lillie's Determination MEG 119
+2 Night Stretcher MEG 173
+2 Boss's Orders MEG 114
+2 Judge SIT-TG 25
+3 Switch PFL 123
+3 Pokégear 3.0 SVI 186
+2 Dizzying Valley PFL 88
+4 Team Rocket's Petrel DRI 226
+1 Ethan's Adventure DRI 236
+1 Precious Trolley SSP 185
+4 Team Rocket's Transceiver DRI 178
+2 Dark Bell PBL 75
+
+Energy: 1
+11 Basic {R} Energy SVE 10
+
+Total Cards: 60
