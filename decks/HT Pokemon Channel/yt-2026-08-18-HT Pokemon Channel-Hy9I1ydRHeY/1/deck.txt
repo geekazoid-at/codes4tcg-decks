@@ -1,0 +1,30 @@
+Pokémon: 20
+4 Cynthia's Gible ASC 109
+4 Cynthia's Gabite ASC 110
+3 Cynthia's Garchomp ex ASC 111
+4 Cynthia's Roselia DRI 7
+4 Cynthia's Roserade DRI 8
+1 Cynthia's Spiritomb ASC 133
+
+Trainer: 34
+4 Buddy-Buddy Poffin ASC 184
+4 Poké Pad POR 81
+4 Fighting Gong ASC 187
+2 Night Stretcher ASC 196
+2 Rare Candy MEG 125
+1 Team Rocket's Transceiver ASC 209
+1 Prime Catcher PRE 119
+2 Cynthia's Power Weight DRI 162
+1 Powerglass SFA 63
+1 Air Balloon ASC 181
+1 Nighttime Mine ASC 197
+1 Team Rocket's Watchtower ASC 210
+4 Team Rocket's Petrel ASC 207
+2 Boss's Orders ASC 183
+2 Lillie's Determination ASC 192
+2 Judge POR 76
+
+Energy: 6
+6 Basic {F} Energy SVE 6
+
+Total Cards: 60

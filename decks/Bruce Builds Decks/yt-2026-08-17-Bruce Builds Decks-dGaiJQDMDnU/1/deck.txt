@@ -1,0 +1,33 @@
+Pokémon: 21
+1 Octillery CRI 17
+2 Dudunsparce TEF 129
+3 Remoraid CRI 16
+2 Sealeo SSP 44
+3 Dunsparce JTG 120
+3 Walrein SSP 45
+1 Patrat CRI 70
+1 Shaymin DRI 10
+3 Spheal SSP 43
+2 Octillery JTG 34
+
+Trainer: 33
+2 Air Balloon SSH 156
+2 Enhanced Hammer TWM 148
+2 Nighttime Mine ASC 197
+4 Poké Pad ASC 198
+2 Night Stretcher ASC 196
+1 Sacred Ash DRI 168
+2 Rust Syndicate Grunt PBL 81
+4 Crushing Hammer SVI 168
+2 Colress's Tenacity SFA 57
+1 Grand Tree SCR 136
+4 Buddy-Buddy Poffin ASC 184
+4 Lillie's Determination MEG 119
+1 Switch SVI 194
+2 Boss's Orders MEG 114
+
+Energy: 6
+1 Basic {W} Energy SVE 3
+5 Basic {W} Energy SVE 3
+
+Total Cards: 60

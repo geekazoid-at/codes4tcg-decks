@@ -1,0 +1,41 @@
+Pokémon: 14
+1 Squawkabilly ex PR-SV 160
+3 Regidrago V SIT 184
+1 Dragapult ex PRE 165
+3 Regidrago VSTAR SIT 136
+1 Dialga-GX UPR 146
+1 Dedenne-GX SMALT 156
+3 Teal Mask Ogerpon ex TWM 211
+1 Noivern ex PAL 246
+1 Kyurem SFA 47
+1 Tapu Lele-GX SMALT 38
+1 Budew ASC 221
+1 Mega Dragonite ex ASC 290
+1 Latias ex SSP 239
+1 Hisuian Goodra VSTAR LOR 136
+
+Trainer: 18
+1 Hisuian Heavy Ball ASR 146
+2 Temple of Sinnoh ASR 214
+1 Megaton Blower SSP 182
+1 Lillie's Determination MEG 169
+2 Guzma BUS 143
+2 Air Balloon MEG 166
+4 Energy Switch ROS 109
+1 Earthen Vessel SFA 96
+1 Choice Belt ASR 211
+1 Field Blower SMALT 44
+1 Professor's Research SSH 201
+1 Carmine TWM 217
+1 Raihan EVS 202
+4 Mysterious Treasure SMALT 106
+2 Iono PAL 269
+1 Professor Turo's Scenario PAR 240
+4 Quick Ball SSH 216
+1 Energy Retrieval AOR 99
+
+Energy: 2
+3 Basic {R} Energy BUS 167
+6 Basic {G} Energy GRI 167
+
+Total Cards: 60

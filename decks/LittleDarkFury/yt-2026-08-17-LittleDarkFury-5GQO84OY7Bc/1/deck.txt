@@ -1,0 +1,35 @@
+Pokémon: 12
+2 Teal Mask Ogerpon ex TWM 211
+3 Toucannon PBL 94
+1 Pikachu ex SSP 238
+2 Trumbeak PBL 67
+3 Pikipek PBL 66
+1 Fezandipiti ex ASC 288
+2 Marill ASC 83
+2 Azumarill SSP 74
+2 Hoothoot SCR 114
+1 Lillie's Clefairy ex ASC 280
+2 Noctowl SCR 115
+1 Fan Rotom SCR 118
+
+Trainer: 14
+3 Ultra Ball PLF 122
+2 Rare Candy PLB 105
+2 Night Stretcher MEG 173
+4 Lillie's Determination MEG 169
+1 Brave Bangle WHT 80
+2 Dawn PFL 129
+1 Prime Catcher PRE 119
+3 Buddy-Buddy Poffin MEG 167
+1 Special Red Card CRI 113
+3 Area Zero Underdepths SCR 174
+1 Kieran TWM 206
+4 Poké Pad POR 113
+1 Wondrous Patch POR 117
+2 Boss's Orders RCL 189
+
+Energy: 2
+3 Basic {P} Energy SUM 162
+5 Basic {G} Energy GRI 167
+
+Total Cards: 60
