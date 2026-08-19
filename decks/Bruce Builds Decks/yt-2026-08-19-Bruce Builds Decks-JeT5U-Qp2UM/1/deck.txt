@@ -1,0 +1,36 @@
+Pokémon: 23
+2 Grubbin TEF 18
+2 Eelektrik BLK 31
+2 Tynamo BLK 30
+1 Rellor TEF 23
+2 Vikavolt PBL 26
+2 Grubbin PBL 2
+1 Rabsca TEF 24
+2 Dunsparce JTG 120
+2 Dudunsparce PRE 80
+4 Charjabug SCR 52
+2 Vikavolt TEF 56
+1 Stunfisk ASC 62
+
+Trainer: 29
+3 Forest of Vitality MEG 117
+1 Secret Box TWM 163
+2 Night Stretcher SFA 61
+4 Poké Pad ASC 198
+1 Air Balloon BLK 79
+1 Sacred Ash DRI 168
+1 Lana's Aid TWM 155
+1 Kieran TWM 154
+2 Hilda WHT 84
+1 Brave Bangle WHT 80
+4 Buddy-Buddy Poffin ASC 184
+4 Lillie's Determination MEG 119
+2 Boss's Orders MEG 114
+1 Rare Candy SVI 191
+1 Pokégear 3.0 BLK 84
+
+Energy: 8
+4 Basic {L} Energy SVE 4
+4 Basic {L} Energy SVE 4
+
+Total Cards: 60

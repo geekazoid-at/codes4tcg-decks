@@ -1,0 +1,33 @@
+Pokémon: 7
+3 Teal Mask Ogerpon ex TWM 25
+1 Fezandipiti ex SFA 38
+1 Patrat CRI 70
+1 Budew PRE 4
+3 Lurantis ex PBL 4
+4 Fomantis PBL 3
+2 Shuckle MEG 11
+
+Trainer: 17
+4 Bug Catching Set TWM 143
+1 Team Rocket's Watchtower DRI 180
+1 Community Center TWM 146
+4 Team Rocket's Venture Bomb DRI 179
+1 Unfair Stamp TWM 165
+1 Night Stretcher SFA 61
+3 Pokégear 3.0 BLK 84
+1 Risky Ruins MEG 127
+1 Air Balloon BLK 79
+1 Judge POR 76
+1 Lana's Aid TWM 155
+1 Hilda WHT 84
+1 Colress's Tenacity SFA 57
+4 Lillie's Determination MEG 119
+4 Ultra Ball MEG 131
+3 Boss's Orders MEG 114
+2 Energy Switch MEG 115
+
+Energy: 2
+2 Growing {G} Energy POR 86
+9 Basic {G} Energy MEE 1
+
+Total Cards: 60
