@@ -1,0 +1,61 @@
+Pokémon: 13
+1 Kabuto MEW 140
+1 Anorith CEC 111
+1 Cranidos PBL 44
+1 Tyrantrum POR 45
+1 Relicanth UNM 111
+1 Archeops WHT 51
+1 Armaldo SIT 96
+1 Omanyte TEU 75
+1 Tyrunt POR 44
+1 Kabutops TEU 78
+1 Rampardos UPR 65
+1 Archen WHT 50
+1 Omastar TEU 76
+
+Trainer: 37
+1 Luxurious Cape PAR 166
+1 Karate Belt UNM 201
+1 Grant ASR 144
+1 Gladion CIN 95
+1 Escape Rope BST 125
+1 Pokémon Communication TEU 152
+1 Fossil Quarry PBL 76
+1 Level Ball BST 129
+1 Rosa SMALT 171
+1 Premium Power Pro MEG 124
+1 Antique Helix Fossil MEW 153
+1 Antique Dome Fossil MEW 152
+1 Poké Pad ASC 198
+1 Night Stretcher ASC 196
+1 Unidentified Fossil SIT 165
+1 Timer Ball SUM 134
+1 Antique Skull Fossil PBL 73
+1 Iono PAL 185
+1 Arven SVI 166
+1 Snorlax Doll PAR 175
+1 Antique Plume Fossil WHT 79
+1 Martial Arts Dojo UNB 179
+1 Technical Machine: Turbo Energize PAR 179
+1 Technical Machine: Evolution PAR 178
+1 Antique Jaw Fossil POR 68
+1 Evolution Incense SSH 163
+1 Fossil Excavation Map FLI 107
+1 Colress's Tenacity SFA 57
+1 Guzma & Hala CEC 193
+1 Guzma BUS 115
+1 Counter Gain ASC 186
+1 Lillie's Determination MEG 119
+1 Professor's Research BLK 85
+1 Ultra Ball MEG 131
+1 Boss's Orders MEG 114
+1 Rare Candy SVI 191
+1 Lillie's Poké Doll CEC 197
+
+Energy: 4
+1 Reversal Energy PAL 192
+7 Basic {F} Energy MEE 6
+1 Stone {F} Energy VIV 164
+1 Rocky {F} Energy POR 87
+
+Total Cards: 60

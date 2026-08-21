@@ -1,0 +1,29 @@
+Pokémon: 18
+3 Dunsparce TEF 128
+3 Dudunsparce TEF 129
+3 Snorunt ASC 46
+2 Mega Froslass ex ASC 47
+2 Buneary PFL 83
+2 Mega Lopunny ex PFL 84
+2 Fan Rotom SCR 118
+1 Meowth ex POR 62
+
+Trainer: 34
+4 Wally's Compassion MEG 132
+3 Hilda WHT 84
+3 Lillie's Determination MEG 119
+3 Boss's Orders MEG 114
+4 Buddy-Buddy Poffin TEF 144
+4 Ultra Ball MEG 131
+4 Pokégear 3.0 SVI 186
+3 Poké Pad POR 81
+1 Night Stretcher ASC 196
+3 Air Balloon ASC 181
+2 Battle Cage PFL 85
+
+Energy: 8
+4 Mist Energy TEF 161
+3 Basic {W} Energy SVE 3
+1 Enriching Energy SSP 191
+
+Total Cards: 60

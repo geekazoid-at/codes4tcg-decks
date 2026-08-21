@@ -1,0 +1,27 @@
+Pokémon: 7
+2 Lurantis ex PBL 4
+3 Sewaddle WHT 1
+1 Lurantis ex PBL 96
+2 Rabsca TEF 24
+3 Swadloon WHT 2
+4 Fomantis PBL 85
+2 Rellor TEF 23
+
+Trainer: 12
+3 Boss's Orders PAL 265
+4 Forest of Vitality POR 109
+2 Bianca's Devotion TEF 209
+4 Team Rocket's Venture Bomb DRI 179
+3 Lucky Helmet TWM 158
+3 Air Balloon MEG 166
+3 Hilda WHT 171
+4 Buddy-Buddy Poffin TWM 223
+1 Survival Brace TWM 164
+3 Poké Pad POR 113
+4 Lillie's Determination MEG 184
+4 Bug Catching Set TWM 143
+
+Energy: 1
+5 Basic {G} Energy MEE 1
+
+Total Cards: 60
