@@ -1,0 +1,32 @@
+Pokémon: 10
+1 Smoochum SSP 75
+4 Mankey DRI 90
+1 Rabsca TEF 24
+1 Dragapult ex PRE 165
+3 Drakloak TWM 129
+3 Dreepy TWM 128
+3 Annihilape PBL 41
+1 Patrat CRI 70
+1 Rellor TEF 23
+1 Primeape PBL 43
+
+Trainer: 12
+2 Air Balloon ASC 181
+1 Battle Cage PFL 116
+2 Boss's Orders PAL 265
+3 Night Stretcher ASC 196
+4 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+4 Poké Pad POR 81
+2 Team Rocket's Petrel DRI 176
+2 Wondrous Patch PFL 94
+1 Sacred Ash POR 115
+3 Hilda WHT 84
+4 Rare Candy MEG 125
+
+Energy: 3
+7 Basic {P} Energy MEE 5
+1 Basic {R} Energy MEE 2
+1 Neo Upper Energy TEF 162
+
+Total Cards: 60
