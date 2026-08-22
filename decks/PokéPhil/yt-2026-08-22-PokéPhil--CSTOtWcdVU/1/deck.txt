@@ -1,0 +1,33 @@
+Pokémon: 10
+1 Goldeen PRE 20
+1 Rellor TEF 23
+4 Applin TWM 17
+1 Seaking PRE 21
+1 Rabsca TEF 24
+3 Dipplin TWM 170
+1 Psyduck ASC 226
+3 Thwackey PR-SV 115
+1 Rillaboom TWM 16
+4 Grookey TWM 14
+
+Trainer: 15
+4 Buddy-Buddy Poffin TWM 223
+4 Lillie's Determination MEG 184
+1 Secret Box TWM 163
+1 Brave Bangle PBL 104
+1 Boss's Orders LOR-TG 24
+4 Festival Grounds PRE 108
+4 Bug Catching Set PRE 102
+2 Night Stretcher SSP 251
+1 Kieran PRE 174
+2 Gladion's Final Battle PBL 118
+3 Ultra Ball BRS 186
+4 Poké Pad POR 113
+1 Special Red Card CRI 113
+1 Sacred Ash POR 115
+2 Air Balloon SSH 213
+
+Energy: 1
+5 Basic {G} Energy MEE 1
+
+Total Cards: 60
