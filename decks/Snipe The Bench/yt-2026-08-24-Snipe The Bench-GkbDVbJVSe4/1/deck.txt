@@ -1,0 +1,32 @@
+Pokémon: 10
+1 Meowth ex POR 62
+2 Latias ex SSP 76
+2 Pecharunt ex SFA 39
+1 Fezandipiti ex ASC 142
+1 Yveltal MEG 88
+1 Mega Absol ex MEG 180
+4 Mega Kangaskhan ex MEG 104
+2 Mega Darkrai ex PBL 48
+1 Pecharunt PR-SV 149
+1 Volcanion ex JTG 31
+
+Trainer: 14
+3 Risky Ruins MEG 127
+3 Lillie's Determination MEG 119
+2 Night Stretcher MEG 173
+1 Lisia's Appeal SSP 179
+2 Boss's Orders MEG 114
+4 Energy Switch MEG 115
+2 Special Red Card CRI 82
+3 Cyrano SSP 230
+4 Ultra Ball MEG 131
+1 Prime Catcher PRE 119
+1 Switch PFL 123
+4 Janine's Secret Art PRE 112
+2 Dark Bell PBL 106
+2 Enhanced Hammer TWM 148
+
+Energy: 1
+10 Basic {D} Energy MEE 7
+
+Total Cards: 60

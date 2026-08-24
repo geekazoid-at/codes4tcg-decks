@@ -1,0 +1,28 @@
+Pokémon: 21
+4 Igglybuff 30C 120
+4 Tyrogue MEG 71
+4 Poltchageist PBL 5
+4 Misty's Magikarp DRI 48
+2 Cornerstone Mask Ogerpon ex TWM 112
+1 Patrat CRI 70
+1 Shaymin DRI 10
+1 Psyduck ASC 39
+
+Trainer: 38
+4 Lillie's Determination MEG 119
+3 Judge POR 76
+3 Boss's Orders MEG 114
+1 Lana's Aid TWM 155
+4 Night Stretcher SFA 61
+4 Buddy-Buddy Poffin TEF 144
+4 Pokégear 3.0 BLK 84
+4 Dusk Ball SSP 175
+4 Brave Bangle WHT 80
+2 Lucky Helmet TWM 158
+2 Air Balloon BLK 79
+3 Area Zero Underdepths SCR 131
+
+Energy: 1
+1 Legacy Energy TWM 167
+
+Total Cards: 60
