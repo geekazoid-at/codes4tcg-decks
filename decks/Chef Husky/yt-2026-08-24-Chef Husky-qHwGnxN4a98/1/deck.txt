@@ -1,0 +1,32 @@
+Pokémon: 8
+1 Maractus JTG 160
+1 Elgyem BLK 120
+1 Mega Chandelure ex PBL 115
+4 Lampent PBL 37
+4 Chandelure TWM 38
+4 Litwick PBL 36
+1 Shaymin DRI 185
+2 Comfey SCR 63
+
+Trainer: 13
+2 Night Stretcher SSP 251
+1 Lana's Aid TWM 219
+4 Boss's Orders LOR-TG 24
+2 Dawn PFL 129
+1 Tyme PRE 143
+2 Air Balloon SSH 213
+4 Hilda WHT 171
+2 Xerosic's Machinations SFA 89
+2 Buddy-Buddy Poffin TWM 223
+3 Rare Candy GRI 165
+1 Gravity Gemstone SCR 137
+4 Poké Pad POR 113
+4 Lillie's Determination MEG 184
+
+Energy: 4
+2 Basic {P} Energy MEE 5
+3 Basic {R} Energy MEE 2
+4 Telepathic {P} Energy POR 88
+1 Legacy Energy TWM 167
+
+Total Cards: 60

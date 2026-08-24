@@ -1,0 +1,34 @@
+Pokémon: 11
+1 Meowth ex POR 62
+3 Litten TEF 32
+3 Incineroar ex TEF 34
+2 Munkidori TWM 95
+2 Magmortar JTG 21
+1 Fezandipiti ex SFA 38
+2 Fennekin CRI 11
+2 Magmar JTG 20
+1 Torracat TEF 33
+1 Braixen CRI 12
+2 Delphox CRI 13
+
+Trainer: 14
+2 Risky Ruins MEG 127
+4 Ultra Ball SVI 196
+2 Poké Pad ASC 198
+3 Rare Candy SVI 191
+2 Night Stretcher ASC 196
+1 Crispin SCR 133
+4 Lillie's Determination MEG 119
+1 Energy Recycler DRI 164
+1 Special Red Card CRI 82
+2 Boss's Orders SVALT 24
+2 Air Balloon SSH 213
+4 Team Rocket's Petrel DRI 176
+1 Precious Trolley SSP 185
+2 Accompanying Flute TWM 142
+
+Energy: 2
+3 Basic {D} Energy MEE 7
+6 Basic {R} Energy MEE 2
+
+Total Cards: 60
