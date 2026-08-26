@@ -1,0 +1,28 @@
+Pokémon: 4
+3 Wailord ex PBL 97
+1 Wailord JTG 41
+4 Wailmer PBL 15
+4 Cinderace MEG 28
+
+Trainer: 15
+3 Boss's Orders RCL 189
+4 Lillie's Determination MEG 184
+2 Gwynn PBL 109
+1 Maximum Belt PRE 117
+4 Jumbo Ice Cream CRI 109
+1 AZ's Tranquility CRI 120
+1 AZ's Tranquility CRI 106
+2 Heavy Baton TEF 151
+4 Ultra Ball PLF 122
+4 Pokégear 3.0 UNB 233
+1 Misty's Vitality PBL 80
+1 Misty's Vitality PBL 111
+2 Surfing Beach CRI 114
+4 Poké Pad POR 113
+1 Special Red Card CRI 113
+
+Energy: 2
+3 Bubbly {W} Energy CRI 84
+10 Basic {W} Energy CIN 124
+
+Total Cards: 60

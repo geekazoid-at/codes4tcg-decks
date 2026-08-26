@@ -1,0 +1,36 @@
+Pokémon: 12
+3 Eelektrik BLK 31
+3 Electivire ex DRI 69
+1 Fezandipiti ex SFA 38
+1 Tapu Koko SSP 65
+1 Zekrom ex BLK 34
+1 Tapu Koko ASC 67
+1 Patrat CRI 70
+3 Tynamo BLK 30
+3 Electabuzz TEF 53
+1 Meowth ex POR 62
+2 Stunfisk ASC 62
+1 Shaymin DRI 10
+
+Trainer: 15
+1 Iris's Fighting Spirit JTG 149
+4 Poké Pad POR 81
+1 Counter Gain SSP 169
+1 Prime Catcher TEF 157
+1 Morty's Conviction TEF 155
+2 Night Stretcher SFA 61
+2 Prism Tower CRI 80
+2 Air Balloon BLK 79
+1 Judge POR 76
+4 Lillie's Determination MEG 119
+1 Canari ASC 185
+1 Switch MEG 130
+4 Ultra Ball MEG 131
+2 Boss's Orders MEG 114
+1 Gravity Mountain SSP 177
+
+Energy: 2
+4 Voltaic {L} Energy PBL 84
+7 Basic {L} Energy MEE 4
+
+Total Cards: 60

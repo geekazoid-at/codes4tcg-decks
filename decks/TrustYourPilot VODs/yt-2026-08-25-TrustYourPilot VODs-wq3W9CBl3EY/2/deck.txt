@@ -1,0 +1,32 @@
+Pokémon: 9
+2 Pikachu TEF 51
+1 Stunfisk ASC 62
+2 Munkidori TWM 95
+4 Froslass TWM 53
+3 Miraidon SSP 69
+2 Raichu TEF 52
+1 Fezandipiti ex SFA 38
+4 Snorunt ASC 46
+1 Budew PRE 4
+
+Trainer: 13
+1 Iris's Fighting Spirit JTG 149
+2 Counter Gain SSP 169
+2 Crispin SCR 133
+4 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+4 Pokégear 3.0 BLK 84
+4 Poké Pad POR 81
+2 Air Balloon BLK 79
+1 Boss's Orders MEG 114
+2 Night Stretcher SFA 61
+1 Judge POR 76
+1 Unfair Stamp TWM 165
+2 Accompanying Flute TWM 142
+
+Energy: 3
+3 Basic {L} Energy MEE 4
+3 Basic {D} Energy MEE 7
+4 Voltaic {L} Energy PBL 84
+
+Total Cards: 60

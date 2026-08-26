@@ -1,0 +1,36 @@
+Pokémon: 9
+2 Blaziken ex SVALT 220
+3 Rhyperior SVALT 168
+1 Fezandipiti ex ASC 288
+2 Bastiodon PBL 93
+1 Combusken DRI 41
+2 Shieldon PBL 61
+4 Rhyhorn SCR 74
+1 Rhydon SCR 75
+3 Torchic DRI 40
+
+Trainer: 16
+2 Boss's Orders RCL 189
+2 Fossil Quarry PBL 76
+4 Lillie's Determination MEG 184
+4 Rare Candy GRI 165
+3 Antique Armor Fossil PBL 72
+1 Jumbo Ice Cream CRI 109
+1 Heavy Baton TEF 151
+1 Enhanced Hammer PRC 162
+1 Handheld Fan TWM 150
+2 Night Stretcher SSP 251
+2 Hilda WHT 171
+2 Gwynn PBL 119
+1 Colress's Tenacity SFA 87
+1 Special Red Card CRI 113
+1 Neutralization Zone SFA 60
+1 Blowtorch PFL 117
+
+Energy: 4
+1 Basic {F} Energy GRI 169
+6 Basic {R} Energy FST 284
+1 Magnetic {M} Energy CRI 85
+4 Rocky {F} Energy POR 87
+
+Total Cards: 60
