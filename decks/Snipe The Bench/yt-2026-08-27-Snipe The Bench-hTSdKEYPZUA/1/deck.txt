@@ -1,0 +1,32 @@
+Pokémon: 8
+1 Meowth ex POR 121
+3 Buneary PFL 83
+1 Fezandipiti ex ASC 142
+3 Lillie's Clefairy ex JTG 56
+1 Pecharunt ex SFA 39
+2 Mega Lopunny ex PFL 84
+1 Shaymin DRI 10
+1 Yveltal MEG 88
+
+Trainer: 15
+2 Carmine TWM 204
+1 Secret Box TWM 163
+2 Judge PAF 228
+2 Buddy-Buddy Poffin MEG 167
+3 Battle Cage PFL 85
+1 Switch PFL 123
+4 Pokégear 3.0 BLK 84
+2 Night Stretcher ASC 196
+2 Hilda WHT 84
+3 Lillie's Pearl JTG 151
+3 Wondrous Patch POR 117
+4 Lillie's Determination MEG 119
+2 Wally's Compassion MEG 132
+4 Ultra Ball ASC 264
+3 Boss's Orders MEG 114
+
+Energy: 2
+5 Basic {P} Energy MEE 5
+4 Mist Energy TEF 161
+
+Total Cards: 60
