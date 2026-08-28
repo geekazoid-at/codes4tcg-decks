@@ -1,0 +1,35 @@
+Pokémon: 9
+3 Dudunsparce TEF 129
+1 Lillie's Clefairy ex ASC 280
+1 Munkidori TWM 95
+4 Mankey DRI 90
+2 Primeape SSP 99
+3 Dunsparce JTG 120
+1 Smoochum SSP 75
+1 Annihilape SSP 100
+3 Annihilape PBL 41
+
+Trainer: 15
+2 Boss's Orders RCL 189
+1 Lana's Aid TWM 207
+2 Hassel TWM 205
+4 Lillie's Determination MEG 169
+1 Morty's Conviction TEF 201
+4 Buddy-Buddy Poffin MEG 167
+4 Rare Candy PLB 105
+1 Nighttime Mine ASC 197
+1 Ultra Ball PLF 122
+1 Night Stretcher MEG 173
+2 Hilda WHT 171
+4 Poké Pad POR 113
+3 Wondrous Patch POR 117
+1 Special Red Card CRI 113
+1 Sacred Ash POR 115
+
+Energy: 4
+1 Basic {D} Energy BUS 168
+1 Basic {F} Energy GRI 169
+1 Neo Upper Energy TEF 162
+6 Basic {P} Energy SUM 162
+
+Total Cards: 60

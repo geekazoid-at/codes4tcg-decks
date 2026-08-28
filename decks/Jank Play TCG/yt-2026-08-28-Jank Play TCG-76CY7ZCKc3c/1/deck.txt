@@ -1,0 +1,27 @@
+Pokémon: 6
+3 Dunsparce JTG 120
+4 Litwick PBL 36
+4 Mega Chandelure ex PBL 115
+4 Lampent PBL 37
+1 Marshadow PBL 40
+3 Dudunsparce PRE 80
+
+Trainer: 12
+4 Battle Cage PFL 116
+4 Gravity Gemstone SCR 137
+2 Night Stretcher SSP 251
+2 Boss's Orders LOR-TG 24
+4 Morty's Conviction TEF 211
+3 Hilda WHT 171
+3 Buddy-Buddy Poffin TWM 223
+1 Poké Pad POR 81
+2 Rare Candy GRI 165
+3 Poké Pad POR 113
+4 Lillie's Determination MEG 184
+2 Wondrous Patch POR 117
+
+Energy: 2
+6 Basic {P} Energy MEE 5
+1 Neo Upper Energy TEF 162
+
+Total Cards: 60

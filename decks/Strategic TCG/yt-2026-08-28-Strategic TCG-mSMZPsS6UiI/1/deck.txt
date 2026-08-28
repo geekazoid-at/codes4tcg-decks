@@ -1,0 +1,38 @@
+Pokémon: 10
+1 Mew PR-SM 215
+1 Marshadow UNB 81
+2 Munkidori SFA 72
+4 Kirlia PR-SW 271
+1 Necrozma-GX PR-SM 58
+1 Mega Gardevoir ex MEG 178
+4 Ralts ASC 87
+2 Gardevoir ex PAF 233
+2 Tapu Lele-GX HIF 163
+1 Scream Tail PR-SV 65
+
+Trainer: 19
+1 Hisuian Heavy Ball ASR 146
+1 Buddy-Buddy Poffin TWM 223
+1 Rescue Stretcher BUS 165
+2 Iono PAL 254
+1 Lillie's Determination MEG 184
+1 Precious Trolley SSP 185
+1 Field Blower GRI 163
+3 Fog Crystal CRE 227
+1 Super Rod PAL 276
+2 Guzma BUS 143
+1 Professor Turo's Scenario PAR 257
+2 Earthen Vessel SFA 96
+2 Rare Candy SVI 256
+3 Arven PAF 235
+4 Mysterious Treasure FLI 145
+1 Counter Catcher CIN 120
+2 Technical Machine: Evolution PAR 178
+1 Viridian Forest UNM 256
+1 Stealthy Hood UNB 186
+
+Energy: 2
+2 Basic {D} Energy BUS 168
+8 Basic {P} Energy CRE 232
+
+Total Cards: 60
