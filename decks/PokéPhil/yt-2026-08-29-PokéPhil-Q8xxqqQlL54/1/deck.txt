@@ -1,0 +1,33 @@
+Pokémon: 10
+4 Munkidori SFA 72
+1 Bloodmoon Ursaluna ex PRE 168
+2 Marnie's Grimmsnarl ex DRI 136
+3 Marnie's Impidimp DRI 134
+1 Yveltal MEG 88
+2 Froslass TWM 53
+1 Budew PRE 4
+2 Snorunt ASC 227
+2 Marnie's Morgrem DRI 135
+1 Tatsugiri TWM 186
+
+Trainer: 15
+4 Lillie's Determination MEG 184
+3 Spikemuth Gym DRI 169
+1 Secret Box TWM 163
+1 Pokégear 3.0 SVI 186
+3 Night Stretcher SFA 61
+1 Switch MEW 206
+3 Boss's Orders PAL 172
+2 Gwynn PBL 119
+4 Poké Pad POR 113
+1 Special Red Card CRI 113
+2 Buddy-Buddy Poffin TEF 144
+3 Team Rocket's Petrel DRI 226
+1 Ultra Ball SVI 196
+1 Air Balloon SSH 213
+2 Rare Candy SVI 191
+
+Energy: 1
+9 Basic {D} Energy SVE 15
+
+Total Cards: 60
