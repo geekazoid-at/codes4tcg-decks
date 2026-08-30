@@ -1,0 +1,29 @@
+Pokémon: 17
+4 Froakie CRI 20
+2 Frogadier CRI 21
+3 Mega Greninja ex CRI 22
+3 Staryu POR 20
+2 Mega Starmie ex POR 21
+2 Mantine MEG 32
+1 Meowth ex POR 62
+
+Trainer: 33
+4 Lillie's Determination MEG 119
+2 Boss's Orders MEG 114
+2 Dawn PFL 87
+2 Brock's Scouting JTG 146
+2 Judge POR 76
+1 Team Rocket's Petrel DRI 176
+4 Poké Pad POR 81
+3 Rare Candy MEG 125
+3 Ultra Ball MEG 131
+2 Special Red Card CRI 82
+2 Energy Retrieval WHT 82
+1 Mega Signal MEG 121
+2 Air Balloon BLK 79
+3 Surfing Beach MEG 129
+
+Energy: 10
+10 Basic {W} Energy SVE 3
+
+Total Cards: 60
