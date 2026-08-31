@@ -1,0 +1,35 @@
+Pokémon: 19
+3 Ralts ASC 87
+3 Kirlia ASC 88
+2 Mega Gardevoir ex MEG 60
+2 Fidough SCR 66
+2 Dachsbun ex SCR 67
+1 Munna BLK 35
+1 Musharna BLK 36
+1 Meowth ex POR 62
+1 Latias ex SSP 76
+1 Lillie's Clefairy ex ASC 280
+1 Mega Kangaskhan ex MEG 104
+1 Smoochum SSP 75
+
+Trainer: 30
+4 Lillie's Determination MEG 119
+2 Fennel BLK 82
+2 Boss's Orders MEG 114
+1 Ciphermaniac's Codebreaking TEF 145
+1 Hilda WHT 84
+4 Ultra Ball MEG 131
+4 Wondrous Patch PFL 94
+3 Poké Pad ASC 198
+2 Night Stretcher SFA 61
+2 Strange Timepiece MEG 128
+1 Switch SVI 194
+1 Energy Recycler DRI 164
+1 Hero's Cape TEF 152
+2 Mystery Garden ASC 194
+
+Energy: 11
+7 Basic {P} Energy SVE 5
+4 Basic {P} Energy SVE 5
+
+Total Cards: 60
