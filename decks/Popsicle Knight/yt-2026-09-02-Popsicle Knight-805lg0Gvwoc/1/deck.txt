@@ -1,0 +1,32 @@
+Pokémon: 9
+1 Mankey DRI 90
+3 Mankey DRI 90
+3 Primeape DRI 91
+1 Tatsugiri TWM 186
+2 Munkidori SFA 72
+1 Fezandipiti ex ASC 288
+1 Shaymin DRI 185
+2 Budew ASC 221
+4 Annihilape PBL 41
+
+Trainer: 14
+2 Boss's Orders PAL 265
+2 Nighttime Mine ASC 197
+1 Grand Tree SCR 136
+2 Night Stretcher SSP 251
+1 Lana's Aid TWM 219
+1 Ultra Ball BRS 186
+1 Air Balloon SSH 213
+3 Buddy-Buddy Poffin TWM 223
+1 Crispin PRE 171
+3 Rare Candy GRI 165
+3 Team Rocket's Petrel DRI 226
+3 Poké Pad POR 113
+4 Lillie's Determination MEG 184
+4 Wondrous Patch POR 117
+
+Energy: 2
+9 Basic {P} Energy MEE 5
+2 Basic {D} Energy MEE 7
+
+Total Cards: 60

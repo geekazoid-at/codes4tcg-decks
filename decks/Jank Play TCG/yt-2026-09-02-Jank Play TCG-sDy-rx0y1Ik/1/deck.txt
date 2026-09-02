@@ -1,0 +1,35 @@
+Pokémon: 9
+4 Swinub JTG 165
+1 Piloswine JTG 78
+3 Mamoswine ex JTG 174
+3 Rhyhorn SCR 74
+1 Shieldon PBL 61
+1 Fezandipiti ex ASC 288
+2 Bastiodon PBL 93
+2 Rhydon SCR 75
+3 Rhyperior SVALT 168
+
+Trainer: 16
+2 Gwynn PBL 119
+1 Handheld Fan TWM 150
+1 Night Stretcher SSP 251
+1 Rosa's Encouragement POR 123
+3 Fossil Quarry PBL 76
+1 Special Red Card CRI 113
+1 Heavy Baton TEF 151
+2 Enhanced Hammer PRC 162
+4 Rare Candy GRI 165
+1 Gwynn PBL 78
+1 Energy Retrieval AOR 99
+4 Lillie's Determination MEG 184
+1 Neutralization Zone SFA 60
+1 Boss's Orders RCL 189
+1 Switch MEW 206
+3 Antique Armor Fossil PBL 72
+
+Energy: 3
+4 Rocky {F} Energy POR 87
+1 Magnetic {M} Energy CRI 85
+7 Basic {F} Energy GRI 169
+
+Total Cards: 60

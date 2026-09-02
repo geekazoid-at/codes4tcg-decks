@@ -1,0 +1,33 @@
+Pokémon: 20
+4 Dreepy TWM 128
+4 Drakloak TWM 129
+3 Dragapult ex TWM 130
+2 Ditto 30C 115
+2 Munkidori TWM 95
+1 Meowth ex POR 62
+1 Fezandipiti ex ASC 142
+1 Moltres PFL 14
+1 Shaymin DRI 10
+1 Latias ex SSP 76
+
+Trainer: 32
+4 Lillie's Determination MEG 119
+4 Crispin SCR 133
+3 Boss's Orders MEG 114
+4 Ultra Ball MEG 131
+4 Buddy-Buddy Poffin TEF 144
+3 Poké Pad POR 81
+2 Night Stretcher ASC 196
+1 Unfair Stamp TWM 165
+1 Energy Recycler DRI 164
+2 Air Balloon BLK 79
+2 Backtrack Badge PBL 74
+1 Team Rocket's Watchtower DRI 180
+1 Jamming Tower TWM 153
+
+Energy: 8
+3 Basic {R} Energy SVE 2
+3 Basic {P} Energy SVE 5
+2 Basic {D} Energy SVE 7
+
+Total Cards: 60
