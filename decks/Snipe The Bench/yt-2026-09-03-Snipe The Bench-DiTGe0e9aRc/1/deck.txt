@@ -1,0 +1,35 @@
+Pokémon: 9
+1 Fezandipiti ex SFA 92
+2 Pecharunt PR-SV 149
+2 Shieldon PBL 61
+1 Bastiodon PBL 93
+1 Patrat CRI 70
+4 Budew PRE 4
+1 Psyduck ASC 226
+1 Shaymin DRI 185
+3 Stunfisk ASC 62
+
+Trainer: 15
+4 Lillie's Determination MEG 184
+1 Unfair Stamp TWM 165
+1 Air Balloon MEG 166
+2 Pokégear 3.0 SVI 186
+1 Switch PFL 123
+4 Poké Pad ASC 198
+1 Team Rocket's Watchtower ASC 210
+3 Dark Bell PBL 75
+2 Boss's Orders PAL 265
+2 Night Stretcher MEG 173
+2 Lucky Helmet TWM 158
+4 Gwynn PBL 119
+4 Crushing Hammer SVI 168
+2 Antique Armor Fossil PBL 72
+2 Battle Cage PFL 116
+
+Energy: 4
+2 Basic {L} Energy SVE 12
+2 Basic {D} Energy SVE 15
+4 Prism Energy ASC 216
+1 Magnetic {M} Energy CRI 85
+
+Total Cards: 60
