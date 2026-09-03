@@ -1,0 +1,38 @@
+Pokémon: 18
+4 Team Rocket's Tarountula DRI 19
+4 Team Rocket's Spidops DRI 20
+3 Sylveon ex 30C 71
+3 Eevee ex PRE 75
+2 Eevee SSP 143
+1 Leafeon ex PRE 6
+1 Fezandipiti ex SFA 38
+
+Trainer: 31
+4 Carmine TWM 145
+3 Boss's Orders MEG 114
+1 Naveen POR 79
+1 Lillie's Determination MEG 119
+1 N's Plan BLK 83
+4 Buddy-Buddy Poffin TEF 144
+3 Energy Switch MEG 115
+3 Ultra Ball MEG 131
+2 Pokégear 3.0 BLK 84
+2 Night Stretcher SFA 61
+1 Unfair Stamp TWM 165
+1 Glass Trumpet SCR 135
+2 Air Balloon BLK 79
+1 Counter Gain SSP 169
+1 Battle Cage PFL 85
+1 Prism Tower CRI 80
+
+Energy: 11
+3 Basic {P} Energy SVE 5
+2 Basic {G} Energy SVE 1
+1 Basic {D} Energy SVE 7
+1 Basic {L} Energy SVE 4
+1 Basic {F} Energy SVE 6
+1 Basic {W} Energy SVE 3
+1 Basic {R} Energy SVE 2
+1 Basic {M} Energy SVE 8
+
+Total Cards: 60
