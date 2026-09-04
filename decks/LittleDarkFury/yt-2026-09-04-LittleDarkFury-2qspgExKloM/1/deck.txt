@@ -1,0 +1,25 @@
+Pokémon: 6
+3 Misty's Staryu DRI 46
+3 Misty's Starmie DRI 47
+4 Misty's Psyduck DRI 193
+4 Misty's Lapras DRI 50
+4 Misty's Magikarp DRI 48
+4 Misty's Gyarados DRI 49
+
+Trainer: 11
+1 Academy at Night SFA 54
+3 Gwynn PBL 119
+4 Night Stretcher MEG 173
+4 Lillie's Determination MEG 169
+4 Great Haul Net CRI 78
+3 Buddy-Buddy Poffin MEG 167
+1 Max Rod PRE 116
+3 Poké Pad POR 113
+2 Hassel TWM 205
+2 Boss's Orders RCL 189
+4 Sacred Ash POR 115
+
+Energy: 1
+7 Basic {W} Energy CIN 124
+
+Total Cards: 60
