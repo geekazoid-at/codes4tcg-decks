@@ -1,0 +1,32 @@
+Pokémon: 19
+3 Ralts MEG 58
+2 Kirlia MEG 59
+2 Mega Gardevoir ex MEG 60
+2 Smoochum SSP 75
+2 Latias ex SSP 76
+2 Lillie's Clefairy ex JTG 56
+2 Mew ex 30C 66
+1 Xerneas CRI 42
+1 Fezandipiti ex ASC 142
+1 Meowth ex POR 62
+1 Deoxys CRI 33
+
+Trainer: 29
+4 Lillie's Determination MEG 119
+3 Hilda WHT 84
+3 Boss's Orders MEG 114
+1 Colress's Tenacity SFA 57
+1 Judge POR 76
+4 Ultra Ball MEG 131
+3 Wondrous Patch PFL 94
+2 Rare Candy MEG 125
+2 Poké Pad POR 81
+2 Night Stretcher ASC 196
+1 Unfair Stamp TWM 165
+3 Mystery Garden MEG 122
+
+Energy: 12
+8 Basic {P} Energy SVE 5
+4 Basic {P} Energy SVE 5
+
+Total Cards: 60
