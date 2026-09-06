@@ -1,0 +1,37 @@
+Pokémon: 14
+2 Meowth ex POR 62
+2 Greninja ex TWM 106
+3 Froakie CRI 20
+2 Latias ex SSP 76
+1 Chien-Pao SSP 56
+1 Fezandipiti ex ASC 142
+1 Mega Greninja ex CRI 22
+1 Budew ASC 16
+2 Mega Dragonite ex ASC 152
+2 Dratini ASC 150
+2 Dragonair ASC 151
+3 Mega Kangaskhan ex MEG 104
+1 Bloodmoon Ursaluna ex TWM 141
+2 Frogadier CRI 21
+
+Trainer: 13
+1 Brock's Scouting JTG 146
+2 Night Stretcher ASC 196
+2 Area Zero Underdepths SCR 131
+2 Crispin SCR 133
+2 Poké Pad POR 81
+1 Jamming Tower TWM 153
+2 Boss's Orders MEG 114
+4 Ultra Ball MEG 131
+2 Judge POR 76
+4 Team Rocket's Petrel ASC 207
+1 Precious Trolley SSP 185
+1 Hilda WHT 84
+2 Rare Candy MEG 125
+
+Energy: 3
+3 Basic {L} Energy MEE 4
+4 Basic {W} Energy MEE 3
+2 Ignition Energy WHT 86
+
+Total Cards: 60

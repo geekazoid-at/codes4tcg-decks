@@ -1,0 +1,41 @@
+Pokémon: 14
+4 Dudunsparce TEF 129
+1 Fan Rotom ASC 171
+1 Ethan's Sudowoodo DRI 93
+1 Comfey SCR 63
+2 Sylveon PRE 40
+2 Eevee SSP 143
+4 Dunsparce JTG 120
+1 Elgyem BLK 40
+2 Rellor TEF 23
+1 Cornerstone Mask Ogerpon ex TWM 112
+3 Shuckle MEG 11
+2 Rabsca TEF 24
+1 Shaymin DRI 10
+1 Psyduck ASC 39
+
+Trainer: 16
+2 Forest of Vitality MEG 117
+4 Poké Pad POR 81
+1 Hero's Cape TEF 152
+1 Night Stretcher ASC 196
+1 Hassel TWM 151
+1 Sacred Ash DRI 168
+1 Handheld Fan TWM 150
+1 Lana's Aid TWM 155
+1 Redeemable Ticket JTG 156
+1 Rust Syndicate Grunt PBL 81
+1 Ruffian JTG 157
+3 Gwynn PBL 78
+2 Buddy-Buddy Poffin ASC 184
+4 Lillie's Determination MEG 119
+1 Lumiose City POR 77
+1 Boss's Orders MEG 114
+
+Energy: 4
+3 Prism Energy ASC 216
+1 Basic {P} Energy MEE 5
+2 Basic {G} Energy MEE 1
+2 Rocky {F} Energy POR 87
+
+Total Cards: 60
