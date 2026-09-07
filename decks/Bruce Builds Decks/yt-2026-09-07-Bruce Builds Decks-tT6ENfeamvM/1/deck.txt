@@ -1,0 +1,31 @@
+Pokémon: 24
+2 Dunsparce JTG 120
+1 Mega Froslass ex ASC 47
+2 Glalie TWM 52
+2 Munkidori TWM 95
+2 Froslass TWM 53
+3 Froakie CRI 20
+2 Mega Greninja ex CRI 22
+2 Dudunsparce TEF 129
+4 Snorunt ASC 46
+1 Budew PRE 4
+3 Frogadier CRI 21
+
+Trainer: 25
+4 Lillie's Determination MEG 119
+2 Boss's Orders MEG 114
+1 Great Haul Net CRI 78
+3 Buddy-Buddy Poffin PRE 101
+2 Night Stretcher SFA 61
+4 Poké Pad ASC 198
+2 Ultra Ball MEG 131
+3 Morty's Conviction TEF 155
+3 Surfing Beach MEG 129
+1 Air Balloon ASC 181
+
+Energy: 11
+3 Basic {D} Energy SVE 7
+7 Basic {W} Energy SVE 3
+1 Neo Upper Energy TEF 162
+
+Total Cards: 60
