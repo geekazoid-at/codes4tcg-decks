@@ -1,0 +1,33 @@
+Pokémon: 9
+3 Dudunsparce TEF 129
+1 Fezandipiti ex ASC 288
+2 Sylveon PRE 40
+3 Dunsparce JTG 120
+3 Flygon ex SSP 106
+1 Vibrava SSP 105
+3 Trapinch SSP 104
+2 Eevee PRE 74
+1 Fan Rotom ASC 250
+
+Trainer: 15
+3 Dawn PFL 87
+1 Air Balloon ASC 181
+1 Poké Pad POR 81
+4 Buddy-Buddy Poffin MEG 167
+1 Maximum Belt TEF 154
+2 Night Stretcher SFA 61
+3 Premium Power Pro MEG 124
+2 Rare Candy MEG 125
+3 Lillie's Determination ASC 192
+2 Hilda WHT 171
+1 Poké Pad POR 113
+2 Fighting Gong ASC 187
+2 Boss's Orders BRS 132
+1 Switch MEG 130
+4 Ultra Ball SVI 196
+
+Energy: 2
+7 Basic {F} Energy MEE 6
+2 Rocky {F} Energy POR 87
+
+Total Cards: 60
