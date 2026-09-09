@@ -1,0 +1,35 @@
+Pokémon: 10
+2 Mega Froslass ex ASC 47
+1 Shaymin DRI 10
+3 Tirtouga BLK 22
+1 Shieldon PBL 61
+2 Rotom SSP 61
+1 Bastiodon PBL 93
+2 Snorunt ASC 46
+1 Patrat CRI 70
+1 Psyduck ASC 226
+1 Budew ASC 221
+
+Trainer: 15
+4 Poké Pad ASC 198
+2 Boss's Orders PAL 265
+2 Ultra Ball ASC 264
+1 Antique Armor Fossil PBL 72
+2 Night Stretcher MEG 173
+3 Fossil Quarry PBL 76
+4 Colress's Tenacity SFA 57
+1 Air Balloon MEG 166
+2 Hilda WHT 171
+2 Switch PFL 123
+4 Pokégear 3.0 SVI 186
+3 Antique Cover Fossil BLK 80
+1 Secret Box TWM 163
+4 Lillie's Determination MEG 184
+2 Handheld Fan TWM 150
+
+Energy: 3
+2 Basic {W} Energy SVE 11
+3 Basic {L} Energy SVE 12
+3 Bubbly {W} Energy CRI 84
+
+Total Cards: 60
