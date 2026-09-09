@@ -1,0 +1,27 @@
+Pokémon: 21
+3 Finizen TWM 59
+3 Palafin TWM 60
+3 Palafin ex TWM 61
+3 Staryu POR 20
+3 Mega Starmie ex POR 21
+3 N's Zorua ASC 136
+3 N's Zoroark ex ASC 137
+
+Trainer: 34
+4 Buddy-Buddy Poffin ASC 184
+4 Poké Pad POR 81
+3 Ultra Ball ASC 213
+2 Switch MEG 130
+1 Special Red Card CRI 82
+3 Air Balloon ASC 181
+3 Surfing Beach MEG 129
+4 Lillie's Determination ASC 192
+4 Hilda WHT 84
+3 Boss's Orders ASC 183
+3 Ciphermaniac's Codebreaking PRE 104
+
+Energy: 5
+4 Basic {W} Energy SVE 3
+1 Legacy Energy TWM 167
+
+Total Cards: 60

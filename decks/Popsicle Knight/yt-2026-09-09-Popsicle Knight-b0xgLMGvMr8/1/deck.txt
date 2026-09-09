@@ -1,0 +1,30 @@
+Pokémon: 10
+3 Banette PBL 34
+1 Banette PBL 34
+2 Dhelmise PBL 39
+1 Spiritomb PBL 35
+4 Poltchageist PBL 5
+4 Sinistcha PBL 6
+1 Dhelmise PBL 91
+1 Shaymin DRI 185
+1 Tatsugiri TWM 186
+4 Shuppet PBL 33
+
+Trainer: 12
+4 Lillie's Determination MEG 184
+1 Brilliant Blender SSP 164
+3 Pokégear 3.0 UNB 233
+1 Lana's Aid TWM 219
+2 Boss's Orders PAL 265
+4 Night Stretcher SSP 251
+3 Ultra Ball BRS 186
+4 Poké Pad POR 113
+3 Prism Tower CRI 111
+2 Wondrous Patch POR 117
+3 Team Rocket's Petrel DRI 226
+1 Air Balloon SSH 213
+
+Energy: 1
+7 Basic {P} Energy MEE 5
+
+Total Cards: 60
