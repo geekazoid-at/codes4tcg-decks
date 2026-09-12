@@ -1,0 +1,31 @@
+Pokémon: 10
+4 Roaring Moon TEF 109
+4 Koraidon PR-SV 91
+1 Fezandipiti ex ASC 288
+2 Toxel PFL 67
+1 Chi-Yu PBL 59
+2 Toxtricity PFL 103
+3 Scream Tail TEF 77
+2 Pecharunt ex SFA 93
+4 Flutter Mane TEF 78
+1 Sandy Shocks TEF 98
+
+Trainer: 12
+1 Boss's Orders RCL 189
+1 Hassel TWM 205
+1 Lillie's Determination MEG 169
+4 Explorer's Guidance TEF 200
+2 Energy Recycler POR 108
+4 Ultra Ball PLF 122
+2 Binding Mochi SFA 55
+2 Night Stretcher MEG 173
+3 Gwynn PBL 119
+4 Poké Pad POR 113
+2 Prism Tower CRI 111
+1 Awakening Drum TEF 141
+
+Energy: 2
+8 Basic {D} Energy BUS 168
+1 Basic {F} Energy GRI 169
+
+Total Cards: 60

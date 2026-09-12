@@ -1,0 +1,35 @@
+Pokémon: 10
+2 Greninja BREAK BKP 41
+2 Bibarel PR-SW 188
+1 Bidoof BRS 120
+2 Greninja DET 9
+1 Greninja ex TWM 214
+2 Frogadier HIF 81
+4 Froakie CRI 20
+2 Mega Greninja ex CRI 116
+1 Bidoof CRZ 111
+1 Tapu Lele-GX GRI 137
+
+Trainer: 15
+4 N NVI 101
+1 Irida ASR 186
+1 Brooklet Hill HIF 157
+2 Ultra Ball PLF 122
+4 Rare Candy PLB 105
+2 Guzma BUS 143
+1 Super Rod PAL 276
+3 Lillie's Determination MEG 169
+1 Surfing Beach CRI 114
+2 Air Balloon MEG 166
+4 Buddy-Buddy Poffin MEG 167
+2 Hilda WHT 171
+3 Evolution Incense SSH 163
+1 Counter Catcher PAR 264
+2 Energy Retrieval CRI 108
+
+Energy: 3
+7 Basic {W} Energy CIN 124
+1 Ignition Energy PFL 124
+1 Neo Upper Energy TEF 162
+
+Total Cards: 60

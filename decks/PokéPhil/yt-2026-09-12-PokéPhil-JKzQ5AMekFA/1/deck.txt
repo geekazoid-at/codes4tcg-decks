@@ -1,0 +1,32 @@
+Pokémon: 11
+2 Budew ASC 16
+3 Alakazam MEG 56
+2 Dusknoir PRE 37
+2 Abra MEG 54
+1 Patrat CRI 70
+4 Kadabra MEG 55
+2 Dusclops PRE 36
+1 Fezandipiti ex ASC 142
+1 Shaymin DRI 10
+2 Abra TWM 80
+4 Duskull PRE 35
+
+Trainer: 12
+2 Dawn PFL 87
+4 Poké Pad POR 81
+3 Strange Timepiece MEG 128
+1 Prime Catcher TEF 157
+4 Rare Candy MEG 125
+2 Special Red Card CRI 82
+2 Night Stretcher ASC 196
+1 Sacred Ash DRI 168
+4 Hilda WHT 84
+4 Gwynn PBL 78
+3 Buddy-Buddy Poffin TEF 144
+1 Boss's Orders MEG 114
+
+Energy: 2
+4 Telepathic {P} Energy POR 88
+1 Basic {P} Energy MEE 5
+
+Total Cards: 60
