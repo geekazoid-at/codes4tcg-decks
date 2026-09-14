@@ -1,0 +1,36 @@
+Pokémon: 13
+2 Eternatus VMAX DAA 117
+1 Sneasel CEC 43
+3 Eternatus V LOR-TG 21
+1 Galarian Zigzagoon SSH 117
+4 Crobat V PR-SW 110
+1 Umbreon & Darkrai-GX UNM 125
+2 Darkrai-GX BUS 88
+1 Guzzlord CEC 136
+1 Eternatus VMAX LOR-TG 22
+2 Weavile-GX UNM 132
+1 Sneasel UPR 73
+1 Yveltal MEG 88
+1 Kecleon CRE 122
+
+Trainer: 15
+1 Hisuian Heavy Ball ASR 146
+1 Escape Rope BST 125
+1 Forest Seal Stone SIT 156
+3 Ultra Ball CRZ 146
+1 Brilliant Blender SSP 164
+4 Acro Bike CES 123
+4 Trekking Shoes CRZ 145
+2 Professor's Research PAF 87
+1 Rescue Stretcher GRI 130
+2 Guzma BUS 115
+2 Pokémon Communication SMALT 146
+4 Quick Ball FST 237
+2 Big Parasol DAA 157
+1 Iono PAF 80
+2 Chaotic Swell CEC 187
+
+Energy: 1
+8 Basic {D} Energy SVE 7
+
+Total Cards: 60
