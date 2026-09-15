@@ -1,0 +1,30 @@
+Pokémon: 6
+3 Team Rocket's Ekans DRI 112
+3 Team Rocket's Crobat ex DRI 122
+4 Team Rocket's Golbat DRI 121
+3 Team Rocket's Arbok DRI 113
+1 Team Rocket's Sneasel DRI 128
+4 Team Rocket's Zubat DRI 120
+
+Trainer: 15
+2 Night Stretcher ASC 196
+2 Buddy-Buddy Poffin TEF 144
+3 Poké Pad POR 81
+4 Team Rocket's Ariana DRI 171
+1 Rosa's Encouragement POR 123
+2 Team Rocket's Giovanni DRI 174
+2 Punk Helmet PFL 92
+4 Ultra Ball MEG 131
+1 Air Balloon SSH 213
+1 Secret Box TWM 163
+3 Team Rocket's Factory DRI 173
+1 Team Rocket's Petrel DRI 176
+4 Team Rocket's Transceiver DRI 178
+1 Team Rocket's Archer DRI 170
+2 Team Rocket's Proton DRI 177
+
+Energy: 2
+4 Team Rocket's Energy DRI 182
+5 Basic {D} Energy MEE 7
+
+Total Cards: 60
