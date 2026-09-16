@@ -1,0 +1,35 @@
+Pokémon: 13
+2 Munkidori SFA 72
+1 Mega Gengar ex ASC 284
+1 Chi-Yu PBL 59
+2 Haunter MEP 27
+4 Gastly POR 48
+2 Toxtricity PFL 103
+1 Gengar ex 30C 154
+1 Toxel PFL 67
+1 Pecharunt ex SFA 93
+1 Toxel MEP 78
+2 Gengar ex 30C 90
+1 Shaymin DRI 10
+1 Tatsugiri TWM 186
+
+Trainer: 14
+2 Boss's Orders RCL 189
+2 Team Rocket's Watchtower DRI 180
+1 Unfair Stamp TWM 165
+4 Lillie's Determination MEG 169
+2 Air Balloon MEG 166
+4 Buddy-Buddy Poffin MEG 167
+3 Rare Candy PLB 105
+1 Energy Recycler POR 108
+4 Ultra Ball PLF 122
+1 Night Stretcher MEG 173
+1 Morty's Conviction TEF 211
+3 Poké Pad POR 113
+1 Special Red Card CRI 113
+2 Team Rocket's Petrel DRI 226
+
+Energy: 1
+9 Basic {D} Energy BUS 168
+
+Total Cards: 60

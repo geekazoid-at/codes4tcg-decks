@@ -1,0 +1,32 @@
+Pokémon: 9
+4 Dudunsparce TEF 129
+1 Ethan's Sudowoodo DRI 93
+1 Fezandipiti ex SFA 38
+3 Dunsparce JTG 120
+1 Budew PRE 4
+1 Dedenne SSP 87
+4 Maushold 30C 125
+1 Fan Rotom SCR 118
+4 Tandemaus SSP 157
+
+Trainer: 13
+4 Backtrack Badge PBL 74
+1 Lana's Aid TWM 155
+4 Poké Pad POR 81
+4 Crushing Hammer POR 71
+2 Battle Cage PFL 85
+1 Air Balloon BLK 79
+2 Sacred Ash DRI 168
+1 Redeemable Ticket JTG 156
+3 Gwynn PBL 78
+4 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+1 Neutralization Zone SFA 60
+2 Boss's Orders MEG 114
+
+Energy: 3
+1 Basic {F} Energy MEE 6
+3 Rocky {F} Energy POR 87
+3 Mist Energy TEF 161
+
+Total Cards: 60
