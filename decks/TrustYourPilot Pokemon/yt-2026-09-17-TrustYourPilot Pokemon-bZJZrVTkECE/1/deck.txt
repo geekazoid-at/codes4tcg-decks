@@ -1,0 +1,41 @@
+Pokémon: 9
+4 Terapagos SSP 161
+1 Eevee SSP 143
+1 Latias ex SSP 76
+4 Eevee ex PRE 75
+1 Fezandipiti ex SFA 38
+1 Leafeon ex PRE 6
+2 Sylveon ex 30C 71
+1 Lillie's Clefairy ex JTG 56
+1 Moltres PFL 14
+
+Trainer: 17
+1 Iris's Fighting Spirit JTG 149
+1 Counter Gain SSP 169
+2 Crispin SCR 133
+4 Lillie's Determination MEG 119
+4 Glass Trumpet SCR 135
+2 Prism Tower CRI 80
+1 Air Balloon BLK 79
+1 Gravity Mountain SSP 177
+2 Boss's Orders MEG 114
+2 Energy Switch MEG 115
+2 Night Stretcher SFA 61
+1 Naveen POR 79
+1 Judge POR 76
+1 Morty's Conviction TEF 155
+1 Unfair Stamp TWM 165
+2 Tera Orb SSP 189
+4 Ultra Ball 30C 128
+
+Energy: 8
+1 Basic {M} Energy MEE 8
+3 Basic {P} Energy MEE 5
+1 Basic {L} Energy MEE 4
+1 Basic {D} Energy MEE 7
+1 Basic {F} Energy MEE 6
+2 Basic {G} Energy MEE 1
+1 Basic {W} Energy MEE 3
+2 Basic {R} Energy MEE 2
+
+Total Cards: 60
