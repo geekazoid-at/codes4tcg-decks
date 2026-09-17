@@ -1,0 +1,30 @@
+Pokémon: 8
+1 Wailord ex PBL 16
+2 Munkidori SFA 72
+3 Wailmer PBL 15
+2 Wailord ex PBL 97
+3 Snorunt ASC 227
+1 Budew ASC 221
+3 Froslass TWM 174
+2 Tatsugiri TWM 186
+
+Trainer: 12
+2 Buddy-Buddy Poffin TWM 223
+2 Great Haul Net CRI 78
+4 Lillie's Determination MEG 184
+1 Scramble Switch SSP 186
+2 Boss's Orders PAL 265
+3 Ultra Ball BRS 186
+3 Misty's Vitality PBL 111
+2 Surfing Beach CRI 114
+3 Poké Pad POR 113
+2 Team Rocket's Petrel DRI 226
+2 Heavy Baton TEF 151
+2 Air Balloon SSH 213
+
+Energy: 3
+3 Basic {D} Energy MEE 7
+3 Bubbly {W} Energy CRI 84
+9 Basic {W} Energy MEE 3
+
+Total Cards: 60

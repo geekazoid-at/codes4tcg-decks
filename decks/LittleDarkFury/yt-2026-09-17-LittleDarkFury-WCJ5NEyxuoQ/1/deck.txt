@@ -1,0 +1,36 @@
+Pokémon: 16
+1 Empoleon ex PFL 114
+1 Team Rocket's Mewtwo ex DRI 231
+3 Steven's Metagross ex ASC 289
+1 Fezandipiti ex SFA 92
+1 Piplup PFL 27
+1 Lillie's Clefairy ex ASC 280
+1 Meowth ex POR 121
+2 Steven's Metang DRI 144
+1 Mega Skarmory ex POR 106
+1 Frillish WHT 126
+2 Mew ex 30C 158
+3 Steven's Beldum DRI 143
+2 Genesect ex BLK 169
+1 Regigigas PRE 86
+1 Unown 30C 72
+1 Latias ex SSP 239
+
+Trainer: 11
+2 Boss's Orders RCL 189
+1 Precious Trolley SSP 185
+3 Lillie's Determination MEG 169
+3 Rare Candy PLB 105
+2 Energy Recycler POR 108
+4 Ultra Ball PLF 122
+1 Team Rocket's Factory DRI 173
+1 Night Stretcher MEG 173
+1 Special Red Card CRI 113
+4 Team Rocket's Petrel DRI 226
+4 Team Rocket's Transceiver ASC 263
+
+Energy: 2
+5 Basic {P} Energy SUM 162
+6 Basic {M} Energy SUM 163
+
+Total Cards: 60

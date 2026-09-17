@@ -1,0 +1,24 @@
+Pokémon: 4
+4 Ethan's Pichu DRI 71
+4 Igglybuff 30C 120
+4 Poltchageist PBL 5
+4 Budew PRE 4
+
+Trainer: 13
+4 Buddy-Buddy Poffin ASC 184
+4 Crushing Hammer SVI 168
+4 Lillie's Determination MEG 119
+4 Poké Pad POR 81
+2 Lana's Aid TWM 155
+4 Battle Cage PFL 85
+4 Boss's Orders MEG 114
+4 Brave Bangle WHT 80
+4 Pokégear 3.0 SVI 186
+4 Gwynn PBL 78
+2 Sacred Ash DRI 168
+1 Neutralization Zone SFA 60
+3 Handheld Fan TWM 150
+
+Energy: 0
+
+Total Cards: 60
