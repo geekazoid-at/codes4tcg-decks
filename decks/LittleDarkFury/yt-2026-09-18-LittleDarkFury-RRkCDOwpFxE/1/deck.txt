@@ -1,0 +1,30 @@
+Pokémon: 6
+1 Shaymin DRI 10
+4 Maushold 30C 125
+4 Dunsparce JTG 120
+3 Dudunsparce TEF 129
+2 Fan Rotom SCR 118
+4 Tandemaus SSP 157
+
+Trainer: 15
+3 Battle Cage PFL 116
+3 Crushing Hammer UPR 166
+1 Ultra Ball PLF 122
+3 Night Stretcher MEG 173
+4 Lillie's Determination MEG 169
+3 Backtrack Badge PBL 74
+4 Buddy-Buddy Poffin MEG 167
+1 Redeemable Ticket JTG 156
+2 Hilda WHT 171
+1 Xerosic's Machinations SFA 89
+4 Poké Pad POR 113
+1 Lana's Aid TWM 207
+3 Hassel TWM 205
+1 Neutralization Zone SFA 60
+1 Sacred Ash POR 115
+
+Energy: 2
+4 Mist Energy TEF 161
+3 Basic {P} Energy SUM 162
+
+Total Cards: 60

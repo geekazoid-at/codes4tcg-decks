@@ -1,0 +1,31 @@
+Pokémon: 11
+1 Latias ex SSP 76
+1 Smoochum SSP 75
+1 Deoxys CRI 32
+1 Mega Diancie ex PFL 41
+1 Lillie's Clefairy ex JTG 56
+1 Team Rocket's Mewtwo ex DRI 81
+1 Unown 30C 72
+1 Team Rocket's Mimikyu DRI 87
+1 Mega Floette ex CRI 35
+1 Deoxys CRI 33
+4 Mew ex 30C 66
+
+Trainer: 11
+4 Dusk Ball SSP 175
+1 Cyrano SSP 170
+1 Prime Catcher TEF 157
+4 Mystery Garden MEG 122
+4 Night Stretcher ASC 196
+1 Mega Signal ASC 193
+4 Wondrous Patch PFL 94
+4 Explorer's Guidance TEF 147
+4 Lillie's Determination MEG 119
+4 Ultra Ball MEG 131
+3 Boss's Orders MEG 114
+
+Energy: 2
+4 Telepathic {P} Energy POR 88
+8 Basic {P} Energy SVE 13
+
+Total Cards: 60
