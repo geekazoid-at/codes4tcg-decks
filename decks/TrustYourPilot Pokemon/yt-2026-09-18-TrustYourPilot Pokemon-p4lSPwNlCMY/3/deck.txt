@@ -1,0 +1,39 @@
+Pokémon: 10
+2 Latias ex SSP 76
+1 Bloodmoon Ursaluna ex TWM 141
+1 Fezandipiti ex SFA 38
+2 Smoochum SSP 75
+3 Lillie's Clefairy ex JTG 56
+2 Unown 30C 72
+1 Stunfisk ASC 62
+1 Shaymin DRI 10
+1 Moltres PFL 14
+1 Psyduck ASC 39
+
+Trainer: 17
+2 Poké Pad POR 81
+1 Prime Catcher TEF 157
+1 Morty's Conviction TEF 155
+2 Night Stretcher SFA 61
+2 Pokégear 3.0 BLK 84
+2 Mystery Garden MEG 122
+1 Judge POR 76
+1 Black Belt's Training ASC 255
+2 Pokémon Catcher POR 82
+2 Colress's Tenacity SFA 57
+3 Lillie's Pearl JTG 151
+4 Wondrous Patch PFL 94
+1 Brave Bangle WHT 80
+4 Lillie's Determination MEG 119
+1 Naveen POR 79
+2 Ultra Ball MEG 131
+2 Boss's Orders MEG 114
+
+Energy: 5
+3 Telepathic {P} Energy POR 88
+1 Prism Energy ASC 216
+6 Basic {P} Energy MEE 5
+1 Basic {L} Energy MEE 4
+1 Basic {R} Energy MEE 2
+
+Total Cards: 60
