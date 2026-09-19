@@ -1,0 +1,30 @@
+Pokémon: 10
+2 Bayleef MEG 9
+1 Chikorita MEG 8
+1 Chikorita ASC 8
+2 Hydrapple ex SCR 14
+4 Teal Mask Ogerpon ex TWM 25
+2 Dipplin TWM 18
+1 Fezandipiti ex ASC 142
+2 Applin TWM 17
+2 Meganium MEG 10
+2 Genesect-EX PLB 11
+
+Trainer: 11
+1 Poké Pad ASC 198
+1 Night Stretcher ASC 196
+1 Briar SCR 132
+4 Lillie's Determination MEG 119
+4 Net Ball LOT 187
+1 Special Red Card CRI 82
+4 Forest of Vitality MEG 117
+2 Ultra Ball MEG 131
+4 N PR-BLW 100
+1 Unfair Stamp TWM 165
+4 Bug Catching Set TWM 143
+
+Energy: 2
+10 Basic {G} Energy MEE 1
+4 Plasma Energy PLB 91
+
+Total Cards: 60

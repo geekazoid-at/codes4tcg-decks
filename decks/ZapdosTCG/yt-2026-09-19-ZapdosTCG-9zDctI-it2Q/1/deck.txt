@@ -1,0 +1,33 @@
+Pokémon: 13
+2 Latias ex SSP 76
+1 Chien-Pao SSP 56
+4 Teal Mask Ogerpon ex TWM 25
+1 Pecharunt PR-SV 149
+2 Mega Kangaskhan ex MEG 104
+2 Mew ex 30C 158
+1 Wellspring Mask Ogerpon ex TWM 64
+1 Fezandipiti ex ASC 142
+2 Lillie's Clefairy ex JTG 56
+1 Stunfisk ASC 62
+1 Unown 30C 72
+2 Meowth ex POR 62
+1 Paldean Tauros SSP 18
+
+Trainer: 10
+1 Cyrano SSP 170
+3 Bug Catching Set TWM 143
+1 Prime Catcher PRE 119
+1 N's Plan BLK 83
+1 Night Stretcher ASC 196
+3 Area Zero Underdepths SCR 131
+4 Lillie's Determination MEG 119
+4 Ultra Ball MEG 131
+2 Boss's Orders MEG 114
+4 Energy Switch MEG 115
+
+Energy: 3
+1 Telepathic {P} Energy POR 88
+4 Prism Energy ASC 216
+10 Basic {G} Energy MEE 1
+
+Total Cards: 60
