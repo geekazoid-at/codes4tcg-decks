@@ -1,0 +1,35 @@
+Pokémon: 12
+4 Dreepy ASC 247
+1 Dragapult ex PRE 165
+2 Torchic DRI 40
+1 Combusken DRI 41
+1 Salamence ex 30C 156
+1 Salamence ex 30C 109
+2 Blaziken ex JTG 24
+1 Budew ASC 221
+1 Moltres PFL 14
+2 Bagon JTG 112
+1 Shelgon JTG 113
+3 Drakloak ASC 248
+
+Trainer: 13
+3 Boss's Orders RCL 189
+2 Crispin SCR 164
+1 Team Rocket's Watchtower DRI 180
+1 Unfair Stamp TWM 165
+4 Lillie's Determination MEG 169
+1 Air Balloon MEG 166
+4 Buddy-Buddy Poffin MEG 167
+3 Rare Candy PLB 105
+1 Dawn PFL 129
+3 Ultra Ball PLF 122
+2 Night Stretcher MEG 173
+4 Poké Pad POR 113
+1 Special Red Card CRI 113
+
+Energy: 3
+4 Basic {R} Energy BUS 167
+4 Basic {W} Energy CIN 124
+2 Basic {P} Energy SUM 162
+
+Total Cards: 60

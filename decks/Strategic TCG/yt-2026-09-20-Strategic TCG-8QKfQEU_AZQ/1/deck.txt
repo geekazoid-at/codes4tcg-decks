@@ -1,0 +1,30 @@
+Pokémon: 7
+1 Latias ex SSP 76
+1 Talonflame V VIV 29
+4 Blacephalon UNB 32
+1 Tapu Lele-GX GRI 60
+1 Volcarona V EVS 21
+1 Blacephalon-GX LOT 52
+1 Radiant Greninja ASR 46
+
+Trainer: 15
+1 Heat Factory {*} LOT 178
+4 Fire Crystal UNB 173
+1 Professor's Research SSH 178
+2 Nest Ball SUM 123
+1 Max Rod PRE 116
+4 Fiery Flint DRM 60
+2 Giant Hearth UNM 197
+1 Night Stretcher ASC 196
+1 Hisuian Heavy Ball ASR 146
+4 Acro Bike CES 123
+4 Welder UNB 189
+4 Pokégear 3.0 UNB 182
+2 Superior Energy Retrieval PAL 189
+2 Guzma BUS 115
+4 Quick Ball FST 237
+
+Energy: 1
+13 Basic {R} Energy MEE 2
+
+Total Cards: 60
