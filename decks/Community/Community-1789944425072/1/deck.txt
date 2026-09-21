@@ -1,0 +1,27 @@
+Pokémon: 9
+1 Solgaleo-GX 30C-CC 23
+2 M Gardevoir-EX 30C-CC 21
+2 Mew VMAX 30C-CC 28
+2 Mew V CRZ 60
+2 Cosmoem 30C 79
+2 Cosmog 30C 78
+2 Gardevoir ex PAF 29
+4 Kirlia SIT 68
+3 Ralts ASR 60
+
+Trainer: 8
+4 Buddy-Buddy Poffin MEG 167
+2 Crushing Hammer PBL 105
+2 Crispin SCR 133
+1 Grand Tree SCR 136
+2 Energy Retrieval WHT 82
+1 Fog Crystal CRE 140
+1 Fog Crystal CRE 140
+3 Boss's Orders LOR-TG 24
+
+Energy: 3
+9 Basic {Y} Energy SVE 44
+9 Basic {F} Energy MEE 6
+6 Basic {M} Energy MEE 8
+
+Total Cards: 60
