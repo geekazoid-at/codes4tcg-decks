@@ -1,0 +1,38 @@
+Pokémon: 13
+2 Toxel PFL 67
+2 Munkidori TWM 95
+2 Haunter PFL 55
+4 Gastly POR 48
+1 Fezandipiti ex SFA 38
+2 Toxtricity PFL 68
+3 Gengar ex 30C 90
+1 Pecharunt ex SFA 39
+1 Shaymin DRI 10
+1 Yveltal MEG 88
+2 Mega Gengar ex PFL 56
+1 Psyduck ASC 39
+1 Tatsugiri TWM 131
+
+Trainer: 16
+2 Grimsley's Move PFL 90
+3 Poké Pad POR 81
+2 Academy at Night SFA 54
+1 Energy Recycler DRI 164
+1 Morty's Conviction TEF 155
+1 Night Stretcher SFA 61
+2 Pokégear 3.0 BLK 84
+3 Rare Candy MEG 125
+1 Air Balloon BLK 79
+1 Judge POR 76
+1 Sacred Ash DRI 168
+1 Hilda WHT 84
+4 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+1 Ultra Ball MEG 131
+1 Boss's Orders MEG 114
+
+Energy: 2
+7 Basic {D} Energy MEE 7
+1 Neo Upper Energy TEF 162
+
+Total Cards: 60
