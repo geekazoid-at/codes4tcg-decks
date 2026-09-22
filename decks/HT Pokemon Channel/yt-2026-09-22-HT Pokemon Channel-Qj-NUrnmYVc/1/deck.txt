@@ -1,0 +1,31 @@
+Pokémon: 17
+4 Eevee SFA 50
+3 Sylveon ex 30C 71
+4 Pikachu ex 30C 54
+3 Latias ex SSP 76
+1 Fezandipiti ex ASC 142
+1 Bloodmoon Ursaluna ex TWM 141
+1 Lillie's Clefairy ex ASC 76
+
+Trainer: 29
+4 Buddy-Buddy Poffin ASC 184
+4 Ultra Ball ASC 213
+4 Team Rocket's Transceiver ASC 209
+3 Night Stretcher ASC 196
+1 Energy Search Pro SSP 176
+4 Lillie's Determination ASC 192
+4 Team Rocket's Petrel ASC 207
+3 Boss's Orders ASC 183
+2 Team Rocket's Factory ASC 203
+
+Energy: 14
+6 Basic {P} Energy SVE 5
+2 Basic {L} Energy SVE 4
+1 Basic {G} Energy SVE 1
+1 Basic {R} Energy SVE 2
+1 Basic {W} Energy SVE 3
+1 Basic {F} Energy SVE 6
+1 Basic {D} Energy SVE 7
+1 Basic {M} Energy SVE 8
+
+Total Cards: 60

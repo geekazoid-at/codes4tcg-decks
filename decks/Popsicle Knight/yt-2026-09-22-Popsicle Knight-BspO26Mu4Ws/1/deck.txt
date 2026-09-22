@@ -1,0 +1,30 @@
+Pokémon: 6
+4 Seismitoad 30C 84
+2 Palpitoad BLK 104
+4 Tympole BLK 103
+1 Psyduck ASC 226
+1 Shaymin DRI 185
+2 Tatsugiri TWM 186
+
+Trainer: 14
+4 Buddy-Buddy Poffin TWM 223
+4 Lillie's Determination MEG 184
+4 Rare Candy GRI 165
+1 Fighting Gong MEG 168
+1 Lana's Aid TWM 219
+2 Boss's Orders PAL 265
+3 Premium Power Pro MEG 174
+3 Night Stretcher SSP 251
+4 Poké Pad POR 113
+2 Xerosic's Machinations SFA 89
+2 Gravity Gemstone SCR 137
+3 Team Rocket's Petrel DRI 226
+1 Neutralization Zone SFA 60
+1 Air Balloon SSH 213
+
+Energy: 3
+6 Basic {F} Energy MEE 6
+3 Ignition Energy WHT 86
+2 Rocky {F} Energy POR 87
+
+Total Cards: 60
