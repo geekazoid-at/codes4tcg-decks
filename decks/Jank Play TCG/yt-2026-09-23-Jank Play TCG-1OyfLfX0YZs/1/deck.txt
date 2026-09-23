@@ -1,0 +1,27 @@
+Pokémon: 7
+2 Drakloak ASC 248
+3 Joltik SCR 150
+2 Dreepy ASC 247
+3 Eelektrik BLK 114
+3 Tynamo BLK 113
+2 Zeraora TEF 57
+3 Galvantula WHT 117
+
+Trainer: 12
+3 Carmine TWM 217
+2 Night Stretcher MEG 173
+2 Lana's Aid TWM 219
+3 Boss's Orders LOR-TG 24
+3 Air Balloon MEG 166
+4 Buddy-Buddy Poffin MEG 167
+3 Hilda WHT 171
+1 Poké Pad POR 81
+2 Canari ASC 291
+3 Poké Pad POR 113
+4 Lillie's Determination MEG 184
+3 Levincia DRI 244
+
+Energy: 1
+9 Basic {L} Energy SVI 257
+
+Total Cards: 60
