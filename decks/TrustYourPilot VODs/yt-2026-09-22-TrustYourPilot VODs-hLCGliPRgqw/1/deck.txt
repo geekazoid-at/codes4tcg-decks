@@ -1,0 +1,40 @@
+Pokémon: 14
+1 Heat Rotom DRI 43
+1 Rotom DRI 77
+1 Rotom ASC 92
+1 Shaymin DRI 10
+2 Volbeat TWM 9
+1 Passimian SSP 111
+1 Tatsugiri TWM 131
+1 Wash Rotom DRI 61
+1 Fezandipiti ex SFA 38
+2 Illumise 30C 4
+1 Mow Rotom DRI 9
+1 Lillie's Clefairy ex JTG 56
+1 Moltres PFL 14
+1 Rotom ex PFL 29
+
+Trainer: 14
+1 Iris's Fighting Spirit JTG 149
+4 Counter Gain SSP 169
+2 Crispin SCR 133
+4 Lillie's Determination MEG 119
+4 Poké Pad POR 81
+1 Lana's Aid TWM 155
+3 Air Balloon BLK 79
+3 Battle Cage PFL 85
+2 Boss's Orders MEG 114
+4 Brave Bangle WHT 80
+4 Night Stretcher SFA 61
+2 Ultra Ball MEG 131
+1 Judge POR 76
+1 Unfair Stamp TWM 165
+
+Energy: 5
+2 Basic {P} Energy MEE 5
+1 Basic {L} Energy MEE 4
+1 Basic {D} Energy MEE 7
+2 Basic {F} Energy MEE 6
+2 Basic {R} Energy MEE 2
+
+Total Cards: 60

@@ -1,0 +1,35 @@
+Pokémon: 9
+1 Ethan's Sudowoodo DRI 93
+4 Maushold 30C 125
+1 Shaymin DRI 10
+1 Furfrou POR 67
+1 Dedenne SSP 87
+1 Fezandipiti ex SFA 38
+2 Fan Rotom SCR 118
+1 Budew PRE 4
+4 Tandemaus SSP 157
+
+Trainer: 17
+1 Acerola's Mischief ASC 180
+1 Xerosic's Machinations SFA 64
+4 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+1 Hassel TWM 151
+4 Poké Pad POR 81
+4 Backtrack Badge PBL 74
+2 Air Balloon BLK 79
+2 Battle Cage PFL 85
+1 Boss's Orders MEG 114
+4 Crushing Hammer POR 71
+1 Night Stretcher SFA 61
+1 Redeemable Ticket JTG 156
+2 Gwynn PBL 78
+2 Sacred Ash DRI 168
+1 Neutralization Zone SFA 60
+1 Hilda WHT 84
+
+Energy: 2
+4 Mist Energy TEF 161
+4 Rocky {F} Energy POR 87
+
+Total Cards: 60
