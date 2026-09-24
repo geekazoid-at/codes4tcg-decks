@@ -1,0 +1,26 @@
+Pokémon: 18
+4 Cosmog 30C 78
+3 Cosmoem 30C 79
+3 Lunala 30C 80
+4 Solrock ASC 106
+2 Lunatone ASC 105
+1 Drilbur TEF 85
+1 Lillie's Clefairy ex ASC 76
+
+Trainer: 24
+4 Fighting Gong ASC 187
+4 Poké Pad POR 81
+3 Night Stretcher ASC 196
+2 Rare Candy MEG 125
+1 Unfair Stamp TWM 165
+4 Lillie's Determination ASC 192
+2 Boss's Orders ASC 183
+2 Explorer's Guidance PRE 107
+2 Naveen POR 79
+
+Energy: 18
+4 Basic {P} Energy SVE 5
+4 Basic {P} Energy SVE 5
+10 Basic {F} Energy SVE 6
+
+Total Cards: 60
