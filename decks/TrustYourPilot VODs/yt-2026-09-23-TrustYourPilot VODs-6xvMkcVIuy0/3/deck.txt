@@ -1,0 +1,36 @@
+Pokémon: 15
+2 Team Rocket's Crobat ex DRI 122
+3 Team Rocket's Zubat DRI 120
+1 Azelf SSP 80
+2 Eevee SSP 143
+1 Fezandipiti ex SFA 38
+1 Team Rocket's Sneasel DRI 128
+1 Patrat CRI 70
+1 Budew PRE 4
+3 Team Rocket's Golbat DRI 121
+1 Rellor TEF 23
+4 Uxie SSP 78
+1 Rabsca TEF 24
+2 Espeon 30C 69
+1 Shaymin DRI 10
+1 Psyduck ASC 39
+
+Trainer: 11
+2 Accompanying Flute TWM 142
+1 Iris's Fighting Spirit JTG 149
+4 Poké Pad POR 81
+2 Counter Gain SSP 169
+2 Morty's Conviction TEF 155
+3 Night Stretcher SFA 61
+2 Prism Tower CRI 80
+2 Air Balloon BLK 79
+1 Judge POR 76
+4 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+
+Energy: 3
+1 Legacy Energy TWM 167
+5 Basic {P} Energy MEE 5
+2 Team Rocket's Energy DRI 182
+
+Total Cards: 60

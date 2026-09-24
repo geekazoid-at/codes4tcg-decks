@@ -1,0 +1,37 @@
+Pokémon: 11
+1 Azelf SSP 80
+4 Uxie SSP 78
+1 Shaymin DRI 10
+2 Munkidori TWM 95
+2 Froslass TWM 53
+2 Eevee SSP 143
+1 Fezandipiti ex SFA 38
+2 Snorunt ASC 46
+2 Espeon 30C 69
+1 Budew PRE 4
+1 Yveltal MEG 88
+
+Trainer: 15
+2 Risky Ruins MEG 127
+1 Iris's Fighting Spirit JTG 149
+2 Counter Gain SSP 169
+2 Crispin SCR 133
+4 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+2 Pokégear 3.0 BLK 84
+1 Prism Tower CRI 80
+4 Poké Pad POR 81
+2 Air Balloon BLK 79
+3 Night Stretcher SFA 61
+1 Judge POR 76
+1 Morty's Conviction TEF 155
+1 Wondrous Patch PFL 94
+2 Accompanying Flute TWM 142
+
+Energy: 4
+3 Basic {P} Energy MEE 5
+3 Basic {D} Energy MEE 7
+2 Telepathic {P} Energy POR 88
+1 Legacy Energy TWM 167
+
+Total Cards: 60
