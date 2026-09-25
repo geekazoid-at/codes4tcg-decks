@@ -1,0 +1,29 @@
+Pokémon: 8
+1 Fezandipiti ex ASC 288
+2 Lunatone MEG 74
+1 Lillie's Clefairy ex ASC 280
+4 Cosmog 30C 78
+1 Mew ex 30C 158
+2 Solrock MEG 75
+3 Lunala 30C 80
+2 Cosmoem 30C 79
+
+Trainer: 12
+2 Boss's Orders RCL 189
+1 Lana's Aid TWM 207
+4 Lillie's Determination MEG 169
+1 Air Balloon MEG 166
+4 Rare Candy PLB 105
+1 Brilliant Blender SSP 164
+3 Ultra Ball PLF 122
+3 Night Stretcher MEG 173
+1 Morty's Conviction TEF 211
+4 Poké Pad POR 113
+1 Prism Tower CRI 111
+3 Team Rocket's Petrel DRI 226
+
+Energy: 2
+9 Basic {F} Energy GRI 169
+7 Basic {P} Energy SUM 162
+
+Total Cards: 60

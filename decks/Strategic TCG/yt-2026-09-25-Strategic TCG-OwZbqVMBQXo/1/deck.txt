@@ -1,0 +1,31 @@
+Pokémon: 10
+1 Togepi & Cleffa & Igglybuff-GX SMALT 170
+1 Crobat V PR-SW 110
+1 Dedenne-GX SMALT 156
+4 Diancie CRZ-GG 13
+2 Voltorb PAL 66
+2 Tapu Lele-GX SMALT 38
+2 Blastoise PGO 17
+2 Squirtle PGO 15
+2 Electrode-GX HIF 126
+2 Mew ex 30C 66
+
+Trainer: 12
+2 Battle VIP Pass FST 225
+2 Rare Candy GRI 165
+2 PokéStop PGO 68
+2 Rescue Stretcher SMALT 187
+1 Brilliant Blender SSP 164
+1 Iono PAF 237
+3 Ultra Ball PLF 122
+1 Hisuian Heavy Ball ASR 146
+3 Professor's Research CEL 24
+4 Quick Ball SSH 216
+3 Irida ASR 186
+2 Switch SUM 160
+
+Energy: 2
+11 Basic {Y} Energy BUS 169
+4 Counter Energy CIN 122
+
+Total Cards: 60

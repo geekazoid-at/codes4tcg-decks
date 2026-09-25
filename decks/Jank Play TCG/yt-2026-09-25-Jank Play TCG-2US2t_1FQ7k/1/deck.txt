@@ -1,0 +1,25 @@
+Pokémon: 4
+2 Eelektrik BLK 114
+2 Tynamo BLK 113
+4 Pikachu ex ASC 277
+4 Pikachu 30C 34
+
+Trainer: 13
+2 Explorer's Guidance TEF 200
+4 Night Stretcher MEG 173
+4 Tera Orb SSP 189
+3 Boss's Orders LOR-TG 24
+3 Air Balloon MEG 166
+4 Buddy-Buddy Poffin TWM 223
+1 Colress's Tenacity SFA 87
+4 Area Zero Underdepths SCR 174
+3 Canari ASC 291
+4 Team Rocket's Petrel DRI 226
+1 Precious Trolley SSP 185
+4 Lillie's Determination MEG 184
+1 Sacred Ash POR 115
+
+Energy: 1
+10 Basic {L} Energy MEE 4
+
+Total Cards: 60
