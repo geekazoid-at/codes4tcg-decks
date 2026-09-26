@@ -1,0 +1,31 @@
+Pokémon: 7
+2 Mega Kangaskhan ex MEG 182
+1 Fezandipiti ex ASC 288
+3 Ethan's Slugma ASC 23
+1 Ethan's Pinsir DRI 1
+3 Ethan's Ho-Oh ex DRI 230
+3 Ethan's Magcargo ASC 222
+2 Latias ex SSP 239
+
+Trainer: 16
+2 Lana's Aid TWM 207
+2 Lillie's Determination MEG 184
+1 Precious Trolley SSP 185
+2 Energy Retrieval WHT 82
+1 Energy Search BCR 128
+2 Switch PFL 123
+1 Pokégear 3.0 UNB 233
+2 Night Stretcher MEG 173
+2 Boss's Orders ASC 256
+3 Team Rocket's Factory ASC 203
+1 Special Red Card CRI 113
+4 Team Rocket's Petrel DRI 226
+3 Ethan's Adventure DRI 236
+2 Energy Retrieval AOR 99
+1 Ultra Ball ASC 264
+4 Team Rocket's Transceiver ASC 263
+
+Energy: 1
+12 Basic {R} Energy OBF 230
+
+Total Cards: 60
