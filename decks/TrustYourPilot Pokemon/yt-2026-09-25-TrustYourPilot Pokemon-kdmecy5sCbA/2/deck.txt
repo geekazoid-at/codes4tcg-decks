@@ -1,0 +1,33 @@
+Pokémon: 12
+3 Teal Mask Ogerpon ex TWM 25
+1 Celebi MEG 12
+2 Meganium MEG 10
+2 Alolan Exeggutor 30C 2
+2 Exeggcute SSP 1
+2 Chikorita ASC 8
+1 Fezandipiti ex SFA 38
+2 Bayleef MEG 9
+2 Bulbasaur MEG 1
+2 Mega Venusaur ex MEG 3
+2 Ivysaur MEG 2
+1 Mega Meganium ex ASC 10
+
+Trainer: 12
+4 Forest of Vitality MEG 117
+4 Bug Catching Set TWM 143
+1 Scoop Up Cyclone TWM 162
+2 Dawn PFL 87
+3 Poké Pad POR 81
+2 Pokégear 3.0 BLK 84
+1 Night Stretcher ASC 196
+1 Judge POR 76
+1 Lana's Aid TWM 155
+1 Colress's Tenacity SFA 57
+4 Lillie's Determination MEG 119
+2 Boss's Orders MEG 114
+
+Energy: 2
+2 Growing {G} Energy POR 86
+10 Basic {G} Energy MEE 1
+
+Total Cards: 60
