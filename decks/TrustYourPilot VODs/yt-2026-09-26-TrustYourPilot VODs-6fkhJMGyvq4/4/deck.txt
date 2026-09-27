@@ -1,0 +1,38 @@
+Pokémon: 12
+1 Ethan's Sudowoodo DRI 93
+1 Shaymin DRI 10
+1 Psyduck ASC 39
+4 Tympole BLK 19
+2 Dudunsparce PRE 80
+3 Dunsparce JTG 120
+1 Dedenne SSP 87
+3 Seismitoad 30C 84
+1 Fezandipiti ex SFA 38
+1 Elgyem BLK 40
+1 Cornerstone Mask Ogerpon ex TWM 112
+2 Palpitoad BLK 20
+
+Trainer: 16
+4 Buddy-Buddy Poffin ASC 184
+1 Xerosic's Machinations SFA 64
+1 Night Stretcher ASC 196
+4 Poké Pad 30C 126
+4 Lillie's Determination ASC 192
+1 Lana's Aid TWM 155
+1 Air Balloon BLK 79
+2 Battle Cage PFL 85
+2 Boss's Orders MEG 114
+4 Crushing Hammer POR 71
+1 Colress's Tenacity SFA 57
+1 Sacred Ash DRI 168
+1 Neutralization Zone SFA 60
+1 Hilda WHT 84
+1 Enhanced Hammer TWM 148
+3 Rare Candy MEG 125
+
+Energy: 3
+1 Basic {P} Energy MEE 5
+2 Basic {F} Energy MEE 6
+4 Rocky {F} Energy POR 87
+
+Total Cards: 60

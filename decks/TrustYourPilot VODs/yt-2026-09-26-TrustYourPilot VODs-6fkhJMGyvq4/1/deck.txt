@@ -1,0 +1,39 @@
+Pokémon: 10
+2 Munkidori TWM 95
+2 Froslass TWM 53
+4 Tympole BLK 19
+1 Dedenne SSP 87
+3 Seismitoad 30C 84
+1 Fezandipiti ex SFA 38
+2 Snorunt ASC 46
+1 Budew PRE 4
+1 Yveltal MEG 88
+2 Palpitoad BLK 20
+
+Trainer: 19
+1 Iris's Fighting Spirit JTG 149
+1 Xerosic's Machinations SFA 64
+1 Nighttime Mine ASC 197
+1 Crispin SCR 133
+3 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+2 Handheld Fan TWM 150
+3 Poké Pad POR 81
+1 Lana's Aid TWM 155
+2 Air Balloon BLK 79
+1 Boss's Orders MEG 114
+4 Crushing Hammer POR 71
+1 Night Stretcher SFA 61
+1 Colress's Tenacity SFA 57
+1 Morty's Conviction TEF 155
+1 Sacred Ash DRI 168
+1 Neutralization Zone SFA 60
+1 Hilda WHT 84
+3 Rare Candy MEG 125
+
+Energy: 3
+2 Basic {D} Energy MEE 7
+2 Basic {F} Energy MEE 6
+4 Rocky {F} Energy POR 87
+
+Total Cards: 60
