@@ -1,0 +1,34 @@
+Pokémon: 10
+4 Charjabug UNB 58
+3 Vikavolt FST 101
+2 Inteleon SWSHALT 14
+2 Inteleon PR-SW 113
+4 Sobble MEG 39
+1 Shaymin DRI 185
+2 Grubbin TEF 18
+1 Vikavolt FST 101
+2 Grubbin TEF 18
+4 Drizzile SHF 99
+
+Trainer: 15
+4 Rescue Carrier CRZ 142
+1 Guzma BUS 143
+3 Lillie's Determination MEG 169
+1 Iono PAL 269
+1 Buddy-Buddy Poffin MEG 167
+1 Professor's Research CEL 24
+4 Evolution Incense SSH 163
+1 Telescopic Sight VIV 203
+4 Rare Candy GRI 165
+1 Unfair Stamp TWM 165
+3 Pokémon Communication SMALT 146
+4 Poké Pad POR 113
+1 U-Turn Board UNM 255
+1 Echoing Horn CRE 225
+1 Sacred Ash POR 115
+
+Energy: 2
+3 Capture Energy DAA 201
+1 Capture Energy RCL 171
+
+Total Cards: 60
