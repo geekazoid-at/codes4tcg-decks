@@ -1,0 +1,43 @@
+Pokémon: 14
+2 Meowth ex POR 121
+1 Koraidon ex ASC 121
+1 Chien-Pao SSP 56
+1 Sylveon ex 30C 153
+2 Eevee ex PRE 167
+1 Sylveon ex MEP 100
+1 Wellspring Mask Ogerpon ex PRE 152
+2 Terapagos SSP 161
+3 Mega Kangaskhan ex MEG 182
+1 Flareon ex PRE 146
+1 Leafeon ex PRE 144
+1 Fezandipiti ex ASC 288
+1 Lillie's Clefairy ex ASC 280
+2 Latias ex SSP 239
+
+Trainer: 14
+2 Energy Switch SIT 212
+4 Ultra Ball PLF 122
+2 Dusk Ball SSP 175
+3 Lillie's Determination MEG 169
+2 Boss's Orders RCL 189
+1 Tera Orb SSP 189
+3 Area Zero Underdepths SCR 174
+1 Unfair Stamp TWM 165
+2 Glass Trumpet ASC 260
+1 Ciphermaniac's Codebreaking TEF 198
+1 Night Stretcher MEG 173
+1 Special Red Card CRI 113
+4 Crispin SCR 164
+1 Cyrano SSP 230
+
+Energy: 8
+1 Basic {W} Energy CIN 124
+1 Basic {G} Energy GRI 167
+1 Basic {F} Energy GRI 169
+1 Basic {L} Energy GRI 168
+4 Basic {P} Energy SUM 162
+1 Basic {M} Energy SUM 163
+2 Basic {R} Energy BUS 167
+1 Basic {D} Energy BUS 168
+
+Total Cards: 60

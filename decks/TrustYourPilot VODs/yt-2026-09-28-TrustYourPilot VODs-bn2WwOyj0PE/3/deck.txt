@@ -1,0 +1,36 @@
+Pokémon: 11
+1 Shaymin DRI 10
+3 Munkidori TWM 95
+1 Chi-Yu PBL 59
+1 Pecharunt ex SFA 39
+2 Toxtricity PFL 68
+2 Umbreon ex 30C 92
+1 Fezandipiti ex SFA 38
+3 Eevee PRE 74
+1 Yveltal MEG 88
+1 Brute Bonnet TWM 118
+3 Toxel PFL 67
+
+Trainer: 17
+2 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+2 Pokégear 3.0 BLK 84
+4 Poké Pad POR 81
+1 Air Balloon BLK 79
+2 Gravity Mountain SSP 177
+1 Janine's Secret Art SFA 59
+3 Boss's Orders MEG 114
+1 Energy Recycler DRI 164
+2 Energy Switch MEG 115
+2 Night Stretcher SFA 61
+2 Ultra Ball MEG 131
+1 Judge POR 76
+1 Morty's Conviction TEF 155
+1 Secret Box TWM 163
+1 Team Rocket's Petrel DRI 176
+2 Binding Mochi SFA 55
+
+Energy: 1
+9 Basic {D} Energy MEE 7
+
+Total Cards: 60
