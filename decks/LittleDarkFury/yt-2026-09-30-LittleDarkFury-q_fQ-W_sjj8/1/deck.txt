@@ -1,0 +1,34 @@
+Pokémon: 12
+2 Dreepy ASC 247
+1 Bloodmoon Ursaluna ex PRE 168
+4 Banette PBL 34
+2 Lillie's Clefairy ex ASC 280
+4 Dhelmise PBL 39
+4 Shuppet PBL 33
+2 Poltchageist PBL 5
+1 Sinistcha PBL 6
+1 Yveltal 30C 100
+1 Shaymin DRI 10
+1 Moltres PFL 14
+2 Drakloak ASC 248
+
+Trainer: 11
+2 Boss's Orders RCL 189
+1 Hassel TWM 205
+4 Lillie's Determination MEG 169
+2 Buddy-Buddy Poffin MEG 167
+3 Ultra Ball PLF 122
+3 Night Stretcher MEG 173
+1 Black Belt's Training ASC 255
+3 Gwynn PBL 119
+4 Poké Pad POR 113
+2 Prism Tower CRI 111
+1 Special Red Card CRI 113
+
+Energy: 4
+1 Legacy Energy TWM 167
+4 Telepathic {P} Energy POR 88
+3 Prism Energy ASC 216
+1 Basic {P} Energy SUM 162
+
+Total Cards: 60

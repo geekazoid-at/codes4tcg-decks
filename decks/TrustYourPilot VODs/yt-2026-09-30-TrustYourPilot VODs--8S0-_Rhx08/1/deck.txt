@@ -1,0 +1,26 @@
+Pokémon: 6
+2 Solrock MEG 75
+4 Cosmog 30C 78
+3 Lunala 30C 80
+2 Lunatone MEG 74
+1 Fezandipiti ex ASC 142
+2 Cosmoem 30C 79
+
+Trainer: 10
+2 Night Stretcher ASC 196
+4 Lillie's Determination MEG 119
+2 Prism Tower CRI 80
+4 Poké Pad POR 81
+1 Lana's Aid TWM 155
+2 Boss's Orders MEG 114
+4 Fighting Gong MEG 116
+2 Naveen POR 79
+4 Ultra Ball MEG 131
+2 Rare Candy MEG 125
+
+Energy: 3
+6 Basic {P} Energy MEE 5
+12 Basic {F} Energy MEE 6
+1 Legacy Energy TWM 167
+
+Total Cards: 60
