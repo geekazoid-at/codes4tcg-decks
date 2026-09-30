@@ -1,0 +1,30 @@
+Pokémon: 9
+2 Solrock MEG 75
+2 Makuhita MEG 72
+3 Binacle POR 42
+2 Barbaracle POR 43
+2 Mega Lucario ex MEG 77
+2 Lunatone MEG 74
+3 Riolu MEG 76
+3 Okidogi TWM 111
+2 Hariyama MEG 73
+
+Trainer: 11
+4 Lillie's Determination MEG 119
+3 Poké Pad POR 81
+3 Air Balloon BLK 79
+1 Battle Cage PFL 85
+2 Boss's Orders MEG 114
+4 Fighting Gong MEG 116
+1 Switch MEG 130
+1 Judge POR 76
+3 Tarragon POR 85
+1 Battle Cage PFL 85
+4 Premium Power Pro MEG 124
+
+Energy: 3
+7 Basic {F} Energy MEE 6
+4 Prism Energy ASC 216
+1 Legacy Energy TWM 167
+
+Total Cards: 60
