@@ -1,0 +1,36 @@
+Pokémon: 13
+1 Meowth ex POR 62
+2 Torchic DRI 40
+1 Salamence ex JTG 114
+1 Combusken DRI 41
+2 Blaziken ex JTG 24
+3 Bagon JTG 112
+1 Shelgon JTG 113
+4 Dragapult ex TWM 130
+1 Fezandipiti ex SFA 38
+1 Budew PRE 4
+2 Salamence ex 30C 109
+1 Delibird MEG 105
+1 Haxorus SFA 46
+
+Trainer: 12
+1 Brilliant Blender SSP 164
+2 Crispin SCR 133
+4 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+2 Prism Tower CRI 80
+2 Poké Pad POR 81
+2 Air Balloon BLK 79
+2 Boss's Orders MEG 114
+1 Naveen POR 79
+4 Ultra Ball MEG 131
+2 Team Rocket's Petrel DRI 176
+4 Rare Candy MEG 125
+
+Energy: 4
+1 Basic {F} Energy MEE 6
+2 Basic {W} Energy MEE 11
+3 Basic {P} Energy MEE 13
+3 Basic {R} Energy MEE 10
+
+Total Cards: 60

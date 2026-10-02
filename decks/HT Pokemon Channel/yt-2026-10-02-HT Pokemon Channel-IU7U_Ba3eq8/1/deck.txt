@@ -1,0 +1,31 @@
+Pokémon: 19
+4 Steven's Beldum DRI 143
+4 Steven's Metagross ex DRI 145
+4 Mew ex 30C 66
+1 Mega Skarmory ex POR 55
+1 Mega Latias ex MEG 100
+1 Wellspring Mask Ogerpon ex PRE 27
+1 Lillie's Clefairy ex ASC 76
+1 Unown 30C 72
+1 Fezandipiti ex ASC 142
+1 Latias ex SSP 76
+
+Trainer: 29
+4 Ultra Ball ASC 213
+4 Rare Candy MEG 125
+2 Night Stretcher ASC 196
+2 Energy Recycler DRI 164
+2 Poké Pad POR 81
+1 Unfair Stamp TWM 165
+2 Lively Stadium SSP 180
+4 Cyrano SSP 170
+4 Lillie's Determination ASC 192
+2 Boss's Orders ASC 183
+2 Team Rocket's Petrel ASC 207
+
+Energy: 12
+4 Prism Energy ASC 216
+4 Basic {P} Energy SVE 5
+4 Basic {M} Energy SVE 8
+
+Total Cards: 60

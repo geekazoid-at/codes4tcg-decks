@@ -1,0 +1,28 @@
+Pokémon: 7
+2 Eelektrik BLK 114
+3 Zekrom 30C 56
+2 Tynamo BLK 113
+4 Tatsugiri TWM 186
+1 Fezandipiti ex ASC 288
+1 Mega Eelektross ex ASC 278
+3 Reshiram 30C 14
+
+Trainer: 12
+1 Energy Recycler POR 108
+2 Night Stretcher SSP 251
+2 Lana's Aid TWM 219
+4 Brave Bangle WHT 80
+3 Ultra Ball BRS 186
+2 Boss's Orders LOR-TG 24
+3 Air Balloon MEG 166
+3 Crispin PRE 171
+3 Canari ASC 291
+4 Poké Pad POR 113
+1 Precious Trolley SSP 185
+4 Lillie's Determination MEG 184
+
+Energy: 2
+6 Basic {L} Energy MEE 4
+6 Basic {R} Energy MEE 2
+
+Total Cards: 60

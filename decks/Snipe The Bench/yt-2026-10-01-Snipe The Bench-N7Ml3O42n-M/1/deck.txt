@@ -1,0 +1,32 @@
+Pokémon: 12
+3 Carvanha PFL 60
+1 Dudunsparce TEF 129
+2 Toxel PFL 67
+2 Munkidori TWM 95
+2 Dunsparce JTG 120
+1 Dudunsparce ex JTG 121
+3 Mega Sharpedo ex PFL 61
+1 Fezandipiti ex ASC 142
+2 Toxtricity PFL 68
+2 Pecharunt ex SFA 39
+1 Yveltal MEG 88
+2 Tatsugiri TWM 131
+
+Trainer: 12
+2 Team Rocket's Watchtower DRI 180
+1 Unfair Stamp TWM 165
+1 Brock's Scouting JTG 146
+3 Poké Pad POR 81
+1 Team Rocket's Petrel DRI 176
+1 Night Stretcher ASC 196
+2 Judge POR 76
+4 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+2 Binding Mochi PRE 95
+4 Ultra Ball MEG 131
+4 Boss's Orders MEG 114
+
+Energy: 1
+9 Basic {D} Energy MEE 15
+
+Total Cards: 60

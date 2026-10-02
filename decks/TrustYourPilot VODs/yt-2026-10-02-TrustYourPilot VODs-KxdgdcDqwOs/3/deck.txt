@@ -1,0 +1,33 @@
+Pokémon: 8
+1 Meowth ex POR 62
+1 Shaymin DRI 10
+1 Mega Eelektross ex ASC 61
+3 Eelektrik BLK 31
+3 Pikachu ex SSP 57
+4 Pikachu 30C 34
+1 Pikachu ex 30C 54
+3 Tynamo BLK 30
+
+Trainer: 14
+1 Powerglass SFA 63
+1 Iris's Fighting Spirit JTG 149
+3 Area Zero Underdepths SCR 131
+1 Crispin SCR 133
+4 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+2 Air Balloon BLK 79
+2 Boss's Orders MEG 114
+3 Night Stretcher SFA 61
+1 Naveen POR 79
+4 Ultra Ball MEG 131
+1 Prime Catcher TEF 157
+1 Morty's Conviction TEF 155
+1 Carmine TWM 145
+
+Energy: 4
+8 Basic {L} Energy MEE 12
+2 Basic {G} Energy MEE 9
+2 Voltaic {L} Energy PBL 84
+2 Basic {M} Energy MEE 16
+
+Total Cards: 60
