@@ -1,0 +1,29 @@
+Pokémon: 7
+1 Lumineon V BRS 40
+3 Trevenant & Dusknoir-GX PR-SM 217
+2 Latias ex SSP 76
+2 Dedenne-GX UNB 57
+2 Marshadow UNB 81
+1 Squawkabilly ex PAL 169
+1 Crobat V DAA 104
+
+Trainer: 14
+3 Earthen Vessel PRE 106
+4 Judge SVI 176
+1 Night Stretcher ASC 196
+3 Guzma BUS 115
+2 Fog Crystal CRE 140
+4 Path to the Peak CRE 148
+1 Air Balloon SSH 156
+4 Quick Ball SSH 179
+4 Energy Sticker MEW 159
+1 Forest Seal Stone SIT 156
+1 Secret Box TWM 163
+4 Marnie SSH 169
+4 Wondrous Patch PFL 94
+4 Ultra Ball ASC 213
+
+Energy: 1
+8 Basic {P} Energy SVE 5
+
+Total Cards: 60
