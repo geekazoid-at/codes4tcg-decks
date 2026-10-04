@@ -1,0 +1,37 @@
+Pokémon: 14
+1 Chi-Yu TWM 39
+2 Teal Mask Ogerpon ex PRE 145
+1 Chien-Pao SSP 56
+4 Mega Kangaskhan ex MEG 182
+1 Fezandipiti ex SFA 92
+2 Lillie's Clefairy ex ASC 280
+1 Iron Leaves ex TEF 203
+1 Iron Crown ex TEF 206
+3 Meowth ex POR 121
+1 Wellspring Mask Ogerpon ex PRE 152
+1 Koraidon ex ASC 121
+1 Unown 30C 72
+2 Latias ex SSP 239
+3 Mew ex 30C 66
+
+Trainer: 10
+3 Boss's Orders RCL 189
+3 Crispin SCR 164
+1 Unfair Stamp TWM 165
+1 Ciphermaniac's Codebreaking TEF 198
+3 Energy Switch PBL 107
+4 Ultra Ball PLF 122
+1 Night Stretcher MEG 173
+1 Energy Switch SIT 212
+4 Area Zero Underdepths SCR 174
+1 Cyrano SSP 230
+
+Energy: 6
+1 Basic {R} Energy BUS 167
+5 Basic {G} Energy GRI 167
+1 Basic {F} Energy GRI 169
+4 Telepathic {P} Energy POR 88
+1 Basic {W} Energy CIN 124
+2 Basic {P} Energy SUM 162
+
+Total Cards: 60
