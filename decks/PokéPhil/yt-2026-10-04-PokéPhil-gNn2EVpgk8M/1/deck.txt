@@ -1,0 +1,35 @@
+Pokémon: 13
+4 Mega Kangaskhan ex MEG 182
+2 Fezandipiti ex ASC 288
+2 Lillie's Clefairy ex ASC 280
+1 Iron Crown ex TEF 206
+3 Meowth ex POR 121
+1 Frillish WHT 126
+2 Wellspring Mask Ogerpon ex PRE 152
+2 Mew ex 30C 152
+1 Stunfisk ASC 62
+1 Chien-Pao PR-SV 152
+1 Unown 30C 72
+2 Latias ex SSP 239
+2 Mew ex 30C 66
+
+Trainer: 11
+1 Lillie's Determination MEG 184
+1 Prime Catcher PRE 119
+1 Ciphermaniac's Codebreaking TEF 198
+1 Pokégear 3.0 UNB 233
+2 Boss's Orders PAL 265
+3 Dusk Ball SSP 175
+4 Crispin PRE 171
+3 Area Zero Underdepths SCR 174
+4 Ultra Ball BRS 186
+3 Wondrous Patch POR 117
+1 Cyrano SSP 230
+
+Energy: 4
+4 Telepathic {P} Energy POR 88
+2 Basic {L} Energy GRI 168
+2 Basic {W} Energy CIN 124
+4 Basic {P} Energy SUM 162
+
+Total Cards: 60
