@@ -1,0 +1,34 @@
+Pokémon: 11
+1 Psyduck ASC 39
+4 Beedrill ex CRI 98
+1 Meowth ex POR 121
+1 Mew ex 30C 158
+1 Fezandipiti ex ASC 288
+2 Dunsparce JTG 120
+1 Dunsparce TEF 128
+3 Dudunsparce TEF 129
+1 Fan Rotom SCR 118
+4 Weedle CRI 1
+4 Kakuna CRI 2
+
+Trainer: 15
+4 Forest of Vitality POR 109
+2 Ultra Ball PLF 122
+1 Night Stretcher MEG 173
+4 Lillie's Determination MEG 169
+2 Dawn PFL 129
+3 Buddy-Buddy Poffin MEG 167
+1 Special Red Card CRI 113
+1 Max Rod PRE 116
+1 Team Rocket's Petrel DRI 226
+4 Poké Pad POR 113
+1 Pokégear 3.0 UNB 233
+4 Bug Catching Set TWM 143
+1 Judge PAF 228
+2 Boss's Orders RCL 189
+1 Sacred Ash POR 115
+
+Energy: 1
+5 Basic {G} Energy GRI 167
+
+Total Cards: 60
