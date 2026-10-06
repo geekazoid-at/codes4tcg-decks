@@ -1,0 +1,38 @@
+Pokémon: 13
+1 Latias ex SSP 76
+2 Eelektrik BLK 31
+1 Terapagos ex SCR 128
+1 Terapagos SSP 161
+1 Fezandipiti ex SFA 38
+1 Mega Eelektross ex ASC 61
+2 Lugia 30C 121
+1 Pikachu ex SSP 57
+1 Wellspring Mask Ogerpon ex TWM 64
+2 Tynamo BLK 30
+1 Meowth ex POR 62
+1 Stunfisk ASC 62
+1 Moltres PFL 14
+
+Trainer: 13
+1 Surfer SSP 187
+4 Poké Pad POR 81
+3 Energy Switch SVI 173
+1 Prime Catcher TEF 157
+1 Night Stretcher ASC 196
+2 Prism Tower CRI 80
+2 Air Balloon BLK 79
+1 Powerglass SFA 63
+3 Crispin SCR 133
+3 Glass Trumpet SCR 135
+4 Lillie's Determination MEG 119
+4 Ultra Ball MEG 131
+2 Boss's Orders MEG 114
+
+Energy: 5
+1 Basic {M} Energy MEE 16
+6 Basic {L} Energy MEE 12
+2 Basic {R} Energy MEE 10
+2 Basic {G} Energy MEE 9
+2 Basic {W} Energy MEE 11
+
+Total Cards: 60
