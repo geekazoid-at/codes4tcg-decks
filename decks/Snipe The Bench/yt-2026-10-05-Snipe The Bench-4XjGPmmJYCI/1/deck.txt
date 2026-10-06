@@ -1,0 +1,33 @@
+Pokémon: 10
+1 Mega Froslass ex ASC 47
+1 Skrelp CRI 58
+3 Froslass TWM 53
+4 Snorunt ASC 46
+4 Munkidori SFA 72
+1 Shaymin DRI 185
+1 Yveltal MEG 88
+1 Psyduck ASC 226
+3 Budew ASC 221
+1 Mega Dragalge ex CRI 104
+
+Trainer: 14
+3 Boss's Orders ASC 183
+3 Night Stretcher ASC 196
+1 Ultra Ball ASC 264
+4 Lillie's Determination MEG 119
+3 Gwynn PBL 119
+1 Team Rocket's Factory ASC 203
+4 Poké Pad POR 81
+1 Energy Search POR 72
+2 Air Balloon MEG 166
+2 Buddy-Buddy Poffin MEG 167
+1 Secret Box TWM 163
+3 Dark Bell PBL 106
+4 Team Rocket's Petrel DRI 226
+1 Pokégear 3.0 BLK 84
+
+Energy: 2
+2 Basic {W} Energy SVE 11
+5 Basic {D} Energy SVE 15
+
+Total Cards: 60
