@@ -1,0 +1,29 @@
+Pokémon: 7
+1 Meowth ex POR 62
+3 Staryu POR 20
+2 Mega Starmie ex POR 21
+4 Froakie CRI 20
+3 Mega Greninja ex CRI 22
+2 Mantine MEG 32
+2 Frogadier CRI 21
+
+Trainer: 14
+2 Brock's Scouting JTG 146
+4 Poké Pad ASC 198
+3 Rare Candy SVI 191
+2 Judge POR 76
+1 Mega Signal ASC 193
+2 Energy Retrieval SVI 171
+4 Lillie's Determination MEG 119
+2 Air Balloon BLK 79
+2 Boss's Orders MEG 114
+2 Special Red Card CRI 82
+3 Ultra Ball MEG 131
+2 Dawn PFL 87
+3 Surfing Beach MEG 129
+1 Team Rocket's Petrel DRI 176
+
+Energy: 1
+10 Basic {W} Energy MEE 3
+
+Total Cards: 60

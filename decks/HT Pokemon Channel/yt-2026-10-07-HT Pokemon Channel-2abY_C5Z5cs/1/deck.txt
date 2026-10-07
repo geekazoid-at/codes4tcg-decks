@@ -1,0 +1,31 @@
+Pokémon: 18
+2 Articuno 30C 18
+2 Zapdos 30C 55
+2 Moltres 30C 11
+2 Lugia 30C 121
+4 Chansey TWM 133
+4 Blissey ex TWM 134
+1 Latias ex SSP 76
+1 Bloodmoon Ursaluna ex TWM 141
+
+Trainer: 27
+2 Pokégear 3.0 BLK 84
+2 Team Rocket's Transceiver ASC 209
+3 Ultra Ball ASC 213
+2 Night Stretcher ASC 196
+1 Energy Retrieval WHT 82
+1 Precious Trolley SSP 185
+1 Brave Bangle WHT 80
+2 Team Rocket's Factory ASC 203
+4 Team Rocket's Petrel ASC 207
+4 Lillie's Determination ASC 192
+2 Boss's Orders ASC 183
+2 Crispin PRE 105
+1 Kieran PRE 113
+
+Energy: 15
+5 Basic {R} Energy SVE 2
+5 Basic {W} Energy SVE 3
+5 Basic {L} Energy SVE 4
+
+Total Cards: 60
