@@ -1,0 +1,39 @@
+Pokémon: 14
+1 Meowth ex POR 62
+3 Hisuian Zoroark 30C 123
+1 Mega Froslass ex ASC 47
+3 Hisuian Zorua 30C 122
+1 Shaymin DRI 10
+1 Patrat CRI 70
+2 Mega Starmie ex POR 21
+1 Latias ex SSP 76
+1 Fezandipiti ex SFA 38
+1 Snorunt ASC 46
+1 Fan Rotom SCR 118
+3 Staryu POR 20
+1 Bloodmoon Ursaluna ex TWM 141
+1 Yveltal 30C 100
+
+Trainer: 16
+1 Salvatore TEF 160
+3 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+2 Pokégear 3.0 BLK 84
+3 Poké Pad POR 81
+1 Air Balloon BLK 79
+2 Battle Cage PFL 85
+2 Boss's Orders MEG 114
+2 Night Stretcher SFA 61
+1 Switch MEG 130
+3 Ultra Ball MEG 131
+2 Wally's Compassion MEG 132
+1 Prime Catcher TEF 157
+1 Surfer SSP 187
+2 Hilda WHT 84
+1 Repel MEG 126
+
+Energy: 2
+4 Basic {W} Energy MEE 11
+4 Ignition Energy WHT 86
+
+Total Cards: 60

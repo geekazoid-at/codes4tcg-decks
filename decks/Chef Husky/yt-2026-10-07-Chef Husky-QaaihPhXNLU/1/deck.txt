@@ -1,0 +1,33 @@
+Pokémon: 5
+2 Team Rocket's Mimikyu ASC 238
+3 Team Rocket's Persian ex DRI 219
+1 Team Rocket's Articuno DRI 51
+1 Team Rocket's Sneasel DRI 128
+4 Team Rocket's Meowth DRI 203
+
+Trainer: 19
+2 Salvatore TEF 202
+2 Team Rocket's Factory ASC 203
+4 Team Rocket's Transceiver ASC 263
+2 Night Stretcher SSP 251
+3 Team Rocket's Proton DRI 227
+4 Team Rocket's Ariana DRI 237
+3 Team Rocket's Giovanni DRI 238
+4 Ultra Ball BRS 186
+1 Air Balloon SSH 213
+2 Hilda WHT 171
+1 Special Red Card CRI 113
+1 Buddy-Buddy Poffin TWM 223
+1 Secret Box TWM 163
+1 Backtrack Badge PBL 74
+1 Team Rocket's Petrel DRI 226
+4 Pokégear 3.0 UNB 233
+1 Lucky Helmet TWM 158
+2 Lillie's Determination MEG 184
+2 Team Rocket's Archer DRI 223
+
+Energy: 2
+4 Ignition Energy WHT 86
+4 Team Rocket's Energy ASC 217
+
+Total Cards: 60
