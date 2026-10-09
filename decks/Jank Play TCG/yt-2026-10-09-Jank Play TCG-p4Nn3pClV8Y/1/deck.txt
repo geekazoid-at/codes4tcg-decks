@@ -1,0 +1,28 @@
+Pokémon: 6
+2 Terapagos ex PRE 169
+3 Dunsparce JTG 120
+4 Lugia 30C 121
+2 Chansey TWM 187
+3 Dudunsparce PRE 80
+2 Blissey ex TWM 201
+
+Trainer: 11
+4 Glass Trumpet ASC 260
+2 Lana's Aid TWM 219
+3 Ultra Ball BRS 186
+2 Boss's Orders LOR-TG 24
+2 Buddy-Buddy Poffin TWM 223
+3 Crispin PRE 171
+1 Area Zero Underdepths SCR 174
+4 Iris's Fighting Spirit ASC 292
+4 Poké Pad POR 113
+1 Precious Trolley SSP 185
+4 Lillie's Determination MEG 184
+
+Energy: 4
+4 Basic {L} Energy MEE 4
+2 Basic {G} Energy MEE 1
+4 Basic {W} Energy MEE 3
+4 Basic {R} Energy MEE 2
+
+Total Cards: 60
