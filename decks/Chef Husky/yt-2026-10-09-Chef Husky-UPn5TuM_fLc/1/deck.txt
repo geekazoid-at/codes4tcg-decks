@@ -1,0 +1,37 @@
+Pokémon: 9
+1 Meowth ex POR 62
+2 Goomy CRI 66
+2 Goodra CRI 68
+2 Latias ex SSP 76
+2 Team Rocket's Chingling DRI 85
+3 Team Rocket's Grimer DRI 123
+1 Comfey SCR 63
+2 Mega Kangaskhan ex MEG 104
+2 Sliggoo CRI 67
+
+Trainer: 19
+4 Buddy-Buddy Poffin ASC 184
+1 Xerosic's Machinations SFA 64
+4 Poké Pad ASC 198
+2 Rare Candy SVI 191
+2 Night Stretcher ASC 196
+4 Lillie's Determination MEG 119
+1 Handheld Fan TWM 150
+1 Jamming Tower TWM 153
+2 Lana's Aid TWM 155
+3 Boss's Orders MEG 114
+1 Special Red Card CRI 82
+3 Team Rocket's Giovanni DRI 174
+1 Cyrano SSP 170
+2 Switch MEG 130
+2 Ultra Ball MEG 131
+1 Judge POR 76
+1 Prime Catcher TEF 157
+1 Dawn PFL 87
+2 Team Rocket's Petrel DRI 176
+
+Energy: 2
+4 Team Rocket's Energy ASC 217
+1 Basic {P} Energy MEE 13
+
+Total Cards: 60
