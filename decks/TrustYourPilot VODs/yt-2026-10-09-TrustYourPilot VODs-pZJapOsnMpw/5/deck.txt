@@ -1,0 +1,34 @@
+Pokémon: 11
+2 Solrock MEG 75
+3 Binacle MEP 87
+1 Shaymin DRI 10
+1 Mega Lucario ex MEG 77
+2 Lunatone MEG 74
+3 Riolu MEG 76
+2 Okidogi TWM 111
+1 Ting-Lu TWM 110
+3 Barbaracle POR 43
+2 Lucario 30C 83
+1 Bloodmoon Ursaluna SFA 25
+
+Trainer: 14
+4 Lillie's Determination MEG 119
+4 Poké Pad POR 81
+1 Air Balloon BLK 79
+2 Battle Cage PFL 85
+1 Boss's Orders MEG 114
+4 Fighting Gong MEG 116
+4 Night Stretcher SFA 61
+1 Switch MEG 130
+1 Judge POR 76
+1 Prime Catcher TEF 157
+1 Morty's Conviction TEF 155
+1 Tarragon POR 85
+2 Pokémon Catcher POR 82
+2 Accompanying Flute TWM 142
+
+Energy: 2
+7 Basic {F} Energy MEE 14
+3 Prism Energy BLK 86
+
+Total Cards: 60
