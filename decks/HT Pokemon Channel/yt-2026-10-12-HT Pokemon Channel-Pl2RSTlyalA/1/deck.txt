@@ -1,0 +1,25 @@
+Pokémon: 18
+4 Mew ex 30C 66
+4 Snorunt ASC 46
+3 Mega Froslass ex ASC 47
+4 Staryu POR 20
+3 Mega Starmie ex POR 21
+
+Trainer: 30
+4 Buddy-Buddy Poffin ASC 184
+4 Ultra Ball ASC 213
+4 Pokégear 3.0 BLK 84
+2 Switch MEG 130
+1 Hero's Cape TEF 152
+4 Salvatore TEF 160
+3 Lillie's Determination ASC 192
+3 Hilda WHT 84
+3 Boss's Orders ASC 183
+2 Wally's Compassion MEG 132
+
+Energy: 12
+3 Ignition Energy WHT 86
+4 Basic {W} Energy SVE 3
+5 Basic {W} Energy SVE 3
+
+Total Cards: 60

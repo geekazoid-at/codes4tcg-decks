@@ -1,0 +1,29 @@
+Pokémon: 8
+2 Dunsparce JTG 120
+1 Ethan's Sudowoodo DRI 93
+3 Palpitoad BLK 104
+3 Seismitoad 30C 84
+1 Shaymin DRI 185
+4 Tympole BLK 103
+2 Dudunsparce PRE 80
+1 Psyduck ASC 226
+
+Trainer: 13
+3 Boss's Orders PAL 265
+4 Crushing Hammer UPR 166
+1 Grand Tree SCR 136
+2 Team Rocket's Factory DRI 173
+4 Team Rocket's Transceiver ASC 263
+1 Fighting Gong MEG 168
+2 Premium Power Pro MEG 174
+2 Xerosic's Machinations SFA 89
+4 Buddy-Buddy Poffin TWM 223
+3 Rare Candy GRI 165
+4 Team Rocket's Petrel DRI 226
+4 Poké Pad POR 113
+3 Lillie's Determination MEG 184
+
+Energy: 1
+6 Basic {F} Energy MEE 6
+
+Total Cards: 60
