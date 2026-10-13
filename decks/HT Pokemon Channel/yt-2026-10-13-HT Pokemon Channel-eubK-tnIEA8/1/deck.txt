@@ -1,0 +1,26 @@
+Pokémon: 19
+3 Pikachu ex 30C 53
+4 Tynamo ASC 59
+4 Eelektrik ASC 60
+2 Mega Eelektross ex ASC 61
+3 Dunsparce PRE 79
+2 Dudunsparce PRE 80
+1 Dudunsparce ex JTG 121
+
+Trainer: 27
+4 Ultra Ball ASC 213
+4 Dusk Ball SSP 175
+4 Poké Pad POR 81
+2 Pokégear 3.0 BLK 84
+1 Night Stretcher ASC 196
+1 Unfair Stamp TWM 165
+2 Air Balloon ASC 181
+1 Levincia JTG 150
+4 Lillie's Determination ASC 192
+4 Boss's Orders ASC 183
+
+Energy: 14
+4 Basic {L} Energy SVE 4
+10 Basic {L} Energy SVE 4
+
+Total Cards: 60

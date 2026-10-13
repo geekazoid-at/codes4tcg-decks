@@ -1,0 +1,33 @@
+Pokémon: 10
+3 Hisuian Zoroark 30C 123
+2 Gengar ex 30C 90
+3 Hisuian Zorua 30C 145
+1 Mewtwo ex 30C 151
+1 Shaymin DRI 185
+1 Patrat CRI 70
+1 Psyduck ASC 226
+2 Gastly ASC 123
+2 Haunter POR 49
+1 Yveltal 30C 100
+
+Trainer: 12
+2 Boss's Orders PAL 265
+4 Night Stretcher SSP 251
+3 Ultra Ball BRS 186
+1 Air Balloon SSH 213
+3 Hilda WHT 171
+4 Buddy-Buddy Poffin TWM 223
+1 Enhanced Hammer TWM 224
+3 Rare Candy GRI 165
+2 Team Rocket's Petrel DRI 226
+3 Pokégear 3.0 UNB 233
+4 Lillie's Determination MEG 184
+2 Wondrous Patch POR 117
+
+Energy: 4
+3 Ignition Energy WHT 86
+3 Basic {P} Energy MEE 13
+1 Neo Upper Energy TEF 162
+4 Basic {D} Energy MEE 15
+
+Total Cards: 60
