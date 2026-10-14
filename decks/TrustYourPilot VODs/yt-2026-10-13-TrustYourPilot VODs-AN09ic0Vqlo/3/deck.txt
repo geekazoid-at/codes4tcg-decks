@@ -1,0 +1,39 @@
+Pokémon: 17
+1 Azelf SSP 80
+1 Meowth ex POR 62
+1 Mega Diancie ex PFL 41
+1 Shaymin DRI 10
+1 Bronzong TEF 69
+3 Mew ex 30C 66
+1 Psyduck ASC 39
+1 Patrat CRI 70
+1 Deoxys CRI 33
+1 Latias ex SSP 76
+1 Fezandipiti ex SFA 38
+1 Team Rocket's Mimikyu DRI 87
+1 Unown 30C 72
+1 Bronzor TEF 68
+2 Clefable TWM 79
+2 Clefairy POR 30
+1 Lillie's Clefairy ex JTG 56
+
+Trainer: 12
+1 Counter Gain SSP 169
+4 Lillie's Determination MEG 119
+3 Poké Pad POR 81
+3 Boss's Orders MEG 114
+2 Night Stretcher SFA 61
+3 Ultra Ball MEG 131
+1 Colress's Tenacity SFA 57
+1 Lillie's Pearl JTG 151
+1 Unfair Stamp TWM 165
+4 Wondrous Patch PFL 94
+2 Mystery Garden MEG 122
+2 Hilda WHT 84
+
+Energy: 3
+1 Ignition Energy WHT 86
+4 Telepathic {P} Energy POR 88
+7 Basic {P} Energy MEE 13
+
+Total Cards: 60
