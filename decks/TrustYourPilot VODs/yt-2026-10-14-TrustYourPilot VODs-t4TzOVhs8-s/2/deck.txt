@@ -1,0 +1,39 @@
+Pokémon: 12
+1 Shaymin DRI 10
+1 Hydreigon ex SSP 119
+3 Zweilous SSP 118
+4 Deino SSP 117
+1 Relicanth TEF 84
+1 Shellos SSP 46
+3 Hydreigon 30C 99
+1 Dedenne SSP 87
+1 Team Rocket's Chingling DRI 85
+1 Fezandipiti ex SFA 38
+1 Elgyem BLK 40
+1 Gastrodon SSP 107
+
+Trainer: 17
+1 Counter Gain SSP 169
+2 Nighttime Mine ASC 197
+4 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+2 Handheld Fan TWM 150
+3 Poké Pad POR 81
+1 Lana's Aid TWM 155
+2 Air Balloon BLK 79
+1 Boss's Orders MEG 114
+4 Crushing Hammer POR 71
+1 Night Stretcher SFA 61
+2 Ultra Ball MEG 131
+1 Colress's Tenacity SFA 57
+1 Dawn PFL 87
+1 Hilda WHT 84
+1 Enhanced Hammer TWM 148
+3 Rare Candy MEG 125
+
+Energy: 3
+2 Basic {P} Energy MEE 5
+4 Basic {D} Energy MEE 7
+1 Legacy Energy TWM 167
+
+Total Cards: 60

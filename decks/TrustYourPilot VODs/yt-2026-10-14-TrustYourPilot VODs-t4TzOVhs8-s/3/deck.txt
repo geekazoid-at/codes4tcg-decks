@@ -1,0 +1,40 @@
+Pokémon: 12
+2 Mega Gengar ex PFL 56
+1 Hydreigon ex SSP 119
+2 Zweilous SSP 118
+1 Psyduck ASC 39
+2 Deino SSP 117
+2 Tatsugiri TWM 131
+1 Pecharunt ex SFA 39
+3 Hydreigon 30C 99
+1 Dedenne SSP 87
+1 Team Rocket's Chingling DRI 85
+1 Fezandipiti ex SFA 38
+1 Elgyem BLK 40
+
+Trainer: 17
+2 Academy at Night SFA 54
+1 Xerosic's Machinations SFA 64
+1 Eri TEF 146
+4 Lillie's Determination MEG 119
+2 Pokégear 3.0 BLK 84
+2 Handheld Fan TWM 150
+3 Grimsley's Move PFL 90
+1 Lana's Aid TWM 155
+2 Air Balloon BLK 79
+1 Battle Cage PFL 85
+2 Boss's Orders MEG 114
+4 Crushing Hammer POR 71
+1 Night Stretcher SFA 61
+4 Ultra Ball MEG 131
+1 Sacred Ash DRI 168
+1 Enhanced Hammer TWM 148
+1 Rare Candy MEG 125
+
+Energy: 4
+4 Shadowy {D} Energy PBL 83
+1 Legacy Energy TWM 167
+2 Basic {P} Energy MEE 13
+2 Basic {D} Energy MEE 15
+
+Total Cards: 60

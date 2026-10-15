@@ -1,0 +1,38 @@
+Pokémon: 9
+1 Hydreigon ex SSP 119
+2 Zweilous SSP 118
+4 Deino SSP 117
+2 Bastiodon PBL 62
+1 Fezandipiti ex SFA 38
+1 Dedenne SSP 87
+1 Elgyem BLK 40
+2 Hydreigon 30C 99
+1 Team Rocket's Chingling DRI 85
+
+Trainer: 19
+1 Fossil Quarry PBL 76
+1 Enhanced Hammer TWM 148
+1 Dawn PFL 87
+2 Antique Armor Fossil PBL 72
+2 Poké Pad POR 81
+4 Crushing Hammer POR 71
+2 Battle Cage PFL 85
+1 Counter Gain SSP 169
+1 Night Stretcher SFA 61
+4 Rare Candy MEG 125
+2 Air Balloon BLK 79
+2 Handheld Fan TWM 150
+1 Lana's Aid TWM 155
+1 Hilda WHT 84
+1 Colress's Tenacity SFA 57
+4 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+2 Ultra Ball MEG 131
+2 Boss's Orders MEG 114
+
+Energy: 3
+2 Basic {P} Energy MEE 5
+4 Basic {D} Energy MEE 7
+1 Neo Upper Energy TEF 162
+
+Total Cards: 60

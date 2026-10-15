@@ -1,0 +1,32 @@
+Pokémon: 11
+2 Frogadier CRI 21
+2 Dudunsparce TEF 129
+1 Mega Starmie ex POR 102
+1 Meowth ex POR 107
+2 Dunsparce JTG 120
+3 Mega Greninja ex CRI 22
+4 Froakie CRI 20
+1 Staryu POR 20
+1 Budew PRE 4
+1 Wellspring Mask Ogerpon ex TWM 64
+1 Shaymin DRI 185
+
+Trainer: 12
+4 Lillie's Determination MEG 184
+4 Buddy-Buddy Poffin MEG 167
+1 Energy Retrieval CRI 108
+2 Boss's Orders PAL 265
+2 Night Stretcher MEG 173
+3 Rare Candy MEG 175
+1 Wally's Compassion MEG 176
+4 Hilda WHT 171
+3 Surfing Beach CRI 114
+4 Poké Pad POR 113
+2 Special Red Card CRI 113
+4 Ultra Ball ASC 264
+
+Energy: 2
+6 Basic {W} Energy SVE 11
+1 Neo Upper Energy TEF 162
+
+Total Cards: 60

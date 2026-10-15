@@ -1,0 +1,39 @@
+Pokémon: 12
+2 Latias ex SSP 76
+2 Mega Camerupt ex MEG 22
+2 Volcanion ex JTG 31
+2 Mega Kangaskhan ex MEG 104
+1 Numel ASC 27
+1 Fuecoco ex 30C 15
+1 Fezandipiti ex ASC 142
+2 Oricorio ex PFL 18
+1 Meowth ex POR 62
+2 Numel MEG 21
+1 Reshiram ex WHT 20
+1 Moltres PFL 14
+
+Trainer: 18
+1 Cyrano SSP 170
+1 Surfer SSP 187
+1 Firebreather PFL 89
+2 Poké Pad POR 81
+1 Battle Cage PFL 85
+1 Energy Retrieval SVI 171
+1 AZ's Tranquility CRI 76
+1 Prime Catcher TEF 157
+1 Special Red Card CRI 82
+2 Night Stretcher ASC 196
+1 Judge POR 76
+1 Jamming Tower TWM 153
+2 Hilda WHT 84
+4 Lillie's Determination MEG 119
+4 Switch MEG 130
+4 Ultra Ball MEG 131
+1 Wally's Compassion MEG 132
+3 Boss's Orders MEG 114
+
+Energy: 2
+8 Basic {R} Energy MEE 10
+2 Ignition Energy WHT 86
+
+Total Cards: 60
