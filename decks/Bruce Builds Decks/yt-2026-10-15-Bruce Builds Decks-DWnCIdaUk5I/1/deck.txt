@@ -1,0 +1,34 @@
+Pokémon: 16
+3 Karrablast BLK 9
+3 Escavalier BLK 60
+3 Shelmet WHT 8
+3 Accelgor JTG 13
+1 Heatran TWM 123
+1 Tropius 30C 5
+1 Genesect SFA 40
+1 Tatsugiri TWM 131
+
+Trainer: 35
+4 Lillie's Determination MEG 119
+2 Morty's Conviction TEF 155
+1 Gladion's Final Battle PBL 77
+1 Kieran TWM 154
+4 Poké Pad ASC 198
+4 Buddy-Buddy Poffin ASC 184
+4 Ultra Ball MEG 131
+2 Night Stretcher ASC 196
+2 Dark Bell PBL 75
+1 Pokégear 3.0 SVI 186
+2 Air Balloon SSH 156
+2 Counter Gain ASC 186
+2 Brave Bangle WHT 80
+1 Tremendous Bomb PBL 82
+1 Maximum Belt TEF 154
+2 Perilous Jungle TEF 156
+
+Energy: 9
+4 Basic {G} Energy SVE 1
+4 Basic {M} Energy SVE 8
+1 Basic {M} Energy SVE 8
+
+Total Cards: 60
