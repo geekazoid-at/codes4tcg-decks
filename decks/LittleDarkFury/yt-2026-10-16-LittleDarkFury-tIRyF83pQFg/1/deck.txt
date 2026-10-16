@@ -1,0 +1,31 @@
+Pokémon: 11
+1 Metagross CRI 61
+1 Fezandipiti ex SFA 92
+3 Cosmog 30C 78
+1 Mega Skarmory ex POR 106
+2 Genesect ex BLK 169
+3 Metang TEF 114
+1 Regigigas PRE 86
+3 Beldum CRI 59
+3 Solgaleo 30C 105
+1 Cosmoem 30C 79
+1 Shaymin DRI 10
+
+Trainer: 12
+1 Boss's Orders RCL 189
+1 Hassel TWM 205
+4 Lillie's Determination MEG 169
+1 Morty's Conviction TEF 201
+2 Air Balloon MEG 166
+4 Buddy-Buddy Poffin MEG 167
+4 Rare Candy PLB 105
+3 Energy Recycler POR 108
+1 Prime Catcher TEF 157
+1 Night Stretcher MEG 173
+2 Brock's Scouting JTG 179
+2 Team Rocket's Petrel DRI 226
+
+Energy: 1
+14 Basic {M} Energy MEE 16
+
+Total Cards: 60
