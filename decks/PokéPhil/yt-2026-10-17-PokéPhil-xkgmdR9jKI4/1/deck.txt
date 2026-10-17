@@ -1,0 +1,14 @@
+Pokémon: 2
+4 Bergmite CRI 23
+4 Avalugg CRI 24
+
+Trainer: 4
+4 Poké Pad POR 113
+4 Larry's Skill PRE 139
+1 Master Ball TEF 153
+3 Dawn PFL 129
+
+Energy: 1
+40 Basic {W} Energy MEE 3
+
+Total Cards: 60
