@@ -1,0 +1,43 @@
+Pokémon: 11
+2 Hisuian Sneasler V ASR 175
+1 Fezandipiti ex ASC 288
+1 Finizen TWM 59
+3 Palafin ex PRE 151
+1 Palafin PAF 124
+1 Lumineon V CRZ-GG 39
+3 Finizen PAF 123
+1 Munkidori SFA 72
+2 Pecharunt ex SFA 95
+3 Palafin TWM 60
+1 Enamorus V LOR-TG 18
+
+Trainer: 21
+1 Night Stretcher SSP 251
+1 Technical Machine: Devolution PAR 177
+1 Rigid Band MEW 165
+2 Arven PAF 235
+3 Buddy-Buddy Poffin TWM 223
+1 Defiance Band SVI 169
+3 Iono PAF 237
+1 Beach Court PAR 263
+2 Boss's Orders LOR-TG 24
+1 Ultra Ball BRS 186
+1 Forest Seal Stone SIT 156
+2 Nest Ball SUM 158
+1 Dendra PAL 266
+1 Hisuian Heavy Ball ASR 146
+1 Canceling Cologne ASR 136
+1 Earthen Vessel SFA 96
+2 Switch MEW 206
+1 Professor Turo's Scenario PAR 257
+4 Irida ASR 147
+1 Lost Vacuum LOR 217
+2 Kieran TWM 206
+
+Energy: 4
+1 Legacy Energy TWM 167
+1 Basic {D} Energy MEE 7
+2 Basic {W} Energy MEE 3
+4 Luminous Energy PAL 191
+
+Total Cards: 60

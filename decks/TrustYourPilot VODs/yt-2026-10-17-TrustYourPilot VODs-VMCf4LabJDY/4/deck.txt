@@ -1,0 +1,40 @@
+Pokémon: 13
+1 Latias ex SSP 76
+1 Mega Mawile ex MEG 94
+1 Whismur CES 116
+1 Dedenne-GX UNB 57
+1 Terapagos ex SCR 128
+2 Zacian V SSH 138
+1 Lumineon V BRS 40
+2 Arceus & Dialga & Palkia-GX CEC 156
+1 Crobat V DAA 104
+1 Wellspring Mask Ogerpon ex TWM 64
+1 Kyurem SFA 47
+1 Squawkabilly ex PAL 169
+2 Mew ex 30C 66
+
+Trainer: 16
+1 Hisuian Heavy Ball ASR 146
+2 Metal Saucer SSH 170
+4 Quick Ball SSH 179
+1 Raihan EVS 152
+1 Forest Seal Stone SIT 156
+1 Prime Catcher TEF 157
+2 Night Stretcher SFA 61
+2 Iono PAL 185
+1 Arven SVI 166
+1 Colress's Tenacity SFA 57
+2 Area Zero Underdepths SCR 131
+2 Guzma BUS 115
+2 Crispin SCR 133
+2 Lillie's Determination MEG 119
+4 Ultra Ball MEG 131
+3 Energy Switch MEG 115
+
+Energy: 4
+1 Prism Energy BLK 86
+1 Counter Energy CIN 100
+8 Basic {M} Energy MEE 8
+3 Basic {W} Energy MEE 3
+
+Total Cards: 60

@@ -1,0 +1,41 @@
+Pokémon: 10
+1 Latias ex SSP 76
+1 Marshadow UNB 81
+2 Tapu Lele-GX GRI 60
+4 Shadow Rider Calyrex V CRE 74
+1 Mimikyu GRI 58
+1 Lillie's Clefairy ex JTG 56
+1 Radiant Eternatus CRZ 105
+2 Mew ex 30C 66
+4 Shadow Rider Calyrex VMAX CRE 75
+1 Trevenant & Dusknoir-GX PR-SM 217
+
+Trainer: 22
+1 Hisuian Heavy Ball ASR 146
+1 Carmine TWM 145
+1 Unfair Stamp TWM 165
+1 Quick Ball SSH 179
+1 Raihan EVS 152
+4 Mysterious Treasure FLI 113
+1 Forest Seal Stone SIT 156
+1 Field Blower GRI 125
+1 Mystery Garden MEG 122
+1 Special Red Card CRI 82
+1 Night Stretcher ASC 196
+4 Fog Crystal CRE 140
+1 Air Balloon BLK 79
+1 Iono PAL 185
+1 Arven SVI 166
+1 Superior Energy Retrieval PAL 189
+1 Colress's Tenacity SFA 57
+1 Tulip PAR 181
+2 Guzma BUS 115
+1 Acerola BUS 112
+2 Lillie's Determination MEG 119
+1 Chaotic Swell CEC 187
+
+Energy: 2
+1 Telepathic {P} Energy POR 88
+11 Basic {P} Energy MEE 13
+
+Total Cards: 60
