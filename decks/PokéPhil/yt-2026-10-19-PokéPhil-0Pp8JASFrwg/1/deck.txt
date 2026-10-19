@@ -1,0 +1,31 @@
+Pokémon: 8
+1 Meowth ex POR 62
+2 Hop's Snorlax JTG 117
+3 Hop's Zacian ex JTG 111
+3 Duraludon SCR 106
+1 Latias ex SSP 76
+1 Fezandipiti ex ASC 142
+1 Hop's Cramorant JTG 138
+3 Archaludon ex SSP 130
+
+Trainer: 15
+2 Energy Search POR 72
+1 Air Balloon ASC 181
+4 Hop's Choice Band JTG 148
+2 Iris's Fighting Spirit JTG 149
+3 Hop's Bag JTG 147
+2 Night Stretcher ASC 196
+4 Lillie's Determination MEG 119
+3 Poké Pad POR 81
+1 Kieran TWM 154
+3 Boss's Orders MEG 114
+4 Ultra Ball MEG 131
+2 Judge POR 76
+3 Postwick JTG 154
+3 Pokégear 3.0 SVI 186
+1 Secret Box TWM 163
+
+Energy: 1
+7 Basic {M} Energy MEE 16
+
+Total Cards: 60
