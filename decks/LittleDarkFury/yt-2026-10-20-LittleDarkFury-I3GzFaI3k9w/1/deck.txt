@@ -1,0 +1,29 @@
+Pokémon: 8
+2 Tatsugiri PR-SV 118
+4 Carvanha PFL 60
+1 Fezandipiti ex SFA 92
+2 Toxel PFL 67
+2 Munkidori TWM 95
+3 Mega Sharpedo ex PFL 127
+2 Pecharunt ex SFA 93
+2 Toxtricity PFL 68
+
+Trainer: 13
+4 Boss's Orders RCL 189
+2 Team Rocket's Watchtower DRI 180
+3 Judge PAF 228
+1 Unfair Stamp TWM 165
+4 Lillie's Determination MEG 169
+4 Buddy-Buddy Poffin MEG 167
+4 Ultra Ball PLF 122
+2 Binding Mochi SFA 55
+1 Night Stretcher MEG 173
+2 Gravity Mountain SSP 250
+2 Wally's Compassion MEG 176
+2 Poké Pad POR 113
+2 Team Rocket's Petrel DRI 226
+
+Energy: 1
+9 Basic {D} Energy MEE 15
+
+Total Cards: 60
