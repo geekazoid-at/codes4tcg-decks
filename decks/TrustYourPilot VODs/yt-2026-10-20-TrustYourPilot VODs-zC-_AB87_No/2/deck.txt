@@ -1,0 +1,28 @@
+Pokémon: 8
+4 Mega Sharpedo ex PFL 61
+2 Munkidori TWM 95
+2 Tatsugiri TWM 131
+4 Carvanha PFL 60
+3 Pecharunt ex SFA 39
+2 Toxtricity PFL 68
+2 Toxel MEP 78
+1 Fezandipiti ex SFA 38
+
+Trainer: 12
+1 Iris's Fighting Spirit JTG 149
+4 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+4 Poké Pad POR 81
+1 Gravity Mountain SSP 177
+4 Boss's Orders MEG 114
+4 Ultra Ball MEG 131
+2 Harlequin WHT 83
+2 Team Rocket's Watchtower DRI 180
+1 Unfair Stamp TWM 165
+1 Team Rocket's Petrel DRI 176
+3 Binding Mochi SFA 55
+
+Energy: 1
+9 Basic {D} Energy MEE 7
+
+Total Cards: 60

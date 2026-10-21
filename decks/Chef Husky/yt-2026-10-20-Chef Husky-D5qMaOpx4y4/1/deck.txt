@@ -1,0 +1,30 @@
+Pokémon: 6
+4 Igglybuff 30C 120
+3 Ethan's Pichu DRI 71
+4 Poltchageist PBL 5
+1 Team Rocket's Articuno DRI 51
+2 Budew ASC 221
+4 Team Rocket's Chingling DRI 85
+
+Trainer: 17
+3 Team Rocket's Factory ASC 203
+3 Gwynn PBL 119
+1 Black Belt's Training ASC 255
+4 Team Rocket's Transceiver ASC 263
+1 Team Rocket's Proton DRI 227
+2 Brave Bangle WHT 80
+4 Team Rocket's Giovanni DRI 238
+2 Boss's Orders LOR-TG 24
+4 Buddy-Buddy Poffin TWM 223
+2 Brave Bangle PBL 104
+1 Gwynn PBL 78
+3 Team Rocket's Petrel DRI 226
+3 Poké Pad POR 113
+4 Lillie's Determination MEG 184
+1 Neutralization Zone SFA 60
+2 Sacred Ash POR 115
+2 Handheld Fan TWM 150
+
+Energy: 0
+
+Total Cards: 60

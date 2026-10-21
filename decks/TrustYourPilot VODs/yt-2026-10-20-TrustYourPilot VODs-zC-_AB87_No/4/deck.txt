@@ -1,0 +1,30 @@
+Pokémon: 10
+2 Bayleef MEG 9
+1 Meowth ex POR 62
+2 Chikorita MEG 8
+2 Hydrapple ex SCR 14
+4 Teal Mask Ogerpon ex TWM 25
+2 Dipplin TWM 18
+1 Fezandipiti ex ASC 142
+2 Applin TWM 17
+2 Meganium MEG 10
+1 Celebi MEG 12
+
+Trainer: 12
+2 Night Stretcher ASC 196
+1 Briar SCR 132
+4 Lillie's Determination MEG 119
+3 Poké Pad POR 81
+1 Lana's Aid TWM 155
+2 Boss's Orders MEG 114
+4 Forest of Vitality MEG 117
+4 Ultra Ball MEG 131
+1 Judge POR 76
+1 Dawn PFL 87
+1 Unfair Stamp TWM 165
+4 Bug Catching Set TWM 143
+
+Energy: 1
+13 Basic {G} Energy MEE 9
+
+Total Cards: 60
