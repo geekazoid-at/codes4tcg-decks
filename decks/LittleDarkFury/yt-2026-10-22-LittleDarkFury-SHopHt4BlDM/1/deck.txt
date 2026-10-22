@@ -1,0 +1,26 @@
+Pokémon: 2
+4 Jellicent ex WHT 168
+4 Frillish WHT 126
+
+Trainer: 13
+4 Hilda WHT 171
+3 Boss's Orders RCL 189
+1 Special Red Card CRI 113
+1 Unfair Stamp TWM 165
+3 Jacinthe POR 122
+4 Handheld Fan TWM 150
+4 Judge PAF 228
+2 Roto-Stick PRE 127
+3 Team Rocket's Watchtower DRI 180
+4 Lillie's Determination MEG 169
+4 Pokégear 3.0 UNB 233
+1 Kieran TWM 206
+4 Crushing Hammer PBL 105
+
+Energy: 4
+3 Basic {P} Energy MEE 13
+4 Telepathic {P} Energy POR 88
+4 Ignition Energy PFL 124
+3 Mist Energy TEF 161
+
+Total Cards: 60
