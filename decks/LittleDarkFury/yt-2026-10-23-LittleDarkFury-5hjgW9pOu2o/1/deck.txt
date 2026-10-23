@@ -1,0 +1,32 @@
+Pokémon: 8
+1 Fezandipiti ex SFA 92
+3 Armarouge PBL 12
+4 Charcadet SSP 32
+2 Ethan's Ho-Oh ex DRI 230
+2 Ethan's Cyndaquil DRI 32
+2 Ethan's Quilava DRI 33
+1 Ethan's Typhlosion DRI 34
+1 Tatsugiri TWM 186
+
+Trainer: 16
+2 Boss's Orders RCL 189
+1 Lana's Aid TWM 207
+1 Unfair Stamp TWM 165
+4 Lillie's Determination MEG 169
+1 Brave Bangle PBL 104
+3 Energy Switch PBL 107
+2 Air Balloon MEG 166
+3 Buddy-Buddy Poffin MEG 167
+1 Energy Switch ROS 109
+2 Ultra Ball PLF 122
+2 Night Stretcher MEG 173
+1 Gravity Mountain SSP 250
+1 Morty's Conviction TEF 211
+4 Poké Pad POR 113
+1 Special Red Card CRI 113
+4 Ethan's Adventure DRI 236
+
+Energy: 1
+11 Basic {R} Energy MEE 10
+
+Total Cards: 60

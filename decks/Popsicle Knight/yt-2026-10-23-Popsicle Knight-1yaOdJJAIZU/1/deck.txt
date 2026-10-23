@@ -1,0 +1,31 @@
+Pokémon: 6
+4 Snorlax 30C 119
+2 Smoochum SSP 75
+1 Tatsugiri TWM 186
+2 Munkidori SFA 72
+1 Lillie's Clefairy ex ASC 280
+4 Bouffalant SCR 119
+
+Trainer: 16
+2 Heavy Baton TEF 151
+3 Night Stretcher MEG 173
+1 Energy Recycler FLI 143
+1 Air Balloon SSH 213
+2 Kofu SCR 165
+2 Sacred Charm PFL 122
+2 Buddy-Buddy Poffin TWM 223
+2 Crispin PRE 171
+2 Team Rocket's Petrel DRI 226
+3 Poké Pad POR 113
+1 Jasmine's Gaze SSP 245
+1 Precious Trolley SSP 185
+4 Lillie's Determination MEG 184
+2 Boss's Orders RCL 189
+4 Switch MEW 206
+3 Lively Stadium SSP 180
+
+Energy: 2
+8 Basic {P} Energy MEE 13
+3 Basic {D} Energy MEE 15
+
+Total Cards: 60
