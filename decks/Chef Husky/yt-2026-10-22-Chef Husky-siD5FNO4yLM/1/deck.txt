@@ -1,0 +1,29 @@
+Pokémon: 8
+3 Mega Delphox ex PBL 8
+2 Blaziken ex JTG 24
+4 Toucannon PBL 94
+4 Chandelure TWM 38
+1 Tatsugiri TWM 186
+4 Fennekin CRI 11
+2 Braixen CRI 12
+2 Delphox CRI 13
+
+Trainer: 13
+3 Ciphermaniac's Codebreaking TEF 198
+3 Gwynn PBL 119
+1 Night Stretcher SSP 251
+4 Ultra Ball BRS 186
+2 Boss's Orders LOR-TG 24
+2 Air Balloon SSH 213
+1 Scoop Up Cyclone PRE 128
+1 Gwynn PBL 109
+3 Rare Candy GRI 165
+3 Team Rocket's Petrel DRI 226
+3 Poké Pad POR 113
+1 Energy Retrieval CRI 108
+1 Sacred Ash POR 115
+
+Energy: 1
+10 Basic {R} Energy MEE 2
+
+Total Cards: 60

@@ -1,0 +1,19 @@
+Pokémon: 16
+4 Surskit M 6 2
+4 Masquerain M 6 3
+4 Spinarak M 6 44
+4 Combee M 6 6
+
+Trainer: 15
+4 Brock's Scouting JTG 146
+3 Lillie's Determination MEG 119
+4 Poké Pad POR 81
+1 Sacred Ash DRI 168
+1 Energy Retrieval WHT 82
+2 Forest of Vitality MEG 117
+
+Energy: 9
+7 Basic {G} Energy SVE 1
+2 Basic {G} Energy SVE 1
+
+Total Cards: 60

@@ -1,0 +1,23 @@
+Pokémon: 11
+4 Tornadus M 6 59
+3 Thundurus M 6 25
+2 Enamorus M 6 34
+2 Landorus M 6 40
+
+Trainer: 18
+3 Lillie's Determination MEG 119
+3 Brock's Scouting JTG 146
+1 Gladion's Final Battle PBL 77
+3 Poké Pad POR 81
+3 Ultra Ball MEG 131
+2 Energy Search POR 72
+1 Sacred Ash DRI 168
+1 Repel MEG 126
+1 Air Balloon BLK 79
+
+Energy: 11
+4 Basic {F} Energy SVE 6
+4 Basic {P} Energy SVE 5
+3 Basic {L} Energy SVE 4
+
+Total Cards: 60

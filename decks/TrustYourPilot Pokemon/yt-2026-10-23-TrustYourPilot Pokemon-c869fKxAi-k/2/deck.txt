@@ -1,0 +1,18 @@
+Pokémon: 12
+4 Magmar M 6 12
+3 Magmortar M 6 13
+3 Electabuzz M 6 22
+2 Electivire M 6 23
+
+Trainer: 16
+4 Lillie's Determination MEG 119
+2 Hilda WHT 84
+4 Poké Pad POR 81
+3 Adventuring Lantern M 6 64
+3 Energy Retrieval WHT 82
+
+Energy: 12
+6 Basic {R} Energy SVE 2
+6 Basic {L} Energy SVE 4
+
+Total Cards: 60
