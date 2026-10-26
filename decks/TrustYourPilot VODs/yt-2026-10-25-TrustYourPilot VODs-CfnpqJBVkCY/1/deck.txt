@@ -1,0 +1,28 @@
+Pokémon: 7
+2 Meowth ex POR 62
+3 Mega Froslass ex ASC 47
+4 Mew ex 30C 66
+3 Mega Starmie ex POR 21
+3 Snorunt ASC 46
+1 Budew PRE 4
+4 Staryu POR 20
+
+Trainer: 11
+1 Energy Search POR 72
+4 Salvatore TEF 160
+4 Buddy-Buddy Poffin TEF 144
+4 Pokégear 3.0 BLK 84
+2 Air Balloon BLK 79
+2 Battle Cage PFL 85
+3 Boss's Orders MEG 114
+4 Ultra Ball MEG 131
+2 Wally's Compassion MEG 132
+1 Secret Box TWM 163
+2 Hilda WHT 84
+
+Energy: 3
+7 Basic {W} Energy MEE 3
+2 Ignition Energy WHT 86
+2 Bubbly {W} Energy CRI 84
+
+Total Cards: 60
