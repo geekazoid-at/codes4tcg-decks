@@ -1,0 +1,33 @@
+Pokémon: 19
+3 Litwick PBL 36
+2 Phantump CRI 38
+2 Lampent PBL 37
+1 Patrat CRI 70
+2 Elgyem BLK 40
+2 Trevenant CRI 39
+1 Unown 30C 72
+1 Uxie SSP 78
+3 Mega Chandelure ex PBL 38
+2 Mew ex 30C 66
+
+Trainer: 31
+2 Enhanced Hammer TWM 148
+2 Morty's Conviction TEF 201
+1 Prime Catcher TEF 157
+3 Mystery Garden MEG 122
+2 Night Stretcher ASC 196
+2 Handheld Fan TWM 150
+1 Tool Scrapper CRI 115
+2 Wondrous Patch PFL 94
+3 Buddy-Buddy Poffin ASC 184
+4 Lillie's Determination MEG 119
+3 Ultra Ball MEG 131
+1 Switch SVI 194
+2 Rare Candy SVI 191
+3 Boss's Orders MEG 114
+
+Energy: 10
+4 Basic {P} Energy SVE 5
+6 Basic {P} Energy SVE 5
+
+Total Cards: 60

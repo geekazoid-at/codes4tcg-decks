@@ -1,0 +1,37 @@
+Pokémon: 11
+1 Vivillon POR 9
+3 Spewpa POR 8
+3 Swinub JTG 77
+1 Vivillon SSP 7
+3 Scatterbug SSP 5
+2 Piloswine JTG 78
+2 Torchic DRI 40
+1 Combusken DRI 41
+1 Vivillon SSP 193
+2 Blaziken ex JTG 24
+3 Mamoswine ex JTG 174
+
+Trainer: 15
+2 Boss's Orders RCL 189
+1 Bug Catching Set TWM 143
+1 Secret Box TWM 163
+4 Lillie's Determination MEG 169
+1 Air Balloon MEG 166
+3 Buddy-Buddy Poffin MEG 167
+3 Rare Candy PLB 105
+3 Forest of Vitality POR 109
+1 Switch PFL 123
+1 Ultra Ball PLF 122
+1 Pokégear 3.0 UNB 233
+1 Night Stretcher MEG 173
+1 Morty's Conviction TEF 211
+4 Poké Pad POR 113
+2 Dawn PFL 118
+
+Energy: 4
+5 Basic {F} Energy MEE 14
+1 Basic {R} Energy MEE 10
+1 Basic {G} Energy MEE 9
+2 Rocky {F} Energy POR 87
+
+Total Cards: 60
