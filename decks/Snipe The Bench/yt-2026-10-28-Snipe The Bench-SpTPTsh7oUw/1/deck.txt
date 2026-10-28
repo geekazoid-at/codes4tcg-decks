@@ -1,0 +1,33 @@
+Pokémon: 13
+2 Latias ex SSP 76
+1 Chien-Pao SSP 56
+1 Snorunt ASC 46
+4 Mega Kangaskhan ex MEG 104
+1 Mega Froslass ex ASC 47
+1 Iron Crown ex TEF 81
+1 Wellspring Mask Ogerpon ex TWM 64
+1 Fezandipiti ex ASC 142
+1 Lillie's Clefairy ex JTG 56
+1 Unown 30C 72
+3 Meowth ex POR 62
+1 Stunfisk ASC 62
+3 Mew ex 30C 66
+
+Trainer: 10
+1 Cyrano SSP 170
+1 Unfair Stamp TWM 165
+1 Switch PFL 123
+2 Night Stretcher MEG 173
+4 Area Zero Underdepths SCR 131
+4 Wondrous Patch PFL 94
+1 Ciphermaniac's Codebreaking TEF 145
+4 Lillie's Determination MEG 119
+4 Ultra Ball MEG 131
+3 Boss's Orders MEG 114
+
+Energy: 3
+4 Telepathic {P} Energy POR 88
+4 Prism Energy ASC 216
+6 Basic {P} Energy MEE 13
+
+Total Cards: 60

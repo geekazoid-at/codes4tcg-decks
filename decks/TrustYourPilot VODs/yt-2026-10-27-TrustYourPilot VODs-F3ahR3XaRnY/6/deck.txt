@@ -1,0 +1,28 @@
+Pokémon: 9
+3 Alakazam MEG 56
+4 Dunsparce TEF 128
+4 Dudunsparce TEF 129
+3 Gimmighoul 30C 81
+1 Fezandipiti ex SFA 38
+4 Kadabra MEG 55
+2 Gholdengo 30C 108
+4 Abra TWM 80
+2 Tatsugiri TWM 131
+
+Trainer: 9
+3 Dawn PFL 87
+2 Poké Pad POR 81
+1 Max Rod PRE 116
+3 Strange Timepiece MEG 128
+2 Lana's Aid TWM 155
+4 Hilda WHT 84
+4 Buddy-Buddy Poffin TEF 144
+3 Lacey SCR 139
+4 Lillie's Determination MEG 119
+
+Energy: 3
+4 Telepathic {P} Energy POR 88
+2 Basic {M} Energy MEE 8
+1 Basic {P} Energy MEE 5
+
+Total Cards: 60

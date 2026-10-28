@@ -1,0 +1,29 @@
+Pokémon: 5
+3 Ethan's Pichu DRI 71
+4 Poltchageist PBL 5
+4 Igglybuff 30C 120
+2 Tyrogue MEG 71
+3 Budew PRE 4
+
+Trainer: 17
+4 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+3 Pokégear 3.0 BLK 84
+3 Hassel TWM 151
+4 Poké Pad POR 81
+2 Battle Cage PFL 85
+3 Boss's Orders MEG 114
+1 Special Red Card CRI 82
+3 Brave Bangle WHT 80
+2 Night Stretcher SFA 61
+1 Tool Scrapper WHT 85
+1 Team Rocket's Watchtower DRI 180
+2 Gwynn PBL 78
+4 Pokémon Catcher POR 82
+2 Sacred Ash DRI 168
+1 Neutralization Zone SFA 60
+4 Dark Bell PBL 75
+
+Energy: 0
+
+Total Cards: 60

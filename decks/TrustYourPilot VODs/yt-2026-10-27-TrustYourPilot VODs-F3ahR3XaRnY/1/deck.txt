@@ -1,0 +1,34 @@
+Pokémon: 13
+2 Smoochum SSP 75
+1 Meowth ex POR 62
+1 Cofagrigus SSP 83
+1 Cofagrigus WHT 40
+1 Patrat CRI 70
+2 Latias ex SSP 76
+1 Fezandipiti ex SFA 38
+1 Frillish WHT 44
+3 Mewtwo ex 30C 64
+2 Clefairy POR 30
+2 Clefable TWM 79
+2 Yamask SSP 82
+2 Lillie's Clefairy ex JTG 56
+
+Trainer: 12
+4 Lillie's Determination MEG 119
+2 Boss's Orders MEG 114
+2 Night Stretcher SFA 61
+1 Switch MEG 130
+4 Ultra Ball MEG 131
+2 Colress's Tenacity SFA 57
+2 Judge POR 76
+1 Lillie's Pearl JTG 151
+1 Unfair Stamp TWM 165
+4 Wondrous Patch PFL 94
+2 Pokémon Catcher POR 82
+3 Mystery Garden MEG 122
+
+Energy: 2
+7 Basic {P} Energy MEE 5
+4 Telepathic {P} Energy POR 88
+
+Total Cards: 60
