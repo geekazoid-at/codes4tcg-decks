@@ -1,0 +1,34 @@
+Pokémon: 11
+2 Munkidori SFA 72
+1 Dunsparce TEF 128
+3 Dudunsparce TEF 129
+2 Lillie's Clefairy ex ASC 280
+1 Meowth ex POR 121
+3 Gourgeist ex CRI 102
+2 Dunsparce JTG 120
+4 Pumpkaboo CRI 40
+1 Budew ASC 221
+1 Shaymin DRI 185
+1 Dudunsparce ex JTG 178
+
+Trainer: 13
+2 Boss's Orders RCL 189
+1 Unfair Stamp TWM 165
+4 Lillie's Determination MEG 169
+4 Buddy-Buddy Poffin MEG 167
+4 Risky Ruins MEG 127
+3 Ultra Ball PLF 122
+1 Night Stretcher MEG 173
+2 Hilda WHT 171
+1 Judge DRI 222
+4 Poké Pad POR 113
+1 Colress's Tenacity SFA 87
+1 Special Red Card CRI 113
+2 Wondrous Patch POR 117
+
+Energy: 3
+4 Telepathic {P} Energy POR 88
+2 Basic {D} Energy MEE 15
+3 Basic {P} Energy MEE 13
+
+Total Cards: 60
