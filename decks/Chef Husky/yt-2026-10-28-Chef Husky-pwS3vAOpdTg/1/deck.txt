@@ -1,0 +1,27 @@
+Pokémon: 5
+1 Metagross CRI 61
+1 Fezandipiti ex ASC 288
+3 Metang TEF 114
+4 Beldum CRI 59
+3 Orthworm ex SCR 110
+
+Trainer: 14
+3 Poké Pad POR 81
+2 Boss's Orders LOR-TG 24
+3 Jumbo Ice Cream CRI 109
+1 Hero's Cape TEF 152
+2 Heavy Baton TEF 151
+2 Energy Recycler DRI 164
+2 Ultra Ball ASC 213
+2 Night Stretcher ASC 196
+2 Full Metal Lab TEF 148
+1 Jumbo Ice Cream PFL 91
+4 Lillie's Determination ASC 192
+2 Team Rocket's Petrel ASC 207
+3 Brock's Scouting JTG 179
+3 Buddy-Buddy Poffin ASC 184
+
+Energy: 1
+16 Basic {M} Energy MEE 8
+
+Total Cards: 60
