@@ -1,0 +1,30 @@
+Pokémon: 6
+3 Mega Sharpedo ex PFL 61
+2 Munkidori TWM 95
+4 Carvanha PFL 60
+2 Pecharunt ex SFA 39
+2 Toxtricity PFL 68
+2 Toxel PFL 67
+
+Trainer: 15
+4 Salvatore TEF 160
+1 Air Balloon ASC 181
+4 Pokégear 3.0 BLK 84
+1 Night Stretcher SSP 251
+2 Gravity Mountain SSP 177
+2 Janine's Secret Art SFA 59
+3 Boss's Orders MEG 114
+2 Wally's Compassion MEG 132
+2 Buddy-Buddy Poffin MEG 167
+1 Hero's Cape TEF 152
+1 Larry's Skill PRE 115
+3 Roto-Stick PRE 127
+2 Dark Bell PBL 106
+2 Poké Pad POR 113
+3 Lillie's Determination MEG 184
+
+Energy: 2
+4 Shadowy {D} Energy PBL 83
+8 Basic {D} Energy MEE 15
+
+Total Cards: 60
