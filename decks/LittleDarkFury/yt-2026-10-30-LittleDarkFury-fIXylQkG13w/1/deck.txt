@@ -1,0 +1,32 @@
+Pokémon: 9
+1 Dunsparce TEF 128
+3 Dudunsparce TEF 129
+3 Misdreavus PFL 35
+2 Dunsparce JTG 120
+1 Misdreavus ASC 85
+1 Budew ASC 221
+1 Dudunsparce ex JTG 178
+2 Lillie's Clefairy ex JTG 173
+3 Mismagius ex PFL 112
+
+Trainer: 14
+3 Boss's Orders RCL 189
+2 Judge PAF 228
+4 Lillie's Determination MEG 169
+4 Crushing Hammer PBL 105
+1 Morty's Conviction TEF 201
+4 Buddy-Buddy Poffin MEG 167
+1 Hero's Cape TEF 152
+3 Ultra Ball PLF 122
+1 Night Stretcher MEG 173
+2 Gravity Mountain SSP 250
+1 Hilda WHT 171
+4 Poké Pad POR 113
+1 Special Red Card CRI 113
+3 Wondrous Patch POR 117
+
+Energy: 2
+4 Telepathic {P} Energy POR 88
+5 Basic {P} Energy MEE 13
+
+Total Cards: 60

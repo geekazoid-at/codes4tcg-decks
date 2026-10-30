@@ -1,0 +1,27 @@
+Pokémon: 29
+4 Surskit DLR 2
+4 Masquerain DLR 3
+4 Frillish WHT 44
+4 Jellicent DLR 28
+4 Sizzlipede PBL 9
+4 Spinarak DLR 58
+4 Combee DLR 6
+1 Latias ex SSP 76
+
+Trainer: 22
+4 Hilda WHT 84
+3 Lillie's Determination MEG 119
+3 Kofu SCR 138
+2 Lana's Aid TWM 155
+1 Boss's Orders MEG 114
+4 Poké Pad POR 81
+2 Buddy-Buddy Poffin TEF 144
+2 Night Stretcher SFA 61
+1 Forest of Vitality MEG 117
+
+Energy: 9
+4 Basic {P} Energy SVE 5
+4 Basic {G} Energy SVE 1
+1 Legacy Energy TWM 167
+
+Total Cards: 60
