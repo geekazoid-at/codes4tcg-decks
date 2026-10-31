@@ -1,0 +1,32 @@
+Pokémon: 13
+1 Dudunsparce ex JTG 178
+1 Munkidori TWM 95
+2 Dusclops SFA 69
+1 Fezandipiti ex ASC 288
+1 Haunter POR 49
+1 Dunsparce JTG 120
+3 Duskull SFA 68
+1 Dunsparce TEF 128
+2 Dudunsparce TEF 129
+3 Gengar ex 30C 154
+2 Budew ASC 221
+2 Dusknoir SFA 70
+3 Gastly POR 48
+
+Trainer: 10
+2 Nighttime Mine ASC 197
+3 Ultra Ball PLF 122
+4 Rare Candy PLB 105
+2 Gwynn PBL 119
+2 Night Stretcher MEG 173
+4 Lillie's Determination MEG 169
+4 Buddy-Buddy Poffin MEG 167
+2 Hilda WHT 171
+2 Special Red Card CRI 113
+4 Poké Pad POR 113
+
+Energy: 2
+7 Basic {D} Energy MEE 15
+1 Neo Upper Energy TEF 162
+
+Total Cards: 60
