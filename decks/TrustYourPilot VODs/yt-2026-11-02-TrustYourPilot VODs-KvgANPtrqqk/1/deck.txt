@@ -1,0 +1,32 @@
+Pokémon: 14
+3 Golett DLR 46
+2 Mega Golurk ex DLR 47
+3 Dunsparce JTG 120
+3 Dudunsparce TEF 129
+2 Munkidori TWM 95
+1 Fezandipiti ex SFA 38
+
+Trainer: 37
+4 Lillie's Determination MEG 119
+3 Hilda WHT 84
+3 Boss's Orders MEG 114
+2 Aarune DLR 89
+2 Crispin SCR 133
+4 Poké Pad POR 81
+4 Ultra Ball MEG 131
+3 Buddy-Buddy Poffin TEF 144
+2 Wondrous Patch PFL 94
+2 Night Stretcher SFA 61
+1 Switch MEG 130
+2 Lucky Helmet TWM 158
+2 Legendary Pyroduct DLR 94
+2 Legendary Pyroduct DLR 95
+1 Gravity Mountain SSP 177
+
+Energy: 9
+4 Basic {P} Energy SVE 5
+2 Basic {P} Energy SVE 5
+2 Basic {D} Energy SVE 7
+1 Enriching Energy SSP 191
+
+Total Cards: 60

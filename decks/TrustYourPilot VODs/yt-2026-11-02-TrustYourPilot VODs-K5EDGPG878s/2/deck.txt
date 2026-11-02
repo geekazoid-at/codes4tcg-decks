@@ -1,0 +1,32 @@
+Pokémon: 18
+3 Mega Kangaskhan ex MEG 104
+2 Mega Rayquaza ex DLR 84
+2 Talonflame ex DLR 88
+2 Ethan's Ho-Oh ex DRI 39
+2 Meowth ex POR 62
+2 Terapagos ex SCR 128
+2 Latias ex SSP 76
+1 Fezandipiti ex ASC 142
+1 Bloodmoon Ursaluna ex TWM 141
+1 Chien-Pao SSP 56
+
+Trainer: 28
+3 Boss's Orders MEG 114
+2 Cyrano SSP 170
+2 Judge POR 76
+2 Crispin SCR 133
+1 Ciphermaniac's Codebreaking TEF 145
+1 AZ's Tranquility CRI 76
+4 Ultra Ball MEG 131
+4 Energy Switch MEG 115
+2 Adventure Lantern DLR 90
+2 Glass Trumpet SCR 135
+1 Special Red Card CRI 82
+1 Unfair Stamp TWM 165
+3 Area Zero Underdepths SCR 131
+
+Energy: 14
+9 Basic {R} Energy SVE 2
+5 Basic {L} Energy SVE 4
+
+Total Cards: 60
