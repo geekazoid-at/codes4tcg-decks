@@ -1,0 +1,28 @@
+Pokémon: 20
+4 Jangmo-o DLR 73
+2 Hakamo-o DLR 74
+4 Kommo-o DLR 75
+3 Dunsparce JTG 120
+2 Dudunsparce TEF 129
+2 Raging Bolt SCR 111
+2 Raging Bolt ex TEF 123
+1 Fezandipiti ex SFA 38
+
+Trainer: 24
+4 Lillie's Determination MEG 119
+2 Boss's Orders MEG 114
+2 Dawn PFL 87
+3 Buddy-Buddy Poffin TEF 144
+3 Rare Candy MEG 125
+3 Poké Pad POR 81
+2 Energy Recycler DRI 164
+2 Night Stretcher SFA 61
+1 Unfair Stamp TWM 165
+1 Air Balloon BLK 79
+1 Battle Cage PFL 85
+
+Energy: 16
+8 Basic {F} Energy SVE 6
+8 Basic {L} Energy SVE 4
+
+Total Cards: 60

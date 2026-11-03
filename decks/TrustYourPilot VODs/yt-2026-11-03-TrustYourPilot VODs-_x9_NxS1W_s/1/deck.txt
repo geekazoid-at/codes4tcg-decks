@@ -1,0 +1,27 @@
+Pokémon: 17
+4 Magmar DLR 20
+4 Magmortar DLR 21
+4 Electabuzz DLR 30
+4 Electivire DLR 31
+1 Fezandipiti ex SFA 38
+
+Trainer: 31
+4 Lillie's Determination MEG 119
+2 Iris's Fighting Spirit JTG 149
+2 Boss's Orders MEG 114
+2 Lana's Aid TWM 155
+4 Poké Pad POR 81
+4 Adventure Lantern DLR 90
+3 Ultra Ball MEG 131
+2 Energy Retrieval WHT 82
+2 Night Stretcher SFA 61
+1 Switch MEG 130
+1 Max Rod PRE 116
+2 Brave Bangle WHT 80
+2 Levincia JTG 150
+
+Energy: 12
+6 Basic {R} Energy SVE 2
+6 Basic {L} Energy SVE 4
+
+Total Cards: 60
