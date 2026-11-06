@@ -1,0 +1,34 @@
+Pokémon: 10
+1 Meowth ex POR 62
+2 Mega Charizard Y ex ASC 22
+2 Talonflame ex DLR 88
+1 Mega Charizard X ex PFL 13
+2 Latias ex SSP 76
+2 Oricorio ex PFL 18
+1 Fezandipiti ex ASC 142
+1 Charmeleon PFL 12
+4 Mega Kangaskhan ex MEG 104
+4 Charmander PFL 11
+
+Trainer: 14
+1 Night Stretcher ASC 196
+1 Lillie's Determination MEG 119
+1 Energy Retrieval SVI 171
+1 Jamming Tower TWM 153
+1 Battle Cage PFL 85
+3 Boss's Orders MEG 114
+1 Special Red Card CRI 82
+2 Cyrano SSP 170
+3 Switch MEG 130
+4 Ultra Ball MEG 131
+2 Judge POR 76
+1 Firebreather PFL 89
+4 Hilda WHT 84
+2 Rare Candy MEG 125
+
+Energy: 3
+4 Ignition Energy WHT 86
+8 Basic {R} Energy MEE 10
+1 Neo Upper Energy TEF 162
+
+Total Cards: 60

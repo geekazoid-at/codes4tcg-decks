@@ -1,0 +1,32 @@
+Pokémon: 7
+3 Mega Kangaskhan ex MEG 182
+1 Fezandipiti ex ASC 288
+1 Meowth ex POR 121
+2 Ethan's Ho-Oh ex DRI 230
+2 Talonflame ex DLR 88
+2 Mega Rayquaza ex DLR 84
+2 Latias ex SSP 239
+
+Trainer: 16
+3 Boss's Orders RCL 189
+2 Dusk Ball SSP 175
+2 Adventure Lantern DLR 90
+3 Crispin SCR 164
+1 Lillie's Determination MEG 169
+1 Adventure Lantern DLR 126
+3 Energy Switch PBL 107
+2 Legendary Pyroduct DLR 95
+1 Hero's Cape TEF 152
+2 Switch PFL 123
+1 Nighttime Mine ASC 197
+4 Ultra Ball PLF 122
+1 Night Stretcher MEG 173
+3 Judge LOT 209
+2 Legendary Pyroduct DLR 94
+2 Cyrano SSP 230
+
+Energy: 2
+5 Basic {L} Energy MEE 12
+9 Basic {R} Energy MEE 10
+
+Total Cards: 60
