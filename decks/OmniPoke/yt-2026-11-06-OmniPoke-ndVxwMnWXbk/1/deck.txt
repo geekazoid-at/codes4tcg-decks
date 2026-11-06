@@ -1,0 +1,29 @@
+Pokémon: 7
+2 Meowth ex POR 62
+3 Talonflame ex DLR 88
+2 Latias ex SSP 76
+1 Fezandipiti ex SFA 38
+2 Ethan's Ho-Oh ex ASC 26
+2 Mega Rayquaza ex DLR 84
+3 Mega Kangaskhan ex MEG 104
+
+Trainer: 13
+3 Boss's Orders ASC 183
+4 Energy Switch SVI 173
+4 Lillie's Determination ASC 192
+3 Crispin SCR 133
+1 Adventure Lantern DLR 90
+2 Legendary Pyroduct DLR 95
+2 Cyrano SSP 170
+2 Switch MEG 130
+2 Judge POR 76
+1 Adventure Lantern DLR 126
+1 Unfair Stamp TWM 165
+2 Legendary Pyroduct DLR 94
+4 Ultra Ball ASC 213
+
+Energy: 2
+5 Basic {L} Energy MEE 4
+9 Basic {R} Energy MEE 2
+
+Total Cards: 60
