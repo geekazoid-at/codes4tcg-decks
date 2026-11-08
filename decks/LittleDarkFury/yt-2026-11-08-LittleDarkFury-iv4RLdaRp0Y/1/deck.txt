@@ -1,0 +1,32 @@
+Pokémon: 9
+2 Mega Malamar ex DLR 69
+1 Fezandipiti ex ASC 288
+1 Mega Malamar ex DLR 123
+2 Toxel PFL 67
+2 Munkidori TWM 95
+1 Inkay DLR 68
+2 Pecharunt ex SFA 93
+2 Toxtricity PFL 68
+3 Inkay DLR 113
+
+Trainer: 15
+3 Boss's Orders RCL 189
+1 Iris's Fighting Spirit JTG 180
+4 Accompanying Flute TWM 142
+3 Team Rocket's Watchtower DRI 180
+1 Unfair Stamp TWM 165
+4 Lillie's Determination MEG 169
+1 Energy Switch PBL 107
+4 Buddy-Buddy Poffin MEG 167
+4 Ultra Ball PLF 122
+2 Binding Mochi SFA 55
+1 Night Stretcher MEG 173
+2 Judge LOT 209
+3 Poké Pad POR 113
+1 Special Red Card CRI 113
+1 Team Rocket's Petrel DRI 226
+
+Energy: 1
+9 Basic {D} Energy MEE 15
+
+Total Cards: 60
