@@ -1,0 +1,35 @@
+Pokémon: 10
+2 Dunsparce JTG 120
+2 Mega Golisopod ex DLR 135
+3 Munkidori SFA 72
+2 Dudunsparce PRE 80
+1 Mega Froslass ex ASC 275
+2 Snorunt ASC 227
+1 Budew ASC 221
+3 Wimpod DLR 10
+2 Froslass TWM 174
+1 Mega Golisopod ex DLR 11
+
+Trainer: 12
+3 Risky Ruins MEG 127
+2 Boss's Orders PAL 265
+2 Night Stretcher SSP 251
+2 Ultra Ball BRS 186
+4 Hilda WHT 171
+1 Special Red Card CRI 113
+4 Buddy-Buddy Poffin TWM 223
+1 Crispin PRE 171
+4 Poké Pad POR 113
+2 Pokégear 3.0 UNB 233
+4 Lillie's Determination MEG 184
+2 Wally's Compassion MEG 186
+
+Energy: 6
+3 Basic {D} Energy MEE 7
+1 Basic {G} Energy MEE 1
+1 Basic {W} Energy MEE 3
+3 Growing {G} Energy POR 86
+1 Ignition Energy WHT 86
+1 Legacy Energy TWM 167
+
+Total Cards: 60

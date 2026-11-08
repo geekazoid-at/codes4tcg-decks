@@ -1,0 +1,32 @@
+Pokémon: 8
+3 Team Rocket's Crobat ex DRI 242
+1 Wimpod DLR 10
+1 Munkidori SFA 72
+4 Team Rocket's Golbat DRI 121
+4 Team Rocket's Zubat DRI 120
+1 Team Rocket's Sneasel DRI 128
+2 Wimpod DLR 10
+3 Mega Golisopod ex DLR 11
+
+Trainer: 13
+2 Risky Ruins MEG 127
+1 Night Stretcher SSP 251
+3 Ultra Ball BRS 186
+2 Boss's Orders LOR-TG 24
+1 Air Balloon SSH 213
+4 Hilda WHT 171
+4 Buddy-Buddy Poffin TWM 223
+1 Secret Box TWM 163
+2 Team Rocket's Petrel DRI 226
+3 Poké Pad POR 113
+2 Lucky Helmet TWM 158
+4 Lillie's Determination MEG 184
+2 Wally's Compassion MEG 186
+
+Energy: 4
+2 Basic {D} Energy MEE 7
+1 Basic {G} Energy MEE 1
+4 Growing {G} Energy POR 86
+3 Team Rocket's Energy ASC 217
+
+Total Cards: 60
