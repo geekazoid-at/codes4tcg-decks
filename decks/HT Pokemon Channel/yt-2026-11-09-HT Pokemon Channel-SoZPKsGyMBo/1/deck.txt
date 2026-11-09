@@ -1,0 +1,27 @@
+Pokémon: 16
+3 Mega Rayquaza ex DLR 84
+3 Iono's Tadbulb ASC 69
+3 Iono's Bellibolt ex ASC 70
+3 Iono's Wattrel ASC 71
+3 Iono's Kilowattrel ASC 72
+1 Iono's Voltorb JTG 47
+
+Trainer: 29
+4 Buddy-Buddy Poffin ASC 184
+4 Ultra Ball ASC 213
+2 Adventure Lantern DLR 90
+2 Energy Switch MEG 115
+1 Night Stretcher ASC 196
+1 Unfair Stamp TWM 165
+1 Air Balloon ASC 181
+3 Levincia JTG 150
+4 Canari ASC 185
+3 Lillie's Determination ASC 192
+2 Boss's Orders ASC 183
+2 Crispin PRE 105
+
+Energy: 15
+12 Basic {L} Energy SVE 4
+3 Basic {R} Energy SVE 2
+
+Total Cards: 60
