@@ -1,0 +1,28 @@
+Pokémon: 7
+3 Iono's Wattrel JTG 54
+1 Meowth ex POR 107
+1 Iono's Voltorb JTG 47
+3 Iono's Tadbulb JTG 52
+3 Iono's Kilowattrel JTG 55
+3 Iono's Bellibolt ex JTG 53
+2 Mega Rayquaza ex DLR 84
+
+Trainer: 12
+4 Energy Switch SVI 173
+4 Ultra Ball ASC 264
+4 Canari ASC 257
+1 Night Stretcher MEG 173
+3 Boss's Orders PR-SW 251
+1 Air Balloon MEG 166
+3 Buddy-Buddy Poffin MEG 167
+1 Adventure Lantern DLR 126
+3 Levincia JTG 150
+1 Unfair Stamp TWM 165
+1 Energy Retrieval CRI 108
+2 Lillie's Determination MEG 184
+
+Energy: 2
+12 Basic {L} Energy SVE 12
+4 Basic {R} Energy SVE 10
+
+Total Cards: 60

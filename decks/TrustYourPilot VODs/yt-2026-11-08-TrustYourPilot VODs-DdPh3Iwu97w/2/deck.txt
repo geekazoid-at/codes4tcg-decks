@@ -1,0 +1,32 @@
+Pokémon: 9
+4 Kadabra MEG 55
+1 Shaymin DRI 10
+4 Abra MEG 54
+3 Dunsparce JTG 120
+3 Alakazam MEG 56
+1 Fezandipiti ex SFA 38
+3 Dudunsparce TEF 129
+2 Mega Golurk ex DLR 47
+2 Golett DLR 46
+
+Trainer: 13
+4 Buddy-Buddy Poffin TEF 144
+4 Poké Pad POR 81
+1 Lana's Aid TWM 155
+2 Gravity Mountain SSP 177
+1 Kieran TWM 154
+3 Boss's Orders MEG 114
+1 Night Stretcher SFA 61
+1 Morty's Conviction TEF 155
+3 Dawn PFL 87
+2 Wondrous Patch PFL 94
+1 Sacred Ash DRI 168
+4 Hilda WHT 84
+2 Rare Candy MEG 125
+
+Energy: 3
+3 Basic {P} Energy MEE 5
+1 Enriching Energy SSP 191
+4 Telepathic {P} Energy POR 88
+
+Total Cards: 60
