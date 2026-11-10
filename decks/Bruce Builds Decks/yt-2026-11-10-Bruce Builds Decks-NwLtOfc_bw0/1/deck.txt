@@ -1,0 +1,35 @@
+Pokémon: 20
+2 Dunsparce JTG 120
+1 Dunsparce PRE 79
+3 Dudunsparce PRE 80
+2 Zigzagoon PFL 81
+2 Linoone PFL 82
+2 Buneary PFL 83
+2 Mega Lopunny ex PFL 84
+2 Stufful MEG 111
+2 Bewear SFA 53
+1 Talonflame ex DLR 88
+1 Joltik SCR 50
+
+Trainer: 31
+4 Lillie's Determination MEG 119
+3 Aarune DLR 89
+2 Boss's Orders MEG 114
+2 Hilda WHT 84
+1 Wally's Compassion MEG 132
+4 Buddy-Buddy Poffin ASC 184
+3 Poké Pad ASC 198
+2 Ultra Ball MEG 131
+1 Sacred Ash POR 115
+2 Air Balloon BLK 79
+1 Brave Bangle WHT 80
+2 Legendary Summit DLR 97
+2 Legendary Summit DLR 96
+1 Neutralization Zone SFA 60
+1 Battle Cage PFL 85
+
+Energy: 9
+5 Basic {G} Energy SVE 1
+4 Basic {L} Energy SVE 4
+
+Total Cards: 60
