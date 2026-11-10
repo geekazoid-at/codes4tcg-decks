@@ -1,0 +1,36 @@
+Pokémon: 13
+1 Sableye DLR 60
+1 Seviper PFL 62
+2 Mega Malamar ex DLR 69
+2 Toxel PFL 67
+1 Chi-Yu PBL 59
+1 Lillie's Ribombee JTG 67
+1 Fezandipiti ex SFA 38
+2 Inkay DLR 68
+2 Toxtricity PFL 68
+1 Inkay PBL 51
+1 Lillie's Cutiefly JTG 66
+1 Meowth ex POR 62
+1 Pecharunt ex SFA 39
+
+Trainer: 15
+4 Accompanying Flute TWM 142
+2 Team Rocket's Watchtower DRI 180
+1 Unfair Stamp TWM 165
+3 Poké Pad POR 81
+1 Energy Recycler DRI 164
+2 Morty's Conviction TEF 155
+1 Night Stretcher ASC 196
+1 Judge POR 76
+2 Team Rocket's Petrel ASC 207
+4 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+1 Binding Mochi PRE 95
+4 Ultra Ball MEG 131
+1 Air Balloon ASC 181
+3 Boss's Orders MEG 114
+
+Energy: 1
+9 Basic {D} Energy MEE 7
+
+Total Cards: 60
