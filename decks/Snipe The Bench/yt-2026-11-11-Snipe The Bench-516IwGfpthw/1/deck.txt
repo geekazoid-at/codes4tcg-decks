@@ -1,0 +1,33 @@
+Pokémon: 8
+4 Litwick PBL 36
+1 Fezandipiti ex SFA 92
+2 Lampent TWM 37
+3 Chandelure TWM 38
+3 Mega Froslass ex ASC 47
+3 Snorunt ASC 227
+1 Budew ASC 221
+1 Shaymin DRI 185
+
+Trainer: 14
+3 Team Rocket's Watchtower DRI 180
+4 Lillie's Determination MEG 184
+2 Hilda WHT 164
+1 Air Balloon MEG 166
+4 Buddy-Buddy Poffin MEG 167
+3 Boss's Orders PR-SW 251
+1 Night Stretcher MEG 173
+3 Lucian TWM 157
+3 Rare Candy MEG 175
+1 Wally's Compassion MEG 176
+3 Poké Pad POR 113
+1 Handheld Fan TWM 150
+1 Dawn PFL 118
+3 Ultra Ball ASC 264
+
+Energy: 4
+3 Basic {R} Energy SVE 10
+1 Legacy Energy TWM 167
+3 Bubbly {W} Energy CRI 84
+2 Basic {W} Energy SVE 11
+
+Total Cards: 60
