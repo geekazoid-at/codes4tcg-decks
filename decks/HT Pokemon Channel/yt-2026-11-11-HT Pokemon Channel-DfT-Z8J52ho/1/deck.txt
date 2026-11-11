@@ -1,0 +1,24 @@
+Pokémon: 18
+4 Swinub JTG 77
+2 Piloswine JTG 78
+4 Mamoswine ex JTG 79
+4 Talonflame ex DLR 88
+4 Mega Audino ex ASC 172
+
+Trainer: 32
+4 Buddy-Buddy Poffin ASC 184
+4 Ultra Ball ASC 213
+4 Rare Candy MEG 125
+4 Fighting Gong ASC 187
+2 Premium Power Pro ASC 199
+2 Pokégear 3.0 BLK 84
+1 Unfair Stamp TWM 165
+2 Air Balloon ASC 181
+4 Lillie's Determination ASC 192
+3 Boss's Orders ASC 183
+2 Zinnia's Trust DLR 103
+
+Energy: 10
+10 Basic {F} Energy SVE 6
+
+Total Cards: 60

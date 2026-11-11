@@ -1,0 +1,28 @@
+Pokémon: 17
+4 Inkay DLR 68
+3 Mega Malamar ex DLR 69
+2 Toxel PFL 67
+2 Toxtricity PFL 68
+2 Sableye DLR 60
+2 Munkidori TWM 95
+1 Meowth ex POR 62
+1 Fezandipiti ex ASC 142
+
+Trainer: 33
+4 Lillie's Determination MEG 119
+3 Boss's Orders MEG 114
+2 Emcee's Hype DLR 92
+1 Team Rocket's Petrel DRI 176
+4 Ultra Ball MEG 131
+4 Buddy-Buddy Poffin TEF 144
+4 Poké Pad POR 81
+4 Accompanying Flute TWM 142
+2 Night Stretcher ASC 196
+1 Unfair Stamp TWM 165
+2 Air Balloon ASC 181
+2 Risky Ruins MEG 127
+
+Energy: 10
+10 Basic {D} Energy SVE 7
+
+Total Cards: 60

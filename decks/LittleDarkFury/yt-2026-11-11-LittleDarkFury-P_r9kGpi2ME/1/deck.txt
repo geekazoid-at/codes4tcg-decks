@@ -1,0 +1,28 @@
+Pokémon: 6
+3 Iono's Kilowattrel JTG 55
+2 Iono's Voltorb JTG 47
+3 Iono's Bellibolt ex ASC 279
+2 Mega Rayquaza ex DLR 138
+3 Iono's Wattrel JTG 54
+3 Iono's Tadbulb JTG 52
+
+Trainer: 13
+2 Boss's Orders RCL 189
+1 Judge PAF 228
+1 Unfair Stamp TWM 165
+4 Lillie's Determination MEG 169
+3 Energy Switch PBL 107
+1 Air Balloon MEG 166
+4 Buddy-Buddy Poffin MEG 167
+1 Energy Retrieval CRI 108
+3 Ultra Ball PLF 122
+1 Night Stretcher MEG 173
+1 Poké Pad POR 113
+3 Canari ASC 291
+3 Levincia DRI 244
+
+Energy: 2
+13 Basic {L} Energy MEE 12
+3 Basic {R} Energy MEE 10
+
+Total Cards: 60
