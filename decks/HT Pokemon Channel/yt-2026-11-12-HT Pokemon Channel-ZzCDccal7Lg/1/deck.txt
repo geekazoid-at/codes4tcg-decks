@@ -1,0 +1,26 @@
+Pokémon: 20
+2 Raging Bolt ex TEF 123
+2 Raging Bolt SCR 111
+4 Jangmo-o 30C 110
+1 Hakamo-o DLR 74
+4 Kommo-o DLR 75
+3 Dunsparce JTG 120
+2 Dudunsparce PRE 80
+1 Latias ex SSP 76
+1 Budew ASC 16
+
+Trainer: 24
+4 Buddy-Buddy Poffin ASC 184
+4 Poké Pad POR 81
+4 Rare Candy MEG 125
+1 Night Stretcher ASC 196
+1 Unfair Stamp TWM 165
+4 Dawn PFL 87
+4 Lillie's Determination ASC 192
+2 Boss's Orders ASC 183
+
+Energy: 16
+8 Basic {L} Energy SVE 4
+8 Basic {F} Energy SVE 6
+
+Total Cards: 60
