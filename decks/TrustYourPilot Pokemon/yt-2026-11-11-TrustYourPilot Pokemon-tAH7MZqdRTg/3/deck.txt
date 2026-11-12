@@ -1,0 +1,30 @@
+Pokémon: 10
+2 Frillish DLR 27
+4 Combee DLR 6
+4 Surskit DLR 2
+4 Masquerain DLR 3
+1 Fezandipiti ex SFA 38
+4 Sizzlipede PBL 9
+4 Spinarak DLR 58
+2 Jellicent DLR 28
+1 Rellor TEF 23
+1 Rabsca TEF 24
+
+Trainer: 11
+1 Forest of Vitality MEG 117
+1 Energy Retrieval WHT 82
+4 Bug Catching Set TWM 143
+4 Poké Pad POR 81
+1 Air Balloon BLK 79
+3 Sacred Ash DRI 168
+1 Lana's Aid TWM 155
+1 Lucian TWM 157
+4 Gwynn PBL 78
+4 Lillie's Determination MEG 119
+2 Boss's Orders MEG 114
+
+Energy: 2
+1 Legacy Energy TWM 167
+6 Basic {G} Energy MEE 1
+
+Total Cards: 60

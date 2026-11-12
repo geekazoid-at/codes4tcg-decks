@@ -1,0 +1,35 @@
+Pokémon: 9
+1 Grubbin TEF 18
+1 Fezandipiti ex ASC 288
+1 Raikou ex DLR 121
+4 Vikavolt PBL 26
+2 Charjabug SCR 52
+3 Grubbin TEF 18
+2 Raikou ex DLR 136
+1 Azurill DLR 115
+1 Shaymin DRI 185
+
+Trainer: 16
+3 Buddy-Buddy Poffin TWM 223
+2 Hassel TWM 205
+4 Lillie's Determination MEG 184
+2 N's Plan BLK 170
+3 Rare Candy GRI 165
+2 Brave Bangle PBL 104
+2 Boss's Orders LOR-TG 24
+2 Gravity Mountain SSP 250
+2 Night Stretcher SSP 251
+3 Hilda WHT 171
+1 Ultra Ball BRS 186
+2 Poké Pad POR 113
+2 Canari ASC 291
+1 Brave Bangle WHT 80
+1 Team Rocket's Petrel DRI 226
+1 Air Balloon SSH 213
+
+Energy: 3
+4 Voltaic {L} Energy PBL 84
+1 Legacy Energy TWM 167
+6 Basic {L} Energy MEE 4
+
+Total Cards: 60
