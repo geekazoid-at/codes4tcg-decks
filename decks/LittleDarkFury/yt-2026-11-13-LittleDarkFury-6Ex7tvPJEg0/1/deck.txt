@@ -1,0 +1,33 @@
+Pokémon: 9
+1 Riolu MEG 76
+1 Fezandipiti ex ASC 288
+2 Barbaracle POR 43
+2 Lunatone MEG 74
+2 Groudon DLR 53
+1 Bloodmoon Ursaluna SFA 25
+3 Solrock MEG 75
+1 Mega Lucario ex MEP 33
+2 Binacle POR 42
+
+Trainer: 15
+2 Boss's Orders RCL 189
+1 Legendary Trench DLR 99
+4 Fighting Gong MEG 168
+4 Lillie's Determination MEG 169
+2 Aarune DLR 125
+2 Air Balloon MEG 166
+2 Legendary Pyroduct DLR 95
+1 Energy Retrieval CRI 108
+1 Maximum Belt TEF 154
+2 Night Stretcher MEG 173
+1 Legendary Trench DLR 98
+4 Premium Power Pro MEG 174
+2 Legendary Pyroduct DLR 94
+4 Poké Pad POR 113
+2 Tarragon POR 116
+
+Energy: 2
+10 Basic {F} Energy MEE 14
+1 Rocky {F} Energy POR 87
+
+Total Cards: 60

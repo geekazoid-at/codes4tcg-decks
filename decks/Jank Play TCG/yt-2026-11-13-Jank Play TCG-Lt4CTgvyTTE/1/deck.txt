@@ -1,0 +1,31 @@
+Pokémon: 8
+2 Dunsparce JTG 120
+3 Enamorus DLR 110
+2 Latias ex SSP 239
+4 Tornadus DLR 85
+2 Thundurus DLR 35
+1 Lillie's Clefairy ex ASC 280
+2 Dudunsparce PRE 80
+2 Landorus DLR 54
+
+Trainer: 12
+3 Battle Cage PFL 116
+2 Ultra Ball ASC 264
+2 Black Belt's Training ASC 255
+4 Night Stretcher MEG 173
+2 Energy Search POR 72
+2 Boss's Orders LOR-TG 24
+2 Brave Bangle PBL 104
+4 Team Rocket's Petrel DRI 226
+4 Poké Pad POR 113
+1 Precious Trolley SSP 185
+4 Lillie's Determination MEG 184
+3 Wondrous Patch POR 117
+
+Energy: 4
+3 Basic {P} Energy MEE 5
+2 Basic {L} Energy MEE 4
+2 Basic {F} Energy MEE 6
+2 Telepathic {P} Energy POR 88
+
+Total Cards: 60
