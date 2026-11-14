@@ -1,0 +1,30 @@
+Pokémon: 8
+4 Drilbur PBL 46
+1 Metagross CRI 61
+1 Fezandipiti ex SFA 92
+2 Mega Excadrill ex PBL 103
+1 Mega Skarmory ex POR 106
+2 Genesect ex BLK 169
+4 Metang TEF 114
+4 Beldum CRI 59
+
+Trainer: 14
+1 Boss's Orders RCL 189
+1 Team Rocket's Watchtower DRI 180
+2 Legendary Trench DLR 99
+1 Precious Trolley SSP 185
+2 Aarune DLR 125
+1 Buddy-Buddy Poffin MEG 167
+1 Energy Recycler POR 108
+3 Jumbo Ice Cream CRI 109
+4 Pokégear 3.0 UNB 233
+2 Legendary Trench DLR 98
+1 Aarune DLR 139
+1 Special Red Card CRI 113
+4 Team Rocket's Petrel DRI 226
+1 Team Rocket's Transceiver ASC 263
+
+Energy: 1
+16 Basic {M} Energy MEE 16
+
+Total Cards: 60
