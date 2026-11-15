@@ -1,0 +1,32 @@
+Pokémon: 25
+4 Duskull PRE 35
+2 Dusclops PRE 36
+4 Dusknoir PRE 37
+4 Talonflame ex DLR 88
+4 Mega Kangaskhan ex MEG 104
+3 Latias ex SSP 76
+2 Meowth ex POR 62
+1 Bloodmoon Ursaluna ex TWM 141
+1 Fezandipiti ex ASC 142
+
+Trainer: 30
+3 Hilda WHT 84
+2 Boss's Orders MEG 114
+2 Dawn PFL 87
+1 Ciphermaniac's Codebreaking TEF 145
+1 Black Belt's Training JTG 143
+1 Acerola's Mischief MEG 113
+1 Judge POR 76
+4 Ultra Ball MEG 131
+4 Rare Candy MEG 125
+4 Dusk Ball SSP 175
+2 Buddy-Buddy Poffin TEF 144
+2 Special Red Card CRI 82
+1 Switch MEG 130
+2 Jamming Tower TWM 153
+
+Energy: 5
+4 Ignition Energy WHT 86
+1 Neo Upper Energy TEF 162
+
+Total Cards: 60
