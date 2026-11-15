@@ -1,0 +1,33 @@
+Pokémon: 10
+1 Mew ex 30C 66
+1 Psyduck ASC 39
+3 Buneary PFL 83
+3 Dunsparce JTG 120
+1 Dudunsparce ex JTG 121
+2 Cacnea DLR 4
+2 Cacturne DLR 5
+3 Dudunsparce TEF 129
+1 Fan Rotom SCR 118
+3 Mega Lopunny ex PFL 84
+
+Trainer: 13
+2 Air Balloon ASC 181
+4 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+4 Poké Pad POR 81
+3 Battle Cage PFL 85
+2 Boss's Orders MEG 114
+1 Special Red Card CRI 82
+1 Zinnia's Trust DLR 103
+3 Ultra Ball MEG 131
+2 Wally's Compassion MEG 132
+2 Pokégear 3.0 SVI 186
+2 Pokémon Catcher POR 82
+3 Hilda WHT 84
+
+Energy: 3
+3 Mist Energy TEF 161
+1 Enriching Energy SSP 191
+3 Growing {G} Energy POR 86
+
+Total Cards: 60
