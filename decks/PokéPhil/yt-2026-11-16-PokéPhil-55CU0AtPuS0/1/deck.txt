@@ -1,0 +1,34 @@
+Pokémon: 7
+4 Wimpod DLR 10
+3 Munkidori SFA 72
+2 Maractus JTG 160
+1 Cacturne DLR 5
+2 Mega Golisopod ex DLR 11
+1 Cacnea DLR 4
+1 Mega Golisopod ex DLR 118
+
+Trainer: 15
+4 Lillie's Determination MEG 184
+4 Wally's Compassion MEG 186
+1 Unfair Stamp TWM 165
+2 Judge SIT-TG 25
+1 Air Balloon MEG 166
+3 Buddy-Buddy Poffin MEG 167
+2 Forest of Vitality POR 109
+2 Dawn PFL 129
+2 Bug Catching Set PRE 102
+2 Night Stretcher MEG 173
+2 Hilda WHT 171
+2 Boss's Orders RCL 200
+3 Poké Pad POR 113
+1 Xerosic's Machinations SFA 89
+2 Ultra Ball ASC 264
+
+Energy: 5
+1 Prism Energy ASC 216
+2 Growing {G} Energy POR 86
+4 Basic {D} Energy MEE 7
+5 Basic {G} Energy MEE 1
+1 Ignition Energy WHT 86
+
+Total Cards: 60
