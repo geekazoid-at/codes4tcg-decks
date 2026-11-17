@@ -1,0 +1,38 @@
+Pokémon: 13
+1 Chien-Pao SSP 56
+4 Mega Kangaskhan ex MEG 182
+1 Fezandipiti ex ASC 288
+2 Talonflame ex DLR 124
+1 Iron Leaves ex TEF 203
+1 Pecharunt PR-SV 149
+2 Meowth ex POR 121
+1 Tapu Koko ex JTG 51
+1 Wellspring Mask Ogerpon ex TWM 213
+1 Koraidon ex ASC 121
+3 Teal Mask Ogerpon ex TWM 211
+2 Lillie's Clefairy ex JTG 173
+2 Latias ex SSP 239
+
+Trainer: 13
+3 Boss's Orders RCL 189
+2 Crispin SCR 164
+1 Unfair Stamp TWM 165
+3 Lillie's Determination MEG 169
+1 Ciphermaniac's Codebreaking TEF 198
+4 Energy Switch PBL 107
+1 Legendary Pyroduct DLR 95
+4 Ultra Ball PLF 122
+1 Night Stretcher MEG 173
+3 Area Zero Underdepths SCR 174
+1 Judge DRI 222
+1 Legendary Pyroduct DLR 94
+1 Cyrano SSP 230
+
+Energy: 5
+1 Basic {L} Energy MEE 12
+2 Prism Energy ASC 216
+1 Basic {D} Energy MEE 15
+2 Basic {P} Energy MEE 13
+6 Basic {G} Energy MEE 9
+
+Total Cards: 60
