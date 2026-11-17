@@ -1,0 +1,33 @@
+Pokémon: 14
+3 Axew BLK 68
+3 Fraxure SFA 45
+2 Haxorus BLK 70
+1 Haxorus SFA 46
+2 Dwebble DRI 11
+2 Crustle DRI 12
+1 Cornerstone Mask Ogerpon ex TWM 112
+
+Trainer: 33
+3 Lillie's Determination MEG 119
+3 Boss's Orders MEG 114
+2 Colress's Tenacity SFA 57
+2 Hilda WHT 84
+2 Xerosic's Machinations SFA 64
+1 Bianca's Devotion TEF 142
+1 Morty's Conviction TEF 155
+4 Poké Pad ASC 198
+4 Buddy-Buddy Poffin ASC 184
+3 Pokégear 3.0 SVI 186
+2 Switch SVI 194
+1 Night Stretcher ASC 196
+1 Jumbo Ice Cream PFL 91
+4 Battle Cage PFL 85
+
+Energy: 13
+4 Basic {F} Energy SVE 6
+3 Basic {M} Energy SVE 8
+3 Basic {G} Energy SVE 1
+2 Mist Energy TEF 161
+1 Legacy Energy TWM 167
+
+Total Cards: 60
