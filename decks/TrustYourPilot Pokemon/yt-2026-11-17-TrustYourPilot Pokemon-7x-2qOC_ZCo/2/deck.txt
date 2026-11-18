@@ -1,0 +1,36 @@
+Pokémon: 10
+1 Latias ex SSP 76
+1 Bloodmoon Ursaluna ex TWM 141
+3 Tornadus DLR 85
+3 Thundurus DLR 35
+1 Fezandipiti ex SFA 38
+3 Enamorus DLR 48
+1 Lillie's Clefairy ex JTG 56
+3 Landorus DLR 54
+1 Shaymin DRI 10
+1 Moltres PFL 14
+
+Trainer: 16
+1 Brock's Scouting JTG 146
+2 Battle Cage PFL 85
+1 Prime Catcher TEF 157
+3 Pokégear 3.0 SVI 186
+2 Premium Power Pro MEG 124
+4 Poké Pad ASC 198
+2 Night Stretcher ASC 196
+1 Air Balloon BLK 79
+1 Judge POR 76
+1 Sacred Ash DRI 168
+1 Black Belt's Training ASC 255
+2 Wondrous Patch PFL 94
+2 Brave Bangle WHT 80
+4 Lillie's Determination MEG 119
+3 Ultra Ball MEG 131
+3 Boss's Orders MEG 114
+
+Energy: 3
+2 Voltaic {L} Energy PBL 84
+4 Prism Energy BLK 86
+3 Basic {P} Energy MEE 5
+
+Total Cards: 60
