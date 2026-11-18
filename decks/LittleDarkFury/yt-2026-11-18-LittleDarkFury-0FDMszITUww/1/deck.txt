@@ -1,0 +1,37 @@
+Pokémon: 11
+1 Azurill DLR 80
+3 Sprigatito DLR 12
+3 Snorunt ASC 46
+1 Munkidori SFA 72
+1 Fezandipiti ex ASC 288
+1 Meowth ex POR 121
+3 Floragato JTG 17
+1 Mega Froslass ex ASC 275
+2 Froslass TWM 53
+1 Budew ASC 221
+3 Meowscarada ex DLR 14
+
+Trainer: 13
+2 Boss's Orders RCL 189
+2 Bug Catching Set TWM 143
+4 Lillie's Determination MEG 169
+1 Air Balloon MEG 166
+3 Buddy-Buddy Poffin MEG 167
+4 Forest of Vitality POR 109
+2 Dawn PFL 129
+3 Ultra Ball PLF 122
+2 Night Stretcher MEG 173
+2 Hilda WHT 171
+2 Gwynn PBL 119
+3 Poké Pad POR 113
+1 Special Red Card CRI 113
+
+Energy: 6
+2 Growing {G} Energy POR 86
+1 Basic {D} Energy MEE 15
+2 Basic {G} Energy MEE 9
+2 Growing {G} Energy DLR 133
+1 Basic {W} Energy MEE 11
+1 Neo Upper Energy TEF 162
+
+Total Cards: 60
