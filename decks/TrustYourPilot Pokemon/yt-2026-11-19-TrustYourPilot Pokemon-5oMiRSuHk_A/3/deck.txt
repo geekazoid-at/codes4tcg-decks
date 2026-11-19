@@ -1,0 +1,30 @@
+Pokémon: 8
+1 Meowth ex POR 62
+1 Mega Eelektross ex ASC 61
+4 Raikou ex DLR 33
+3 Eelektrik BLK 31
+1 Fezandipiti ex SFA 38
+2 Electrike PBL 23
+3 Tynamo BLK 30
+2 Mega Manectric ex MEG 50
+
+Trainer: 12
+3 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+3 Poké Pad POR 81
+2 Air Balloon BLK 79
+2 Battle Cage PFL 85
+3 Boss's Orders MEG 114
+1 Special Red Card CRI 82
+2 Night Stretcher SFA 61
+1 Switch MEG 130
+4 Ultra Ball MEG 131
+2 Pokémon Catcher POR 82
+4 Carmine TWM 145
+
+Energy: 3
+8 Basic {L} Energy MEE 4
+3 Voltaic {L} Energy PBL 84
+1 Legacy Energy TWM 167
+
+Total Cards: 60

@@ -1,0 +1,34 @@
+Pokémon: 10
+1 Azurill DLR 80
+1 Manectric PBL 24
+3 Eelektrik BLK 31
+2 Mega Manectric ex MEG 50
+2 Raikou ex DLR 33
+1 Fezandipiti ex SFA 38
+1 Mega Eelektross ex ASC 61
+2 Electrike PBL 23
+3 Tynamo BLK 30
+1 Meowth ex POR 62
+
+Trainer: 15
+4 Carmine TWM 145
+2 Poké Pad POR 81
+1 Battle Cage PFL 85
+1 Prime Catcher TEF 157
+2 Night Stretcher SFA 61
+1 Prism Tower CRI 80
+2 Air Balloon BLK 79
+1 Judge POR 76
+2 Pokémon Catcher POR 82
+3 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+1 Canari ASC 185
+1 Switch MEG 130
+4 Ultra Ball MEG 131
+2 Boss's Orders MEG 114
+
+Energy: 2
+4 Voltaic {L} Energy PBL 84
+8 Basic {L} Energy MEE 4
+
+Total Cards: 60
