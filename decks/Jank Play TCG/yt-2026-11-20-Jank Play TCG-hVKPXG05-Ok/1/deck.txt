@@ -1,0 +1,26 @@
+Pokémon: 6
+3 Mega Golisopod ex DLR 135
+4 Poltchageist PBL 5
+4 Sinistcha PBL 6
+4 Banette PBL 34
+3 Wimpod DLR 10
+1 Yveltal 30C 100
+
+Trainer: 11
+4 Risky Ruins MEG 127
+4 Ultra Ball ASC 264
+4 Gwynn PBL 119
+2 Night Stretcher MEG 173
+3 Boss's Orders LOR-TG 24
+3 Hilda WHT 171
+2 Buddy-Buddy Poffin TWM 223
+1 Secret Box TWM 163
+3 Pokégear 3.0 UNB 233
+4 Lillie's Determination MEG 184
+3 Wally's Compassion MEG 186
+
+Energy: 2
+4 Basic {G} Energy MEE 1
+4 Growing {G} Energy POR 86
+
+Total Cards: 60

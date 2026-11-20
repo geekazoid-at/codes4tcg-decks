@@ -1,0 +1,29 @@
+Pokémon: 8
+4 Spinarak DLR 58
+3 Jellicent DLR 28
+1 Fezandipiti ex ASC 288
+4 Combee DLR 6
+4 Surskit DLR 2
+4 Masquerain DLR 3
+3 Frillish DLR 27
+3 Sizzlipede PBL 9
+
+Trainer: 13
+1 Forest of Vitality POR 109
+3 Night Stretcher MEG 173
+3 Lillie's Determination MEG 169
+2 Air Balloon MEG 166
+4 Buddy-Buddy Poffin MEG 167
+1 Hilda WHT 171
+4 Kofu SCR 165
+1 Max Rod PRE 116
+4 Poké Pad POR 113
+2 Lana's Aid TWM 207
+1 Bug Catching Set TWM 143
+2 Boss's Orders RCL 189
+1 Lucian TWM 208
+
+Energy: 1
+5 Basic {G} Energy MEE 9
+
+Total Cards: 60
