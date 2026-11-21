@@ -1,0 +1,38 @@
+Pokémon: 13
+1 Shaymin DRI 10
+1 Azurill DLR 80
+3 Floragato DLR 13
+1 Dusclops SFA 19
+3 Sprigatito DLR 12
+3 Dunsparce JTG 120
+1 Dudunsparce ex JTG 121
+2 Duskull SFA 18
+2 Dudunsparce TEF 129
+1 Budew PRE 4
+1 Emolga TWM 69
+2 Meowscarada ex DLR 14
+1 Dusknoir SFA 20
+
+Trainer: 15
+1 Iris's Fighting Spirit JTG 149
+4 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+1 Rosa's Encouragement POR 84
+3 Poké Pad POR 81
+2 Air Balloon BLK 79
+2 Boss's Orders MEG 114
+1 Special Red Card CRI 82
+2 Forest of Vitality MEG 117
+2 Night Stretcher SFA 61
+2 Ultra Ball MEG 131
+1 Judge POR 76
+1 Dawn PFL 87
+2 Bug Catching Set TWM 143
+2 Rare Candy MEG 125
+
+Energy: 3
+5 Basic {G} Energy MEE 1
+2 Growing {G} Energy POR 86
+1 Neo Upper Energy TEF 162
+
+Total Cards: 60

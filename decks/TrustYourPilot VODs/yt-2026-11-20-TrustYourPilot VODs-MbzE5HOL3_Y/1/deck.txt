@@ -1,0 +1,41 @@
+Pokémon: 12
+1 Azurill DLR 80
+1 Emolga TWM 69
+3 Sprigatito DLR 12
+3 Snorunt ASC 46
+1 Munkidori TWM 95
+3 Floragato DLR 13
+1 Fezandipiti ex SFA 38
+1 Mega Froslass ex ASC 47
+2 Froslass TWM 53
+1 Budew PRE 4
+2 Meowscarada ex DLR 14
+1 Glalie TWM 52
+
+Trainer: 18
+2 Forest of Vitality MEG 117
+2 Bug Catching Set TWM 143
+1 Aarune DLR 89
+1 Iris's Fighting Spirit JTG 149
+3 Poké Pad POR 81
+1 Zinnia's Trust DLR 103
+1 Morty's Conviction TEF 155
+2 Pokégear 3.0 SVI 186
+2 Night Stretcher SFA 61
+1 Rare Candy MEG 125
+1 Rosa's Encouragement POR 84
+1 Air Balloon BLK 79
+1 Judge POR 76
+1 Crispin SCR 133
+4 Buddy-Buddy Poffin TEF 144
+4 Lillie's Determination MEG 119
+2 Ultra Ball MEG 131
+2 Boss's Orders MEG 114
+
+Energy: 4
+1 Basic {D} Energy MEE 7
+4 Basic {G} Energy MEE 1
+2 Basic {W} Energy MEE 3
+1 Neo Upper Energy TEF 162
+
+Total Cards: 60
